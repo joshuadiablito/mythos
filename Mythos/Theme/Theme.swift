@@ -4,7 +4,7 @@ import SwiftUI
 /// note (apricot) for vocabulary, on a quiet paper background that gives
 /// Liquid Glass something soft to refract.
 enum Theme {
-    static let accent = Color(light: 0x2E5BD8, dark: 0x7EA2FF)
+    static let accent = Color(light: 0x2E5BD8, dark: 0x4F7DF5)
     static let warm = Color(light: 0xD9773A, dark: 0xF2B27E)
     static let paper = Color(light: 0xF6F4EF, dark: 0x0D1117)
     static let card = Color(light: 0xFFFFFF, dark: 0x171C25)

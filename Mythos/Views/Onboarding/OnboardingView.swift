@@ -110,26 +110,47 @@ private struct StepHeader: View {
 
 private struct WelcomeStep: View {
     @State private var greeting = 0
+    @State private var float = false
     private let timer = Timer.publish(every: 1.8, on: .main, in: .common).autoconnect()
 
+    /// Three first stories, in three languages, fanned out like books on a table.
+    private var covers: [Story] {
+        ["fr-a1-04", "el-a1-03", "es-a2-01"].compactMap { Catalog.shared.story(id: $0) }
+    }
+
     var body: some View {
-        VStack(spacing: 28) {
-            Spacer(minLength: 40)
-            Text("μυ")
-                .font(.system(size: 76, weight: .bold, design: .serif))
-                .foregroundStyle(.white)
-                .frame(width: 148, height: 148)
-                .background(
-                    LinearGradient(colors: [Color(light: 0x5B8CFF, dark: 0x5B8CFF), Theme.accent, Color(light: 0x1B3A9C, dark: 0x1B3A9C)],
-                                   startPoint: .topLeading, endPoint: .bottomTrailing),
-                    in: .rect(cornerRadius: 36, style: .continuous))
-                .glassEffect(.regular, in: .rect(cornerRadius: 36, style: .continuous))
-                .shadow(color: Theme.accent.opacity(0.35), radius: 30, y: 14)
-                .accessibilityHidden(true)
+        VStack(spacing: 30) {
+            Spacer(minLength: 20)
+            ZStack {
+                ForEach(Array(covers.enumerated()), id: \.element.id) { index, story in
+                    let angle = Double(index - 1) * 11
+                    StoryCover(story: story, symbolScale: 1.1)
+                        .frame(width: 150, height: 200)
+                        .overlay(alignment: .bottomLeading) {
+                            // Only the front cover carries a title; the others are half hidden.
+                            if index == 1 {
+                                Text(story.title)
+                                    .font(.system(.subheadline, design: .serif, weight: .bold))
+                                    .foregroundStyle(.white)
+                                    .padding(12)
+                            }
+                        }
+                        .clipShape(.rect(cornerRadius: 20, style: .continuous))
+                        .shadow(color: CoverPalette.forTopic(story.topic).deep.opacity(0.35), radius: 18, y: 12)
+                        .rotationEffect(.degrees(angle), anchor: .bottom)
+                        .scaleEffect(index == 1 ? 1 : 0.9)
+                        .offset(x: CGFloat(index - 1) * 84, y: index == 1 ? -14 : 10)
+                        .offset(y: float ? (index == 1 ? -6 : 4) : 0)
+                        .zIndex(index == 1 ? 1 : 0)
+                }
+            }
+            .frame(height: 250)
+            .animation(.easeInOut(duration: 3).repeatForever(autoreverses: true), value: float)
+            .accessibilityHidden(true)
 
             VStack(spacing: 12) {
                 Text("Mythos")
-                    .font(.system(size: 44, weight: .bold, design: .serif))
+                    .font(.system(size: 52, weight: .bold, design: .serif))
                 Text(Language.allCases[greeting].greeting)
                     .font(.system(.title2, design: .serif))
                     .italic()
@@ -145,6 +166,7 @@ private struct WelcomeStep: View {
             }
             Spacer()
         }
+        .onAppear { float = true }
         .onReceive(timer) { _ in
             withAnimation(.easeInOut(duration: 0.6)) { greeting = (greeting + 1) % Language.allCases.count }
         }

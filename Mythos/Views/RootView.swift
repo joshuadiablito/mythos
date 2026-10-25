@@ -21,8 +21,17 @@ struct RootView: View {
             }
         }
         .tabBarMinimizeBehavior(.onScrollDown)
-        .fullScreenCover(isPresented: .constant(!settings.hasOnboarded)) {
+        .fullScreenCover(isPresented: .constant(!settings.hasOnboarded || Self.forceOnboarding)) {
             OnboardingView()
         }
+    }
+
+    /// `-onboarding YES` shows onboarding over existing settings, for screenshots.
+    private static var forceOnboarding: Bool {
+        #if DEBUG
+        UserDefaults.standard.bool(forKey: "onboarding")
+        #else
+        false
+        #endif
     }
 }
