@@ -1,0 +1,322 @@
+{
+  "language": "fr",
+  "level": "A2",
+  "stories": [
+    {
+      "id": "fr-a2-01",
+      "title": "Une semaine à la mer",
+      "subtitle": "A week by the sea",
+      "topic": "Travel",
+      "symbol": "beach.umbrella.fill",
+      "paragraphs": [
+        "L'été dernier, Margaux et son copain sont partis une semaine à Biarritz. Ils ont loué un petit studio à cinq minutes de la plage. Le premier jour, il a fait très chaud, alors ils sont restés à l'ombre sous un parasol.",
+        "Le reste de la semaine, ils ont nagé, ils ont fait du surf et ils ont mangé des fruits de mer. Un soir, ils ont regardé le coucher de soleil sur l'océan. Margaux a pris beaucoup de photos. « On revient l'année prochaine ? » a-t-elle demandé. Son copain a dit oui tout de suite."
+      ],
+      "vocab": [
+        { "word": "copain", "gloss": "boyfriend" },
+        { "word": "ont loué", "gloss": "rented" },
+        { "word": "plage", "gloss": "beach" },
+        { "word": "l'ombre", "gloss": "the shade" },
+        { "word": "ont nagé", "gloss": "swam" },
+        { "word": "fruits de mer", "gloss": "seafood" },
+        { "word": "coucher de soleil", "gloss": "sunset" },
+        { "word": "tout de suite", "gloss": "straight away" }
+      ]
+    },
+    {
+      "id": "fr-a2-02",
+      "title": "La clé perdue",
+      "subtitle": "The lost key",
+      "topic": "Everyday life",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Hier soir, Romain est rentré du travail très tard. Devant sa porte, il a cherché sa clé dans son sac, puis dans ses poches. Rien ! Il a eu peur : où est-ce qu'il l'avait laissée ?",
+        "Il a appelé sa voisine, Madame Petit, parce qu'elle a un double des clés. Malheureusement, elle ne répondait pas. Romain s'est assis dans l'escalier, fatigué. Tout à coup, il a vu quelque chose briller sous le paillasson. C'était sa clé ! Le matin, il l'avait cachée là pour son frère, et il avait oublié."
+      ],
+      "vocab": [
+        { "word": "a cherché", "gloss": "looked for" },
+        { "word": "poches", "gloss": "pockets" },
+        { "word": "a eu peur", "gloss": "got scared" },
+        { "word": "un double", "gloss": "a spare (copy)" },
+        { "word": "malheureusement", "gloss": "unfortunately" },
+        { "word": "tout à coup", "gloss": "suddenly" },
+        { "word": "paillasson", "gloss": "doormat" },
+        { "word": "avait oublié", "gloss": "had forgotten" }
+      ]
+    },
+    {
+      "id": "fr-a2-03",
+      "title": "Le premier jour",
+      "subtitle": "The first day",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Lundi, Samira a commencé un nouveau travail dans une agence de voyages. Elle était nerveuse, alors elle s'est levée très tôt et elle a mis sa plus belle veste. Elle est arrivée au bureau avec vingt minutes d'avance.",
+        "Sa responsable, Isabelle, lui a présenté l'équipe. Tout le monde était accueillant. Le matin, Samira a appris à utiliser le logiciel de réservation. À midi, ses collègues l'ont invitée à déjeuner. Le soir, elle a envoyé un message à sa mère : « Tout s'est très bien passé ! »"
+      ],
+      "vocab": [
+        { "word": "a commencé", "gloss": "started" },
+        { "word": "nerveuse", "gloss": "nervous (female)" },
+        { "word": "tôt", "gloss": "early" },
+        { "word": "veste", "gloss": "jacket" },
+        { "word": "d'avance", "gloss": "early, ahead of time" },
+        { "word": "équipe", "gloss": "team" },
+        { "word": "accueillant", "gloss": "welcoming" },
+        { "word": "logiciel", "gloss": "software" }
+      ]
+    },
+    {
+      "id": "fr-a2-04",
+      "title": "La recette de ma grand-mère",
+      "subtitle": "My grandmother's recipe",
+      "topic": "Cooking",
+      "symbol": "frying.pan.fill",
+      "paragraphs": [
+        "Quand j'étais petit, je passais les vacances chez ma grand-mère en Normandie. Chaque dimanche, elle faisait une tarte aux pommes. Je l'aidais : j'épluchais les pommes et elle préparait la pâte.",
+        "La semaine dernière, j'ai retrouvé sa recette dans un vieux cahier. J'ai acheté des pommes, du beurre, de la farine et du sucre, et j'ai essayé. La pâte était un peu trop épaisse, mais l'odeur de la cuisine m'a rappelé mon enfance. Ma grand-mère serait fière de moi."
+      ],
+      "vocab": [
+        { "word": "passais", "gloss": "used to spend" },
+        { "word": "tarte", "gloss": "tart, pie" },
+        { "word": "épluchais", "gloss": "used to peel" },
+        { "word": "pâte", "gloss": "pastry, dough" },
+        { "word": "cahier", "gloss": "notebook" },
+        { "word": "farine", "gloss": "flour" },
+        { "word": "épaisse", "gloss": "thick" },
+        { "word": "enfance", "gloss": "childhood" },
+        { "word": "fière", "gloss": "proud" }
+      ]
+    },
+    {
+      "id": "fr-a2-05",
+      "title": "Le train de nuit",
+      "subtitle": "The night train",
+      "topic": "Travel",
+      "symbol": "train.side.front.car",
+      "paragraphs": [
+        "Vendredi soir, Élodie a pris le train de nuit de Paris à Nice. Elle avait réservé une couchette dans un compartiment de six personnes. Le train est parti à vingt et une heures précises.",
+        "Dans le compartiment, il y avait une famille avec deux enfants et un vieux monsieur qui lisait un roman. Élodie n'a pas beaucoup dormi, parce que le train faisait du bruit. Mais le matin, quand elle a ouvert le rideau, elle a vu la mer Méditerranée, bleue et brillante. Le voyage valait la peine."
+      ],
+      "vocab": [
+        { "word": "avait réservé", "gloss": "had booked" },
+        { "word": "couchette", "gloss": "sleeping berth" },
+        { "word": "est parti", "gloss": "left, departed" },
+        { "word": "roman", "gloss": "novel" },
+        { "word": "bruit", "gloss": "noise" },
+        { "word": "rideau", "gloss": "curtain" },
+        { "word": "brillante", "gloss": "shining, sparkling" },
+        { "word": "valait la peine", "gloss": "was worth it" }
+      ]
+    },
+    {
+      "id": "fr-a2-06",
+      "title": "La fête de la musique",
+      "subtitle": "The music festival",
+      "topic": "Celebrations",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Le 21 juin, c'est la fête de la musique en France. Cette année, Baptiste et ses amis ont joué dans la rue pour la première fois. Ils ont un petit groupe : Baptiste chante, Lucie joue de la guitare et Malik joue de la batterie.",
+        "Au début, il n'y avait personne devant eux. Puis, petit à petit, les gens se sont arrêtés pour écouter. À la fin de la soirée, une centaine de personnes dansaient dans la rue ! Baptiste était si heureux qu'il n'a pas pu dormir."
+      ],
+      "vocab": [
+        { "word": "ont joué", "gloss": "played" },
+        { "word": "rue", "gloss": "street" },
+        { "word": "groupe", "gloss": "band" },
+        { "word": "batterie", "gloss": "drums" },
+        { "word": "il n'y avait personne", "gloss": "there was nobody" },
+        { "word": "petit à petit", "gloss": "little by little" },
+        { "word": "se sont arrêtés", "gloss": "stopped" },
+        { "word": "une centaine", "gloss": "about a hundred" }
+      ]
+    },
+    {
+      "id": "fr-a2-07",
+      "title": "Le déménagement",
+      "subtitle": "Moving house",
+      "topic": "Home",
+      "symbol": "shippingbox.fill",
+      "paragraphs": [
+        "Le mois dernier, Arthur et Julie ont déménagé dans une maison à la campagne. Pendant deux semaines, ils ont mis toutes leurs affaires dans des cartons. Le jour du déménagement, leurs amis sont venus les aider.",
+        "Le camion était plein. Il a fallu trois heures pour tout porter dans la nouvelle maison. Un carton est tombé et deux assiettes se sont cassées, mais ce n'était pas grave. Le soir, tout le monde était épuisé. Ils ont commandé des pizzas et ils ont mangé par terre, au milieu des cartons."
+      ],
+      "vocab": [
+        { "word": "ont déménagé", "gloss": "moved (house)" },
+        { "word": "campagne", "gloss": "countryside" },
+        { "word": "affaires", "gloss": "belongings, things" },
+        { "word": "cartons", "gloss": "cardboard boxes" },
+        { "word": "camion", "gloss": "lorry, truck" },
+        { "word": "il a fallu", "gloss": "it took" },
+        { "word": "assiettes", "gloss": "plates" },
+        { "word": "épuisé", "gloss": "exhausted" },
+        { "word": "par terre", "gloss": "on the floor" }
+      ]
+    },
+    {
+      "id": "fr-a2-08",
+      "title": "Une invitation",
+      "subtitle": "An invitation",
+      "topic": "Friends",
+      "symbol": "phone.fill",
+      "paragraphs": [
+        "Mercredi, le téléphone de Gabriel a sonné. C'était Alice, une amie de l'université qu'il n'avait pas vue depuis deux ans. « Je me marie en septembre, a-t-elle dit, et je voudrais que tu viennes ! »",
+        "Gabriel était très surpris et très content. Ils ont parlé pendant une heure : de leurs études, de leurs amis communs et de leurs projets. Alice lui a expliqué que la fête aurait lieu dans un château près de Bordeaux. Après l'appel, Gabriel a tout de suite réservé son billet de train."
+      ],
+      "vocab": [
+        { "word": "a sonné", "gloss": "rang" },
+        { "word": "je me marie", "gloss": "I'm getting married" },
+        { "word": "surpris", "gloss": "surprised" },
+        { "word": "études", "gloss": "studies" },
+        { "word": "communs", "gloss": "mutual, in common" },
+        { "word": "projets", "gloss": "plans" },
+        { "word": "aurait lieu", "gloss": "would take place" },
+        { "word": "billet", "gloss": "ticket" }
+      ]
+    },
+    {
+      "id": "fr-a2-09",
+      "title": "Des vacances sous la pluie",
+      "subtitle": "A holiday in the rain",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "En août, la famille Martin est partie camper dans les Alpes. Malheureusement, il a plu pendant cinq jours sur sept. La tente était mouillée, les vêtements aussi, et les enfants s'ennuyaient.",
+        "Alors, le père a eu une idée. Ils ont visité un musée du chocolat, ils ont joué aux cartes dans un café et ils sont allés à la piscine couverte. Le dernier jour, le soleil est enfin sorti. Aujourd'hui, les enfants disent que ce sont leurs meilleures vacances !"
+      ],
+      "vocab": [
+        { "word": "camper", "gloss": "to go camping" },
+        { "word": "il a plu", "gloss": "it rained" },
+        { "word": "tente", "gloss": "tent" },
+        { "word": "mouillée", "gloss": "wet" },
+        { "word": "s'ennuyaient", "gloss": "were bored" },
+        { "word": "cartes", "gloss": "cards" },
+        { "word": "couverte", "gloss": "indoor, covered" },
+        { "word": "enfin", "gloss": "at last" }
+      ]
+    },
+    {
+      "id": "fr-a2-10",
+      "title": "Le nouveau voisin",
+      "subtitle": "The new neighbour",
+      "topic": "Neighbours",
+      "symbol": "door.left.hand.open",
+      "paragraphs": [
+        "Il y a trois semaines, un nouveau voisin s'est installé dans l'appartement d'à côté. Au début, Agathe ne le voyait jamais. Elle entendait seulement du piano, tous les soirs, très tard.",
+        "Un samedi, quelqu'un a frappé à sa porte. C'était le voisin, avec une boîte de chocolats. « Je suis désolé pour le bruit, a-t-il dit. Je suis pianiste et je prépare un concert. » Agathe a ri : elle aimait bien la musique. Il l'a invitée au concert, et maintenant ils sont amis."
+      ],
+      "vocab": [
+        { "word": "s'est installé", "gloss": "moved in" },
+        { "word": "d'à côté", "gloss": "next door" },
+        { "word": "entendait", "gloss": "could hear, used to hear" },
+        { "word": "a frappé", "gloss": "knocked" },
+        { "word": "boîte", "gloss": "box" },
+        { "word": "désolé", "gloss": "sorry" },
+        { "word": "a ri", "gloss": "laughed" }
+      ]
+    },
+    {
+      "id": "fr-a2-11",
+      "title": "Le match de dimanche",
+      "subtitle": "Sunday's match",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Dimanche dernier, l'équipe de football de Noah a joué la finale du tournoi régional. Noah a douze ans et il est gardien de but. Toute sa famille est venue l'encourager, même sa grand-mère.",
+        "Le match était difficile. À la mi-temps, l'autre équipe gagnait un à zéro. En deuxième mi-temps, l'équipe de Noah a marqué deux buts. À la dernière minute, Noah a arrêté un penalty ! Ils ont gagné la coupe, et sa grand-mère a crié plus fort que tout le monde."
+      ],
+      "vocab": [
+        { "word": "tournoi", "gloss": "tournament" },
+        { "word": "gardien de but", "gloss": "goalkeeper" },
+        { "word": "encourager", "gloss": "to cheer on" },
+        { "word": "mi-temps", "gloss": "half-time; half" },
+        { "word": "gagnait", "gloss": "was winning" },
+        { "word": "a marqué", "gloss": "scored" },
+        { "word": "a arrêté", "gloss": "stopped, saved" },
+        { "word": "coupe", "gloss": "cup, trophy" }
+      ]
+    },
+    {
+      "id": "fr-a2-12",
+      "title": "Une journée au musée",
+      "subtitle": "A day at the museum",
+      "topic": "Culture",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Pour son anniversaire, Hélène a emmené sa fille Zoé au musée d'Orsay. Zoé a dix ans et elle adore dessiner. Elles ont fait la queue pendant une demi-heure, mais ça valait la peine.",
+        "Dans le musée, Zoé a découvert les tableaux de Monet et de Van Gogh. Elle est restée longtemps devant un tableau de danseuses de Degas. Elle a sorti son carnet et elle a commencé à les dessiner. Un gardien l'a regardée et lui a dit : « Tu es une vraie artiste ! »"
+      ],
+      "vocab": [
+        { "word": "a emmené", "gloss": "took (someone)" },
+        { "word": "dessiner", "gloss": "to draw" },
+        { "word": "ont fait la queue", "gloss": "queued" },
+        { "word": "a découvert", "gloss": "discovered" },
+        { "word": "tableaux", "gloss": "paintings" },
+        { "word": "longtemps", "gloss": "a long time" },
+        { "word": "danseuses", "gloss": "dancers (female)" },
+        { "word": "carnet", "gloss": "sketchbook, notebook" }
+      ]
+    },
+    {
+      "id": "fr-a2-13",
+      "title": "Une carte postale",
+      "subtitle": "A postcard",
+      "topic": "Travel",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Chère Amélie, je t'écris de Québec ! Je suis arrivée il y a quatre jours. Il fait froid, mais la ville est magnifique, avec ses vieilles rues et ses maisons colorées. Les gens sont très sympathiques et ils parlent avec un accent que j'adore.",
+        "Hier, j'ai fait une promenade en bateau sur le fleuve Saint-Laurent et j'ai vu des baleines ! Ce soir, je vais goûter la poutine, un plat typique avec des frites, du fromage et de la sauce. Je rentre dimanche. Je t'embrasse, Clara."
+      ],
+      "vocab": [
+        { "word": "je t'écris", "gloss": "I'm writing to you" },
+        { "word": "il y a quatre jours", "gloss": "four days ago" },
+        { "word": "colorées", "gloss": "colourful" },
+        { "word": "bateau", "gloss": "boat" },
+        { "word": "fleuve", "gloss": "river" },
+        { "word": "baleines", "gloss": "whales" },
+        { "word": "goûter", "gloss": "to taste, try" },
+        { "word": "je t'embrasse", "gloss": "love (letter sign-off)" }
+      ]
+    },
+    {
+      "id": "fr-a2-14",
+      "title": "Les projets d'été",
+      "subtitle": "Summer plans",
+      "topic": "Plans",
+      "symbol": "calendar",
+      "paragraphs": [
+        "Cet été, Victor va faire quelque chose de nouveau. Il ne partira pas en vacances avec ses parents. Il va travailler deux mois dans une ferme en Provence, où on cultive de la lavande.",
+        "Il se lèvera à cinq heures du matin, il travaillera dans les champs et il apprendra à faire du miel. Avec l'argent, il achètera une moto. Ses amis pensent que c'est une idée bizarre, mais Victor est sûr qu'il passera un été inoubliable."
+      ],
+      "vocab": [
+        { "word": "partira", "gloss": "will leave, will go away" },
+        { "word": "ferme", "gloss": "farm" },
+        { "word": "cultive", "gloss": "grows (crops)" },
+        { "word": "champs", "gloss": "fields" },
+        { "word": "apprendra", "gloss": "will learn" },
+        { "word": "miel", "gloss": "honey" },
+        { "word": "l'argent", "gloss": "the money" },
+        { "word": "inoubliable", "gloss": "unforgettable" }
+      ]
+    },
+    {
+      "id": "fr-a2-15",
+      "title": "Perdus dans la montagne",
+      "subtitle": "Lost in the mountains",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Samedi, Louise et Théo ont fait une randonnée dans les Pyrénées. Le matin, le ciel était bleu et le chemin était facile. Ils ont pique-niqué près d'un lac et ils ont vu des marmottes.",
+        "L'après-midi, le brouillard est arrivé. Ils ne voyaient plus le chemin et ils se sont perdus. Théo a gardé son calme : il a regardé la carte et la boussole. Après deux heures de marche, ils ont trouvé un refuge. Le gardien leur a servi une soupe chaude. Ils ont dormi là-bas et ils sont redescendus le lendemain."
+      ],
+      "vocab": [
+        { "word": "randonnée", "gloss": "hike" },
+        { "word": "chemin", "gloss": "path" },
+        { "word": "lac", "gloss": "lake" },
+        { "word": "brouillard", "gloss": "fog" },
+        { "word": "se sont perdus", "gloss": "got lost" },
+        { "word": "boussole", "gloss": "compass" },
+        { "word": "refuge", "gloss": "mountain hut" },
+        { "word": "le lendemain", "gloss": "the next day" }
+      ]
+    }
+  ]
+}

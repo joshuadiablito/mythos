@@ -1,0 +1,325 @@
+{
+  "language": "de",
+  "level": "A2",
+  "stories": [
+    {
+      "id": "de-a2-01",
+      "title": "Eine Woche an der Ostsee",
+      "subtitle": "A week on the Baltic coast",
+      "topic": "Travel",
+      "symbol": "beach.umbrella.fill",
+      "paragraphs": [
+        "Letzten Sommer sind Clara und ihr Freund eine Woche an die Ostsee gefahren. Sie haben eine kleine Ferienwohnung gemietet, nur fünf Minuten vom Strand entfernt. Am ersten Tag war es sehr heiß, deshalb sind sie im Schatten unter einem Strandkorb geblieben.",
+        "Den Rest der Woche sind sie geschwommen, Fahrrad gefahren und haben Fischbrötchen gegessen. An einem Abend haben sie den Sonnenuntergang über dem Meer gesehen. Clara hat viele Fotos gemacht. „Kommen wir nächstes Jahr wieder?“, hat sie gefragt. Ihr Freund hat sofort Ja gesagt."
+      ],
+      "vocab": [
+        { "word": "gemietet", "gloss": "rented" },
+        { "word": "Strand", "gloss": "beach" },
+        { "word": "deshalb", "gloss": "so, therefore" },
+        { "word": "Schatten", "gloss": "shade" },
+        { "word": "Strandkorb", "gloss": "roofed beach chair" },
+        { "word": "geschwommen", "gloss": "swum" },
+        { "word": "Sonnenuntergang", "gloss": "sunset" },
+        { "word": "sofort", "gloss": "straight away" }
+      ]
+    },
+    {
+      "id": "de-a2-02",
+      "title": "Der verlorene Schlüssel",
+      "subtitle": "The lost key",
+      "topic": "Everyday life",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Gestern Abend ist Moritz sehr spät von der Arbeit nach Hause gekommen. Vor seiner Tür hat er den Schlüssel in seinem Rucksack gesucht, dann in seinen Hosentaschen. Nichts! Er hat Angst bekommen: Wo hatte er ihn nur gelassen?",
+        "Er hat seine Nachbarin, Frau Koch, angerufen, denn sie hat einen Ersatzschlüssel. Leider ist sie nicht ans Telefon gegangen. Moritz hat sich müde auf die Treppe gesetzt. Plötzlich hat er etwas unter der Fußmatte glänzen sehen. Es war sein Schlüssel! Am Morgen hatte er ihn dort für seinen Bruder versteckt und es dann vergessen."
+      ],
+      "vocab": [
+        { "word": "gesucht", "gloss": "looked for" },
+        { "word": "Hosentaschen", "gloss": "trouser pockets" },
+        { "word": "Angst bekommen", "gloss": "got scared" },
+        { "word": "Ersatzschlüssel", "gloss": "spare key" },
+        { "word": "leider", "gloss": "unfortunately" },
+        { "word": "plötzlich", "gloss": "suddenly" },
+        { "word": "Fußmatte", "gloss": "doormat" },
+        { "word": "versteckt", "gloss": "hidden" }
+      ]
+    },
+    {
+      "id": "de-a2-03",
+      "title": "Der erste Arbeitstag",
+      "subtitle": "The first day at work",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Am Montag hat Leonie eine neue Stelle in einem Reisebüro angefangen. Sie war nervös, deshalb ist sie sehr früh aufgestanden und hat ihre schönste Jacke angezogen. Sie ist zwanzig Minuten zu früh im Büro angekommen.",
+        "Ihre Chefin, Frau Braun, hat ihr das Team vorgestellt. Alle waren sehr freundlich. Am Vormittag hat Leonie gelernt, wie das Buchungsprogramm funktioniert. Mittags haben ihre Kollegen sie zum Essen eingeladen. Am Abend hat sie ihrer Mutter geschrieben: „Alles ist super gelaufen!“"
+      ],
+      "vocab": [
+        { "word": "Stelle", "gloss": "job, position" },
+        { "word": "angefangen", "gloss": "started" },
+        { "word": "nervös", "gloss": "nervous" },
+        { "word": "aufgestanden", "gloss": "got up" },
+        { "word": "Chefin", "gloss": "boss (female)" },
+        { "word": "vorgestellt", "gloss": "introduced" },
+        { "word": "eingeladen", "gloss": "invited" },
+        { "word": "gelaufen", "gloss": "gone (alles ist gut gelaufen: it all went well)" }
+      ]
+    },
+    {
+      "id": "de-a2-04",
+      "title": "Omas Rezept",
+      "subtitle": "Grandma's recipe",
+      "topic": "Cooking",
+      "symbol": "frying.pan.fill",
+      "paragraphs": [
+        "Als ich klein war, habe ich die Ferien oft bei meiner Oma in Bayern verbracht. Jeden Sonntag hat sie einen Apfelstrudel gebacken. Ich habe ihr geholfen: Ich habe die Äpfel geschält, und sie hat den Teig gemacht.",
+        "Letzte Woche habe ich ihr Rezept in einem alten Heft gefunden. Ich habe Äpfel, Mehl, Butter, Zucker und Zimt gekauft und es versucht. Der Teig war ein bisschen zu dick, aber der Duft in der Küche hat mich an meine Kindheit erinnert. Meine Oma wäre stolz auf mich."
+      ],
+      "vocab": [
+        { "word": "verbracht", "gloss": "spent (time)" },
+        { "word": "gebacken", "gloss": "baked" },
+        { "word": "geschält", "gloss": "peeled" },
+        { "word": "Teig", "gloss": "dough, pastry" },
+        { "word": "Heft", "gloss": "notebook" },
+        { "word": "Mehl", "gloss": "flour" },
+        { "word": "Zimt", "gloss": "cinnamon" },
+        { "word": "Duft", "gloss": "smell, scent" },
+        { "word": "Kindheit", "gloss": "childhood" },
+        { "word": "stolz", "gloss": "proud" }
+      ]
+    },
+    {
+      "id": "de-a2-05",
+      "title": "Der Nachtzug",
+      "subtitle": "The night train",
+      "topic": "Travel",
+      "symbol": "train.side.front.car",
+      "paragraphs": [
+        "Am Freitagabend hat Sophie den Nachtzug von Berlin nach Wien genommen. Sie hatte einen Liegeplatz in einem Abteil für sechs Personen gebucht. Der Zug ist pünktlich um zehn nach neun abgefahren.",
+        "Im Abteil waren eine Familie mit zwei Kindern und ein älterer Herr, der einen Roman gelesen hat. Sophie hat nicht viel geschlafen, weil der Zug laut war. Aber am Morgen, als sie den Vorhang aufgemacht hat, hat sie die Alpen im Sonnenlicht gesehen. Die Reise hat sich gelohnt."
+      ],
+      "vocab": [
+        { "word": "Liegeplatz", "gloss": "couchette, berth" },
+        { "word": "Abteil", "gloss": "compartment" },
+        { "word": "gebucht", "gloss": "booked" },
+        { "word": "pünktlich", "gloss": "on time" },
+        { "word": "abgefahren", "gloss": "departed" },
+        { "word": "laut", "gloss": "loud, noisy" },
+        { "word": "Vorhang", "gloss": "curtain" },
+        { "word": "hat sich gelohnt", "gloss": "was worth it" }
+      ]
+    },
+    {
+      "id": "de-a2-06",
+      "title": "Das Stadtfest",
+      "subtitle": "The town festival",
+      "topic": "Celebrations",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Im Juni haben Ben und seine Freunde zum ersten Mal auf dem Stadtfest gespielt. Sie haben eine kleine Band: Ben singt, Emma spielt Gitarre und Karim spielt Schlagzeug.",
+        "Am Anfang stand niemand vor der Bühne. Dann sind langsam immer mehr Leute stehen geblieben und haben zugehört. Am Ende des Abends haben über hundert Menschen auf dem Platz getanzt! Ben war so glücklich, dass er nicht schlafen konnte."
+      ],
+      "vocab": [
+        { "word": "zum ersten Mal", "gloss": "for the first time" },
+        { "word": "Schlagzeug", "gloss": "drums" },
+        { "word": "am Anfang", "gloss": "at the beginning" },
+        { "word": "niemand", "gloss": "nobody" },
+        { "word": "Bühne", "gloss": "stage" },
+        { "word": "stehen geblieben", "gloss": "stopped" },
+        { "word": "zugehört", "gloss": "listened" },
+        { "word": "getanzt", "gloss": "danced" }
+      ]
+    },
+    {
+      "id": "de-a2-07",
+      "title": "Der Umzug",
+      "subtitle": "Moving house",
+      "topic": "Home",
+      "symbol": "shippingbox.fill",
+      "paragraphs": [
+        "Letzten Monat sind Tobias und Katrin in ein Haus auf dem Land gezogen. Zwei Wochen lang haben sie alle ihre Sachen in Kartons gepackt. Am Tag des Umzugs sind ihre Freunde gekommen, um zu helfen.",
+        "Der Transporter war voll. Sie haben drei Stunden gebraucht, um alles ins neue Haus zu tragen. Ein Karton ist heruntergefallen, und zwei Teller sind kaputtgegangen, aber das war nicht schlimm. Am Abend waren alle total erschöpft. Sie haben Pizza bestellt und auf dem Boden zwischen den Kartons gegessen."
+      ],
+      "vocab": [
+        { "word": "auf dem Land", "gloss": "in the countryside" },
+        { "word": "gezogen", "gloss": "moved (house)" },
+        { "word": "Sachen", "gloss": "things, belongings" },
+        { "word": "Umzugs", "gloss": "(of the) move" },
+        { "word": "Transporter", "gloss": "van" },
+        { "word": "gebraucht", "gloss": "needed, taken (time)" },
+        { "word": "Teller", "gloss": "plates" },
+        { "word": "schlimm", "gloss": "bad" },
+        { "word": "erschöpft", "gloss": "exhausted" }
+      ]
+    },
+    {
+      "id": "de-a2-08",
+      "title": "Eine Einladung",
+      "subtitle": "An invitation",
+      "topic": "Friends",
+      "symbol": "phone.fill",
+      "paragraphs": [
+        "Am Mittwoch hat Simons Handy geklingelt. Es war Nina, eine Freundin aus der Uni. Er hatte sie seit zwei Jahren nicht gesehen. „Ich heirate im September“, hat sie gesagt, „und ich möchte, dass du kommst!“",
+        "Simon war sehr überrascht und hat sich riesig gefreut. Sie haben eine Stunde lang telefoniert: über ihr Studium, gemeinsame Freunde und ihre Pläne. Nina hat erzählt, dass die Feier in einem Schloss am Bodensee stattfindet. Nach dem Gespräch hat Simon sofort ein Zugticket gekauft."
+      ],
+      "vocab": [
+        { "word": "Handy", "gloss": "mobile phone" },
+        { "word": "geklingelt", "gloss": "rang" },
+        { "word": "heirate", "gloss": "am getting married" },
+        { "word": "überrascht", "gloss": "surprised" },
+        { "word": "gemeinsame", "gloss": "mutual, shared" },
+        { "word": "Feier", "gloss": "celebration, party" },
+        { "word": "stattfindet", "gloss": "takes place" },
+        { "word": "Gespräch", "gloss": "conversation" }
+      ]
+    },
+    {
+      "id": "de-a2-09",
+      "title": "Urlaub im Regen",
+      "subtitle": "A holiday in the rain",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Im August war Familie Fischer zum Campen im Schwarzwald. Leider hat es an fünf von sieben Tagen geregnet. Das Zelt war nass, die Kleidung auch, und die Kinder haben sich gelangweilt.",
+        "Dann hatte der Vater eine Idee. Sie haben ein Kuckucksuhren-Museum besucht, in einem Café Karten gespielt und sind ins Hallenbad gegangen. Am letzten Tag ist endlich die Sonne herausgekommen. Heute sagen die Kinder, dass es ihr bester Urlaub war!"
+      ],
+      "vocab": [
+        { "word": "Campen", "gloss": "camping" },
+        { "word": "geregnet", "gloss": "rained" },
+        { "word": "Zelt", "gloss": "tent" },
+        { "word": "nass", "gloss": "wet" },
+        { "word": "gelangweilt", "gloss": "been bored (sich langweilen)" },
+        { "word": "Karten", "gloss": "cards" },
+        { "word": "Hallenbad", "gloss": "indoor pool" },
+        { "word": "endlich", "gloss": "at last" }
+      ]
+    },
+    {
+      "id": "de-a2-10",
+      "title": "Der neue Nachbar",
+      "subtitle": "The new neighbour",
+      "topic": "Neighbours",
+      "symbol": "door.left.hand.open",
+      "paragraphs": [
+        "Vor drei Wochen ist ein neuer Nachbar in die Wohnung nebenan gezogen. Am Anfang hat Marie ihn nie gesehen. Sie hat nur jeden Abend Klaviermusik gehört, bis spät in die Nacht.",
+        "An einem Samstag hat jemand an ihre Tür geklopft. Es war der Nachbar, mit einer Schachtel Pralinen. „Entschuldigung für den Lärm“, hat er gesagt. „Ich bin Pianist und bereite ein Konzert vor.“ Marie hat gelacht: Sie mochte die Musik. Er hat sie zum Konzert eingeladen, und jetzt sind sie Freunde."
+      ],
+      "vocab": [
+        { "word": "vor drei Wochen", "gloss": "three weeks ago" },
+        { "word": "nebenan", "gloss": "next door" },
+        { "word": "Klaviermusik", "gloss": "piano music" },
+        { "word": "geklopft", "gloss": "knocked" },
+        { "word": "Schachtel", "gloss": "box" },
+        { "word": "Entschuldigung", "gloss": "sorry" },
+        { "word": "Lärm", "gloss": "noise" },
+        { "word": "gelacht", "gloss": "laughed" }
+      ]
+    },
+    {
+      "id": "de-a2-11",
+      "title": "Das Spiel am Sonntag",
+      "subtitle": "Sunday's match",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Letzten Sonntag hat die Fußballmannschaft von Elias das Finale des Turniers gespielt. Elias ist zwölf und Torwart. Seine ganze Familie ist gekommen, um ihn anzufeuern, sogar seine Oma.",
+        "Das Spiel war schwer. Zur Halbzeit hat die andere Mannschaft eins zu null geführt. In der zweiten Halbzeit hat Elias' Mannschaft zwei Tore geschossen. In der letzten Minute hat Elias einen Elfmeter gehalten! Sie haben den Pokal gewonnen, und seine Oma hat lauter geschrien als alle anderen."
+      ],
+      "vocab": [
+        { "word": "Mannschaft", "gloss": "team" },
+        { "word": "Turniers", "gloss": "(of the) tournament" },
+        { "word": "Torwart", "gloss": "goalkeeper" },
+        { "word": "anzufeuern", "gloss": "to cheer on" },
+        { "word": "Halbzeit", "gloss": "half-time; half" },
+        { "word": "geführt", "gloss": "led, been ahead" },
+        { "word": "Elfmeter", "gloss": "penalty" },
+        { "word": "Pokal", "gloss": "cup, trophy" }
+      ]
+    },
+    {
+      "id": "de-a2-12",
+      "title": "Ein Tag im Museum",
+      "subtitle": "A day at the museum",
+      "topic": "Culture",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Zum Geburtstag hat Petra ihre Tochter Lina ins Museum mitgenommen. Lina ist zehn Jahre alt und malt sehr gern. Sie mussten eine halbe Stunde anstehen, aber es hat sich gelohnt.",
+        "Im Museum hat Lina die Bilder von Caspar David Friedrich entdeckt. Sie ist lange vor einem Bild mit einem Mann über dem Nebelmeer stehen geblieben. Dann hat sie ihren Skizzenblock herausgeholt und angefangen zu zeichnen. Ein Museumswärter hat ihr zugeschaut und gesagt: „Du bist ja eine echte Künstlerin!“"
+      ],
+      "vocab": [
+        { "word": "mitgenommen", "gloss": "taken along" },
+        { "word": "malt", "gloss": "paints" },
+        { "word": "anstehen", "gloss": "to queue" },
+        { "word": "entdeckt", "gloss": "discovered" },
+        { "word": "Bilder", "gloss": "pictures, paintings" },
+        { "word": "Nebelmeer", "gloss": "sea of fog" },
+        { "word": "zeichnen", "gloss": "to draw" },
+        { "word": "Künstlerin", "gloss": "artist (female)" }
+      ]
+    },
+    {
+      "id": "de-a2-13",
+      "title": "Eine Postkarte",
+      "subtitle": "A postcard",
+      "topic": "Travel",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Liebe Jana, viele Grüße aus Zürich! Ich bin vor vier Tagen angekommen. Es ist kalt, aber die Stadt ist wunderschön, mit dem See, den alten Gassen und den Bergen im Hintergrund. Die Leute sprechen Schweizerdeutsch – ich verstehe fast nichts!",
+        "Gestern habe ich eine Bootsfahrt auf dem See gemacht, und heute bin ich mit der Bahn auf einen Berg gefahren. Heute Abend probiere ich Käsefondue. Am Sonntag komme ich zurück. Liebe Grüße, deine Miriam"
+      ],
+      "vocab": [
+        { "word": "viele Grüße", "gloss": "greetings, best wishes" },
+        { "word": "vor vier Tagen", "gloss": "four days ago" },
+        { "word": "wunderschön", "gloss": "beautiful" },
+        { "word": "Gassen", "gloss": "lanes, alleys" },
+        { "word": "Hintergrund", "gloss": "background" },
+        { "word": "verstehe", "gloss": "understand" },
+        { "word": "Bootsfahrt", "gloss": "boat trip" },
+        { "word": "probiere", "gloss": "am trying, will try" }
+      ]
+    },
+    {
+      "id": "de-a2-14",
+      "title": "Pläne für den Sommer",
+      "subtitle": "Summer plans",
+      "topic": "Plans",
+      "symbol": "calendar",
+      "paragraphs": [
+        "Diesen Sommer wird Niklas etwas Neues machen. Er wird nicht mit seinen Eltern in den Urlaub fahren. Stattdessen wird er zwei Monate auf einem Bauernhof in den Alpen arbeiten.",
+        "Er wird um fünf Uhr aufstehen, die Kühe auf die Weide bringen und lernen, wie man Käse macht. Von dem Geld wird er sich ein Motorrad kaufen. Seine Freunde finden die Idee komisch, aber Niklas ist sicher, dass es ein unvergesslicher Sommer wird."
+      ],
+      "vocab": [
+        { "word": "wird", "gloss": "will" },
+        { "word": "stattdessen", "gloss": "instead" },
+        { "word": "Bauernhof", "gloss": "farm" },
+        { "word": "Kühe", "gloss": "cows" },
+        { "word": "Weide", "gloss": "pasture" },
+        { "word": "Geld", "gloss": "money" },
+        { "word": "komisch", "gloss": "strange, funny" },
+        { "word": "unvergesslicher", "gloss": "unforgettable" }
+      ]
+    },
+    {
+      "id": "de-a2-15",
+      "title": "Verlaufen in den Bergen",
+      "subtitle": "Lost in the mountains",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Am Samstag haben Johanna und Paul eine Wanderung in den Allgäuer Alpen gemacht. Am Morgen war der Himmel blau, und der Weg war leicht. Sie haben an einem See gepicknickt und Murmeltiere gesehen.",
+        "Am Nachmittag ist Nebel gekommen. Sie konnten den Weg nicht mehr sehen und haben sich verlaufen. Paul ist ruhig geblieben: Er hat auf die Karte und den Kompass geschaut. Nach zwei Stunden haben sie eine Hütte gefunden. Der Hüttenwirt hat ihnen eine heiße Suppe gebracht. Sie haben dort übernachtet und sind am nächsten Tag ins Tal gegangen."
+      ],
+      "vocab": [
+        { "word": "Wanderung", "gloss": "hike" },
+        { "word": "Weg", "gloss": "path, way" },
+        { "word": "leicht", "gloss": "easy" },
+        { "word": "Murmeltiere", "gloss": "marmots" },
+        { "word": "Nebel", "gloss": "fog" },
+        { "word": "verlaufen", "gloss": "got lost (on foot)" },
+        { "word": "Hütte", "gloss": "mountain hut" },
+        { "word": "übernachtet", "gloss": "stayed the night" },
+        { "word": "Tal", "gloss": "valley" }
+      ]
+    }
+  ]
+}

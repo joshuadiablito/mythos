@@ -1,0 +1,324 @@
+{
+  "language": "pt",
+  "level": "A2",
+  "stories": [
+    {
+      "id": "pt-a2-01",
+      "title": "Uma semana na praia",
+      "subtitle": "A week at the beach",
+      "topic": "Travel",
+      "symbol": "beach.umbrella.fill",
+      "paragraphs": [
+        "No verão passado, a Fernanda e o namorado passaram uma semana em Florianópolis. Eles alugaram um apartamento pequeno a cinco minutos da praia. No primeiro dia, fez muito calor, então eles ficaram na sombra, debaixo de um guarda-sol.",
+        "No resto da semana, eles nadaram, fizeram surfe e comeram camarão. Uma tarde, eles viram o pôr do sol na Lagoa da Conceição. A Fernanda tirou muitas fotos. — Vamos voltar no ano que vem? — ela perguntou. O namorado disse que sim na hora."
+      ],
+      "vocab": [
+        { "word": "passaram", "gloss": "spent (time)" },
+        { "word": "alugaram", "gloss": "rented" },
+        { "word": "ficaram", "gloss": "stayed" },
+        { "word": "sombra", "gloss": "shade" },
+        { "word": "guarda-sol", "gloss": "beach umbrella" },
+        { "word": "nadaram", "gloss": "swam" },
+        { "word": "pôr do sol", "gloss": "sunset" },
+        { "word": "na hora", "gloss": "straight away" }
+      ]
+    },
+    {
+      "id": "pt-a2-02",
+      "title": "A chave perdida",
+      "subtitle": "The lost key",
+      "topic": "Everyday life",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Ontem à noite, o Rodrigo voltou do trabalho muito tarde. Na frente da porta, ele procurou a chave na mochila e depois nos bolsos. Nada! Ele ficou com medo: onde ele tinha deixado a chave?",
+        "Ele ligou para a vizinha, dona Teresa, porque ela tem uma cópia. Infelizmente, ela não atendia. O Rodrigo sentou na escada, cansado. De repente, ele viu alguma coisa brilhando debaixo do tapete. Era a chave! De manhã, ele tinha escondido a chave ali para o irmão e tinha esquecido."
+      ],
+      "vocab": [
+        { "word": "procurou", "gloss": "looked for" },
+        { "word": "bolsos", "gloss": "pockets" },
+        { "word": "ficou com medo", "gloss": "got scared" },
+        { "word": "vizinha", "gloss": "neighbour (female)" },
+        { "word": "infelizmente", "gloss": "unfortunately" },
+        { "word": "de repente", "gloss": "suddenly" },
+        { "word": "tapete", "gloss": "mat, rug" },
+        { "word": "tinha esquecido", "gloss": "had forgotten" }
+      ]
+    },
+    {
+      "id": "pt-a2-03",
+      "title": "O primeiro dia",
+      "subtitle": "The first day",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Na segunda-feira, a Patrícia começou um emprego novo numa agência de viagens. Ela estava nervosa, então acordou muito cedo e vestiu o seu melhor blazer. Ela chegou ao escritório vinte minutos adiantada.",
+        "A chefe dela, a Simone, apresentou a equipe. Todo mundo foi muito simpático. De manhã, a Patrícia aprendeu a usar o sistema de reservas. Na hora do almoço, os colegas a convidaram para comer. À noite, ela mandou uma mensagem para a mãe: — Deu tudo certo!"
+      ],
+      "vocab": [
+        { "word": "começou", "gloss": "started" },
+        { "word": "emprego", "gloss": "job" },
+        { "word": "cedo", "gloss": "early" },
+        { "word": "vestiu", "gloss": "put on (clothes)" },
+        { "word": "adiantada", "gloss": "early (female)" },
+        { "word": "chefe", "gloss": "boss" },
+        { "word": "equipe", "gloss": "team" },
+        { "word": "deu tudo certo", "gloss": "everything went well" }
+      ]
+    },
+    {
+      "id": "pt-a2-04",
+      "title": "A receita da minha avó",
+      "subtitle": "My grandmother's recipe",
+      "topic": "Cooking",
+      "symbol": "frying.pan.fill",
+      "paragraphs": [
+        "Quando eu era pequeno, passava as férias na casa da minha avó, em Minas Gerais. Todo domingo, ela fazia um bolo de fubá. Eu ajudava: eu quebrava os ovos e ela misturava a massa.",
+        "Na semana passada, encontrei a receita dela num caderno antigo. Comprei fubá, ovos, leite, açúcar e manteiga, e tentei fazer. O bolo ficou um pouco seco, mas o cheiro da cozinha me lembrou a minha infância. A minha avó ficaria orgulhosa de mim."
+      ],
+      "vocab": [
+        { "word": "passava", "gloss": "used to spend" },
+        { "word": "férias", "gloss": "holidays" },
+        { "word": "fubá", "gloss": "cornmeal" },
+        { "word": "quebrava", "gloss": "used to crack, break" },
+        { "word": "massa", "gloss": "batter, dough" },
+        { "word": "caderno", "gloss": "notebook" },
+        { "word": "seco", "gloss": "dry" },
+        { "word": "cheiro", "gloss": "smell" },
+        { "word": "infância", "gloss": "childhood" },
+        { "word": "orgulhosa", "gloss": "proud (female)" }
+      ]
+    },
+    {
+      "id": "pt-a2-05",
+      "title": "A viagem de ônibus",
+      "subtitle": "The coach journey",
+      "topic": "Travel",
+      "symbol": "bus.doubledecker.fill",
+      "paragraphs": [
+        "Na sexta à noite, a Vitória pegou um ônibus leito de São Paulo para o Rio de Janeiro. Ela tinha comprado a passagem pela internet. O ônibus saiu às onze em ponto da rodoviária.",
+        "Ao lado dela, tinha uma senhora que tricotava um cachecol e um rapaz que ouvia música com fones. A Vitória não dormiu muito, porque a estrada tinha muitas curvas. Mas de manhã, quando abriu a cortina, viu o Pão de Açúcar no meio da neblina. A viagem valeu a pena."
+      ],
+      "vocab": [
+        { "word": "ônibus leito", "gloss": "sleeper coach" },
+        { "word": "passagem", "gloss": "ticket (for travel)" },
+        { "word": "em ponto", "gloss": "on the dot" },
+        { "word": "rodoviária", "gloss": "bus/coach station" },
+        { "word": "tricotava", "gloss": "was knitting" },
+        { "word": "estrada", "gloss": "road" },
+        { "word": "cortina", "gloss": "curtain" },
+        { "word": "valeu a pena", "gloss": "was worth it" }
+      ]
+    },
+    {
+      "id": "pt-a2-06",
+      "title": "A festa junina",
+      "subtitle": "The June festival",
+      "topic": "Celebrations",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Em junho, o Caio e os amigos tocaram na festa junina do bairro pela primeira vez. Eles têm uma banda pequena: o Caio canta, a Lívia toca sanfona e o Diego toca zabumba.",
+        "No começo, não tinha ninguém na frente do palco. Depois, aos poucos, as pessoas pararam para ouvir. No final da noite, mais de cem pessoas dançavam quadrilha em volta da fogueira! O Caio ficou tão feliz que não conseguiu dormir."
+      ],
+      "vocab": [
+        { "word": "tocaram", "gloss": "played (music)" },
+        { "word": "bairro", "gloss": "neighbourhood" },
+        { "word": "sanfona", "gloss": "accordion" },
+        { "word": "não tinha ninguém", "gloss": "there was nobody" },
+        { "word": "palco", "gloss": "stage" },
+        { "word": "aos poucos", "gloss": "little by little" },
+        { "word": "fogueira", "gloss": "bonfire" },
+        { "word": "não conseguiu", "gloss": "couldn't (manage to)" }
+      ]
+    },
+    {
+      "id": "pt-a2-07",
+      "title": "A mudança",
+      "subtitle": "Moving house",
+      "topic": "Home",
+      "symbol": "shippingbox.fill",
+      "paragraphs": [
+        "No mês passado, o André e a Renata se mudaram para uma casa no interior. Durante duas semanas, eles guardaram todas as coisas em caixas. No dia da mudança, os amigos vieram ajudar.",
+        "O caminhão estava cheio. Eles levaram três horas para carregar tudo para a casa nova. Uma caixa caiu e dois pratos quebraram, mas não foi nada grave. À noite, todo mundo estava exausto. Eles pediram pizza e comeram no chão, no meio das caixas."
+      ],
+      "vocab": [
+        { "word": "se mudaram", "gloss": "moved (house)" },
+        { "word": "interior", "gloss": "countryside, inland" },
+        { "word": "caixas", "gloss": "boxes" },
+        { "word": "mudança", "gloss": "move, removal" },
+        { "word": "caminhão", "gloss": "lorry, truck" },
+        { "word": "carregar", "gloss": "to carry" },
+        { "word": "pratos", "gloss": "plates" },
+        { "word": "exausto", "gloss": "exhausted" },
+        { "word": "chão", "gloss": "floor" }
+      ]
+    },
+    {
+      "id": "pt-a2-08",
+      "title": "Um convite",
+      "subtitle": "An invitation",
+      "topic": "Friends",
+      "symbol": "phone.fill",
+      "paragraphs": [
+        "Na quarta-feira, o celular do Henrique tocou. Era a Carolina, uma amiga da faculdade. Ele não a via fazia dois anos. — Vou me casar em setembro — ela disse. — E quero muito que você venha!",
+        "O Henrique ficou muito surpreso e feliz. Eles conversaram por uma hora: sobre a faculdade, os amigos em comum e os planos para o futuro. A Carolina explicou que a festa ia ser numa fazenda perto de Campinas. Depois da ligação, o Henrique comprou a passagem na mesma hora."
+      ],
+      "vocab": [
+        { "word": "celular", "gloss": "mobile phone" },
+        { "word": "tocou", "gloss": "rang" },
+        { "word": "fazia dois anos", "gloss": "for two years (it had been)" },
+        { "word": "vou me casar", "gloss": "I'm going to get married" },
+        { "word": "surpreso", "gloss": "surprised" },
+        { "word": "em comum", "gloss": "in common, mutual" },
+        { "word": "fazenda", "gloss": "farm, country estate" },
+        { "word": "ligação", "gloss": "phone call" }
+      ]
+    },
+    {
+      "id": "pt-a2-09",
+      "title": "Férias com chuva",
+      "subtitle": "A holiday in the rain",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Em janeiro, a família Souza foi acampar na Serra Gaúcha. Infelizmente, choveu cinco dos sete dias. A barraca ficou molhada, as roupas também, e as crianças estavam entediadas.",
+        "Então, o pai teve uma ideia. Eles visitaram uma fábrica de chocolate, jogaram cartas numa cafeteria e foram a uma piscina aquecida. No último dia, o sol finalmente apareceu. Hoje, as crianças dizem que foram as melhores férias da vida delas!"
+      ],
+      "vocab": [
+        { "word": "acampar", "gloss": "to go camping" },
+        { "word": "choveu", "gloss": "it rained" },
+        { "word": "barraca", "gloss": "tent" },
+        { "word": "molhada", "gloss": "wet" },
+        { "word": "entediadas", "gloss": "bored" },
+        { "word": "fábrica", "gloss": "factory" },
+        { "word": "aquecida", "gloss": "heated" },
+        { "word": "finalmente", "gloss": "at last" }
+      ]
+    },
+    {
+      "id": "pt-a2-10",
+      "title": "O vizinho novo",
+      "subtitle": "The new neighbour",
+      "topic": "Neighbours",
+      "symbol": "door.left.hand.open",
+      "paragraphs": [
+        "Há três semanas, um vizinho novo se mudou para o apartamento ao lado. No começo, a Débora nunca o via. Ela só ouvia um saxofone, todas as noites, até tarde.",
+        "Num sábado, alguém bateu na porta dela. Era o vizinho, com uma caixa de bombons. — Desculpe pelo barulho — ele disse. — Sou saxofonista e estou ensaiando para um show. A Débora riu: ela gostava da música. Ele a convidou para o show, e agora eles são amigos."
+      ],
+      "vocab": [
+        { "word": "há três semanas", "gloss": "three weeks ago" },
+        { "word": "ao lado", "gloss": "next door" },
+        { "word": "ouvia", "gloss": "could hear, used to hear" },
+        { "word": "bateu na porta", "gloss": "knocked on the door" },
+        { "word": "bombons", "gloss": "chocolates" },
+        { "word": "barulho", "gloss": "noise" },
+        { "word": "ensaiando", "gloss": "rehearsing" },
+        { "word": "riu", "gloss": "laughed" }
+      ]
+    },
+    {
+      "id": "pt-a2-11",
+      "title": "O jogo de domingo",
+      "subtitle": "Sunday's match",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "No domingo passado, o time de futebol do Miguel jogou a final do campeonato da cidade. O Miguel tem doze anos e é goleiro. A família toda foi torcer por ele, até a avó.",
+        "O jogo foi difícil. No intervalo, o outro time estava ganhando de um a zero. No segundo tempo, o time do Miguel fez dois gols. No último minuto, o Miguel defendeu um pênalti! Eles ganharam a taça, e a avó gritou mais alto do que todo mundo."
+      ],
+      "vocab": [
+        { "word": "time", "gloss": "team" },
+        { "word": "campeonato", "gloss": "championship" },
+        { "word": "goleiro", "gloss": "goalkeeper" },
+        { "word": "torcer", "gloss": "to cheer, support" },
+        { "word": "intervalo", "gloss": "half-time" },
+        { "word": "estava ganhando", "gloss": "was winning" },
+        { "word": "defendeu", "gloss": "saved" },
+        { "word": "taça", "gloss": "cup, trophy" }
+      ]
+    },
+    {
+      "id": "pt-a2-12",
+      "title": "Um dia no museu",
+      "subtitle": "A day at the museum",
+      "topic": "Culture",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "No aniversário dela, a Adriana levou a filha, a Alice, ao MASP, em São Paulo. A Alice tem dez anos e adora desenhar. Elas ficaram meia hora na fila, mas valeu a pena.",
+        "No museu, a Alice descobriu os quadros de Tarsila do Amaral e de Portinari. Ela ficou muito tempo na frente de um quadro cheio de cores. Depois, tirou o caderno da mochila e começou a desenhar. Um segurança olhou para ela e disse: — Você é uma artista de verdade!"
+      ],
+      "vocab": [
+        { "word": "levou", "gloss": "took (someone)" },
+        { "word": "desenhar", "gloss": "to draw" },
+        { "word": "fila", "gloss": "queue" },
+        { "word": "descobriu", "gloss": "discovered" },
+        { "word": "quadros", "gloss": "paintings" },
+        { "word": "cheio", "gloss": "full" },
+        { "word": "segurança", "gloss": "security guard" },
+        { "word": "de verdade", "gloss": "real, for real" }
+      ]
+    },
+    {
+      "id": "pt-a2-13",
+      "title": "Um cartão-postal",
+      "subtitle": "A postcard",
+      "topic": "Travel",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Querida Paula, estou te escrevendo de Lisboa! Cheguei há quatro dias. Está um pouco frio, mas a cidade é linda, com as ruas de pedra, os azulejos e o rio Tejo. O sotaque daqui é bem diferente do nosso, mas eu já estou me acostumando.",
+        "Ontem eu andei no bonde vinte e oito e comi pastéis de nata em Belém. Hoje à noite vou ouvir fado num restaurante pequeno da Alfama. Volto no domingo. Um beijo grande, Mariana."
+      ],
+      "vocab": [
+        { "word": "querida", "gloss": "dear (female)" },
+        { "word": "há quatro dias", "gloss": "four days ago" },
+        { "word": "linda", "gloss": "beautiful" },
+        { "word": "azulejos", "gloss": "painted tiles" },
+        { "word": "sotaque", "gloss": "accent" },
+        { "word": "me acostumando", "gloss": "getting used to it" },
+        { "word": "bonde", "gloss": "tram" },
+        { "word": "um beijo", "gloss": "a kiss (letter sign-off)" }
+      ]
+    },
+    {
+      "id": "pt-a2-14",
+      "title": "Planos para as férias",
+      "subtitle": "Holiday plans",
+      "topic": "Plans",
+      "symbol": "calendar",
+      "paragraphs": [
+        "Nessas férias, o Felipe vai fazer uma coisa diferente. Ele não vai viajar com os pais. Vai trabalhar dois meses numa fazenda de café no sul de Minas.",
+        "Ele vai acordar às cinco da manhã, vai ajudar na colheita e vai aprender a torrar café. Com o dinheiro, ele vai comprar uma moto. Os amigos acham a ideia estranha, mas o Felipe tem certeza de que vão ser férias inesquecíveis."
+      ],
+      "vocab": [
+        { "word": "vai fazer", "gloss": "is going to do" },
+        { "word": "fazenda", "gloss": "farm" },
+        { "word": "colheita", "gloss": "harvest" },
+        { "word": "torrar", "gloss": "to roast" },
+        { "word": "dinheiro", "gloss": "money" },
+        { "word": "estranha", "gloss": "strange" },
+        { "word": "tem certeza", "gloss": "is sure" },
+        { "word": "inesquecíveis", "gloss": "unforgettable" }
+      ]
+    },
+    {
+      "id": "pt-a2-15",
+      "title": "Perdidos na trilha",
+      "subtitle": "Lost on the trail",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "No sábado, a Bianca e o Leonardo fizeram uma trilha na Chapada Diamantina. De manhã, o céu estava azul e o caminho era fácil. Eles fizeram um piquenique perto de uma cachoeira e viram uns macacos.",
+        "À tarde, chegou a neblina. Eles não enxergavam mais a trilha e se perderam. O Leonardo manteve a calma: olhou o mapa e a bússola. Depois de duas horas de caminhada, eles encontraram uma pousada. A dona serviu uma sopa quentinha para eles. Eles dormiram lá e voltaram no dia seguinte."
+      ],
+      "vocab": [
+        { "word": "trilha", "gloss": "trail, hike" },
+        { "word": "cachoeira", "gloss": "waterfall" },
+        { "word": "macacos", "gloss": "monkeys" },
+        { "word": "neblina", "gloss": "fog, mist" },
+        { "word": "enxergavam", "gloss": "could see" },
+        { "word": "se perderam", "gloss": "got lost" },
+        { "word": "bússola", "gloss": "compass" },
+        { "word": "no dia seguinte", "gloss": "the next day" }
+      ]
+    }
+  ]
+}

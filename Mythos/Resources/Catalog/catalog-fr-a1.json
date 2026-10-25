@@ -1,0 +1,317 @@
+{
+  "language": "fr",
+  "level": "A1",
+  "stories": [
+    {
+      "id": "fr-a1-01",
+      "title": "Je m'appelle Léa",
+      "subtitle": "My name is Léa",
+      "topic": "Family",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "Bonjour ! Je m'appelle Léa. J'ai vingt-cinq ans et j'habite à Lyon, une grande ville en France. Je suis infirmière. J'aime mon travail, mais il est fatigant.",
+        "Ma famille est petite. Mon père s'appelle Marc et ma mère s'appelle Sophie. J'ai aussi un frère, Hugo. Il a dix-huit ans et il est étudiant. Le dimanche, nous mangeons ensemble chez mes parents."
+      ],
+      "vocab": [
+        { "word": "habite", "gloss": "live (I live)" },
+        { "word": "ville", "gloss": "city, town" },
+        { "word": "infirmière", "gloss": "nurse (female)" },
+        { "word": "travail", "gloss": "work, job" },
+        { "word": "fatigant", "gloss": "tiring" },
+        { "word": "frère", "gloss": "brother" },
+        { "word": "ensemble", "gloss": "together" }
+      ]
+    },
+    {
+      "id": "fr-a1-02",
+      "title": "Le matin de Thomas",
+      "subtitle": "Thomas's morning",
+      "topic": "Routine",
+      "symbol": "alarm.fill",
+      "paragraphs": [
+        "Thomas se réveille à sept heures. Il se lève, il ouvre la fenêtre et il prend une douche. Ensuite, il s'habille : un jean, une chemise bleue et des baskets.",
+        "Pour le petit-déjeuner, il boit un café et il mange une tartine avec du beurre et de la confiture. À huit heures, il prend son vélo et il va au bureau. Il n'est jamais en retard."
+      ],
+      "vocab": [
+        { "word": "se réveille", "gloss": "wakes up" },
+        { "word": "fenêtre", "gloss": "window" },
+        { "word": "douche", "gloss": "shower" },
+        { "word": "s'habille", "gloss": "gets dressed" },
+        { "word": "petit-déjeuner", "gloss": "breakfast" },
+        { "word": "tartine", "gloss": "slice of bread with a spread" },
+        { "word": "en retard", "gloss": "late" }
+      ]
+    },
+    {
+      "id": "fr-a1-03",
+      "title": "Au café",
+      "subtitle": "At the café",
+      "topic": "Food & drink",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Il est dix heures. Camille entre dans un petit café près de la gare. Il y a beaucoup de monde. Elle trouve une table libre à côté de la fenêtre et elle s'assoit.",
+        "Le serveur arrive. « Bonjour, madame. Qu'est-ce que vous désirez ? » Camille répond : « Un chocolat chaud et un croissant, s'il vous plaît. » Le croissant est délicieux. Elle paie quatre euros cinquante et elle laisse un pourboire."
+      ],
+      "vocab": [
+        { "word": "gare", "gloss": "train station" },
+        { "word": "beaucoup de monde", "gloss": "lots of people" },
+        { "word": "libre", "gloss": "free, available" },
+        { "word": "serveur", "gloss": "waiter" },
+        { "word": "chaud", "gloss": "hot" },
+        { "word": "paie", "gloss": "pays" },
+        { "word": "pourboire", "gloss": "tip" }
+      ]
+    },
+    {
+      "id": "fr-a1-04",
+      "title": "Le marché du samedi",
+      "subtitle": "The Saturday market",
+      "topic": "Shopping",
+      "symbol": "basket.fill",
+      "paragraphs": [
+        "Le samedi matin, il y a un marché sur la place du village. Madame Bernard aime faire les courses ici. Les fruits et les légumes sont frais et les vendeurs sont sympathiques.",
+        "Aujourd'hui, elle achète un kilo de pommes, des tomates et un fromage de chèvre. « C'est combien ? » demande-t-elle. « Neuf euros, madame. » Elle met tout dans son panier et elle rentre à la maison à pied."
+      ],
+      "vocab": [
+        { "word": "marché", "gloss": "market" },
+        { "word": "faire les courses", "gloss": "to do the shopping" },
+        { "word": "légumes", "gloss": "vegetables" },
+        { "word": "frais", "gloss": "fresh" },
+        { "word": "achète", "gloss": "buys" },
+        { "word": "fromage", "gloss": "cheese" },
+        { "word": "panier", "gloss": "basket" },
+        { "word": "à pied", "gloss": "on foot" }
+      ]
+    },
+    {
+      "id": "fr-a1-05",
+      "title": "Mon appartement",
+      "subtitle": "My flat",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "J'habite dans un appartement au troisième étage. Il n'y a pas d'ascenseur, alors je prends l'escalier tous les jours. L'appartement n'est pas grand, mais il est lumineux.",
+        "Il y a une cuisine, un salon, une chambre et une salle de bains. Dans le salon, il y a un canapé vert et beaucoup de livres. Ma pièce préférée, c'est le balcon : le soir, je lis et je regarde les toits de la ville."
+      ],
+      "vocab": [
+        { "word": "étage", "gloss": "floor, storey" },
+        { "word": "ascenseur", "gloss": "lift, elevator" },
+        { "word": "escalier", "gloss": "stairs" },
+        { "word": "lumineux", "gloss": "bright, full of light" },
+        { "word": "chambre", "gloss": "bedroom" },
+        { "word": "canapé", "gloss": "sofa" },
+        { "word": "pièce", "gloss": "room" },
+        { "word": "toits", "gloss": "roofs" }
+      ]
+    },
+    {
+      "id": "fr-a1-06",
+      "title": "Quel temps fait-il ?",
+      "subtitle": "What's the weather like?",
+      "topic": "Weather",
+      "symbol": "cloud.sun.fill",
+      "paragraphs": [
+        "En Bretagne, le temps change souvent. Le matin, il fait beau et il y a du soleil. L'après-midi, il y a des nuages et il pleut un peu. Le soir, il y a du vent.",
+        "Julien habite à Brest. Il a toujours un parapluie dans son sac. Aujourd'hui, il fait froid : il fait seulement dix degrés. Julien met un pull et une écharpe. Il n'aime pas l'hiver, il préfère l'été."
+      ],
+      "vocab": [
+        { "word": "temps", "gloss": "weather (also: time)" },
+        { "word": "il fait beau", "gloss": "the weather is nice" },
+        { "word": "nuages", "gloss": "clouds" },
+        { "word": "il pleut", "gloss": "it's raining" },
+        { "word": "vent", "gloss": "wind" },
+        { "word": "parapluie", "gloss": "umbrella" },
+        { "word": "froid", "gloss": "cold" },
+        { "word": "écharpe", "gloss": "scarf" }
+      ]
+    },
+    {
+      "id": "fr-a1-07",
+      "title": "Dans le bus",
+      "subtitle": "On the bus",
+      "topic": "Getting around",
+      "symbol": "bus.fill",
+      "paragraphs": [
+        "Chaque jour, Nadia prend le bus numéro douze pour aller à l'université. L'arrêt de bus est en face de sa maison. Le trajet dure vingt minutes.",
+        "Dans le bus, Nadia écoute de la musique ou elle lit un livre. Parfois, une vieille dame monte. Nadia se lève et elle lui donne sa place. La dame sourit et dit : « Merci, mademoiselle, vous êtes gentille. »"
+      ],
+      "vocab": [
+        { "word": "arrêt", "gloss": "stop (bus stop)" },
+        { "word": "en face de", "gloss": "opposite" },
+        { "word": "trajet", "gloss": "journey, trip" },
+        { "word": "dure", "gloss": "lasts" },
+        { "word": "parfois", "gloss": "sometimes" },
+        { "word": "monte", "gloss": "gets on" },
+        { "word": "place", "gloss": "seat" },
+        { "word": "gentille", "gloss": "kind (female)" }
+      ]
+    },
+    {
+      "id": "fr-a1-08",
+      "title": "Un anniversaire",
+      "subtitle": "A birthday",
+      "topic": "Celebrations",
+      "symbol": "birthday.cake.fill",
+      "paragraphs": [
+        "Aujourd'hui, c'est l'anniversaire de Paul. Il a trente ans. Ses amis préparent une fête surprise dans le jardin. Il y a des ballons, des bougies et un grand gâteau au chocolat.",
+        "À six heures, Paul arrive. Tout le monde crie : « Surprise ! Joyeux anniversaire ! » Paul est très content. Il ouvre ses cadeaux : un livre, une montre et un billet pour un concert. Le soir, ils dansent jusqu'à minuit."
+      ],
+      "vocab": [
+        { "word": "anniversaire", "gloss": "birthday" },
+        { "word": "fête", "gloss": "party" },
+        { "word": "bougies", "gloss": "candles" },
+        { "word": "gâteau", "gloss": "cake" },
+        { "word": "crie", "gloss": "shouts" },
+        { "word": "cadeaux", "gloss": "presents" },
+        { "word": "montre", "gloss": "watch" },
+        { "word": "jusqu'à", "gloss": "until" }
+      ]
+    },
+    {
+      "id": "fr-a1-09",
+      "title": "Le cours de français",
+      "subtitle": "The French class",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Le mardi et le jeudi soir, Kenji va à un cours de français. Il est japonais et il habite à Paris depuis trois mois. Dans sa classe, il y a douze étudiants de différents pays.",
+        "Le professeur s'appelle Madame Roux. Elle parle lentement et elle explique bien. Kenji trouve la grammaire difficile, mais il adore le vocabulaire. Après le cours, il boit un verre avec ses camarades et ils parlent français ensemble."
+      ],
+      "vocab": [
+        { "word": "cours", "gloss": "class, lesson" },
+        { "word": "depuis", "gloss": "for, since" },
+        { "word": "pays", "gloss": "countries" },
+        { "word": "lentement", "gloss": "slowly" },
+        { "word": "explique", "gloss": "explains" },
+        { "word": "difficile", "gloss": "difficult" },
+        { "word": "camarades", "gloss": "classmates" }
+      ]
+    },
+    {
+      "id": "fr-a1-10",
+      "title": "Mon chat Moustache",
+      "subtitle": "My cat Moustache",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "J'ai un chat. Il s'appelle Moustache. Il est gris et blanc, et il a des yeux jaunes. Il a cinq ans. Il est un peu gros parce qu'il mange beaucoup.",
+        "Moustache dort toute la journée sur le lit ou au soleil devant la fenêtre. La nuit, il joue et il court dans l'appartement. Il n'aime pas les chiens, mais il aime beaucoup ma voisine, parce qu'elle lui donne du poisson."
+      ],
+      "vocab": [
+        { "word": "gris", "gloss": "grey" },
+        { "word": "yeux", "gloss": "eyes" },
+        { "word": "gros", "gloss": "fat, big" },
+        { "word": "dort", "gloss": "sleeps" },
+        { "word": "lit", "gloss": "bed" },
+        { "word": "court", "gloss": "runs" },
+        { "word": "voisine", "gloss": "neighbour (female)" },
+        { "word": "poisson", "gloss": "fish" }
+      ]
+    },
+    {
+      "id": "fr-a1-11",
+      "title": "Le week-end",
+      "subtitle": "The weekend",
+      "topic": "Free time",
+      "symbol": "figure.walk",
+      "paragraphs": [
+        "Le week-end, Manon ne travaille pas. Le samedi, elle fait le ménage, puis elle va à la piscine avec sa sœur. Le soir, elles regardent un film ou elles sortent au restaurant.",
+        "Le dimanche, Manon se lève tard. Elle prépare un grand petit-déjeuner et elle lit le journal. L'après-midi, elle se promène dans le parc avec son chien. Elle aime le dimanche, parce que c'est calme."
+      ],
+      "vocab": [
+        { "word": "fait le ménage", "gloss": "does the cleaning" },
+        { "word": "piscine", "gloss": "swimming pool" },
+        { "word": "sœur", "gloss": "sister" },
+        { "word": "sortent", "gloss": "go out" },
+        { "word": "tard", "gloss": "late" },
+        { "word": "journal", "gloss": "newspaper" },
+        { "word": "se promène", "gloss": "goes for a walk" },
+        { "word": "calme", "gloss": "quiet, calm" }
+      ]
+    },
+    {
+      "id": "fr-a1-12",
+      "title": "Au restaurant",
+      "subtitle": "At the restaurant",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Ce soir, Antoine et Claire dînent dans un restaurant italien. La serveuse apporte la carte. Antoine choisit une pizza aux champignons. Claire prend des pâtes à la crème et une salade.",
+        "Comme boisson, ils commandent une bouteille d'eau et deux verres de vin rouge. Le repas est très bon. Pour le dessert, ils partagent une glace à la vanille. À la fin, Antoine demande l'addition."
+      ],
+      "vocab": [
+        { "word": "dînent", "gloss": "have dinner" },
+        { "word": "carte", "gloss": "menu" },
+        { "word": "choisit", "gloss": "chooses" },
+        { "word": "champignons", "gloss": "mushrooms" },
+        { "word": "boisson", "gloss": "drink" },
+        { "word": "commandent", "gloss": "order" },
+        { "word": "partagent", "gloss": "share" },
+        { "word": "l'addition", "gloss": "the bill" }
+      ]
+    },
+    {
+      "id": "fr-a1-13",
+      "title": "Une robe pour samedi",
+      "subtitle": "A dress for Saturday",
+      "topic": "Shopping",
+      "symbol": "tshirt.fill",
+      "paragraphs": [
+        "Samedi, Inès va au mariage de sa cousine. Elle n'a pas de robe, alors elle va dans un magasin de vêtements au centre-ville. Il y a des robes de toutes les couleurs.",
+        "Elle essaie une robe rouge, mais elle est trop petite. Ensuite, elle essaie une robe bleue. Elle est parfaite ! « Elle coûte combien ? » demande Inès. « Soixante euros. » C'est un peu cher, mais Inès est contente."
+      ],
+      "vocab": [
+        { "word": "mariage", "gloss": "wedding" },
+        { "word": "robe", "gloss": "dress" },
+        { "word": "magasin", "gloss": "shop" },
+        { "word": "vêtements", "gloss": "clothes" },
+        { "word": "essaie", "gloss": "tries on" },
+        { "word": "trop", "gloss": "too" },
+        { "word": "coûte", "gloss": "costs" },
+        { "word": "cher", "gloss": "expensive" }
+      ]
+    },
+    {
+      "id": "fr-a1-14",
+      "title": "Chez le médecin",
+      "subtitle": "At the doctor's",
+      "topic": "Health",
+      "symbol": "stethoscope",
+      "paragraphs": [
+        "Lucas est malade. Il a mal à la tête et à la gorge, et il a de la fièvre. Il téléphone au médecin et il prend un rendez-vous pour dix heures.",
+        "Le médecin l'examine. « Vous avez la grippe, dit-il. Restez au lit pendant trois jours et buvez beaucoup d'eau. » Il donne une ordonnance à Lucas. Lucas va à la pharmacie, puis il rentre chez lui et il dort."
+      ],
+      "vocab": [
+        { "word": "malade", "gloss": "ill, sick" },
+        { "word": "a mal à la tête", "gloss": "has a headache" },
+        { "word": "gorge", "gloss": "throat" },
+        { "word": "fièvre", "gloss": "fever" },
+        { "word": "rendez-vous", "gloss": "appointment" },
+        { "word": "grippe", "gloss": "flu" },
+        { "word": "pendant", "gloss": "for, during" },
+        { "word": "ordonnance", "gloss": "prescription" }
+      ]
+    },
+    {
+      "id": "fr-a1-15",
+      "title": "Ma meilleure amie",
+      "subtitle": "My best friend",
+      "topic": "Friends",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Ma meilleure amie s'appelle Chloé. Nous nous connaissons depuis l'école. Elle est grande, elle a les cheveux bruns et elle porte des lunettes. Elle est drôle et très généreuse.",
+        "Chloé habite à Marseille et moi, j'habite à Lille. C'est loin, alors nous nous téléphonons chaque semaine. En été, nous partons en vacances ensemble. Cette année, nous allons en Corse !"
+      ],
+      "vocab": [
+        { "word": "meilleure", "gloss": "best (female)" },
+        { "word": "nous connaissons", "gloss": "we know (each other)" },
+        { "word": "cheveux", "gloss": "hair" },
+        { "word": "lunettes", "gloss": "glasses" },
+        { "word": "drôle", "gloss": "funny" },
+        { "word": "loin", "gloss": "far" },
+        { "word": "semaine", "gloss": "week" },
+        { "word": "vacances", "gloss": "holiday" }
+      ]
+    }
+  ]
+}

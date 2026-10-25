@@ -1,0 +1,327 @@
+{
+  "language": "it",
+  "level": "A2",
+  "stories": [
+    {
+      "id": "it-a2-01",
+      "title": "Una settimana al mare",
+      "subtitle": "A week by the sea",
+      "topic": "Travel",
+      "symbol": "beach.umbrella.fill",
+      "paragraphs": [
+        "L'estate scorsa Martina e il suo ragazzo hanno passato una settimana in Puglia. Hanno affittato un piccolo appartamento a cinque minuti dalla spiaggia. Il primo giorno ha fatto molto caldo, così sono rimasti all'ombra sotto l'ombrellone.",
+        "Il resto della settimana hanno nuotato, hanno fatto snorkeling e hanno mangiato pesce fresco. Una sera hanno guardato il tramonto dal porto. Martina ha fatto tantissime foto. «Torniamo l'anno prossimo?» ha chiesto. Il suo ragazzo ha detto subito di sì."
+      ],
+      "vocab": [
+        { "word": "ragazzo", "gloss": "boyfriend" },
+        { "word": "hanno affittato", "gloss": "rented" },
+        { "word": "spiaggia", "gloss": "beach" },
+        { "word": "sono rimasti", "gloss": "stayed" },
+        { "word": "ombra", "gloss": "shade" },
+        { "word": "ombrellone", "gloss": "beach umbrella" },
+        { "word": "hanno nuotato", "gloss": "swam" },
+        { "word": "tramonto", "gloss": "sunset" },
+        { "word": "subito", "gloss": "straight away" }
+      ]
+    },
+    {
+      "id": "it-a2-02",
+      "title": "La chiave perduta",
+      "subtitle": "The lost key",
+      "topic": "Everyday life",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Ieri sera Riccardo è tornato dal lavoro molto tardi. Davanti alla porta, ha cercato la chiave nello zaino, poi nelle tasche. Niente! Si è spaventato: dove l'aveva lasciata?",
+        "Ha chiamato la vicina, la signora Bianchi, perché lei ha una copia delle chiavi. Purtroppo non rispondeva. Riccardo si è seduto sulle scale, stanco. All'improvviso ha visto qualcosa brillare sotto lo zerbino. Era la sua chiave! La mattina l'aveva nascosta lì per suo fratello, e poi se n'era dimenticato."
+      ],
+      "vocab": [
+        { "word": "ha cercato", "gloss": "looked for" },
+        { "word": "tasche", "gloss": "pockets" },
+        { "word": "si è spaventato", "gloss": "got scared" },
+        { "word": "copia", "gloss": "copy, spare" },
+        { "word": "purtroppo", "gloss": "unfortunately" },
+        { "word": "all'improvviso", "gloss": "suddenly" },
+        { "word": "zerbino", "gloss": "doormat" },
+        { "word": "aveva nascosta", "gloss": "had hidden" }
+      ]
+    },
+    {
+      "id": "it-a2-03",
+      "title": "Il primo giorno",
+      "subtitle": "The first day",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Lunedì Beatrice ha cominciato un nuovo lavoro in un'agenzia di viaggi. Era nervosa, quindi si è alzata molto presto e ha messo la sua giacca più bella. È arrivata in ufficio con venti minuti di anticipo.",
+        "La sua responsabile, Laura, le ha presentato i colleghi. Tutti sono stati molto gentili. La mattina Beatrice ha imparato a usare il programma per le prenotazioni. A pranzo i colleghi l'hanno invitata in trattoria. La sera ha scritto un messaggio a sua madre: «È andato tutto benissimo!»"
+      ],
+      "vocab": [
+        { "word": "ha cominciato", "gloss": "started" },
+        { "word": "nervosa", "gloss": "nervous (female)" },
+        { "word": "presto", "gloss": "early" },
+        { "word": "giacca", "gloss": "jacket" },
+        { "word": "di anticipo", "gloss": "early, ahead of time" },
+        { "word": "colleghi", "gloss": "colleagues" },
+        { "word": "ha imparato", "gloss": "learned" },
+        { "word": "prenotazioni", "gloss": "bookings" }
+      ]
+    },
+    {
+      "id": "it-a2-04",
+      "title": "La ricetta della nonna",
+      "subtitle": "Grandma's recipe",
+      "topic": "Cooking",
+      "symbol": "frying.pan.fill",
+      "paragraphs": [
+        "Quando ero piccolo, passavo le vacanze dalla nonna in Emilia. Ogni domenica faceva i tortellini a mano. Io la aiutavo: lei stendeva la sfoglia e io chiudevo i tortellini, uno per uno.",
+        "La settimana scorsa ho trovato la sua ricetta in un vecchio quaderno. Ho comprato la farina, le uova e il ripieno, e ci ho provato. I miei tortellini erano un po' brutti, ma il profumo della cucina mi ha ricordato la mia infanzia. La nonna sarebbe orgogliosa di me."
+      ],
+      "vocab": [
+        { "word": "passavo", "gloss": "used to spend" },
+        { "word": "a mano", "gloss": "by hand" },
+        { "word": "stendeva", "gloss": "used to roll out" },
+        { "word": "sfoglia", "gloss": "sheet of fresh pasta" },
+        { "word": "quaderno", "gloss": "notebook" },
+        { "word": "farina", "gloss": "flour" },
+        { "word": "ripieno", "gloss": "filling" },
+        { "word": "profumo", "gloss": "smell, scent" },
+        { "word": "infanzia", "gloss": "childhood" },
+        { "word": "orgogliosa", "gloss": "proud (female)" }
+      ]
+    },
+    {
+      "id": "it-a2-05",
+      "title": "Il treno notturno",
+      "subtitle": "The night train",
+      "topic": "Travel",
+      "symbol": "train.side.front.car",
+      "paragraphs": [
+        "Venerdì sera Silvia ha preso il treno notturno da Milano a Palermo. Aveva prenotato una cuccetta in uno scompartimento da sei persone. Il treno è partito alle nove in punto.",
+        "Nello scompartimento c'erano una famiglia con due bambini e un signore anziano che leggeva un romanzo. Silvia non ha dormito molto perché il treno faceva rumore. Ma la mattina, quando ha aperto la tendina, ha visto il mare della Calabria, blu e luminoso. Ne è valsa davvero la pena."
+      ],
+      "vocab": [
+        { "word": "aveva prenotato", "gloss": "had booked" },
+        { "word": "cuccetta", "gloss": "couchette, berth" },
+        { "word": "scompartimento", "gloss": "compartment" },
+        { "word": "in punto", "gloss": "on the dot" },
+        { "word": "romanzo", "gloss": "novel" },
+        { "word": "rumore", "gloss": "noise" },
+        { "word": "tendina", "gloss": "small curtain" },
+        { "word": "ne è valsa davvero la pena", "gloss": "it was really worth it" }
+      ]
+    },
+    {
+      "id": "it-a2-06",
+      "title": "La sagra del paese",
+      "subtitle": "The village festival",
+      "topic": "Celebrations",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Ad agosto Lorenzo e i suoi amici hanno suonato alla sagra del paese per la prima volta. Hanno un piccolo gruppo: Lorenzo canta, Giorgia suona la chitarra e Pietro suona la batteria.",
+        "All'inizio non c'era nessuno davanti al palco. Poi, piano piano, la gente si è fermata ad ascoltare. Alla fine della serata, più di cento persone ballavano in piazza! Lorenzo era così felice che non è riuscito a dormire."
+      ],
+      "vocab": [
+        { "word": "hanno suonato", "gloss": "played (music)" },
+        { "word": "sagra", "gloss": "local food festival" },
+        { "word": "gruppo", "gloss": "band" },
+        { "word": "batteria", "gloss": "drums" },
+        { "word": "non c'era nessuno", "gloss": "there was nobody" },
+        { "word": "palco", "gloss": "stage" },
+        { "word": "piano piano", "gloss": "little by little" },
+        { "word": "non è riuscito", "gloss": "couldn't manage" }
+      ]
+    },
+    {
+      "id": "it-a2-07",
+      "title": "Il trasloco",
+      "subtitle": "Moving house",
+      "topic": "Home",
+      "symbol": "shippingbox.fill",
+      "paragraphs": [
+        "Il mese scorso Simone e Giada si sono trasferiti in una casa in campagna. Per due settimane hanno messo tutte le loro cose negli scatoloni. Il giorno del trasloco, gli amici sono venuti ad aiutarli.",
+        "Il furgone era pieno. Ci sono volute tre ore per portare tutto nella casa nuova. Uno scatolone è caduto e due piatti si sono rotti, ma non era grave. La sera erano tutti distrutti. Hanno ordinato le pizze e hanno mangiato per terra, in mezzo agli scatoloni."
+      ],
+      "vocab": [
+        { "word": "si sono trasferiti", "gloss": "moved (house)" },
+        { "word": "campagna", "gloss": "countryside" },
+        { "word": "scatoloni", "gloss": "big boxes" },
+        { "word": "trasloco", "gloss": "move, removal" },
+        { "word": "furgone", "gloss": "van" },
+        { "word": "ci sono volute", "gloss": "it took" },
+        { "word": "piatti", "gloss": "plates" },
+        { "word": "distrutti", "gloss": "worn out (lit. destroyed)" },
+        { "word": "per terra", "gloss": "on the floor" }
+      ]
+    },
+    {
+      "id": "it-a2-08",
+      "title": "Un invito",
+      "subtitle": "An invitation",
+      "topic": "Friends",
+      "symbol": "phone.fill",
+      "paragraphs": [
+        "Mercoledì è squillato il telefono di Tommaso. Era Elisa, un'amica dell'università. Non la vedeva da due anni. «Mi sposo a settembre», ha detto, «e voglio che tu venga!»",
+        "Tommaso era molto sorpreso e contento. Hanno parlato per un'ora: dei loro studi, degli amici in comune e dei loro progetti. Elisa gli ha spiegato che la festa sarebbe stata in una villa sul lago di Como. Dopo la telefonata, Tommaso ha subito prenotato il treno."
+      ],
+      "vocab": [
+        { "word": "è squillato", "gloss": "rang" },
+        { "word": "mi sposo", "gloss": "I'm getting married" },
+        { "word": "sorpreso", "gloss": "surprised" },
+        { "word": "in comune", "gloss": "in common, mutual" },
+        { "word": "progetti", "gloss": "plans" },
+        { "word": "sarebbe stata", "gloss": "would be" },
+        { "word": "lago", "gloss": "lake" },
+        { "word": "telefonata", "gloss": "phone call" }
+      ]
+    },
+    {
+      "id": "it-a2-09",
+      "title": "Vacanze sotto la pioggia",
+      "subtitle": "A holiday in the rain",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Ad agosto la famiglia Ferrari è andata in campeggio sulle Dolomiti. Purtroppo ha piovuto cinque giorni su sette. La tenda era bagnata, anche i vestiti, e i bambini si annoiavano.",
+        "Allora il papà ha avuto un'idea. Hanno visitato un museo della montagna, hanno giocato a carte in un rifugio e sono andati in una piscina coperta. L'ultimo giorno è finalmente uscito il sole. Oggi i bambini dicono che sono state le loro vacanze più belle!"
+      ],
+      "vocab": [
+        { "word": "campeggio", "gloss": "campsite, camping" },
+        { "word": "ha piovuto", "gloss": "it rained" },
+        { "word": "tenda", "gloss": "tent" },
+        { "word": "bagnata", "gloss": "wet" },
+        { "word": "si annoiavano", "gloss": "were bored" },
+        { "word": "carte", "gloss": "cards" },
+        { "word": "coperta", "gloss": "indoor, covered" },
+        { "word": "finalmente", "gloss": "at last" }
+      ]
+    },
+    {
+      "id": "it-a2-10",
+      "title": "Il nuovo vicino",
+      "subtitle": "The new neighbour",
+      "topic": "Neighbours",
+      "symbol": "door.left.hand.open",
+      "paragraphs": [
+        "Tre settimane fa un nuovo vicino è venuto ad abitare nell'appartamento accanto. All'inizio Camilla non lo vedeva mai. Sentiva solo un violoncello, tutte le sere, fino a tardi.",
+        "Un sabato qualcuno ha bussato alla sua porta. Era il vicino, con una scatola di cioccolatini. «Mi scusi per il rumore», ha detto. «Sono violoncellista e sto preparando un concerto.» Camilla ha riso: a lei la musica piaceva. Lui l'ha invitata al concerto, e adesso sono amici."
+      ],
+      "vocab": [
+        { "word": "tre settimane fa", "gloss": "three weeks ago" },
+        { "word": "accanto", "gloss": "next door" },
+        { "word": "sentiva", "gloss": "could hear, used to hear" },
+        { "word": "ha bussato", "gloss": "knocked" },
+        { "word": "scatola", "gloss": "box" },
+        { "word": "cioccolatini", "gloss": "chocolates" },
+        { "word": "mi scusi", "gloss": "excuse me, sorry (formal)" },
+        { "word": "ha riso", "gloss": "laughed" }
+      ]
+    },
+    {
+      "id": "it-a2-11",
+      "title": "La partita di domenica",
+      "subtitle": "Sunday's match",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Domenica scorsa la squadra di calcio di Leonardo ha giocato la finale del torneo regionale. Leonardo ha dodici anni e fa il portiere. Tutta la sua famiglia è venuta a fare il tifo, anche la nonna.",
+        "La partita è stata difficile. All'intervallo l'altra squadra vinceva uno a zero. Nel secondo tempo, la squadra di Leonardo ha segnato due gol. All'ultimo minuto Leonardo ha parato un rigore! Hanno vinto la coppa, e la nonna ha urlato più forte di tutti."
+      ],
+      "vocab": [
+        { "word": "squadra", "gloss": "team" },
+        { "word": "torneo", "gloss": "tournament" },
+        { "word": "portiere", "gloss": "goalkeeper" },
+        { "word": "fare il tifo", "gloss": "to cheer, support" },
+        { "word": "intervallo", "gloss": "half-time" },
+        { "word": "vinceva", "gloss": "was winning" },
+        { "word": "ha segnato", "gloss": "scored" },
+        { "word": "ha parato", "gloss": "saved" },
+        { "word": "rigore", "gloss": "penalty" }
+      ]
+    },
+    {
+      "id": "it-a2-12",
+      "title": "Una giornata al museo",
+      "subtitle": "A day at the museum",
+      "topic": "Culture",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Per il suo compleanno, Francesca ha portato sua figlia Sofia agli Uffizi. Sofia ha dieci anni e adora disegnare. Hanno fatto la fila per mezz'ora, ma ne valeva la pena.",
+        "Nel museo Sofia ha scoperto i quadri di Botticelli e di Leonardo. È rimasta a lungo davanti alla Nascita di Venere. Poi ha tirato fuori il suo album e ha cominciato a disegnare. Un custode l'ha guardata e le ha detto: «Sei una vera artista!»"
+      ],
+      "vocab": [
+        { "word": "ha portato", "gloss": "took (someone)" },
+        { "word": "disegnare", "gloss": "to draw" },
+        { "word": "hanno fatto la fila", "gloss": "queued" },
+        { "word": "ha scoperto", "gloss": "discovered" },
+        { "word": "quadri", "gloss": "paintings" },
+        { "word": "a lungo", "gloss": "for a long time" },
+        { "word": "ha tirato fuori", "gloss": "took out" },
+        { "word": "custode", "gloss": "attendant, guard" }
+      ]
+    },
+    {
+      "id": "it-a2-13",
+      "title": "Una cartolina",
+      "subtitle": "A postcard",
+      "topic": "Travel",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Cara Anna, ti scrivo da Venezia! Sono arrivata quattro giorni fa. Fa freddo, ma la città è magica, con i canali, i ponti e i palazzi colorati. Mi perdo ogni giorno tra le calli, ma è bellissimo.",
+        "Ieri ho fatto un giro in gondola e ho visitato l'isola di Burano, dove le case sono di tutti i colori. Stasera assaggio le sarde in saor, un piatto tipico veneziano. Torno domenica. Un abbraccio, Giorgia"
+      ],
+      "vocab": [
+        { "word": "ti scrivo", "gloss": "I'm writing to you" },
+        { "word": "quattro giorni fa", "gloss": "four days ago" },
+        { "word": "ponti", "gloss": "bridges" },
+        { "word": "mi perdo", "gloss": "I get lost" },
+        { "word": "calli", "gloss": "Venetian lanes" },
+        { "word": "giro", "gloss": "ride, trip" },
+        { "word": "assaggio", "gloss": "I'm tasting, will taste" },
+        { "word": "un abbraccio", "gloss": "a hug (letter sign-off)" }
+      ]
+    },
+    {
+      "id": "it-a2-14",
+      "title": "Progetti per l'estate",
+      "subtitle": "Summer plans",
+      "topic": "Plans",
+      "symbol": "calendar",
+      "paragraphs": [
+        "Quest'estate Edoardo farà qualcosa di nuovo. Non andrà in vacanza con i suoi genitori. Lavorerà per due mesi in una fattoria in Toscana, dove si producono vino e olio d'oliva.",
+        "Si alzerà alle cinque di mattina, lavorerà nei campi e imparerà a fare il formaggio. Con i soldi si comprerà una moto. I suoi amici pensano che sia un'idea strana, ma Edoardo è sicuro che sarà un'estate indimenticabile."
+      ],
+      "vocab": [
+        { "word": "farà", "gloss": "will do" },
+        { "word": "andrà", "gloss": "will go" },
+        { "word": "fattoria", "gloss": "farm" },
+        { "word": "si producono", "gloss": "are produced" },
+        { "word": "campi", "gloss": "fields" },
+        { "word": "imparerà", "gloss": "will learn" },
+        { "word": "soldi", "gloss": "money" },
+        { "word": "indimenticabile", "gloss": "unforgettable" }
+      ]
+    },
+    {
+      "id": "it-a2-15",
+      "title": "Persi in montagna",
+      "subtitle": "Lost in the mountains",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Sabato Irene e Nicola hanno fatto un'escursione sulle Alpi. La mattina il cielo era azzurro e il sentiero era facile. Hanno fatto un picnic vicino a un lago e hanno visto le marmotte.",
+        "Il pomeriggio è arrivata la nebbia. Non vedevano più il sentiero e si sono persi. Nicola è rimasto calmo: ha guardato la mappa e la bussola. Dopo due ore di cammino, hanno trovato un rifugio. Il gestore ha servito loro una zuppa calda. Hanno dormito lì e sono scesi a valle il giorno dopo."
+      ],
+      "vocab": [
+        { "word": "escursione", "gloss": "hike, excursion" },
+        { "word": "sentiero", "gloss": "path, trail" },
+        { "word": "nebbia", "gloss": "fog" },
+        { "word": "si sono persi", "gloss": "got lost" },
+        { "word": "bussola", "gloss": "compass" },
+        { "word": "cammino", "gloss": "walking, way" },
+        { "word": "rifugio", "gloss": "mountain hut" },
+        { "word": "sono scesi", "gloss": "went down" },
+        { "word": "il giorno dopo", "gloss": "the next day" }
+      ]
+    }
+  ]
+}

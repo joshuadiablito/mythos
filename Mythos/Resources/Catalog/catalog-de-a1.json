@@ -1,0 +1,321 @@
+{
+  "language": "de",
+  "level": "A1",
+  "stories": [
+    {
+      "id": "de-a1-01",
+      "title": "Ich heiße Anna",
+      "subtitle": "My name is Anna",
+      "topic": "Family",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "Hallo! Ich heiße Anna. Ich bin sechsundzwanzig Jahre alt und wohne in Hamburg. Hamburg ist eine große Stadt im Norden von Deutschland. Ich bin Krankenschwester. Meine Arbeit ist interessant, aber anstrengend.",
+        "Meine Familie ist klein. Mein Vater heißt Peter und meine Mutter heißt Sabine. Ich habe auch einen Bruder. Er heißt Jonas und ist Student. Am Sonntag essen wir oft zusammen bei meinen Eltern."
+      ],
+      "vocab": [
+        { "word": "wohne", "gloss": "I live" },
+        { "word": "Stadt", "gloss": "city, town" },
+        { "word": "Norden", "gloss": "north" },
+        { "word": "Krankenschwester", "gloss": "nurse (female)" },
+        { "word": "anstrengend", "gloss": "tiring, demanding" },
+        { "word": "Bruder", "gloss": "brother" },
+        { "word": "zusammen", "gloss": "together" },
+        { "word": "Eltern", "gloss": "parents" }
+      ]
+    },
+    {
+      "id": "de-a1-02",
+      "title": "Der Morgen von Felix",
+      "subtitle": "Felix's morning",
+      "topic": "Routine",
+      "symbol": "alarm.fill",
+      "paragraphs": [
+        "Felix steht um sieben Uhr auf. Er öffnet das Fenster und duscht. Dann putzt er die Zähne und zieht sich an: eine Jeans, ein blaues Hemd und Turnschuhe.",
+        "Zum Frühstück trinkt er einen Kaffee und isst ein Brötchen mit Butter und Marmelade. Um acht Uhr nimmt er sein Fahrrad und fährt ins Büro. Er kommt nie zu spät."
+      ],
+      "vocab": [
+        { "word": "steht", "gloss": "gets (up) — from aufstehen" },
+        { "word": "Fenster", "gloss": "window" },
+        { "word": "duscht", "gloss": "has a shower" },
+        { "word": "Zähne", "gloss": "teeth" },
+        { "word": "zieht sich an", "gloss": "gets dressed" },
+        { "word": "Frühstück", "gloss": "breakfast" },
+        { "word": "Brötchen", "gloss": "bread roll" },
+        { "word": "zu spät", "gloss": "late" }
+      ]
+    },
+    {
+      "id": "de-a1-03",
+      "title": "Im Café",
+      "subtitle": "At the café",
+      "topic": "Food & drink",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Es ist zehn Uhr. Laura geht in ein kleines Café am Bahnhof. Es ist sehr voll, aber am Fenster ist noch ein Tisch frei. Laura setzt sich und liest die Karte.",
+        "Der Kellner kommt. „Guten Morgen! Was möchten Sie?“ Laura antwortet: „Eine heiße Schokolade und ein Stück Apfelkuchen, bitte.“ Der Kuchen schmeckt sehr gut. Laura bezahlt sechs Euro und gibt ein Trinkgeld."
+      ],
+      "vocab": [
+        { "word": "Bahnhof", "gloss": "train station" },
+        { "word": "voll", "gloss": "full, busy" },
+        { "word": "frei", "gloss": "free, available" },
+        { "word": "setzt sich", "gloss": "sits down" },
+        { "word": "Kellner", "gloss": "waiter" },
+        { "word": "heiße", "gloss": "hot" },
+        { "word": "schmeckt", "gloss": "tastes" },
+        { "word": "Trinkgeld", "gloss": "tip" }
+      ]
+    },
+    {
+      "id": "de-a1-04",
+      "title": "Auf dem Markt",
+      "subtitle": "At the market",
+      "topic": "Shopping",
+      "symbol": "basket.fill",
+      "paragraphs": [
+        "Am Samstagmorgen gibt es einen Markt auf dem Marktplatz. Frau Weber kauft gern hier ein. Das Obst und das Gemüse sind frisch, und die Verkäufer sind freundlich.",
+        "Heute kauft sie ein Kilo Äpfel, Tomaten und ein Stück Käse. „Was kostet das?“, fragt sie. „Neun Euro, bitte.“ Sie legt alles in ihren Korb und geht zu Fuß nach Hause."
+      ],
+      "vocab": [
+        { "word": "kauft", "gloss": "buys" },
+        { "word": "Obst", "gloss": "fruit" },
+        { "word": "Gemüse", "gloss": "vegetables" },
+        { "word": "frisch", "gloss": "fresh" },
+        { "word": "Verkäufer", "gloss": "sellers, stallholders" },
+        { "word": "Käse", "gloss": "cheese" },
+        { "word": "Korb", "gloss": "basket" },
+        { "word": "zu Fuß", "gloss": "on foot" }
+      ]
+    },
+    {
+      "id": "de-a1-05",
+      "title": "Meine Wohnung",
+      "subtitle": "My flat",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Ich wohne in einer Wohnung im dritten Stock. Es gibt keinen Aufzug, also nehme ich jeden Tag die Treppe. Die Wohnung ist nicht groß, aber sie ist hell.",
+        "Es gibt eine Küche, ein Wohnzimmer, ein Schlafzimmer und ein Bad. Im Wohnzimmer steht ein grünes Sofa, und es gibt viele Bücher. Mein Lieblingsplatz ist der Balkon: Am Abend lese ich dort und sehe die Dächer der Stadt."
+      ],
+      "vocab": [
+        { "word": "Wohnung", "gloss": "flat, apartment" },
+        { "word": "Stock", "gloss": "floor, storey" },
+        { "word": "Aufzug", "gloss": "lift, elevator" },
+        { "word": "Treppe", "gloss": "stairs" },
+        { "word": "hell", "gloss": "bright, light" },
+        { "word": "Schlafzimmer", "gloss": "bedroom" },
+        { "word": "Lieblingsplatz", "gloss": "favourite spot" },
+        { "word": "Dächer", "gloss": "roofs" }
+      ]
+    },
+    {
+      "id": "de-a1-06",
+      "title": "Wie ist das Wetter?",
+      "subtitle": "What's the weather like?",
+      "topic": "Weather",
+      "symbol": "cloud.sun.fill",
+      "paragraphs": [
+        "In Norddeutschland ändert sich das Wetter oft. Am Morgen scheint die Sonne. Am Nachmittag gibt es Wolken, und es regnet ein bisschen. Am Abend ist es windig.",
+        "Lukas wohnt in Bremen. Er hat immer einen Regenschirm in der Tasche. Heute ist es kalt: Es sind nur acht Grad. Lukas zieht einen Pullover an und nimmt einen Schal. Er mag den Winter nicht, er mag lieber den Sommer."
+      ],
+      "vocab": [
+        { "word": "Wetter", "gloss": "weather" },
+        { "word": "scheint", "gloss": "shines" },
+        { "word": "Wolken", "gloss": "clouds" },
+        { "word": "regnet", "gloss": "rains" },
+        { "word": "windig", "gloss": "windy" },
+        { "word": "Regenschirm", "gloss": "umbrella" },
+        { "word": "kalt", "gloss": "cold" },
+        { "word": "Schal", "gloss": "scarf" }
+      ]
+    },
+    {
+      "id": "de-a1-07",
+      "title": "Im Bus",
+      "subtitle": "On the bus",
+      "topic": "Getting around",
+      "symbol": "bus.fill",
+      "paragraphs": [
+        "Jeden Tag fährt Mia mit dem Bus Nummer zwölf zur Universität. Die Haltestelle ist gegenüber von ihrem Haus. Die Fahrt dauert zwanzig Minuten.",
+        "Im Bus hört Mia Musik oder liest ein Buch. Manchmal steigt eine alte Frau ein. Mia steht auf und gibt ihr ihren Platz. Die Frau lächelt und sagt: „Danke, das ist sehr nett von Ihnen.“"
+      ],
+      "vocab": [
+        { "word": "Haltestelle", "gloss": "stop (bus stop)" },
+        { "word": "gegenüber", "gloss": "opposite" },
+        { "word": "Fahrt", "gloss": "journey, ride" },
+        { "word": "dauert", "gloss": "lasts" },
+        { "word": "manchmal", "gloss": "sometimes" },
+        { "word": "steigt", "gloss": "gets (on) — from einsteigen" },
+        { "word": "Platz", "gloss": "seat, place" },
+        { "word": "nett", "gloss": "kind, nice" }
+      ]
+    },
+    {
+      "id": "de-a1-08",
+      "title": "Ein Geburtstag",
+      "subtitle": "A birthday",
+      "topic": "Celebrations",
+      "symbol": "birthday.cake.fill",
+      "paragraphs": [
+        "Heute hat Tim Geburtstag. Er wird dreißig. Seine Freunde planen eine Überraschungsparty im Garten. Es gibt Luftballons, Kerzen und eine große Schokoladentorte.",
+        "Um sechs Uhr kommt Tim. Alle rufen: „Überraschung! Alles Gute zum Geburtstag!“ Tim freut sich sehr. Er öffnet seine Geschenke: ein Buch, eine Uhr und eine Karte für ein Konzert. Am Abend tanzen sie bis Mitternacht."
+      ],
+      "vocab": [
+        { "word": "Geburtstag", "gloss": "birthday" },
+        { "word": "wird", "gloss": "turns, becomes" },
+        { "word": "Kerzen", "gloss": "candles" },
+        { "word": "Schokoladentorte", "gloss": "chocolate cake" },
+        { "word": "rufen", "gloss": "shout, call" },
+        { "word": "freut sich", "gloss": "is happy" },
+        { "word": "Geschenke", "gloss": "presents" },
+        { "word": "Mitternacht", "gloss": "midnight" }
+      ]
+    },
+    {
+      "id": "de-a1-09",
+      "title": "Der Deutschkurs",
+      "subtitle": "The German class",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Am Dienstag und am Donnerstag geht Marco in einen Deutschkurs. Er kommt aus Italien und wohnt seit drei Monaten in Berlin. In seinem Kurs sind zwölf Leute aus vielen Ländern.",
+        "Die Lehrerin heißt Frau Schmidt. Sie spricht langsam und erklärt alles gut. Marco findet die Artikel schwierig: der, die, das! Aber er lernt gern neue Wörter. Nach dem Kurs trinken die Kursteilnehmer zusammen ein Bier und sprechen Deutsch."
+      ],
+      "vocab": [
+        { "word": "seit", "gloss": "for, since" },
+        { "word": "Ländern", "gloss": "countries" },
+        { "word": "Lehrerin", "gloss": "teacher (female)" },
+        { "word": "langsam", "gloss": "slowly" },
+        { "word": "erklärt", "gloss": "explains" },
+        { "word": "schwierig", "gloss": "difficult" },
+        { "word": "Wörter", "gloss": "words" },
+        { "word": "Kursteilnehmer", "gloss": "course participants" }
+      ]
+    },
+    {
+      "id": "de-a1-10",
+      "title": "Meine Katze Mimi",
+      "subtitle": "My cat Mimi",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Ich habe eine Katze. Sie heißt Mimi. Sie ist schwarz und weiß und hat grüne Augen. Sie ist fünf Jahre alt. Sie ist ein bisschen dick, weil sie viel frisst.",
+        "Mimi schläft den ganzen Tag auf dem Bett oder in der Sonne am Fenster. In der Nacht spielt sie und rennt durch die Wohnung. Sie mag keine Hunde, aber sie mag meine Nachbarin sehr, denn sie gibt ihr Fisch."
+      ],
+      "vocab": [
+        { "word": "Katze", "gloss": "cat" },
+        { "word": "Augen", "gloss": "eyes" },
+        { "word": "dick", "gloss": "fat" },
+        { "word": "frisst", "gloss": "eats (of animals)" },
+        { "word": "schläft", "gloss": "sleeps" },
+        { "word": "rennt", "gloss": "runs" },
+        { "word": "Hunde", "gloss": "dogs" },
+        { "word": "Nachbarin", "gloss": "neighbour (female)" }
+      ]
+    },
+    {
+      "id": "de-a1-11",
+      "title": "Das Wochenende",
+      "subtitle": "The weekend",
+      "topic": "Free time",
+      "symbol": "figure.walk",
+      "paragraphs": [
+        "Am Wochenende arbeitet Lena nicht. Am Samstag putzt sie die Wohnung, dann geht sie mit ihrer Schwester ins Schwimmbad. Am Abend sehen sie einen Film oder gehen ins Restaurant.",
+        "Am Sonntag schläft Lena lange. Sie macht ein großes Frühstück und liest die Zeitung. Am Nachmittag geht sie mit ihrem Hund im Park spazieren. Sie mag den Sonntag, weil er so ruhig ist."
+      ],
+      "vocab": [
+        { "word": "Wochenende", "gloss": "weekend" },
+        { "word": "putzt", "gloss": "cleans" },
+        { "word": "Schwester", "gloss": "sister" },
+        { "word": "Schwimmbad", "gloss": "swimming pool" },
+        { "word": "lange", "gloss": "long, late (sleep in)" },
+        { "word": "Zeitung", "gloss": "newspaper" },
+        { "word": "spazieren", "gloss": "for a walk (spazieren gehen)" },
+        { "word": "ruhig", "gloss": "quiet, calm" }
+      ]
+    },
+    {
+      "id": "de-a1-12",
+      "title": "Im Restaurant",
+      "subtitle": "At the restaurant",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Heute Abend essen Jan und Sarah in einem griechischen Restaurant. Die Kellnerin bringt die Speisekarte. Jan bestellt Gyros mit Reis. Sarah nimmt einen Salat und Brot.",
+        "Zum Trinken bestellen sie eine Flasche Wasser und zwei Gläser Weißwein. Das Essen ist sehr lecker. Zum Nachtisch teilen sie ein Eis. Am Ende sagt Jan: „Die Rechnung, bitte!“"
+      ],
+      "vocab": [
+        { "word": "Kellnerin", "gloss": "waitress" },
+        { "word": "Speisekarte", "gloss": "menu" },
+        { "word": "bestellt", "gloss": "orders" },
+        { "word": "Reis", "gloss": "rice" },
+        { "word": "Flasche", "gloss": "bottle" },
+        { "word": "lecker", "gloss": "tasty, delicious" },
+        { "word": "Nachtisch", "gloss": "dessert" },
+        { "word": "Rechnung", "gloss": "bill" }
+      ]
+    },
+    {
+      "id": "de-a1-13",
+      "title": "Ein Kleid für die Hochzeit",
+      "subtitle": "A dress for the wedding",
+      "topic": "Shopping",
+      "symbol": "tshirt.fill",
+      "paragraphs": [
+        "Am Samstag geht Julia zur Hochzeit von ihrer Cousine. Sie hat kein Kleid, also geht sie in ein Kleidungsgeschäft in der Innenstadt. Dort gibt es Kleider in allen Farben.",
+        "Sie probiert ein rotes Kleid an, aber es ist zu klein. Dann probiert sie ein blaues Kleid an. Es passt perfekt! „Was kostet es?“, fragt Julia. „Neunundfünfzig Euro.“ Das ist ein bisschen teuer, aber Julia ist glücklich."
+      ],
+      "vocab": [
+        { "word": "Hochzeit", "gloss": "wedding" },
+        { "word": "Kleid", "gloss": "dress" },
+        { "word": "Kleidungsgeschäft", "gloss": "clothes shop" },
+        { "word": "Innenstadt", "gloss": "town centre" },
+        { "word": "probiert", "gloss": "tries (on) — from anprobieren" },
+        { "word": "passt", "gloss": "fits" },
+        { "word": "teuer", "gloss": "expensive" },
+        { "word": "glücklich", "gloss": "happy" }
+      ]
+    },
+    {
+      "id": "de-a1-14",
+      "title": "Beim Arzt",
+      "subtitle": "At the doctor's",
+      "topic": "Health",
+      "symbol": "stethoscope",
+      "paragraphs": [
+        "Paul ist krank. Er hat Kopfschmerzen und Halsschmerzen, und er hat Fieber. Er ruft beim Arzt an und bekommt einen Termin um zehn Uhr.",
+        "Der Arzt untersucht ihn. „Sie haben eine Grippe“, sagt er. „Bleiben Sie drei Tage im Bett und trinken Sie viel Wasser.“ Er gibt Paul ein Rezept. Paul geht zur Apotheke, dann geht er nach Hause und schläft."
+      ],
+      "vocab": [
+        { "word": "krank", "gloss": "ill, sick" },
+        { "word": "Kopfschmerzen", "gloss": "headache" },
+        { "word": "Halsschmerzen", "gloss": "sore throat" },
+        { "word": "Fieber", "gloss": "fever" },
+        { "word": "Termin", "gloss": "appointment" },
+        { "word": "untersucht", "gloss": "examines" },
+        { "word": "Rezept", "gloss": "prescription" },
+        { "word": "Apotheke", "gloss": "pharmacy" }
+      ]
+    },
+    {
+      "id": "de-a1-15",
+      "title": "Meine beste Freundin",
+      "subtitle": "My best friend",
+      "topic": "Friends",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Meine beste Freundin heißt Hannah. Wir kennen uns seit der Schule. Sie ist groß, hat lange braune Haare und trägt eine Brille. Sie ist lustig und sehr großzügig.",
+        "Hannah wohnt in München und ich wohne in Köln. Das ist weit weg, also telefonieren wir jede Woche. Im Sommer fahren wir zusammen in den Urlaub. Dieses Jahr fahren wir nach Österreich!"
+      ],
+      "vocab": [
+        { "word": "beste", "gloss": "best" },
+        { "word": "kennen uns", "gloss": "know each other" },
+        { "word": "Haare", "gloss": "hair" },
+        { "word": "Brille", "gloss": "glasses" },
+        { "word": "lustig", "gloss": "funny" },
+        { "word": "großzügig", "gloss": "generous" },
+        { "word": "weit weg", "gloss": "far away" },
+        { "word": "Urlaub", "gloss": "holiday" }
+      ]
+    }
+  ]
+}

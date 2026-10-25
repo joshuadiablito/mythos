@@ -1,0 +1,321 @@
+{
+  "language": "es",
+  "level": "A1",
+  "stories": [
+    {
+      "id": "es-a1-01",
+      "title": "Me llamo Lucía",
+      "subtitle": "My name is Lucía",
+      "topic": "Family",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "¡Hola! Me llamo Lucía. Tengo veintiocho años y vivo en Sevilla, en el sur de España. Soy profesora de inglés en un colegio. Me gusta mucho mi trabajo porque los niños son simpáticos.",
+        "Mi familia es grande. Tengo dos hermanos y una hermana. Mis padres viven en un pueblo cerca de Sevilla. Todos los domingos comemos juntos en su casa. Mi madre cocina una paella deliciosa."
+      ],
+      "vocab": [
+        { "word": "vivo", "gloss": "I live" },
+        { "word": "sur", "gloss": "south" },
+        { "word": "colegio", "gloss": "school" },
+        { "word": "trabajo", "gloss": "work, job" },
+        { "word": "hermanos", "gloss": "brothers; siblings" },
+        { "word": "pueblo", "gloss": "village, small town" },
+        { "word": "juntos", "gloss": "together" },
+        { "word": "cocina", "gloss": "cooks" }
+      ]
+    },
+    {
+      "id": "es-a1-02",
+      "title": "La mañana de Diego",
+      "subtitle": "Diego's morning",
+      "topic": "Routine",
+      "symbol": "alarm.fill",
+      "paragraphs": [
+        "Diego se despierta a las siete de la mañana. Se levanta, se ducha y se lava los dientes. Después, se viste: unos pantalones negros, una camisa blanca y una chaqueta.",
+        "Para desayunar, toma un café con leche y una tostada con tomate y aceite de oliva. A las ocho, sale de casa y camina hasta el metro. Llega a la oficina a las ocho y media. Nunca llega tarde."
+      ],
+      "vocab": [
+        { "word": "se despierta", "gloss": "wakes up" },
+        { "word": "se ducha", "gloss": "has a shower" },
+        { "word": "dientes", "gloss": "teeth" },
+        { "word": "se viste", "gloss": "gets dressed" },
+        { "word": "desayunar", "gloss": "to have breakfast" },
+        { "word": "tostada", "gloss": "toast" },
+        { "word": "aceite", "gloss": "oil" },
+        { "word": "tarde", "gloss": "late" }
+      ]
+    },
+    {
+      "id": "es-a1-03",
+      "title": "En la cafetería",
+      "subtitle": "At the café",
+      "topic": "Food & drink",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Son las diez y media. Carmen entra en una cafetería pequeña en la plaza. Hay mucha gente, pero hay una mesa libre al lado de la ventana. Carmen se sienta y mira el menú.",
+        "El camarero llega. «Buenos días. ¿Qué desea?» Carmen contesta: «Un chocolate caliente y unos churros, por favor». Los churros están muy ricos. Carmen paga cuatro euros y deja una propina."
+      ],
+      "vocab": [
+        { "word": "mucha gente", "gloss": "lots of people" },
+        { "word": "libre", "gloss": "free, available" },
+        { "word": "al lado de", "gloss": "next to" },
+        { "word": "ventana", "gloss": "window" },
+        { "word": "se sienta", "gloss": "sits down" },
+        { "word": "camarero", "gloss": "waiter" },
+        { "word": "ricos", "gloss": "tasty (of food)" },
+        { "word": "propina", "gloss": "tip" }
+      ]
+    },
+    {
+      "id": "es-a1-04",
+      "title": "El mercado",
+      "subtitle": "The market",
+      "topic": "Shopping",
+      "symbol": "basket.fill",
+      "paragraphs": [
+        "Los sábados por la mañana, la señora Ortega va al mercado del barrio. Le gusta comprar allí porque la fruta y la verdura son frescas y los vendedores son amables.",
+        "Hoy compra un kilo de naranjas, unos tomates y un queso manchego. «¿Cuánto es?», pregunta. «Doce euros, señora». Pone todo en su bolsa y vuelve a casa andando. En casa, prepara una ensalada."
+      ],
+      "vocab": [
+        { "word": "mercado", "gloss": "market" },
+        { "word": "barrio", "gloss": "neighbourhood" },
+        { "word": "verdura", "gloss": "vegetables" },
+        { "word": "frescas", "gloss": "fresh" },
+        { "word": "amables", "gloss": "kind, friendly" },
+        { "word": "naranjas", "gloss": "oranges" },
+        { "word": "queso", "gloss": "cheese" },
+        { "word": "andando", "gloss": "on foot, walking" }
+      ]
+    },
+    {
+      "id": "es-a1-05",
+      "title": "Mi piso",
+      "subtitle": "My flat",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Vivo en un piso en el cuarto piso de un edificio antiguo. No hay ascensor, así que subo por la escalera todos los días. El piso no es muy grande, pero tiene mucha luz.",
+        "Tiene una cocina, un salón, un dormitorio y un baño. En el salón hay un sofá azul y muchas plantas. Mi lugar favorito es la terraza: por la tarde, leo un libro y miro los tejados de la ciudad."
+      ],
+      "vocab": [
+        { "word": "piso", "gloss": "flat; floor (storey)" },
+        { "word": "edificio", "gloss": "building" },
+        { "word": "ascensor", "gloss": "lift, elevator" },
+        { "word": "subo", "gloss": "I go up" },
+        { "word": "escalera", "gloss": "stairs" },
+        { "word": "luz", "gloss": "light" },
+        { "word": "dormitorio", "gloss": "bedroom" },
+        { "word": "tejados", "gloss": "roofs" }
+      ]
+    },
+    {
+      "id": "es-a1-06",
+      "title": "¿Qué tiempo hace?",
+      "subtitle": "What's the weather like?",
+      "topic": "Weather",
+      "symbol": "cloud.sun.fill",
+      "paragraphs": [
+        "En el norte de España, el tiempo cambia mucho. Por la mañana hace sol y hace buen tiempo. Por la tarde hay nubes y llueve un poco. Por la noche hace viento.",
+        "Pablo vive en Bilbao. Siempre lleva un paraguas en la mochila. Hoy hace frío: solo hay diez grados. Pablo se pone un jersey y una bufanda. No le gusta el invierno; prefiere el verano."
+      ],
+      "vocab": [
+        { "word": "tiempo", "gloss": "weather (also: time)" },
+        { "word": "hace sol", "gloss": "it's sunny" },
+        { "word": "nubes", "gloss": "clouds" },
+        { "word": "llueve", "gloss": "it rains" },
+        { "word": "viento", "gloss": "wind" },
+        { "word": "paraguas", "gloss": "umbrella" },
+        { "word": "frío", "gloss": "cold" },
+        { "word": "bufanda", "gloss": "scarf" }
+      ]
+    },
+    {
+      "id": "es-a1-07",
+      "title": "En el autobús",
+      "subtitle": "On the bus",
+      "topic": "Getting around",
+      "symbol": "bus.fill",
+      "paragraphs": [
+        "Todos los días, Valeria toma el autobús número cinco para ir a la universidad. La parada está enfrente de su casa. El viaje dura veinticinco minutos.",
+        "En el autobús, Valeria escucha música o lee un libro. A veces sube una señora mayor. Valeria se levanta y le da su asiento. La señora sonríe y dice: «Gracias, hija, eres muy amable»."
+      ],
+      "vocab": [
+        { "word": "parada", "gloss": "stop (bus stop)" },
+        { "word": "enfrente de", "gloss": "opposite" },
+        { "word": "viaje", "gloss": "journey, trip" },
+        { "word": "dura", "gloss": "lasts" },
+        { "word": "a veces", "gloss": "sometimes" },
+        { "word": "sube", "gloss": "gets on" },
+        { "word": "mayor", "gloss": "elderly" },
+        { "word": "asiento", "gloss": "seat" }
+      ]
+    },
+    {
+      "id": "es-a1-08",
+      "title": "Un cumpleaños",
+      "subtitle": "A birthday",
+      "topic": "Celebrations",
+      "symbol": "birthday.cake.fill",
+      "paragraphs": [
+        "Hoy es el cumpleaños de Andrés. Cumple treinta años. Sus amigos preparan una fiesta sorpresa en el jardín. Hay globos, velas y una tarta grande de chocolate.",
+        "A las seis llega Andrés. Todos gritan: «¡Sorpresa! ¡Feliz cumpleaños!». Andrés está muy contento. Abre sus regalos: un libro, un reloj y una entrada para un concierto. Por la noche, bailan hasta las dos."
+      ],
+      "vocab": [
+        { "word": "cumpleaños", "gloss": "birthday" },
+        { "word": "cumple", "gloss": "turns (an age)" },
+        { "word": "fiesta", "gloss": "party" },
+        { "word": "velas", "gloss": "candles" },
+        { "word": "tarta", "gloss": "cake" },
+        { "word": "gritan", "gloss": "shout" },
+        { "word": "regalos", "gloss": "presents" },
+        { "word": "entrada", "gloss": "ticket" }
+      ]
+    },
+    {
+      "id": "es-a1-09",
+      "title": "La clase de español",
+      "subtitle": "The Spanish class",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Los martes y los jueves por la tarde, Emma va a una clase de español. Es alemana y vive en Madrid desde hace tres meses. En su clase hay diez estudiantes de muchos países.",
+        "La profesora se llama Marta. Habla despacio y explica muy bien. Para Emma, los verbos son difíciles, pero le encanta aprender palabras nuevas. Después de la clase, toma algo con sus compañeros y practican juntos."
+      ],
+      "vocab": [
+        { "word": "desde hace", "gloss": "for (a period of time)" },
+        { "word": "países", "gloss": "countries" },
+        { "word": "despacio", "gloss": "slowly" },
+        { "word": "explica", "gloss": "explains" },
+        { "word": "difíciles", "gloss": "difficult" },
+        { "word": "le encanta", "gloss": "she loves" },
+        { "word": "palabras", "gloss": "words" },
+        { "word": "compañeros", "gloss": "classmates" }
+      ]
+    },
+    {
+      "id": "es-a1-10",
+      "title": "Mi perro Coco",
+      "subtitle": "My dog Coco",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Tengo un perro. Se llama Coco. Es pequeño y marrón, y tiene las orejas muy largas. Tiene cuatro años. Es muy inteligente y un poco travieso.",
+        "Por la mañana, Coco y yo paseamos por el parque. Coco corre detrás de las palomas, pero nunca las atrapa. Por la tarde, duerme en el sofá. Cuando llego a casa, siempre está en la puerta, esperando."
+      ],
+      "vocab": [
+        { "word": "perro", "gloss": "dog" },
+        { "word": "marrón", "gloss": "brown" },
+        { "word": "orejas", "gloss": "ears" },
+        { "word": "travieso", "gloss": "naughty, mischievous" },
+        { "word": "paseamos", "gloss": "we go for a walk" },
+        { "word": "palomas", "gloss": "pigeons" },
+        { "word": "atrapa", "gloss": "catches" },
+        { "word": "esperando", "gloss": "waiting" }
+      ]
+    },
+    {
+      "id": "es-a1-11",
+      "title": "El fin de semana",
+      "subtitle": "The weekend",
+      "topic": "Free time",
+      "symbol": "figure.walk",
+      "paragraphs": [
+        "Los fines de semana, Sofía no trabaja. Los sábados limpia la casa y después va a la piscina con su hermana. Por la noche, ven una película o salen a cenar.",
+        "Los domingos, Sofía se levanta tarde. Prepara un desayuno grande y lee el periódico. Por la tarde, pasea por el parque con su novio. Le gustan los domingos porque son tranquilos."
+      ],
+      "vocab": [
+        { "word": "fines de semana", "gloss": "weekends" },
+        { "word": "limpia", "gloss": "cleans" },
+        { "word": "piscina", "gloss": "swimming pool" },
+        { "word": "salen", "gloss": "go out" },
+        { "word": "cenar", "gloss": "to have dinner" },
+        { "word": "periódico", "gloss": "newspaper" },
+        { "word": "novio", "gloss": "boyfriend" },
+        { "word": "tranquilos", "gloss": "quiet, calm" }
+      ]
+    },
+    {
+      "id": "es-a1-12",
+      "title": "En el restaurante",
+      "subtitle": "At the restaurant",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Esta noche, Javier y Elena cenan en un restaurante mexicano. La camarera trae la carta. Javier pide unos tacos de pollo. Elena prefiere unas enchiladas y una ensalada.",
+        "Para beber, piden una jarra de agua y dos limonadas. La comida está buenísima, pero un poco picante. De postre, comparten un flan. Al final, Javier pide la cuenta y deja una propina."
+      ],
+      "vocab": [
+        { "word": "cenan", "gloss": "have dinner" },
+        { "word": "trae", "gloss": "brings" },
+        { "word": "carta", "gloss": "menu" },
+        { "word": "pide", "gloss": "orders, asks for" },
+        { "word": "pollo", "gloss": "chicken" },
+        { "word": "picante", "gloss": "spicy" },
+        { "word": "postre", "gloss": "dessert" },
+        { "word": "la cuenta", "gloss": "the bill" }
+      ]
+    },
+    {
+      "id": "es-a1-13",
+      "title": "Un vestido para la boda",
+      "subtitle": "A dress for the wedding",
+      "topic": "Shopping",
+      "symbol": "tshirt.fill",
+      "paragraphs": [
+        "El sábado, Paula va a la boda de su prima. No tiene vestido, así que va a una tienda de ropa en el centro. Hay vestidos de todos los colores.",
+        "Se prueba un vestido rojo, pero es demasiado pequeño. Luego se prueba un vestido verde. ¡Es perfecto! «¿Cuánto cuesta?», pregunta Paula. «Cincuenta y cinco euros». Es un poco caro, pero Paula está feliz."
+      ],
+      "vocab": [
+        { "word": "boda", "gloss": "wedding" },
+        { "word": "prima", "gloss": "cousin (female)" },
+        { "word": "vestido", "gloss": "dress" },
+        { "word": "tienda", "gloss": "shop" },
+        { "word": "ropa", "gloss": "clothes" },
+        { "word": "se prueba", "gloss": "tries on" },
+        { "word": "demasiado", "gloss": "too" },
+        { "word": "caro", "gloss": "expensive" }
+      ]
+    },
+    {
+      "id": "es-a1-14",
+      "title": "En el médico",
+      "subtitle": "At the doctor's",
+      "topic": "Health",
+      "symbol": "stethoscope",
+      "paragraphs": [
+        "Miguel está enfermo. Le duele la cabeza y la garganta, y tiene fiebre. Llama al centro de salud y pide una cita para las diez.",
+        "La médica lo examina. «Tiene gripe», dice. «Tiene que descansar tres días y beber mucha agua». Le da una receta. Miguel va a la farmacia, compra las pastillas, vuelve a casa y duerme toda la tarde."
+      ],
+      "vocab": [
+        { "word": "enfermo", "gloss": "ill, sick" },
+        { "word": "le duele", "gloss": "it hurts (him)" },
+        { "word": "garganta", "gloss": "throat" },
+        { "word": "fiebre", "gloss": "fever" },
+        { "word": "cita", "gloss": "appointment" },
+        { "word": "gripe", "gloss": "flu" },
+        { "word": "receta", "gloss": "prescription" },
+        { "word": "pastillas", "gloss": "pills, tablets" }
+      ]
+    },
+    {
+      "id": "es-a1-15",
+      "title": "Mi mejor amiga",
+      "subtitle": "My best friend",
+      "topic": "Friends",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Mi mejor amiga se llama Isabel. Nos conocemos desde el colegio. Es alta, tiene el pelo rizado y lleva gafas. Es muy divertida y generosa.",
+        "Isabel vive en Buenos Aires y yo vivo en Valencia. Está muy lejos, así que hablamos por teléfono cada semana. En verano, siempre viajamos juntas. ¡Este año vamos a México!"
+      ],
+      "vocab": [
+        { "word": "mejor", "gloss": "best" },
+        { "word": "nos conocemos", "gloss": "we know each other" },
+        { "word": "pelo", "gloss": "hair" },
+        { "word": "rizado", "gloss": "curly" },
+        { "word": "gafas", "gloss": "glasses" },
+        { "word": "divertida", "gloss": "fun, funny (female)" },
+        { "word": "lejos", "gloss": "far" },
+        { "word": "viajamos", "gloss": "we travel" }
+      ]
+    }
+  ]
+}
