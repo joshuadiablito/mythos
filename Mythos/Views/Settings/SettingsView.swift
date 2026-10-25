@@ -4,6 +4,8 @@ struct SettingsView: View {
     @Environment(AppSettings.self) private var settings
     @State private var editing: Language?
     @State private var previewSent = false
+    @State private var notificationsBlocked = false
+    @Environment(\.openURL) private var openURL
 
     var body: some View {
         @Bindable var settings = settings
@@ -50,7 +52,12 @@ struct SettingsView: View {
                         DatePicker("Time", selection: $settings.deliveryTime, displayedComponents: .hourAndMinute)
                         Button(previewSent ? "Arriving in 5 seconds…" : "Send a preview", systemImage: "bell.badge") {
                             Task {
-                                await NotificationScheduler.sendPreview(settings: settings)
+                                guard await NotificationScheduler.sendPreview(settings: settings) else {
+                                    notificationsBlocked = true
+                                    return
+                                }
+                                // Queue the daily ones too, now that permission may just have been given.
+                                await NotificationScheduler.reschedule(settings: settings)
                                 previewSent = true
                                 try? await Task.sleep(for: .seconds(6))
                                 previewSent = false
@@ -91,6 +98,14 @@ struct SettingsView: View {
             }
             .appBackground()
             .navigationTitle("Settings")
+            .alert("Notifications are off for Mythos", isPresented: $notificationsBlocked) {
+                Button("Open Settings") {
+                    if let url = URL(string: UIApplication.openNotificationSettingsURLString) { openURL(url) }
+                }
+                Button("Not now", role: .cancel) {}
+            } message: {
+                Text("Turn on Allow Notifications in Settings to get each day's story.")
+            }
             .sheet(item: $editing) { language in
                 LevelSheet(language: language)
             }

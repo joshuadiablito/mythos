@@ -14,6 +14,15 @@ enum NotificationScheduler {
         await UNUserNotificationCenter.current().notificationSettings().authorizationStatus
     }
 
+    /// Asks for permission if it hasn't been asked yet; whether notifications can be shown.
+    static func ensureAuthorized() async -> Bool {
+        switch await authorizationStatus() {
+        case .authorized, .provisional, .ephemeral: true
+        case .notDetermined: await requestAuthorization()
+        default: false
+        }
+    }
+
     @discardableResult
     static func requestAuthorization() async -> Bool {
         (try? await UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge])) ?? false
@@ -47,22 +56,40 @@ enum NotificationScheduler {
         }
     }
 
+    /// "Bonjour! Your new story is here", with the story's title underneath and
+    /// a hook that changes from day to day, so the notification is worth opening.
     static func content(for story: Story) -> UNMutableNotificationContent {
         let content = UNMutableNotificationContent()
-        content.title = story.title
-        content.subtitle = "\(story.language.endonym) · \(story.level.rawValue) · \(story.readingMinutes) min"
-        content.body = story.opening
+        content.title = "\(story.language.greeting)! Your new story is here"
+        content.subtitle = "\(story.title) · \(story.language.endonym) \(story.level.rawValue)"
+        content.body = hook(for: story)
         content.sound = .default
         content.threadIdentifier = story.language.rawValue
         content.userInfo = [storyIDKey: story.id]
         return content
     }
 
+    /// One of several invitations to read, chosen by the story so it's stable for the day.
+    static func hook(for story: Story) -> String {
+        let minutes = story.readingMinutes == 1 ? "a minute" : "\(story.readingMinutes) minutes"
+        let hooks = [
+            "A new story is ready for you to read today. \(minutes.prefix(1).uppercased() + minutes.dropFirst()), \(story.vocab.count) new words. Tap to start.",
+            "“\(story.opening)” What happens next? Tap to find out.",
+            "\(story.vocab.count) new words are hiding in today's story. Can you find them all?",
+            "Your \(story.language.endonym) story for today takes just \(minutes). Read it now and keep your streak going.",
+            "Today: \(story.subtitle.lowercased()). A short story, at your level, ready when you are.",
+        ]
+        return hooks[(story.number - 1) % hooks.count]
+    }
+
     /// Sends today's featured story in a few seconds, to see what it looks like.
-    static func sendPreview(settings: AppSettings) async {
-        guard let story = DailyPlan(catalog: .shared).featured(in: settings.courses, on: .now) else { return }
+    /// False if notifications are turned off for Mythos.
+    static func sendPreview(settings: AppSettings) async -> Bool {
+        guard await ensureAuthorized() else { return false }
+        guard let story = DailyPlan(catalog: .shared).featured(in: settings.courses, on: .now) else { return true }
         let request = UNNotificationRequest(identifier: "preview", content: content(for: story),
                                             trigger: UNTimeIntervalNotificationTrigger(timeInterval: 5, repeats: false))
         try? await UNUserNotificationCenter.current().add(request)
+        return true
     }
 }

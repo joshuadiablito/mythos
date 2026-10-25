@@ -15,8 +15,14 @@ struct TodayView: View {
         NavigationStack(path: $path) {
             ScrollView {
                 VStack(alignment: .leading, spacing: 20) {
-                    if settings.notificationsEnabled && notificationStatus == .denied {
-                        NotificationsOffBanner()
+                    if settings.notificationsEnabled && (notificationStatus == .denied || notificationStatus == .notDetermined) {
+                        NotificationsOffBanner(status: notificationStatus) {
+                            Task {
+                                await NotificationScheduler.requestAuthorization()
+                                notificationStatus = await NotificationScheduler.authorizationStatus()
+                                await NotificationScheduler.reschedule(settings: settings)
+                            }
+                        }
                     }
                     ForEach(settings.courses) { course in
                         if let story = plan.story(for: course, on: .now) {
@@ -189,6 +195,9 @@ struct StreakBadge: View {
 }
 
 private struct NotificationsOffBanner: View {
+    let status: UNAuthorizationStatus
+    /// Asks for permission, when it hasn't been asked yet.
+    let onAllow: () -> Void
     @Environment(\.openURL) private var openURL
 
     var body: some View {
@@ -200,8 +209,14 @@ private struct NotificationsOffBanner: View {
                 Text("Turn them on to get each day's story.").font(.caption).foregroundStyle(.secondary)
             }
             Spacer()
-            Button("Settings") {
-                if let url = URL(string: UIApplication.openNotificationSettingsURLString) { openURL(url) }
+            Group {
+                if status == .notDetermined {
+                    Button("Turn on", action: onAllow)
+                } else {
+                    Button("Settings") {
+                        if let url = URL(string: UIApplication.openNotificationSettingsURLString) { openURL(url) }
+                    }
+                }
             }
             .buttonStyle(.glass)
             .controlSize(.small)

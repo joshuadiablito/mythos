@@ -25,17 +25,25 @@ final class AppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCent
         return true
     }
 
+    // The completion-handler forms, not the async ones: iOS must be told on the
+    // main thread that a tap was handled, or UIKit aborts ("Call must be made on
+    // main thread") when it snapshots the scene.
+
     // Show the day's story even when Mythos is open.
-    nonisolated func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification) async -> UNNotificationPresentationOptions {
-        [.banner, .list, .sound]
+    nonisolated func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification,
+                                            withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        completionHandler([.banner, .list, .sound])
     }
 
-    nonisolated func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse) async {
+    nonisolated func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse,
+                                            withCompletionHandler completionHandler: @escaping () -> Void) {
         let id = response.notification.request.content.userInfo[NotificationScheduler.storyIDKey] as? String
-        await MainActor.run {
-            guard let id else { return }
-            Router.shared.selectedTab = .today
-            Router.shared.pendingStoryID = id
+        DispatchQueue.main.async {
+            if let id {
+                Router.shared.selectedTab = .today
+                Router.shared.pendingStoryID = id
+            }
+            completionHandler()
         }
     }
 }

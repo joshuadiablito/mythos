@@ -126,3 +126,15 @@ struct ProgressTests {
         #expect(progress.savedWords.isEmpty)
     }
 }
+
+@Suite("Notifications")
+struct NotificationContentTests {
+    @Test func notificationsInviteTheReaderIn() throws {
+        let story = try #require(Catalog(bundle: Bundle(for: AppDelegate.self)).story(id: "fr-a1-01"))
+        let content = NotificationScheduler.content(for: story)
+        #expect(content.title == "Bonjour! Your new story is here")
+        #expect(content.subtitle == "Je m'appelle Léa · Français A1")
+        #expect(content.body.hasPrefix("A new story is ready for you to read today."))
+        #expect(content.userInfo[NotificationScheduler.storyIDKey] as? String == "fr-a1-01")
+    }
+}
