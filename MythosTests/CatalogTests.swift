@@ -138,3 +138,35 @@ struct NotificationContentTests {
         #expect(content.userInfo[NotificationScheduler.storyIDKey] as? String == "fr-a1-01")
     }
 }
+
+@Suite("Translations")
+struct TranslationTests {
+    let catalog = Catalog(bundle: Bundle(for: AppDelegate.self))
+
+    @Test("Every story has an English translation, sentence for sentence", arguments: Language.allCases)
+    func everyStoryIsTranslated(language: Language) {
+        for story in catalog.stories.filter({ $0.language == language }) {
+            #expect(!story.sentencePairs.isEmpty, "\(story.id): translation missing or out of step with its sentences")
+            #expect(story.english.joined().allSatisfy { !$0.trimmingCharacters(in: .whitespaces).isEmpty }, "\(story.id)")
+        }
+    }
+
+    @Test func dialogueStaysWithItsQuotationMarks() {
+        #expect(SentenceSplitter.split("Le serveur arrive. « Bonjour, madame. Qu'est-ce que vous désirez ? » Camille répond : « Un café. »", languageCode: "fr")
+                == ["Le serveur arrive.", "« Bonjour, madame. Qu'est-ce que vous désirez ? »", "Camille répond : « Un café. »"])
+        #expect(SentenceSplitter.split("„Was kostet das?“, fragt sie. „Neun Euro.“", languageCode: "de")
+                == ["„Was kostet das?“, fragt sie.", "„Neun Euro.“"])
+    }
+
+    @Test func speechTagsAfterADashContinueTheSentence() {
+        #expect(SentenceSplitter.split("— Quanto é? — pergunta. — Quinze reais.", languageCode: "pt")
+                == ["— Quanto é? — pergunta.", "— Quinze reais."])
+    }
+
+    @Test func greekQuestionMarkEndsASentence() {
+        #expect(SentenceSplitter.split("Φοβήθηκε: πού το είχε αφήσει; Τηλεφώνησε στη γειτόνισσα.", languageCode: "el")
+                == ["Φοβήθηκε: πού το είχε αφήσει;", "Τηλεφώνησε στη γειτόνισσα."])
+        // In other languages ; is just a semicolon.
+        #expect(SentenceSplitter.split("No le gusta el invierno; prefiere el verano.", languageCode: "es").count == 1)
+    }
+}

@@ -12,6 +12,20 @@
         "No verão passado, a Fernanda e o namorado passaram uma semana em Florianópolis. Eles alugaram um apartamento pequeno a cinco minutos da praia. No primeiro dia, fez muito calor, então eles ficaram na sombra, debaixo de um guarda-sol.",
         "No resto da semana, eles nadaram, fizeram surfe e comeram camarão. Uma tarde, eles viram o pôr do sol na Lagoa da Conceição. A Fernanda tirou muitas fotos. — Vamos voltar no ano que vem? — ela perguntou. O namorado disse que sim na hora."
       ],
+      "english": [
+        [
+          "Last summer, Fernanda and her boyfriend spent a week in Florianópolis.",
+          "They rented a small flat five minutes from the beach.",
+          "On the first day it was very hot, so they stayed in the shade under a beach umbrella."
+        ],
+        [
+          "For the rest of the week, they swam, went surfing and ate prawns.",
+          "One afternoon, they watched the sunset at Lagoa da Conceição.",
+          "Fernanda took lots of photos.",
+          "\"Shall we come back next year?\" she asked.",
+          "Her boyfriend said yes straight away."
+        ]
+      ],
       "vocab": [
         { "word": "passaram", "gloss": "spent (time)" },
         { "word": "alugaram", "gloss": "rented" },
@@ -32,6 +46,22 @@
       "paragraphs": [
         "Ontem à noite, o Rodrigo voltou do trabalho muito tarde. Na frente da porta, ele procurou a chave na mochila e depois nos bolsos. Nada! Ele ficou com medo: onde ele tinha deixado a chave?",
         "Ele ligou para a vizinha, dona Teresa, porque ela tem uma cópia. Infelizmente, ela não atendia. O Rodrigo sentou na escada, cansado. De repente, ele viu alguma coisa brilhando debaixo do tapete. Era a chave! De manhã, ele tinha escondido a chave ali para o irmão e tinha esquecido."
+      ],
+      "english": [
+        [
+          "Last night, Rodrigo came home from work very late.",
+          "In front of his door, he looked for his key in his backpack and then in his pockets.",
+          "Nothing!",
+          "He got scared: where had he left the key?"
+        ],
+        [
+          "He called his neighbour, Dona Teresa, because she has a copy.",
+          "Unfortunately, she didn't answer.",
+          "Rodrigo sat down on the stairs, tired.",
+          "Suddenly, he saw something shining under the mat.",
+          "It was the key!",
+          "That morning, he had hidden the key there for his brother and had forgotten."
+        ]
       ],
       "vocab": [
         { "word": "procurou", "gloss": "looked for" },
@@ -54,6 +84,20 @@
         "Na segunda-feira, a Patrícia começou um emprego novo numa agência de viagens. Ela estava nervosa, então acordou muito cedo e vestiu o seu melhor blazer. Ela chegou ao escritório vinte minutos adiantada.",
         "A chefe dela, a Simone, apresentou a equipe. Todo mundo foi muito simpático. De manhã, a Patrícia aprendeu a usar o sistema de reservas. Na hora do almoço, os colegas a convidaram para comer. À noite, ela mandou uma mensagem para a mãe: — Deu tudo certo!"
       ],
+      "english": [
+        [
+          "On Monday, Patrícia started a new job at a travel agency.",
+          "She was nervous, so she woke up very early and put on her best blazer.",
+          "She arrived at the office twenty minutes early."
+        ],
+        [
+          "Her boss, Simone, introduced her to the team.",
+          "Everyone was very friendly.",
+          "In the morning, Patrícia learned how to use the booking system.",
+          "At lunchtime, her colleagues invited her to eat with them.",
+          "In the evening, she sent her mother a message: \"Everything went well!\""
+        ]
+      ],
       "vocab": [
         { "word": "começou", "gloss": "started" },
         { "word": "emprego", "gloss": "job" },
@@ -74,6 +118,19 @@
       "paragraphs": [
         "Quando eu era pequeno, passava as férias na casa da minha avó, em Minas Gerais. Todo domingo, ela fazia um bolo de fubá. Eu ajudava: eu quebrava os ovos e ela misturava a massa.",
         "Na semana passada, encontrei a receita dela num caderno antigo. Comprei fubá, ovos, leite, açúcar e manteiga, e tentei fazer. O bolo ficou um pouco seco, mas o cheiro da cozinha me lembrou a minha infância. A minha avó ficaria orgulhosa de mim."
+      ],
+      "english": [
+        [
+          "When I was little, I used to spend the holidays at my grandmother's house in Minas Gerais.",
+          "Every Sunday, she made a cornmeal cake.",
+          "I used to help: I cracked the eggs and she mixed the batter."
+        ],
+        [
+          "Last week, I found her recipe in an old notebook.",
+          "I bought cornmeal, eggs, milk, sugar and butter, and I tried making it.",
+          "The cake came out a bit dry, but the smell in the kitchen reminded me of my childhood.",
+          "My grandmother would be proud of me."
+        ]
       ],
       "vocab": [
         { "word": "passava", "gloss": "used to spend" },
@@ -98,6 +155,19 @@
         "Na sexta à noite, a Vitória pegou um ônibus leito de São Paulo para o Rio de Janeiro. Ela tinha comprado a passagem pela internet. O ônibus saiu às onze em ponto da rodoviária.",
         "Ao lado dela, tinha uma senhora que tricotava um cachecol e um rapaz que ouvia música com fones. A Vitória não dormiu muito, porque a estrada tinha muitas curvas. Mas de manhã, quando abriu a cortina, viu o Pão de Açúcar no meio da neblina. A viagem valeu a pena."
       ],
+      "english": [
+        [
+          "On Friday night, Vitória took a sleeper coach from São Paulo to Rio de Janeiro.",
+          "She had bought the ticket online.",
+          "The coach left the bus station at eleven on the dot."
+        ],
+        [
+          "Next to her, there was a lady who was knitting a scarf and a young man who was listening to music on headphones.",
+          "Vitória didn't sleep much, because the road had lots of bends.",
+          "But in the morning, when she opened the curtain, she saw Sugarloaf Mountain in the middle of the mist.",
+          "The journey was worth it."
+        ]
+      ],
       "vocab": [
         { "word": "ônibus leito", "gloss": "sleeper coach" },
         { "word": "passagem", "gloss": "ticket (for travel)" },
@@ -119,6 +189,18 @@
         "Em junho, o Caio e os amigos tocaram na festa junina do bairro pela primeira vez. Eles têm uma banda pequena: o Caio canta, a Lívia toca sanfona e o Diego toca zabumba.",
         "No começo, não tinha ninguém na frente do palco. Depois, aos poucos, as pessoas pararam para ouvir. No final da noite, mais de cem pessoas dançavam quadrilha em volta da fogueira! O Caio ficou tão feliz que não conseguiu dormir."
       ],
+      "english": [
+        [
+          "In June, Caio and his friends played at the neighbourhood June festival for the first time.",
+          "They have a small band: Caio sings, Lívia plays the accordion and Diego plays the zabumba drum."
+        ],
+        [
+          "At first, there was nobody in front of the stage.",
+          "Then, little by little, people stopped to listen.",
+          "By the end of the night, more than a hundred people were square-dancing around the bonfire!",
+          "Caio was so happy that he couldn't sleep."
+        ]
+      ],
       "vocab": [
         { "word": "tocaram", "gloss": "played (music)" },
         { "word": "bairro", "gloss": "neighbourhood" },
@@ -139,6 +221,20 @@
       "paragraphs": [
         "No mês passado, o André e a Renata se mudaram para uma casa no interior. Durante duas semanas, eles guardaram todas as coisas em caixas. No dia da mudança, os amigos vieram ajudar.",
         "O caminhão estava cheio. Eles levaram três horas para carregar tudo para a casa nova. Uma caixa caiu e dois pratos quebraram, mas não foi nada grave. À noite, todo mundo estava exausto. Eles pediram pizza e comeram no chão, no meio das caixas."
+      ],
+      "english": [
+        [
+          "Last month, André and Renata moved to a house in the countryside.",
+          "For two weeks, they packed all their things into boxes.",
+          "On moving day, their friends came to help."
+        ],
+        [
+          "The lorry was full.",
+          "It took them three hours to carry everything into the new house.",
+          "A box fell and two plates broke, but it was nothing serious.",
+          "In the evening, everyone was exhausted.",
+          "They ordered pizza and ate on the floor, surrounded by boxes."
+        ]
       ],
       "vocab": [
         { "word": "se mudaram", "gloss": "moved (house)" },
@@ -162,6 +258,21 @@
         "Na quarta-feira, o celular do Henrique tocou. Era a Carolina, uma amiga da faculdade. Ele não a via fazia dois anos. — Vou me casar em setembro — ela disse. — E quero muito que você venha!",
         "O Henrique ficou muito surpreso e feliz. Eles conversaram por uma hora: sobre a faculdade, os amigos em comum e os planos para o futuro. A Carolina explicou que a festa ia ser numa fazenda perto de Campinas. Depois da ligação, o Henrique comprou a passagem na mesma hora."
       ],
+      "english": [
+        [
+          "On Wednesday, Henrique's mobile rang.",
+          "It was Carolina, a friend from university.",
+          "He hadn't seen her for two years.",
+          "\"I'm getting married in September,\" she said.",
+          "\"And I'd really love you to come!\""
+        ],
+        [
+          "Henrique was very surprised and happy.",
+          "They talked for an hour: about university, their mutual friends and their plans for the future.",
+          "Carolina explained that the party was going to be at a farm near Campinas.",
+          "After the call, Henrique bought his ticket right away."
+        ]
+      ],
       "vocab": [
         { "word": "celular", "gloss": "mobile phone" },
         { "word": "tocou", "gloss": "rang" },
@@ -182,6 +293,19 @@
       "paragraphs": [
         "Em janeiro, a família Souza foi acampar na Serra Gaúcha. Infelizmente, choveu cinco dos sete dias. A barraca ficou molhada, as roupas também, e as crianças estavam entediadas.",
         "Então, o pai teve uma ideia. Eles visitaram uma fábrica de chocolate, jogaram cartas numa cafeteria e foram a uma piscina aquecida. No último dia, o sol finalmente apareceu. Hoje, as crianças dizem que foram as melhores férias da vida delas!"
+      ],
+      "english": [
+        [
+          "In January, the Souza family went camping in the Serra Gaúcha.",
+          "Unfortunately, it rained on five of the seven days.",
+          "The tent got wet, the clothes too, and the children were bored."
+        ],
+        [
+          "So their father had an idea.",
+          "They visited a chocolate factory, played cards in a café and went to a heated pool.",
+          "On the last day, the sun finally came out.",
+          "Now the children say it was the best holiday of their lives!"
+        ]
       ],
       "vocab": [
         { "word": "acampar", "gloss": "to go camping" },
@@ -204,6 +328,21 @@
         "Há três semanas, um vizinho novo se mudou para o apartamento ao lado. No começo, a Débora nunca o via. Ela só ouvia um saxofone, todas as noites, até tarde.",
         "Num sábado, alguém bateu na porta dela. Era o vizinho, com uma caixa de bombons. — Desculpe pelo barulho — ele disse. — Sou saxofonista e estou ensaiando para um show. A Débora riu: ela gostava da música. Ele a convidou para o show, e agora eles são amigos."
       ],
+      "english": [
+        [
+          "Three weeks ago, a new neighbour moved into the flat next door.",
+          "At first, Débora never saw him.",
+          "She only heard a saxophone, every night, until late."
+        ],
+        [
+          "One Saturday, someone knocked on her door.",
+          "It was the neighbour, with a box of chocolates.",
+          "\"Sorry about the noise,\" he said.",
+          "\"I'm a saxophonist and I'm rehearsing for a show.\"",
+          "Débora laughed: she liked the music.",
+          "He invited her to the show, and now they're friends."
+        ]
+      ],
       "vocab": [
         { "word": "há três semanas", "gloss": "three weeks ago" },
         { "word": "ao lado", "gloss": "next door" },
@@ -224,6 +363,20 @@
       "paragraphs": [
         "No domingo passado, o time de futebol do Miguel jogou a final do campeonato da cidade. O Miguel tem doze anos e é goleiro. A família toda foi torcer por ele, até a avó.",
         "O jogo foi difícil. No intervalo, o outro time estava ganhando de um a zero. No segundo tempo, o time do Miguel fez dois gols. No último minuto, o Miguel defendeu um pênalti! Eles ganharam a taça, e a avó gritou mais alto do que todo mundo."
+      ],
+      "english": [
+        [
+          "Last Sunday, Miguel's football team played the final of the city championship.",
+          "Miguel is twelve and he's the goalkeeper.",
+          "His whole family went to cheer him on, even his grandmother."
+        ],
+        [
+          "The match was difficult.",
+          "At half-time, the other team was winning one–nil.",
+          "In the second half, Miguel's team scored two goals.",
+          "In the last minute, Miguel saved a penalty!",
+          "They won the trophy, and his grandmother shouted louder than anyone."
+        ]
       ],
       "vocab": [
         { "word": "time", "gloss": "team" },
@@ -246,6 +399,19 @@
         "No aniversário dela, a Adriana levou a filha, a Alice, ao MASP, em São Paulo. A Alice tem dez anos e adora desenhar. Elas ficaram meia hora na fila, mas valeu a pena.",
         "No museu, a Alice descobriu os quadros de Tarsila do Amaral e de Portinari. Ela ficou muito tempo na frente de um quadro cheio de cores. Depois, tirou o caderno da mochila e começou a desenhar. Um segurança olhou para ela e disse: — Você é uma artista de verdade!"
       ],
+      "english": [
+        [
+          "For her birthday, Adriana took her daughter, Alice, to MASP, in São Paulo.",
+          "Alice is ten and loves drawing.",
+          "They queued for half an hour, but it was worth it."
+        ],
+        [
+          "In the museum, Alice discovered the paintings of Tarsila do Amaral and Portinari.",
+          "She stood for a long time in front of a painting full of colour.",
+          "Then she took her notebook out of her backpack and started to draw.",
+          "A security guard looked at her and said: \"You're a real artist!\""
+        ]
+      ],
       "vocab": [
         { "word": "levou", "gloss": "took (someone)" },
         { "word": "desenhar", "gloss": "to draw" },
@@ -266,6 +432,20 @@
       "paragraphs": [
         "Querida Paula, estou te escrevendo de Lisboa! Cheguei há quatro dias. Está um pouco frio, mas a cidade é linda, com as ruas de pedra, os azulejos e o rio Tejo. O sotaque daqui é bem diferente do nosso, mas eu já estou me acostumando.",
         "Ontem eu andei no bonde vinte e oito e comi pastéis de nata em Belém. Hoje à noite vou ouvir fado num restaurante pequeno da Alfama. Volto no domingo. Um beijo grande, Mariana."
+      ],
+      "english": [
+        [
+          "Dear Paula, I'm writing to you from Lisbon!",
+          "I arrived four days ago.",
+          "It's a bit cold, but the city is beautiful, with its stone streets, painted tiles and the River Tagus.",
+          "The accent here is very different from ours, but I'm already getting used to it."
+        ],
+        [
+          "Yesterday I rode the number twenty-eight tram and ate custard tarts in Belém.",
+          "Tonight I'm going to listen to fado in a small restaurant in Alfama.",
+          "I'm coming back on Sunday.",
+          "Big kiss, Mariana."
+        ]
       ],
       "vocab": [
         { "word": "querida", "gloss": "dear (female)" },
@@ -288,6 +468,18 @@
         "Nessas férias, o Felipe vai fazer uma coisa diferente. Ele não vai viajar com os pais. Vai trabalhar dois meses numa fazenda de café no sul de Minas.",
         "Ele vai acordar às cinco da manhã, vai ajudar na colheita e vai aprender a torrar café. Com o dinheiro, ele vai comprar uma moto. Os amigos acham a ideia estranha, mas o Felipe tem certeza de que vão ser férias inesquecíveis."
       ],
+      "english": [
+        [
+          "These holidays, Felipe is going to do something different.",
+          "He isn't going to travel with his parents.",
+          "He's going to work for two months on a coffee farm in the south of Minas."
+        ],
+        [
+          "He's going to wake up at five in the morning, help with the harvest and learn how to roast coffee.",
+          "With the money, he's going to buy a motorbike.",
+          "His friends think the idea is strange, but Felipe is sure it's going to be an unforgettable holiday."
+        ]
+      ],
       "vocab": [
         { "word": "vai fazer", "gloss": "is going to do" },
         { "word": "fazenda", "gloss": "farm" },
@@ -308,6 +500,21 @@
       "paragraphs": [
         "No sábado, a Bianca e o Leonardo fizeram uma trilha na Chapada Diamantina. De manhã, o céu estava azul e o caminho era fácil. Eles fizeram um piquenique perto de uma cachoeira e viram uns macacos.",
         "À tarde, chegou a neblina. Eles não enxergavam mais a trilha e se perderam. O Leonardo manteve a calma: olhou o mapa e a bússola. Depois de duas horas de caminhada, eles encontraram uma pousada. A dona serviu uma sopa quentinha para eles. Eles dormiram lá e voltaram no dia seguinte."
+      ],
+      "english": [
+        [
+          "On Saturday, Bianca and Leonardo went hiking in the Chapada Diamantina.",
+          "In the morning, the sky was blue and the path was easy.",
+          "They had a picnic near a waterfall and saw some monkeys."
+        ],
+        [
+          "In the afternoon, the mist came in.",
+          "They couldn't see the trail any more and they got lost.",
+          "Leonardo kept calm: he looked at the map and the compass.",
+          "After two hours of walking, they found a guesthouse.",
+          "The owner served them a nice hot soup.",
+          "They slept there and went back the next day."
+        ]
       ],
       "vocab": [
         { "word": "trilha", "gloss": "trail, hike" },

@@ -20,6 +20,9 @@ struct Story: Identifiable, Hashable, Sendable {
     /// SF Symbol for the topic.
     let symbol: String
     let paragraphs: [String]
+    /// The English translation: per paragraph, one sentence for each of the
+    /// paragraph's sentences as `SentenceSplitter` splits them.
+    let english: [[String]]
     let vocab: [VocabItem]
 
     var text: String { paragraphs.joined(separator: "\n\n") }
@@ -38,6 +41,17 @@ struct Story: Identifiable, Hashable, Sendable {
         return String(first[...end])
     }
 
+    /// Each paragraph's sentences beside their translations. Empty if the
+    /// story has no translation, or one that doesn't line up.
+    var sentencePairs: [[(original: String, english: String)]] {
+        guard english.count == paragraphs.count else { return [] }
+        let pairs = zip(paragraphs, english).map { paragraph, translation in
+            let sentences = SentenceSplitter.split(paragraph, languageCode: language.rawValue)
+            return sentences.count == translation.count ? Array(zip(sentences, translation)).map { ($0, $1) } : nil
+        }
+        return pairs.contains { $0 == nil } ? [] : pairs.compactMap { $0 }
+    }
+
     func gloss(for word: String) -> String? {
         let w = word.lowercased()
         return vocab.first { $0.word.lowercased() == w }?.gloss
@@ -53,6 +67,7 @@ struct CatalogFile: Decodable {
         let topic: String
         let symbol: String
         let paragraphs: [String]
+        let english: [[String]]?
         let vocab: [VocabItem]
     }
 
@@ -63,7 +78,7 @@ struct CatalogFile: Decodable {
     var resolved: [Story] {
         stories.enumerated().map { index, r in
             Story(id: r.id, language: language, level: level, number: index + 1, title: r.title, subtitle: r.subtitle,
-                  topic: r.topic, symbol: r.symbol, paragraphs: r.paragraphs, vocab: r.vocab)
+                  topic: r.topic, symbol: r.symbol, paragraphs: r.paragraphs, english: r.english ?? [], vocab: r.vocab)
         }
     }
 }

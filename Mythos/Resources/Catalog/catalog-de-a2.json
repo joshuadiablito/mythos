@@ -12,6 +12,20 @@
         "Letzten Sommer sind Clara und ihr Freund eine Woche an die Ostsee gefahren. Sie haben eine kleine Ferienwohnung gemietet, nur fünf Minuten vom Strand entfernt. Am ersten Tag war es sehr heiß, deshalb sind sie im Schatten unter einem Strandkorb geblieben.",
         "Den Rest der Woche sind sie geschwommen, Fahrrad gefahren und haben Fischbrötchen gegessen. An einem Abend haben sie den Sonnenuntergang über dem Meer gesehen. Clara hat viele Fotos gemacht. „Kommen wir nächstes Jahr wieder?“, hat sie gefragt. Ihr Freund hat sofort Ja gesagt."
       ],
+      "english": [
+        [
+          "Last summer Clara and her boyfriend went to the Baltic coast for a week.",
+          "They rented a small holiday flat, only five minutes from the beach.",
+          "On the first day it was very hot, so they stayed in the shade under a roofed beach chair."
+        ],
+        [
+          "For the rest of the week they swam, cycled and ate fish rolls.",
+          "One evening they watched the sunset over the sea.",
+          "Clara took lots of photos.",
+          "\"Shall we come back next year?\" she asked.",
+          "Her boyfriend said yes straight away."
+        ]
+      ],
       "vocab": [
         { "word": "gemietet", "gloss": "rented" },
         { "word": "Strand", "gloss": "beach" },
@@ -32,6 +46,22 @@
       "paragraphs": [
         "Gestern Abend ist Moritz sehr spät von der Arbeit nach Hause gekommen. Vor seiner Tür hat er den Schlüssel in seinem Rucksack gesucht, dann in seinen Hosentaschen. Nichts! Er hat Angst bekommen: Wo hatte er ihn nur gelassen?",
         "Er hat seine Nachbarin, Frau Koch, angerufen, denn sie hat einen Ersatzschlüssel. Leider ist sie nicht ans Telefon gegangen. Moritz hat sich müde auf die Treppe gesetzt. Plötzlich hat er etwas unter der Fußmatte glänzen sehen. Es war sein Schlüssel! Am Morgen hatte er ihn dort für seinen Bruder versteckt und es dann vergessen."
+      ],
+      "english": [
+        [
+          "Last night Moritz came home from work very late.",
+          "At his door he looked for his key in his backpack, then in his trouser pockets.",
+          "Nothing!",
+          "He got scared: where on earth had he left it?"
+        ],
+        [
+          "He called his neighbour, Frau Koch, because she has a spare key.",
+          "Unfortunately she didn't answer the phone.",
+          "Moritz sat down on the stairs, tired.",
+          "Suddenly he saw something shining under the doormat.",
+          "It was his key!",
+          "That morning he had hidden it there for his brother and then forgotten."
+        ]
       ],
       "vocab": [
         { "word": "gesucht", "gloss": "looked for" },
@@ -54,6 +84,20 @@
         "Am Montag hat Leonie eine neue Stelle in einem Reisebüro angefangen. Sie war nervös, deshalb ist sie sehr früh aufgestanden und hat ihre schönste Jacke angezogen. Sie ist zwanzig Minuten zu früh im Büro angekommen.",
         "Ihre Chefin, Frau Braun, hat ihr das Team vorgestellt. Alle waren sehr freundlich. Am Vormittag hat Leonie gelernt, wie das Buchungsprogramm funktioniert. Mittags haben ihre Kollegen sie zum Essen eingeladen. Am Abend hat sie ihrer Mutter geschrieben: „Alles ist super gelaufen!“"
       ],
+      "english": [
+        [
+          "On Monday Leonie started a new job at a travel agency.",
+          "She was nervous, so she got up very early and put on her nicest jacket.",
+          "She arrived at the office twenty minutes early."
+        ],
+        [
+          "Her boss, Frau Braun, introduced her to the team.",
+          "Everyone was very friendly.",
+          "In the morning Leonie learned how the booking software works.",
+          "At lunchtime her colleagues invited her out to eat.",
+          "In the evening she wrote to her mother: \"Everything went brilliantly!\""
+        ]
+      ],
       "vocab": [
         { "word": "Stelle", "gloss": "job, position" },
         { "word": "angefangen", "gloss": "started" },
@@ -74,6 +118,19 @@
       "paragraphs": [
         "Als ich klein war, habe ich die Ferien oft bei meiner Oma in Bayern verbracht. Jeden Sonntag hat sie einen Apfelstrudel gebacken. Ich habe ihr geholfen: Ich habe die Äpfel geschält, und sie hat den Teig gemacht.",
         "Letzte Woche habe ich ihr Rezept in einem alten Heft gefunden. Ich habe Äpfel, Mehl, Butter, Zucker und Zimt gekauft und es versucht. Der Teig war ein bisschen zu dick, aber der Duft in der Küche hat mich an meine Kindheit erinnert. Meine Oma wäre stolz auf mich."
+      ],
+      "english": [
+        [
+          "When I was little, I often spent the holidays at my grandma's in Bavaria.",
+          "Every Sunday she baked an apple strudel.",
+          "I helped her: I peeled the apples, and she made the dough."
+        ],
+        [
+          "Last week I found her recipe in an old notebook.",
+          "I bought apples, flour, butter, sugar and cinnamon and gave it a try.",
+          "The dough was a bit too thick, but the smell in the kitchen reminded me of my childhood.",
+          "My grandma would be proud of me."
+        ]
       ],
       "vocab": [
         { "word": "verbracht", "gloss": "spent (time)" },
@@ -98,6 +155,19 @@
         "Am Freitagabend hat Sophie den Nachtzug von Berlin nach Wien genommen. Sie hatte einen Liegeplatz in einem Abteil für sechs Personen gebucht. Der Zug ist pünktlich um zehn nach neun abgefahren.",
         "Im Abteil waren eine Familie mit zwei Kindern und ein älterer Herr, der einen Roman gelesen hat. Sophie hat nicht viel geschlafen, weil der Zug laut war. Aber am Morgen, als sie den Vorhang aufgemacht hat, hat sie die Alpen im Sonnenlicht gesehen. Die Reise hat sich gelohnt."
       ],
+      "english": [
+        [
+          "On Friday evening Sophie took the night train from Berlin to Vienna.",
+          "She had booked a couchette in a six-person compartment.",
+          "The train left on time at ten past nine."
+        ],
+        [
+          "In the compartment there was a family with two children and an older gentleman who was reading a novel.",
+          "Sophie didn't sleep much, because the train was noisy.",
+          "But in the morning, when she opened the curtain, she saw the Alps in the sunlight.",
+          "The journey was worth it."
+        ]
+      ],
       "vocab": [
         { "word": "Liegeplatz", "gloss": "couchette, berth" },
         { "word": "Abteil", "gloss": "compartment" },
@@ -119,6 +189,18 @@
         "Im Juni haben Ben und seine Freunde zum ersten Mal auf dem Stadtfest gespielt. Sie haben eine kleine Band: Ben singt, Emma spielt Gitarre und Karim spielt Schlagzeug.",
         "Am Anfang stand niemand vor der Bühne. Dann sind langsam immer mehr Leute stehen geblieben und haben zugehört. Am Ende des Abends haben über hundert Menschen auf dem Platz getanzt! Ben war so glücklich, dass er nicht schlafen konnte."
       ],
+      "english": [
+        [
+          "In June Ben and his friends played at the town festival for the first time.",
+          "They have a small band: Ben sings, Emma plays the guitar and Karim plays the drums."
+        ],
+        [
+          "At the beginning nobody was standing in front of the stage.",
+          "Then, slowly, more and more people stopped and listened.",
+          "By the end of the evening, over a hundred people were dancing in the square!",
+          "Ben was so happy that he couldn't sleep."
+        ]
+      ],
       "vocab": [
         { "word": "zum ersten Mal", "gloss": "for the first time" },
         { "word": "Schlagzeug", "gloss": "drums" },
@@ -139,6 +221,20 @@
       "paragraphs": [
         "Letzten Monat sind Tobias und Katrin in ein Haus auf dem Land gezogen. Zwei Wochen lang haben sie alle ihre Sachen in Kartons gepackt. Am Tag des Umzugs sind ihre Freunde gekommen, um zu helfen.",
         "Der Transporter war voll. Sie haben drei Stunden gebraucht, um alles ins neue Haus zu tragen. Ein Karton ist heruntergefallen, und zwei Teller sind kaputtgegangen, aber das war nicht schlimm. Am Abend waren alle total erschöpft. Sie haben Pizza bestellt und auf dem Boden zwischen den Kartons gegessen."
+      ],
+      "english": [
+        [
+          "Last month Tobias and Katrin moved to a house in the countryside.",
+          "For two weeks they packed all their things into boxes.",
+          "On the day of the move their friends came to help."
+        ],
+        [
+          "The van was full.",
+          "It took them three hours to carry everything into the new house.",
+          "A box fell and two plates broke, but that didn't matter.",
+          "In the evening everyone was completely exhausted.",
+          "They ordered pizza and ate on the floor between the boxes."
+        ]
       ],
       "vocab": [
         { "word": "auf dem Land", "gloss": "in the countryside" },
@@ -162,6 +258,20 @@
         "Am Mittwoch hat Simons Handy geklingelt. Es war Nina, eine Freundin aus der Uni. Er hatte sie seit zwei Jahren nicht gesehen. „Ich heirate im September“, hat sie gesagt, „und ich möchte, dass du kommst!“",
         "Simon war sehr überrascht und hat sich riesig gefreut. Sie haben eine Stunde lang telefoniert: über ihr Studium, gemeinsame Freunde und ihre Pläne. Nina hat erzählt, dass die Feier in einem Schloss am Bodensee stattfindet. Nach dem Gespräch hat Simon sofort ein Zugticket gekauft."
       ],
+      "english": [
+        [
+          "On Wednesday Simon's mobile rang.",
+          "It was Nina, a friend from university.",
+          "He hadn't seen her for two years.",
+          "\"I'm getting married in September,\" she said, \"and I'd like you to come!\""
+        ],
+        [
+          "Simon was very surprised and absolutely delighted.",
+          "They talked on the phone for an hour: about their studies, mutual friends and their plans.",
+          "Nina said that the celebration would take place in a castle on Lake Constance.",
+          "After the conversation Simon bought a train ticket straight away."
+        ]
+      ],
       "vocab": [
         { "word": "Handy", "gloss": "mobile phone" },
         { "word": "geklingelt", "gloss": "rang" },
@@ -182,6 +292,19 @@
       "paragraphs": [
         "Im August war Familie Fischer zum Campen im Schwarzwald. Leider hat es an fünf von sieben Tagen geregnet. Das Zelt war nass, die Kleidung auch, und die Kinder haben sich gelangweilt.",
         "Dann hatte der Vater eine Idee. Sie haben ein Kuckucksuhren-Museum besucht, in einem Café Karten gespielt und sind ins Hallenbad gegangen. Am letzten Tag ist endlich die Sonne herausgekommen. Heute sagen die Kinder, dass es ihr bester Urlaub war!"
+      ],
+      "english": [
+        [
+          "In August the Fischer family went camping in the Black Forest.",
+          "Unfortunately it rained on five days out of seven.",
+          "The tent was wet, the clothes too, and the children were bored."
+        ],
+        [
+          "Then their father had an idea.",
+          "They visited a cuckoo clock museum, played cards in a café and went to the indoor pool.",
+          "On the last day the sun finally came out.",
+          "Now the children say it was their best holiday ever!"
+        ]
       ],
       "vocab": [
         { "word": "Campen", "gloss": "camping" },
@@ -204,6 +327,21 @@
         "Vor drei Wochen ist ein neuer Nachbar in die Wohnung nebenan gezogen. Am Anfang hat Marie ihn nie gesehen. Sie hat nur jeden Abend Klaviermusik gehört, bis spät in die Nacht.",
         "An einem Samstag hat jemand an ihre Tür geklopft. Es war der Nachbar, mit einer Schachtel Pralinen. „Entschuldigung für den Lärm“, hat er gesagt. „Ich bin Pianist und bereite ein Konzert vor.“ Marie hat gelacht: Sie mochte die Musik. Er hat sie zum Konzert eingeladen, und jetzt sind sie Freunde."
       ],
+      "english": [
+        [
+          "Three weeks ago a new neighbour moved into the flat next door.",
+          "At first Marie never saw him.",
+          "She only heard piano music every evening, until late at night."
+        ],
+        [
+          "One Saturday someone knocked on her door.",
+          "It was the neighbour, with a box of chocolates.",
+          "\"Sorry about the noise,\" he said.",
+          "\"I'm a pianist and I'm preparing for a concert.\"",
+          "Marie laughed: she liked the music.",
+          "He invited her to the concert, and now they're friends."
+        ]
+      ],
       "vocab": [
         { "word": "vor drei Wochen", "gloss": "three weeks ago" },
         { "word": "nebenan", "gloss": "next door" },
@@ -224,6 +362,20 @@
       "paragraphs": [
         "Letzten Sonntag hat die Fußballmannschaft von Elias das Finale des Turniers gespielt. Elias ist zwölf und Torwart. Seine ganze Familie ist gekommen, um ihn anzufeuern, sogar seine Oma.",
         "Das Spiel war schwer. Zur Halbzeit hat die andere Mannschaft eins zu null geführt. In der zweiten Halbzeit hat Elias' Mannschaft zwei Tore geschossen. In der letzten Minute hat Elias einen Elfmeter gehalten! Sie haben den Pokal gewonnen, und seine Oma hat lauter geschrien als alle anderen."
+      ],
+      "english": [
+        [
+          "Last Sunday Elias's football team played in the final of the tournament.",
+          "Elias is twelve and the goalkeeper.",
+          "His whole family came to cheer him on, even his grandma."
+        ],
+        [
+          "The match was hard.",
+          "At half-time the other team was leading one–nil.",
+          "In the second half Elias's team scored two goals.",
+          "In the last minute Elias saved a penalty!",
+          "They won the cup, and his grandma shouted louder than everyone else."
+        ]
       ],
       "vocab": [
         { "word": "Mannschaft", "gloss": "team" },
@@ -246,6 +398,19 @@
         "Zum Geburtstag hat Petra ihre Tochter Lina ins Museum mitgenommen. Lina ist zehn Jahre alt und malt sehr gern. Sie mussten eine halbe Stunde anstehen, aber es hat sich gelohnt.",
         "Im Museum hat Lina die Bilder von Caspar David Friedrich entdeckt. Sie ist lange vor einem Bild mit einem Mann über dem Nebelmeer stehen geblieben. Dann hat sie ihren Skizzenblock herausgeholt und angefangen zu zeichnen. Ein Museumswärter hat ihr zugeschaut und gesagt: „Du bist ja eine echte Künstlerin!“"
       ],
+      "english": [
+        [
+          "For her birthday Petra took her daughter Lina to the museum.",
+          "Lina is ten years old and loves painting.",
+          "They had to queue for half an hour, but it was worth it."
+        ],
+        [
+          "In the museum Lina discovered the paintings of Caspar David Friedrich.",
+          "She stood for a long time in front of a painting of a man above a sea of fog.",
+          "Then she took out her sketch pad and started drawing.",
+          "A museum attendant watched her and said: \"You really are a true artist!\""
+        ]
+      ],
       "vocab": [
         { "word": "mitgenommen", "gloss": "taken along" },
         { "word": "malt", "gloss": "paints" },
@@ -266,6 +431,20 @@
       "paragraphs": [
         "Liebe Jana, viele Grüße aus Zürich! Ich bin vor vier Tagen angekommen. Es ist kalt, aber die Stadt ist wunderschön, mit dem See, den alten Gassen und den Bergen im Hintergrund. Die Leute sprechen Schweizerdeutsch – ich verstehe fast nichts!",
         "Gestern habe ich eine Bootsfahrt auf dem See gemacht, und heute bin ich mit der Bahn auf einen Berg gefahren. Heute Abend probiere ich Käsefondue. Am Sonntag komme ich zurück. Liebe Grüße, deine Miriam"
+      ],
+      "english": [
+        [
+          "Dear Jana, greetings from Zurich!",
+          "I arrived four days ago.",
+          "It's cold, but the city is beautiful, with the lake, the old lanes and the mountains in the background.",
+          "People speak Swiss German – I understand almost nothing!"
+        ],
+        [
+          "Yesterday I took a boat trip on the lake, and today I went up a mountain by train.",
+          "This evening I'm trying cheese fondue.",
+          "I'll be back on Sunday.",
+          "Love, your Miriam"
+        ]
       ],
       "vocab": [
         { "word": "viele Grüße", "gloss": "greetings, best wishes" },
@@ -288,6 +467,18 @@
         "Diesen Sommer wird Niklas etwas Neues machen. Er wird nicht mit seinen Eltern in den Urlaub fahren. Stattdessen wird er zwei Monate auf einem Bauernhof in den Alpen arbeiten.",
         "Er wird um fünf Uhr aufstehen, die Kühe auf die Weide bringen und lernen, wie man Käse macht. Von dem Geld wird er sich ein Motorrad kaufen. Seine Freunde finden die Idee komisch, aber Niklas ist sicher, dass es ein unvergesslicher Sommer wird."
       ],
+      "english": [
+        [
+          "This summer Niklas is going to do something new.",
+          "He won't go on holiday with his parents.",
+          "Instead he'll work for two months on a farm in the Alps."
+        ],
+        [
+          "He'll get up at five o'clock, take the cows out to pasture and learn how to make cheese.",
+          "With the money he'll buy himself a motorbike.",
+          "His friends think the idea is strange, but Niklas is sure it will be an unforgettable summer."
+        ]
+      ],
       "vocab": [
         { "word": "wird", "gloss": "will" },
         { "word": "stattdessen", "gloss": "instead" },
@@ -308,6 +499,21 @@
       "paragraphs": [
         "Am Samstag haben Johanna und Paul eine Wanderung in den Allgäuer Alpen gemacht. Am Morgen war der Himmel blau, und der Weg war leicht. Sie haben an einem See gepicknickt und Murmeltiere gesehen.",
         "Am Nachmittag ist Nebel gekommen. Sie konnten den Weg nicht mehr sehen und haben sich verlaufen. Paul ist ruhig geblieben: Er hat auf die Karte und den Kompass geschaut. Nach zwei Stunden haben sie eine Hütte gefunden. Der Hüttenwirt hat ihnen eine heiße Suppe gebracht. Sie haben dort übernachtet und sind am nächsten Tag ins Tal gegangen."
+      ],
+      "english": [
+        [
+          "On Saturday Johanna and Paul went on a hike in the Allgäu Alps.",
+          "In the morning the sky was blue, and the path was easy.",
+          "They had a picnic by a lake and saw marmots."
+        ],
+        [
+          "In the afternoon fog came in.",
+          "They couldn't see the path any more and got lost.",
+          "Paul stayed calm: he looked at the map and the compass.",
+          "After two hours they found a mountain hut.",
+          "The hut keeper brought them a hot soup.",
+          "They spent the night there and went down into the valley the next day."
+        ]
       ],
       "vocab": [
         { "word": "Wanderung", "gloss": "hike" },

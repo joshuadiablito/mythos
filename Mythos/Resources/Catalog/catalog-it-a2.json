@@ -12,6 +12,20 @@
         "L'estate scorsa Martina e il suo ragazzo hanno passato una settimana in Puglia. Hanno affittato un piccolo appartamento a cinque minuti dalla spiaggia. Il primo giorno ha fatto molto caldo, così sono rimasti all'ombra sotto l'ombrellone.",
         "Il resto della settimana hanno nuotato, hanno fatto snorkeling e hanno mangiato pesce fresco. Una sera hanno guardato il tramonto dal porto. Martina ha fatto tantissime foto. «Torniamo l'anno prossimo?» ha chiesto. Il suo ragazzo ha detto subito di sì."
       ],
+      "english": [
+        [
+          "Last summer Martina and her boyfriend spent a week in Puglia.",
+          "They rented a small flat five minutes from the beach.",
+          "On the first day it was very hot, so they stayed in the shade under the beach umbrella."
+        ],
+        [
+          "For the rest of the week they swam, went snorkelling and ate fresh fish.",
+          "One evening they watched the sunset from the harbour.",
+          "Martina took loads of photos.",
+          "\"Shall we come back next year?\" she asked.",
+          "Her boyfriend said yes straight away."
+        ]
+      ],
       "vocab": [
         { "word": "ragazzo", "gloss": "boyfriend" },
         { "word": "hanno affittato", "gloss": "rented" },
@@ -34,6 +48,22 @@
         "Ieri sera Riccardo è tornato dal lavoro molto tardi. Davanti alla porta, ha cercato la chiave nello zaino, poi nelle tasche. Niente! Si è spaventato: dove l'aveva lasciata?",
         "Ha chiamato la vicina, la signora Bianchi, perché lei ha una copia delle chiavi. Purtroppo non rispondeva. Riccardo si è seduto sulle scale, stanco. All'improvviso ha visto qualcosa brillare sotto lo zerbino. Era la sua chiave! La mattina l'aveva nascosta lì per suo fratello, e poi se n'era dimenticato."
       ],
+      "english": [
+        [
+          "Last night Riccardo came home from work very late.",
+          "At his front door, he looked for his key in his backpack, then in his pockets.",
+          "Nothing!",
+          "He got scared: where had he left it?"
+        ],
+        [
+          "He called his neighbour, Signora Bianchi, because she has a copy of the keys.",
+          "Unfortunately she didn't answer.",
+          "Riccardo sat down on the stairs, tired.",
+          "Suddenly he saw something shining under the doormat.",
+          "It was his key!",
+          "That morning he had hidden it there for his brother, and then he had forgotten about it."
+        ]
+      ],
       "vocab": [
         { "word": "ha cercato", "gloss": "looked for" },
         { "word": "tasche", "gloss": "pockets" },
@@ -55,6 +85,20 @@
         "Lunedì Beatrice ha cominciato un nuovo lavoro in un'agenzia di viaggi. Era nervosa, quindi si è alzata molto presto e ha messo la sua giacca più bella. È arrivata in ufficio con venti minuti di anticipo.",
         "La sua responsabile, Laura, le ha presentato i colleghi. Tutti sono stati molto gentili. La mattina Beatrice ha imparato a usare il programma per le prenotazioni. A pranzo i colleghi l'hanno invitata in trattoria. La sera ha scritto un messaggio a sua madre: «È andato tutto benissimo!»"
       ],
+      "english": [
+        [
+          "On Monday Beatrice started a new job at a travel agency.",
+          "She was nervous, so she got up very early and put on her nicest jacket.",
+          "She arrived at the office twenty minutes early."
+        ],
+        [
+          "Her manager, Laura, introduced her to her colleagues.",
+          "Everyone was very kind.",
+          "In the morning Beatrice learned how to use the booking program.",
+          "At lunchtime her colleagues invited her to a trattoria.",
+          "In the evening she wrote her mother a message: \"Everything went really well!\""
+        ]
+      ],
       "vocab": [
         { "word": "ha cominciato", "gloss": "started" },
         { "word": "nervosa", "gloss": "nervous (female)" },
@@ -75,6 +119,19 @@
       "paragraphs": [
         "Quando ero piccolo, passavo le vacanze dalla nonna in Emilia. Ogni domenica faceva i tortellini a mano. Io la aiutavo: lei stendeva la sfoglia e io chiudevo i tortellini, uno per uno.",
         "La settimana scorsa ho trovato la sua ricetta in un vecchio quaderno. Ho comprato la farina, le uova e il ripieno, e ci ho provato. I miei tortellini erano un po' brutti, ma il profumo della cucina mi ha ricordato la mia infanzia. La nonna sarebbe orgogliosa di me."
+      ],
+      "english": [
+        [
+          "When I was little, I used to spend the holidays at my grandmother's in Emilia.",
+          "Every Sunday she made tortellini by hand.",
+          "I used to help her: she rolled out the pasta and I folded the tortellini, one by one."
+        ],
+        [
+          "Last week I found her recipe in an old notebook.",
+          "I bought flour, eggs and the filling, and I had a go.",
+          "My tortellini were a bit ugly, but the smell in the kitchen reminded me of my childhood.",
+          "Grandma would be proud of me."
+        ]
       ],
       "vocab": [
         { "word": "passavo", "gloss": "used to spend" },
@@ -99,6 +156,19 @@
         "Venerdì sera Silvia ha preso il treno notturno da Milano a Palermo. Aveva prenotato una cuccetta in uno scompartimento da sei persone. Il treno è partito alle nove in punto.",
         "Nello scompartimento c'erano una famiglia con due bambini e un signore anziano che leggeva un romanzo. Silvia non ha dormito molto perché il treno faceva rumore. Ma la mattina, quando ha aperto la tendina, ha visto il mare della Calabria, blu e luminoso. Ne è valsa davvero la pena."
       ],
+      "english": [
+        [
+          "On Friday evening Silvia took the night train from Milan to Palermo.",
+          "She had booked a couchette in a six-person compartment.",
+          "The train left at nine on the dot."
+        ],
+        [
+          "In the compartment there was a family with two children and an old man who was reading a novel.",
+          "Silvia didn't sleep much because the train was noisy.",
+          "But in the morning, when she opened the little curtain, she saw the sea of Calabria, blue and bright.",
+          "It was really worth it."
+        ]
+      ],
       "vocab": [
         { "word": "aveva prenotato", "gloss": "had booked" },
         { "word": "cuccetta", "gloss": "couchette, berth" },
@@ -120,6 +190,18 @@
         "Ad agosto Lorenzo e i suoi amici hanno suonato alla sagra del paese per la prima volta. Hanno un piccolo gruppo: Lorenzo canta, Giorgia suona la chitarra e Pietro suona la batteria.",
         "All'inizio non c'era nessuno davanti al palco. Poi, piano piano, la gente si è fermata ad ascoltare. Alla fine della serata, più di cento persone ballavano in piazza! Lorenzo era così felice che non è riuscito a dormire."
       ],
+      "english": [
+        [
+          "In August Lorenzo and his friends played at the village food festival for the first time.",
+          "They have a small band: Lorenzo sings, Giorgia plays the guitar and Pietro plays the drums."
+        ],
+        [
+          "At first there was nobody in front of the stage.",
+          "Then, little by little, people stopped to listen.",
+          "By the end of the evening, more than a hundred people were dancing in the square!",
+          "Lorenzo was so happy that he couldn't sleep."
+        ]
+      ],
       "vocab": [
         { "word": "hanno suonato", "gloss": "played (music)" },
         { "word": "sagra", "gloss": "local food festival" },
@@ -140,6 +222,20 @@
       "paragraphs": [
         "Il mese scorso Simone e Giada si sono trasferiti in una casa in campagna. Per due settimane hanno messo tutte le loro cose negli scatoloni. Il giorno del trasloco, gli amici sono venuti ad aiutarli.",
         "Il furgone era pieno. Ci sono volute tre ore per portare tutto nella casa nuova. Uno scatolone è caduto e due piatti si sono rotti, ma non era grave. La sera erano tutti distrutti. Hanno ordinato le pizze e hanno mangiato per terra, in mezzo agli scatoloni."
+      ],
+      "english": [
+        [
+          "Last month Simone and Giada moved to a house in the countryside.",
+          "For two weeks they put all their things into big boxes.",
+          "On moving day, their friends came to help them."
+        ],
+        [
+          "The van was full.",
+          "It took three hours to carry everything into the new house.",
+          "A box fell and two plates broke, but it wasn't serious.",
+          "In the evening they were all worn out.",
+          "They ordered pizzas and ate on the floor, surrounded by boxes."
+        ]
       ],
       "vocab": [
         { "word": "si sono trasferiti", "gloss": "moved (house)" },
@@ -163,6 +259,20 @@
         "Mercoledì è squillato il telefono di Tommaso. Era Elisa, un'amica dell'università. Non la vedeva da due anni. «Mi sposo a settembre», ha detto, «e voglio che tu venga!»",
         "Tommaso era molto sorpreso e contento. Hanno parlato per un'ora: dei loro studi, degli amici in comune e dei loro progetti. Elisa gli ha spiegato che la festa sarebbe stata in una villa sul lago di Como. Dopo la telefonata, Tommaso ha subito prenotato il treno."
       ],
+      "english": [
+        [
+          "On Wednesday Tommaso's phone rang.",
+          "It was Elisa, a friend from university.",
+          "He hadn't seen her for two years.",
+          "\"I'm getting married in September,\" she said, \"and I want you to come!\""
+        ],
+        [
+          "Tommaso was very surprised and happy.",
+          "They talked for an hour: about their studies, their mutual friends and their plans.",
+          "Elisa explained that the party would be at a villa on Lake Como.",
+          "After the call, Tommaso booked his train straight away."
+        ]
+      ],
       "vocab": [
         { "word": "è squillato", "gloss": "rang" },
         { "word": "mi sposo", "gloss": "I'm getting married" },
@@ -183,6 +293,19 @@
       "paragraphs": [
         "Ad agosto la famiglia Ferrari è andata in campeggio sulle Dolomiti. Purtroppo ha piovuto cinque giorni su sette. La tenda era bagnata, anche i vestiti, e i bambini si annoiavano.",
         "Allora il papà ha avuto un'idea. Hanno visitato un museo della montagna, hanno giocato a carte in un rifugio e sono andati in una piscina coperta. L'ultimo giorno è finalmente uscito il sole. Oggi i bambini dicono che sono state le loro vacanze più belle!"
+      ],
+      "english": [
+        [
+          "In August the Ferrari family went camping in the Dolomites.",
+          "Unfortunately it rained on five days out of seven.",
+          "The tent was wet, the clothes too, and the children were bored."
+        ],
+        [
+          "So their dad had an idea.",
+          "They visited a mountain museum, played cards in a mountain hut and went to an indoor pool.",
+          "On the last day the sun finally came out.",
+          "Now the children say it was their best holiday ever!"
+        ]
       ],
       "vocab": [
         { "word": "campeggio", "gloss": "campsite, camping" },
@@ -205,6 +328,21 @@
         "Tre settimane fa un nuovo vicino è venuto ad abitare nell'appartamento accanto. All'inizio Camilla non lo vedeva mai. Sentiva solo un violoncello, tutte le sere, fino a tardi.",
         "Un sabato qualcuno ha bussato alla sua porta. Era il vicino, con una scatola di cioccolatini. «Mi scusi per il rumore», ha detto. «Sono violoncellista e sto preparando un concerto.» Camilla ha riso: a lei la musica piaceva. Lui l'ha invitata al concerto, e adesso sono amici."
       ],
+      "english": [
+        [
+          "Three weeks ago a new neighbour moved into the flat next door.",
+          "At first Camilla never saw him.",
+          "She only heard a cello, every evening, until late."
+        ],
+        [
+          "One Saturday someone knocked on her door.",
+          "It was the neighbour, with a box of chocolates.",
+          "\"Sorry about the noise,\" he said.",
+          "\"I'm a cellist and I'm preparing for a concert.\"",
+          "Camilla laughed: she liked the music.",
+          "He invited her to the concert, and now they're friends."
+        ]
+      ],
       "vocab": [
         { "word": "tre settimane fa", "gloss": "three weeks ago" },
         { "word": "accanto", "gloss": "next door" },
@@ -225,6 +363,20 @@
       "paragraphs": [
         "Domenica scorsa la squadra di calcio di Leonardo ha giocato la finale del torneo regionale. Leonardo ha dodici anni e fa il portiere. Tutta la sua famiglia è venuta a fare il tifo, anche la nonna.",
         "La partita è stata difficile. All'intervallo l'altra squadra vinceva uno a zero. Nel secondo tempo, la squadra di Leonardo ha segnato due gol. All'ultimo minuto Leonardo ha parato un rigore! Hanno vinto la coppa, e la nonna ha urlato più forte di tutti."
+      ],
+      "english": [
+        [
+          "Last Sunday Leonardo's football team played the final of the regional tournament.",
+          "Leonardo is twelve and plays in goal.",
+          "His whole family came to cheer, even his grandmother."
+        ],
+        [
+          "The match was difficult.",
+          "At half-time the other team was winning one–nil.",
+          "In the second half, Leonardo's team scored two goals.",
+          "In the last minute, Leonardo saved a penalty!",
+          "They won the cup, and his grandmother yelled louder than anyone."
+        ]
       ],
       "vocab": [
         { "word": "squadra", "gloss": "team" },
@@ -248,6 +400,19 @@
         "Per il suo compleanno, Francesca ha portato sua figlia Sofia agli Uffizi. Sofia ha dieci anni e adora disegnare. Hanno fatto la fila per mezz'ora, ma ne valeva la pena.",
         "Nel museo Sofia ha scoperto i quadri di Botticelli e di Leonardo. È rimasta a lungo davanti alla Nascita di Venere. Poi ha tirato fuori il suo album e ha cominciato a disegnare. Un custode l'ha guardata e le ha detto: «Sei una vera artista!»"
       ],
+      "english": [
+        [
+          "For her birthday, Francesca took her daughter Sofia to the Uffizi.",
+          "Sofia is ten and loves drawing.",
+          "They queued for half an hour, but it was worth it."
+        ],
+        [
+          "In the museum, Sofia discovered the paintings of Botticelli and Leonardo.",
+          "She stood for a long time in front of The Birth of Venus.",
+          "Then she took out her sketchbook and started drawing.",
+          "An attendant watched her and said: \"You're a real artist!\""
+        ]
+      ],
       "vocab": [
         { "word": "ha portato", "gloss": "took (someone)" },
         { "word": "disegnare", "gloss": "to draw" },
@@ -268,6 +433,20 @@
       "paragraphs": [
         "Cara Anna, ti scrivo da Venezia! Sono arrivata quattro giorni fa. Fa freddo, ma la città è magica, con i canali, i ponti e i palazzi colorati. Mi perdo ogni giorno tra le calli, ma è bellissimo.",
         "Ieri ho fatto un giro in gondola e ho visitato l'isola di Burano, dove le case sono di tutti i colori. Stasera assaggio le sarde in saor, un piatto tipico veneziano. Torno domenica. Un abbraccio, Giorgia"
+      ],
+      "english": [
+        [
+          "Dear Anna, I'm writing to you from Venice!",
+          "I arrived four days ago.",
+          "It's cold, but the city is magical, with its canals, bridges and colourful palazzi.",
+          "I get lost in the little lanes every day, but it's beautiful."
+        ],
+        [
+          "Yesterday I took a gondola ride and visited the island of Burano, where the houses are every colour you can think of.",
+          "This evening I'm trying sarde in saor, a typical Venetian dish.",
+          "I'm coming back on Sunday.",
+          "A hug, Giorgia"
+        ]
       ],
       "vocab": [
         { "word": "ti scrivo", "gloss": "I'm writing to you" },
@@ -290,6 +469,18 @@
         "Quest'estate Edoardo farà qualcosa di nuovo. Non andrà in vacanza con i suoi genitori. Lavorerà per due mesi in una fattoria in Toscana, dove si producono vino e olio d'oliva.",
         "Si alzerà alle cinque di mattina, lavorerà nei campi e imparerà a fare il formaggio. Con i soldi si comprerà una moto. I suoi amici pensano che sia un'idea strana, ma Edoardo è sicuro che sarà un'estate indimenticabile."
       ],
+      "english": [
+        [
+          "This summer Edoardo will do something new.",
+          "He won't go on holiday with his parents.",
+          "He'll work for two months on a farm in Tuscany, where they produce wine and olive oil."
+        ],
+        [
+          "He'll get up at five in the morning, work in the fields and learn how to make cheese.",
+          "With the money, he'll buy himself a motorbike.",
+          "His friends think it's a strange idea, but Edoardo is sure it will be an unforgettable summer."
+        ]
+      ],
       "vocab": [
         { "word": "farà", "gloss": "will do" },
         { "word": "andrà", "gloss": "will go" },
@@ -310,6 +501,21 @@
       "paragraphs": [
         "Sabato Irene e Nicola hanno fatto un'escursione sulle Alpi. La mattina il cielo era azzurro e il sentiero era facile. Hanno fatto un picnic vicino a un lago e hanno visto le marmotte.",
         "Il pomeriggio è arrivata la nebbia. Non vedevano più il sentiero e si sono persi. Nicola è rimasto calmo: ha guardato la mappa e la bussola. Dopo due ore di cammino, hanno trovato un rifugio. Il gestore ha servito loro una zuppa calda. Hanno dormito lì e sono scesi a valle il giorno dopo."
+      ],
+      "english": [
+        [
+          "On Saturday Irene and Nicola went on a hike in the Alps.",
+          "In the morning the sky was blue and the path was easy.",
+          "They had a picnic near a lake and saw marmots."
+        ],
+        [
+          "In the afternoon the fog came in.",
+          "They couldn't see the path any more and they got lost.",
+          "Nicola stayed calm: he looked at the map and the compass.",
+          "After two hours of walking, they found a mountain hut.",
+          "The hut keeper served them a hot soup.",
+          "They slept there and went down to the valley the next day."
+        ]
       ],
       "vocab": [
         { "word": "escursione", "gloss": "hike, excursion" },

@@ -18,8 +18,11 @@ dictionary data and inflection tables.
 - **Listen**: the story is read aloud by the phone's own voice, with each word
   highlighted as it's spoken. Pause, resume or stop it, or play it straight
   from the Today card. Words and table forms can be heard too.
-- **Translate**: Apple's on-device Translation, for the whole story or a word
-  the dictionary doesn't have.
+- **English translation** under every story, sentence by sentence, bundled
+  with the app. Tap a sentence to hear it; fold the section away to try the
+  story on your own first.
+- **Translate**: Apple's on-device Translation, for a word the dictionary
+  doesn't have.
 - **Library** of every story, a **Words** list of saved words, and a reading streak.
 
 ## Running it
@@ -50,6 +53,7 @@ For screenshots and quick checks, Debug builds accept:
 | `-lookupWord achète` | Then opens that word's lookup |
 | `-lookupExpanded YES` | Opens the lookup sheet at full height |
 | `-autoplay YES` | Starts reading the story aloud |
+| `-scrollAnchor 0.55` | Opens the reader scrolled that far down |
 
 ## How it works
 
@@ -73,8 +77,14 @@ See `Theme/Theme.swift`. The icon is rendered by `scripts/render-icon.swift`.
 
 ### Adding stories
 
-Add or edit a `catalog-<lang>-<level>.json` file. The tests check that every
-level has 15 stories, IDs are unique, every glossary word appears in its story
+Add or edit a `catalog-<lang>-<level>.json` file. Each story's `english` holds
+one English sentence per original sentence, per paragraph, split as
+`Model/SentenceSplitter.swift` splits them (it keeps quoted dialogue and dash
+speech tags together, and treats Greek `;` as a question mark). To translate a
+story, run `scripts/segment.sh fr-a1` to see its sentences, write the English
+in the same shape, and merge it with `scripts/merge-translations.py`, which
+refuses translations that don't line up. The tests check that every
+story's translation lines up with its sentences, every level has 15 stories, IDs are unique, every glossary word appears in its story
 exactly as written, and every SF Symbol exists. To open a new level, also mark
 it available in `Model/Level.swift`.
 

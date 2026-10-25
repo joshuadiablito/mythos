@@ -69,6 +69,8 @@ struct StoryReaderView: View {
                     .font(.footnote)
                     .foregroundStyle(.secondary)
 
+                TranslationSection(story: story)
+
                 VocabularySection(story: story) { item in
                     lookup = WordLookup(word: item.word, language: story.language, gloss: item.gloss, storyTitle: story.title)
                 }
@@ -79,6 +81,12 @@ struct StoryReaderView: View {
             .padding(.top, 8)
             .padding(.bottom, 40)
         }
+        #if DEBUG
+        // `-scrollAnchor 0.62` opens the reader scrolled down that far, for screenshots.
+        .defaultScrollAnchor(UserDefaults.standard.object(forKey: "scrollAnchor").map { _ in
+            UnitPoint(x: 0.5, y: UserDefaults.standard.double(forKey: "scrollAnchor"))
+        })
+        #endif
         .appBackground()
         .navigationBarTitleDisplayMode(.inline)
         .toolbar(.hidden, for: .tabBar)

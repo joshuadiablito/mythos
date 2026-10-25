@@ -12,6 +12,22 @@
         "¡Hola! Me llamo Lucía. Tengo veintiocho años y vivo en Sevilla, en el sur de España. Soy profesora de inglés en un colegio. Me gusta mucho mi trabajo porque los niños son simpáticos.",
         "Mi familia es grande. Tengo dos hermanos y una hermana. Mis padres viven en un pueblo cerca de Sevilla. Todos los domingos comemos juntos en su casa. Mi madre cocina una paella deliciosa."
       ],
+      "english": [
+        [
+          "Hi!",
+          "My name is Lucía.",
+          "I'm twenty-eight and I live in Seville, in the south of Spain.",
+          "I'm an English teacher at a school.",
+          "I really like my job because the children are nice."
+        ],
+        [
+          "My family is big.",
+          "I have two brothers and a sister.",
+          "My parents live in a village near Seville.",
+          "Every Sunday we have lunch together at their house.",
+          "My mother cooks a delicious paella."
+        ]
+      ],
       "vocab": [
         { "word": "vivo", "gloss": "I live" },
         { "word": "sur", "gloss": "south" },
@@ -32,6 +48,19 @@
       "paragraphs": [
         "Diego se despierta a las siete de la mañana. Se levanta, se ducha y se lava los dientes. Después, se viste: unos pantalones negros, una camisa blanca y una chaqueta.",
         "Para desayunar, toma un café con leche y una tostada con tomate y aceite de oliva. A las ocho, sale de casa y camina hasta el metro. Llega a la oficina a las ocho y media. Nunca llega tarde."
+      ],
+      "english": [
+        [
+          "Diego wakes up at seven in the morning.",
+          "He gets up, has a shower and brushes his teeth.",
+          "Then he gets dressed: black trousers, a white shirt and a jacket."
+        ],
+        [
+          "For breakfast, he has a milky coffee and toast with tomato and olive oil.",
+          "At eight, he leaves the house and walks to the metro.",
+          "He gets to the office at half past eight.",
+          "He's never late."
+        ]
       ],
       "vocab": [
         { "word": "se despierta", "gloss": "wakes up" },
@@ -54,6 +83,21 @@
         "Son las diez y media. Carmen entra en una cafetería pequeña en la plaza. Hay mucha gente, pero hay una mesa libre al lado de la ventana. Carmen se sienta y mira el menú.",
         "El camarero llega. «Buenos días. ¿Qué desea?» Carmen contesta: «Un chocolate caliente y unos churros, por favor». Los churros están muy ricos. Carmen paga cuatro euros y deja una propina."
       ],
+      "english": [
+        [
+          "It's half past ten.",
+          "Carmen goes into a small café on the square.",
+          "There are lots of people, but there's a free table next to the window.",
+          "Carmen sits down and looks at the menu."
+        ],
+        [
+          "The waiter comes over.",
+          "\"Good morning. What would you like?\"",
+          "Carmen answers: \"A hot chocolate and some churros, please.\"",
+          "The churros are really tasty.",
+          "Carmen pays four euros and leaves a tip."
+        ]
+      ],
       "vocab": [
         { "word": "mucha gente", "gloss": "lots of people" },
         { "word": "libre", "gloss": "free, available" },
@@ -74,6 +118,19 @@
       "paragraphs": [
         "Los sábados por la mañana, la señora Ortega va al mercado del barrio. Le gusta comprar allí porque la fruta y la verdura son frescas y los vendedores son amables.",
         "Hoy compra un kilo de naranjas, unos tomates y un queso manchego. «¿Cuánto es?», pregunta. «Doce euros, señora». Pone todo en su bolsa y vuelve a casa andando. En casa, prepara una ensalada."
+      ],
+      "english": [
+        [
+          "On Saturday mornings, Señora Ortega goes to the local market.",
+          "She likes shopping there because the fruit and vegetables are fresh and the stallholders are friendly."
+        ],
+        [
+          "Today she buys a kilo of oranges, some tomatoes and a Manchego cheese.",
+          "\"How much is it?\" she asks.",
+          "\"Twelve euros, señora.\"",
+          "She puts everything in her bag and walks home.",
+          "At home, she makes a salad."
+        ]
       ],
       "vocab": [
         { "word": "mercado", "gloss": "market" },
@@ -96,6 +153,18 @@
         "Vivo en un piso en el cuarto piso de un edificio antiguo. No hay ascensor, así que subo por la escalera todos los días. El piso no es muy grande, pero tiene mucha luz.",
         "Tiene una cocina, un salón, un dormitorio y un baño. En el salón hay un sofá azul y muchas plantas. Mi lugar favorito es la terraza: por la tarde, leo un libro y miro los tejados de la ciudad."
       ],
+      "english": [
+        [
+          "I live in a flat on the fourth floor of an old building.",
+          "There's no lift, so I take the stairs every day.",
+          "The flat isn't very big, but it gets lots of light."
+        ],
+        [
+          "It has a kitchen, a living room, a bedroom and a bathroom.",
+          "In the living room there's a blue sofa and lots of plants.",
+          "My favourite spot is the terrace: in the afternoon, I read a book and look at the rooftops of the city."
+        ]
+      ],
       "vocab": [
         { "word": "piso", "gloss": "flat; floor (storey)" },
         { "word": "edificio", "gloss": "building" },
@@ -116,6 +185,21 @@
       "paragraphs": [
         "En el norte de España, el tiempo cambia mucho. Por la mañana hace sol y hace buen tiempo. Por la tarde hay nubes y llueve un poco. Por la noche hace viento.",
         "Pablo vive en Bilbao. Siempre lleva un paraguas en la mochila. Hoy hace frío: solo hay diez grados. Pablo se pone un jersey y una bufanda. No le gusta el invierno; prefiere el verano."
+      ],
+      "english": [
+        [
+          "In the north of Spain, the weather changes a lot.",
+          "In the morning it's sunny and the weather is nice.",
+          "In the afternoon there are clouds and it rains a little.",
+          "At night it's windy."
+        ],
+        [
+          "Pablo lives in Bilbao.",
+          "He always carries an umbrella in his backpack.",
+          "Today it's cold: it's only ten degrees.",
+          "Pablo puts on a jumper and a scarf.",
+          "He doesn't like winter; he prefers summer."
+        ]
       ],
       "vocab": [
         { "word": "tiempo", "gloss": "weather (also: time)" },
@@ -138,6 +222,19 @@
         "Todos los días, Valeria toma el autobús número cinco para ir a la universidad. La parada está enfrente de su casa. El viaje dura veinticinco minutos.",
         "En el autobús, Valeria escucha música o lee un libro. A veces sube una señora mayor. Valeria se levanta y le da su asiento. La señora sonríe y dice: «Gracias, hija, eres muy amable»."
       ],
+      "english": [
+        [
+          "Every day, Valeria takes the number five bus to go to university.",
+          "The stop is opposite her house.",
+          "The journey takes twenty-five minutes."
+        ],
+        [
+          "On the bus, Valeria listens to music or reads a book.",
+          "Sometimes an elderly lady gets on.",
+          "Valeria stands up and gives her her seat.",
+          "The lady smiles and says: \"Thank you, dear, you're very kind.\""
+        ]
+      ],
       "vocab": [
         { "word": "parada", "gloss": "stop (bus stop)" },
         { "word": "enfrente de", "gloss": "opposite" },
@@ -158,6 +255,21 @@
       "paragraphs": [
         "Hoy es el cumpleaños de Andrés. Cumple treinta años. Sus amigos preparan una fiesta sorpresa en el jardín. Hay globos, velas y una tarta grande de chocolate.",
         "A las seis llega Andrés. Todos gritan: «¡Sorpresa! ¡Feliz cumpleaños!». Andrés está muy contento. Abre sus regalos: un libro, un reloj y una entrada para un concierto. Por la noche, bailan hasta las dos."
+      ],
+      "english": [
+        [
+          "Today is Andrés's birthday.",
+          "He's turning thirty.",
+          "His friends are getting a surprise party ready in the garden.",
+          "There are balloons, candles and a big chocolate cake."
+        ],
+        [
+          "Andrés arrives at six.",
+          "Everyone shouts: \"Surprise! Happy birthday!\"",
+          "Andrés is very happy.",
+          "He opens his presents: a book, a watch and a ticket for a concert.",
+          "In the evening, they dance until two."
+        ]
       ],
       "vocab": [
         { "word": "cumpleaños", "gloss": "birthday" },
@@ -180,6 +292,19 @@
         "Los martes y los jueves por la tarde, Emma va a una clase de español. Es alemana y vive en Madrid desde hace tres meses. En su clase hay diez estudiantes de muchos países.",
         "La profesora se llama Marta. Habla despacio y explica muy bien. Para Emma, los verbos son difíciles, pero le encanta aprender palabras nuevas. Después de la clase, toma algo con sus compañeros y practican juntos."
       ],
+      "english": [
+        [
+          "On Tuesday and Thursday afternoons, Emma goes to a Spanish class.",
+          "She's German and she has lived in Madrid for three months.",
+          "There are ten students from lots of countries in her class."
+        ],
+        [
+          "The teacher is called Marta.",
+          "She speaks slowly and explains things very well.",
+          "Emma finds the verbs difficult, but she loves learning new words.",
+          "After the class, she has a drink with her classmates and they practise together."
+        ]
+      ],
       "vocab": [
         { "word": "desde hace", "gloss": "for (a period of time)" },
         { "word": "países", "gloss": "countries" },
@@ -200,6 +325,21 @@
       "paragraphs": [
         "Tengo un perro. Se llama Coco. Es pequeño y marrón, y tiene las orejas muy largas. Tiene cuatro años. Es muy inteligente y un poco travieso.",
         "Por la mañana, Coco y yo paseamos por el parque. Coco corre detrás de las palomas, pero nunca las atrapa. Por la tarde, duerme en el sofá. Cuando llego a casa, siempre está en la puerta, esperando."
+      ],
+      "english": [
+        [
+          "I have a dog.",
+          "His name is Coco.",
+          "He's small and brown, and he has very long ears.",
+          "He's four years old.",
+          "He's very clever and a bit naughty."
+        ],
+        [
+          "In the morning, Coco and I go for a walk in the park.",
+          "Coco runs after the pigeons, but he never catches them.",
+          "In the afternoon, he sleeps on the sofa.",
+          "When I get home, he's always at the door, waiting."
+        ]
       ],
       "vocab": [
         { "word": "perro", "gloss": "dog" },
@@ -222,6 +362,19 @@
         "Los fines de semana, Sofía no trabaja. Los sábados limpia la casa y después va a la piscina con su hermana. Por la noche, ven una película o salen a cenar.",
         "Los domingos, Sofía se levanta tarde. Prepara un desayuno grande y lee el periódico. Por la tarde, pasea por el parque con su novio. Le gustan los domingos porque son tranquilos."
       ],
+      "english": [
+        [
+          "At weekends, Sofía doesn't work.",
+          "On Saturdays she cleans the house and then goes to the swimming pool with her sister.",
+          "In the evening, they watch a film or go out for dinner."
+        ],
+        [
+          "On Sundays, Sofía gets up late.",
+          "She makes a big breakfast and reads the newspaper.",
+          "In the afternoon, she goes for a walk in the park with her boyfriend.",
+          "She likes Sundays because they're quiet."
+        ]
+      ],
       "vocab": [
         { "word": "fines de semana", "gloss": "weekends" },
         { "word": "limpia", "gloss": "cleans" },
@@ -242,6 +395,20 @@
       "paragraphs": [
         "Esta noche, Javier y Elena cenan en un restaurante mexicano. La camarera trae la carta. Javier pide unos tacos de pollo. Elena prefiere unas enchiladas y una ensalada.",
         "Para beber, piden una jarra de agua y dos limonadas. La comida está buenísima, pero un poco picante. De postre, comparten un flan. Al final, Javier pide la cuenta y deja una propina."
+      ],
+      "english": [
+        [
+          "Tonight, Javier and Elena are having dinner at a Mexican restaurant.",
+          "The waitress brings the menu.",
+          "Javier orders some chicken tacos.",
+          "Elena would rather have enchiladas and a salad."
+        ],
+        [
+          "To drink, they order a jug of water and two lemonades.",
+          "The food is delicious, but a bit spicy.",
+          "For dessert, they share a flan.",
+          "At the end, Javier asks for the bill and leaves a tip."
+        ]
       ],
       "vocab": [
         { "word": "cenan", "gloss": "have dinner" },
@@ -264,6 +431,21 @@
         "El sábado, Paula va a la boda de su prima. No tiene vestido, así que va a una tienda de ropa en el centro. Hay vestidos de todos los colores.",
         "Se prueba un vestido rojo, pero es demasiado pequeño. Luego se prueba un vestido verde. ¡Es perfecto! «¿Cuánto cuesta?», pregunta Paula. «Cincuenta y cinco euros». Es un poco caro, pero Paula está feliz."
       ],
+      "english": [
+        [
+          "On Saturday, Paula is going to her cousin's wedding.",
+          "She doesn't have a dress, so she goes to a clothes shop in the town centre.",
+          "There are dresses in every colour."
+        ],
+        [
+          "She tries on a red dress, but it's too small.",
+          "Then she tries on a green dress.",
+          "It's perfect!",
+          "\"How much is it?\" Paula asks.",
+          "\"Fifty-five euros.\"",
+          "It's a bit expensive, but Paula is happy."
+        ]
+      ],
       "vocab": [
         { "word": "boda", "gloss": "wedding" },
         { "word": "prima", "gloss": "cousin (female)" },
@@ -285,6 +467,20 @@
         "Miguel está enfermo. Le duele la cabeza y la garganta, y tiene fiebre. Llama al centro de salud y pide una cita para las diez.",
         "La médica lo examina. «Tiene gripe», dice. «Tiene que descansar tres días y beber mucha agua». Le da una receta. Miguel va a la farmacia, compra las pastillas, vuelve a casa y duerme toda la tarde."
       ],
+      "english": [
+        [
+          "Miguel is ill.",
+          "His head and throat hurt, and he has a fever.",
+          "He calls the health centre and asks for an appointment at ten."
+        ],
+        [
+          "The doctor examines him.",
+          "\"You've got the flu,\" she says.",
+          "\"You need to rest for three days and drink lots of water.\"",
+          "She gives him a prescription.",
+          "Miguel goes to the pharmacy, buys the tablets, goes home and sleeps all afternoon."
+        ]
+      ],
       "vocab": [
         { "word": "enfermo", "gloss": "ill, sick" },
         { "word": "le duele", "gloss": "it hurts (him)" },
@@ -305,6 +501,20 @@
       "paragraphs": [
         "Mi mejor amiga se llama Isabel. Nos conocemos desde el colegio. Es alta, tiene el pelo rizado y lleva gafas. Es muy divertida y generosa.",
         "Isabel vive en Buenos Aires y yo vivo en Valencia. Está muy lejos, así que hablamos por teléfono cada semana. En verano, siempre viajamos juntas. ¡Este año vamos a México!"
+      ],
+      "english": [
+        [
+          "My best friend is called Isabel.",
+          "We've known each other since school.",
+          "She's tall, she has curly hair and she wears glasses.",
+          "She's great fun and very generous."
+        ],
+        [
+          "Isabel lives in Buenos Aires and I live in Valencia.",
+          "It's very far away, so we talk on the phone every week.",
+          "In the summer, we always travel together.",
+          "This year we're going to Mexico!"
+        ]
       ],
       "vocab": [
         { "word": "mejor", "gloss": "best" },

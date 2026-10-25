@@ -12,6 +12,22 @@
         "Γεια σας! Με λένε Ελένη. Είμαι είκοσι έξι χρονών και μένω στη Θεσσαλονίκη, μια μεγάλη πόλη στη βόρεια Ελλάδα. Είμαι νοσηλεύτρια. Μου αρέσει η δουλειά μου, αλλά είναι κουραστική.",
         "Η οικογένειά μου είναι μικρή. Ο πατέρας μου λέγεται Γιώργος και η μητέρα μου λέγεται Μαρία. Έχω και έναν αδελφό, τον Νίκο. Είναι δεκαεννιά χρονών και είναι φοιτητής. Την Κυριακή τρώμε όλοι μαζί στο σπίτι των γονιών μου."
       ],
+      "english": [
+        [
+          "Hello!",
+          "My name is Eleni.",
+          "I'm twenty-six and I live in Thessaloniki, a big city in northern Greece.",
+          "I'm a nurse.",
+          "I like my job, but it's tiring."
+        ],
+        [
+          "My family is small.",
+          "My father is called Giorgos and my mother is called Maria.",
+          "I also have a brother, Nikos.",
+          "He's nineteen and he's a student.",
+          "On Sundays we all eat together at my parents' house."
+        ]
+      ],
       "vocab": [
         { "word": "μένω", "gloss": "I live" },
         { "word": "πόλη", "gloss": "city, town" },
@@ -32,6 +48,18 @@
       "paragraphs": [
         "Ο Κώστας ξυπνάει στις επτά. Σηκώνεται, ανοίγει το παράθυρο και κάνει ντους. Μετά ντύνεται: φοράει ένα τζιν, ένα μπλε πουκάμισο και αθλητικά παπούτσια.",
         "Για πρωινό πίνει έναν ελληνικό καφέ και τρώει ψωμί με μέλι. Στις οκτώ παίρνει το λεωφορείο και πηγαίνει στο γραφείο. Δεν αργεί ποτέ."
+      ],
+      "english": [
+        [
+          "Kostas wakes up at seven.",
+          "He gets up, opens the window and has a shower.",
+          "Then he gets dressed: he puts on jeans, a blue shirt and trainers."
+        ],
+        [
+          "For breakfast he drinks a Greek coffee and eats bread with honey.",
+          "At eight he takes the bus and goes to the office.",
+          "He's never late."
+        ]
       ],
       "vocab": [
         { "word": "ξυπνάει", "gloss": "wakes up" },
@@ -54,6 +82,21 @@
         "Είναι δέκα η ώρα. Η Σοφία μπαίνει σε ένα μικρό καφενείο στην πλατεία. Έχει πολύ κόσμο, αλλά υπάρχει ένα ελεύθερο τραπέζι δίπλα στο παράθυρο. Η Σοφία κάθεται.",
         "Ο σερβιτόρος έρχεται. «Καλημέρα! Τι θα πάρετε;» Η Σοφία απαντάει: «Έναν φρέντο εσπρέσο και μια τυρόπιτα, παρακαλώ.» Η τυρόπιτα είναι πολύ νόστιμη. Η Σοφία πληρώνει πέντε ευρώ και αφήνει φιλοδώρημα."
       ],
+      "english": [
+        [
+          "It's ten o'clock.",
+          "Sofia goes into a small café on the square.",
+          "It's very busy, but there's a free table next to the window.",
+          "Sofia sits down."
+        ],
+        [
+          "The waiter comes over.",
+          "\"Good morning! What will you have?\"",
+          "Sofia answers: \"A freddo espresso and a cheese pie, please.\"",
+          "The cheese pie is very tasty.",
+          "Sofia pays five euros and leaves a tip."
+        ]
+      ],
       "vocab": [
         { "word": "μπαίνει", "gloss": "goes in, enters" },
         { "word": "πολύ κόσμο", "gloss": "lots of people" },
@@ -74,6 +117,19 @@
       "paragraphs": [
         "Κάθε Σάββατο το πρωί έχει λαϊκή στη γειτονιά της κυρίας Άννας. Της αρέσει να ψωνίζει εκεί. Τα φρούτα και τα λαχανικά είναι φρέσκα και οι πωλητές είναι φιλικοί.",
         "Σήμερα αγοράζει ένα κιλό ντομάτες, πορτοκάλια και ένα κομμάτι φέτα. «Πόσο κάνει;» ρωτάει. «Δέκα ευρώ, κυρία μου.» Βάζει τα πάντα στην τσάντα της και γυρίζει σπίτι με τα πόδια."
+      ],
+      "english": [
+        [
+          "Every Saturday morning there's a street market in Mrs Anna's neighbourhood.",
+          "She likes shopping there.",
+          "The fruit and vegetables are fresh and the sellers are friendly."
+        ],
+        [
+          "Today she buys a kilo of tomatoes, some oranges and a piece of feta.",
+          "\"How much is it?\" she asks.",
+          "\"Ten euros, madam.\"",
+          "She puts everything in her bag and walks home."
+        ]
       ],
       "vocab": [
         { "word": "λαϊκή", "gloss": "street market (λαϊκή αγορά)" },
@@ -96,6 +152,18 @@
         "Μένω σε ένα διαμέρισμα στον τρίτο όροφο. Δεν υπάρχει ασανσέρ, γι' αυτό ανεβαίνω τις σκάλες κάθε μέρα. Το διαμέρισμα δεν είναι μεγάλο, αλλά είναι φωτεινό.",
         "Έχει μια κουζίνα, ένα σαλόνι, ένα υπνοδωμάτιο και ένα μπάνιο. Στο σαλόνι υπάρχει ένας μπλε καναπές και πολλά βιβλία. Το αγαπημένο μου μέρος είναι το μπαλκόνι: το βράδυ διαβάζω και κοιτάζω τη θάλασσα."
       ],
+      "english": [
+        [
+          "I live in a flat on the third floor.",
+          "There's no lift, so I take the stairs every day.",
+          "The flat isn't big, but it's bright."
+        ],
+        [
+          "It has a kitchen, a living room, a bedroom and a bathroom.",
+          "In the living room there's a blue sofa and lots of books.",
+          "My favourite spot is the balcony: in the evening I read and look at the sea."
+        ]
+      ],
       "vocab": [
         { "word": "διαμέρισμα", "gloss": "flat, apartment" },
         { "word": "όροφο", "gloss": "floor, storey" },
@@ -116,6 +184,21 @@
       "paragraphs": [
         "Τον χειμώνα στην Αθήνα ο καιρός αλλάζει συχνά. Το πρωί έχει ήλιο και κάνει καλό καιρό. Το απόγευμα έχει σύννεφα και βρέχει λίγο. Το βράδυ φυσάει.",
         "Ο Δημήτρης μένει στην Αθήνα. Έχει πάντα μια ομπρέλα στην τσάντα του. Σήμερα κάνει κρύο: έχει μόνο οκτώ βαθμούς. Ο Δημήτρης φοράει ένα πουλόβερ και ένα κασκόλ. Δεν του αρέσει ο χειμώνας· προτιμάει το καλοκαίρι."
+      ],
+      "english": [
+        [
+          "In winter in Athens the weather often changes.",
+          "In the morning it's sunny and the weather is nice.",
+          "In the afternoon there are clouds and it rains a little.",
+          "In the evening it's windy."
+        ],
+        [
+          "Dimitris lives in Athens.",
+          "He always has an umbrella in his bag.",
+          "Today it's cold: it's only eight degrees.",
+          "Dimitris puts on a jumper and a scarf.",
+          "He doesn't like winter; he prefers summer."
+        ]
       ],
       "vocab": [
         { "word": "καιρός", "gloss": "weather" },
@@ -138,6 +221,19 @@
         "Κάθε μέρα η Κατερίνα παίρνει το λεωφορείο για το πανεπιστήμιο. Η στάση είναι απέναντι από το σπίτι της. Η διαδρομή κρατάει είκοσι λεπτά.",
         "Στο λεωφορείο η Κατερίνα ακούει μουσική ή διαβάζει ένα βιβλίο. Μερικές φορές ανεβαίνει μια ηλικιωμένη κυρία. Η Κατερίνα σηκώνεται και της δίνει τη θέση της. Η κυρία χαμογελάει και λέει: «Ευχαριστώ, κορίτσι μου, είσαι πολύ ευγενική.»"
       ],
+      "english": [
+        [
+          "Every day Katerina takes the bus to the university.",
+          "The bus stop is opposite her house.",
+          "The journey takes twenty minutes."
+        ],
+        [
+          "On the bus Katerina listens to music or reads a book.",
+          "Sometimes an elderly lady gets on.",
+          "Katerina stands up and gives her her seat.",
+          "The lady smiles and says: \"Thank you, dear, you're very kind.\""
+        ]
+      ],
       "vocab": [
         { "word": "στάση", "gloss": "stop (bus stop)" },
         { "word": "απέναντι", "gloss": "opposite" },
@@ -158,6 +254,21 @@
       "paragraphs": [
         "Σήμερα ο Γιάννης έχει γενέθλια. Κλείνει τα τριάντα. Οι φίλοι του ετοιμάζουν ένα πάρτι έκπληξη στον κήπο. Υπάρχουν μπαλόνια, κεριά και μια μεγάλη τούρτα σοκολάτα.",
         "Στις έξι έρχεται ο Γιάννης. Όλοι φωνάζουν: «Έκπληξη! Χρόνια πολλά!» Ο Γιάννης χαίρεται πολύ. Ανοίγει τα δώρα του: ένα βιβλίο, ένα ρολόι και ένα εισιτήριο για συναυλία. Το βράδυ χορεύουν μέχρι τα μεσάνυχτα."
+      ],
+      "english": [
+        [
+          "Today is Giannis's birthday.",
+          "He's turning thirty.",
+          "His friends are getting a surprise party ready in the garden.",
+          "There are balloons, candles and a big chocolate cake."
+        ],
+        [
+          "Giannis arrives at six.",
+          "Everyone shouts: \"Surprise! Happy birthday!\"",
+          "Giannis is delighted.",
+          "He opens his presents: a book, a watch and a ticket for a concert.",
+          "In the evening they dance until midnight."
+        ]
       ],
       "vocab": [
         { "word": "γενέθλια", "gloss": "birthday" },
@@ -180,6 +291,19 @@
         "Κάθε Τρίτη και Πέμπτη βράδυ η Λόρα πηγαίνει σε μάθημα ελληνικών. Είναι Γαλλίδα και μένει στην Αθήνα εδώ και τρεις μήνες. Στην τάξη της υπάρχουν δέκα μαθητές από πολλές χώρες.",
         "Η δασκάλα λέγεται κυρία Παππά. Μιλάει αργά και εξηγεί πολύ καλά. Η Λόρα βρίσκει το αλφάβητο δύσκολο, αλλά της αρέσουν πολύ οι καινούργιες λέξεις. Μετά το μάθημα, πίνει ένα ποτό με τους συμμαθητές της."
       ],
+      "english": [
+        [
+          "Every Tuesday and Thursday evening Laura goes to a Greek lesson.",
+          "She's French and she has lived in Athens for three months.",
+          "There are ten students from many countries in her class."
+        ],
+        [
+          "The teacher is called Mrs Pappa.",
+          "She speaks slowly and explains things very well.",
+          "Laura finds the alphabet difficult, but she really likes the new words.",
+          "After the lesson, she has a drink with her classmates."
+        ]
+      ],
       "vocab": [
         { "word": "μάθημα", "gloss": "lesson, class" },
         { "word": "εδώ και", "gloss": "for (a period of time)" },
@@ -200,6 +324,20 @@
       "paragraphs": [
         "Έχω μια γάτα. Τη λένε Μέλι. Είναι κίτρινη και άσπρη και έχει πράσινα μάτια. Είναι πέντε χρονών. Είναι λίγο χοντρή, γιατί τρώει πολύ.",
         "Η Μέλι κοιμάται όλη μέρα στο κρεβάτι ή στον ήλιο στο μπαλκόνι. Τη νύχτα παίζει και τρέχει μέσα στο σπίτι. Δεν της αρέσουν τα σκυλιά, αλλά αγαπάει πολύ τη γειτόνισσά μου, γιατί της δίνει ψάρι."
+      ],
+      "english": [
+        [
+          "I have a cat.",
+          "Her name is Meli.",
+          "She's ginger and white and has green eyes.",
+          "She's five years old.",
+          "She's a bit fat, because she eats a lot."
+        ],
+        [
+          "Meli sleeps all day on the bed or in the sun on the balcony.",
+          "At night she plays and runs around the house.",
+          "She doesn't like dogs, but she really loves my neighbour, because she gives her fish."
+        ]
       ],
       "vocab": [
         { "word": "γάτα", "gloss": "cat" },
@@ -222,6 +360,19 @@
         "Το Σαββατοκύριακο η Δέσποινα δεν δουλεύει. Το Σάββατο καθαρίζει το σπίτι και μετά πηγαίνει για κολύμπι με την αδελφή της. Το βράδυ βλέπουν μια ταινία ή βγαίνουν για φαγητό.",
         "Την Κυριακή η Δέσποινα ξυπνάει αργά. Φτιάχνει ένα μεγάλο πρωινό και διαβάζει την εφημερίδα. Το απόγευμα κάνει βόλτα στο πάρκο με τον σκύλο της. Της αρέσει η Κυριακή, γιατί είναι ήσυχη."
       ],
+      "english": [
+        [
+          "At the weekend Despina doesn't work.",
+          "On Saturday she cleans the house and then goes swimming with her sister.",
+          "In the evening they watch a film or go out to eat."
+        ],
+        [
+          "On Sunday Despina wakes up late.",
+          "She makes a big breakfast and reads the newspaper.",
+          "In the afternoon she goes for a walk in the park with her dog.",
+          "She likes Sundays, because they're quiet."
+        ]
+      ],
       "vocab": [
         { "word": "Σαββατοκύριακο", "gloss": "weekend" },
         { "word": "καθαρίζει", "gloss": "cleans" },
@@ -242,6 +393,20 @@
       "paragraphs": [
         "Απόψε ο Αλέξης και η Χριστίνα τρώνε σε μια ταβέρνα δίπλα στη θάλασσα. Ο σερβιτόρος φέρνει τον κατάλογο. Ο Αλέξης παραγγέλνει μουσακά. Η Χριστίνα παίρνει ψάρι και μια χωριάτικη σαλάτα.",
         "Για να πιουν, παραγγέλνουν ένα μπουκάλι νερό και μισό κιλό κρασί. Το φαγητό είναι πεντανόστιμο. Στο τέλος, η ταβέρνα τους κερνάει γλυκό. Ο Αλέξης ζητάει τον λογαριασμό."
+      ],
+      "english": [
+        [
+          "Tonight Alexis and Christina are eating at a taverna by the sea.",
+          "The waiter brings the menu.",
+          "Alexis orders moussaka.",
+          "Christina has fish and a Greek salad."
+        ],
+        [
+          "To drink, they order a bottle of water and half a kilo of wine.",
+          "The food is delicious.",
+          "At the end, the taverna treats them to a dessert on the house.",
+          "Alexis asks for the bill."
+        ]
       ],
       "vocab": [
         { "word": "απόψε", "gloss": "tonight" },
@@ -264,6 +429,21 @@
         "Το Σάββατο η Ιωάννα πηγαίνει στον γάμο της ξαδέρφης της. Δεν έχει φόρεμα, γι' αυτό πηγαίνει σε ένα μαγαζί με ρούχα στο κέντρο. Υπάρχουν φορέματα σε όλα τα χρώματα.",
         "Δοκιμάζει ένα κόκκινο φόρεμα, αλλά είναι πολύ μικρό. Μετά δοκιμάζει ένα γαλάζιο φόρεμα. Είναι τέλειο! «Πόσο κοστίζει;» ρωτάει η Ιωάννα. «Εξήντα ευρώ.» Είναι λίγο ακριβό, αλλά η Ιωάννα είναι χαρούμενη."
       ],
+      "english": [
+        [
+          "On Saturday Ioanna is going to her cousin's wedding.",
+          "She doesn't have a dress, so she goes to a clothes shop in the town centre.",
+          "There are dresses in every colour."
+        ],
+        [
+          "She tries on a red dress, but it's too small.",
+          "Then she tries on a light blue dress.",
+          "It's perfect!",
+          "\"How much does it cost?\" Ioanna asks.",
+          "\"Sixty euros.\"",
+          "It's a bit expensive, but Ioanna is happy."
+        ]
+      ],
       "vocab": [
         { "word": "γάμο", "gloss": "wedding" },
         { "word": "ξαδέρφης", "gloss": "(of the) cousin (female)" },
@@ -285,6 +465,20 @@
         "Ο Παύλος είναι άρρωστος. Τον πονάει το κεφάλι και ο λαιμός του, και έχει πυρετό. Τηλεφωνεί στον γιατρό και κλείνει ραντεβού για τις δέκα.",
         "Ο γιατρός τον εξετάζει. «Έχετε γρίπη», λέει. «Μείνετε στο κρεβάτι τρεις μέρες και πίνετε πολύ νερό.» Του δίνει μια συνταγή. Ο Παύλος πηγαίνει στο φαρμακείο, μετά γυρίζει σπίτι και κοιμάται."
       ],
+      "english": [
+        [
+          "Pavlos is ill.",
+          "His head and throat hurt, and he has a fever.",
+          "He phones the doctor and makes an appointment for ten."
+        ],
+        [
+          "The doctor examines him.",
+          "\"You have the flu,\" he says.",
+          "\"Stay in bed for three days and drink lots of water.\"",
+          "He gives him a prescription.",
+          "Pavlos goes to the pharmacy, then goes home and sleeps."
+        ]
+      ],
       "vocab": [
         { "word": "άρρωστος", "gloss": "ill, sick" },
         { "word": "πονάει", "gloss": "hurts" },
@@ -305,6 +499,20 @@
       "paragraphs": [
         "Η καλύτερή μου φίλη λέγεται Βάσω. Γνωριζόμαστε από το σχολείο. Είναι ψηλή, έχει σγουρά μαλλιά και φοράει γυαλιά. Είναι αστεία και πολύ γενναιόδωρη.",
         "Η Βάσω μένει στην Κρήτη κι εγώ μένω στην Πάτρα. Είναι μακριά, γι' αυτό μιλάμε στο τηλέφωνο κάθε εβδομάδα. Το καλοκαίρι πηγαίνουμε πάντα διακοπές μαζί. Φέτος πάμε στη Νάξο!"
+      ],
+      "english": [
+        [
+          "My best friend is called Vaso.",
+          "We've known each other since school.",
+          "She's tall, she has curly hair and she wears glasses.",
+          "She's funny and very generous."
+        ],
+        [
+          "Vaso lives in Crete and I live in Patras.",
+          "It's far away, so we talk on the phone every week.",
+          "In the summer we always go on holiday together.",
+          "This year we're going to Naxos!"
+        ]
       ],
       "vocab": [
         { "word": "καλύτερή", "gloss": "best (female)" },

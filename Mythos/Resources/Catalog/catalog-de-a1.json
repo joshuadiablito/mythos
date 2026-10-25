@@ -12,6 +12,23 @@
         "Hallo! Ich heiße Anna. Ich bin sechsundzwanzig Jahre alt und wohne in Hamburg. Hamburg ist eine große Stadt im Norden von Deutschland. Ich bin Krankenschwester. Meine Arbeit ist interessant, aber anstrengend.",
         "Meine Familie ist klein. Mein Vater heißt Peter und meine Mutter heißt Sabine. Ich habe auch einen Bruder. Er heißt Jonas und ist Student. Am Sonntag essen wir oft zusammen bei meinen Eltern."
       ],
+      "english": [
+        [
+          "Hello!",
+          "My name is Anna.",
+          "I'm twenty-six years old and I live in Hamburg.",
+          "Hamburg is a big city in the north of Germany.",
+          "I'm a nurse.",
+          "My work is interesting, but tiring."
+        ],
+        [
+          "My family is small.",
+          "My father is called Peter and my mother is called Sabine.",
+          "I also have a brother.",
+          "He's called Jonas and he's a student.",
+          "On Sundays we often eat together at my parents' place."
+        ]
+      ],
       "vocab": [
         { "word": "wohne", "gloss": "I live" },
         { "word": "Stadt", "gloss": "city, town" },
@@ -32,6 +49,18 @@
       "paragraphs": [
         "Felix steht um sieben Uhr auf. Er öffnet das Fenster und duscht. Dann putzt er die Zähne und zieht sich an: eine Jeans, ein blaues Hemd und Turnschuhe.",
         "Zum Frühstück trinkt er einen Kaffee und isst ein Brötchen mit Butter und Marmelade. Um acht Uhr nimmt er sein Fahrrad und fährt ins Büro. Er kommt nie zu spät."
+      ],
+      "english": [
+        [
+          "Felix gets up at seven o'clock.",
+          "He opens the window and has a shower.",
+          "Then he brushes his teeth and gets dressed: jeans, a blue shirt and trainers."
+        ],
+        [
+          "For breakfast he drinks a coffee and eats a bread roll with butter and jam.",
+          "At eight o'clock he takes his bike and rides to the office.",
+          "He's never late."
+        ]
       ],
       "vocab": [
         { "word": "steht", "gloss": "gets (up) — from aufstehen" },
@@ -54,6 +83,21 @@
         "Es ist zehn Uhr. Laura geht in ein kleines Café am Bahnhof. Es ist sehr voll, aber am Fenster ist noch ein Tisch frei. Laura setzt sich und liest die Karte.",
         "Der Kellner kommt. „Guten Morgen! Was möchten Sie?“ Laura antwortet: „Eine heiße Schokolade und ein Stück Apfelkuchen, bitte.“ Der Kuchen schmeckt sehr gut. Laura bezahlt sechs Euro und gibt ein Trinkgeld."
       ],
+      "english": [
+        [
+          "It's ten o'clock.",
+          "Laura goes into a small café at the station.",
+          "It's very busy, but there's still a free table by the window.",
+          "Laura sits down and reads the menu."
+        ],
+        [
+          "The waiter comes over.",
+          "\"Good morning! What would you like?\"",
+          "Laura answers: \"A hot chocolate and a piece of apple cake, please.\"",
+          "The cake tastes very good.",
+          "Laura pays six euros and leaves a tip."
+        ]
+      ],
       "vocab": [
         { "word": "Bahnhof", "gloss": "train station" },
         { "word": "voll", "gloss": "full, busy" },
@@ -74,6 +118,19 @@
       "paragraphs": [
         "Am Samstagmorgen gibt es einen Markt auf dem Marktplatz. Frau Weber kauft gern hier ein. Das Obst und das Gemüse sind frisch, und die Verkäufer sind freundlich.",
         "Heute kauft sie ein Kilo Äpfel, Tomaten und ein Stück Käse. „Was kostet das?“, fragt sie. „Neun Euro, bitte.“ Sie legt alles in ihren Korb und geht zu Fuß nach Hause."
+      ],
+      "english": [
+        [
+          "On Saturday mornings there's a market on the market square.",
+          "Frau Weber likes shopping here.",
+          "The fruit and vegetables are fresh, and the stallholders are friendly."
+        ],
+        [
+          "Today she buys a kilo of apples, some tomatoes and a piece of cheese.",
+          "\"How much is that?\" she asks.",
+          "\"Nine euros, please.\"",
+          "She puts everything in her basket and walks home."
+        ]
       ],
       "vocab": [
         { "word": "kauft", "gloss": "buys" },
@@ -96,6 +153,18 @@
         "Ich wohne in einer Wohnung im dritten Stock. Es gibt keinen Aufzug, also nehme ich jeden Tag die Treppe. Die Wohnung ist nicht groß, aber sie ist hell.",
         "Es gibt eine Küche, ein Wohnzimmer, ein Schlafzimmer und ein Bad. Im Wohnzimmer steht ein grünes Sofa, und es gibt viele Bücher. Mein Lieblingsplatz ist der Balkon: Am Abend lese ich dort und sehe die Dächer der Stadt."
       ],
+      "english": [
+        [
+          "I live in a flat on the third floor.",
+          "There's no lift, so I take the stairs every day.",
+          "The flat isn't big, but it's bright."
+        ],
+        [
+          "There's a kitchen, a living room, a bedroom and a bathroom.",
+          "In the living room there's a green sofa, and there are lots of books.",
+          "My favourite spot is the balcony: in the evening I read there and look at the rooftops of the city."
+        ]
+      ],
       "vocab": [
         { "word": "Wohnung", "gloss": "flat, apartment" },
         { "word": "Stock", "gloss": "floor, storey" },
@@ -116,6 +185,21 @@
       "paragraphs": [
         "In Norddeutschland ändert sich das Wetter oft. Am Morgen scheint die Sonne. Am Nachmittag gibt es Wolken, und es regnet ein bisschen. Am Abend ist es windig.",
         "Lukas wohnt in Bremen. Er hat immer einen Regenschirm in der Tasche. Heute ist es kalt: Es sind nur acht Grad. Lukas zieht einen Pullover an und nimmt einen Schal. Er mag den Winter nicht, er mag lieber den Sommer."
+      ],
+      "english": [
+        [
+          "In northern Germany the weather often changes.",
+          "In the morning the sun is shining.",
+          "In the afternoon there are clouds, and it rains a little.",
+          "In the evening it's windy."
+        ],
+        [
+          "Lukas lives in Bremen.",
+          "He always has an umbrella in his bag.",
+          "Today it's cold: it's only eight degrees.",
+          "Lukas puts on a jumper and takes a scarf.",
+          "He doesn't like winter; he prefers summer."
+        ]
       ],
       "vocab": [
         { "word": "Wetter", "gloss": "weather" },
@@ -138,6 +222,19 @@
         "Jeden Tag fährt Mia mit dem Bus Nummer zwölf zur Universität. Die Haltestelle ist gegenüber von ihrem Haus. Die Fahrt dauert zwanzig Minuten.",
         "Im Bus hört Mia Musik oder liest ein Buch. Manchmal steigt eine alte Frau ein. Mia steht auf und gibt ihr ihren Platz. Die Frau lächelt und sagt: „Danke, das ist sehr nett von Ihnen.“"
       ],
+      "english": [
+        [
+          "Every day Mia takes the number twelve bus to the university.",
+          "The bus stop is opposite her house.",
+          "The journey takes twenty minutes."
+        ],
+        [
+          "On the bus Mia listens to music or reads a book.",
+          "Sometimes an old woman gets on.",
+          "Mia stands up and gives her her seat.",
+          "The woman smiles and says: \"Thank you, that's very kind of you.\""
+        ]
+      ],
       "vocab": [
         { "word": "Haltestelle", "gloss": "stop (bus stop)" },
         { "word": "gegenüber", "gloss": "opposite" },
@@ -158,6 +255,21 @@
       "paragraphs": [
         "Heute hat Tim Geburtstag. Er wird dreißig. Seine Freunde planen eine Überraschungsparty im Garten. Es gibt Luftballons, Kerzen und eine große Schokoladentorte.",
         "Um sechs Uhr kommt Tim. Alle rufen: „Überraschung! Alles Gute zum Geburtstag!“ Tim freut sich sehr. Er öffnet seine Geschenke: ein Buch, eine Uhr und eine Karte für ein Konzert. Am Abend tanzen sie bis Mitternacht."
+      ],
+      "english": [
+        [
+          "Today is Tim's birthday.",
+          "He's turning thirty.",
+          "His friends are planning a surprise party in the garden.",
+          "There are balloons, candles and a big chocolate cake."
+        ],
+        [
+          "Tim arrives at six o'clock.",
+          "Everyone shouts: \"Surprise! Happy birthday!\"",
+          "Tim is really pleased.",
+          "He opens his presents: a book, a watch and a ticket for a concert.",
+          "In the evening they dance until midnight."
+        ]
       ],
       "vocab": [
         { "word": "Geburtstag", "gloss": "birthday" },
@@ -180,6 +292,20 @@
         "Am Dienstag und am Donnerstag geht Marco in einen Deutschkurs. Er kommt aus Italien und wohnt seit drei Monaten in Berlin. In seinem Kurs sind zwölf Leute aus vielen Ländern.",
         "Die Lehrerin heißt Frau Schmidt. Sie spricht langsam und erklärt alles gut. Marco findet die Artikel schwierig: der, die, das! Aber er lernt gern neue Wörter. Nach dem Kurs trinken die Kursteilnehmer zusammen ein Bier und sprechen Deutsch."
       ],
+      "english": [
+        [
+          "On Tuesdays and Thursdays Marco goes to a German class.",
+          "He comes from Italy and has lived in Berlin for three months.",
+          "There are twelve people from lots of countries in his class."
+        ],
+        [
+          "The teacher is called Frau Schmidt.",
+          "She speaks slowly and explains everything well.",
+          "Marco finds the articles difficult: der, die, das!",
+          "But he enjoys learning new words.",
+          "After the class the students have a beer together and speak German."
+        ]
+      ],
       "vocab": [
         { "word": "seit", "gloss": "for, since" },
         { "word": "Ländern", "gloss": "countries" },
@@ -200,6 +326,20 @@
       "paragraphs": [
         "Ich habe eine Katze. Sie heißt Mimi. Sie ist schwarz und weiß und hat grüne Augen. Sie ist fünf Jahre alt. Sie ist ein bisschen dick, weil sie viel frisst.",
         "Mimi schläft den ganzen Tag auf dem Bett oder in der Sonne am Fenster. In der Nacht spielt sie und rennt durch die Wohnung. Sie mag keine Hunde, aber sie mag meine Nachbarin sehr, denn sie gibt ihr Fisch."
+      ],
+      "english": [
+        [
+          "I have a cat.",
+          "She's called Mimi.",
+          "She's black and white and has green eyes.",
+          "She's five years old.",
+          "She's a bit fat because she eats a lot."
+        ],
+        [
+          "Mimi sleeps all day on the bed or in the sun by the window.",
+          "At night she plays and runs around the flat.",
+          "She doesn't like dogs, but she really likes my neighbour, because she gives her fish."
+        ]
       ],
       "vocab": [
         { "word": "Katze", "gloss": "cat" },
@@ -222,6 +362,19 @@
         "Am Wochenende arbeitet Lena nicht. Am Samstag putzt sie die Wohnung, dann geht sie mit ihrer Schwester ins Schwimmbad. Am Abend sehen sie einen Film oder gehen ins Restaurant.",
         "Am Sonntag schläft Lena lange. Sie macht ein großes Frühstück und liest die Zeitung. Am Nachmittag geht sie mit ihrem Hund im Park spazieren. Sie mag den Sonntag, weil er so ruhig ist."
       ],
+      "english": [
+        [
+          "At the weekend Lena doesn't work.",
+          "On Saturday she cleans the flat, then she goes to the swimming pool with her sister.",
+          "In the evening they watch a film or go to a restaurant."
+        ],
+        [
+          "On Sunday Lena has a lie-in.",
+          "She makes a big breakfast and reads the newspaper.",
+          "In the afternoon she takes her dog for a walk in the park.",
+          "She likes Sundays because they're so quiet."
+        ]
+      ],
       "vocab": [
         { "word": "Wochenende", "gloss": "weekend" },
         { "word": "putzt", "gloss": "cleans" },
@@ -242,6 +395,20 @@
       "paragraphs": [
         "Heute Abend essen Jan und Sarah in einem griechischen Restaurant. Die Kellnerin bringt die Speisekarte. Jan bestellt Gyros mit Reis. Sarah nimmt einen Salat und Brot.",
         "Zum Trinken bestellen sie eine Flasche Wasser und zwei Gläser Weißwein. Das Essen ist sehr lecker. Zum Nachtisch teilen sie ein Eis. Am Ende sagt Jan: „Die Rechnung, bitte!“"
+      ],
+      "english": [
+        [
+          "This evening Jan and Sarah are eating at a Greek restaurant.",
+          "The waitress brings the menu.",
+          "Jan orders gyros with rice.",
+          "Sarah has a salad and bread."
+        ],
+        [
+          "To drink they order a bottle of water and two glasses of white wine.",
+          "The food is delicious.",
+          "For dessert they share an ice cream.",
+          "At the end Jan says: \"The bill, please!\""
+        ]
       ],
       "vocab": [
         { "word": "Kellnerin", "gloss": "waitress" },
@@ -264,6 +431,21 @@
         "Am Samstag geht Julia zur Hochzeit von ihrer Cousine. Sie hat kein Kleid, also geht sie in ein Kleidungsgeschäft in der Innenstadt. Dort gibt es Kleider in allen Farben.",
         "Sie probiert ein rotes Kleid an, aber es ist zu klein. Dann probiert sie ein blaues Kleid an. Es passt perfekt! „Was kostet es?“, fragt Julia. „Neunundfünfzig Euro.“ Das ist ein bisschen teuer, aber Julia ist glücklich."
       ],
+      "english": [
+        [
+          "On Saturday Julia is going to her cousin's wedding.",
+          "She doesn't have a dress, so she goes to a clothes shop in the town centre.",
+          "There are dresses in every colour there."
+        ],
+        [
+          "She tries on a red dress, but it's too small.",
+          "Then she tries on a blue dress.",
+          "It fits perfectly!",
+          "\"How much is it?\" Julia asks.",
+          "\"Fifty-nine euros.\"",
+          "That's a bit expensive, but Julia is happy."
+        ]
+      ],
       "vocab": [
         { "word": "Hochzeit", "gloss": "wedding" },
         { "word": "Kleid", "gloss": "dress" },
@@ -285,6 +467,20 @@
         "Paul ist krank. Er hat Kopfschmerzen und Halsschmerzen, und er hat Fieber. Er ruft beim Arzt an und bekommt einen Termin um zehn Uhr.",
         "Der Arzt untersucht ihn. „Sie haben eine Grippe“, sagt er. „Bleiben Sie drei Tage im Bett und trinken Sie viel Wasser.“ Er gibt Paul ein Rezept. Paul geht zur Apotheke, dann geht er nach Hause und schläft."
       ],
+      "english": [
+        [
+          "Paul is ill.",
+          "He has a headache and a sore throat, and he has a fever.",
+          "He calls the doctor's and gets an appointment at ten o'clock."
+        ],
+        [
+          "The doctor examines him.",
+          "\"You have the flu,\" he says.",
+          "\"Stay in bed for three days and drink lots of water.\"",
+          "He gives Paul a prescription.",
+          "Paul goes to the pharmacy, then he goes home and sleeps."
+        ]
+      ],
       "vocab": [
         { "word": "krank", "gloss": "ill, sick" },
         { "word": "Kopfschmerzen", "gloss": "headache" },
@@ -305,6 +501,20 @@
       "paragraphs": [
         "Meine beste Freundin heißt Hannah. Wir kennen uns seit der Schule. Sie ist groß, hat lange braune Haare und trägt eine Brille. Sie ist lustig und sehr großzügig.",
         "Hannah wohnt in München und ich wohne in Köln. Das ist weit weg, also telefonieren wir jede Woche. Im Sommer fahren wir zusammen in den Urlaub. Dieses Jahr fahren wir nach Österreich!"
+      ],
+      "english": [
+        [
+          "My best friend is called Hannah.",
+          "We've known each other since school.",
+          "She's tall, has long brown hair and wears glasses.",
+          "She's funny and very generous."
+        ],
+        [
+          "Hannah lives in Munich and I live in Cologne.",
+          "That's a long way away, so we phone each other every week.",
+          "In the summer we go on holiday together.",
+          "This year we're going to Austria!"
+        ]
       ],
       "vocab": [
         { "word": "beste", "gloss": "best" },
