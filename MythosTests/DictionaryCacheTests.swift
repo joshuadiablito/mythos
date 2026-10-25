@@ -26,9 +26,14 @@ private final class StubProtocol: URLProtocol {
 private final class FixtureBundle {}
 
 @Suite("Dictionary cache", .serialized)
-struct DictionaryCacheTests {
+final class DictionaryCacheTests {
+    /// Each test's own cache directory, removed when the test ends.
+    private let directory = FileManager.default.temporaryDirectory.appending(path: "cache-\(UUID().uuidString)")
+
+    deinit { try? FileManager.default.removeItem(at: directory) }
+
     private func temporaryCache(maxBytes: Int = 80 << 20) -> DictionaryCache {
-        DictionaryCache(directory: FileManager.default.temporaryDirectory.appending(path: "cache-\(UUID().uuidString)"), maxBytes: maxBytes)
+        DictionaryCache(directory: directory, maxBytes: maxBytes)
     }
 
     private func stubbedSession() throws -> URLSession {

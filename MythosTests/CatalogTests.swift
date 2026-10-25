@@ -147,7 +147,7 @@ struct TranslationTests {
     func everyStoryIsTranslated(language: Language) {
         for story in catalog.stories.filter({ $0.language == language }) {
             #expect(!story.sentencePairs.isEmpty, "\(story.id): translation missing or out of step with its sentences")
-            #expect(story.english.joined().allSatisfy { !$0.trimmingCharacters(in: .whitespaces).isEmpty }, "\(story.id)")
+            #expect(story.sentencePairs.joined().allSatisfy { !$0.translation.trimmingCharacters(in: .whitespaces).isEmpty }, "\(story.id)")
         }
     }
 
