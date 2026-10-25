@@ -5,7 +5,7 @@ struct SettingsView: View {
     @State private var editing: Language?
     @State private var previewSent = false
     @State private var notificationsBlocked = false
-    @State private var cacheBytes = DictionaryClient.shared.cache.sizeInBytes
+    @State private var cacheBytes = 0
     @Environment(\.openURL) private var openURL
 
     var body: some View {
@@ -53,8 +53,12 @@ struct SettingsView: View {
                         DatePicker("Time", selection: $settings.deliveryTime, displayedComponents: .hourAndMinute)
                         Button(previewSent ? "Arriving in 5 seconds…" : "Send a preview", systemImage: "bell.badge") {
                             Task {
-                                guard await NotificationScheduler.sendPreview(settings: settings) else {
+                                switch await NotificationScheduler.sendPreview(settings: settings) {
+                                case .sent: break
+                                case .blocked:
                                     notificationsBlocked = true
+                                    return
+                                case .nothingToSend:
                                     return
                                 }
                                 // Queue the daily ones too, now that permission may just have been given.
@@ -96,8 +100,10 @@ struct SettingsView: View {
                     HStack {
                         LabeledContent("Saved lookups", value: cacheBytes.formatted(.byteCount(style: .file)))
                         Button("Clear") {
-                            DictionaryClient.shared.cache.removeAll()
-                            cacheBytes = DictionaryClient.shared.cache.sizeInBytes
+                            Task {
+                                await DictionaryClient.shared.clearCache()
+                                cacheBytes = await DictionaryClient.shared.cacheSize()
+                            }
                         }
                         .buttonStyle(.borderless)
                         .disabled(cacheBytes == 0)
@@ -108,7 +114,7 @@ struct SettingsView: View {
             }
             .appBackground()
             .navigationTitle("Settings")
-            .onAppear { cacheBytes = DictionaryClient.shared.cache.sizeInBytes }
+            .task { cacheBytes = await DictionaryClient.shared.cacheSize() }
             .alert("Notifications are off for Mythos", isPresented: $notificationsBlocked) {
                 Button("Open Settings") {
                     if let url = URL(string: UIApplication.openNotificationSettingsURLString) { openURL(url) }

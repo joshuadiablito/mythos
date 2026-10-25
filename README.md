@@ -62,7 +62,7 @@ For screenshots and quick checks, Debug builds accept:
 | Story catalog | `Mythos/Resources/Catalog/catalog-<lang>-<level>.json` | Bundled with the app. Each story has a title, English subtitle, topic, SF Symbol, paragraphs, and a glossary of words _as written in the text_ |
 | Daily plan | `Model/DailyPlan.swift` | Deterministic: a course shows its level's stories in order from the day it started, so notifications weeks ahead name the right story. Several languages take turns in notifications |
 | Notifications | `Services/NotificationScheduler.swift` | Local `UNCalendarNotificationTrigger`s, 60 days ahead (iOS allows 64), topped up whenever the app becomes active. Tapping one opens its story |
-| Dictionary | `Dictionary/` | [kaikki.org](https://kaikki.org) (Wiktionary as JSON): free and keyless. Ported from Paradigma's `kaikki.ts`, `word.ts` and `inflections.ts`. Responses are cached on disk (100 MB), so a word costs one request at most |
+| Dictionary | `Dictionary/` | [kaikki.org](https://kaikki.org) (Wiktionary as JSON): free and keyless. Ported from Paradigma's `kaikki.ts`, `word.ts` and `inflections.ts`. Responses are cached on disk (80 MB, not backed up), so a word costs one request at most |
 | Speech | `Services/Speaker.swift` | `AVSpeechSynthesizer` with the language's voice; reports the word being spoken for highlighting. Wiktionary recordings play when there are some |
 | Translation | `Translation` framework | On device, no network |
 | Settings, progress | `Model/AppSettings.swift`, `Model/ProgressStore.swift` | `UserDefaults` |

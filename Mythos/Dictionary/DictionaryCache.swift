@@ -6,6 +6,7 @@ import Foundation
 ///
 /// Kept in Application Support rather than Caches, so iOS doesn't clear it
 /// under storage pressure; it trims itself instead, least recently used first.
+/// It is excluded from backups, since every file in it can be downloaded again.
 /// "No such word" answers are remembered too, for 30 days, since Wiktionary
 /// does add pages.
 nonisolated final class DictionaryCache: Sendable {
@@ -21,7 +22,15 @@ nonisolated final class DictionaryCache: Sendable {
     init(directory: URL? = nil, maxBytes: Int = 80 << 20) {
         self.directory = directory ?? URL.applicationSupportDirectory.appending(path: "DictionaryCache", directoryHint: .isDirectory)
         self.maxBytes = maxBytes
-        try? FileManager.default.createDirectory(at: self.directory, withIntermediateDirectories: true)
+        createDirectory()
+    }
+
+    private func createDirectory() {
+        try? FileManager.default.createDirectory(at: directory, withIntermediateDirectories: true)
+        var values = URLResourceValues()
+        values.isExcludedFromBackup = true
+        var directory = directory
+        try? directory.setResourceValues(values)
     }
 
     private func key(_ url: URL) -> String {
@@ -72,7 +81,7 @@ nonisolated final class DictionaryCache: Sendable {
 
     func removeAll() {
         try? FileManager.default.removeItem(at: directory)
-        try? FileManager.default.createDirectory(at: directory, withIntermediateDirectories: true)
+        createDirectory()
     }
 
     var sizeInBytes: Int {

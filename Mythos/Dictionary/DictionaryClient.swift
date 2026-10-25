@@ -19,7 +19,7 @@ final class DictionaryClient {
     private static let maxLemmas = 3
 
     private let session: URLSession
-    let cache: DictionaryCache
+    private let cache: DictionaryCache
     private var memory: [String: LookupResult] = [:]
 
     init(session: URLSession? = nil, cache: DictionaryCache = DictionaryCache()) {
@@ -72,7 +72,7 @@ final class DictionaryClient {
     /// then cached. A 404 means "no such word", not an error, and is cached too.
     private func fetch(_ word: String, language: String) async throws -> [Entry] {
         let url = KaikkiParser.url(language: language, word: word)
-        switch cache.read(url) {
+        switch await Self.onDisk({ [cache] in cache.read(url) }) {
         case .found(let data): return await Self.parse(data)
         case .notFound: return []
         case nil: break
@@ -80,12 +80,29 @@ final class DictionaryClient {
         let (data, response) = try await session.data(from: url)
         let status = (response as? HTTPURLResponse)?.statusCode ?? 0
         if status == 404 {
-            cache.store(.notFound, for: url)
+            await Self.onDisk { [cache] in cache.store(.notFound, for: url) }
             return []
         }
         guard (200..<300).contains(status) else { throw DictionaryError.unavailable(status: status) }
-        cache.store(.found(data), for: url)
+        await Self.onDisk { [cache] in cache.store(.found(data), for: url) }
         return await Self.parse(data)
+    }
+
+    /// The size of the saved lookups on disk.
+    func cacheSize() async -> Int {
+        await Self.onDisk { [cache] in cache.sizeInBytes }
+    }
+
+    /// Forgets every saved lookup, on disk and in memory.
+    func clearCache() async {
+        memory.removeAll()
+        await Self.onDisk { [cache] in cache.removeAll() }
+    }
+
+    // The cache's file reads and writes, like parsing, stay off the main actor.
+    @concurrent
+    private nonisolated static func onDisk<T: Sendable>(_ work: @Sendable () -> T) async -> T {
+        work()
     }
 
     // Verb entries run to hundreds of kilobytes; parse them off the main actor.
