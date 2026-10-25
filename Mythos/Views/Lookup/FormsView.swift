@@ -28,10 +28,11 @@ struct FormsView: View {
             if !inflections.other.isEmpty {
                 VStack(alignment: .leading, spacing: 8) {
                     ForEach(inflections.other, id: \.label) { other in
-                        HStack(alignment: .firstTextBaseline) {
+                        // Label above, forms wrapping below: a list of participles
+                        // can be long, and must not widen the sheet.
+                        VStack(alignment: .leading, spacing: 4) {
                             Text(other.label).font(.caption).foregroundStyle(.secondary)
-                                .frame(width: 110, alignment: .leading)
-                            FormList(forms: other.forms, query: query, language: language)
+                            FormList(forms: other.forms, query: query, language: language, wraps: true)
                         }
                     }
                 }
@@ -130,15 +131,18 @@ private struct TableGrid: View {
 }
 
 /// Forms separated by slashes; tap one to hear it. The looked-up word is highlighted.
+/// In a table cell they stay on one line (the table scrolls sideways); elsewhere they wrap.
 private struct FormList: View {
     let forms: [String]
     let query: String
     let language: Language
     var speaksWith: String?
+    var wraps = false
     @Environment(Speaker.self) private var speaker
 
     var body: some View {
-        HStack(spacing: 4) {
+        let layout = wraps ? AnyLayout(FlowLayout(spacing: 4)) : AnyLayout(HStackLayout(alignment: .firstTextBaseline, spacing: 4))
+        layout {
             ForEach(Array(forms.enumerated()), id: \.offset) { i, form in
                 if i > 0 { Text("/").foregroundStyle(.tertiary) }
                 let match = form.lowercased() == query.lowercased()
