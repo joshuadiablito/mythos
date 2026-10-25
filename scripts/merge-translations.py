@@ -20,46 +20,55 @@ from pathlib import Path
 
 CATALOG = Path("Mythos/Resources/Catalog")
 
-def parse(lines):
+def parse(lines, name):
     stories = {}
     current = None
-    for line in lines:
+    for number, line in enumerate(lines, 1):
         line = line.rstrip("\n")
         if line.startswith("## "):
             current = line[3:].strip()
             stories[current] = defaultdict(list)
         elif line.strip():
-            p, text = line.split("| ", 1)
+            p, sep, text = line.partition("| ")
+            if current is None or not sep or not p.strip().isdigit():
+                sys.exit(f"{name}:{number}: expected '## <story id>' or '<paragraph>| <sentence>', got {line!r}")
             stories[current][int(p)].append(text.strip())
     return {k: [v[p] for p in sorted(v)] for k, v in stories.items()}
 
+def value(key, v):
+    """One story field, laid out as the catalog files have it."""
+    j = lambda x: json.dumps(x, ensure_ascii=False)
+    if key == "paragraphs":
+        return "[\n" + ",\n".join(f"        {j(p)}" for p in v) + "\n      ]"
+    if key == "english":
+        return "[\n" + ",\n".join("        [\n" + ",\n".join(f"          {j(t)}" for t in para) + "\n        ]" for para in v) + "\n      ]"
+    if key == "vocab":
+        return "[\n" + ",\n".join(f'        {{ "word": {j(i["word"])}, "gloss": {j(i["gloss"])} }}' for i in v) + "\n      ]"
+    return j(v)
+
 def dump(catalog):
-    """Writes the catalog in its usual shape: one glossary item per line."""
-    out = ['{', f'  "language": {json.dumps(catalog["language"])},', f'  "level": {json.dumps(catalog["level"])},', '  "stories": [']
+    """Writes the catalog in its usual shape: one glossary item per line.
+    Every key is kept, so fields this script doesn't know about survive."""
+    out = ["{"]
+    for key, v in catalog.items():
+        if key != "stories":
+            out.append(f"  {json.dumps(key)}: {json.dumps(v, ensure_ascii=False)},")
+    out.append('  "stories": [')
     for i, s in enumerate(catalog["stories"]):
-        out.append("    {")
-        for key in ["id", "title", "subtitle", "topic", "symbol"]:
-            out.append(f'      "{key}": {json.dumps(s[key], ensure_ascii=False)},')
-        out.append('      "paragraphs": [')
-        out.append(",\n".join(f"        {json.dumps(p, ensure_ascii=False)}" for p in s["paragraphs"]))
-        out.append("      ],")
+        keys = [k for k in s if k != "english"]
         if "english" in s:
-            out.append('      "english": [')
-            out.append(",\n".join("        [\n" + ",\n".join(f"          {json.dumps(t, ensure_ascii=False)}" for t in para) + "\n        ]"
-                                  for para in s["english"]))
-            out.append("      ],")
-        out.append('      "vocab": [')
-        out.append(",\n".join(f'        {{ "word": {json.dumps(v["word"], ensure_ascii=False)}, "gloss": {json.dumps(v["gloss"], ensure_ascii=False)} }}'
-                              for v in s["vocab"]))
-        out.append("      ]")
-        out.append("    }" + ("," if i < len(catalog["stories"]) - 1 else ""))
+            # A new translation goes after the paragraphs it translates.
+            keys.insert(keys.index("paragraphs") + 1 if "paragraphs" in keys else len(keys), "english")
+        fields = [f"      {json.dumps(k)}: {value(k, s[k])}" for k in keys]
+        out.append("    {\n" + ",\n".join(fields) + "\n    }" + ("," if i < len(catalog["stories"]) - 1 else ""))
     out += ["  ]", "}", ""]
     return "\n".join(out)
 
-segments = parse(subprocess.run(["scripts/segment.sh"], capture_output=True, text=True, check=True).stdout.splitlines())
+segments = parse(subprocess.run(["scripts/segment.sh"], capture_output=True, text=True, check=True).stdout.splitlines(), "segment.sh")
 translations = {}
 for path in sys.argv[1:]:
-    translations.update(parse(open(path, encoding="utf-8")))
+    with open(path, encoding="utf-8") as f:
+        translations.update(parse(f, path))
 
 errors = []
 for story_id, english in translations.items():
