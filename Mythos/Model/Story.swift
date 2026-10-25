@@ -7,6 +7,12 @@ struct VocabItem: Codable, Hashable, Sendable {
     let gloss: String
 }
 
+/// One sentence of a story and its English translation.
+struct SentencePair: Hashable, Sendable {
+    let original: String
+    let translation: String
+}
+
 struct Story: Identifiable, Hashable, Sendable {
     let id: String
     let language: Language
@@ -20,9 +26,9 @@ struct Story: Identifiable, Hashable, Sendable {
     /// SF Symbol for the topic.
     let symbol: String
     let paragraphs: [String]
-    /// The English translation: per paragraph, one sentence for each of the
-    /// paragraph's sentences as `SentenceSplitter` splits them.
-    let english: [[String]]
+    /// Each paragraph's sentences beside their English translations. Empty
+    /// if the story has no translation, or one that doesn't line up.
+    let sentencePairs: [[SentencePair]]
     let vocab: [VocabItem]
 
     var text: String { paragraphs.joined(separator: "\n\n") }
@@ -41,15 +47,18 @@ struct Story: Identifiable, Hashable, Sendable {
         return String(first[...end])
     }
 
-    /// Each paragraph's sentences beside their translations. Empty if the
-    /// story has no translation, or one that doesn't line up.
-    var sentencePairs: [[(original: String, english: String)]] {
+    /// Pairs each paragraph's sentences, as `SentenceSplitter` splits them,
+    /// with `english`: per paragraph, one translation per sentence. Done once,
+    /// when the catalog loads, rather than each time the reader is drawn.
+    static func sentencePairs(paragraphs: [String], english: [[String]], language: Language) -> [[SentencePair]] {
         guard english.count == paragraphs.count else { return [] }
-        let pairs = zip(paragraphs, english).map { paragraph, translation in
+        var pairs: [[SentencePair]] = []
+        for (paragraph, translations) in zip(paragraphs, english) {
             let sentences = SentenceSplitter.split(paragraph, languageCode: language.rawValue)
-            return sentences.count == translation.count ? Array(zip(sentences, translation)).map { ($0, $1) } : nil
+            guard sentences.count == translations.count else { return [] }
+            pairs.append(zip(sentences, translations).map(SentencePair.init))
         }
-        return pairs.contains { $0 == nil } ? [] : pairs.compactMap { $0 }
+        return pairs
     }
 
     func gloss(for word: String) -> String? {
@@ -78,7 +87,9 @@ struct CatalogFile: Decodable {
     var resolved: [Story] {
         stories.enumerated().map { index, r in
             Story(id: r.id, language: language, level: level, number: index + 1, title: r.title, subtitle: r.subtitle,
-                  topic: r.topic, symbol: r.symbol, paragraphs: r.paragraphs, english: r.english ?? [], vocab: r.vocab)
+                  topic: r.topic, symbol: r.symbol, paragraphs: r.paragraphs,
+                  sentencePairs: Story.sentencePairs(paragraphs: r.paragraphs, english: r.english ?? [], language: language),
+                  vocab: r.vocab)
         }
     }
 }

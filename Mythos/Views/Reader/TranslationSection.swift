@@ -35,9 +35,8 @@ struct TranslationSection: View {
                         ForEach(Array(pairs.enumerated()), id: \.offset) { p, paragraph in
                             VStack(alignment: .leading, spacing: 14) {
                                 ForEach(Array(paragraph.enumerated()), id: \.offset) { s, pair in
-                                    SentencePair(original: pair.original, english: pair.english,
-                                                 isSpeaking: speaker.isSpeaking("\(story.id)#\(p).\(s)")) {
-                                        let id = "\(story.id)#\(p).\(s)"
+                                    let id = speechID(paragraph: p, sentence: s)
+                                    SentencePairRow(pair: pair, isSpeaking: speaker.isSpeaking(id)) {
                                         if speaker.isSpeaking(id) { speaker.stop() } else {
                                             speaker.speak(pair.original, language: story.language, rate: settings.speechRate, id: id)
                                         }
@@ -55,11 +54,15 @@ struct TranslationSection: View {
             .card()
         }
     }
+
+    /// Identifies one sentence to `Speaker`, apart from the whole story.
+    private func speechID(paragraph: Int, sentence: Int) -> String {
+        "\(story.id)#\(paragraph).\(sentence)"
+    }
 }
 
-private struct SentencePair: View {
-    let original: String
-    let english: String
+private struct SentencePairRow: View {
+    let pair: SentencePair
     let isSpeaking: Bool
     let onTap: () -> Void
 
@@ -72,10 +75,10 @@ private struct SentencePair: View {
                     .frame(width: 16)
                     .contentTransition(.symbolEffect(.replace))
                 VStack(alignment: .leading, spacing: 4) {
-                    Text(original)
+                    Text(pair.original)
                         .font(Theme.storyFont(size: 18))
                         .foregroundStyle(Theme.ink)
-                    Text(english)
+                    Text(pair.translation)
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
                 }
@@ -88,7 +91,7 @@ private struct SentencePair: View {
         }
         .buttonStyle(.plain)
         .accessibilityElement(children: .combine)
-        .accessibilityLabel("\(original). \(english)")
+        .accessibilityLabel("\(pair.original). \(pair.translation)")
         .accessibilityHint("Plays the sentence")
     }
 }
