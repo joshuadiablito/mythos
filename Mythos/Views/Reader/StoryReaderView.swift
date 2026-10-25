@@ -22,6 +22,8 @@ struct StoryReaderView: View {
     @State private var selected: WordTap?
     @State private var lookup: WordLookup?
     @State private var showTranslation = false
+    @State private var readFraction: Double = 0
+    @State private var showCompletion = false
 
     private var vocab: [String] { story.vocab.map(\.word) }
     private var isRead: Bool { progress.isRead(story) }
@@ -49,37 +51,46 @@ struct StoryReaderView: View {
 
     var body: some View {
         ScrollView {
-            VStack(alignment: .leading, spacing: 28) {
-                header
+            VStack(alignment: .leading, spacing: 0) {
+                CoverHeader(story: story)
 
-                VStack(alignment: .leading, spacing: fontSize * 0.9) {
-                    ForEach(Array(story.paragraphs.enumerated()), id: \.offset) { index, paragraph in
-                        TappableParagraph(text: paragraph, index: index, language: story.language, vocab: vocab,
-                                          selected: selected, spoken: spokenRange(inParagraph: index),
-                                          fontSize: fontSize) { tap in
-                            selected = tap
-                            lookup = WordLookup(word: tap.word, language: story.language,
-                                                gloss: story.gloss(for: tap.word), storyTitle: story.title)
+                VStack(alignment: .leading, spacing: 28) {
+                    VStack(alignment: .leading, spacing: fontSize * 0.9) {
+                        ForEach(Array(story.paragraphs.enumerated()), id: \.offset) { index, paragraph in
+                            TappableParagraph(text: paragraph, index: index, language: story.language, vocab: vocab,
+                                              selected: selected, spoken: spokenRange(inParagraph: index),
+                                              fontSize: fontSize) { tap in
+                                selected = tap
+                                lookup = WordLookup(word: tap.word, language: story.language,
+                                                    gloss: story.gloss(for: tap.word), storyTitle: story.title)
+                            }
                         }
                     }
+
+                    Label("Tap any word for its meaning and every form. Words with an orange underline are new in this story.",
+                          systemImage: "hand.tap")
+                        .font(.footnote)
+                        .foregroundStyle(.secondary)
+
+                    TranslationSection(story: story)
+
+                    VocabularySection(story: story) { item in
+                        lookup = WordLookup(word: item.word, language: story.language, gloss: item.gloss, storyTitle: story.title)
+                    }
+
+                    finishButton
                 }
-
-                Label("Tap any word for its meaning and forms. Words underlined in orange are this story's new words.",
-                      systemImage: "hand.tap")
-                    .font(.footnote)
-                    .foregroundStyle(.secondary)
-
-                TranslationSection(story: story)
-
-                VocabularySection(story: story) { item in
-                    lookup = WordLookup(word: item.word, language: story.language, gloss: item.gloss, storyTitle: story.title)
-                }
-
-                finishButton
+                .padding(.horizontal, 22)
+                .padding(.top, 28)
+                .padding(.bottom, 40)
             }
-            .padding(.horizontal, 22)
-            .padding(.top, 8)
-            .padding(.bottom, 40)
+        }
+        .ignoresSafeArea(edges: .top)
+        .onScrollGeometryChange(for: Double.self) { geometry in
+            let scrollable = geometry.contentSize.height - geometry.containerSize.height
+            return scrollable > 0 ? min(1, max(0, (geometry.contentOffset.y + geometry.contentInsets.top) / scrollable)) : 0
+        } action: { _, fraction in
+            readFraction = fraction
         }
         #if DEBUG
         // `-scrollAnchor 0.62` opens the reader scrolled down that far, for screenshots.
@@ -100,6 +111,8 @@ struct StoryReaderView: View {
         .onAppear {
             // `-autoplay YES` starts reading aloud; `-lookupWord mange` opens a lookup. For screenshots.
             if UserDefaults.standard.bool(forKey: "autoplay"), !isSpeaking { toggleListening() }
+            // `-showCompletion YES` opens the finished-story sheet.
+            if UserDefaults.standard.bool(forKey: "showCompletion") { showCompletion = true }
             if let word = UserDefaults.standard.string(forKey: "lookupWord"), lookup == nil {
                 lookup = WordLookup(word: word, language: story.language, gloss: story.gloss(for: word), storyTitle: story.title)
             }
@@ -107,45 +120,35 @@ struct StoryReaderView: View {
         #endif
     }
 
-    private var header: some View {
-        VStack(alignment: .leading, spacing: 10) {
-            HStack(spacing: 8) {
-                LanguageBadge(language: story.language, size: 28)
-                LevelPill(level: story.level)
-                Text("Story \(story.number)")
-                    .font(.caption.weight(.semibold))
-                    .foregroundStyle(.secondary)
-            }
-            Text(story.title)
-                .font(.system(size: 34, weight: .bold, design: .serif))
-                .foregroundStyle(Theme.ink)
-                .fixedSize(horizontal: false, vertical: true)
-            Text(story.subtitle)
-                .font(.title3)
-                .foregroundStyle(.secondary)
-            StoryMeta(story: story)
-                .padding(.top, 2)
-        }
-    }
-
     private var finishButton: some View {
         Button {
-            withAnimation(.snappy) { progress.toggleRead(story) }
+            if isRead {
+                withAnimation(.snappy) { progress.toggleRead(story) }
+            } else {
+                withAnimation(.snappy) { progress.toggleRead(story) }
+                showCompletion = true
+            }
         } label: {
-            Label(isRead ? "Finished" : "Mark as read", systemImage: isRead ? "checkmark.circle.fill" : "checkmark.circle")
+            Label(isRead ? "Finished · tap to mark unread" : "I've read it", systemImage: isRead ? "checkmark.seal.fill" : "checkmark.circle")
                 .font(.headline)
                 .frame(maxWidth: .infinity)
-                .padding(.vertical, 6)
+                .padding(.vertical, 8)
                 .contentTransition(.symbolEffect(.replace))
         }
         .buttonStyle(.glassProminent)
         .controlSize(.large)
-        .tint(isRead ? .green : Theme.accent)
+        .tint(isRead ? Color(hex: 0x2E9E4F) : Theme.accent)
         .sensoryFeedback(.success, trigger: isRead) { _, new in new }
+        .sheet(isPresented: $showCompletion) {
+            CompletionSheet(story: story)
+        }
     }
 
     @ToolbarContentBuilder
     private var toolbar: some ToolbarContent {
+        ToolbarItem(placement: .principal) {
+            ReadingProgress(fraction: readFraction)
+        }
         ToolbarItem(placement: .topBarTrailing) {
             Menu {
                 Picker("Text size", selection: $fontSize) {

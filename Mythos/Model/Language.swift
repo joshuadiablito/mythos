@@ -68,4 +68,24 @@ enum Language: String, CaseIterable, Codable, Identifiable, Hashable, Sendable {
         case .greek: "Γεια σου"
         }
     }
+
+    /// "Good morning", "Good afternoon" or "Good evening" in the language.
+    func greeting(at date: Date, calendar: Calendar = .current) -> String {
+        let hour = calendar.component(.hour, from: date)
+        let part = hour < 12 ? 0 : hour < 18 ? 1 : 2
+        let greetings: [String] = switch self {
+        case .french: ["Bonjour", "Bon après-midi", "Bonsoir"]
+        case .spanish: ["Buenos días", "Buenas tardes", "Buenas noches"]
+        case .german: ["Guten Morgen", "Guten Tag", "Guten Abend"]
+        case .italian: ["Buongiorno", "Buon pomeriggio", "Buonasera"]
+        case .portuguese: ["Bom dia", "Boa tarde", "Boa noite"]
+        case .greek: ["Καλημέρα", "Καλό απόγευμα", "Καλησπέρα"]
+        }
+        return greetings[part]
+    }
+
+    /// Today's date as the language writes it: "dimanche 25 octobre".
+    func longDate(_ date: Date) -> String {
+        date.formatted(.dateTime.weekday(.wide).day().month(.wide).locale(Locale(identifier: voiceCode)))
+    }
 }

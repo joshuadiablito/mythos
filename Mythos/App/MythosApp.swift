@@ -21,6 +21,13 @@ final class AppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCent
         #if DEBUG
         // `-openStory fr-a1-04` opens a story at launch, as a tapped notification would.
         if let id = UserDefaults.standard.string(forKey: "openStory") { Router.shared.pendingStoryID = id }
+        // `-tab library` (today, library, words, settings) opens on that tab.
+        switch UserDefaults.standard.string(forKey: "tab") {
+        case "library": Router.shared.selectedTab = .library
+        case "words": Router.shared.selectedTab = .words
+        case "settings": Router.shared.selectedTab = .settings
+        default: break
+        }
         #endif
         return true
     }

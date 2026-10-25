@@ -67,10 +67,26 @@ final class ProgressStore {
         return count
     }
 
+    /// The days of the week containing `date`, each with whether a story was finished on it.
+    func week(containing date: Date = .now) -> [(day: Date, read: Bool)] {
+        let readDays = Set(read.values.map { calendar.startOfDay(for: $0) })
+        guard let start = calendar.dateInterval(of: .weekOfYear, for: date)?.start else { return [] }
+        return (0..<7).compactMap { offset in
+            calendar.date(byAdding: .day, value: offset, to: start).map { ($0, readDays.contains(calendar.startOfDay(for: $0))) }
+        }
+    }
+
     // MARK: Words
 
     func isSaved(_ word: String, in language: Language) -> Bool {
         savedWords.contains { $0.language == language && $0.word.lowercased() == word.lowercased() }
+    }
+
+    /// Saves each of a story's glossary words that isn't saved already.
+    func saveAll(_ items: [VocabItem], in language: Language, storyTitle: String) {
+        for item in items.reversed() where !isSaved(item.word, in: language) {
+            savedWords.insert(SavedWord(word: item.word, language: language, meaning: item.gloss, savedOn: .now, storyTitle: storyTitle), at: 0)
+        }
     }
 
     func toggleSaved(_ word: String, in language: Language, meaning: String?, storyTitle: String?) {
