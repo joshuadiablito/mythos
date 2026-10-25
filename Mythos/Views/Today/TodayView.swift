@@ -310,7 +310,7 @@ private struct WeekStrip: View {
 
 // MARK: - Tomorrow
 
-/// Tomorrow's story, its cover blurred until it arrives.
+/// Tomorrow's story, its cover blurred and its title kept back until it arrives.
 private struct Tomorrow: View {
     let plan: DailyPlan
     @Environment(AppSettings.self) private var settings
@@ -321,7 +321,7 @@ private struct Tomorrow: View {
             HStack(spacing: 16) {
                 ZStack {
                     StoryCover(story: story, symbolScale: 0.9)
-                        .blur(radius: 6)
+                        .blur(radius: 10)
                     Image(systemName: "lock.fill")
                         .font(.title3)
                         .foregroundStyle(.white)
@@ -335,7 +335,8 @@ private struct Tomorrow: View {
                         .font(.caption2.weight(.bold))
                         .tracking(1.2)
                         .foregroundStyle(.secondary)
-                    Text(story.title)
+                    // Just the topic: the story itself is a surprise until it arrives.
+                    Text("A story about \(story.topic.lowercased())")
                         .font(.system(.title3, design: .serif, weight: .semibold))
                         .foregroundStyle(Theme.ink)
                     Text("\(story.language.endonym) · arrives at \(settings.deliveryTime.formatted(date: .omitted, time: .shortened))")

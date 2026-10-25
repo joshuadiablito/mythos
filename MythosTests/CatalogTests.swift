@@ -170,3 +170,31 @@ struct TranslationTests {
         #expect(SentenceSplitter.split("No le gusta el invierno; prefiere el verano.", languageCode: "es").count == 1)
     }
 }
+
+@Suite("Stories arrive one a day")
+struct ArrivalTests {
+    let catalog = Catalog(bundle: Bundle(for: AppDelegate.self))
+    let calendar = Calendar(identifier: .gregorian)
+
+    @Test func onlyStoriesThatHaveArrivedAreListedNewestFirst() {
+        let start = calendar.date(from: DateComponents(year: 2026, month: 10, day: 1, hour: 9))!
+        let course = Course(language: .german, level: .a2, startedOn: start)
+        let plan = DailyPlan(catalog: catalog, calendar: calendar)
+        #expect(plan.arrived(for: course, by: start).map(\.id) == ["de-a2-01"])
+        let fourthDay = calendar.date(byAdding: .day, value: 3, to: start)!
+        #expect(plan.arrived(for: course, by: fourthDay).map(\.id) == ["de-a2-04", "de-a2-03", "de-a2-02", "de-a2-01"])
+        #expect(plan.remaining(for: course, by: fourthDay) == 11)
+        // Today's story is always the newest one to have arrived.
+        #expect(plan.arrived(for: course, by: fourthDay).first == plan.story(for: course, on: fourthDay))
+    }
+
+    @Test func afterTheLastStoryEverythingHasArrived() {
+        let start = calendar.date(from: DateComponents(year: 2026, month: 1, day: 1))!
+        let course = Course(language: .greek, level: .a1, startedOn: start)
+        let plan = DailyPlan(catalog: catalog, calendar: calendar)
+        let later = calendar.date(byAdding: .day, value: 40, to: start)!
+        #expect(plan.arrived(for: course, by: later).count == 15)
+        #expect(plan.remaining(for: course, by: later) == 0)
+        #expect(plan.arrived(for: course, by: calendar.date(byAdding: .day, value: -1, to: start)!).isEmpty)
+    }
+}

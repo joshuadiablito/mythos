@@ -10,7 +10,7 @@ struct RootView: View {
             Tab("Today", systemImage: "sun.horizon.fill", value: AppTab.today) {
                 TodayView()
             }
-            Tab("Library", systemImage: "books.vertical.fill", value: AppTab.library) {
+            Tab("Stories", systemImage: "books.vertical.fill", value: AppTab.library) {
                 LibraryView()
             }
             Tab("Words", systemImage: "bookmark.fill", value: AppTab.words) {

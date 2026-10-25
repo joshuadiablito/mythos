@@ -20,6 +20,21 @@ struct DailyPlan {
         return stories[((days(from: course.startedOn, to: date) % n) + n) % n]
     }
 
+    /// The stories a course has brought by `date`, newest first: one a day from
+    /// the day it started. Stories still to come are never listed, so each
+    /// one arrives as a surprise. After the last, every story has arrived.
+    func arrived(for course: Course, by date: Date) -> [Story] {
+        let stories = catalog.stories(course.language, course.level)
+        let elapsed = days(from: course.startedOn, to: date)
+        guard elapsed >= 0 else { return [] }
+        return Array(stories.prefix(min(stories.count, elapsed + 1)).reversed())
+    }
+
+    /// How many of a course's stories are still to come.
+    func remaining(for course: Course, by date: Date) -> Int {
+        catalog.stories(course.language, course.level).count - arrived(for: course, by: date).count
+    }
+
     /// The story a day's notification features. With several languages, they take turns.
     func featured(in courses: [Course], on date: Date) -> Story? {
         let playable = courses.filter { catalog.hasStories($0.language, $0.level) }
