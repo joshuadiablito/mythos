@@ -23,7 +23,12 @@ dictionary data and inflection tables.
   story on your own first.
 - **Translate**: Apple's on-device Translation, for a word the dictionary
   doesn't have.
-- **Library** of every story, a **Words** list of saved words, and a reading streak.
+- **One story a day.** Stories aren't browsable in advance: **Stories** shows
+  only the ones that have arrived, each with its own generated cover, and
+  what's still to come stays locked.
+- **Words** you save, reviewed as flipping **flashcards**, a reading streak
+  with the week at a glance, and a "story complete" moment that offers to save
+  the story's new words.
 
 ## Running it
 
