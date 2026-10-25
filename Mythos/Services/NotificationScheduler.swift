@@ -82,14 +82,21 @@ enum NotificationScheduler {
         return hooks[(story.number - 1) % hooks.count]
     }
 
+    enum PreviewResult {
+        case sent
+        /// Notifications are turned off for Mythos.
+        case blocked
+        /// No course has a story to feature.
+        case nothingToSend
+    }
+
     /// Sends today's featured story in a few seconds, to see what it looks like.
-    /// False if notifications are turned off for Mythos.
-    static func sendPreview(settings: AppSettings) async -> Bool {
-        guard await ensureAuthorized() else { return false }
-        guard let story = DailyPlan(catalog: .shared).featured(in: settings.courses, on: .now) else { return true }
+    static func sendPreview(settings: AppSettings) async -> PreviewResult {
+        guard await ensureAuthorized() else { return .blocked }
+        guard let story = DailyPlan(catalog: .shared).featured(in: settings.courses, on: .now) else { return .nothingToSend }
         let request = UNNotificationRequest(identifier: "preview", content: content(for: story),
                                             trigger: UNTimeIntervalNotificationTrigger(timeInterval: 5, repeats: false))
         try? await UNUserNotificationCenter.current().add(request)
-        return true
+        return .sent
     }
 }
