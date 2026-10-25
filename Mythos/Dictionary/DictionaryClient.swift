@@ -10,27 +10,31 @@ enum DictionaryError: LocalizedError {
     }
 }
 
-/// Looks words up on kaikki.org: free, keyless, and cached on disk, so a word
-/// looked up once is there offline, and the same word costs no second request.
+/// Looks words up on kaikki.org: free and keyless. Every response, including
+/// "no such word", is kept in a `DictionaryCache` that is checked first, so a
+/// word looked up once is there offline and never costs a second request.
 final class DictionaryClient {
     static let shared = DictionaryClient()
 
     private static let maxLemmas = 3
 
     private let session: URLSession
+    let cache: DictionaryCache
     private var memory: [String: LookupResult] = [:]
 
-    init(session: URLSession? = nil) {
+    init(session: URLSession? = nil, cache: DictionaryCache = DictionaryCache()) {
+        self.cache = cache
         if let session {
             self.session = session
         } else {
             let config = URLSessionConfiguration.default
-            config.urlCache = URLCache(memoryCapacity: 8 << 20, diskCapacity: 100 << 20, directory: nil)
-            // Dictionary entries rarely change; prefer the cache over the network.
-            config.requestCachePolicy = .returnCacheDataElseLoad
+            // Our own cache keeps responses; URLCache would only duplicate them.
+            config.urlCache = nil
+            config.requestCachePolicy = .reloadIgnoringLocalCacheData
             config.timeoutIntervalForRequest = 15
             self.session = URLSession(configuration: config)
         }
+        Task.detached(priority: .background) { [cache] in cache.trim() }
     }
 
     /// Looks a word up under each plausible spelling until one is found, then
@@ -64,12 +68,23 @@ final class DictionaryClient {
         return result
     }
 
-    /// One spelling. A 404 means "no such word", not an error.
+    /// One spelling: from the cache if it's there, otherwise from kaikki.org,
+    /// then cached. A 404 means "no such word", not an error, and is cached too.
     private func fetch(_ word: String, language: String) async throws -> [Entry] {
-        let (data, response) = try await session.data(from: KaikkiParser.url(language: language, word: word))
+        let url = KaikkiParser.url(language: language, word: word)
+        switch cache.read(url) {
+        case .found(let data): return await Self.parse(data)
+        case .notFound: return []
+        case nil: break
+        }
+        let (data, response) = try await session.data(from: url)
         let status = (response as? HTTPURLResponse)?.statusCode ?? 0
-        if status == 404 { return [] }
+        if status == 404 {
+            cache.store(.notFound, for: url)
+            return []
+        }
         guard (200..<300).contains(status) else { throw DictionaryError.unavailable(status: status) }
+        cache.store(.found(data), for: url)
         return await Self.parse(data)
     }
 

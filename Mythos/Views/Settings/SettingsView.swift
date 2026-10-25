@@ -5,6 +5,7 @@ struct SettingsView: View {
     @State private var editing: Language?
     @State private var previewSent = false
     @State private var notificationsBlocked = false
+    @State private var cacheBytes = DictionaryClient.shared.cache.sizeInBytes
     @Environment(\.openURL) private var openURL
 
     var body: some View {
@@ -92,12 +93,22 @@ struct SettingsView: View {
                         LabeledContent("Dictionary", value: "Wiktionary via kaikki.org")
                     }
                     LabeledContent("Translation", value: "On device, by iOS")
+                    HStack {
+                        LabeledContent("Saved lookups", value: cacheBytes.formatted(.byteCount(style: .file)))
+                        Button("Clear") {
+                            DictionaryClient.shared.cache.removeAll()
+                            cacheBytes = DictionaryClient.shared.cache.sizeInBytes
+                        }
+                        .buttonStyle(.borderless)
+                        .disabled(cacheBytes == 0)
+                    }
                     LabeledContent("Version", value: Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "1.0")
                 }
                 .listRowBackground(Theme.card)
             }
             .appBackground()
             .navigationTitle("Settings")
+            .onAppear { cacheBytes = DictionaryClient.shared.cache.sizeInBytes }
             .alert("Notifications are off for Mythos", isPresented: $notificationsBlocked) {
                 Button("Open Settings") {
                     if let url = URL(string: UIApplication.openNotificationSettingsURLString) { openURL(url) }
