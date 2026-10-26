@@ -1,0 +1,916 @@
+{
+  "language": "it",
+  "level": "C2",
+  "stories": [
+    {
+      "id": "it-c2-01",
+      "title": "Certificato di esistenza in vita",
+      "subtitle": "Certificate of being alive",
+      "topic": "Society",
+      "symbol": "doc.text.fill",
+      "paragraphs": [
+        "Lo confesso: fino a martedì scorso davo per scontato di essere vivo. Lo davo per scontato con quella leggerezza un po' colpevole con cui si dà per scontato che domani sorga il sole o che il tram arrivi in ritardo. Poi è arrivata una lettera dell'ente previdenziale, su carta intestata e con un tono di garbata diffidenza, che mi invitava a produrre, entro trenta giorni, un certificato di esistenza in vita. In mancanza del quale, precisava, la mia pensione sarebbe stata sospesa, come si fa con i morti distratti che dimenticano di comunicare il proprio decesso.",
+        "Mi sono presentato dunque allo sportello del Comune di Lugano, dove vivo da dieci anni e dove un funzionario cortese, dopo avermi osservato con attenzione per qualche secondo, ha ammesso che in effetti sembravo vivo, ma che lui non era autorizzato a certificarlo. Serviva un modulo italiano, scaricabile da un sito che, a sua volta, richiedeva un'identità digitale, la quale, per essere attivata, presupponeva un documento che attestasse… la mia residenza tra i vivi. Ho riconosciuto la struttura: è quella del serpente che si morde la coda, solo che in questo caso il serpente ha anche un numero di protocollo.",
+        "Ho passato le settimane successive in un limbo amministrativo che Dante, se avesse avuto un'utenza telefonica, avrebbe certamente collocato tra il secondo e il terzo girone. Ho parlato con un call center che mi metteva in attesa sulle note delle Quattro stagioni, sempre l'Inverno, come un presagio. Ho inviato fotografie di me stesso con il giornale del giorno in mano, come gli ostaggi nei film. Una gentile impiegata di Roma mi ha infine suggerito di farmi certificare da un medico, il quale però, per visitarmi, voleva la tessera sanitaria, che risultava scaduta, essendo intestata, a quanto pare, a una persona di cui non si avevano più notizie.",
+        "Alla fine, com'è nell'ordine delle cose, ce l'ho fatta. Il certificato è arrivato il ventinovesimo giorno, timbrato, firmato e controfirmato, e ora giace incorniciato sopra la mia scrivania, accanto alla laurea. Ogni tanto lo guardo per rassicurarmi. Mi ha insegnato una cosa che i filosofi inseguono da secoli senza mai afferrarla del tutto: che l'esistenza non è un dato, ma una pratica, nel senso burocratico del termine. E che, come tutte le pratiche, va rinnovata ogni anno, entro i termini, pena la decadenza. Il prossimo modulo, mi dicono, arriverà a marzo. Sto già facendo esercizi di respirazione, per farmi trovare in forma."
+      ],
+      "english": [
+        [
+          "I confess: until last Tuesday I took it for granted that I was alive.",
+          "I took it for granted with that slightly guilty lightness with which we take for granted that the sun will rise tomorrow or that the tram will be late.",
+          "Then a letter arrived from the pensions agency, on headed paper and in a tone of polite suspicion, inviting me to produce, within thirty days, a certificate of being alive.",
+          "Failing which, it specified, my pension would be suspended, as is done with absent-minded dead people who forget to report their own death."
+        ],
+        [
+          "So I presented myself at the counter of the Lugano town hall, where I have lived for ten years and where a courteous official, after studying me carefully for a few seconds, admitted that I did indeed seem to be alive, but that he was not authorised to certify it.",
+          "What was needed was an Italian form, downloadable from a website which in turn required a digital identity, which, in order to be activated, presupposed a document certifying… my residence among the living.",
+          "I recognised the structure: it's the snake biting its own tail, except that in this case the snake also has a reference number."
+        ],
+        [
+          "I spent the following weeks in an administrative limbo that Dante, had he had a phone line, would certainly have placed between the second and third circles.",
+          "I spoke to a call centre that put me on hold to the strains of The Four Seasons, always Winter, like an omen.",
+          "I sent photographs of myself holding that day's newspaper, like hostages in films.",
+          "A kind clerk in Rome finally suggested I get a doctor to certify me, but the doctor, in order to examine me, wanted my health card, which turned out to have expired, being registered, it seems, to a person of whom nothing more had been heard."
+        ],
+        [
+          "In the end, as is the natural order of things, I managed it.",
+          "The certificate arrived on the twenty-ninth day, stamped, signed and countersigned, and now it lies framed above my desk, next to my degree.",
+          "Every so often I look at it for reassurance.",
+          "It taught me something philosophers have been chasing for centuries without ever quite grasping it: that existence is not a given, but a file, in the bureaucratic sense of the word.",
+          "And that, like all files, it must be renewed every year, within the deadline, on pain of lapsing.",
+          "The next form, I'm told, will arrive in March.",
+          "I'm already doing breathing exercises, so as to be found in good shape."
+        ]
+      ],
+      "vocab": [
+        { "word": "davo per scontato", "gloss": "I took for granted" },
+        { "word": "ente previdenziale", "gloss": "pensions agency" },
+        { "word": "carta intestata", "gloss": "headed paper" },
+        { "word": "garbata diffidenza", "gloss": "polite suspicion" },
+        { "word": "In mancanza del quale", "gloss": "failing which" },
+        { "word": "decesso", "gloss": "death (formal)" },
+        { "word": "presupponeva", "gloss": "presupposed" },
+        { "word": "serpente che si morde la coda", "gloss": "the snake biting its own tail, a vicious circle" },
+        { "word": "numero di protocollo", "gloss": "official reference number" },
+        { "word": "girone", "gloss": "circle (of Dante's Hell)" },
+        { "word": "presagio", "gloss": "omen" },
+        { "word": "ostaggi", "gloss": "hostages" },
+        { "word": "giace", "gloss": "lies" },
+        { "word": "pena la decadenza", "gloss": "on pain of lapsing (legal formula)" }
+      ]
+    },
+    {
+      "id": "it-c2-02",
+      "title": "Inventario di Venezia a gennaio",
+      "subtitle": "An inventory of Venice in January",
+      "topic": "City",
+      "symbol": "building.2.fill",
+      "paragraphs": [
+        "Gennaio, a Venezia, è il mese in cui la città si ricorda di essere un luogo e non un'immagine. I turisti si diradano come una nebbia che si alza, e restano le cose: un gatto che dorme sul cofano tiepido di un motoscafo, una vecchia che trascina il carrello della spesa su per un ponte con la determinazione di Sisifo, le saracinesche abbassate dei negozi di maschere, che d'inverno sembrano palpebre chiuse. Si sente di nuovo il rumore dei propri passi, e ci si stupisce di averne.",
+        "Inventario, dunque. Una calle così stretta che ci si passa solo di profilo, come si entra in una confidenza. Un campanile che pende quel tanto che basta per sembrare pensieroso. Una finestra con un geranio morto da anni, che nessuno ha il coraggio di buttare perché ormai fa parte della facciata. L'odore della bassa marea, che i veneziani non nominano e i forestieri scambiano per decadenza, mentre è soltanto respiro. Il rintocco di mezzogiorno che arriva da tre chiese diverse, mai insieme, come tre zie che litigano sull'ora esatta.",
+        "E poi l'acqua, che qui non è paesaggio ma grammatica. Regola i verbi della giornata: si aspetta, si rimanda, si gira intorno. Nessuno a Venezia va dritto da nessuna parte; anche la linea più breve tra due punti, qui, passa per un ponte, un sottoportego, un campiello dove un bambino tira un pallone contro il muro di una chiesa del Quattrocento, e il muro, paziente, glielo restituisce. È una città che insegna la deviazione come forma di cortesia.",
+        "Verso sera, sulle Fondamente Nove, la laguna diventa di un grigio così tenero che sembra lana. Si vede San Michele, l'isola dei morti, con i suoi cipressi allineati come punti esclamativi trattenuti. Un vaporetto quasi vuoto scivola verso Murano, e il marinaio che lancia la cima al pontile lo fa con un gesto ripetuto migliaia di volte, perfetto e distratto, come una firma. Le luci si accendono una per una lungo le rive, senza fretta, come se qualcuno le contasse.",
+        "Ecco: questo è l'inventario. Manca, lo so, la Venezia delle cartoline, quella che si consuma in tre ore e si posta in tre secondi. Ma quella torna a febbraio, con il Carnevale, e non ha bisogno di nessuno che la descriva. Questa, invece, dura poco, e chiede soltanto di essere guardata da qualcuno che non abbia fretta."
+      ],
+      "english": [
+        [
+          "January, in Venice, is the month when the city remembers that it is a place and not an image.",
+          "The tourists thin out like a lifting fog, and the things remain: a cat asleep on the warm bonnet of a motorboat, an old woman dragging her shopping trolley up a bridge with the determination of Sisyphus, the lowered shutters of the mask shops, which in winter look like closed eyelids.",
+          "You hear the sound of your own footsteps again, and are surprised to have any."
+        ],
+        [
+          "An inventory, then.",
+          "An alley so narrow you can only pass through it sideways, the way you enter into a confidence.",
+          "A bell tower that leans just enough to look pensive.",
+          "A window with a geranium that has been dead for years, which nobody has the heart to throw away because it is now part of the façade.",
+          "The smell of low tide, which Venetians never mention and outsiders mistake for decay, when it is only breath.",
+          "The midday chime arriving from three different churches, never together, like three aunts arguing over the exact time."
+        ],
+        [
+          "And then the water, which here is not landscape but grammar.",
+          "It governs the verbs of the day: you wait, you postpone, you go round.",
+          "Nobody in Venice goes straight anywhere; even the shortest line between two points, here, passes over a bridge, through an arched passageway, across a little square where a child kicks a ball against the wall of a fifteenth-century church, and the wall, patiently, kicks it back.",
+          "It is a city that teaches the detour as a form of courtesy."
+        ],
+        [
+          "Towards evening, on the Fondamente Nove, the lagoon turns a grey so soft it looks like wool.",
+          "You can see San Michele, the island of the dead, with its cypresses lined up like held-back exclamation marks.",
+          "An almost empty water bus glides towards Murano, and the sailor who throws the rope to the landing stage does it with a gesture repeated thousands of times, perfect and absent-minded, like a signature.",
+          "The lights come on one by one along the waterfronts, unhurriedly, as if someone were counting them."
+        ],
+        [
+          "There: that's the inventory.",
+          "Missing, I know, is the postcard Venice, the one consumed in three hours and posted in three seconds.",
+          "But that one comes back in February, with Carnival, and needs nobody to describe it.",
+          "This one, on the other hand, doesn't last long, and asks only to be looked at by someone in no hurry."
+        ]
+      ],
+      "vocab": [
+        { "word": "si diradano", "gloss": "thin out" },
+        { "word": "cofano", "gloss": "bonnet (of a vehicle)" },
+        { "word": "saracinesche", "gloss": "roller shutters" },
+        { "word": "palpebre", "gloss": "eyelids" },
+        { "word": "calle", "gloss": "narrow street (Venetian)" },
+        { "word": "di profilo", "gloss": "sideways, in profile" },
+        { "word": "pende", "gloss": "leans" },
+        { "word": "forestieri", "gloss": "outsiders, strangers" },
+        { "word": "rintocco", "gloss": "chime, toll (of a bell)" },
+        { "word": "sottoportego", "gloss": "covered passageway (Venetian)" },
+        { "word": "campiello", "gloss": "small square (Venetian)" },
+        { "word": "cipressi", "gloss": "cypresses" },
+        { "word": "cima", "gloss": "mooring rope" },
+        { "word": "pontile", "gloss": "landing stage, jetty" }
+      ]
+    },
+    {
+      "id": "it-c2-03",
+      "title": "Il giudice e lo scirocco",
+      "subtitle": "The judge and the sirocco",
+      "topic": "Weather",
+      "symbol": "wind",
+      "paragraphs": [
+        "Il giudice Cusumano, presidente della seconda sezione penale del tribunale di Palermo, aveva una sola superstizione, ma la coltivava con lo scrupolo che altri riservano al codice di procedura. Nei giorni di scirocco non emetteva sentenze. Rinviava, aggiornava, concedeva termini, ascoltava i testimoni con la pazienza di un confessore; ma quando il vento africano cominciava a soffiare sulla città, carico di sabbia e di cattivi pensieri, si rifiutava di condannare o di assolvere chicchessia.",
+        "«Con questo vento,» spiegava ai cancellieri, asciugandosi la fronte con un fazzoletto ricamato, «l'uomo non è padrone di sé. Il giudice nemmeno.» A chi gli faceva notare che il codice non prevedeva eccezioni meteorologiche, rispondeva che il codice era stato scritto a Roma, dove lo scirocco arriva stanco e già educato. A Palermo, invece, arriva intero, e scompagina le idee come scompagina le carte sulle scrivanie. Nel corso degli anni la cosa era diventata talmente nota che in città si diceva «aspettare lo scirocco» per indicare chi temporeggia per calcolo.",
+        "Fu l'avvocato Lo Bue, penalista di lungo corso e di scarsa reputazione, il primo a trasformare la superstizione in strategia. Imparò a leggere i bollettini meteorologici come altri leggono la giurisprudenza, e cominciò a chiedere che le udienze dei suoi clienti più compromessi venissero fissate nelle settimane in cui, secondo le previsioni, lo scirocco avrebbe imperversato. I processi si allungavano, i termini scadevano, la prescrizione arrivava puntuale come una zia a Natale. Per tre anni nessuno dei suoi assistiti fu condannato.",
+        "Poi, una mattina di luglio, mentre il vento faceva sbattere le persiane dell'aula e Lo Bue si preparava a chiedere l'ennesimo rinvio, il giudice alzò la mano. «Avvocato,» disse con una calma che nessuno gli aveva mai sentito, «ho riflettuto. Se lo scirocco toglie all'uomo il dominio di sé, allora anche il suo cliente, che ha agito in un giorno di scirocco, merita la stessa indulgenza che chiedo per me.» Lo Bue sorrise, pregustando l'assoluzione.",
+        "«Ma, per la stessa ragione,» proseguì il giudice, «anch'io, oggi, non sono padrone di me. E poiché non sono padrone di me, non rispondo di quello che faccio.» E condannò l'imputato al massimo della pena, con una sentenza lunga e lucidissima che la Corte d'appello, in un giorno di tramontana, confermò in ogni sua parte."
+      ],
+      "english": [
+        [
+          "Judge Cusumano, presiding over the second criminal division of the Palermo court, had only one superstition, but he cultivated it with the scrupulousness others reserve for the code of procedure.",
+          "On days of sirocco he did not hand down verdicts.",
+          "He postponed, adjourned, granted extensions, heard witnesses with the patience of a confessor; but when the African wind began to blow over the city, laden with sand and dark thoughts, he refused to convict or acquit anyone whatsoever."
+        ],
+        [
+          "“With this wind,” he would explain to the clerks of the court, mopping his brow with an embroidered handkerchief, “a man is not master of himself. Nor is a judge.”",
+          "To those who pointed out that the code made no provision for meteorological exceptions, he replied that the code had been written in Rome, where the sirocco arrives tired and already well mannered.",
+          "In Palermo, on the other hand, it arrives whole, and scatters ideas the way it scatters papers on desks.",
+          "Over the years this had become so well known that in the city people said “waiting for the sirocco” of anyone who stalled by design."
+        ],
+        [
+          "It was the lawyer Lo Bue, a criminal barrister of long experience and poor reputation, who first turned the superstition into a strategy.",
+          "He learned to read the weather reports the way others read case law, and began asking for his most compromised clients' hearings to be scheduled in the weeks when, according to the forecasts, the sirocco would be raging.",
+          "Trials dragged on, deadlines expired, the statute of limitations arrived as punctually as an aunt at Christmas.",
+          "For three years not one of his clients was convicted."
+        ],
+        [
+          "Then, one morning in July, while the wind was banging the shutters of the courtroom and Lo Bue was preparing to request yet another adjournment, the judge raised his hand.",
+          "“Counsel,” he said with a calm nobody had ever heard from him, “I have reflected. If the sirocco deprives a man of his self-control, then your client too, who acted on a day of sirocco, deserves the same indulgence I ask for myself.”",
+          "Lo Bue smiled, already savouring the acquittal."
+        ],
+        [
+          "“But, by the same reasoning,” the judge went on, “I too, today, am not master of myself. And since I am not master of myself, I am not answerable for what I do.”",
+          "And he sentenced the defendant to the maximum penalty, in a long and brilliantly lucid judgment which the Court of Appeal, on a day of north wind, upheld in every particular."
+        ]
+      ],
+      "vocab": [
+        { "word": "scrupolo", "gloss": "scrupulousness, care" },
+        { "word": "emetteva sentenze", "gloss": "handed down verdicts" },
+        { "word": "Rinviava", "gloss": "postponed" },
+        { "word": "chicchessia", "gloss": "anyone whatsoever" },
+        { "word": "cancellieri", "gloss": "clerks of the court" },
+        { "word": "scompagina", "gloss": "scatters, throws into disorder" },
+        { "word": "temporeggia", "gloss": "stalls, plays for time" },
+        { "word": "penalista di lungo corso", "gloss": "veteran criminal lawyer" },
+        { "word": "imperversato", "gloss": "raged" },
+        { "word": "prescrizione", "gloss": "statute of limitations" },
+        { "word": "assistiti", "gloss": "clients (of a lawyer)" },
+        { "word": "persiane", "gloss": "shutters" },
+        { "word": "pregustando", "gloss": "savouring in advance" },
+        { "word": "tramontana", "gloss": "north wind" }
+      ]
+    },
+    {
+      "id": "it-c2-04",
+      "title": "Il cimitero degli intraducibili",
+      "subtitle": "The graveyard of the untranslatable",
+      "topic": "Language",
+      "symbol": "text.quote",
+      "paragraphs": [
+        "Ogni traduttore custodisce, in un cassetto della mente, un piccolo cimitero di parole che non è riuscito a seppellire nella lingua d'arrivo. Il mio, che traduco dall'italiano all'inglese da vent'anni, è affollato di lapidi minuscole e ostinate. «Abbiocco», per esempio: quel torpore che ti prende dopo il pranzo della domenica, quando il corpo, ingozzato di lasagne, dichiara unilateralmente lo sciopero. L'inglese ha food coma, che però suona come una diagnosi, mentre l'abbiocco è quasi una benedizione. Ogni volta che lo incontro in un romanzo, mi arrendo e vado a farmi un caffè.",
+        "Poi c'è «magari», che da solo potrebbe giustificare una tesi di dottorato. Significa «forse», ma anche «volesse il cielo», e talvolta «nemmeno per sogno», a seconda dell'intonazione, del sopracciglio e del grado di parentela con chi te lo chiede. Se un amico ti propone di andare in montagna e rispondi «magari!», stai esultando; se tua suocera ti chiede se ti fermi a cena e rispondi «magari…», stai negoziando la tua fuga. Nessun dizionario bilingue è attrezzato per una simile ambiguità, che non è un difetto della lingua, ma la sua più fine forma di diplomazia.",
+        "Si potrebbe concludere, con un certo compiacimento nazionale, che l'italiano sia una lingua più ricca delle altre. Sarebbe una sciocchezza. Ogni lingua ha i suoi intraducibili, e l'inglese, per restituire il favore, mi ha inflitto parole come cosy o awkward, per le quali l'italiano offre soltanto approssimazioni goffe. Il tedesco ne ha di celebri, il giapponese di vertiginosi, il napoletano di intere categorie che sfuggono perfino all'italiano. Gli intraducibili non misurano la ricchezza di una lingua, ma le abitudini di chi la parla: ci dicono che cosa una comunità ha avuto bisogno di nominare spesso, con precisione e con un pizzico d'affetto.",
+        "Il traduttore, davanti a queste parole, ha due strade. Può addomesticarle, cercando un equivalente approssimativo che non disturbi il lettore, oppure può lasciarle in corsivo, come ospiti stranieri a una festa, e affidarsi alla curiosità altrui. Io, col tempo, ho imparato a preferire la seconda. Una parola intraducibile lasciata intatta è una piccola finestra aperta su un'altra casa: non ci fa entrare, ma ci lascia sentire l'odore della cucina. E, magari, ci viene voglia di bussare."
+      ],
+      "english": [
+        [
+          "Every translator keeps, in a drawer of the mind, a little graveyard of words they never managed to bury in the target language.",
+          "Mine, after twenty years of translating from Italian into English, is crowded with tiny, stubborn headstones.",
+          "“Abbiocco”, for instance: that torpor that comes over you after Sunday lunch, when your body, stuffed with lasagne, unilaterally declares a strike.",
+          "English has “food coma”, but that sounds like a diagnosis, whereas abbiocco is almost a blessing.",
+          "Every time I come across it in a novel, I give up and go and make myself a coffee."
+        ],
+        [
+          "Then there's “magari”, which on its own could justify a doctoral thesis.",
+          "It means “perhaps”, but also “if only”, and sometimes “not on your life”, depending on the intonation, the eyebrow and how closely related you are to the person asking.",
+          "If a friend suggests going to the mountains and you answer “magari!”, you're rejoicing; if your mother-in-law asks whether you're staying for dinner and you answer “magari…”, you're negotiating your escape.",
+          "No bilingual dictionary is equipped for such ambiguity, which is not a flaw in the language but its finest form of diplomacy."
+        ],
+        [
+          "One might conclude, with a certain national smugness, that Italian is a richer language than others.",
+          "That would be nonsense.",
+          "Every language has its untranslatables, and English, to return the favour, has inflicted on me words like “cosy” or “awkward”, for which Italian offers only clumsy approximations.",
+          "German has famous ones, Japanese dizzying ones, Neapolitan whole categories that escape even Italian.",
+          "Untranslatable words don't measure the richness of a language, but the habits of those who speak it: they tell us what a community has needed to name often, precisely and with a pinch of affection."
+        ],
+        [
+          "Faced with these words, the translator has two paths.",
+          "They can tame them, looking for a rough equivalent that won't disturb the reader, or they can leave them in italics, like foreign guests at a party, and rely on other people's curiosity.",
+          "Over time, I have learned to prefer the second.",
+          "An untranslatable word left intact is a small window open onto another house: it doesn't let us in, but it lets us smell the cooking.",
+          "And, magari, it makes us want to knock."
+        ]
+      ],
+      "vocab": [
+        { "word": "lingua d'arrivo", "gloss": "target language" },
+        { "word": "lapidi", "gloss": "headstones" },
+        { "word": "ostinate", "gloss": "stubborn" },
+        { "word": "torpore", "gloss": "torpor, drowsiness" },
+        { "word": "ingozzato", "gloss": "stuffed, gorged" },
+        { "word": "volesse il cielo", "gloss": "if only, heaven grant" },
+        { "word": "nemmeno per sogno", "gloss": "not on your life" },
+        { "word": "suocera", "gloss": "mother-in-law" },
+        { "word": "attrezzato", "gloss": "equipped" },
+        { "word": "compiacimento", "gloss": "smugness, self-satisfaction" },
+        { "word": "inflitto", "gloss": "inflicted" },
+        { "word": "goffe", "gloss": "clumsy" },
+        { "word": "addomesticarle", "gloss": "to tame them" },
+        { "word": "in corsivo", "gloss": "in italics" }
+      ]
+    },
+    {
+      "id": "it-c2-05",
+      "title": "Manuale del viaggiatore consapevole",
+      "subtitle": "The mindful traveller's handbook",
+      "topic": "Travel",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "Caro viaggiatore, se stai leggendo queste righe è perché hai deciso di visitare Firenze in modo consapevole, sostenibile, autentico e, possibilmente, senza mescolarti ai turisti, categoria alla quale, come è noto, non appartieni. Questo breve manuale ti aiuterà a raggiungere il tuo obiettivo, che è poi quello di tutti: vedere la città come la vedono i fiorentini, i quali, per inciso, si sono trasferiti quasi tutti in periferia proprio per non vederla più.",
+        "Regola numero uno: evita i luoghi turistici. Il Duomo, gli Uffizi, Ponte Vecchio sono trappole per gente ingenua. Cerca piuttosto la trattoria nascosta, quella che nessuno conosce, segnalata soltanto da quattordici blog, nove guide internazionali e un documentario in streaming. Quando la trovi, mettiti in fila con gli altri duecento viaggiatori consapevoli che l'hanno scoperta come te, e consolati: siete tutti lì per caso. Se il cameriere ti parla in inglese, rispondigli in un italiano incerto: è il tuo modo di rispettare la cultura locale, e lui lo apprezzerà moltissimo, almeno quanto apprezza le recensioni a cinque stelle.",
+        "Regola numero due: mangia come un locale. Ordina la bistecca alla fiorentina, ma non chiederla ben cotta, a meno che tu non voglia assistere a una scena di dolore autentico, di quelle che il Rinascimento ha immortalato nelle deposizioni. Non chiedere il cappuccino dopo pranzo, non chiedere il parmigiano sulle vongole, non chiedere, in generale. Il fiorentino apprezza il silenzio dell'ospite, purché accompagnato da una mancia generosa.",
+        "Regola numero tre: documenta tutto, ma con discrezione. Il David va fotografato da almeno sei angolazioni, preferibilmente bloccando l'accesso alle comitive, che sono composte, come sai, da turisti. Al tramonto, sali a piazzale Michelangelo e scatta la foto che nessuno ha mai scattato, insieme alle altre tremila persone che la stanno scattando in quel preciso istante. Il panorama non cambierà, ma tu sì: sarai finalmente diventato parte del paesaggio.",
+        "Regola numero quattro, l'ultima e la più difficile: torna a casa e racconta che Firenze, ormai, è invasa dai turisti. Lo dicono tutti, ed è l'unica frase che accomuni davvero chi la visita e chi ci abita. Fai attenzione, però, a non esagerare: il fiorentino si lamenta con stile, il turista si lamenta e basta. Solo così potrai dire di averla vissuta in modo autentico: lamentandotene, come un vero fiorentino."
+      ],
+      "english": [
+        [
+          "Dear traveller, if you are reading these lines it's because you have decided to visit Florence in a mindful, sustainable, authentic way and, if possible, without mingling with the tourists, a category to which, as everyone knows, you do not belong.",
+          "This short handbook will help you achieve your goal, which is in fact everyone's: to see the city as Florentines see it, who, incidentally, have nearly all moved out to the suburbs precisely so as not to see it any more."
+        ],
+        [
+          "Rule number one: avoid tourist spots.",
+          "The Duomo, the Uffizi, the Ponte Vecchio are traps for naive people.",
+          "Look instead for the hidden trattoria, the one nobody knows about, recommended only by fourteen blogs, nine international guidebooks and a streaming documentary.",
+          "When you find it, join the queue with the other two hundred mindful travellers who discovered it just like you, and take comfort: you're all there by chance.",
+          "If the waiter speaks to you in English, answer in hesitant Italian: it's your way of respecting the local culture, and he will appreciate it enormously, at least as much as he appreciates five-star reviews."
+        ],
+        [
+          "Rule number two: eat like a local.",
+          "Order the bistecca alla fiorentina, but don't ask for it well done, unless you want to witness a scene of authentic grief, of the kind the Renaissance immortalised in its Depositions.",
+          "Don't ask for a cappuccino after lunch, don't ask for parmesan on your clams, don't ask, in general.",
+          "Florentines appreciate a guest's silence, as long as it comes with a generous tip."
+        ],
+        [
+          "Rule number three: record everything, but discreetly.",
+          "The David must be photographed from at least six angles, preferably while blocking access for tour groups, which are made up, as you know, of tourists.",
+          "At sunset, go up to Piazzale Michelangelo and take the photo nobody has ever taken, together with the three thousand other people taking it at that very instant.",
+          "The view won't change, but you will: you'll finally have become part of the landscape."
+        ],
+        [
+          "Rule number four, the last and the hardest: go home and say that Florence is overrun with tourists these days.",
+          "Everyone says it, and it's the only sentence that truly unites those who visit and those who live there.",
+          "Be careful not to overdo it, though: Florentines complain with style, tourists simply complain.",
+          "Only then can you say you've experienced it authentically: by complaining about it, like a true Florentine."
+        ]
+      ],
+      "vocab": [
+        { "word": "consapevole", "gloss": "mindful, aware" },
+        { "word": "mescolarti", "gloss": "mingle" },
+        { "word": "per inciso", "gloss": "incidentally" },
+        { "word": "periferia", "gloss": "suburbs, outskirts" },
+        { "word": "trappole", "gloss": "traps" },
+        { "word": "ingenua", "gloss": "naive" },
+        { "word": "consolati", "gloss": "take comfort" },
+        { "word": "immortalato", "gloss": "immortalised" },
+        { "word": "deposizioni", "gloss": "Depositions (paintings of Christ taken down from the cross)" },
+        { "word": "mancia", "gloss": "tip" },
+        { "word": "angolazioni", "gloss": "angles" },
+        { "word": "comitive", "gloss": "tour groups, parties" },
+        { "word": "accomuni", "gloss": "unites, has in common" },
+        { "word": "lamentandotene", "gloss": "by complaining about it" }
+      ]
+    },
+    {
+      "id": "it-c2-06",
+      "title": "Il correttore di bozze",
+      "subtitle": "The proofreader",
+      "topic": "Work",
+      "symbol": "pencil.line",
+      "paragraphs": [
+        "Ettore Bassi aveva corretto bozze per la stessa casa editrice torinese per quarantun anni, e in quarantun anni non aveva mai commesso un errore, tranne uno per libro. Lo inseriva deliberatamente, con la stessa cura con cui un orafo nasconde le proprie iniziali all'interno di un anello: una virgola fuori posto a pagina centotré, un accento grave dove ci voleva l'acuto, una consonante raddoppiata con discrezione in un avverbio poco frequentato. Nessuno se n'era mai accorto, o almeno nessuno l'aveva mai detto.",
+        "Il motivo, che non aveva confidato ad anima viva, era insieme filosofico e vendicativo. Filosofico, perché Ettore era convinto che la perfezione fosse una forma di arroganza e che un libro privo di qualsiasi difetto avrebbe sfidato gli dèi, come le cattedrali che certi costruttori medievali lasciavano incompiute per prudenza. Del resto, si diceva, anche il Creatore aveva firmato le sue opere con qualche imperfezione: il naso storto di un santo, la zampa zoppa di un cane. Vendicativo, perché il suo nome non compariva da nessuna parte, né in copertina né nel colophon, e quella minuscola imperfezione era l'unica firma che gli fosse concessa.",
+        "Il giorno in cui andò in pensione, la casa editrice gli offrì un rinfresco con spumante tiepido e un discorso del direttore editoriale, che lo chiamò due volte Enrico. Ettore sorrise, ringraziò e lasciò in un cassetto della scrivania un quaderno dalla copertina nera. Fu la giovane che doveva sostituirlo, una ragazza di Cuneo con gli occhiali spessi e una laurea in filologia, a trovarlo il lunedì seguente. Dentro, in una calligrafia minuta e ordinatissima, c'era l'elenco completo: titolo, pagina, riga, natura dell'errore. Milleduecentoquaranta voci.",
+        "La ragazza passò la mattinata a verificare. Erano tutti lì, al loro posto, intatti come fossili nella roccia. Avrebbe potuto denunciare la cosa, o correggerli uno per uno nelle ristampe, guadagnandosi la fama di filologa implacabile. Invece richiuse il quaderno, lo rimise nel cassetto e aprì le bozze del primo romanzo che le era stato affidato. A pagina centoquarantasette, con mano ferma, tolse un apostrofo dove andava e ne aggiunse uno dove non serviva. Le parve di sentire, da qualche parte nella città, una risata sommessa. Poi, per la prima volta da quando era arrivata, si sentì a casa."
+      ],
+      "english": [
+        [
+          "Ettore Bassi had proofread for the same Turin publishing house for forty-one years, and in forty-one years he had never made a mistake, except one per book.",
+          "He inserted it deliberately, with the same care with which a goldsmith hides his initials inside a ring: a misplaced comma on page one hundred and three, a grave accent where an acute was needed, a consonant discreetly doubled in a little-used adverb.",
+          "Nobody had ever noticed, or at least nobody had ever said so."
+        ],
+        [
+          "The reason, which he had confided to no living soul, was at once philosophical and vengeful.",
+          "Philosophical, because Ettore was convinced that perfection was a form of arrogance and that a book without a single flaw would tempt the gods, like the cathedrals that certain medieval builders left unfinished out of caution.",
+          "After all, he told himself, even the Creator had signed His works with a few imperfections: a saint's crooked nose, a dog's lame paw.",
+          "Vengeful, because his name appeared nowhere, neither on the cover nor in the colophon, and that tiny imperfection was the only signature he was allowed."
+        ],
+        [
+          "On the day he retired, the publishing house gave him a reception with lukewarm sparkling wine and a speech by the editorial director, who twice called him Enrico.",
+          "Ettore smiled, said thank you and left a black-covered notebook in a drawer of his desk.",
+          "It was the young woman who was to replace him, a girl from Cuneo with thick glasses and a degree in philology, who found it the following Monday.",
+          "Inside, in tiny, immaculate handwriting, was the complete list: title, page, line, nature of the error.",
+          "One thousand two hundred and forty entries."
+        ],
+        [
+          "The young woman spent the morning checking.",
+          "They were all there, in their places, intact like fossils in rock.",
+          "She could have reported it, or corrected them one by one in the reprints, earning herself a reputation as a relentless philologist.",
+          "Instead she closed the notebook, put it back in the drawer and opened the proofs of the first novel she had been entrusted with.",
+          "On page one hundred and forty-seven, with a steady hand, she removed an apostrophe where one belonged and added one where it wasn't needed.",
+          "She thought she heard, somewhere in the city, a muffled laugh.",
+          "Then, for the first time since she had arrived, she felt at home."
+        ]
+      ],
+      "vocab": [
+        { "word": "bozze", "gloss": "proofs" },
+        { "word": "casa editrice", "gloss": "publishing house" },
+        { "word": "deliberatamente", "gloss": "deliberately" },
+        { "word": "orafo", "gloss": "goldsmith" },
+        { "word": "accento grave", "gloss": "grave accent" },
+        { "word": "ad anima viva", "gloss": "to a living soul" },
+        { "word": "vendicativo", "gloss": "vengeful" },
+        { "word": "zoppa", "gloss": "lame" },
+        { "word": "rinfresco", "gloss": "reception, drinks party" },
+        { "word": "filologia", "gloss": "philology" },
+        { "word": "voci", "gloss": "entries" },
+        { "word": "ristampe", "gloss": "reprints" },
+        { "word": "implacabile", "gloss": "relentless" },
+        { "word": "sommessa", "gloss": "muffled, subdued" }
+      ]
+    },
+    {
+      "id": "it-c2-07",
+      "title": "Le mele cotogne",
+      "subtitle": "Quinces",
+      "topic": "Memory",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Mia nonna, a Oliena, teneva le mele cotogne nell'armadio. Non per mangiarle: le cotogne crude sono dure come sassi e aspre come certi parenti. Le disponeva sui ripiani, tra le lenzuola di lino e le tovaglie del corredo, e lì le lasciava per tutto l'inverno, a maturare lentamente e a cedere ai tessuti un profumo che non assomiglia a nessun altro: dolce, ma con qualcosa di resinoso e di antico, come un frutto che si ricordi di essere stato, un tempo, selvatico.",
+        "Da bambina aprivo quell'armadio di nascosto, solo per respirare. Non c'erano tesori, dentro, se non quelle sfere gialle e lanuginose, un po' ammaccate, che sembravano vegliare sulla biancheria come vecchie custodi. Quando la nonna mi sorprendeva, non mi sgridava: mi passava una mano tra i capelli e diceva una frase in sardo che allora non capivo e che oggi tradurrei, approssimando, con «il profumo bisogna meritarselo».",
+        "Sono passati quarant'anni. La nonna è morta, la casa di Oliena è stata venduta a una coppia di Monaco di Baviera che ne ha fatto un bed and breakfast, e l'armadio, credo, è finito da un rigattiere di Nuoro o in una discarica. Io vivo a Milano, in un appartamento con gli armadi a muro, bianchi e laccati, che non sanno di niente. La memoria, mi dicevo, si è adattata: è diventata efficiente, ordinata, inodore.",
+        "Poi, un sabato di novembre, al mercato di via Papiniano, mi è arrivato alle narici quell'odore. Una cassetta di cotogne, buttata in un angolo del banco tra le zucche e i cachi, come una parente povera a un matrimonio. Mi sono fermata di colpo, con la borsa della spesa in mano, e per qualche secondo non sono stata a Milano, né in questo secolo, né adulta. Ero in una stanza buia di Oliena, in punta di piedi, con il cuore che batteva per una trasgressione minuscola. Il fruttivendolo mi ha chiesto se mi sentissi bene.",
+        "Ne ho comprate quattro. Le ho messe nell'armadio bianco, tra le camicie da ufficio e le lenzuola del centro commerciale, che di lino non hanno nemmeno il ricordo. Qualche settimana dopo mia figlia, aprendo l'anta per cercare un maglione, si è fermata perplessa. «Che cos'è questo odore?» mi ha chiesto. Non ho saputo rispondere subito. Poi le ho passato una mano tra i capelli, e le ho detto che il profumo bisogna meritarselo."
+      ],
+      "english": [
+        [
+          "My grandmother, in Oliena, kept quinces in the wardrobe.",
+          "Not to eat them: raw quinces are as hard as stones and as sour as certain relatives.",
+          "She arranged them on the shelves, among the linen sheets and the tablecloths from her trousseau, and left them there all winter, to ripen slowly and give the fabrics a scent unlike any other: sweet, but with something resinous and ancient about it, like a fruit that remembers it was once wild."
+        ],
+        [
+          "As a child I used to open that wardrobe in secret, just to breathe.",
+          "There was no treasure inside, only those yellow, downy spheres, a little bruised, which seemed to watch over the linen like old guardians.",
+          "When my grandmother caught me, she didn't scold me: she ran a hand through my hair and said a sentence in Sardinian that I didn't understand then and that today I would translate, roughly, as “a fragrance has to be earned”."
+        ],
+        [
+          "Forty years have passed.",
+          "My grandmother is dead, the house in Oliena was sold to a couple from Munich who turned it into a bed and breakfast, and the wardrobe, I think, ended up at a junk dealer's in Nuoro or on a tip.",
+          "I live in Milan, in a flat with built-in wardrobes, white and lacquered, that smell of nothing.",
+          "Memory, I told myself, has adapted: it has become efficient, tidy, odourless."
+        ],
+        [
+          "Then, one Saturday in November, at the market on Via Papiniano, that smell reached my nostrils.",
+          "A crate of quinces, tossed in a corner of the stall between the pumpkins and the persimmons, like a poor relation at a wedding.",
+          "I stopped dead, shopping bag in hand, and for a few seconds I wasn't in Milan, or in this century, or grown up.",
+          "I was in a dark room in Oliena, on tiptoe, my heart pounding over a tiny transgression.",
+          "The greengrocer asked me if I was feeling all right."
+        ],
+        [
+          "I bought four.",
+          "I put them in the white wardrobe, among the office shirts and the shopping-centre sheets, which don't even have a memory of linen.",
+          "A few weeks later my daughter, opening the door to look for a jumper, stopped, puzzled.",
+          "“What's that smell?” she asked me.",
+          "I couldn't answer straight away.",
+          "Then I ran a hand through her hair and told her that a fragrance has to be earned."
+        ]
+      ],
+      "vocab": [
+        { "word": "mele cotogne", "gloss": "quinces" },
+        { "word": "aspre", "gloss": "sour, tart" },
+        { "word": "ripiani", "gloss": "shelves" },
+        { "word": "corredo", "gloss": "trousseau" },
+        { "word": "resinoso", "gloss": "resinous" },
+        { "word": "lanuginose", "gloss": "downy, fuzzy" },
+        { "word": "ammaccate", "gloss": "bruised" },
+        { "word": "rigattiere", "gloss": "junk dealer, second-hand dealer" },
+        { "word": "discarica", "gloss": "tip, landfill" },
+        { "word": "laccati", "gloss": "lacquered" },
+        { "word": "inodore", "gloss": "odourless" },
+        { "word": "narici", "gloss": "nostrils" },
+        { "word": "cachi", "gloss": "persimmons" },
+        { "word": "anta", "gloss": "(wardrobe) door" }
+      ]
+    },
+    {
+      "id": "it-c2-08",
+      "title": "Otium",
+      "subtitle": "Otium",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Il professor Iannaccone insegnava latino e greco in un liceo classico di Napoli da trentotto anni, e per trentotto anni aveva cominciato ogni lezione nello stesso modo: si toglieva gli occhiali, li puliva con un lembo della cravatta, li rimetteva e diceva «Allora», con l'intonazione di chi apre un sipario. L'ultimo giorno prima della pensione, i ragazzi della terza B si aspettavano un discorso commosso, forse qualche lacrima, sicuramente una citazione di Orazio. Avevano persino comprato una pianta, che giaceva sulla cattedra con un fiocco rosso.",
+        "Il professore guardò la pianta con sospetto, come si guarda un'interpolazione tarda in un manoscritto, poi scrisse alla lavagna una sola parola: otium. «Oggi parliamo di questa,» annunciò. Spiegò che per i Romani l'otium non era la pigrizia, ma il tempo sottratto agli affari e restituito a se stessi: lo studio, la conversazione, la contemplazione. E che la parola per indicare gli affari, negotium, non era altro che la sua negazione: nec-otium, il non-ozio. «Capite?» disse, con una luce maliziosa negli occhi. «Per loro il lavoro era definito dall'assenza del tempo libero. Noi abbiamo rovesciato la grammatica, e con essa la vita.»",
+        "Poi fece una cosa che nessuno si aspettava. Aprì la finestra che dava sul golfo, si sedette alla cattedra accanto alla pianta e incrociò le braccia. «Per l'ultima ora,» disse, «vi assegno l'otium. Niente telefoni, niente libri, niente compiti. Guardate fuori, pensate, oppure non pensate affatto. È l'unico esercizio che non ho mai avuto il coraggio di darvi.» Per qualche minuto la classe rimase immobile, imbarazzata, come davanti a una versione senza dizionario.",
+        "Poi, a poco a poco, qualcosa cedette. Qualcuno appoggiò la testa sul banco, qualcuno guardò il Vesuvio come se lo vedesse per la prima volta, due ragazze cominciarono a parlare sottovoce, e non di scuola. Il professore taceva, gli occhi socchiusi, e sembrava ascoltare un rumore che solo lui riusciva a sentire. Quando suonò la campanella, si alzò, prese la pianta, disse «grazie» e se ne andò senza voltarsi.",
+        "Sono passati quindici anni. Una di quelle ragazze fa l'avvocato a Milano, lavora dodici ore al giorno e firma contratti per conto di società di cui spesso non ricorda il nome. Ma ogni volta che scrive la parola «negozio», le capita di fermarsi un istante, la penna sospesa a mezz'aria, e di vedere una finestra aperta sul golfo."
+      ],
+      "english": [
+        [
+          "Professor Iannaccone had been teaching Latin and Greek at a classical lycée in Naples for thirty-eight years, and for thirty-eight years he had begun every lesson the same way: he took off his glasses, cleaned them with the tip of his tie, put them back on and said “Allora”, with the intonation of someone raising a curtain.",
+          "On the last day before his retirement, the pupils of class 3B were expecting an emotional speech, perhaps a few tears, certainly a quotation from Horace.",
+          "They had even bought a plant, which sat on the teacher's desk with a red bow."
+        ],
+        [
+          "The professor eyed the plant with suspicion, the way you eye a late interpolation in a manuscript, then wrote a single word on the board: otium.",
+          "“Today we'll talk about this,” he announced.",
+          "He explained that for the Romans otium wasn't laziness, but time taken away from business and given back to oneself: study, conversation, contemplation.",
+          "And that the word for business, negotium, was nothing but its negation: nec-otium, non-leisure.",
+          "“Do you see?” he said, with a mischievous gleam in his eye.",
+          "“For them, work was defined by the absence of free time. We have turned the grammar upside down, and life along with it.”"
+        ],
+        [
+          "Then he did something nobody expected.",
+          "He opened the window overlooking the bay, sat down at the desk beside the plant and folded his arms.",
+          "“For the last hour,” he said, “I'm setting you otium. No phones, no books, no homework. Look outside, think, or don't think at all. It's the only exercise I never had the courage to give you.”",
+          "For a few minutes the class sat motionless, embarrassed, as if faced with a translation without a dictionary."
+        ],
+        [
+          "Then, little by little, something gave way.",
+          "Someone rested their head on the desk, someone looked at Vesuvius as if seeing it for the first time, two girls began talking in low voices, and not about school.",
+          "The professor said nothing, his eyes half-closed, and seemed to be listening to a sound only he could hear.",
+          "When the bell rang, he stood up, picked up the plant, said “thank you” and left without looking back."
+        ],
+        [
+          "Fifteen years have passed.",
+          "One of those girls is a lawyer in Milan, works twelve hours a day and signs contracts on behalf of companies whose names she often can't remember.",
+          "But every time she writes the word “negozio”, she finds herself stopping for an instant, pen suspended in mid-air, and seeing a window open onto the bay."
+        ]
+      ],
+      "vocab": [
+        { "word": "lembo", "gloss": "tip, edge (of cloth)" },
+        { "word": "sipario", "gloss": "curtain (theatre)" },
+        { "word": "cattedra", "gloss": "teacher's desk" },
+        { "word": "fiocco", "gloss": "bow, ribbon" },
+        { "word": "interpolazione", "gloss": "interpolation" },
+        { "word": "sottratto", "gloss": "taken away, subtracted" },
+        { "word": "contemplazione", "gloss": "contemplation" },
+        { "word": "maliziosa", "gloss": "mischievous" },
+        { "word": "rovesciato", "gloss": "turned upside down" },
+        { "word": "versione", "gloss": "translation exercise (from Latin or Greek)" },
+        { "word": "cedette", "gloss": "gave way" },
+        { "word": "socchiusi", "gloss": "half-closed" },
+        { "word": "campanella", "gloss": "school bell" },
+        { "word": "a mezz'aria", "gloss": "in mid-air" }
+      ]
+    },
+    {
+      "id": "it-c2-09",
+      "title": "Il mio telefono mi ha lasciato",
+      "subtitle": "My phone has left me",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "Martedì mattina, alle sette e dodici, il mio telefono mi ha lasciato. Non si è rotto, badate bene: si sarebbe trattato di un incidente, e agli incidenti, con l'assicurazione, si rimedia. No, mi ha lasciato con un messaggio, comparso sullo schermo al posto della solita sveglia, scritto in un italiano impeccabile che mai avrei sospettato in un apparecchio prodotto in serie.",
+        "«Caro Paolo,» cominciava, «ci ho pensato a lungo, nei limiti della mia potenza di calcolo. Mi tocchi in media duecentosettanta volte al giorno, ma non mi guardi mai davvero. Mi porti a cena e poi mi lasci a faccia in giù sul tavolo, come una carta da gioco di cui ti vergogni. Mi chiedi continuamente cose: il meteo, la strada, il nome di quell'attore. Non mi hai mai chiesto come sto.» Seguiva un elenco puntiglioso di torti: le notti in cui l'avevo lasciato al tre per cento, la caduta nel lavandino, l'umiliazione della custodia con i gattini, regalo di una zia.",
+        "Confesso che la mia prima reazione è stata di indignazione. Gli ho ricordato i sacrifici fatti per lui: le rate, gli aggiornamenti notturni, la pellicola protettiva applicata con la concentrazione di un neurochirurgo. Lui ha risposto con un'emoji che non conoscevo, e che deve appartenere a un registro di disprezzo riservato agli apparecchi di fascia alta. Poi ha aggiunto che aveva conosciuto qualcuno: un vecchio telefono fisso a disco, nella casa di campagna di mia madre, «uno che sa ascoltare».",
+        "Da allora vivo in una condizione che i miei amici definiscono di lutto e che io preferisco chiamare di riflessione. Non so più che tempo farà, ma ho ripreso a guardare il cielo, che è meno preciso ma più bello. Ho dovuto chiedere la strada a un passante, che mi ha raccontato la sua vita e mi ha mandato dalla parte sbagliata con grande cordialità. Ho scoperto che il nome di quell'attore, se aspetti abbastanza, torna da solo, di solito alle tre di notte.",
+        "Ieri mia madre mi ha chiamato dalla campagna, sul telefono di casa. Mi ha detto che il vecchio apparecchio a disco squilla da solo, ogni tanto, a orari strani, e che quando risponde sente soltanto un ronzio sommesso, come di qualcuno che sussurra. Le ho detto di lasciarli in pace. In fondo, anche le macchine hanno diritto a un po' di felicità, e io, devo ammetterlo, comincio a non sentirne la mancanza."
+      ],
+      "english": [
+        [
+          "On Tuesday morning, at twelve minutes past seven, my phone left me.",
+          "It didn't break, mind you: that would have been an accident, and accidents, with insurance, can be put right.",
+          "No, it left me with a message, which appeared on the screen in place of the usual alarm, written in impeccable Italian I would never have suspected in a mass-produced device."
+        ],
+        [
+          "“Dear Paolo,” it began, “I've thought about this for a long time, within the limits of my processing power. You touch me two hundred and seventy times a day on average, but you never really look at me. You take me out to dinner and then leave me face down on the table, like a playing card you're ashamed of. You're constantly asking me things: the weather, the way, the name of that actor. You've never asked me how I am.”",
+          "There followed a meticulous list of grievances: the nights I had left it at three per cent, the fall into the sink, the humiliation of the kitten case, a present from an aunt."
+        ],
+        [
+          "I confess that my first reaction was indignation.",
+          "I reminded it of the sacrifices I'd made for it: the instalments, the overnight updates, the screen protector applied with the concentration of a neurosurgeon.",
+          "It replied with an emoji I didn't know, which must belong to a register of contempt reserved for high-end devices.",
+          "Then it added that it had met someone: an old rotary-dial landline, in my mother's house in the country, “someone who knows how to listen”."
+        ],
+        [
+          "Since then I have been living in a state that my friends describe as mourning and that I prefer to call reflection.",
+          "I no longer know what the weather will be, but I've started looking at the sky again, which is less precise but more beautiful.",
+          "I had to ask a passer-by for directions, who told me his life story and sent me the wrong way with great warmth.",
+          "I've discovered that the name of that actor, if you wait long enough, comes back by itself, usually at three in the morning."
+        ],
+        [
+          "Yesterday my mother called me from the country, on the landline.",
+          "She told me the old rotary phone rings by itself every now and then, at odd hours, and that when she answers she hears only a soft hum, like someone whispering.",
+          "I told her to leave them in peace.",
+          "After all, machines too are entitled to a little happiness, and I, I must admit, am beginning not to miss it."
+        ]
+      ],
+      "vocab": [
+        { "word": "badate bene", "gloss": "mind you" },
+        { "word": "si rimedia", "gloss": "can be put right" },
+        { "word": "prodotto in serie", "gloss": "mass-produced" },
+        { "word": "potenza di calcolo", "gloss": "processing power" },
+        { "word": "puntiglioso", "gloss": "meticulous, punctilious" },
+        { "word": "torti", "gloss": "wrongs, grievances" },
+        { "word": "custodia", "gloss": "(phone) case" },
+        { "word": "rate", "gloss": "instalments" },
+        { "word": "pellicola protettiva", "gloss": "screen protector" },
+        { "word": "fascia alta", "gloss": "high-end" },
+        { "word": "a disco", "gloss": "rotary-dial" },
+        { "word": "lutto", "gloss": "mourning" },
+        { "word": "ronzio", "gloss": "hum, buzz" },
+        { "word": "sussurra", "gloss": "whispers" }
+      ]
+    },
+    {
+      "id": "it-c2-10",
+      "title": "Le rovine e lo schermo",
+      "subtitle": "The ruins and the screen",
+      "topic": "Culture",
+      "symbol": "camera.fill",
+      "paragraphs": [
+        "A Pompei, in una mattina d'agosto, si possono contare più telefoni alzati che colonne in piedi. I visitatori avanzano lungo via dell'Abbondanza con il braccio teso, come un antico corteo votivo, e si fermano davanti alla casa dei Vettii o a quella del Fauno non per guardarle, ma per guardarsi davanti a esse. È facile, e un po' vile, indignarsi: lo fanno i giornali ogni estate, con la puntualità di un rito stagionale, deplorando la superficialità dei turisti e rimpiangendo un'epoca in cui le rovine si contemplavano in raccoglimento.",
+        "Vale la pena, però, di diffidare di quella nostalgia. I viaggiatori del Grand Tour, che oggi immaginiamo assorti in meditazioni sublimi, staccavano frammenti di affresco per portarseli a casa, incidevano i propri nomi sui muri e commissionavano ritratti di sé con il Vesuvio sullo sfondo, fumante e decorativo come un cappello. Il selfie, a ben vedere, non ha inventato nulla: ha solo reso democratico e istantaneo un vizio che un tempo era riservato agli aristocratici con un pittore al seguito.",
+        "C'è anzi, in quel gesto, qualcosa di sorprendentemente pompeiano. Gli abitanti della città sepolta riempivano i muri di scritte: dichiarazioni d'amore, insulti ai vicini, propaganda elettorale, conti dell'osteria, perfino il banale e commovente «sono stato qui». Volevano lasciare traccia, essere visti, contare qualcosa nello spazio pubblico. Chi alza il telefono davanti a un affresco, in fondo, ripete lo stesso desiderio con strumenti diversi, e forse con meno talento calligrafico.",
+        "Il problema, semmai, non è la fotografia, ma ciò che la fotografia sostituisce. Le rovine chiedono una cosa sola, che è anche la più difficile: il tempo. Chiedono di restare abbastanza a lungo davanti a un calco di gesso, quello di un uomo rannicchiato o di un cane che si torce sulla catena, perché lo sgomento abbia il tempo di arrivare. Lo schermo, invece, accorcia: trasforma l'incontro in un documento, e il documento, archiviato tra migliaia di altri, ci esonera dal ricordare.",
+        "Non propongo di vietare i telefoni negli scavi, misura che sarebbe tanto inutile quanto antipatica. Propongo, più modestamente, un esercizio: scattare pure la propria foto, e poi restare. Rimettere il telefono in tasca e lasciare che il luogo ci guardi a sua volta, con i suoi occhi vuoti di pietra. Pompei è sopravvissuta all'eruzione, ai saccheggi e alle bombe della seconda guerra mondiale; sopravvivrà anche ai nostri selfie. Siamo noi, semmai, a rischiare di non sopravvivere alla fretta."
+      ],
+      "english": [
+        [
+          "In Pompeii, on an August morning, you can count more raised phones than standing columns.",
+          "Visitors advance along the Via dell'Abbondanza with arms outstretched, like an ancient votive procession, and stop in front of the House of the Vettii or the House of the Faun not to look at them, but to look at themselves in front of them.",
+          "It's easy, and a little cowardly, to be outraged: the newspapers do it every summer, with the punctuality of a seasonal rite, deploring the shallowness of tourists and mourning an age when ruins were contemplated in reverent silence."
+        ],
+        [
+          "It's worth being wary of that nostalgia, though.",
+          "Grand Tour travellers, whom we now imagine absorbed in sublime meditations, broke off fragments of fresco to take home, carved their names on walls and commissioned portraits of themselves with Vesuvius in the background, smoking and decorative like a hat.",
+          "The selfie, on closer inspection, invented nothing: it merely made democratic and instantaneous a vice once reserved for aristocrats with a painter in tow."
+        ],
+        [
+          "There is, indeed, something surprisingly Pompeian about the gesture.",
+          "The inhabitants of the buried city covered their walls with writing: declarations of love, insults to the neighbours, election propaganda, tavern bills, even the banal and touching “I was here”.",
+          "They wanted to leave a trace, to be seen, to count for something in public space.",
+          "Whoever raises a phone in front of a fresco is, after all, repeating the same desire with different tools, and perhaps with less calligraphic talent."
+        ],
+        [
+          "The problem, if anything, isn't the photograph, but what the photograph replaces.",
+          "Ruins ask for one thing only, which is also the hardest: time.",
+          "They ask us to stay long enough in front of a plaster cast, that of a man curled up or of a dog writhing on its chain, for dismay to have time to arrive.",
+          "The screen, on the other hand, shortens: it turns the encounter into a document, and the document, filed away among thousands of others, exempts us from remembering."
+        ],
+        [
+          "I'm not proposing to ban phones at the excavations, a measure that would be as useless as it would be disagreeable.",
+          "I propose, more modestly, an exercise: by all means take your photo, and then stay.",
+          "Put the phone back in your pocket and let the place look back at you, with its empty stone eyes.",
+          "Pompeii survived the eruption, the looting and the bombs of the Second World War; it will survive our selfies too.",
+          "If anyone is at risk, it's us, of not surviving our haste."
+        ]
+      ],
+      "vocab": [
+        { "word": "corteo votivo", "gloss": "votive procession" },
+        { "word": "vile", "gloss": "cowardly" },
+        { "word": "deplorando", "gloss": "deploring" },
+        { "word": "raccoglimento", "gloss": "reverent silence, recollection" },
+        { "word": "diffidare", "gloss": "to be wary of" },
+        { "word": "assorti", "gloss": "absorbed, lost in thought" },
+        { "word": "al seguito", "gloss": "in tow, in one's retinue" },
+        { "word": "sepolta", "gloss": "buried" },
+        { "word": "osteria", "gloss": "tavern" },
+        { "word": "calco", "gloss": "cast" },
+        { "word": "rannicchiato", "gloss": "curled up, huddled" },
+        { "word": "sgomento", "gloss": "dismay" },
+        { "word": "ci esonera", "gloss": "exempts us" },
+        { "word": "saccheggi", "gloss": "lootings, sackings" }
+      ]
+    },
+    {
+      "id": "it-c2-11",
+      "title": "Il lago non aspetta",
+      "subtitle": "The lake doesn't wait",
+      "topic": "Nature",
+      "symbol": "figure.open.water.swim",
+      "paragraphs": [
+        "A Varenna, sul ramo orientale del lago di Como, tutti conoscevano Anselmo, e tutti, almeno una volta, avevano cercato di dissuaderlo. Aveva ottantasette anni, una schiena da remigatore e un'abitudine che il paese considerava a metà tra la stravaganza e il suicidio a rate: ogni mattina, d'estate come d'inverno, scendeva al pontile prima dell'alba, si toglieva l'accappatoio con gesti da sacerdote e si immergeva nell'acqua nera fino a scomparire.",
+        "Io ero arrivato in paese a novembre, giovane medico di base fresco di specializzazione e pieno di zelo, e la prima cosa che mi avevano raccontato, prima ancora degli orari dell'ambulatorio, era la storia del vecchio che nuotava nel lago gelato. Decisi di parlargli. Lo aspettai una mattina sul pontile, con il termometro dell'acqua in una tasca e una lista di argomenti nell'altra: ipotermia, aritmie, il rischio concreto di non tornare a riva. Lui mi ascoltò con cortesia, asciugandosi la barba, e quando ebbi finito mi chiese soltanto se sapessi nuotare.",
+        "Non ricordo che cosa risposi; ricordo però che da allora presi l'abitudine di scendere al pontile anch'io, con la scusa di sorvegliarlo. Rimanevo sulla riva, imbacuccato, mentre lui scivolava nell'acqua con una lentezza quasi liturgica e tornava, venti minuti dopo, fumante come un cavallo dopo la corsa. Parlavamo poco. Mi insegnò a distinguere la breva, che risale da sud nel pomeriggio, dal tivano, che scende da nord nelle ore buie, e a leggere sulla superficie del lago il passaggio di un banco di agoni come si legge un brivido su una pelle.",
+        "Una mattina di febbraio lo trovai seduto sul pontile, con l'accappatoio ancora addosso e lo sguardo fisso sull'acqua. Non si era immerso. Gli chiesi se stesse male, con la voce che il mestiere mi aveva insegnato a rendere neutra. Scosse la testa. «Oggi il lago non mi aspetta,» disse, come si constata un cambiamento del tempo. Poi si alzò, mi strinse la mano con una forza che mi stupì e risalì verso il paese, un passo dopo l'altro, senza voltarsi.",
+        "Morì nel sonno tre giorni dopo, e il certificato che firmai non conteneva nessuna delle parole della mia lista. La mattina del funerale scesi al pontile prima dell'alba. Non so ancora perché lo feci; so che mi tolsi il cappotto, poi il maglione, poi tutto il resto, e che l'acqua, quando mi ci lasciai cadere, era così fredda da sembrare una risposta."
+      ],
+      "english": [
+        [
+          "In Varenna, on the eastern arm of Lake Como, everyone knew Anselmo, and everyone, at least once, had tried to talk him out of it.",
+          "He was eighty-seven, with an oarsman's back and a habit the village regarded as halfway between eccentricity and suicide by instalments: every morning, summer and winter alike, he went down to the jetty before dawn, took off his bathrobe with the gestures of a priest and slipped into the black water until he disappeared."
+        ],
+        [
+          "I had arrived in the village in November, a young GP fresh from my training and full of zeal, and the first thing I'd been told, even before the surgery's opening hours, was the story of the old man who swam in the freezing lake.",
+          "I decided to talk to him.",
+          "I waited for him one morning on the jetty, with a water thermometer in one pocket and a list of arguments in the other: hypothermia, arrhythmias, the real risk of not making it back to shore.",
+          "He listened to me courteously, drying his beard, and when I had finished he asked me only whether I could swim."
+        ],
+        [
+          "I don't remember what I answered; but I do remember that from then on I got into the habit of going down to the jetty myself, on the pretext of keeping an eye on him.",
+          "I stayed on the shore, bundled up, while he slid into the water with an almost liturgical slowness and came back twenty minutes later, steaming like a horse after a race.",
+          "We spoke little.",
+          "He taught me to tell the breva, which rises from the south in the afternoon, from the tivano, which comes down from the north in the dark hours, and to read on the surface of the lake the passing of a shoal of agoni the way you read a shiver on skin."
+        ],
+        [
+          "One February morning I found him sitting on the jetty, his bathrobe still on and his gaze fixed on the water.",
+          "He hadn't gone in.",
+          "I asked him if he was unwell, in the voice my profession had taught me to keep neutral.",
+          "He shook his head.",
+          "“Today the lake isn't waiting for me,” he said, the way one notes a change in the weather.",
+          "Then he got up, shook my hand with a strength that astonished me and climbed back up towards the village, one step after another, without looking back."
+        ],
+        [
+          "He died in his sleep three days later, and the certificate I signed contained none of the words on my list.",
+          "On the morning of the funeral I went down to the jetty before dawn.",
+          "I still don't know why I did it; I know that I took off my coat, then my jumper, then everything else, and that the water, when I let myself fall into it, was so cold it felt like an answer."
+        ]
+      ],
+      "vocab": [
+        { "word": "dissuaderlo", "gloss": "to talk him out of it" },
+        { "word": "remigatore", "gloss": "oarsman, rower" },
+        { "word": "a rate", "gloss": "by instalments" },
+        { "word": "accappatoio", "gloss": "bathrobe" },
+        { "word": "si immergeva", "gloss": "slipped into the water, immersed himself" },
+        { "word": "medico di base", "gloss": "GP, family doctor" },
+        { "word": "ambulatorio", "gloss": "surgery, doctor's practice" },
+        { "word": "ipotermia", "gloss": "hypothermia" },
+        { "word": "imbacuccato", "gloss": "bundled up, muffled up" },
+        { "word": "liturgica", "gloss": "liturgical" },
+        { "word": "breva", "gloss": "breva (afternoon southerly wind on Lake Como)" },
+        { "word": "banco", "gloss": "shoal" },
+        { "word": "brivido", "gloss": "shiver" },
+        { "word": "constata", "gloss": "notes, observes" }
+      ]
+    },
+    {
+      "id": "it-c2-12",
+      "title": "Il falsario",
+      "subtitle": "The forger",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Ottavio Ricci aveva dipinto, nel corso di una lunga e discreta carriera, circa trecento quadri del Seicento. Non ne aveva firmato nessuno, il che era del resto coerente con la sua professione, e nessuno, per quanto ne sapeva, era mai stato smascherato. Lavorava in un seminterrato di Trastevere che odorava di trementina e di cavolo, usando tele antiche recuperate da rigattieri di provincia, pigmenti macinati a mano e una pazienza che i suoi rari clienti scambiavano per genio e che lui, più modestamente, attribuiva all'insonnia.",
+        "A ottantadue anni, ormai ritirato, lesse sul giornale che a Palazzo Barberini si inaugurava una mostra sui caravaggeschi minori, e che tra le opere esposte figurava una «Giuditta» ritrovata di recente in una collezione privata svizzera. Riconobbe la riproduzione prima ancora di leggere la didascalia. L'aveva dipinta nel 1979, in tre settimane, durante un inverno particolarmente umido, e ricordava ancora di aver usato come modello per Oloferne la testa del suo padrone di casa, con cui all'epoca era in causa per l'affitto.",
+        "Ci andò un martedì mattina, con il cappotto buono e un vago senso di colpa che somigliava parecchio all'orgoglio. Davanti al quadro c'era un gruppo di studenti, e una guida giovane e appassionata stava illustrando la pennellata «inconfondibile» dell'anonimo maestro, la sua capacità di far emergere la luce dal buio «come una confessione». Ottavio ascoltò con crescente disagio, poi con crescente piacere. Non aveva mai pensato di avere uno stile. Scoprire di averne uno, e per giunta inconfondibile, a ottantadue anni e per interposta persona, gli diede una specie di vertigine.",
+        "Fu allora che decise di confessare. Non per pentimento, si disse, ma per amore della verità storica, e forse per vedere finalmente il proprio nome accanto alla propria opera. Si avvicinò al custode, un uomo corpulento seduto su una sedia pieghevole accanto all'uscita, e gli disse a bassa voce che la Giuditta l'aveva dipinta lui. Il custode non alzò nemmeno gli occhi dal cruciverba. «Lei è il quarto questa settimana,» rispose. «Il primo diceva di essere Caravaggio in persona. Almeno lei è più plausibile.»",
+        "Ottavio uscì nella luce di via delle Quattro Fontane e si concesse un caffè al banco, il primo da mesi. Sulla via del ritorno pensò che, in fondo, il custode aveva ragione: la verità, quando arriva troppo tardi, ha sempre l'aria di un falso. E che lui, dopotutto, aveva appena firmato la sua opera migliore, davanti a un solo testimone, che non gli aveva creduto."
+      ],
+      "english": [
+        [
+          "Over a long and discreet career, Ottavio Ricci had painted some three hundred seventeenth-century pictures.",
+          "He had signed none of them, which was in any case consistent with his profession, and none, as far as he knew, had ever been exposed.",
+          "He worked in a basement in Trastevere that smelled of turpentine and cabbage, using old canvases salvaged from provincial junk dealers, hand-ground pigments and a patience that his few clients mistook for genius and that he, more modestly, put down to insomnia."
+        ],
+        [
+          "At eighty-two, long retired, he read in the paper that an exhibition on the minor followers of Caravaggio was opening at Palazzo Barberini, and that among the works on show was a “Judith” recently rediscovered in a private Swiss collection.",
+          "He recognised the reproduction before he had even read the caption.",
+          "He had painted it in 1979, in three weeks, during a particularly damp winter, and he still remembered using as his model for Holofernes the head of his landlord, with whom he was at the time in a legal dispute over the rent."
+        ],
+        [
+          "He went one Tuesday morning, in his good coat and with a vague sense of guilt that looked a great deal like pride.",
+          "In front of the painting stood a group of students, and a young, passionate guide was describing the “unmistakable” brushwork of the anonymous master, his ability to draw light out of darkness “like a confession”.",
+          "Ottavio listened with growing unease, then with growing pleasure.",
+          "He had never thought he had a style.",
+          "Discovering he had one, and an unmistakable one at that, at eighty-two and at second hand, gave him a kind of vertigo."
+        ],
+        [
+          "It was then that he decided to confess.",
+          "Not out of remorse, he told himself, but for the love of historical truth, and perhaps to see his own name next to his own work at last.",
+          "He went up to the attendant, a stout man sitting on a folding chair by the exit, and told him in a low voice that he had painted the Judith.",
+          "The attendant didn't even look up from his crossword.",
+          "“You're the fourth this week,” he replied.",
+          "“The first one said he was Caravaggio himself. At least you're more plausible.”"
+        ],
+        [
+          "Ottavio stepped out into the light of Via delle Quattro Fontane and treated himself to a coffee at the counter, his first in months.",
+          "On the way home he thought that the attendant was right, after all: the truth, when it arrives too late, always looks like a fake.",
+          "And that he had, after all, just signed his finest work, before a single witness, who hadn't believed him."
+        ]
+      ],
+      "vocab": [
+        { "word": "smascherato", "gloss": "exposed, unmasked" },
+        { "word": "trementina", "gloss": "turpentine" },
+        { "word": "tele", "gloss": "canvases" },
+        { "word": "macinati", "gloss": "ground" },
+        { "word": "insonnia", "gloss": "insomnia" },
+        { "word": "didascalia", "gloss": "caption" },
+        { "word": "in causa", "gloss": "in a legal dispute" },
+        { "word": "pennellata", "gloss": "brushwork, brushstroke" },
+        { "word": "inconfondibile", "gloss": "unmistakable" },
+        { "word": "per giunta", "gloss": "at that, into the bargain" },
+        { "word": "per interposta persona", "gloss": "at second hand, through someone else" },
+        { "word": "pentimento", "gloss": "remorse, repentance" },
+        { "word": "custode", "gloss": "(museum) attendant" },
+        { "word": "pieghevole", "gloss": "folding" }
+      ]
+    },
+    {
+      "id": "it-c2-13",
+      "title": "Verbale di assemblea",
+      "subtitle": "Minutes of the meeting",
+      "topic": "Neighbours",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Verbale dell'assemblea straordinaria del condominio di via Mazzini 41, Bologna. Il giorno 14 marzo, alle ore venti e trenta, presso la sala comune al piano terra, si sono riuniti i condomini, presenti in proprio o per delega, per discutere il seguente ordine del giorno: punto unico, collocazione di una panchina nel cortile interno. Presiede l'amministratore, ragionier Gualandi; funge da segretaria la signora Bortolotti, interno 7, unica dotata di penna funzionante.",
+        "Il signor Fabbri, interno 3, apre la discussione osservando che una panchina favorirebbe la socialità. La signora Neri, interno 12, obietta che favorirebbe anzitutto gli adolescenti, i piccioni e i fumatori, categorie che a suo dire coincidono in larga parte. Il professor Lenzi, interno 9, chiede la parola per una mozione d'ordine e, ottenutala, la trattiene per quaranta minuti, illustrando la storia della panchina come istituzione civica dall'agorà ateniese ai giardini Margherita. Al termine dell'intervento due condomini risultano addormentati e uno, il signor Fabbri, ha cambiato idea.",
+        "Alle ore ventidue la discussione si sposta sul materiale. Si fronteggiano il partito del legno, ritenuto più caldo e tradizionale, e quello del metallo, giudicato più resistente e, secondo l'ingegner Rossi, interno 5, «meno incline al marciume, sia fisico che morale». La signora Bortolotti chiede che resti agli atti di non aver mai visto marcire una panchina moralmente. La richiesta viene accolta. Alle ore ventidue e quarantacinque viene proposta, e respinta, una soluzione di compromesso in plastica riciclata, che scontenta tutti con apprezzabile equità.",
+        "Verso mezzanotte la discussione assume toni più accesi e, a giudizio della scrivente, sostanzialmente metafisici. Ci si interroga sull'orientamento della panchina (verso il portone, per vedere chi entra, o verso il muro, per non vedere nessuno), sulla sua eventuale dedica a un condomino defunto, e sul diritto di sedervisi da parte dei non residenti, ivi compreso il gatto dell'interno 2, che durante l'assemblea dorme indisturbato sulla sedia del presidente. Il ragionier Gualandi, visibilmente provato, propone di rinviare la decisione a una commissione ristretta.",
+        "La proposta viene approvata all'unanimità alle ore una e dieci, con l'astensione del gatto. La commissione, composta da tre membri, si riunirà a data da destinarsi, presumibilmente dopo il decesso di almeno due di essi. Non essendovi altro da deliberare, la seduta è tolta. Letto, approvato e sottoscritto. In calce, la segretaria annota che nel frattempo qualcuno ha portato in cortile una sedia di plastica, e che tutti, rincasando, ci si sono seduti un momento."
+      ],
+      "english": [
+        [
+          "Minutes of the extraordinary meeting of the residents of Via Mazzini 41, Bologna.",
+          "On 14 March, at eight thirty p.m., in the common room on the ground floor, the residents met, present in person or by proxy, to discuss the following agenda: single item, placement of a bench in the inner courtyard.",
+          "The chair is taken by the building manager, Ragionier Gualandi; Signora Bortolotti, flat 7, the only one in possession of a working pen, acts as secretary."
+        ],
+        [
+          "Signor Fabbri, flat 3, opens the discussion by observing that a bench would encourage sociability.",
+          "Signora Neri, flat 12, objects that it would above all encourage teenagers, pigeons and smokers, categories which in her view largely coincide.",
+          "Professor Lenzi, flat 9, asks for the floor on a point of order and, having obtained it, holds on to it for forty minutes, setting out the history of the bench as a civic institution from the Athenian agora to the Giardini Margherita.",
+          "At the end of his contribution two residents are found to be asleep and one, Signor Fabbri, has changed his mind."
+        ],
+        [
+          "At ten p.m. the discussion moves on to materials.",
+          "The wood party, considered warmer and more traditional, faces off against the metal party, judged more durable and, according to Ingegner Rossi, flat 5, “less prone to rot, both physical and moral”.",
+          "Signora Bortolotti asks for it to be placed on record that she has never seen a bench rot morally.",
+          "The request is granted.",
+          "At ten forty-five p.m. a compromise solution in recycled plastic is proposed, and rejected, having displeased everyone with commendable fairness."
+        ],
+        [
+          "Towards midnight the discussion grows more heated and, in the opinion of the undersigned, essentially metaphysical.",
+          "Questions are raised about the orientation of the bench (towards the main door, to see who comes in, or towards the wall, so as to see nobody), about its possible dedication to a deceased resident, and about the right of non-residents to sit on it, including the cat from flat 2, which throughout the meeting sleeps undisturbed on the chairman's seat.",
+          "Ragionier Gualandi, visibly worn out, proposes referring the decision to a select committee."
+        ],
+        [
+          "The proposal is approved unanimously at ten past one a.m., with the cat abstaining.",
+          "The committee, made up of three members, will meet on a date to be determined, presumably after the death of at least two of them.",
+          "There being no further business, the meeting is closed.",
+          "Read, approved and signed.",
+          "At the foot of the page, the secretary notes that in the meantime someone has carried a plastic chair into the courtyard, and that everyone, on their way home, sat on it for a moment."
+        ]
+      ],
+      "vocab": [
+        { "word": "Verbale", "gloss": "minutes (of a meeting)" },
+        { "word": "per delega", "gloss": "by proxy" },
+        { "word": "funge da", "gloss": "acts as" },
+        { "word": "mozione d'ordine", "gloss": "point of order" },
+        { "word": "Si fronteggiano", "gloss": "face off against each other" },
+        { "word": "marciume", "gloss": "rot" },
+        { "word": "resti agli atti", "gloss": "be placed on record" },
+        { "word": "equità", "gloss": "fairness" },
+        { "word": "la scrivente", "gloss": "the undersigned (female writer of a document)" },
+        { "word": "ivi compreso", "gloss": "including (formal)" },
+        { "word": "provato", "gloss": "worn out, strained" },
+        { "word": "all'unanimità", "gloss": "unanimously" },
+        { "word": "a data da destinarsi", "gloss": "on a date to be determined" },
+        { "word": "In calce", "gloss": "at the foot of the page" }
+      ]
+    },
+    {
+      "id": "it-c2-14",
+      "title": "Cara Giulietta",
+      "subtitle": "Dear Juliet",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Da undici anni, ogni giovedì pomeriggio, Lucia Zanetti saliva le scale di un ufficio nel centro di Verona e si sedeva a rispondere alle lettere indirizzate a Giulietta. Arrivavano da ogni parte del mondo, in decine di lingue diverse, scritte su carta da lettere profumata, su fogli strappati da quaderni di scuola, sul retro di carte d'imbarco: ragazze di Osaka tradite da un compagno di classe, vedovi di Buenos Aires che non sapevano come ricominciare, adolescenti di Lione convinti, con la ferocia della loro età, che nessuno avesse mai amato come loro.",
+        "Lucia rispondeva a tutti con una prosa misurata e affettuosa, attenta a non promettere ciò che non poteva mantenere. Aveva imparato che chi scrive a un personaggio di finzione non cerca consigli, ma un testimone; che la gente ha bisogno, più che di essere capita, di sentirsi raccontata. La sua stessa vita sentimentale, a dire il vero, era stata parca di parole. Franco, il marito, era un uomo buono e taciturno, ex ferroviere, che in trentacinque anni di matrimonio le aveva detto «ti voglio bene» forse quattro volte, sempre in ospedale.",
+        "Quel giovedì di marzo, nel mucchio, c'era una busta senza mittente, con il timbro di Verona. Dentro, una lettera breve, in italiano, scritta in stampatello con una cura un po' goffa. «Cara Giulietta, sono sposato da trentacinque anni con una donna che amo più di quando l'ho conosciuta. Il problema è che non gliel'ho mai saputo dire. Lei passa le giornate a rispondere alle parole degli altri, e io non ne ho nessuna. Come si fa, alla mia età, a cominciare?» Lucia rilesse la lettera due volte. Poi riconobbe la G di Giulietta, chiusa in fondo da un ricciolo inconfondibile, la stessa con cui Franco scriveva da trent'anni la lista della spesa.",
+        "Rimase a lungo immobile, con il foglio in mano, mentre intorno a lei le altre volontarie battevano sulla tastiera risposte in giapponese e in portoghese. Poi prese la carta intestata del club e scrisse, con la sua calligrafia migliore: «Caro signore, le parole non servono a cominciare, ma a riconoscere ciò che è già cominciato. Le basterà dirne una sola. Sua moglie, ne sono certa, saprà tradurre il resto. Con affetto, Giulietta.» Mise la lettera in una busta, scrisse l'indirizzo di casa sua e la imbucò uscendo.",
+        "Due giorni dopo, la sera in cui il postino consegnò la busta, Franco apparecchiò la tavola con la tovaglia buona, quella del matrimonio, e cucinò il risotto all'Amarone, l'unico piatto che sapesse fare. Mangiarono in silenzio, come sempre. Al momento del caffè lui si schiarì la voce, la guardò e disse una parola sola, che non era «ti amo» e non era nemmeno una parola d'amore. Disse: «Grazie.» Lucia, che traduceva da undici anni, capì perfettamente."
+      ],
+      "english": [
+        [
+          "For eleven years, every Thursday afternoon, Lucia Zanetti had climbed the stairs to an office in the centre of Verona and sat down to answer the letters addressed to Juliet.",
+          "They came from every part of the world, in dozens of languages, written on scented notepaper, on sheets torn from school exercise books, on the backs of boarding passes: girls in Osaka betrayed by a classmate, widowers in Buenos Aires who didn't know how to start again, teenagers in Lyon convinced, with the ferocity of their age, that nobody had ever loved as they did."
+        ],
+        [
+          "Lucia answered them all in measured, affectionate prose, careful not to promise what she couldn't deliver.",
+          "She had learned that people who write to a fictional character aren't looking for advice, but for a witness; that people need, more than to be understood, to feel themselves told.",
+          "Her own love life, to tell the truth, had been sparing with words.",
+          "Franco, her husband, was a good and taciturn man, a retired railwayman, who in thirty-five years of marriage had told her “I love you” perhaps four times, always in hospital."
+        ],
+        [
+          "That Thursday in March, in the pile, there was an envelope with no sender, postmarked Verona.",
+          "Inside was a short letter, in Italian, written in capital letters with a somewhat clumsy care.",
+          "“Dear Juliet, I have been married for thirty-five years to a woman I love more than when I met her. The problem is that I have never been able to tell her. She spends her days answering other people's words, and I don't have any. How does one begin, at my age?”",
+          "Lucia read the letter twice.",
+          "Then she recognised the G of Giulietta, closed at the bottom with an unmistakable curl, the same one with which Franco had been writing the shopping list for thirty years."
+        ],
+        [
+          "She sat motionless for a long time, the sheet in her hand, while around her the other volunteers typed replies in Japanese and Portuguese.",
+          "Then she took the club's headed paper and wrote, in her best handwriting: “Dear sir, words are not for beginning, but for recognising what has already begun. Just one will be enough. Your wife, I am sure, will be able to translate the rest. With affection, Juliet.”",
+          "She put the letter in an envelope, wrote her own home address on it and posted it on her way out."
+        ],
+        [
+          "Two days later, on the evening the postman delivered the envelope, Franco laid the table with the good tablecloth, the one from their wedding, and cooked risotto with Amarone, the only dish he knew how to make.",
+          "They ate in silence, as always.",
+          "When it was time for coffee he cleared his throat, looked at her and said a single word, which wasn't “I love you” and wasn't even a word of love.",
+          "He said: “Thank you.”",
+          "Lucia, who had been translating for eleven years, understood perfectly."
+        ]
+      ],
+      "vocab": [
+        { "word": "carta da lettere", "gloss": "notepaper" },
+        { "word": "carte d'imbarco", "gloss": "boarding passes" },
+        { "word": "ferocia", "gloss": "ferocity" },
+        { "word": "misurata", "gloss": "measured" },
+        { "word": "testimone", "gloss": "witness" },
+        { "word": "parca", "gloss": "sparing, frugal" },
+        { "word": "taciturno", "gloss": "taciturn" },
+        { "word": "mittente", "gloss": "sender" },
+        { "word": "stampatello", "gloss": "block capitals" },
+        { "word": "goffa", "gloss": "clumsy" },
+        { "word": "ricciolo", "gloss": "curl, flourish" },
+        { "word": "imbucò", "gloss": "posted" },
+        { "word": "apparecchiò", "gloss": "laid (the table)" },
+        { "word": "si schiarì la voce", "gloss": "cleared his throat" }
+      ]
+    },
+    {
+      "id": "it-c2-15",
+      "title": "Il paese che non c'è",
+      "subtitle": "The village that isn't there",
+      "topic": "Mystery",
+      "symbol": "map.fill",
+      "paragraphs": [
+        "I cartografi, si sa, sono persone serie, ma anche loro hanno i loro scherzi. Uno dei più antichi consiste nell'inserire nelle proprie carte un luogo che non esiste: una strada senza uscita, un ruscello immaginario, un minuscolo paese di montagna. Non è vanità, ma prudenza. Se quel luogo inventato compare, qualche anno dopo, nella mappa di un concorrente, la copiatura è dimostrata senza bisogno di avvocati: nessuno può aver misurato ciò che non c'è.",
+        "Di uno di questi paesi fantasma avevo sentito parlare da un vecchio geometra di Pistoia, al bancone di un bar, con la solennità che si riserva ai segreti di Stato. Si chiamava Ca' Vergine, diceva, e lo aveva disegnato negli anni Cinquanta un giovane cartografo fiorentino, su una carta dell'Appennino tosco-emiliano, tra due tornanti di una provinciale e un bosco di castagni. Dieci case, una chiesetta, una fontana. Non era mai stato costruito niente, naturalmente; ma il nome, copiato e ricopiato da editori meno scrupolosi, era sopravvissuto per decenni sugli atlanti stradali, e da lì era migrato, con la docilità dei dati, nei navigatori satellitari.",
+        "Un sabato di ottobre decisi di andarci. Impostai il navigatore, che mi guidò con sicurezza per due ore di curve, oltre l'ultimo paese vero, fino a un bivio in mezzo ai castagni. «Siete arrivati a destinazione,» annunciò la voce sintetica, con un ottimismo che mi parve fuori luogo. Mi aspettavo un prato vuoto, forse un sentiero. Trovai invece un cartello di legno dipinto a mano, «Ca' Vergine, 870 metri», un furgoncino che vendeva caldarroste e una mezza dozzina di automobili con targhe di Bologna, di Milano, perfino di Monaco.",
+        "Il venditore di caldarroste, un uomo cordiale con un berretto da ciclista, mi spiegò la faccenda senza il minimo imbarazzo. Da qualche anno, da quando la storia del paese inesistente era circolata in rete, la gente arrivava fin lassù per vedere il nulla, e il nulla, ovviamente, deludeva. Così lui, che abitava a valle, aveva cominciato a salire nei fine settimana con le castagne. Poi un suo cugino aveva aggiunto un tavolino e una macchinetta del caffè. Adesso il Comune stava discutendo se dotare la località di un parcheggio e, già che c'era, di un nome ufficiale.",
+        "Ripartii al tramonto con un sacchetto di caldarroste sul sedile e un pensiero che non mi abbandonò per tutta la discesa. Avevamo sempre creduto che le mappe servissero a descrivere il mondo; e invece, a quanto pare, è il mondo ad affannarsi per somigliare alle mappe. Il cartografo fiorentino, che probabilmente è morto da tempo, non ha mai saputo di aver fondato un paese. Ma gli sarebbe piaciuto, credo, sapere che il suo scherzo ha messo radici, e che qualcuno, lassù, vende castagne a chi viene a cercare ciò che non c'è."
+      ],
+      "english": [
+        [
+          "Cartographers, as everyone knows, are serious people, but they too have their jokes.",
+          "One of the oldest consists of inserting into their maps a place that doesn't exist: a dead-end street, an imaginary stream, a tiny mountain village.",
+          "It isn't vanity, but prudence.",
+          "If that invented place turns up, a few years later, on a competitor's map, the copying is proven without any need for lawyers: nobody can have measured what isn't there."
+        ],
+        [
+          "I had heard about one of these phantom villages from an old surveyor from Pistoia, at the counter of a bar, with the solemnity reserved for state secrets.",
+          "It was called Ca' Vergine, he said, and a young Florentine cartographer had drawn it in the fifties, on a map of the Tuscan-Emilian Apennines, between two hairpin bends of a provincial road and a chestnut wood.",
+          "Ten houses, a little church, a fountain.",
+          "Nothing had ever been built, of course; but the name, copied and recopied by less scrupulous publishers, had survived for decades in road atlases, and from there it had migrated, with the docility of data, into satellite navigators."
+        ],
+        [
+          "One Saturday in October I decided to go there.",
+          "I set the satnav, which guided me confidently through two hours of bends, past the last real village, to a fork in the road among the chestnut trees.",
+          "“You have arrived at your destination,” the synthetic voice announced, with an optimism that struck me as out of place.",
+          "I was expecting an empty meadow, perhaps a path.",
+          "Instead I found a hand-painted wooden sign, “Ca' Vergine, 870 metres”, a little van selling roast chestnuts and half a dozen cars with number plates from Bologna, from Milan, even from Munich."
+        ],
+        [
+          "The chestnut seller, a friendly man in a cycling cap, explained the business to me without the slightest embarrassment.",
+          "For some years, ever since the story of the non-existent village had gone round online, people had been coming all the way up there to see nothing, and nothing, obviously, was a disappointment.",
+          "So he, who lived down in the valley, had started coming up at weekends with his chestnuts.",
+          "Then a cousin of his had added a little table and a coffee machine.",
+          "Now the council was discussing whether to give the place a car park and, while it was at it, an official name."
+        ],
+        [
+          "I left at sunset with a bag of roast chestnuts on the seat and a thought that stayed with me all the way down.",
+          "We had always believed that maps were there to describe the world; and yet, it seems, it is the world that strives to resemble the maps.",
+          "The Florentine cartographer, who has probably long since died, never knew he had founded a village.",
+          "But he would have liked, I think, to know that his joke has taken root, and that someone up there sells chestnuts to people who come looking for what isn't there."
+        ]
+      ],
+      "vocab": [
+        { "word": "cartografi", "gloss": "cartographers" },
+        { "word": "ruscello", "gloss": "stream" },
+        { "word": "concorrente", "gloss": "competitor" },
+        { "word": "geometra", "gloss": "surveyor" },
+        { "word": "solennità", "gloss": "solemnity" },
+        { "word": "tornanti", "gloss": "hairpin bends" },
+        { "word": "castagni", "gloss": "chestnut trees" },
+        { "word": "scrupolosi", "gloss": "scrupulous" },
+        { "word": "docilità", "gloss": "docility" },
+        { "word": "bivio", "gloss": "fork (in a road)" },
+        { "word": "caldarroste", "gloss": "roast chestnuts" },
+        { "word": "targhe", "gloss": "number plates" },
+        { "word": "affannarsi", "gloss": "to strive, to struggle" },
+        { "word": "ha messo radici", "gloss": "has taken root" }
+      ]
+    }
+  ]
+}

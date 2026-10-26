@@ -1,0 +1,818 @@
+{
+  "language": "it",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "it-c1-01",
+      "title": "L'ultimo guardiano",
+      "subtitle": "The last keeper",
+      "topic": "Work",
+      "symbol": "light.beacon.max.fill",
+      "paragraphs": [
+        "Per trentun anni Salvatore Pirina ha acceso la stessa luce. Ogni sera, prima del tramonto, saliva i centoventi gradini del faro di Capo Testa, all'estremità settentrionale della Sardegna, puliva le lenti con un panno di daino e controllava che il meccanismo girasse senza intoppi. Poi, nel 1998, è arrivata l'automazione: un sensore, un pannello solare e una telefonata da Roma che gli comunicava, con cortesia burocratica, che il suo posto era stato soppresso.",
+        "«Non me la sono presa con nessuno,» racconta oggi, seduto sul muretto davanti alla casa del guardiano, che ormai ospita un piccolo museo. «La luce funziona meglio adesso di quando c'ero io. Ma un faro non serve solo alle navi.» Secondo lui, il guardiano era anche una specie di sentinella: avvistava i naufraghi, avvertiva la capitaneria quando una barca a vela si avvicinava troppo agli scogli, e d'inverno, quando le strade erano interrotte, era l'unico a sapere se qualcuno in paese stava male. «Il sensore vede il buio,» dice. «Non vede le persone.»",
+        "La sua è una storia comune a tutta la penisola. Dei circa centocinquanta fari italiani, quasi nessuno è più presidiato da un essere umano, e molti, rimasti vuoti, hanno rischiato di cadere a pezzi. Negli ultimi anni lo Stato ha provato a correre ai ripari affidandoli in concessione a privati, che li trasformano in alberghi di charme o in centri di ricerca. Il risultato divide: c'è chi lo considera un modo intelligente di salvare un patrimonio, e chi teme che i fari diventino l'ennesimo sfondo per le foto di matrimonio.",
+        "Salvatore non ha un'opinione netta. Ogni tanto accompagna i turisti su per la scala e racconta le sue notti di tempesta, quando il vento faceva vibrare i vetri della lanterna e lui restava sveglio fino all'alba con la radio accesa. Molti lo ascoltano con il telefono in mano, pronti a filmare. Qualcuno, però, rimane in silenzio a guardare il mare. «Quelli li riconosco subito,» dice con un mezzo sorriso. «Sono quelli che avrebbero fatto il mio mestiere.»"
+      ],
+      "english": [
+        [
+          "For thirty-one years Salvatore Pirina lit the same light.",
+          "Every evening, before sunset, he climbed the hundred and twenty steps of the Capo Testa lighthouse, at the northern tip of Sardinia, cleaned the lenses with a chamois cloth and checked that the mechanism was turning without a hitch.",
+          "Then, in 1998, automation arrived: a sensor, a solar panel and a phone call from Rome informing him, with bureaucratic courtesy, that his post had been abolished."
+        ],
+        [
+          "“I didn't hold it against anyone,” he says today, sitting on the low wall in front of the keeper's house, which now holds a small museum.",
+          "“The light works better now than when I was there. But a lighthouse isn't only there for ships.”",
+          "In his view, the keeper was also a kind of sentry: he spotted shipwrecked sailors, alerted the harbour authorities when a sailing boat came too close to the rocks, and in winter, when the roads were cut off, he was the only one who knew if someone in the village was ill.",
+          "“The sensor sees the dark,” he says.",
+          "“It doesn't see people.”"
+        ],
+        [
+          "His story is common to the whole peninsula.",
+          "Of Italy's hundred and fifty or so lighthouses, hardly any are still manned by a human being, and many, left empty, have been in danger of falling to pieces.",
+          "In recent years the state has tried to remedy the situation by leasing them to private operators, who turn them into boutique hotels or research centres.",
+          "The result is divisive: some consider it a clever way of saving a heritage, while others fear that lighthouses will become yet another backdrop for wedding photos."
+        ],
+        [
+          "Salvatore doesn't have a firm opinion.",
+          "Every now and then he takes tourists up the stairs and tells them about his stormy nights, when the wind made the glass of the lantern rattle and he stayed awake until dawn with the radio on.",
+          "Many listen to him phone in hand, ready to film.",
+          "Some, however, stand in silence looking at the sea.",
+          "“I recognise those ones straight away,” he says with a half-smile.",
+          "“They're the ones who would have done my job.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "estremità settentrionale", "gloss": "northern tip" },
+        { "word": "panno di daino", "gloss": "chamois cloth" },
+        { "word": "senza intoppi", "gloss": "without a hitch" },
+        { "word": "soppresso", "gloss": "abolished" },
+        { "word": "Non me la sono presa", "gloss": "I didn't take it badly, I didn't hold it against (anyone)" },
+        { "word": "sentinella", "gloss": "sentry, lookout" },
+        { "word": "naufraghi", "gloss": "shipwrecked people" },
+        { "word": "capitaneria", "gloss": "harbour authority, coastguard" },
+        { "word": "scogli", "gloss": "rocks, reefs" },
+        { "word": "presidiato", "gloss": "manned, staffed" },
+        { "word": "correre ai ripari", "gloss": "to take remedial action" },
+        { "word": "in concessione", "gloss": "under lease, on concession" },
+        { "word": "l'ennesimo", "gloss": "yet another" }
+      ]
+    },
+    {
+      "id": "it-c1-02",
+      "title": "Elogio del portico",
+      "subtitle": "In praise of the portico",
+      "topic": "City",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Chi arriva a Bologna per la prima volta di solito alza gli occhi verso le torri. Chi ci vive, invece, li tiene ad altezza d'uomo, perché la vera architettura della città non svetta, ma accompagna: sono i portici, quasi quaranta chilometri di archi e colonne che dal 2021 fanno parte del patrimonio mondiale dell'Unesco. Si tende a lodarli per ragioni pratiche, e non a torto: ci si ripara dalla pioggia d'autunno e dal sole spietato di luglio, e si può camminare dal centro fino al santuario di San Luca senza mai aprire l'ombrello.",
+        "Eppure ridurre il portico a un ombrello di pietra significa non coglierne l'aspetto più interessante. Nel Medioevo i proprietari furono obbligati a costruirli sul suolo pubblico, ma a loro spese: lo spazio sopra la testa era privato, quello sotto i piedi di tutti. È un compromesso curioso, quasi un contratto sociale scolpito nel mattone, che ancora oggi determina il modo in cui i bolognesi abitano la città.",
+        "Sotto i portici, infatti, il confine tra interno ed esterno si fa incerto. Il bar allunga i suoi tavolini, l'artigiano espone la merce, lo studente fuori sede ripassa per l'esame appoggiato a una colonna, e il pensionato si ferma a commentare, non richiesto, le scelte di tutti. Non si è del tutto in casa né del tutto in strada: si è, per così dire, in una zona franca, dove è più facile incrociare lo sguardo di uno sconosciuto e magari scambiarci due parole.",
+        "Non voglio idealizzare: i portici sono anche luoghi di degrado, di biciclette abbandonate e di conflitti tra residenti e movida notturna. Ma proprio questo li rende preziosi. In un'epoca in cui lo spazio pubblico viene progettato sempre più per scorrere che per sostare, il portico ricorda che una città non è un insieme di percorsi, bensì di soste. E forse non è un caso che, quando do un appuntamento a un amico, io non nomini quasi mai una piazza, ma una colonna."
+      ],
+      "english": [
+        [
+          "People who come to Bologna for the first time usually raise their eyes to the towers.",
+          "Those who live there, on the other hand, keep them at eye level, because the city's real architecture doesn't soar, it accompanies: it's the porticoes, almost forty kilometres of arches and columns that have been a UNESCO World Heritage Site since 2021.",
+          "People tend to praise them for practical reasons, and not without cause: they shelter you from the autumn rain and the merciless July sun, and you can walk from the centre all the way to the sanctuary of San Luca without ever opening your umbrella."
+        ],
+        [
+          "And yet reducing the portico to a stone umbrella means missing its most interesting aspect.",
+          "In the Middle Ages owners were obliged to build them on public land, but at their own expense: the space above your head was private, the space beneath your feet belonged to everyone.",
+          "It's a curious compromise, almost a social contract carved in brick, which still shapes the way the people of Bologna inhabit their city today."
+        ],
+        [
+          "Under the porticoes, in fact, the boundary between inside and outside becomes blurred.",
+          "The bar spreads out its little tables, the craftsman displays his wares, the out-of-town student revises for an exam leaning against a column, and the pensioner stops to comment, unasked, on everyone's choices.",
+          "You're neither entirely indoors nor entirely in the street: you're in a sort of free zone, so to speak, where it's easier to catch a stranger's eye and perhaps exchange a few words."
+        ],
+        [
+          "I don't want to idealise them: the porticoes are also places of neglect, of abandoned bicycles and of conflict between residents and the late-night crowds.",
+          "But that is precisely what makes them precious.",
+          "In an age when public space is designed more and more for passing through than for lingering, the portico reminds us that a city isn't a set of routes, but of stopping places.",
+          "And perhaps it's no coincidence that, when I arrange to meet a friend, I hardly ever name a square, but a column."
+        ]
+      ],
+      "vocab": [
+        { "word": "svetta", "gloss": "soars, towers" },
+        { "word": "patrimonio mondiale", "gloss": "World Heritage" },
+        { "word": "non a torto", "gloss": "not without reason" },
+        { "word": "spietato", "gloss": "merciless" },
+        { "word": "coglierne", "gloss": "to grasp (of it)" },
+        { "word": "a loro spese", "gloss": "at their own expense" },
+        { "word": "scolpito", "gloss": "carved" },
+        { "word": "fuori sede", "gloss": "from out of town (of a student)" },
+        { "word": "non richiesto", "gloss": "unasked, uninvited" },
+        { "word": "zona franca", "gloss": "free zone, neutral ground" },
+        { "word": "degrado", "gloss": "neglect, decay" },
+        { "word": "sostare", "gloss": "to linger, to stop" },
+        { "word": "bensì", "gloss": "but rather" }
+      ]
+    },
+    {
+      "id": "it-c1-03",
+      "title": "La stanza 14",
+      "subtitle": "Room 14",
+      "topic": "Mystery",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Fabio lavorava da undici anni alla reception dell'Hotel Bellavista, sul lungolago di Lugano, e da undici anni, il 3 novembre, vedeva arrivare lo stesso cliente. Era un uomo alto, sulla settantina, con un cappotto color tabacco e un accento difficile da collocare, forse triestino, forse dalmata. Prenotava sempre la stanza 14, quella con il balcone sul lago, e pagava in contanti. Il suo nome, sul registro, era Andrea Valli, ma Fabio aveva il sospetto che fosse inventato.",
+        "Il rituale non cambiava mai. La sera, l'uomo scendeva al bar e ordinava due caffè, uno per sé e uno che metteva davanti alla sedia vuota di fronte. Restava seduto per un'ora, guardando la porta, poi pagava entrambi e saliva in camera senza aver toccato il secondo. La mattina dopo ripartiva prima di colazione. I colleghi più giovani ci ricamavano sopra ogni genere di ipotesi, dalla spia in pensione al vedovo inconsolabile. Fabio, per discrezione o per pigrizia, si era sempre guardato bene dal fare domande.",
+        "Quell'anno, il 3 novembre, l'uomo non si è presentato. Il giorno prima, invece, era arrivata per posta una busta indirizzata alla reception, con dentro una seconda busta, chiusa, e un biglietto scritto a mano: «Se una signora chiederà della stanza 14, la prego di consegnarle questa. Se non verrà nessuno, la bruci pure.» Fabio ha messo la busta nel cassetto e ha passato la serata a guardare la porta del bar, come se il compito di aspettare fosse ormai passato a lui.",
+        "Verso le undici è entrata una donna minuta, con i capelli bianchissimi raccolti in una crocchia e una valigia troppo grande per lei. Si è avvicinata al banco e ha chiesto, con lo stesso accento indecifrabile, se la stanza 14 fosse libera. Fabio le ha teso la busta. Lei l'ha guardata a lungo senza aprirla, poi ha sorriso in un modo che lui non avrebbe dimenticato facilmente. «Sono arrivata con vent'anni di ritardo,» ha detto. «Mi faccia almeno portare due caffè.»"
+      ],
+      "english": [
+        [
+          "Fabio had been working on the reception desk of the Hotel Bellavista, on the lakefront in Lugano, for eleven years, and for eleven years, on 3 November, he had seen the same guest arrive.",
+          "He was a tall man, around seventy, in a tobacco-coloured coat and with an accent that was hard to place, Triestine perhaps, perhaps Dalmatian.",
+          "He always booked room 14, the one with the balcony over the lake, and paid in cash.",
+          "His name in the register was Andrea Valli, but Fabio suspected it was made up."
+        ],
+        [
+          "The ritual never changed.",
+          "In the evening the man came down to the bar and ordered two coffees, one for himself and one that he placed in front of the empty chair opposite.",
+          "He sat there for an hour, watching the door, then paid for both and went up to his room without having touched the second.",
+          "The next morning he left before breakfast.",
+          "The younger staff spun every kind of theory around it, from the retired spy to the inconsolable widower.",
+          "Fabio, out of discretion or out of laziness, had always taken good care not to ask questions."
+        ],
+        [
+          "That year, on 3 November, the man didn't turn up.",
+          "The day before, however, an envelope addressed to the reception desk had arrived in the post, containing a second, sealed envelope and a handwritten note: “If a lady asks about room 14, please give her this. If nobody comes, feel free to burn it.”",
+          "Fabio put the envelope in the drawer and spent the evening watching the door of the bar, as if the task of waiting had now passed to him."
+        ],
+        [
+          "Around eleven a slight woman came in, her snow-white hair gathered in a bun, carrying a suitcase too big for her.",
+          "She came up to the desk and asked, in the same indecipherable accent, whether room 14 was free.",
+          "Fabio held out the envelope to her.",
+          "She looked at it for a long time without opening it, then smiled in a way he would not easily forget.",
+          "“I'm twenty years late,” she said.",
+          "“At least let me have two coffees brought up.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "lungolago", "gloss": "lakefront" },
+        { "word": "sulla settantina", "gloss": "around seventy" },
+        { "word": "collocare", "gloss": "to place" },
+        { "word": "in contanti", "gloss": "in cash" },
+        { "word": "registro", "gloss": "register" },
+        { "word": "ci ricamavano sopra", "gloss": "embroidered on it, spun stories around it" },
+        { "word": "inconsolabile", "gloss": "inconsolable" },
+        { "word": "si era sempre guardato bene", "gloss": "had always taken good care (not to)" },
+        { "word": "si è presentato", "gloss": "turned up" },
+        { "word": "consegnarle", "gloss": "to hand (it) to her" },
+        { "word": "minuta", "gloss": "slight, petite" },
+        { "word": "crocchia", "gloss": "bun (of hair)" },
+        { "word": "indecifrabile", "gloss": "indecipherable" }
+      ]
+    },
+    {
+      "id": "it-c1-04",
+      "title": "La terra che respira",
+      "subtitle": "The breathing ground",
+      "topic": "Science",
+      "symbol": "flame.fill",
+      "paragraphs": [
+        "A Pozzuoli la terra respira. Non è una metafora da guida turistica, ma una descrizione abbastanza precisa di quello che i geologi chiamano bradisismo: il lento sollevarsi e abbassarsi del suolo, dovuto ai movimenti di fluidi e di magma nelle profondità dei Campi Flegrei. Dal 2005 il porto si è alzato di oltre un metro, e le banchine dove una volta attraccavano i pescherecci oggi restano all'asciutto, come se il mare si fosse ritirato per pudore.",
+        "Chiara Esposito, sismologa all'Osservatorio Vesuviano, passa le sue giornate davanti a schermi che registrano migliaia di microscosse, la stragrande maggioranza delle quali non viene avvertita da nessuno. «Il nostro lavoro non è prevedere il futuro, che è impossibile,» spiega, «ma capire in tempo se il sistema sta cambiando comportamento.» Le chiedo se abbia paura. Ci pensa un attimo, poi risponde che la paura, in un mestiere come il suo, è un lusso: «Serve attenzione, non panico.»",
+        "Per gli abitanti, il discorso è più complicato. Molti sono nati qui, come i loro genitori e i loro nonni, e hanno già vissuto l'evacuazione del Rione Terra nel 1970 o la grande crisi dei primi anni Ottanta. Hanno imparato a convivere con le scosse, a riconoscerne il rumore sordo, a contare i secondi sotto lo stipite di una porta. «Andarsene?» mi dice un pescatore al mercato del pesce. «E dove? Qui c'è il mio mare, c'è la mia barca, ci sono i miei morti. Il vulcano lo conosco da quando sono nato.»",
+        "È proprio questa familiarità che preoccupa gli esperti. Il piano di evacuazione esiste, ed è tra i più dettagliati d'Europa, ma funziona solo se la gente si fida delle istituzioni e accetta di lasciare casa senza sapere quando potrà tornarci. Chiara lo sa bene. Per questo, oltre a guardare i sismografi, dedica le sue domeniche a parlare nelle scuole, dove i bambini le fanno le domande che gli adulti non osano fare. «Sono loro i miei migliori alleati,» dice. «Quando arriverà il momento, saranno loro a convincere i nonni.»"
+      ],
+      "english": [
+        [
+          "In Pozzuoli the ground breathes.",
+          "It isn't a guidebook metaphor, but a fairly accurate description of what geologists call bradyseism: the slow rising and sinking of the ground, caused by the movement of fluids and magma deep beneath the Campi Flegrei.",
+          "Since 2005 the harbour has risen by more than a metre, and the quays where fishing boats once moored are now left high and dry, as if the sea had withdrawn out of modesty."
+        ],
+        [
+          "Chiara Esposito, a seismologist at the Vesuvius Observatory, spends her days in front of screens that record thousands of micro-tremors, the vast majority of which nobody feels.",
+          "“Our job isn't to predict the future, which is impossible,” she explains, “but to understand in time whether the system is changing its behaviour.”",
+          "I ask her whether she's afraid.",
+          "She thinks for a moment, then replies that in a job like hers fear is a luxury: “What you need is attention, not panic.”"
+        ],
+        [
+          "For the inhabitants, things are more complicated.",
+          "Many were born here, like their parents and grandparents, and have already lived through the evacuation of the Rione Terra in 1970 or the great crisis of the early eighties.",
+          "They have learned to live with the tremors, to recognise their dull rumble, to count the seconds standing under a doorframe.",
+          "“Leave?” a fisherman says to me at the fish market.",
+          "“And go where? My sea is here, my boat is here, my dead are here. I've known the volcano since the day I was born.”"
+        ],
+        [
+          "It is precisely this familiarity that worries the experts.",
+          "The evacuation plan exists, and is among the most detailed in Europe, but it only works if people trust the institutions and agree to leave home without knowing when they'll be able to return.",
+          "Chiara knows this well.",
+          "That's why, as well as watching the seismographs, she spends her Sundays talking in schools, where children ask her the questions adults don't dare to ask.",
+          "“They're my best allies,” she says.",
+          "“When the moment comes, they'll be the ones who convince their grandparents.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "bradisismo", "gloss": "bradyseism (slow rise and fall of the ground)" },
+        { "word": "sollevarsi", "gloss": "rising" },
+        { "word": "banchine", "gloss": "quays" },
+        { "word": "attraccavano", "gloss": "moored, docked" },
+        { "word": "pescherecci", "gloss": "fishing boats" },
+        { "word": "all'asciutto", "gloss": "high and dry" },
+        { "word": "per pudore", "gloss": "out of modesty" },
+        { "word": "microscosse", "gloss": "micro-tremors" },
+        { "word": "la stragrande maggioranza", "gloss": "the vast majority" },
+        { "word": "avvertita", "gloss": "felt, perceived" },
+        { "word": "rumore sordo", "gloss": "dull rumble" },
+        { "word": "stipite", "gloss": "doorframe, doorpost" },
+        { "word": "non osano", "gloss": "don't dare" }
+      ]
+    },
+    {
+      "id": "it-c1-05",
+      "title": "La valigia e il trolley",
+      "subtitle": "The suitcase and the wheelie bag",
+      "topic": "Society",
+      "symbol": "suitcase.fill",
+      "paragraphs": [
+        "Nell'immaginario collettivo, l'emigrazione italiana ha la forma di una valigia di cartone legata con lo spago. È l'oggetto che compare nelle fotografie in bianco e nero dei porti di Genova e di Napoli, nei musei dedicati ai milioni di italiani partiti per l'America, per l'Australia, per le miniere del Belgio. È un simbolo potente, ma rischia di farci credere che quella storia sia finita, archiviata con il boom economico e con l'idea, un po' consolatoria, che oggi siamo noi il paese dove gli altri arrivano.",
+        "I numeri raccontano un'altra cosa. Negli ultimi quindici anni centinaia di migliaia di italiani, in gran parte giovani e laureati, hanno lasciato il paese per Londra, Berlino, Zurigo, Barcellona. Al posto della valigia di cartone c'è un trolley con le rotelle, al posto della nave un volo low cost prenotato con lo smartphone. Le lettere sono diventate videochiamate, e il ritorno, almeno in teoria, è sempre a portata di mano.",
+        "Sarebbe sbagliato, però, considerare le due emigrazioni come la stessa cosa con oggetti diversi. Chi partiva negli anni Cinquanta lo faceva spesso per fame, senza sapere la lingua e con pochissime possibilità di scelta. Chi parte oggi, nella maggior parte dei casi, ha studiato, sceglie la città, a volte persino il quartiere. Eppure, quando si parla con loro, emerge una somiglianza inattesa: la sensazione che l'Italia non abbia saputo o voluto trattenerli, e che la partenza, più che un'avventura, sia stata una resa.",
+        "C'è poi una differenza che le statistiche faticano a misurare. I nostri bisnonni mandavano a casa le rimesse, e con quei soldi si costruivano case, si pagavano matrimoni, si comprava la terra. I nuovi emigrati mandano a casa soprattutto fotografie. Il paese che li ha formati investe su di loro per vent'anni e poi, al momento di raccogliere, li vede contribuire altrove. Finché non avremo il coraggio di chiederci perché il trolley riparte così facilmente, continueremo a commuoverci davanti alle valigie di cartone senza capire che la storia non è affatto finita."
+      ],
+      "english": [
+        [
+          "In the collective imagination, Italian emigration has the shape of a cardboard suitcase tied up with string.",
+          "It's the object that appears in the black-and-white photographs of the ports of Genoa and Naples, in the museums devoted to the millions of Italians who left for America, for Australia, for the mines of Belgium.",
+          "It's a powerful symbol, but it risks making us believe that this story is over, filed away with the economic boom and with the rather comforting idea that today we are the country where others arrive."
+        ],
+        [
+          "The numbers tell a different story.",
+          "Over the last fifteen years hundreds of thousands of Italians, mostly young graduates, have left the country for London, Berlin, Zurich, Barcelona.",
+          "Instead of the cardboard suitcase there's a wheelie bag, instead of the ship a low-cost flight booked on a smartphone.",
+          "Letters have become video calls, and coming home, at least in theory, is always within reach."
+        ],
+        [
+          "It would be wrong, however, to consider the two emigrations as the same thing with different objects.",
+          "Those who left in the fifties often did so out of hunger, without knowing the language and with very little choice.",
+          "Those who leave today have, in most cases, studied, and choose the city, sometimes even the neighbourhood.",
+          "And yet, when you talk to them, an unexpected similarity emerges: the feeling that Italy was unable or unwilling to keep them, and that leaving was less an adventure than a surrender."
+        ],
+        [
+          "Then there's a difference that statistics struggle to measure.",
+          "Our great-grandparents sent remittances home, and with that money houses were built, weddings paid for, land bought.",
+          "The new emigrants mostly send home photographs.",
+          "The country that trained them invests in them for twenty years and then, when it's time to reap the rewards, watches them contribute elsewhere.",
+          "Until we have the courage to ask ourselves why the wheelie bag leaves again so easily, we will go on being moved by cardboard suitcases without realising that the story is far from over."
+        ]
+      ],
+      "vocab": [
+        { "word": "immaginario collettivo", "gloss": "collective imagination" },
+        { "word": "spago", "gloss": "string" },
+        { "word": "miniere", "gloss": "mines" },
+        { "word": "archiviata", "gloss": "filed away" },
+        { "word": "consolatoria", "gloss": "comforting, consoling" },
+        { "word": "laureati", "gloss": "graduates" },
+        { "word": "rotelle", "gloss": "little wheels" },
+        { "word": "a portata di mano", "gloss": "within reach" },
+        { "word": "trattenerli", "gloss": "to keep them, to hold on to them" },
+        { "word": "resa", "gloss": "surrender" },
+        { "word": "faticano", "gloss": "struggle" },
+        { "word": "bisnonni", "gloss": "great-grandparents" },
+        { "word": "rimesse", "gloss": "remittances" }
+      ]
+    },
+    {
+      "id": "it-c1-06",
+      "title": "La vigilia",
+      "subtitle": "Christmas Eve",
+      "topic": "Family",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "Da cinquantadue anni la vigilia di Natale, a casa di nonna Concetta, seguiva un copione immutabile. Si cominciava alle otto con gli spaghetti alle vongole, si proseguiva con il capitone fritto, che nessuno sotto i quarant'anni aveva il coraggio di assaggiare, e si finiva verso mezzanotte con gli struffoli e una discussione politica che puntualmente degenerava. La casa era al Vomero, all'ultimo piano, e dal terrazzo si vedeva il golfo illuminato fino a Sorrento.",
+        "Quell'anno, tra il fritto e il dolce, la nonna ha battuto la forchetta sul bicchiere. «Ho un annuncio da fare,» ha detto, con il tono che usava per comunicare i decessi del palazzo. «Ho venduto la casa. A gennaio mi trasferisco in un monolocale a Posillipo, e con quello che avanza mi faccio il giro del mondo in nave. Parto il 15 febbraio da Genova.» Per qualche secondo si è sentito solo lo sfrigolio dell'olio in cucina.",
+        "Poi è scoppiato il finimondo. Zio Gennaro ha parlato di circonvenzione di incapace, sua figlia ha chiesto chi l'avesse convinta, i nipoti hanno cominciato a cercare su internet i prezzi delle crociere. La nonna ha lasciato che si sfogassero, ha servito gli struffoli e ha aspettato che tornasse il silenzio. «Ho passato la vita a cucinare per voi,» ha detto alla fine. «Mi è piaciuto, non fraintendetemi. Ma adesso tocca a voi. Le ricette sono tutte nel quaderno blu, e il capitone va comprato vivo, altrimenti non vale.»",
+        "La vigilia successiva si è svolta in un appartamento troppo piccolo, con gli spaghetti scotti, il capitone surgelato e una discussione politica più accesa del solito, perché nessuno sapeva più a chi spettasse l'ultima parola. Verso mezzanotte è arrivato un messaggio, con una foto: la nonna, abbronzata e con un cappello di paglia, davanti a un porto che qualcuno ha riconosciuto come Valparaíso. Sotto c'era scritto soltanto: «Il capitone l'avete preso vivo, sì?» Nessuno ha avuto il coraggio di rispondere."
+      ],
+      "english": [
+        [
+          "For fifty-two years Christmas Eve at Grandma Concetta's had followed an unchanging script.",
+          "It began at eight with spaghetti with clams, went on with fried eel, which nobody under forty had the courage to taste, and ended around midnight with struffoli and a political argument that invariably got out of hand.",
+          "The flat was in the Vomero, on the top floor, and from the terrace you could see the bay lit up all the way to Sorrento."
+        ],
+        [
+          "That year, between the fried course and dessert, Grandma tapped her fork against her glass.",
+          "“I have an announcement to make,” she said, in the tone she used to report deaths in the building.",
+          "“I've sold the flat. In January I'm moving to a studio in Posillipo, and with what's left over I'm going round the world by ship. I leave from Genoa on 15 February.”",
+          "For a few seconds the only sound was the sizzling of oil in the kitchen."
+        ],
+        [
+          "Then all hell broke loose.",
+          "Uncle Gennaro talked about undue influence, his daughter asked who had talked her into it, the grandchildren started looking up cruise prices online.",
+          "Grandma let them get it out of their systems, served the struffoli and waited for silence to return.",
+          "“I've spent my life cooking for you,” she said at last.",
+          "“I enjoyed it, don't get me wrong. But now it's your turn. The recipes are all in the blue notebook, and the eel has to be bought alive, otherwise it doesn't count.”"
+        ],
+        [
+          "The following Christmas Eve took place in a flat that was too small, with overcooked spaghetti, frozen eel and a political argument more heated than usual, because nobody knew any more who was entitled to the last word.",
+          "Around midnight a message arrived, with a photo: Grandma, tanned and wearing a straw hat, in front of a harbour that someone recognised as Valparaíso.",
+          "Underneath, all it said was: “You did buy the eel alive, didn't you?”",
+          "Nobody had the courage to reply."
+        ]
+      ],
+      "vocab": [
+        { "word": "copione immutabile", "gloss": "unchanging script" },
+        { "word": "capitone", "gloss": "large eel (eaten on Christmas Eve in Naples)" },
+        { "word": "puntualmente", "gloss": "invariably, without fail" },
+        { "word": "degenerava", "gloss": "got out of hand" },
+        { "word": "decessi", "gloss": "deaths" },
+        { "word": "sfrigolio", "gloss": "sizzling" },
+        { "word": "è scoppiato il finimondo", "gloss": "all hell broke loose" },
+        { "word": "circonvenzione di incapace", "gloss": "undue influence over a vulnerable person (legal term)" },
+        { "word": "si sfogassero", "gloss": "let off steam" },
+        { "word": "non fraintendetemi", "gloss": "don't get me wrong" },
+        { "word": "scotti", "gloss": "overcooked (of pasta)" },
+        { "word": "spettasse", "gloss": "was due to, was entitled to" },
+        { "word": "abbronzata", "gloss": "tanned" }
+      ]
+    },
+    {
+      "id": "it-c1-07",
+      "title": "Se il congiuntivo morisse",
+      "subtitle": "If the subjunctive were to die",
+      "topic": "Language",
+      "symbol": "text.book.closed.fill",
+      "paragraphs": [
+        "Ogni tanto, sui giornali o sui social, qualcuno ne annuncia la morte. Il congiuntivo, ci dicono, sarebbe ormai agonizzante, ucciso dalla fretta, dai messaggi vocali e da una generazione che scrive «se lo sapevo venivo» senza provare il minimo imbarazzo. Puntuali arrivano le lettere indignate, i sondaggi, le magliette con la scritta «Salviamo il congiuntivo», come se si trattasse di una specie in via d'estinzione da proteggere in un'oasi naturalistica.",
+        "Chi studia davvero la lingua, però, tende a essere più prudente. Che l'italiano parlato abbia sempre preferito l'indicativo in molte frasi dipendenti non è una novità: lo si trova già nelle lettere dei mercanti del Trecento e in molte commedie del Settecento. «Credo che è giusto» suona male a molte orecchie, ma «se lo sapevo, venivo» è una costruzione antica, che ha convissuto per secoli con la sua sorella più elegante. Quello che è cambiato non è tanto l'uso, quanto il numero di persone che scrivono in pubblico, e quindi la visibilità dei loro errori, veri o presunti.",
+        "Ciò non significa che il congiuntivo non serva. Al contrario: è uno strumento raffinato, che permette di distinguere tra ciò che si afferma e ciò che si ipotizza, si desidera, si teme. «Penso che sia partito» e «so che è partito» non dicono la stessa cosa, e la differenza non è un capriccio dei grammatici, ma una sfumatura di pensiero. Rinunciarvi del tutto significherebbe impoverire la lingua, un po' come un pittore che decidesse di fare a meno delle mezze tinte.",
+        "Il problema, semmai, è il tono della discussione. Usare il congiuntivo come un distintivo di classe, per sentirsi superiori a chi lo sbaglia, è il modo migliore per renderlo antipatico. Le lingue non si salvano con le prediche, ma con l'uso, la lettura, il piacere. Personalmente, non credo che il congiuntivo stia morendo. Ma, se anche fosse, preferirei che se ne andasse in pace, circondato da chi lo ama, piuttosto che sorvegliato da chi lo usa per bacchettare gli altri."
+      ],
+      "english": [
+        [
+          "Every so often, in the newspapers or on social media, someone announces its death.",
+          "The subjunctive, we're told, is now on its deathbed, killed off by haste, by voice messages and by a generation that writes “if I knew I came” without the slightest embarrassment.",
+          "Right on cue come the indignant letters, the polls, the T-shirts saying “Save the subjunctive”, as if it were an endangered species to be protected in a nature reserve."
+        ],
+        [
+          "Those who actually study the language, however, tend to be more cautious.",
+          "That spoken Italian has always preferred the indicative in many subordinate clauses is nothing new: you already find it in the letters of fourteenth-century merchants and in many eighteenth-century comedies.",
+          "“I think that it is right” grates on many ears, but “if I knew, I came” is an old construction, which has lived alongside its more elegant sister for centuries.",
+          "What has changed is not so much usage as the number of people who write in public, and therefore the visibility of their mistakes, real or supposed."
+        ],
+        [
+          "That doesn't mean the subjunctive serves no purpose.",
+          "On the contrary: it's a refined tool, which lets us distinguish between what we assert and what we suppose, wish or fear.",
+          "“I think he has left” and “I know he has left” don't say the same thing, and the difference isn't a grammarians' whim, but a nuance of thought.",
+          "Giving it up altogether would mean impoverishing the language, rather like a painter who decided to do without half-tones."
+        ],
+        [
+          "If anything, the problem is the tone of the debate.",
+          "Using the subjunctive as a badge of class, to feel superior to those who get it wrong, is the best way to make it disliked.",
+          "Languages aren't saved by sermons, but by use, by reading, by pleasure.",
+          "Personally, I don't believe the subjunctive is dying.",
+          "But even if it were, I'd rather it passed away in peace, surrounded by those who love it, than under the watch of those who use it to rap others over the knuckles."
+        ]
+      ],
+      "vocab": [
+        { "word": "agonizzante", "gloss": "dying, on its deathbed" },
+        { "word": "imbarazzo", "gloss": "embarrassment" },
+        { "word": "Puntuali", "gloss": "right on cue" },
+        { "word": "via d'estinzione", "gloss": "endangered (lit. on the way to extinction)" },
+        { "word": "prudente", "gloss": "cautious" },
+        { "word": "frasi dipendenti", "gloss": "subordinate clauses" },
+        { "word": "presunti", "gloss": "supposed, alleged" },
+        { "word": "raffinato", "gloss": "refined" },
+        { "word": "capriccio", "gloss": "whim" },
+        { "word": "sfumatura", "gloss": "nuance" },
+        { "word": "mezze tinte", "gloss": "half-tones" },
+        { "word": "prediche", "gloss": "sermons, lectures" },
+        { "word": "bacchettare", "gloss": "to rap over the knuckles, to scold" }
+      ]
+    },
+    {
+      "id": "it-c1-08",
+      "title": "La guerra della carbonara",
+      "subtitle": "The carbonara war",
+      "topic": "Cooking",
+      "symbol": "frying.pan.fill",
+      "paragraphs": [
+        "Esistono pochi argomenti capaci di dividere gli italiani come la carbonara. Si può discutere di politica a tavola con una certa serenità, ma basta che qualcuno confessi di metterci la panna perché la conversazione assuma i toni di un processo per eresia. Guanciale o pancetta, uova intere o solo tuorli, pecorino o un tocco di parmigiano: ogni scelta viene vissuta come una dichiarazione d'identità, e ogni deviazione come un tradimento della patria.",
+        "Il paradosso è che la carbonara, con ogni probabilità, è un piatto giovanissimo. Non se ne trova traccia nei ricettari prima della seconda guerra mondiale, e una delle teorie più accreditate la collega all'arrivo dei soldati americani a Roma, con le loro razioni di uova in polvere e di bacon. Le prime ricette pubblicate, negli anni Cinquanta, prevedevano tranquillamente la pancetta, a volte perfino l'aglio o un goccio di vino bianco. La versione «canonica», quella che oggi si difende con tanto zelo, si è fissata molto più tardi.",
+        "Non lo dico per sminuire la tradizione, ma per capirla meglio. Una ricetta non è un monumento, è un organismo vivo, che nasce da un incontro, si adatta a quello che c'è in dispensa e cambia con chi la cucina. Le nonne che oggi vengono citate come autorità supreme cucinavano con quello che avevano, e se un giorno mancava il guanciale non si stracciavano le vesti: usavano la pancetta e mettevano in tavola lo stesso.",
+        "Questo non significa che tutto sia lecito. Una carbonara con la panna e i funghi non sarà mai una carbonara, e non c'è nulla di male a dirlo. Ma forse potremmo difendere le nostre ricette con un po' più di ironia e un po' meno di furore, ricordandoci che la cucina italiana è diventata grande proprio perché ha saputo mescolare, rubare, improvvisare. In fondo, il gesto più autenticamente tradizionale che si possa compiere in cucina è adattare una ricetta a ciò che si ha, e poi giurare che si è sempre fatta così."
+      ],
+      "english": [
+        [
+          "There are few subjects that can divide Italians like carbonara.",
+          "You can discuss politics at the table with a degree of calm, but all it takes is for someone to confess to adding cream and the conversation takes on the tone of a heresy trial.",
+          "Guanciale or pancetta, whole eggs or just yolks, pecorino or a touch of parmesan: every choice is experienced as a declaration of identity, and every deviation as treason against the fatherland."
+        ],
+        [
+          "The paradox is that carbonara is, in all likelihood, a very young dish.",
+          "There's no trace of it in cookbooks before the Second World War, and one of the most widely accepted theories links it to the arrival of American soldiers in Rome, with their rations of powdered egg and bacon.",
+          "The first published recipes, in the fifties, happily called for pancetta, sometimes even garlic or a dash of white wine.",
+          "The “canonical” version, the one defended so zealously today, became fixed much later."
+        ],
+        [
+          "I'm not saying this to belittle tradition, but to understand it better.",
+          "A recipe isn't a monument, it's a living organism, which is born from an encounter, adapts to what's in the larder and changes with whoever cooks it.",
+          "The grandmothers who are now quoted as supreme authorities cooked with what they had, and if one day there was no guanciale they didn't tear their hair out: they used pancetta and put it on the table all the same."
+        ],
+        [
+          "This doesn't mean that anything goes.",
+          "A carbonara with cream and mushrooms will never be a carbonara, and there's nothing wrong with saying so.",
+          "But perhaps we could defend our recipes with a little more irony and a little less fury, remembering that Italian cooking became great precisely because it knew how to mix, to steal, to improvise.",
+          "After all, the most authentically traditional thing you can do in a kitchen is to adapt a recipe to what you have, and then swear it's always been made that way."
+        ]
+      ],
+      "vocab": [
+        { "word": "eresia", "gloss": "heresy" },
+        { "word": "tuorli", "gloss": "yolks" },
+        { "word": "deviazione", "gloss": "deviation" },
+        { "word": "tradimento", "gloss": "betrayal, treason" },
+        { "word": "ricettari", "gloss": "cookbooks, recipe collections" },
+        { "word": "accreditate", "gloss": "widely accepted, credible" },
+        { "word": "uova in polvere", "gloss": "powdered egg" },
+        { "word": "zelo", "gloss": "zeal" },
+        { "word": "sminuire", "gloss": "to belittle" },
+        { "word": "dispensa", "gloss": "larder, pantry" },
+        { "word": "non si stracciavano le vesti", "gloss": "didn't tear their hair out (lit. rend their garments)" },
+        { "word": "lecito", "gloss": "allowed, legitimate" },
+        { "word": "furore", "gloss": "fury" }
+      ]
+    },
+    {
+      "id": "it-c1-09",
+      "title": "La pagina restituita",
+      "subtitle": "The returned page",
+      "topic": "History",
+      "symbol": "book.closed.fill",
+      "paragraphs": [
+        "Il 4 novembre 1966 l'Arno uscì dagli argini e invase Firenze. In poche ore l'acqua, mescolata a fango e nafta, raggiunse in alcuni quartieri i cinque metri d'altezza, sommergendo botteghe, chiese, archivi. Nei sotterranei della Biblioteca Nazionale, accanto al fiume, finirono sott'acqua più di un milione di volumi. Nei giorni successivi arrivarono da tutta Italia e da mezzo mondo migliaia di ragazzi, che i fiorentini chiamarono subito «gli angeli del fango».",
+        "Margaret Hale era uno di loro. Aveva vent'anni, studiava italiano a Cambridge e aveva preso il treno con due amiche, senza dire niente ai genitori. Per tre settimane passò le giornate in una catena umana che dal seminterrato portava i libri fradici fino alla luce, dove venivano ripuliti, avvolti nella carta assorbente e mandati ad asciugare nelle serre e nelle centrali termiche della Toscana. Ricordava soprattutto l'odore, dolciastro e pesante, e la sensazione di tenere tra le mani qualcosa che poteva sbriciolarsi da un momento all'altro.",
+        "Cinquantotto anni dopo, Margaret è tornata a Firenze con un nipote e una busta di plastica che teneva stretta sulle ginocchia. Alla biblioteca ha chiesto di parlare con qualcuno del restauro, e una giovane conservatrice l'ha ricevuta in un ufficio pieno di scatole. Margaret ha aperto la busta e ha estratto una pagina ingiallita, ancora macchiata di fango ai bordi. «Me la sono ritrovata nella tasca del cappotto quando sono tornata in Inghilterra,» ha spiegato. «Non so di che libro sia. L'ho tenuta per tutta la vita, e ogni volta che la guardavo mi sentivo una ladra.»",
+        "La conservatrice ha esaminato il foglio sotto una lampada. Era una pagina di un messale del Cinquecento, ha detto, probabilmente appartenente a un volume che era stato restaurato negli anni Ottanta e a cui, da allora, mancava una carta. Poi ha sorriso e ha aggiunto che, se Margaret era d'accordo, il suo nome sarebbe stato annotato nella scheda del libro, accanto a quello dei restauratori. Margaret ci ha pensato a lungo. «Scriva solo: restituita da un angelo,» ha detto. «Un po' in ritardo.»"
+      ],
+      "english": [
+        [
+          "On 4 November 1966 the Arno burst its banks and flooded Florence.",
+          "Within a few hours the water, mixed with mud and fuel oil, reached a height of five metres in some districts, submerging workshops, churches and archives.",
+          "In the basements of the National Library, beside the river, more than a million volumes ended up under water.",
+          "In the days that followed, thousands of young people arrived from all over Italy and half the world, and the Florentines immediately called them “the mud angels”."
+        ],
+        [
+          "Margaret Hale was one of them.",
+          "She was twenty, studying Italian at Cambridge, and had taken the train with two friends without telling her parents.",
+          "For three weeks she spent her days in a human chain that carried the sodden books up from the basement into the light, where they were cleaned, wrapped in blotting paper and sent to dry in the greenhouses and heating plants of Tuscany.",
+          "What she remembered most was the smell, sickly sweet and heavy, and the feeling of holding in her hands something that might crumble at any moment."
+        ],
+        [
+          "Fifty-eight years later, Margaret came back to Florence with a grandson and a plastic bag that she held tightly on her knees.",
+          "At the library she asked to speak to someone from the restoration department, and a young conservator received her in an office full of boxes.",
+          "Margaret opened the bag and took out a yellowed page, still stained with mud at the edges.",
+          "“I found it in my coat pocket when I got back to England,” she explained.",
+          "“I don't know which book it's from. I've kept it all my life, and every time I looked at it I felt like a thief.”"
+        ],
+        [
+          "The conservator examined the sheet under a lamp.",
+          "It was a page from a sixteenth-century missal, she said, probably belonging to a volume that had been restored in the eighties and which, ever since, had been missing a leaf.",
+          "Then she smiled and added that, if Margaret agreed, her name would be recorded in the book's file, next to those of the restorers.",
+          "Margaret thought about it for a long time.",
+          "“Just write: returned by an angel,” she said.",
+          "“A little late.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "argini", "gloss": "banks, embankments" },
+        { "word": "nafta", "gloss": "fuel oil" },
+        { "word": "sotterranei", "gloss": "basements, underground rooms" },
+        { "word": "seminterrato", "gloss": "basement, semi-basement" },
+        { "word": "fradici", "gloss": "sodden, soaked" },
+        { "word": "carta assorbente", "gloss": "blotting paper" },
+        { "word": "serre", "gloss": "greenhouses" },
+        { "word": "dolciastro", "gloss": "sickly sweet" },
+        { "word": "sbriciolarsi", "gloss": "to crumble" },
+        { "word": "conservatrice", "gloss": "(female) conservator" },
+        { "word": "ingiallita", "gloss": "yellowed" },
+        { "word": "messale", "gloss": "missal" },
+        { "word": "annotato", "gloss": "recorded, noted" }
+      ]
+    },
+    {
+      "id": "it-c1-10",
+      "title": "Il turno di notte",
+      "subtitle": "The night shift",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Al pronto soccorso dell'ospedale Civico di Palermo il sabato notte ha un suo ritmo, che Giulia ha imparato a riconoscere dopo sei anni di turni. Fino a mezzanotte arrivano le cadute in casa e le febbri dei bambini; verso le due, gli incidenti in motorino e le risse fuori dai locali; poco prima dell'alba, i dolori al petto di chi ha aspettato tutta la notte prima di decidersi a chiamare. E poi, puntuale come un orologio, c'è il signor Lo Piccolo.",
+        "Ha ottantatré anni, un cappello di feltro e una cartella clinica che occupa ormai un intero faldone. Si presenta ogni sabato verso l'una con un sintomo diverso, sempre vago: un formicolio al braccio, una stanchezza strana, un battito che gli sembra irregolare. Gli esami, invariabilmente, risultano nella norma. Le infermiere lo trattano con un'affettuosa rassegnazione, gli portano un bicchiere d'acqua e lo lasciano seduto in sala d'attesa finché non si fa giorno.",
+        "Quel sabato, però, il reparto era al collasso: un incidente sulla circonvallazione, tre codici rossi in mezz'ora, nessun letto libero. Quando Giulia ha visto il cappello di feltro spuntare dalla porta, le è scappata una frase di cui si è pentita subito. «Signor Lo Piccolo, stanotte non ho tempo per lei.» Il vecchio ha annuito senza offendersi e si è seduto nel solito angolo. Verso le cinque, durante una pausa, un'infermiera anziana le si è avvicinata e le ha raccontato, a bassa voce, che la moglie di Lo Piccolo era morta lì, in quella sala, un sabato notte di tre anni prima, mentre lui era andato a prendere un caffè alla macchinetta.",
+        "Giulia è rimasta immobile per un lungo momento. Poi è andata alla macchinetta, ha preso due caffè e si è seduta accanto a lui. Non gli ha chiesto dei sintomi. Gli ha chiesto come si chiamava sua moglie, e lui gliel'ha detto, e poi le ha raccontato di come si erano conosciuti, a Mondello, nel 1961, e di un vestito a fiori che lei si era cucita da sola. Quando è arrivato il turno del mattino, il signor Lo Piccolo si è alzato, si è sistemato il cappello e le ha detto che, per quella notte, si sentiva benissimo."
+      ],
+      "english": [
+        [
+          "In the A&E department of the Civico hospital in Palermo, Saturday night has a rhythm of its own, which Giulia has learned to recognise after six years of shifts.",
+          "Until midnight come the falls at home and the children's fevers; around two, the scooter accidents and the fights outside the clubs; shortly before dawn, the chest pains of those who waited all night before making up their minds to call.",
+          "And then, regular as clockwork, there's Signor Lo Piccolo."
+        ],
+        [
+          "He's eighty-three, with a felt hat and a medical record that now fills an entire binder.",
+          "He turns up every Saturday around one with a different symptom, always vague: a tingling in his arm, a strange tiredness, a heartbeat that seems irregular to him.",
+          "The tests invariably come back normal.",
+          "The nurses treat him with affectionate resignation, bring him a glass of water and leave him sitting in the waiting room until daylight."
+        ],
+        [
+          "That Saturday, however, the department was overwhelmed: a crash on the ring road, three red codes in half an hour, not a single free bed.",
+          "When Giulia saw the felt hat appear at the door, a sentence slipped out that she regretted at once.",
+          "“Signor Lo Piccolo, I don't have time for you tonight.”",
+          "The old man nodded without taking offence and sat down in his usual corner.",
+          "Around five, during a break, an older nurse came up to her and told her, in a low voice, that Lo Piccolo's wife had died there, in that room, one Saturday night three years earlier, while he had gone to get a coffee from the machine."
+        ],
+        [
+          "Giulia stood motionless for a long moment.",
+          "Then she went to the machine, got two coffees and sat down next to him.",
+          "She didn't ask him about his symptoms.",
+          "She asked him what his wife's name was, and he told her, and then he told her how they had met, in Mondello, in 1961, and about a flowery dress she had sewn for herself.",
+          "When the morning shift arrived, Signor Lo Piccolo got up, straightened his hat and told her that, for that night, he felt perfectly well."
+        ]
+      ],
+      "vocab": [
+        { "word": "risse", "gloss": "brawls, fights" },
+        { "word": "puntuale come un orologio", "gloss": "regular as clockwork" },
+        { "word": "cartella clinica", "gloss": "medical record" },
+        { "word": "faldone", "gloss": "thick file, binder" },
+        { "word": "formicolio", "gloss": "tingling, pins and needles" },
+        { "word": "nella norma", "gloss": "normal, within the normal range" },
+        { "word": "rassegnazione", "gloss": "resignation" },
+        { "word": "al collasso", "gloss": "overwhelmed, on the point of collapse" },
+        { "word": "codici rossi", "gloss": "red codes (most urgent triage category)" },
+        { "word": "spuntare", "gloss": "appear, pop up" },
+        { "word": "si è pentita", "gloss": "regretted" },
+        { "word": "macchinetta", "gloss": "vending machine" },
+        { "word": "a fiori", "gloss": "flowery, floral" }
+      ]
+    },
+    {
+      "id": "it-c1-11",
+      "title": "Elogio della noia",
+      "subtitle": "In praise of boredom",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Quand'è stata l'ultima volta che vi siete annoiati davvero? Non parlo della stanchezza davanti a una riunione inutile, né dell'irritazione in coda alla posta, ma di quella noia piena e senza scampo che conoscevamo da bambini: i pomeriggi d'estate in cui il tempo sembrava essersi incagliato, le domeniche a casa dei nonni, le ore passate a guardare la pioggia sul vetro aspettando che succedesse qualcosa. Ho il sospetto che molti di noi non saprebbero rispondere.",
+        "Non è difficile capire perché. Ogni momento vuoto, ormai, viene riempito prima ancora di essere percepito come tale: in fila al supermercato, alla fermata dell'autobus, perfino nei pochi secondi in cui il semaforo è rosso, la mano corre al telefono con la rapidità di un riflesso. Abbiamo a disposizione una quantità sterminata di distrazioni, e le usiamo come antidolorifici contro un disagio che, in fondo, non abbiamo più il tempo di provare.",
+        "Eppure la noia, a guardarla da vicino, è tutt'altro che inutile. Psicologi e filosofi la descrivono da tempo come una specie di segnale: ci avverte che quello che stiamo facendo non ci basta, e ci spinge a cercare altro. Molti ricordano che le idee migliori sono arrivate proprio così, in un treno senza connessione o durante un'attesa interminabile. La mente lasciata a se stessa vaga, mescola, collega cose lontane; e da quel disordine, a volte, nasce qualcosa di nuovo.",
+        "Non propongo di gettare il telefono nel lago di Como, gesto che sarebbe, oltre che inutile, anche inquinante. Propongo qualcosa di più modesto e, forse, di più difficile: concedersi ogni tanto dieci minuti di vuoto, senza schermi né podcast, e vedere che cosa succede. All'inizio sarà sgradevole, come il silenzio dopo un concerto. Poi, chissà, potremmo scoprire che quella noia che temiamo tanto era soltanto la porta d'ingresso di un pensiero che aspettava da anni di essere ascoltato."
+      ],
+      "english": [
+        [
+          "When was the last time you were truly bored?",
+          "I don't mean the weariness of a pointless meeting, or the irritation of queuing at the post office, but that full, inescapable boredom we knew as children: the summer afternoons when time seemed to have run aground, the Sundays at our grandparents', the hours spent watching the rain on the window, waiting for something to happen.",
+          "I suspect that many of us wouldn't know how to answer."
+        ],
+        [
+          "It isn't hard to see why.",
+          "Every empty moment is now filled before it is even perceived as such: in the supermarket queue, at the bus stop, even in the few seconds while the traffic light is red, our hand reaches for the phone as fast as a reflex.",
+          "We have a boundless supply of distractions at our disposal, and we use them as painkillers against a discomfort that, deep down, we no longer have time to feel."
+        ],
+        [
+          "And yet boredom, looked at closely, is anything but useless.",
+          "Psychologists and philosophers have long described it as a kind of signal: it warns us that what we're doing isn't enough for us, and pushes us to look for something else.",
+          "Many people recall that their best ideas came in exactly this way, on a train with no connection or during an endless wait.",
+          "The mind left to itself wanders, mixes, links distant things; and from that disorder, sometimes, something new is born."
+        ],
+        [
+          "I'm not suggesting throwing your phone into Lake Como, a gesture that would be not only pointless but polluting.",
+          "I'm suggesting something more modest and perhaps more difficult: allowing yourself, now and then, ten minutes of emptiness, with no screens or podcasts, and seeing what happens.",
+          "At first it will be unpleasant, like the silence after a concert.",
+          "Then, who knows, we might discover that the boredom we fear so much was only the front door to a thought that had been waiting for years to be heard."
+        ]
+      ],
+      "vocab": [
+        { "word": "senza scampo", "gloss": "inescapable" },
+        { "word": "incagliato", "gloss": "run aground, stuck" },
+        { "word": "percepito", "gloss": "perceived" },
+        { "word": "riflesso", "gloss": "reflex" },
+        { "word": "sterminata", "gloss": "boundless, immense" },
+        { "word": "antidolorifici", "gloss": "painkillers" },
+        { "word": "tutt'altro che", "gloss": "anything but" },
+        { "word": "avverte", "gloss": "warns" },
+        { "word": "interminabile", "gloss": "endless" },
+        { "word": "vaga", "gloss": "wanders" },
+        { "word": "inquinante", "gloss": "polluting" },
+        { "word": "concedersi", "gloss": "to allow oneself" },
+        { "word": "sgradevole", "gloss": "unpleasant" }
+      ]
+    },
+    {
+      "id": "it-c1-12",
+      "title": "Il treno sul mare",
+      "subtitle": "The train on the sea",
+      "topic": "Travel",
+      "symbol": "ferry.fill",
+      "paragraphs": [
+        "Ci sono pochi posti al mondo in cui un treno sale su una nave, e Irene non sapeva che uno di questi fosse lo Stretto di Messina. Era partita da Torino la sera prima con l'Intercity notte, una valigia e una decisione ancora da prendere: Davide, con cui stava da due anni, aveva ottenuto un posto da ricercatore all'università di Palermo e le aveva chiesto di trasferirsi con lui. Lei aveva chiesto tempo. Il viaggio, si era detta, le sarebbe servito a capire.",
+        "A Villa San Giovanni il treno è stato diviso in tronconi e spinto lentamente dentro la pancia del traghetto, tra un clangore di ferro e le voci dei ferrovieri che si chiamavano in dialetto. I passeggeri sono saliti sul ponte, chi per fumare, chi per comprare un arancino al bar di bordo. Irene si è appoggiata al parapetto. Da una parte la Calabria si allontanava, dall'altra la Sicilia non era ancora abbastanza vicina da sembrare reale.",
+        "Accanto a lei un uomo anziano, con una coppola e le mani in tasca, guardava l'acqua con aria soddisfatta. Le ha raccontato, senza che lei glielo chiedesse, di aver fatto quella traversata ogni settimana per quarant'anni, prima per lavoro e poi per abitudine. «Sa qual è la cosa bella dello Stretto?» le ha detto. «Per venti minuti non sei né di qua né di là. Non devi ancora arrivare e non sei più partito. È l'unico posto dove nessuno ti chiede di decidere.»",
+        "Irene ha riso, e per la prima volta da settimane si è sentita leggera. Ha guardato le correnti che si incrociavano sotto lo scafo, il punto in cui gli antichi collocavano Scilla e Cariddi, e ha pensato che forse non tutte le scelte devono essere fatte su una riva. Poi ha tirato fuori il telefono e ha scritto a Davide: «Sono in mezzo al mare. Tra tre ore sono da te. Il resto lo decidiamo insieme.» Quando il traghetto ha attraccato a Messina, l'uomo con la coppola era già sparito tra la folla."
+      ],
+      "english": [
+        [
+          "There are few places in the world where a train boards a ship, and Irene hadn't known that one of them was the Strait of Messina.",
+          "She had left Turin the evening before on the overnight Intercity, with a suitcase and a decision still to be made: Davide, whom she had been with for two years, had got a research post at the university of Palermo and had asked her to move there with him.",
+          "She had asked for time.",
+          "The journey, she had told herself, would help her understand."
+        ],
+        [
+          "At Villa San Giovanni the train was split into sections and pushed slowly into the belly of the ferry, amid a clanging of iron and the voices of railwaymen calling to each other in dialect.",
+          "The passengers went up on deck, some to smoke, some to buy an arancino at the bar on board.",
+          "Irene leaned on the rail.",
+          "On one side Calabria was moving away, on the other Sicily wasn't yet close enough to seem real."
+        ],
+        [
+          "Next to her an old man, in a flat cap and with his hands in his pockets, was looking at the water with a satisfied air.",
+          "Without her asking, he told her that he had made that crossing every week for forty years, first for work and then out of habit.",
+          "“Do you know what the beauty of the Strait is?” he said to her.",
+          "“For twenty minutes you're neither here nor there. You don't have to arrive yet and you've already left. It's the only place where nobody asks you to decide.”"
+        ],
+        [
+          "Irene laughed, and for the first time in weeks she felt light.",
+          "She looked at the currents crossing beneath the hull, the spot where the ancients placed Scylla and Charybdis, and thought that perhaps not every choice has to be made on a shore.",
+          "Then she took out her phone and wrote to Davide: “I'm in the middle of the sea. I'll be with you in three hours. We'll decide the rest together.”",
+          "When the ferry docked at Messina, the man in the flat cap had already vanished into the crowd."
+        ]
+      ],
+      "vocab": [
+        { "word": "Stretto", "gloss": "strait" },
+        { "word": "tronconi", "gloss": "sections" },
+        { "word": "pancia", "gloss": "belly" },
+        { "word": "clangore", "gloss": "clanging, clang" },
+        { "word": "ferrovieri", "gloss": "railwaymen" },
+        { "word": "ponte", "gloss": "deck" },
+        { "word": "parapetto", "gloss": "rail, railing" },
+        { "word": "coppola", "gloss": "flat cap (Sicilian)" },
+        { "word": "traversata", "gloss": "crossing" },
+        { "word": "né di qua né di là", "gloss": "neither here nor there" },
+        { "word": "correnti", "gloss": "currents" },
+        { "word": "scafo", "gloss": "hull" },
+        { "word": "ha attraccato", "gloss": "docked" }
+      ]
+    },
+    {
+      "id": "it-c1-13",
+      "title": "Coperte per un ghiacciaio",
+      "subtitle": "Blankets for a glacier",
+      "topic": "Environment",
+      "symbol": "snowflake",
+      "paragraphs": [
+        "Ogni anno, all'inizio di giugno, sul ghiacciaio Presena, al confine tra Trentino e Lombardia, va in scena un rito che a prima vista sembra uscito da un'installazione di arte contemporanea. Una squadra di operai srotola sul ghiaccio decine di teli bianchi, lunghi settanta metri e larghi cinque, e li cuce l'uno all'altro con una pazienza da sarti. Alla fine, oltre centomila metri quadrati di montagna spariscono sotto una specie di enorme lenzuolo, che resterà lì fino a settembre.",
+        "I teli sono fatti di un tessuto speciale, che riflette gran parte della luce solare e isola il ghiaccio dal calore dell'aria. L'esperimento è cominciato nel 2008, quando gli impianti sciistici del Passo del Tonale si sono resi conto che il ghiacciaio si stava ritirando a vista d'occhio. I risultati sono stati sorprendenti: nelle zone coperte, la perdita di spessore si è ridotta in modo significativo rispetto a quelle lasciate scoperte, dove in certe estati il ghiaccio arretra di metri.",
+        "Marco, che lavora nella squadra da dodici estati, ha le mani screpolate e un'abbronzatura a forma di occhiali da sole. «La gente pensa che salviamo il ghiacciaio,» dice, mentre fissa un telo con dei sacchi di sabbia. «Non è vero. Lo aiutiamo a morire più lentamente.» Lo dice senza amarezza, con il realismo di chi ha visto il bianco ritirarsi anno dopo anno e le rocce, prima nascoste, affiorare come le costole di un animale dimagrito.",
+        "Gli scienziati sono d'accordo con lui. Coprire un ghiacciaio costa moltissimo, ha senso solo su superfici limitate e non affronta in alcun modo la causa del problema, cioè l'aumento delle temperature globali. È, in altre parole, un cerotto su una ferita che continua ad allargarsi. Eppure, a guardare quei teli bianchi sotto il sole di agosto, viene da pensare che servano anche a qualcos'altro: a ricordarci, in modo quasi teatrale, che ciò che abbiamo sempre dato per scontato ha ormai bisogno di essere protetto come una cosa fragile."
+      ],
+      "english": [
+        [
+          "Every year, at the beginning of June, on the Presena glacier, on the border between Trentino and Lombardy, a ritual takes place that at first sight looks like something out of a contemporary art installation.",
+          "A team of workers unrolls dozens of white sheets on the ice, seventy metres long and five wide, and sews them to one another with the patience of tailors.",
+          "In the end, more than a hundred thousand square metres of mountain disappear under a kind of enormous bedsheet, which will stay there until September."
+        ],
+        [
+          "The sheets are made of a special fabric, which reflects much of the sunlight and insulates the ice from the warmth of the air.",
+          "The experiment began in 2008, when the ski lift operators of the Tonale Pass realised that the glacier was retreating before their very eyes.",
+          "The results were surprising: in the covered areas, the loss of thickness was significantly reduced compared with the areas left uncovered, where in some summers the ice retreats by metres."
+        ],
+        [
+          "Marco, who has worked on the team for twelve summers, has chapped hands and a tan in the shape of sunglasses.",
+          "“People think we're saving the glacier,” he says, as he weighs a sheet down with sandbags.",
+          "“That's not true. We're helping it die more slowly.”",
+          "He says it without bitterness, with the realism of someone who has watched the white retreat year after year and the rocks, once hidden, emerge like the ribs of an animal that has grown thin."
+        ],
+        [
+          "Scientists agree with him.",
+          "Covering a glacier is extremely expensive, only makes sense over limited areas and does nothing at all about the cause of the problem, namely rising global temperatures.",
+          "It is, in other words, a sticking plaster on a wound that keeps on growing.",
+          "And yet, looking at those white sheets under the August sun, you can't help thinking that they also serve another purpose: to remind us, in an almost theatrical way, that what we have always taken for granted now needs to be protected like something fragile."
+        ]
+      ],
+      "vocab": [
+        { "word": "va in scena", "gloss": "is staged, takes place" },
+        { "word": "srotola", "gloss": "unrolls" },
+        { "word": "teli", "gloss": "sheets (of fabric)" },
+        { "word": "sarti", "gloss": "tailors" },
+        { "word": "lenzuolo", "gloss": "bedsheet" },
+        { "word": "impianti sciistici", "gloss": "ski lifts, ski facilities" },
+        { "word": "a vista d'occhio", "gloss": "visibly, before one's eyes" },
+        { "word": "spessore", "gloss": "thickness" },
+        { "word": "screpolate", "gloss": "chapped" },
+        { "word": "amarezza", "gloss": "bitterness" },
+        { "word": "affiorare", "gloss": "to emerge, to surface" },
+        { "word": "cerotto", "gloss": "sticking plaster" },
+        { "word": "dato per scontato", "gloss": "taken for granted" }
+      ]
+    },
+    {
+      "id": "it-c1-14",
+      "title": "Il Monte dei pegni",
+      "subtitle": "The pawnshop",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Al Monte dei pegni di Milano, in una via laterale a due passi dal Duomo, il tempo scorre secondo regole sue. Dietro gli sportelli di legno, impiegati che sembrano usciti da un altro secolo pesano anelli, valutano orologi, esaminano con la lente collane di famiglia, e in cambio consegnano una piccola somma e una ricevuta. Chi vuole riprendersi l'oggetto ha qualche mese per restituire il prestito con gli interessi; altrimenti, il pegno finisce all'asta.",
+        "Livio faceva quel lavoro da ventidue anni e aveva sviluppato una sorta di sesto senso per le storie che si nascondevano dietro gli oggetti. Per questo aveva notato subito la ragazza con l'anello. Arrivava il primo lunedì di ogni mese, con un anello d'oro antico, lavorato a mano, con un piccolo granato al centro. Prendeva trecento euro, firmava senza leggere e se ne andava a testa bassa. L'ultimo venerdì del mese tornava, pagava fino all'ultimo centesimo e si rimetteva l'anello al dito, come se niente fosse.",
+        "Per un anno intero il copione non è mai cambiato. Poi, a febbraio, la ragazza non si è presentata. È passato marzo, è passato aprile, e la data dell'asta si avvicinava. Livio, che non avrebbe dovuto occuparsene, controllava ogni mattina la scheda con una specie di ansia. Il regolamento era chiaro: nessun impiegato può riscattare un pegno per conto di un cliente, e lui non aveva alcuna intenzione di rischiare il posto per un anello.",
+        "Tre giorni prima dell'asta, allo sportello si è presentata un'anziana signora con un bastone e un cappellino di velluto. Ha posato sul bancone la ricevuta, trecento euro in contanti e gli interessi contati al centesimo. «Mia nipote ha perso il lavoro e si vergogna a chiedere,» ha detto con calma. «Ho trovato la ricevuta nel suo cappotto. Quell'anello gliel'ho regalato io, proprio perché le servisse nei momenti difficili. Solo che non pensavo lo prendesse così alla lettera.» Livio le ha consegnato l'anello, e per la prima volta in ventidue anni ha dimenticato di farle firmare il registro."
+      ],
+      "english": [
+        [
+          "At the Milan pawnshop, in a side street a stone's throw from the Duomo, time runs according to its own rules.",
+          "Behind the wooden counters, clerks who seem to have stepped out of another century weigh rings, value watches, examine family necklaces through a loupe, and in exchange hand over a small sum and a receipt.",
+          "Anyone who wants their object back has a few months to repay the loan with interest; otherwise, the pledge goes to auction."
+        ],
+        [
+          "Livio had been doing the job for twenty-two years and had developed a sort of sixth sense for the stories hidden behind objects.",
+          "That's why he had noticed the girl with the ring straight away.",
+          "She came on the first Monday of every month, with an antique handmade gold ring with a small garnet in the middle.",
+          "She took three hundred euros, signed without reading and left with her head down.",
+          "On the last Friday of the month she came back, paid to the last cent and put the ring back on her finger as if nothing had happened."
+        ],
+        [
+          "For a whole year the script never changed.",
+          "Then, in February, the girl didn't turn up.",
+          "March went by, April went by, and the date of the auction was drawing near.",
+          "Livio, who had no business dealing with it, checked the file every morning with a kind of anxiety.",
+          "The rules were clear: no clerk may redeem a pledge on behalf of a customer, and he had no intention of risking his job for a ring."
+        ],
+        [
+          "Three days before the auction, an elderly lady with a walking stick and a little velvet hat appeared at the counter.",
+          "She laid the receipt on the counter, along with three hundred euros in cash and the interest counted to the cent.",
+          "“My granddaughter has lost her job and she's ashamed to ask,” she said calmly.",
+          "“I found the receipt in her coat. I gave her that ring myself, precisely so that it would help her in hard times. I just didn't think she'd take it so literally.”",
+          "Livio handed her the ring, and for the first time in twenty-two years he forgot to have her sign the register."
+        ]
+      ],
+      "vocab": [
+        { "word": "Monte dei pegni", "gloss": "pawnshop (public pawn bank)" },
+        { "word": "sportelli", "gloss": "counters, windows" },
+        { "word": "valutano", "gloss": "value, appraise" },
+        { "word": "ricevuta", "gloss": "receipt" },
+        { "word": "pegno", "gloss": "pledge, pawned item" },
+        { "word": "asta", "gloss": "auction" },
+        { "word": "sesto senso", "gloss": "sixth sense" },
+        { "word": "granato", "gloss": "garnet" },
+        { "word": "a testa bassa", "gloss": "with her head down" },
+        { "word": "come se niente fosse", "gloss": "as if nothing had happened" },
+        { "word": "riscattare", "gloss": "to redeem" },
+        { "word": "per conto di", "gloss": "on behalf of" },
+        { "word": "alla lettera", "gloss": "literally" }
+      ]
+    },
+    {
+      "id": "it-c1-15",
+      "title": "L'orso dall'altra parte della strada",
+      "subtitle": "The bear across the road",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "A Scanno, in provincia dell'Aquila, c'è chi sostiene di aver incontrato un orso in fila davanti al forno. È un'esagerazione, naturalmente, ma non così grande come sembra. Da qualche anno gli orsi bruni marsicani, una sottospecie che vive soltanto in questo angolo dell'Appennino e che conta ormai poco più di cinquanta esemplari, si spingono sempre più spesso fino alle case, attirati dagli alberi da frutto, dai pollai e, talvolta, dai bidoni dell'immondizia lasciati aperti.",
+        "La convivenza non è sempre facile. C'è l'allevatore che una mattina trova il recinto sfondato e due pecore sparite, c'è la madre che non manda più il figlio a scuola a piedi, c'è il ristoratore che vede nei video dei turisti, girati di notte con il telefono, una pubblicità insperata. Le reazioni oscillano tra l'entusiasmo e l'esasperazione, spesso nella stessa persona e nella stessa giornata.",
+        "Gli esperti del Parco nazionale ripetono da anni le stesse regole: non avvicinarsi, non dare mai da mangiare agli animali, chiudere bene i rifiuti, proteggere pollai e arnie con recinzioni elettrificate, che il Parco spesso fornisce gratuitamente. «Un orso che si abitua al cibo umano diventa un orso confidente,» spiega una guardiaparco, «e un orso confidente, prima o poi, finisce per diventare un problema. Non per colpa sua.» Il paradosso è che proprio l'affetto della gente, con i suoi panini e le sue foto ravvicinate, può rivelarsi l'insidia più pericolosa.",
+        "C'è però chi vede in questa vicinanza un'occasione. Alcuni paesi, che fino a pochi anni fa si stavano svuotando, hanno ritrovato una ragione d'essere proprio grazie all'orso: escursioni guidate, piccoli musei, giovani che tornano per lavorare nel Parco. «Per secoli abbiamo pensato che l'orso fosse un nemico,» dice un anziano pastore seduto davanti al bar. «Adesso scopriamo che forse è lui a tenerci in vita.» Poi, guardando il bosco che comincia a pochi metri dalla piazza, aggiunge con un sorriso: «Basta che resti dall'altra parte della strada.»"
+      ],
+      "english": [
+        [
+          "In Scanno, in the province of L'Aquila, there are people who claim to have met a bear queuing outside the bakery.",
+          "It's an exaggeration, of course, but not as big a one as it seems.",
+          "For some years now Marsican brown bears, a subspecies that lives only in this corner of the Apennines and now numbers little more than fifty individuals, have been venturing more and more often right up to people's houses, drawn by fruit trees, hen houses and sometimes by rubbish bins left open."
+        ],
+        [
+          "Living side by side isn't always easy.",
+          "There's the farmer who finds his enclosure broken down one morning and two sheep missing, there's the mother who no longer lets her son walk to school, there's the restaurant owner who sees an unexpected advertisement in the tourists' videos, shot at night on their phones.",
+          "Reactions swing between enthusiasm and exasperation, often in the same person and on the same day."
+        ],
+        [
+          "The National Park's experts have been repeating the same rules for years: don't get close, never feed the animals, seal your rubbish properly, protect hen houses and beehives with electric fences, which the Park often provides free of charge.",
+          "“A bear that gets used to human food becomes a habituated bear,” a park ranger explains, “and a habituated bear, sooner or later, ends up becoming a problem. Through no fault of its own.”",
+          "The paradox is that people's very affection, with their sandwiches and their close-up photos, can turn out to be the most dangerous trap of all."
+        ],
+        [
+          "Some, however, see an opportunity in this closeness.",
+          "A few villages that were emptying until a few years ago have found a new reason to exist thanks to the bear: guided walks, small museums, young people coming back to work in the Park.",
+          "“For centuries we thought the bear was an enemy,” says an old shepherd sitting outside the bar.",
+          "“Now we're finding out that perhaps it's the bear that keeps us alive.”",
+          "Then, looking at the woods that begin a few metres from the square, he adds with a smile: “As long as it stays on the other side of the road.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "sottospecie", "gloss": "subspecies" },
+        { "word": "esemplari", "gloss": "individuals, specimens" },
+        { "word": "si spingono", "gloss": "venture, push on" },
+        { "word": "bidoni dell'immondizia", "gloss": "rubbish bins" },
+        { "word": "convivenza", "gloss": "living side by side, coexistence" },
+        { "word": "recinto sfondato", "gloss": "broken-down enclosure" },
+        { "word": "insperata", "gloss": "unexpected, unhoped-for" },
+        { "word": "oscillano", "gloss": "swing, fluctuate" },
+        { "word": "arnie", "gloss": "beehives" },
+        { "word": "confidente", "gloss": "habituated, unafraid of people (of a wild animal)" },
+        { "word": "guardiaparco", "gloss": "park ranger" },
+        { "word": "insidia", "gloss": "trap, hidden danger" },
+        { "word": "ragione d'essere", "gloss": "reason to exist" }
+      ]
+    }
+  ]
+}

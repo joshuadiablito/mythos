@@ -1,0 +1,726 @@
+{
+  "language": "it",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "it-b1-01",
+      "title": "Il pacco sbagliato",
+      "subtitle": "The wrong parcel",
+      "topic": "Neighbours",
+      "symbol": "shippingbox.fill",
+      "paragraphs": [
+        "Da tre settimane Elena viveva in un palazzo di via Po, a Torino, ma non conosceva ancora nessuno. Una sera ha trovato davanti alla porta un grosso pacco. Non era per lei: sul cartone c'era scritto «Ernesto Ferrero, interno 9». Elena ha salito le scale fino all'ultimo piano e ha bussato.",
+        "Ha aperto un signore anziano con un gilet di lana. «Finalmente!» ha detto. «Sono i miei libri. Li aspetto da un mese. Il corriere li lascia sempre al piano sbagliato.» Ha invitato Elena a entrare per un caffè. L'appartamento era pieno di scaffali vuoti. «Ero professore di storia,» ha spiegato, «e quando ho cambiato casa ho dovuto vendere quasi tutto. Adesso ricompro solo i libri che mi mancano davvero.»",
+        "Da quella sera Elena ha cominciato a controllare ogni giorno l'ingresso. Quando arrivava un pacco per il signor Ferrero, lo portava su lei, e lui le offriva un caffè e le raccontava una storia diversa. A dicembre è arrivato un pacco con il suo nome. Dentro c'era un libro sulla storia di Torino, con una dedica: «Per la mia vicina, che non è più una sconosciuta.»"
+      ],
+      "english": [
+        [
+          "Elena had been living in a building on Via Po, in Turin, for three weeks, but she still didn't know anyone.",
+          "One evening she found a big parcel outside her door.",
+          "It wasn't for her: on the cardboard was written “Ernesto Ferrero, flat 9”.",
+          "Elena climbed the stairs to the top floor and knocked."
+        ],
+        [
+          "An elderly man in a woollen waistcoat opened the door.",
+          "“At last!” he said.",
+          "“They're my books. I've been waiting for them for a month. The courier always leaves them on the wrong floor.”",
+          "He invited Elena in for a coffee.",
+          "The flat was full of empty shelves.",
+          "“I was a history teacher,” he explained, “and when I moved house I had to sell almost everything. Now I only buy back the books I really miss.”"
+        ],
+        [
+          "From that evening on, Elena began checking the entrance hall every day.",
+          "When a parcel arrived for Mr Ferrero, she took it up herself, and he offered her a coffee and told her a different story.",
+          "In December a parcel arrived with her name on it.",
+          "Inside was a book on the history of Turin, with an inscription: “For my neighbour, who is no longer a stranger.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "palazzo", "gloss": "apartment building" },
+        { "word": "pacco", "gloss": "parcel" },
+        { "word": "cartone", "gloss": "cardboard" },
+        { "word": "interno", "gloss": "flat (number)" },
+        { "word": "ha bussato", "gloss": "knocked" },
+        { "word": "gilet", "gloss": "waistcoat" },
+        { "word": "corriere", "gloss": "courier" },
+        { "word": "scaffali", "gloss": "shelves" },
+        { "word": "ingresso", "gloss": "entrance hall" },
+        { "word": "dedica", "gloss": "inscription, dedication" },
+        { "word": "sconosciuta", "gloss": "stranger" }
+      ]
+    },
+    {
+      "id": "it-b1-02",
+      "title": "La prima lezione di vela",
+      "subtitle": "The first sailing lesson",
+      "topic": "Sport",
+      "symbol": "sailboat.fill",
+      "paragraphs": [
+        "Luca aveva sempre avuto paura dell'acqua profonda, ma quell'estate sua sorella gli aveva regalato un corso di vela a Cagliari. Il primo giorno l'istruttrice, una ragazza di nome Giulia, gli ha dato un giubbotto di salvataggio e ha sorriso. «Oggi non ti chiedo di essere bravo,» ha detto. «Ti chiedo solo di guardare il vento.»",
+        "Sono usciti dal porto su una barca piccola e bianca. Giulia gli ha mostrato come tenere il timone e come tirare la scotta. All'inizio la barca andava dove voleva lei, non dove voleva Luca. Poi, verso mezzogiorno, il maestrale è diventato più forte e la barca si è inclinata. Luca ha gridato. «Non lasciare il timone!» ha detto Giulia con calma. «Se la barca si inclina, vuol dire che sta funzionando.»",
+        "Luca ha respirato, ha tenuto il timone e ha sentito la barca correre veloce sull'acqua verde. Per la prima volta non pensava alla profondità del mare, ma al vento sulla faccia. Quando sono tornati al porto, ha chiamato subito sua sorella. «Allora, com'è andata?» ha chiesto lei. «Domani torno,» ha risposto Luca. «E dopodomani anche.»"
+      ],
+      "english": [
+        [
+          "Luca had always been afraid of deep water, but that summer his sister had given him a sailing course in Cagliari as a present.",
+          "On the first day the instructor, a young woman called Giulia, gave him a life jacket and smiled.",
+          "“Today I'm not asking you to be good,” she said.",
+          "“I'm only asking you to watch the wind.”"
+        ],
+        [
+          "They left the harbour in a small white boat.",
+          "Giulia showed him how to hold the tiller and how to pull the sheet.",
+          "At first the boat went where it wanted, not where Luca wanted.",
+          "Then, around midday, the mistral grew stronger and the boat heeled over.",
+          "Luca shouted.",
+          "“Don't let go of the tiller!” Giulia said calmly.",
+          "“If the boat is heeling, it means it's working.”"
+        ],
+        [
+          "Luca took a breath, held the tiller and felt the boat racing across the green water.",
+          "For the first time he wasn't thinking about how deep the sea was, but about the wind on his face.",
+          "When they got back to the harbour, he rang his sister straight away.",
+          "“So, how did it go?” she asked.",
+          "“I'm going back tomorrow,” Luca replied.",
+          "“And the day after as well.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "vela", "gloss": "sailing" },
+        { "word": "istruttrice", "gloss": "(female) instructor" },
+        { "word": "giubbotto di salvataggio", "gloss": "life jacket" },
+        { "word": "timone", "gloss": "tiller, helm" },
+        { "word": "scotta", "gloss": "sheet (the rope that controls a sail)" },
+        { "word": "maestrale", "gloss": "mistral, a north-westerly wind" },
+        { "word": "si è inclinata", "gloss": "heeled over, tilted" },
+        { "word": "profondità", "gloss": "depth" },
+        { "word": "dopodomani", "gloss": "the day after tomorrow" }
+      ]
+    },
+    {
+      "id": "it-b1-03",
+      "title": "Il cane del tabaccaio",
+      "subtitle": "The tobacconist's dog",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Ogni mattina, alle sette in punto, un cane marrone entrava nella tabaccheria di Gennaro, nel quartiere Sanità di Napoli. Si sedeva vicino alla cassa e aspettava. Gennaro gli dava un biscotto, e il cane usciva senza fare rumore. Nessuno sapeva di chi fosse.",
+        "«Secondo me è di un pescatore,» diceva la signora Esposito, che comprava il giornale ogni giorno. «Io invece penso che sia un cane di strada,» rispondeva il barista di fronte. Un giorno Gennaro ha deciso di seguirlo. Il cane ha attraversato tre vicoli, ha salito una scalinata ed è entrato in un cortile pieno di piante. Lì, seduto su una sedia di plastica, c'era un uomo anziano con un giornale in mano.",
+        "«Lei è il padrone di questo cane?» ha chiesto Gennaro. L'uomo ha riso. «Padrone è una parola grossa. Si chiama Totò. Io non posso più scendere le scale, e allora lui va a prendere il biscotto e mi porta il giornale.» Gennaro ha guardato meglio: il giornale era quello che la signora Esposito lasciava sempre sul bancone. Da quel giorno, Gennaro mette da parte una copia nuova ogni mattina, e Totò la porta su con orgoglio."
+      ],
+      "english": [
+        [
+          "Every morning, at seven o'clock sharp, a brown dog came into Gennaro's tobacconist's, in the Sanità district of Naples.",
+          "It sat down by the till and waited.",
+          "Gennaro gave it a biscuit, and the dog left without making a sound.",
+          "Nobody knew whose it was."
+        ],
+        [
+          "“I reckon it belongs to a fisherman,” Signora Esposito, who bought the paper every day, used to say.",
+          "“I think it's a stray, actually,” the barman opposite would answer.",
+          "One day Gennaro decided to follow it.",
+          "The dog crossed three alleys, climbed a flight of steps and went into a courtyard full of plants.",
+          "There, sitting on a plastic chair, was an old man with a newspaper in his hand."
+        ],
+        [
+          "“Are you the owner of this dog?” Gennaro asked.",
+          "The man laughed.",
+          "“Owner is a big word. His name is Totò. I can't go down the stairs any more, so he goes to get the biscuit and brings me the paper.”",
+          "Gennaro looked more closely: the paper was the one Signora Esposito always left on the counter.",
+          "Since that day, Gennaro has put aside a new copy every morning, and Totò carries it up proudly."
+        ]
+      ],
+      "vocab": [
+        { "word": "tabaccheria", "gloss": "tobacconist's (also sells papers and tickets)" },
+        { "word": "in punto", "gloss": "sharp, on the dot" },
+        { "word": "cassa", "gloss": "till, checkout" },
+        { "word": "cane di strada", "gloss": "stray dog" },
+        { "word": "vicoli", "gloss": "alleys" },
+        { "word": "scalinata", "gloss": "flight of steps" },
+        { "word": "cortile", "gloss": "courtyard" },
+        { "word": "padrone", "gloss": "owner, master" },
+        { "word": "bancone", "gloss": "counter" },
+        { "word": "mette da parte", "gloss": "puts aside" },
+        { "word": "con orgoglio", "gloss": "proudly" }
+      ]
+    },
+    {
+      "id": "it-b1-04",
+      "title": "Il colloquio",
+      "subtitle": "The interview",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Chiara aveva preparato tutto: il curriculum stampato, la giacca blu, le risposte alle domande più difficili. Il colloquio era alle dieci in un ufficio vicino alla stazione Centrale di Milano. Alle nove e mezza, però, la metro si è fermata in galleria. «Ci scusiamo per il disagio,» ha detto una voce. Chiara guardava l'orologio e si sentiva morire.",
+        "Accanto a lei c'era un signore con la barba grigia che leggeva tranquillo. «Ha fretta?» le ha chiesto. Chiara gli ha raccontato tutto: il lavoro, l'azienda, quanto ci teneva. «Se arriverà in ritardo, dirà la verità,» ha detto lui. «Chi assume le persone dovrebbe capire che la metro non dipende da lei.» Venti minuti dopo il treno è ripartito, e Chiara è corsa fuori senza nemmeno salutarlo.",
+        "È arrivata con mezz'ora di ritardo, rossa in faccia e senza fiato. La segretaria l'ha fatta entrare in una sala riunioni. Dopo cinque minuti la porta si è aperta, ed è entrato il direttore: un signore con la barba grigia. «Allora,» ha detto sorridendo, «la metro non dipende da lei. Parliamo del resto?» Chiara ha avuto il posto, e ancora oggi, in ufficio, tutti conoscono la storia del colloquio cominciato in galleria."
+      ],
+      "english": [
+        [
+          "Chiara had prepared everything: the printed CV, the blue jacket, the answers to the hardest questions.",
+          "The interview was at ten in an office near Milan's Central Station.",
+          "At half past nine, however, the metro stopped in the tunnel.",
+          "“We apologise for the inconvenience,” said a voice.",
+          "Chiara kept looking at her watch and felt as if she was dying."
+        ],
+        [
+          "Next to her sat a man with a grey beard, calmly reading.",
+          "“Are you in a hurry?” he asked her.",
+          "Chiara told him everything: the job, the company, how much it meant to her.",
+          "“If you arrive late, you'll tell the truth,” he said.",
+          "“Whoever hires people ought to understand that the metro doesn't depend on you.”",
+          "Twenty minutes later the train set off again, and Chiara ran out without even saying goodbye to him."
+        ],
+        [
+          "She arrived half an hour late, red in the face and out of breath.",
+          "The secretary showed her into a meeting room.",
+          "After five minutes the door opened and in came the director: a man with a grey beard.",
+          "“So,” he said with a smile, “the metro doesn't depend on you. Shall we talk about the rest?”",
+          "Chiara got the job, and to this day everyone at the office knows the story of the interview that began in a tunnel."
+        ]
+      ],
+      "vocab": [
+        { "word": "curriculum", "gloss": "CV, résumé" },
+        { "word": "colloquio", "gloss": "(job) interview" },
+        { "word": "galleria", "gloss": "tunnel" },
+        { "word": "disagio", "gloss": "inconvenience" },
+        { "word": "ci teneva", "gloss": "it mattered to her" },
+        { "word": "assume", "gloss": "hires" },
+        { "word": "è ripartito", "gloss": "set off again" },
+        { "word": "senza fiato", "gloss": "out of breath" },
+        { "word": "sala riunioni", "gloss": "meeting room" },
+        { "word": "il posto", "gloss": "the job, the position" }
+      ]
+    },
+    {
+      "id": "it-b1-05",
+      "title": "Nebbia in pianura",
+      "subtitle": "Fog on the plain",
+      "topic": "Weather",
+      "symbol": "cloud.fog.fill",
+      "paragraphs": [
+        "A novembre, a Ferrara, la nebbia arriva senza avvisare. Quel giovedì Matteo stava tornando in bicicletta dalla biblioteca quando, di colpo, non ha visto più niente: né le mura, né la strada, né le luci delle case. Ha messo un piede a terra e si è fermato. «E adesso?» ha pensato. Il telefono era scarico.",
+        "Dopo qualche minuto ha sentito un rumore di passi e una voce di donna che cantava piano. «C'è qualcuno?» ha chiesto Matteo. «Ci sono io,» ha risposto la voce. Dalla nebbia è uscita una signora con un cappotto lungo e una torcia. «Mi chiamo Ada. Abito qui da settant'anni e conosco queste strade a occhi chiusi. Dove deve andare?» Matteo le ha dato il suo indirizzo, e lei ha detto: «Mi segua. Canterò, così non mi perderà.»",
+        "Hanno camminato per un quarto d'ora, lei davanti e lui dietro con la bici. Ada cantava vecchie canzoni in dialetto, e Matteo seguiva la sua voce. Davanti al portone, lui ha voluto ringraziarla, ma lei aveva già ripreso la strada. Il giorno dopo il sole splendeva, e Matteo è tornato in quella via per cercarla. Un vicino gli ha detto che Ada, una volta, faceva la postina, e che ogni inverno accompagnava a casa chi si perdeva. «La chiamiamo la bussola di Ferrara,» ha aggiunto."
+      ],
+      "english": [
+        [
+          "In November, in Ferrara, the fog arrives without warning.",
+          "That Thursday Matteo was cycling home from the library when, all of a sudden, he couldn't see anything any more: not the city walls, not the road, not the lights of the houses.",
+          "He put one foot on the ground and stopped.",
+          "“What now?” he thought.",
+          "His phone was dead."
+        ],
+        [
+          "After a few minutes he heard footsteps and a woman's voice singing softly.",
+          "“Is anyone there?” Matteo asked.",
+          "“I am,” the voice replied.",
+          "Out of the fog came a lady in a long coat, carrying a torch.",
+          "“My name is Ada. I've lived here for seventy years and I know these streets with my eyes closed. Where do you need to go?”",
+          "Matteo gave her his address, and she said: “Follow me. I'll sing, so you won't lose me.”"
+        ],
+        [
+          "They walked for a quarter of an hour, she in front and he behind with the bike.",
+          "Ada sang old songs in dialect, and Matteo followed her voice.",
+          "Outside his front door he wanted to thank her, but she had already set off again.",
+          "The next day the sun was shining, and Matteo went back to that street to look for her.",
+          "A neighbour told him that Ada had once been a postwoman, and that every winter she walked home anyone who got lost.",
+          "“We call her the compass of Ferrara,” he added."
+        ]
+      ],
+      "vocab": [
+        { "word": "nebbia", "gloss": "fog" },
+        { "word": "senza avvisare", "gloss": "without warning" },
+        { "word": "mura", "gloss": "city walls" },
+        { "word": "di colpo", "gloss": "all of a sudden" },
+        { "word": "scarico", "gloss": "flat, dead (battery)" },
+        { "word": "passi", "gloss": "footsteps" },
+        { "word": "torcia", "gloss": "torch" },
+        { "word": "a occhi chiusi", "gloss": "with one's eyes closed" },
+        { "word": "portone", "gloss": "main door of a building" },
+        { "word": "postina", "gloss": "postwoman" },
+        { "word": "bussola", "gloss": "compass" }
+      ]
+    },
+    {
+      "id": "it-b1-06",
+      "title": "Il quaderno di zia Rosa",
+      "subtitle": "Aunt Rosa's notebook",
+      "topic": "Memory",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Quando zia Rosa è morta, a Sofia è toccato svuotare la sua casa di Palermo. In un cassetto della cucina ha trovato un quaderno nero, pieno di ricette scritte a mano. Ma le ricette erano strane: «Caponata di Salvo, giugno 1968», «Cassata per il ritorno di Pino», «Arancine della domenica in cui ha piovuto».",
+        "Sofia ha chiamato sua madre. «Chi erano Salvo e Pino?» le ha chiesto. Sua madre è rimasta in silenzio per un momento. «Salvo era il fidanzato di Rosa, quando lei aveva vent'anni. Poi lui è partito per la Germania e non è più tornato. Pino era suo fratello, mio zio, che è stato in Argentina per dieci anni.» Ogni ricetta, ha capito Sofia, era un giorno importante nella vita di sua zia.",
+        "Quella sera Sofia ha deciso di cucinare le arancine della domenica in cui ha piovuto. Non sapeva che cosa fosse successo quel giorno, ma ha seguito la ricetta con attenzione: lo zafferano, il ragù, il pangrattato. Quando le ha assaggiate, ha sorriso. In fondo alla pagina, con una scrittura piccola, zia Rosa aveva aggiunto: «Il giorno più felice è quello in cui nessuno è dovuto uscire di casa.»"
+      ],
+      "english": [
+        [
+          "When Aunt Rosa died, it fell to Sofia to clear out her house in Palermo.",
+          "In a kitchen drawer she found a black notebook, full of handwritten recipes.",
+          "But the recipes were strange: “Salvo's caponata, June 1968”, “Cassata for Pino's homecoming”, “Arancine for the Sunday it rained”."
+        ],
+        [
+          "Sofia called her mother.",
+          "“Who were Salvo and Pino?” she asked her.",
+          "Her mother was silent for a moment.",
+          "“Salvo was Rosa's fiancé, when she was twenty. Then he left for Germany and never came back. Pino was her brother, my uncle, who was in Argentina for ten years.”",
+          "Every recipe, Sofia realised, was an important day in her aunt's life."
+        ],
+        [
+          "That evening Sofia decided to cook the arancine for the Sunday it rained.",
+          "She didn't know what had happened that day, but she followed the recipe carefully: the saffron, the ragù, the breadcrumbs.",
+          "When she tasted them, she smiled.",
+          "At the bottom of the page, in small handwriting, Aunt Rosa had added: “The happiest day is the one when nobody had to leave the house.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "è toccato", "gloss": "it fell to (her)" },
+        { "word": "svuotare", "gloss": "to clear out, to empty" },
+        { "word": "cassetto", "gloss": "drawer" },
+        { "word": "scritte a mano", "gloss": "handwritten" },
+        { "word": "fidanzato", "gloss": "fiancé, boyfriend" },
+        { "word": "è rimasta in silenzio", "gloss": "was silent" },
+        { "word": "ha capito", "gloss": "realised" },
+        { "word": "zafferano", "gloss": "saffron" },
+        { "word": "pangrattato", "gloss": "breadcrumbs" },
+        { "word": "assaggiate", "gloss": "tasted" },
+        { "word": "scrittura", "gloss": "handwriting" }
+      ]
+    },
+    {
+      "id": "it-b1-07",
+      "title": "L'orto sul tetto",
+      "subtitle": "The rooftop garden",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Il palazzo di via Saragozza, a Bologna, aveva un grande tetto piatto che nessuno usava. Un giorno Irene, una studentessa di agraria, ha proposto all'assemblea dei condomini di trasformarlo in un orto. «Sarebbe bello coltivare pomodori e basilico insieme,» ha detto. «Costerebbe poco e ci conosceremmo meglio.» Il signor Bertoni, l'amministratore, ha scosso la testa. «Ci saranno solo problemi: acqua, rumore, litigi.»",
+        "Alla fine i condomini hanno votato sì, e in primavera sono arrivati i vasi, la terra e le piantine. All'inizio venivano in pochi, ma a giugno il tetto era pieno di gente: bambini che annaffiavano, pensionati che davano consigli, una coppia di giovani che portava la birra. I problemi c'erano, certo. Una volta qualcuno ha raccolto tutte le zucchine degli altri, e c'è stata una lunga discussione.",
+        "Ad agosto Irene è partita per le vacanze ed era preoccupata per le sue piante. Quando è tornata, il suo angolo era perfetto: qualcuno aveva annaffiato ogni sera e aveva legato i pomodori ai bastoni. Accanto ai vasi c'era un biglietto: «Ho sbagliato. Non ci sono solo problemi. Bertoni.»"
+      ],
+      "english": [
+        [
+          "The building on Via Saragozza, in Bologna, had a big flat roof that nobody used.",
+          "One day Irene, an agriculture student, proposed to the residents' meeting that they turn it into a vegetable garden.",
+          "“It would be lovely to grow tomatoes and basil together,” she said.",
+          "“It would cost little and we'd get to know each other better.”",
+          "Mr Bertoni, the building manager, shook his head.",
+          "“There'll be nothing but problems: water, noise, arguments.”"
+        ],
+        [
+          "In the end the residents voted yes, and in spring the pots, the soil and the seedlings arrived.",
+          "At first only a few people came, but by June the roof was full of people: children watering, pensioners giving advice, a young couple bringing beer.",
+          "There were problems, of course.",
+          "Once somebody picked everyone else's courgettes, and there was a long argument."
+        ],
+        [
+          "In August Irene went away on holiday and was worried about her plants.",
+          "When she came back, her corner was perfect: someone had watered it every evening and had tied the tomatoes to their stakes.",
+          "Next to the pots was a note: “I was wrong. It isn't only problems. Bertoni.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "tetto piatto", "gloss": "flat roof" },
+        { "word": "agraria", "gloss": "agriculture (as a subject)" },
+        { "word": "condomini", "gloss": "residents of a block of flats" },
+        { "word": "orto", "gloss": "vegetable garden" },
+        { "word": "amministratore", "gloss": "building manager" },
+        { "word": "ha scosso la testa", "gloss": "shook his head" },
+        { "word": "litigi", "gloss": "arguments, quarrels" },
+        { "word": "piantine", "gloss": "seedlings" },
+        { "word": "annaffiavano", "gloss": "were watering" },
+        { "word": "pensionati", "gloss": "pensioners" },
+        { "word": "bastoni", "gloss": "stakes, sticks" }
+      ]
+    },
+    {
+      "id": "it-b1-08",
+      "title": "Il treno per Lugano",
+      "subtitle": "The train to Lugano",
+      "topic": "Getting around",
+      "symbol": "train.side.front.car",
+      "paragraphs": [
+        "Davide è un frontaliere: abita a Como e lavora in una banca a Lugano. Ogni mattina prende il treno delle sette e dodici e fa le parole crociate del giornale. Da qualche settimana, però, una ragazza seduta davanti a lui lo guarda e sorride. Un giorno, mentre lui cercava una parola di nove lettere, lei ha detto: «Gelsomino.»",
+        "Davide era un po' offeso. «Le parole crociate si fanno da soli,» ha risposto. Il giorno dopo, appena lui ha aperto il giornale, lei ha detto: «Orizzontale tre: Bellinzona.» Lui ha chiuso il giornale. «Lei legge al contrario?» «Da quando ero bambina,» ha detto lei. «Mio padre faceva le parole crociate a colazione e io stavo seduta dall'altra parte del tavolo.»",
+        "Da quel giorno hanno cominciato a fare le parole crociate insieme. Lei si chiamava Noemi e faceva l'infermiera all'ospedale di Mendrisio. A volte il treno restava fermo alla frontiera di Chiasso, ma nessuno dei due si lamentava più. Un venerdì Noemi è scesa e gli ha lasciato sul sedile il suo giornale. Le parole crociate erano tutte fatte, tranne una: «Orizzontale uno, quattro lettere: che cosa facciamo stasera?» Davide ha trovato la risposta subito: cena."
+      ],
+      "english": [
+        [
+          "Davide is a cross-border commuter: he lives in Como and works in a bank in Lugano.",
+          "Every morning he takes the 7:12 train and does the crossword in the newspaper.",
+          "For a few weeks, though, a young woman sitting opposite him has been watching him and smiling.",
+          "One day, while he was looking for a nine-letter word, she said: “Jasmine.”"
+        ],
+        [
+          "Davide was a little offended.",
+          "“Crosswords are something you do on your own,” he replied.",
+          "The next day, as soon as he opened the paper, she said: “Three across: Bellinzona.”",
+          "He closed the paper.",
+          "“Do you read upside down?”",
+          "“Since I was a little girl,” she said.",
+          "“My father did the crossword at breakfast and I used to sit on the other side of the table.”"
+        ],
+        [
+          "From that day on they started doing the crossword together.",
+          "Her name was Noemi and she was a nurse at the hospital in Mendrisio.",
+          "Sometimes the train was held up at the border in Chiasso, but neither of them complained any more.",
+          "One Friday Noemi got off and left her newspaper on the seat for him.",
+          "The crossword was all done except for one clue: “One across, four letters: what are we doing tonight?”",
+          "Davide found the answer straight away: dinner."
+        ]
+      ],
+      "vocab": [
+        { "word": "frontaliere", "gloss": "cross-border commuter" },
+        { "word": "parole crociate", "gloss": "crossword" },
+        { "word": "lettere", "gloss": "letters" },
+        { "word": "offeso", "gloss": "offended" },
+        { "word": "orizzontale", "gloss": "across (in a crossword)" },
+        { "word": "al contrario", "gloss": "upside down, the other way round" },
+        { "word": "infermiera", "gloss": "nurse" },
+        { "word": "frontiera", "gloss": "border" },
+        { "word": "si lamentava", "gloss": "complained" },
+        { "word": "sedile", "gloss": "seat" },
+        { "word": "tranne", "gloss": "except" }
+      ]
+    },
+    {
+      "id": "it-b1-09",
+      "title": "La battaglia delle arance",
+      "subtitle": "The battle of the oranges",
+      "topic": "Celebrations",
+      "symbol": "party.popper.fill",
+      "paragraphs": [
+        "Tom era arrivato a Ivrea da Londra per lavoro, e il suo collega Franco gli aveva detto: «Domenica c'è il Carnevale. Mettiti vestiti vecchi.» Tom pensava a maschere, coriandoli e dolci. Quando è entrato in piazza, invece, ha visto dei carri pieni di uomini con caschi e protezioni, e migliaia di persone che si tiravano arance.",
+        "«Ma è una guerra!» ha gridato. Franco ha riso e gli ha messo in testa un berretto rosso. «Con questo sei uno spettatore, e nessuno ti tirerà niente,» ha spiegato. «La battaglia ricorda una rivolta del Medioevo contro un tiranno. Le arance sono le pietre di una volta.» Proprio in quel momento un'arancia ha colpito Tom sulla spalla. «Beh, quasi nessuno,» ha detto Franco.",
+        "Alla fine della giornata Tom era bagnato, appiccicoso e pieno di lividi, ma non si era mai divertito così tanto. La sera, davanti a un piatto di fagioli con le cotiche, ha scritto a sua madre: «Qui le feste sono un po' diverse.» L'anno dopo è tornato con due amici inglesi. Questa volta, però, non ha messo il berretto rosso."
+      ],
+      "english": [
+        [
+          "Tom had come to Ivrea from London for work, and his colleague Franco had told him: “On Sunday it's Carnival. Wear old clothes.”",
+          "Tom was imagining masks, confetti and cakes.",
+          "When he walked into the square, however, he saw carts full of men in helmets and padding, and thousands of people throwing oranges at each other."
+        ],
+        [
+          "“But it's a war!” he shouted.",
+          "Franco laughed and put a red cap on his head.",
+          "“With this you're a spectator, and nobody will throw anything at you,” he explained.",
+          "“The battle commemorates a medieval revolt against a tyrant. The oranges are the stones of the old days.”",
+          "At that very moment an orange hit Tom on the shoulder.",
+          "“Well, almost nobody,” said Franco."
+        ],
+        [
+          "By the end of the day Tom was wet, sticky and covered in bruises, but he had never had so much fun.",
+          "In the evening, over a plate of beans with pork rind, he wrote to his mother: “Festivals are a bit different here.”",
+          "The following year he came back with two English friends.",
+          "This time, though, he didn't wear the red cap."
+        ]
+      ],
+      "vocab": [
+        { "word": "coriandoli", "gloss": "confetti" },
+        { "word": "carri", "gloss": "carts, floats" },
+        { "word": "caschi", "gloss": "helmets" },
+        { "word": "si tiravano", "gloss": "were throwing at each other" },
+        { "word": "berretto", "gloss": "cap" },
+        { "word": "spettatore", "gloss": "spectator" },
+        { "word": "rivolta", "gloss": "revolt, uprising" },
+        { "word": "tiranno", "gloss": "tyrant" },
+        { "word": "ha colpito", "gloss": "hit" },
+        { "word": "appiccicoso", "gloss": "sticky" },
+        { "word": "lividi", "gloss": "bruises" }
+      ]
+    },
+    {
+      "id": "it-b1-10",
+      "title": "Il coro di Cannaregio",
+      "subtitle": "The Cannaregio choir",
+      "topic": "Culture",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Il coro di Cannaregio aveva quarant'anni e solo sette cantanti. Tutti avevano più di settant'anni, e il soprano più giovane, la signora Lina, ne aveva settantadue. «Ormai a Venezia restano solo turisti,» diceva Marta, la direttrice. «Chi vuoi che venga a cantare con noi?» A settembre ha deciso: l'ultima prova sarebbe stata il primo venerdì di ottobre.",
+        "Le prove si facevano in una stanza al piano terra, con le finestre aperte sul canale. Quel venerdì il coro ha cantato tutte le canzoni del suo repertorio, anche le più vecchie. Alla fine Marta ha chiuso lo spartito e ha detto: «Grazie a tutti. È stato un onore.» In quel momento, dall'altra parte del canale, qualcuno ha cominciato a cantare la stessa canzone.",
+        "Marta si è affacciata alla finestra. Sui balconi di fronte c'erano una studentessa con la chitarra, un cuoco del ristorante all'angolo, due ragazzi bengalesi e una famiglia con tre bambini. «Vi ascoltiamo da anni,» ha gridato la studentessa. «Conosciamo tutte le canzoni, ma nessuno ci ha mai invitati.» Marta è rimasta in silenzio per un attimo, poi ha riaperto lo spartito. «La prossima prova è martedì alle sei,» ha detto. «Portate una sedia.»"
+      ],
+      "english": [
+        [
+          "The Cannaregio choir was forty years old and had only seven singers.",
+          "All of them were over seventy, and the youngest soprano, Signora Lina, was seventy-two.",
+          "“There's nobody left in Venice but tourists now,” Marta, the conductor, used to say.",
+          "“Who do you expect to come and sing with us?”",
+          "In September she made up her mind: the last rehearsal would be on the first Friday of October."
+        ],
+        [
+          "Rehearsals were held in a ground-floor room, with the windows open onto the canal.",
+          "That Friday the choir sang every song in its repertoire, even the oldest ones.",
+          "At the end Marta closed the score and said: “Thank you, everyone. It has been an honour.”",
+          "At that moment, on the other side of the canal, someone started singing the same song."
+        ],
+        [
+          "Marta leaned out of the window.",
+          "On the balconies opposite were a student with a guitar, a cook from the restaurant on the corner, two young Bangladeshi men and a family with three children.",
+          "“We've been listening to you for years,” the student shouted.",
+          "“We know all the songs, but nobody ever invited us.”",
+          "Marta was silent for a moment, then she opened the score again.",
+          "“The next rehearsal is on Tuesday at six,” she said.",
+          "“Bring a chair.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "coro", "gloss": "choir" },
+        { "word": "direttrice", "gloss": "(female) conductor" },
+        { "word": "prova", "gloss": "rehearsal" },
+        { "word": "piano terra", "gloss": "ground floor" },
+        { "word": "repertorio", "gloss": "repertoire" },
+        { "word": "spartito", "gloss": "score, sheet music" },
+        { "word": "si è affacciata", "gloss": "leaned out, looked out" },
+        { "word": "balconi", "gloss": "balconies" },
+        { "word": "bengalesi", "gloss": "Bangladeshi" },
+        { "word": "attimo", "gloss": "moment" }
+      ]
+    },
+    {
+      "id": "it-b1-11",
+      "title": "La bicicletta rossa",
+      "subtitle": "The red bicycle",
+      "topic": "City",
+      "symbol": "bicycle",
+      "paragraphs": [
+        "A Firenze, dicono, ci sono due tipi di ciclisti: quelli a cui hanno rubato la bici e quelli a cui la ruberanno. Pietro è passato dal secondo al primo gruppo un martedì di marzo, davanti alla biblioteca. La sua bicicletta rossa, vecchia ma bellissima, era sparita, e del lucchetto restava solo un pezzo per terra.",
+        "Tre settimane dopo, in piazza Santo Spirito, l'ha vista legata a un palo. Era proprio lei: lo stesso campanello rotto, lo stesso adesivo sul parafango. Pietro ha aspettato un'ora, finché è arrivata una ragazza di circa diciotto anni con il grembiule di un forno. «Questa bici è mia,» ha detto Pietro. La ragazza è diventata bianca. «L'ho comprata alla stazione per trenta euro,» ha risposto. «Mi serve per andare al lavoro alle quattro di mattina, quando gli autobus non ci sono.»",
+        "Pietro ha guardato la bici, poi la ragazza. Lui aveva anche un motorino, e la bicicletta la usava solo la domenica. «Tienila,» ha detto alla fine. «Ma compra un lucchetto migliore.» Le ha lasciato anche il suo indirizzo, nel caso la bici avesse bisogno di un meccanico. Da quel giorno, ogni mattina, Pietro trova appeso alla sua porta un sacchetto di carta con una schiacciata ancora calda. Non c'è mai un biglietto, ma non ce n'è bisogno."
+      ],
+      "english": [
+        [
+          "In Florence, they say, there are two kinds of cyclist: those who have had their bike stolen and those who will.",
+          "Pietro moved from the second group to the first one Tuesday in March, outside the library.",
+          "His red bicycle, old but beautiful, had vanished, and all that was left of the lock was a piece on the ground."
+        ],
+        [
+          "Three weeks later, in Piazza Santo Spirito, he saw it chained to a post.",
+          "It really was his: the same broken bell, the same sticker on the mudguard.",
+          "Pietro waited an hour, until a girl of about eighteen turned up wearing a bakery apron.",
+          "“This bike is mine,” Pietro said.",
+          "The girl went white.",
+          "“I bought it at the station for thirty euros,” she replied.",
+          "“I need it to get to work at four in the morning, when there aren't any buses.”"
+        ],
+        [
+          "Pietro looked at the bike, then at the girl.",
+          "He also had a scooter, and he only used the bicycle on Sundays.",
+          "“Keep it,” he said in the end.",
+          "“But buy a better lock.”",
+          "He also left her his address, in case the bike needed a mechanic.",
+          "Since that day, every morning, Pietro finds a paper bag hanging on his door with a schiacciata that's still warm.",
+          "There's never a note, but there's no need for one."
+        ]
+      ],
+      "vocab": [
+        { "word": "ciclisti", "gloss": "cyclists" },
+        { "word": "sparita", "gloss": "vanished" },
+        { "word": "lucchetto", "gloss": "lock, padlock" },
+        { "word": "legata", "gloss": "chained, tied" },
+        { "word": "palo", "gloss": "post, pole" },
+        { "word": "campanello", "gloss": "bell" },
+        { "word": "parafango", "gloss": "mudguard" },
+        { "word": "grembiule", "gloss": "apron" },
+        { "word": "forno", "gloss": "bakery" },
+        { "word": "motorino", "gloss": "scooter, moped" },
+        { "word": "appeso", "gloss": "hanging" }
+      ]
+    },
+    {
+      "id": "it-b1-12",
+      "title": "La notte delle stelle cadenti",
+      "subtitle": "The night of the shooting stars",
+      "topic": "Science",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "La notte di San Lorenzo, Bianca e suo padre sono saliti in macchina fino a Campo Imperatore, in Abruzzo. Lassù, a duemila metri, il cielo era così nero che si vedeva la Via Lattea. Hanno steso una coperta sull'erba e si sono sdraiati. «Quando vedi una stella cadente, devi esprimere un desiderio,» ha detto il padre.",
+        "Vicino a loro c'era una signora con un grosso telescopio. «Veramente non sono stelle,» ha detto sorridendo. «Sono granelli di polvere lasciati da una cometa. Entrano nell'atmosfera a sessanta chilometri al secondo e bruciano.» Bianca, che aveva dodici anni e voleva sapere tutto, ha cominciato a farle domande: quanto è grande un granello, dove si trova la cometa adesso, perché arrivano sempre ad agosto. La signora, che lavorava all'osservatorio, rispondeva con pazienza.",
+        "Verso le tre di notte avevano contato quarantasette meteore. «Allora, hai espresso un desiderio?» ha chiesto il padre. «Sì,» ha detto Bianca. «Voglio lavorare in un osservatorio, come lei. E tu?» Il padre ha guardato il cielo e poi sua figlia. «Il mio è facile,» ha risposto. «Che tu non smetta mai di fare domande.»"
+      ],
+      "english": [
+        [
+          "On the night of San Lorenzo, Bianca and her father drove up to Campo Imperatore, in Abruzzo.",
+          "Up there, at two thousand metres, the sky was so black that you could see the Milky Way.",
+          "They spread a blanket on the grass and lay down.",
+          "“When you see a shooting star, you have to make a wish,” her father said."
+        ],
+        [
+          "Near them was a woman with a big telescope.",
+          "“Actually, they aren't stars,” she said with a smile.",
+          "“They're specks of dust left behind by a comet. They enter the atmosphere at sixty kilometres a second and burn up.”",
+          "Bianca, who was twelve and wanted to know everything, started asking her questions: how big a speck is, where the comet is now, why they always come in August.",
+          "The woman, who worked at the observatory, answered patiently."
+        ],
+        [
+          "By three in the morning they had counted forty-seven meteors.",
+          "“So, did you make a wish?” her father asked.",
+          "“Yes,” said Bianca.",
+          "“I want to work in an observatory, like her. What about you?”",
+          "Her father looked at the sky and then at his daughter.",
+          "“Mine is easy,” he replied.",
+          "“That you never stop asking questions.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "stella cadente", "gloss": "shooting star" },
+        { "word": "esprimere un desiderio", "gloss": "to make a wish" },
+        { "word": "Via Lattea", "gloss": "Milky Way" },
+        { "word": "hanno steso", "gloss": "spread out" },
+        { "word": "si sono sdraiati", "gloss": "lay down" },
+        { "word": "granelli", "gloss": "specks, grains" },
+        { "word": "polvere", "gloss": "dust" },
+        { "word": "cometa", "gloss": "comet" },
+        { "word": "bruciano", "gloss": "burn up" },
+        { "word": "osservatorio", "gloss": "observatory" },
+        { "word": "meteore", "gloss": "meteors" }
+      ]
+    },
+    {
+      "id": "it-b1-13",
+      "title": "Il gatto sulla banconota",
+      "subtitle": "The cat on the banknote",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Una domenica mattina, a Villa Borghese, Stefano ha trovato una banconota da cinquanta euro sotto una panchina. Intorno non c'era nessuno. Sua moglie ha detto: «Tienila, è un regalo della fortuna.» Ma Stefano era un uomo onesto, forse troppo. Il giorno dopo ha attaccato un cartello alla panchina: «Trovati soldi qui domenica. Chiamare questo numero.»",
+        "In una settimana l'hanno chiamato trentadue persone. Tutti avevano perso dei soldi a Villa Borghese, proprio quella domenica. «Erano venti euro,» diceva uno. «No, erano cento,» diceva un altro. Stefano faceva sempre la stessa domanda: «Mi descriva la banconota.» Nessuno sapeva rispondere, e sua moglie rideva. «Vedi? Roma è piena di persone sfortunate.»",
+        "L'ultima telefonata è arrivata da un bambino. «Mi chiamo Leo e ho otto anni,» ha detto con voce seria. «I soldi erano della nonna, per il mio compleanno. Sulla banconota, nell'angolo, avevo disegnato un gatto con la penna blu.» Stefano ha preso la banconota dal portafoglio. Nell'angolo c'era un piccolo gatto blu. Il sabato dopo l'ha riportata a Leo, e la nonna ha voluto offrire un gelato a tutti, anche alla moglie di Stefano, che per una volta non ha detto niente."
+      ],
+      "english": [
+        [
+          "One Sunday morning, in Villa Borghese, Stefano found a fifty-euro note under a bench.",
+          "There was nobody around.",
+          "His wife said: “Keep it, it's a present from Lady Luck.”",
+          "But Stefano was an honest man, perhaps too honest.",
+          "The next day he stuck a sign on the bench: “Money found here on Sunday. Call this number.”"
+        ],
+        [
+          "In one week thirty-two people called him.",
+          "They had all lost money in Villa Borghese, on that very Sunday.",
+          "“It was twenty euros,” one would say.",
+          "“No, it was a hundred,” another would say.",
+          "Stefano always asked the same question: “Describe the note to me.”",
+          "Nobody could answer, and his wife laughed.",
+          "“See? Rome is full of unlucky people.”"
+        ],
+        [
+          "The last call came from a little boy.",
+          "“My name is Leo and I'm eight,” he said in a serious voice.",
+          "“The money was from my granny, for my birthday. On the note, in the corner, I'd drawn a cat in blue pen.”",
+          "Stefano took the note out of his wallet.",
+          "In the corner was a small blue cat.",
+          "The following Saturday he took it back to Leo, and the boy's granny insisted on buying everyone an ice cream, even Stefano's wife, who for once said nothing."
+        ]
+      ],
+      "vocab": [
+        { "word": "banconota", "gloss": "banknote" },
+        { "word": "panchina", "gloss": "bench" },
+        { "word": "fortuna", "gloss": "luck" },
+        { "word": "onesto", "gloss": "honest" },
+        { "word": "ha attaccato", "gloss": "stuck, put up" },
+        { "word": "cartello", "gloss": "sign, notice" },
+        { "word": "sfortunate", "gloss": "unlucky" },
+        { "word": "seria", "gloss": "serious" },
+        { "word": "avevo disegnato", "gloss": "I had drawn" },
+        { "word": "portafoglio", "gloss": "wallet" },
+        { "word": "ha voluto offrire", "gloss": "insisted on treating (them to)" }
+      ]
+    },
+    {
+      "id": "it-b1-14",
+      "title": "Il mare di oggi",
+      "subtitle": "Today's sea",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "Quando Nico ha vinto una borsa Erasmus per Copenaghen, ha regalato a suo nonno Aldo uno smartphone. «Così potremo sentirci ogni giorno,» gli ha detto. Il nonno, che aveva fatto il pilota nel porto di Genova per quarant'anni, ha guardato il telefono come si guarda un pesce strano. «Io ho sempre usato il telefono di casa,» ha brontolato. «Questo coso non ha nemmeno i tasti.»",
+        "Per una settimana Nico gli ha insegnato tutto: come rispondere, come fare una foto, come mandarla. Il nonno sbagliava, si arrabbiava, ricominciava. Una volta ha chiamato per errore un idraulico di Savona e ha parlato con lui mezz'ora del tempo. Poi Nico è partito, e per dieci giorni dal nonno non è arrivato niente.",
+        "L'undicesimo giorno, alle sette di mattina, sul telefono di Nico è apparsa una foto: il mare davanti a Boccadasse, grigio e calmo, e sotto un messaggio: «Il mare di oggi. Vento da sud, ma debole.» Il giorno dopo ne è arrivata un'altra, e poi un'altra ancora. Adesso, a Copenaghen, anche i coinquilini di Nico aspettano la foto del nonno prima di fare colazione. «Com'è il mare oggi a Genova?» chiedono. E Nico, che pensava di dover insegnare tutto al nonno, ha imparato a leggere il vento."
+      ],
+      "english": [
+        [
+          "When Nico won an Erasmus grant to Copenhagen, he gave his grandfather Aldo a smartphone.",
+          "“That way we'll be able to talk every day,” he told him.",
+          "His grandfather, who had been a harbour pilot in the port of Genoa for forty years, looked at the phone the way you look at a strange fish.",
+          "“I've always used the landline,” he grumbled.",
+          "“This thing doesn't even have any buttons.”"
+        ],
+        [
+          "For a week Nico taught him everything: how to answer, how to take a photo, how to send it.",
+          "His grandfather made mistakes, got cross, started again.",
+          "Once he called a plumber in Savona by mistake and talked to him about the weather for half an hour.",
+          "Then Nico left, and for ten days nothing came from his grandfather."
+        ],
+        [
+          "On the eleventh day, at seven in the morning, a photo appeared on Nico's phone: the sea at Boccadasse, grey and calm, and underneath a message: “Today's sea. Wind from the south, but light.”",
+          "The next day another one arrived, and then another.",
+          "Now, in Copenhagen, even Nico's flatmates wait for his grandfather's photo before they have breakfast.",
+          "“What's the sea like in Genoa today?” they ask.",
+          "And Nico, who thought he would have to teach his grandfather everything, has learned to read the wind."
+        ]
+      ],
+      "vocab": [
+        { "word": "borsa", "gloss": "grant, scholarship" },
+        { "word": "pilota", "gloss": "(harbour) pilot" },
+        { "word": "ha brontolato", "gloss": "grumbled" },
+        { "word": "coso", "gloss": "thing, gadget (informal)" },
+        { "word": "tasti", "gloss": "buttons, keys" },
+        { "word": "si arrabbiava", "gloss": "got cross" },
+        { "word": "per errore", "gloss": "by mistake" },
+        { "word": "idraulico", "gloss": "plumber" },
+        { "word": "debole", "gloss": "light, weak" },
+        { "word": "coinquilini", "gloss": "flatmates" }
+      ]
+    },
+    {
+      "id": "it-b1-15",
+      "title": "Niente sci",
+      "subtitle": "No skiing",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Anna non aveva mai visto la neve da vicino. A gennaio i suoi amici l'hanno convinta a venire in Val di Fassa, in Trentino, per una settimana sugli sci. La prima mattina, ancora prima di mettere gli sci, è scivolata sul ghiaccio davanti all'albergo. Al pronto soccorso di Cavalese il medico ha guardato la radiografia. «Non è rotta, ma è una brutta distorsione,» ha detto. «Niente sci per quindici giorni.»",
+        "Mentre gli amici passavano le giornate sulle piste, Anna restava in albergo con la caviglia fasciata. Il secondo giorno si annoiava già. Allora la nonna dei proprietari, la signora Rosina, si è seduta accanto a lei con un grande piatto di pane secco. «Se devi stare ferma, almeno impara qualcosa,» le ha detto. «Oggi facciamo i canederli.»",
+        "Per tutta la settimana Anna ha imparato a cucinare i piatti della valle, a giocare a carte e perfino qualche parola di ladino. La sera, quando gli amici tornavano stanchi e pieni di dolori, lei li aspettava con lo strudel appena sfornato. L'inverno seguente le hanno chiesto: «Vieni a sciare con noi?» Anna ha sorriso. «Vengo,» ha risposto, «ma gli sci li lascio a casa.»"
+      ],
+      "english": [
+        [
+          "Anna had never seen snow up close.",
+          "In January her friends persuaded her to come to the Val di Fassa, in Trentino, for a skiing week.",
+          "On the first morning, before she had even put her skis on, she slipped on the ice outside the hotel.",
+          "At the A&E in Cavalese the doctor looked at the X-ray.",
+          "“It isn't broken, but it's a bad sprain,” he said.",
+          "“No skiing for a fortnight.”"
+        ],
+        [
+          "While her friends spent their days on the slopes, Anna stayed at the hotel with her ankle bandaged.",
+          "By the second day she was already bored.",
+          "So the owners' grandmother, Signora Rosina, sat down next to her with a big plate of stale bread.",
+          "“If you have to keep still, at least learn something,” she told her.",
+          "“Today we're making canederli.”"
+        ],
+        [
+          "All week Anna learned to cook the valley's dishes, to play cards and even a few words of Ladin.",
+          "In the evening, when her friends came back tired and aching all over, she was waiting for them with strudel fresh from the oven.",
+          "The following winter they asked her: “Are you coming skiing with us?”",
+          "Anna smiled.",
+          "“I'm coming,” she replied, “but I'm leaving the skis at home.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "da vicino", "gloss": "up close" },
+        { "word": "è scivolata", "gloss": "slipped" },
+        { "word": "ghiaccio", "gloss": "ice" },
+        { "word": "pronto soccorso", "gloss": "A&E, emergency department" },
+        { "word": "radiografia", "gloss": "X-ray" },
+        { "word": "distorsione", "gloss": "sprain" },
+        { "word": "piste", "gloss": "ski slopes" },
+        { "word": "fasciata", "gloss": "bandaged" },
+        { "word": "si annoiava", "gloss": "was bored" },
+        { "word": "pane secco", "gloss": "stale bread" },
+        { "word": "appena sfornato", "gloss": "fresh from the oven" }
+      ]
+    }
+  ]
+}

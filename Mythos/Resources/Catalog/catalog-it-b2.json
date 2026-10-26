@@ -1,0 +1,804 @@
+{
+  "language": "it",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "it-b2-01",
+      "title": "Lettera al sindaco",
+      "subtitle": "A letter to the mayor",
+      "topic": "Society",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Egregio signor sindaco, mi chiamo Teresa Di Lollo, ho ottantun anni e abito in via della Fontana da quando sono nata. Le scrivo perché ho saputo che il bar della piazza chiuderà alla fine del mese. Il signor Carmine, che lo gestisce da trentacinque anni, va in pensione, e a quanto pare nessuno vuole prendere il suo posto. Capisco che i conti non tornino: in paese siamo rimasti in duecentoquaranta, e d'inverno i clienti si contano sulle dita di una mano.",
+        "Eppure quel bar non è solo un bar. È lì che si ritira la posta quando il postino non sale fino alle case in alto, è lì che si lasciano le chiavi per chi deve venire ad aggiustare la caldaia, ed è lì che il signor Carmine si accorge se qualcuno non si fa vedere da due giorni. L'anno scorso, se non fosse stato per lui, il mio vicino Antonio sarebbe rimasto per terra in cucina chissà quanto tempo.",
+        "Non le chiedo dei soldi, che so che il Comune non ha. Le chiedo il permesso di provare un'altra strada. Siamo in dodici, quasi tutti pensionati, e siamo disposti a tenere aperto il bar a turno, due mattine a testa ogni settimana. Il signor Carmine si è offerto di insegnarci a usare la macchina del caffè. Ci servirebbe soltanto che il Comune ci concedesse i locali senza affitto per un anno, come esperimento.",
+        "Mi rendo conto che sembra una proposta strana. Ma se in paese non ci sarà più un posto dove incontrarsi, temo che tra dieci anni non ci sarà più nemmeno il paese. La aspettiamo giovedì alle dieci al bar, finché è ancora aperto. Il caffè, glielo garantisco, lo offriamo noi. Distinti saluti, Teresa Di Lollo. PS: mi è stato detto che anche lei, da ragazzo, ci veniva a giocare a carte con suo nonno."
+      ],
+      "english": [
+        [
+          "Dear Mayor, my name is Teresa Di Lollo, I am eighty-one years old and I have lived on Via della Fontana since the day I was born.",
+          "I am writing to you because I have heard that the bar on the square will close at the end of the month.",
+          "Signor Carmine, who has run it for thirty-five years, is retiring, and it seems that nobody wants to take his place.",
+          "I understand that the numbers don't add up: there are only two hundred and forty of us left in the village, and in winter the customers can be counted on the fingers of one hand."
+        ],
+        [
+          "And yet that bar isn't just a bar.",
+          "It's where people collect their post when the postman doesn't climb up to the houses at the top, it's where keys are left for whoever has to come and fix the boiler, and it's where Signor Carmine notices if someone hasn't been seen for two days.",
+          "Last year, if it hadn't been for him, my neighbour Antonio would have been left lying on his kitchen floor for who knows how long."
+        ],
+        [
+          "I am not asking you for money, which I know the council doesn't have.",
+          "I am asking your permission to try another way.",
+          "There are twelve of us, nearly all pensioners, and we are willing to keep the bar open in turns, two mornings each every week.",
+          "Signor Carmine has offered to teach us how to use the coffee machine.",
+          "All we would need is for the council to let us have the premises rent-free for a year, as an experiment."
+        ],
+        [
+          "I realise this seems an odd proposal.",
+          "But if there is no longer anywhere in the village to meet, I fear that in ten years there won't even be a village.",
+          "We will expect you on Thursday at ten at the bar, while it is still open.",
+          "The coffee, I can assure you, will be on us.",
+          "Yours faithfully, Teresa Di Lollo.",
+          "PS: I have been told that you, too, used to come here as a boy to play cards with your grandfather."
+        ]
+      ],
+      "vocab": [
+        { "word": "Egregio", "gloss": "Dear (formal letter opening)" },
+        { "word": "gestisce", "gloss": "runs, manages" },
+        { "word": "i conti non tornino", "gloss": "the numbers don't add up" },
+        { "word": "si contano sulle dita di una mano", "gloss": "can be counted on the fingers of one hand" },
+        { "word": "si ritira la posta", "gloss": "people collect their post" },
+        { "word": "caldaia", "gloss": "boiler" },
+        { "word": "si accorge", "gloss": "notices" },
+        { "word": "disposti", "gloss": "willing" },
+        { "word": "a turno", "gloss": "in turns" },
+        { "word": "concedesse", "gloss": "granted, let (us) have" },
+        { "word": "locali", "gloss": "premises" },
+        { "word": "Distinti saluti", "gloss": "Yours faithfully" }
+      ]
+    },
+    {
+      "id": "it-b2-02",
+      "title": "Dalla banca all'alpeggio",
+      "subtitle": "From the bank to the mountain pasture",
+      "topic": "Work",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Fino a tre anni fa Silvia Moretti lavorava come analista finanziaria in una grande banca di Milano. Oggi ha trentaquattro anni, sessanta capre e un piccolo caseificio in Valtellina, a milleottocento metri di altitudine. L'abbiamo incontrata all'alpeggio, mentre preparava il formaggio della mattina.",
+        "Come è nata l'idea? «Non c'è stato un momento preciso. Lavoravo dodici ore al giorno e guadagnavo bene, ma mi sembrava che la mia vita fosse fatta di numeri che non toccavo mai. Ogni estate venivo qui da mia zia, che aveva qualche capra. Un giorno lei mi ha detto che non ce la faceva più e che avrebbe venduto tutto. Le ho chiesto di aspettare un anno.»",
+        "I suoi genitori come hanno reagito? «Mio padre è stato zitto per una settimana. Poi è venuto su a trovarmi e ha passato tre giorni a riparare il tetto della stalla senza dire una parola. Credo che quello fosse il suo modo di approvare.» E i colleghi di Milano? «All'inizio pensavano che fosse uno scherzo. Adesso due di loro vengono qui ogni agosto a darmi una mano, e mi chiedono se cerco soci.»",
+        "Rimpiange qualcosa della vita di prima? «Lo stipendio, ogni tanto. E le vacanze: le capre non sanno che cos'è il mese di agosto. Ma la sera sono stanca in un modo diverso, più onesto. E poi c'è una cosa che in banca non mi era mai successa: le persone assaggiano quello che faccio e mi dicono grazie.» Mentre parliamo, una capra cerca di mangiarmi il taccuino. «Visto?» ride Silvia. «Anche lei vuole dire la sua.»"
+      ],
+      "english": [
+        [
+          "Until three years ago Silvia Moretti worked as a financial analyst at a big bank in Milan.",
+          "Today she is thirty-four and has sixty goats and a small dairy in Valtellina, at an altitude of eighteen hundred metres.",
+          "We met her at the summer pasture, while she was making the morning's cheese."
+        ],
+        [
+          "How did the idea come about?",
+          "“There wasn't one precise moment. I worked twelve hours a day and earned well, but it felt as though my life was made of numbers I never touched. Every summer I came up here to stay with my aunt, who had a few goats. One day she told me she couldn't cope any more and that she was going to sell everything. I asked her to wait a year.”"
+        ],
+        [
+          "How did your parents react?",
+          "“My father didn't say a word for a week. Then he came up to see me and spent three days repairing the roof of the goat shed without speaking. I think that was his way of approving.”",
+          "And your colleagues in Milan?",
+          "“At first they thought it was a joke. Now two of them come here every August to give me a hand, and they ask me if I'm looking for partners.”"
+        ],
+        [
+          "Do you miss anything about your old life?",
+          "“The salary, now and then. And holidays: goats don't know what August is. But in the evening I'm tired in a different way, a more honest way. And there's something that never happened to me at the bank: people taste what I make and say thank you.”",
+          "As we talk, a goat tries to eat my notebook.",
+          "“See?” Silvia laughs.",
+          "“She wants to have her say too.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "analista finanziaria", "gloss": "financial analyst" },
+        { "word": "capre", "gloss": "goats" },
+        { "word": "caseificio", "gloss": "dairy, cheese-making shed" },
+        { "word": "alpeggio", "gloss": "high summer pasture" },
+        { "word": "non ce la faceva più", "gloss": "she couldn't cope any more" },
+        { "word": "stalla", "gloss": "animal shed, stable" },
+        { "word": "approvare", "gloss": "to approve" },
+        { "word": "scherzo", "gloss": "joke" },
+        { "word": "soci", "gloss": "business partners" },
+        { "word": "Rimpiange", "gloss": "do you miss, do you regret" },
+        { "word": "stipendio", "gloss": "salary" },
+        { "word": "dire la sua", "gloss": "to have one's say" }
+      ]
+    },
+    {
+      "id": "it-b2-03",
+      "title": "In difesa del caffè al banco",
+      "subtitle": "In defence of coffee at the counter",
+      "topic": "Food & drink",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Da qualche anno, anche in Italia, si vedono sempre più persone che camminano per strada con un bicchiere di carta in mano. Non ho niente contro di loro, sia chiaro. Però credo che valga la pena difendere un'abitudine che rischiamo di perdere senza accorgercene: il caffè bevuto in piedi, al banco del bar.",
+        "Chi viene dall'estero spesso non capisce. Perché bere in fretta, in piedi, quando si potrebbe stare seduti? La risposta è che il caffè al banco non è una pausa, ma un incontro. In quei tre minuti il barista ti chiede come sta tua madre, il pensionato accanto commenta la partita, la studentessa si lamenta dell'esame. Sono conversazioni brevi e senza impegno, ma tengono insieme un quartiere più di quanto immaginiamo.",
+        "Qualcuno dirà che sono un nostalgico, e forse ha ragione. È vero che i ritmi sono cambiati e che molti lavorano lontano da casa, senza un bar sotto l'ufficio. È anche vero, però, che un cappuccino da portare via costa il triplo e viene servito in un bicchiere che finisce nella spazzatura dopo dieci minuti. Non mi sembra un grande progresso.",
+        "Non propongo leggi né divieti. Propongo un piccolo esperimento: domani mattina, prima di ordinare il solito caffè da asporto, entrate in un bar qualunque e appoggiatevi al banco. Salutate, ordinate un espresso, ascoltate. Se dopo una settimana vi sarete annoiati, tornate pure al bicchiere di carta. Ma scommetto che il barista, a quel punto, saprà già come vi chiamate."
+      ],
+      "english": [
+        [
+          "For a few years now, in Italy too, you see more and more people walking down the street with a paper cup in their hand.",
+          "I have nothing against them, let's be clear.",
+          "But I think it's worth defending a habit we risk losing without even noticing: coffee drunk standing up, at the counter of a bar."
+        ],
+        [
+          "People from abroad often don't understand.",
+          "Why drink in a hurry, standing up, when you could sit down?",
+          "The answer is that coffee at the counter isn't a break, but an encounter.",
+          "In those three minutes the barista asks you how your mother is, the pensioner next to you comments on the match, the student complains about her exam.",
+          "They are short conversations, with no strings attached, but they hold a neighbourhood together more than we imagine."
+        ],
+        [
+          "Some will say I'm nostalgic, and perhaps they're right.",
+          "It's true that the pace of life has changed and that many people work far from home, without a bar beneath the office.",
+          "But it's also true that a takeaway cappuccino costs three times as much and is served in a cup that ends up in the bin after ten minutes.",
+          "That doesn't strike me as great progress."
+        ],
+        [
+          "I'm not proposing laws or bans.",
+          "I'm proposing a small experiment: tomorrow morning, before ordering your usual takeaway coffee, walk into any bar and lean on the counter.",
+          "Say hello, order an espresso, listen.",
+          "If after a week you're bored, by all means go back to the paper cup.",
+          "But I bet that by then the barista will already know your name."
+        ]
+      ],
+      "vocab": [
+        { "word": "bicchiere di carta", "gloss": "paper cup" },
+        { "word": "sia chiaro", "gloss": "let's be clear" },
+        { "word": "valga la pena", "gloss": "it's worth it" },
+        { "word": "accorgercene", "gloss": "noticing it" },
+        { "word": "banco", "gloss": "counter (of a bar)" },
+        { "word": "senza impegno", "gloss": "casual, with no strings attached" },
+        { "word": "nostalgico", "gloss": "nostalgic person" },
+        { "word": "il triplo", "gloss": "three times as much" },
+        { "word": "spazzatura", "gloss": "rubbish, bin" },
+        { "word": "divieti", "gloss": "bans" },
+        { "word": "da asporto", "gloss": "takeaway" },
+        { "word": "scommetto", "gloss": "I bet" }
+      ]
+    },
+    {
+      "id": "it-b2-04",
+      "title": "Quattro toni",
+      "subtitle": "Four tones",
+      "topic": "Environment",
+      "symbol": "water.waves",
+      "paragraphs": [
+        "Quando suonano le sirene, a Venezia, tutti sanno che cosa fare. Lorenza, che gestisce una ferramenta nel sestiere di Castello, ha imparato da suo padre a contare i toni: uno per centodieci centimetri, due per centoventi, quattro per oltre centoquaranta. Il 12 novembre 2019 le sirene ne avevano suonati quattro, e l'acqua era entrata nel negozio fino all'altezza dei suoi fianchi. Per settimane aveva buttato via chiodi arrugginiti, vernici rovinate e cassetti pieni di fango.",
+        "Da allora le cose sono cambiate. Alle bocche di porto è stato costruito il Mose, un sistema di paratoie che si alzano dal fondo del mare e chiudono la laguna quando la marea è troppo alta. Il primo inverno Lorenza non ci credeva. Suo padre le aveva sempre detto che il mare, prima o poi, si riprende quello che è suo, e lei teneva ancora gli stivali di gomma accanto alla porta.",
+        "Una sera di dicembre le sirene hanno suonato di nuovo: quattro toni. Lorenza ha alzato la merce sugli scaffali più alti ed è rimasta ad aspettare. Ma l'acqua non è arrivata. In campo, i bambini giocavano a pallone sulle pietre asciutte, e un turista le ha chiesto se le sirene fossero un'esercitazione.",
+        "Il giorno dopo, al bar, un biologo che lavora in laguna le ha spiegato che la vittoria non è così semplice. Ha detto che, se le paratoie verranno chiuse troppo spesso, l'acqua della laguna non si rinnoverà, e i pesci e le alghe ne soffriranno. Lorenza è tornata in negozio pensierosa. Gli stivali di gomma, per il momento, li ha lasciati dov'erano."
+      ],
+      "english": [
+        [
+          "When the sirens sound in Venice, everyone knows what to do.",
+          "Lorenza, who runs a hardware shop in the Castello district, learned from her father to count the tones: one for a hundred and ten centimetres, two for a hundred and twenty, four for over a hundred and forty.",
+          "On 12 November 2019 the sirens had sounded four, and the water had come into the shop up to her hips.",
+          "For weeks she had thrown away rusty nails, ruined paint and drawers full of mud."
+        ],
+        [
+          "Since then, things have changed.",
+          "At the inlets to the lagoon the MOSE was built, a system of barriers that rise from the seabed and close off the lagoon when the tide is too high.",
+          "The first winter, Lorenza didn't believe in it.",
+          "Her father had always told her that sooner or later the sea takes back what belongs to it, and she still kept her wellies by the door."
+        ],
+        [
+          "One evening in December the sirens sounded again: four tones.",
+          "Lorenza lifted her stock onto the highest shelves and stayed to wait.",
+          "But the water didn't come.",
+          "In the square, children were playing football on the dry stones, and a tourist asked her whether the sirens were a drill."
+        ],
+        [
+          "The next day, at the bar, a biologist who works in the lagoon explained to her that the victory isn't so simple.",
+          "He said that, if the barriers are closed too often, the water in the lagoon won't be renewed, and the fish and the seaweed will suffer.",
+          "Lorenza went back to the shop deep in thought.",
+          "For the time being, she left the wellies where they were."
+        ]
+      ],
+      "vocab": [
+        { "word": "sirene", "gloss": "sirens" },
+        { "word": "ferramenta", "gloss": "hardware shop" },
+        { "word": "sestiere", "gloss": "district of Venice" },
+        { "word": "fianchi", "gloss": "hips" },
+        { "word": "arrugginiti", "gloss": "rusty" },
+        { "word": "fango", "gloss": "mud" },
+        { "word": "bocche di porto", "gloss": "inlets (between lagoon and sea)" },
+        { "word": "paratoie", "gloss": "floodgates, barriers" },
+        { "word": "marea", "gloss": "tide" },
+        { "word": "stivali di gomma", "gloss": "wellies, rubber boots" },
+        { "word": "esercitazione", "gloss": "drill, exercise" },
+        { "word": "si rinnoverà", "gloss": "will be renewed" }
+      ]
+    },
+    {
+      "id": "it-b2-05",
+      "title": "Il cane sotto il mantello",
+      "subtitle": "The dog under the cloak",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Il dipinto era arrivato nel laboratorio di Alessandra, in via Maggio, avvolto in una coperta di lana. Si trattava di una pala d'altare del Cinquecento, proveniente da una piccola chiesa del Mugello, che era stata danneggiata dall'umidità. Il parroco voleva che fosse restaurata in tempo per la festa del patrono, a settembre. «Faremo il possibile,» aveva promesso Alessandra, senza sapere che cosa avrebbe trovato.",
+        "Prima di toccare il colore, ogni opera viene fotografata con una luce infrarossa, che permette di vedere il disegno nascosto sotto la pittura. Quando le immagini sono apparse sullo schermo, Alessandra ha chiamato il suo assistente. Sotto il mantello azzurro della Madonna, in un angolo, era stato disegnato un piccolo cane. Accanto, con una scrittura incerta, si leggevano alcune parole: «Questo è Moro, che mi ha mangiato il pranzo.»",
+        "Secondo Alessandra, il disegno era stato fatto da un apprendista, forse un ragazzo di dodici o tredici anni, che preparava la tavola per il maestro. Il maestro, evidentemente, non se n'era accorto, o aveva deciso di coprirlo con il colore senza cancellarlo. Per cinquecento anni nessuno l'aveva visto. «È la cosa più bella che abbia mai trovato,» ha detto all'assistente. «Ci ricorda che dietro ogni capolavoro ci sono persone vere, con la fame e con un cane dispettoso.»",
+        "Il cane, naturalmente, non poteva essere riportato alla luce senza distruggere il dipinto. Alla festa del patrono, però, accanto alla pala restaurata è stata appesa una grande fotografia all'infrarosso. Da allora i bambini del paese entrano in chiesa per cercare Moro, e il parroco sostiene di non aver mai visto così tanta gente a messa."
+      ],
+      "english": [
+        [
+          "The painting had arrived at Alessandra's workshop, on Via Maggio, wrapped in a woollen blanket.",
+          "It was a sixteenth-century altarpiece from a small church in the Mugello, which had been damaged by damp.",
+          "The parish priest wanted it to be restored in time for the patron saint's feast, in September.",
+          "“We'll do our best,” Alessandra had promised, without knowing what she would find."
+        ],
+        [
+          "Before the paint is touched, every work is photographed under infrared light, which makes it possible to see the drawing hidden beneath the painting.",
+          "When the images appeared on the screen, Alessandra called her assistant.",
+          "Under the Madonna's blue cloak, in a corner, a little dog had been drawn.",
+          "Next to it, in uncertain handwriting, a few words could be read: “This is Moro, who ate my lunch.”"
+        ],
+        [
+          "According to Alessandra, the drawing had been made by an apprentice, perhaps a boy of twelve or thirteen, who was preparing the panel for the master.",
+          "The master, evidently, hadn't noticed it, or had decided to cover it with paint without rubbing it out.",
+          "For five hundred years nobody had seen it.",
+          "“It's the most beautiful thing I've ever found,” she told her assistant.",
+          "“It reminds us that behind every masterpiece there are real people, who get hungry and have naughty dogs.”"
+        ],
+        [
+          "The dog, of course, couldn't be brought back to light without destroying the painting.",
+          "At the patron saint's feast, however, a large infrared photograph was hung next to the restored altarpiece.",
+          "Since then the village children have been going into the church to look for Moro, and the priest claims he has never seen so many people at Mass."
+        ]
+      ],
+      "vocab": [
+        { "word": "laboratorio", "gloss": "workshop, studio" },
+        { "word": "avvolto", "gloss": "wrapped" },
+        { "word": "pala d'altare", "gloss": "altarpiece" },
+        { "word": "umidità", "gloss": "damp" },
+        { "word": "parroco", "gloss": "parish priest" },
+        { "word": "patrono", "gloss": "patron saint" },
+        { "word": "infrarossa", "gloss": "infrared" },
+        { "word": "mantello", "gloss": "cloak" },
+        { "word": "apprendista", "gloss": "apprentice" },
+        { "word": "tavola", "gloss": "wooden panel (for painting)" },
+        { "word": "capolavoro", "gloss": "masterpiece" },
+        { "word": "dispettoso", "gloss": "naughty, mischievous" }
+      ]
+    },
+    {
+      "id": "it-b2-06",
+      "title": "La vendemmia",
+      "subtitle": "The grape harvest",
+      "topic": "Outdoors",
+      "symbol": "sun.max.fill",
+      "paragraphs": [
+        "Lea era arrivata nelle Langhe convinta che la vendemmia fosse una specie di festa: cesti di vimini, canzoni, tavolate al tramonto. Aveva visto troppi film. La prima mattina Beppe, il vignaiolo che l'aveva assunta per tre settimane, l'ha svegliata alle sei e le ha messo in mano un paio di forbici. «Le colline sono belle da guardare,» le ha detto, «ma sono ripide da lavorare.»",
+        "Aveva ragione. Lea si piegava sotto i filari per ore, con le mani appiccicose di succo e le vespe che le giravano intorno. A mezzogiorno si mangiavano pane, salame e toma all'ombra di un noce, e poi si ricominciava. La sera si addormentava prima ancora di finire la cena. Ma imparava in fretta: a riconoscere un grappolo marcio, a tagliare senza ferire la pianta, a capire dal cielo se il tempo sarebbe cambiato.",
+        "Alla fine della seconda settimana le previsioni annunciavano grandine. Beppe ha chiamato i vicini, e per due giorni tutti hanno lavorato insieme, da una vigna all'altra, finché l'ultimo nebbiolo non è stato portato in cantina. Quando la grandine è arrivata, la sera dopo, le colline erano già spoglie. Beppe ha aperto una bottiglia vecchia di dieci anni e ha riempito i bicchieri di tutti.",
+        "Prima che Lea partisse, l'ha portata in cantina e le ha mostrato una botte. «L'uva che hai raccolto tu è lì dentro,» le ha spiegato. «Ma il Barbaresco ha bisogno di tempo. Se vuoi assaggiarlo, devi tornare tra tre anni.» Lea ha segnato la data sul telefono. Non ha ancora deciso se tornerà per il vino o per le colline."
+      ],
+      "english": [
+        [
+          "Lea had arrived in the Langhe convinced that the grape harvest was a kind of party: wicker baskets, songs, long tables at sunset.",
+          "She had seen too many films.",
+          "On the first morning Beppe, the winegrower who had taken her on for three weeks, woke her at six and put a pair of secateurs in her hand.",
+          "“The hills are beautiful to look at,” he told her, “but they're steep to work.”"
+        ],
+        [
+          "He was right.",
+          "Lea bent under the rows of vines for hours, her hands sticky with juice and wasps buzzing around her.",
+          "At midday they ate bread, salami and toma cheese in the shade of a walnut tree, and then started again.",
+          "In the evening she fell asleep before she had even finished dinner.",
+          "But she learned fast: to recognise a rotten bunch, to cut without harming the plant, to tell from the sky whether the weather was about to change."
+        ],
+        [
+          "At the end of the second week the forecast announced hail.",
+          "Beppe called the neighbours, and for two days they all worked together, from one vineyard to the next, until the last nebbiolo grapes had been taken to the cellar.",
+          "When the hail came, the following evening, the hills were already bare.",
+          "Beppe opened a ten-year-old bottle and filled everyone's glass."
+        ],
+        [
+          "Before Lea left, he took her down to the cellar and showed her a barrel.",
+          "“The grapes you picked are in there,” he explained.",
+          "“But Barbaresco needs time. If you want to taste it, you'll have to come back in three years.”",
+          "Lea put the date in her phone.",
+          "She still hasn't decided whether she'll come back for the wine or for the hills."
+        ]
+      ],
+      "vocab": [
+        { "word": "vendemmia", "gloss": "grape harvest" },
+        { "word": "cesti di vimini", "gloss": "wicker baskets" },
+        { "word": "vignaiolo", "gloss": "winegrower" },
+        { "word": "forbici", "gloss": "secateurs, scissors" },
+        { "word": "ripide", "gloss": "steep" },
+        { "word": "filari", "gloss": "rows of vines" },
+        { "word": "vespe", "gloss": "wasps" },
+        { "word": "grappolo marcio", "gloss": "rotten bunch of grapes" },
+        { "word": "grandine", "gloss": "hail" },
+        { "word": "cantina", "gloss": "wine cellar" },
+        { "word": "spoglie", "gloss": "bare" },
+        { "word": "botte", "gloss": "barrel, cask" }
+      ]
+    },
+    {
+      "id": "it-b2-07",
+      "title": "Il dialetto di mio padre",
+      "subtitle": "My father's dialect",
+      "topic": "Language",
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "paragraphs": [
+        "Mio padre parlava in dialetto con tutti: con il fornaio, con il meccanico, con i suoi fratelli al telefono. Con noi figli, invece, parlava solo in italiano, un italiano attento e un po' rigido, come un vestito della domenica. Quando gli chiedevamo perché, rispondeva sempre la stessa cosa: «Voi dovete andare all'università, non nei campi.»",
+        "Negli anni Sessanta, quando lui era bambino a Lecce, a scuola il dialetto veniva punito. Un suo maestro gli aveva detto che chi parlava salentino non avrebbe mai fatto carriera, e lui ci aveva creduto per tutta la vita. Così io sono cresciuta capendo il dialetto ma senza saperlo parlare, come chi ascolta una musica senza conoscere lo strumento.",
+        "Oggi le cose sono cambiate. I dialetti non sono più considerati la lingua degli ignoranti, ma un patrimonio da proteggere: si studiano all'università, si cantano nei concerti, si usano nella pubblicità. Eppure non sono sicura che basti. Una lingua non sopravvive nei musei o nelle canzoni; sopravvive se qualcuno la usa per chiedere il pane o per litigare con il fratello.",
+        "Da quando mio padre è morto, ho cominciato a prendere lezioni da una zia. Lei ride della mia pronuncia e mi corregge con pazienza. La settimana scorsa ho chiesto al fornaio, in dialetto, due friselle e una pagnotta. Lui mi ha guardata sorpreso e mi ha risposto nello stesso modo, come se fosse la cosa più normale del mondo. Credo che mio padre, nonostante tutto, ne sarebbe stato contento."
+      ],
+      "english": [
+        [
+          "My father spoke dialect with everyone: with the baker, with the mechanic, with his brothers on the phone.",
+          "With us children, on the other hand, he spoke only Italian, a careful and slightly stiff Italian, like Sunday best.",
+          "When we asked him why, he always gave the same answer: “You must go to university, not into the fields.”"
+        ],
+        [
+          "In the sixties, when he was a boy in Lecce, dialect was punished at school.",
+          "One of his teachers had told him that anyone who spoke Salentino would never get on in life, and he had believed it all his life.",
+          "So I grew up understanding the dialect but unable to speak it, like someone who listens to music without knowing the instrument."
+        ],
+        [
+          "Today things have changed.",
+          "Dialects are no longer considered the language of the uneducated, but a heritage to be protected: they are studied at university, sung at concerts, used in advertising.",
+          "And yet I'm not sure that's enough.",
+          "A language doesn't survive in museums or in songs; it survives if someone uses it to ask for bread or to argue with their brother."
+        ],
+        [
+          "Since my father died, I've started taking lessons from an aunt.",
+          "She laughs at my pronunciation and corrects me patiently.",
+          "Last week I asked the baker, in dialect, for two friselle and a loaf.",
+          "He looked at me in surprise and answered in the same way, as if it were the most normal thing in the world.",
+          "I think my father, in spite of everything, would have been pleased."
+        ]
+      ],
+      "vocab": [
+        { "word": "rigido", "gloss": "stiff, rigid" },
+        { "word": "vestito della domenica", "gloss": "Sunday best" },
+        { "word": "veniva punito", "gloss": "was punished" },
+        { "word": "fatto carriera", "gloss": "got on in life, had a career" },
+        { "word": "patrimonio", "gloss": "heritage" },
+        { "word": "pubblicità", "gloss": "advertising" },
+        { "word": "Eppure", "gloss": "and yet" },
+        { "word": "basti", "gloss": "is enough" },
+        { "word": "sopravvive", "gloss": "survives" },
+        { "word": "litigare", "gloss": "to argue" },
+        { "word": "pronuncia", "gloss": "pronunciation" },
+        { "word": "nonostante tutto", "gloss": "in spite of everything" }
+      ]
+    },
+    {
+      "id": "it-b2-08",
+      "title": "Le lettere dello stagionale",
+      "subtitle": "The seasonal worker's letters",
+      "topic": "History",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "Quando sua nonna Ida è entrata in casa di riposo, Martina ha dovuto svuotare l'appartamento di Lugano dove i nonni avevano vissuto per cinquant'anni. In fondo a un armadio ha trovato una scatola di latta piena di lettere, legate con un nastro. Erano state scritte da suo nonno Vittorio tra il 1961 e il 1964, quando lui lavorava come stagionale nei cantieri del Ticino e lei era rimasta in Veneto.",
+        "Martina sapeva poco di quegli anni. Sapeva che il nonno aveva costruito strade e dighe, e che con il permesso di stagionale non poteva portare la famiglia in Svizzera. Nelle lettere, però, c'era molto di più. Vittorio raccontava che dormiva in una baracca con altri dodici operai, che il lavoro cominciava alle sei, che il freddo di gennaio gli faceva sanguinare le mani. Ogni lettera finiva con la stessa frase: «Presto saremo insieme.»",
+        "L'ultima lettera era diversa. Vittorio scriveva che aveva trovato una stanza in affitto e che la padrona, una vedova di Bellinzona, aveva promesso di non dire niente a nessuno. Chiedeva a Ida di partire subito con la bambina, ma la avvertiva: la piccola non avrebbe potuto andare a scuola, né giocare in cortile, né farsi vedere alla finestra. Martina ha riletto la frase tre volte. La bambina era sua madre.",
+        "Quella sera ha chiamato sua madre e le ha chiesto se fosse vero. Dall'altra parte del telefono c'è stato un lungo silenzio. «Avevo sei anni,» ha detto infine. «Per un anno intero ho guardato il mondo attraverso le tende. Non ne ho mai parlato perché mi vergognavo, come se la colpa fosse mia.» Il sabato dopo, madre e figlia sono andate insieme a trovare la nonna, con la scatola di lettere sotto il braccio."
+      ],
+      "english": [
+        [
+          "When her grandmother Ida went into a care home, Martina had to clear out the flat in Lugano where her grandparents had lived for fifty years.",
+          "At the back of a wardrobe she found a tin box full of letters, tied with a ribbon.",
+          "They had been written by her grandfather Vittorio between 1961 and 1964, when he was working as a seasonal labourer on building sites in Ticino and she had stayed behind in the Veneto."
+        ],
+        [
+          "Martina knew little about those years.",
+          "She knew that her grandfather had built roads and dams, and that with a seasonal worker's permit he couldn't bring his family to Switzerland.",
+          "In the letters, though, there was much more.",
+          "Vittorio wrote that he slept in a hut with twelve other workers, that work began at six, that the January cold made his hands bleed.",
+          "Every letter ended with the same sentence: “Soon we'll be together.”"
+        ],
+        [
+          "The last letter was different.",
+          "Vittorio wrote that he had found a room to rent and that the landlady, a widow from Bellinzona, had promised not to tell anyone.",
+          "He asked Ida to set off at once with the little girl, but he warned her: the child would not be able to go to school, or play in the courtyard, or be seen at the window.",
+          "Martina reread the sentence three times.",
+          "The little girl was her mother."
+        ],
+        [
+          "That evening she called her mother and asked her whether it was true.",
+          "At the other end of the line there was a long silence.",
+          "“I was six,” she said at last.",
+          "“For a whole year I watched the world through the curtains. I never talked about it because I was ashamed, as if it were my fault.”",
+          "The following Saturday, mother and daughter went together to visit the grandmother, with the box of letters under their arm."
+        ]
+      ],
+      "vocab": [
+        { "word": "casa di riposo", "gloss": "care home" },
+        { "word": "scatola di latta", "gloss": "tin box" },
+        { "word": "nastro", "gloss": "ribbon" },
+        { "word": "stagionale", "gloss": "seasonal worker" },
+        { "word": "cantieri", "gloss": "building sites" },
+        { "word": "dighe", "gloss": "dams" },
+        { "word": "baracca", "gloss": "hut, shack" },
+        { "word": "sanguinare", "gloss": "bleed" },
+        { "word": "vedova", "gloss": "widow" },
+        { "word": "avvertiva", "gloss": "warned" },
+        { "word": "tende", "gloss": "curtains" },
+        { "word": "mi vergognavo", "gloss": "I was ashamed" }
+      ]
+    },
+    {
+      "id": "it-b2-09",
+      "title": "Il wi-fi della nonna",
+      "subtitle": "Grandma's wi-fi",
+      "topic": "Technology",
+      "symbol": "laptopcomputer",
+      "paragraphs": [
+        "Quando l'azienda ha annunciato che si poteva lavorare da remoto per sempre, Federico ha fatto le valigie e ha lasciato il monolocale di Milano per la casa della nonna a Pisticci, in Basilicata. La casa era vuota da anni, ma aveva una terrazza che guardava i calanchi e costava zero euro al mese. L'unico problema era la connessione: funzionava bene soltanto in cucina, seduti sul secondo gradino della scala.",
+        "In paese nessuno capiva esattamente che lavoro facesse. Il barista era convinto che fosse disoccupato, perché alle undici di mattina era ancora in giro con il portatile. La signora del piano di sotto raccontava a tutti che il nipote di Nunzia «lavora con i computer, ma non ripara niente». Ogni tanto qualcuno gli suonava alla porta per chiedergli di sistemare una stampante, e Federico, per gentilezza, non diceva mai di no.",
+        "Un martedì di luglio, durante una videochiamata importante con i capi di Milano, sotto la finestra è passata la processione di Sant'Antonio, con la banda e i fuochi d'artificio. Federico ha provato a scusarsi, ma il direttore l'ha interrotto. «Gira la telecamera,» gli ha detto. Per dieci minuti, otto ingegneri in giacca e cravatta hanno guardato in silenzio una statua portata a spalla tra le case bianche.",
+        "Ad agosto tre colleghi hanno affittato una casa a Pisticci per un mese. A settembre ne sono arrivati altri due. Il barista, che ormai li conosce tutti, ha installato un router nuovo e ha appeso un cartello sulla porta: «Wi-fi gratis per chi lavora. Chi non lavora paga il caffè.» Federico continua a sistemare stampanti, ma adesso ha qualcuno che lo aiuta."
+      ],
+      "english": [
+        [
+          "When the company announced that people could work remotely for good, Federico packed his bags and left his studio flat in Milan for his grandmother's house in Pisticci, in Basilicata.",
+          "The house had been empty for years, but it had a terrace overlooking the clay badlands and cost zero euros a month.",
+          "The only problem was the connection: it only worked properly in the kitchen, sitting on the second step of the stairs."
+        ],
+        [
+          "Nobody in the village quite understood what job he did.",
+          "The barman was convinced he was unemployed, because at eleven in the morning he was still wandering about with his laptop.",
+          "The lady downstairs told everyone that Nunzia's grandson “works with computers, but doesn't fix anything”.",
+          "Every now and then someone rang his doorbell to ask him to sort out a printer, and Federico, out of kindness, never said no."
+        ],
+        [
+          "One Tuesday in July, during an important video call with his bosses in Milan, the procession of Saint Anthony passed under his window, with the band and fireworks.",
+          "Federico tried to apologise, but the director interrupted him.",
+          "“Turn the camera round,” he told him.",
+          "For ten minutes, eight engineers in jackets and ties silently watched a statue carried on people's shoulders between the white houses."
+        ],
+        [
+          "In August three colleagues rented a house in Pisticci for a month.",
+          "In September another two arrived.",
+          "The barman, who knows them all by now, installed a new router and hung a sign on the door: “Free wi-fi for those who work. Those who don't pay for the coffee.”",
+          "Federico still sorts out printers, but now he has people to help him."
+        ]
+      ],
+      "vocab": [
+        { "word": "da remoto", "gloss": "remotely" },
+        { "word": "monolocale", "gloss": "studio flat" },
+        { "word": "calanchi", "gloss": "clay badlands, eroded ravines" },
+        { "word": "connessione", "gloss": "(internet) connection" },
+        { "word": "gradino", "gloss": "step, stair" },
+        { "word": "disoccupato", "gloss": "unemployed" },
+        { "word": "portatile", "gloss": "laptop" },
+        { "word": "sistemare", "gloss": "to sort out, to fix" },
+        { "word": "videochiamata", "gloss": "video call" },
+        { "word": "processione", "gloss": "procession" },
+        { "word": "fuochi d'artificio", "gloss": "fireworks" },
+        { "word": "a spalla", "gloss": "on people's shoulders" }
+      ]
+    },
+    {
+      "id": "it-b2-10",
+      "title": "Il derby della nonna",
+      "subtitle": "Grandma's derby",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Nella famiglia Ceccarelli, a Testaccio, tutti tifano Roma. Tutti tranne nonna Graziella, che da sessant'anni, ogni volta che c'è il derby, si siede in poltrona con una sciarpa biancoceleste al collo. Era stato il nonno Mario, laziale fino al midollo, a trasmetterle la passione, e dopo la sua morte lei aveva continuato, per fedeltà, a tifare per la sua squadra.",
+        "Quella domenica la Roma vinceva due a uno all'ultimo minuto. I nipoti urlavano, il genero ballava in salotto, e tutti, di tanto in tanto, lanciavano uno sguardo preoccupato alla nonna. Lei era immobile. Quando l'arbitro ha fischiato la fine, si è alzata lentamente, si è tolta la sciarpa e l'ha piegata con cura.",
+        "«Devo dirvi una cosa,» ha annunciato. Ha raccontato che da ragazza andava allo stadio con suo padre, romanista sfegatato, e che quando aveva conosciuto Mario aveva capito subito che il matrimonio non sarebbe sopravvissuto a due squadre diverse. «Così ho scelto lui,» ha detto. «Ma ogni volta che la Roma segnava, sotto la sciarpa, mi scappava un sorriso.»",
+        "In salotto c'è stato un silenzio lunghissimo. Poi la nipote più piccola ha chiesto se il nonno lo sapesse. Graziella ha sorriso. «Certo che lo sapeva,» ha risposto. «E quando la Lazio perdeva, era lui a consolare me.» Il derby successivo la sciarpa biancoceleste era di nuovo al suo posto, ma accanto, sul bracciolo della poltrona, ce n'era anche una giallorossa."
+      ],
+      "english": [
+        [
+          "In the Ceccarelli family, in Testaccio, everyone supports Roma.",
+          "Everyone except Grandma Graziella, who for sixty years, every time there's a derby, has sat in her armchair with a sky-blue and white scarf round her neck.",
+          "It was Grandpa Mario, a Lazio fan to the bone, who had passed the passion on to her, and after his death she had carried on supporting his team out of loyalty."
+        ],
+        [
+          "That Sunday Roma were winning two-one in the last minute.",
+          "The grandchildren were yelling, the son-in-law was dancing in the living room, and every so often everyone cast a worried glance at Grandma.",
+          "She sat perfectly still.",
+          "When the referee blew the final whistle, she got up slowly, took off the scarf and folded it carefully."
+        ],
+        [
+          "“I have something to tell you,” she announced.",
+          "She told them that as a girl she used to go to the stadium with her father, a die-hard Roma fan, and that when she met Mario she had realised at once that the marriage would not survive two different teams.",
+          "“So I chose him,” she said.",
+          "“But every time Roma scored, under the scarf, I couldn't help smiling.”"
+        ],
+        [
+          "There was a very long silence in the living room.",
+          "Then the youngest granddaughter asked whether Grandpa had known.",
+          "Graziella smiled.",
+          "“Of course he knew,” she replied.",
+          "“And when Lazio lost, he was the one who consoled me.”",
+          "At the next derby the sky-blue and white scarf was back in its place, but next to it, on the arm of the chair, there was a red and yellow one too."
+        ]
+      ],
+      "vocab": [
+        { "word": "tifano", "gloss": "support (a team)" },
+        { "word": "sciarpa", "gloss": "scarf" },
+        { "word": "biancoceleste", "gloss": "sky-blue and white (Lazio's colours)" },
+        { "word": "fino al midollo", "gloss": "to the bone, through and through" },
+        { "word": "fedeltà", "gloss": "loyalty" },
+        { "word": "genero", "gloss": "son-in-law" },
+        { "word": "arbitro", "gloss": "referee" },
+        { "word": "ha fischiato", "gloss": "blew the whistle" },
+        { "word": "sfegatato", "gloss": "die-hard, passionate" },
+        { "word": "mi scappava", "gloss": "I couldn't help (it slipped out)" },
+        { "word": "bracciolo", "gloss": "arm (of a chair)" },
+        { "word": "giallorossa", "gloss": "red and yellow (Roma's colours)" }
+      ]
+    },
+    {
+      "id": "it-b2-11",
+      "title": "La recensione",
+      "subtitle": "The review",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "Tommaso aveva ventisei anni, un blog di cucina molto seguito e la convinzione di sapere tutto sulla cucina bolognese. Quando ha pubblicato la sua recensione della Trattoria da Rina, in via del Pratello, è stata letta da trentamila persone in due giorni. Il titolo era crudele: «Tortellini da museo». Scriveva che il brodo era troppo grasso, che il locale sembrava fermo agli anni Settanta e che la proprietaria sarebbe dovuta andare in pensione da tempo.",
+        "Il giorno dopo ha ricevuto una mail. Era di Rina in persona. Non c'erano insulti né minacce di avvocati: solo un invito. «Se pensa che i miei tortellini siano vecchi, venga a farli con me domani alle cinque del mattino. Porti un grembiule. Se dopo vorrà scrivere la stessa cosa, sarà libero di farlo.»",
+        "Tommaso ci è andato per curiosità, e anche un po' per orgoglio. Ha passato sei ore in una cucina minuscola, con tre signore che avevano tutte più di settant'anni e che tiravano la sfoglia con un mattarello lungo un metro. Gli è stato insegnato a chiudere i tortellini intorno al mignolo, uno per uno, e ogni volta che ne sbagliava uno, Rina glielo rimetteva in mano senza dire niente. A mezzogiorno ne aveva fatti duecento, e gli facevano male le spalle.",
+        "La settimana successiva sul blog è uscita una seconda recensione. Il titolo era: «Mi sbagliavo». Tommaso ha scritto che il brodo era grasso perché era fatto come cinquant'anni fa, e che forse il problema non era la trattoria, ma il suo palato, abituato a piatti fotografati più che mangiati. Da allora, ogni dicembre, torna da Rina a chiudere tortellini, e i suoi lettori fanno la fila per assaggiarli."
+      ],
+      "english": [
+        [
+          "Tommaso was twenty-six, with a very popular cooking blog and the conviction that he knew everything about Bolognese cooking.",
+          "When he published his review of the Trattoria da Rina, on Via del Pratello, it was read by thirty thousand people in two days.",
+          "The headline was cruel: “Museum-piece tortellini”.",
+          "He wrote that the broth was too fatty, that the place seemed stuck in the seventies and that the owner should have retired long ago."
+        ],
+        [
+          "The next day he received an email.",
+          "It was from Rina herself.",
+          "There were no insults or threats of lawyers: just an invitation.",
+          "“If you think my tortellini are old, come and make them with me tomorrow at five in the morning. Bring an apron. If afterwards you want to write the same thing, you'll be free to do so.”"
+        ],
+        [
+          "Tommaso went out of curiosity, and a little out of pride too.",
+          "He spent six hours in a tiny kitchen, with three ladies who were all over seventy and who rolled out the pasta with a rolling pin a metre long.",
+          "He was taught to close the tortellini around his little finger, one by one, and every time he got one wrong, Rina put it back in his hand without a word.",
+          "By midday he had made two hundred, and his shoulders ached."
+        ],
+        [
+          "The following week a second review appeared on the blog.",
+          "The headline was: “I was wrong”.",
+          "Tommaso wrote that the broth was fatty because it was made the way it was fifty years ago, and that perhaps the problem wasn't the trattoria but his palate, used to dishes that were photographed more than eaten.",
+          "Since then, every December, he goes back to Rina's to fold tortellini, and his readers queue up to taste them."
+        ]
+      ],
+      "vocab": [
+        { "word": "seguito", "gloss": "popular, widely followed" },
+        { "word": "recensione", "gloss": "review" },
+        { "word": "crudele", "gloss": "cruel" },
+        { "word": "brodo", "gloss": "broth" },
+        { "word": "minacce", "gloss": "threats" },
+        { "word": "orgoglio", "gloss": "pride" },
+        { "word": "minuscola", "gloss": "tiny" },
+        { "word": "sfoglia", "gloss": "sheet of fresh egg pasta" },
+        { "word": "mattarello", "gloss": "rolling pin" },
+        { "word": "mignolo", "gloss": "little finger" },
+        { "word": "palato", "gloss": "palate" },
+        { "word": "fanno la fila", "gloss": "queue up" }
+      ]
+    },
+    {
+      "id": "it-b2-12",
+      "title": "Il pianoforte del terzo piano",
+      "subtitle": "The piano on the third floor",
+      "topic": "Neighbours",
+      "symbol": "pianokeys",
+      "paragraphs": [
+        "Nel condominio di via Battisti, a Trieste, la riunione di marzo aveva un solo punto all'ordine del giorno: il pianoforte del terzo piano. Da quando la famiglia Kovač si era trasferita lì, la figlia Nina, quindici anni, suonava ogni giorno per tre ore. Alcuni vicini sostenevano che fosse impossibile riposare; altri dicevano che, in fondo, era meglio della televisione del signor Pittoni.",
+        "Il più arrabbiato era il signor Zorzi, del quarto piano, un uomo anziano e solitario che non salutava mai nessuno. Durante la riunione ha chiesto che fosse stabilito un orario preciso e che il pianoforte venisse spostato nella stanza più lontana. «E poi,» ha aggiunto, «quella ragazza sbaglia sempre la stessa battuta del secondo movimento. È questo che non sopporto.»",
+        "Tutti si sono girati a guardarlo. Nessuno sapeva che, quarant'anni prima, Zorzi era stato un pianista di concerto, e che aveva smesso di suonare dopo un incidente alla mano. Nina, invece, ha capito subito che un vicino così attento doveva essere un musicista. Il giorno dopo ha bussato alla sua porta con lo spartito in mano. «Mi fa vedere come si suona quella battuta?» gli ha chiesto.",
+        "Da allora, due volte alla settimana, si sente suonare il pianoforte al quarto piano invece che al terzo. Zorzi non riesce più a usare bene la mano destra, ma indica, corregge, canta le note con voce rauca. A giugno Nina ha fatto il suo primo concerto al conservatorio Tartini. In prima fila, con la cravatta e le scarpe lucide, c'era il signor Zorzi, che per l'occasione ha salutato perfino il signor Pittoni."
+      ],
+      "english": [
+        [
+          "In the block of flats on Via Battisti, in Trieste, the March meeting had only one item on the agenda: the piano on the third floor.",
+          "Ever since the Kovač family had moved in, their daughter Nina, fifteen, had been playing for three hours every day.",
+          "Some neighbours claimed it was impossible to rest; others said that, all things considered, it was better than Mr Pittoni's television."
+        ],
+        [
+          "The angriest was Mr Zorzi, from the fourth floor, a solitary old man who never said hello to anyone.",
+          "During the meeting he asked for fixed hours to be set and for the piano to be moved to the furthest room.",
+          "“And besides,” he added, “that girl always gets the same bar of the second movement wrong. That's what I can't stand.”"
+        ],
+        [
+          "Everyone turned to look at him.",
+          "Nobody knew that, forty years earlier, Zorzi had been a concert pianist, and that he had stopped playing after an accident to his hand.",
+          "Nina, on the other hand, understood at once that such an attentive neighbour had to be a musician.",
+          "The next day she knocked on his door with the score in her hand.",
+          "“Will you show me how to play that bar?” she asked him."
+        ],
+        [
+          "Since then, twice a week, the piano can be heard on the fourth floor instead of the third.",
+          "Zorzi can no longer use his right hand properly, but he points, corrects, sings the notes in a hoarse voice.",
+          "In June Nina gave her first concert at the Tartini conservatoire.",
+          "In the front row, in a tie and polished shoes, sat Mr Zorzi, who for the occasion even said hello to Mr Pittoni."
+        ]
+      ],
+      "vocab": [
+        { "word": "ordine del giorno", "gloss": "agenda" },
+        { "word": "sostenevano", "gloss": "claimed, maintained" },
+        { "word": "riposare", "gloss": "to rest" },
+        { "word": "solitario", "gloss": "solitary, lonely" },
+        { "word": "orario", "gloss": "timetable, set hours" },
+        { "word": "battuta", "gloss": "bar (in music)" },
+        { "word": "movimento", "gloss": "movement (of a piece)" },
+        { "word": "non sopporto", "gloss": "I can't stand" },
+        { "word": "incidente", "gloss": "accident" },
+        { "word": "rauca", "gloss": "hoarse" },
+        { "word": "in prima fila", "gloss": "in the front row" },
+        { "word": "lucide", "gloss": "polished, shiny" }
+      ]
+    },
+    {
+      "id": "it-b2-13",
+      "title": "Dieci minuti di silenzio",
+      "subtitle": "Ten minutes of silence",
+      "topic": "Nature",
+      "symbol": "tree.fill",
+      "paragraphs": [
+        "Il viaggio aziendale era stato organizzato dall'ufficio del personale, secondo cui i dipendenti di una compagnia assicurativa romana avevano bisogno di «ritrovare il contatto con la natura». Così, un sabato di ottobre, ventidue impiegati sono scesi da un pullman nelle Foreste Casentinesi, tra la Toscana e la Romagna, con scarpe nuove e telefoni carichi.",
+        "La guida, una ragazza del posto di nome Elisa, ha cominciato a spiegare che in quei boschi vivono cervi, caprioli e anche qualche branco di lupi. Ma nessuno la ascoltava davvero. Chi parlava di lavoro, chi scattava foto, chi si lamentava dell'umidità. Il direttore, il dottor Ruggeri, camminava in fondo al gruppo con il telefono all'orecchio, discutendo di un contratto.",
+        "Dopo un'ora Elisa si è fermata in una radura e ha proposto una scommessa. «Se riuscite a stare zitti per dieci minuti, stasera la cena la offro io,» ha detto. Gli impiegati si sono guardati, hanno riso, e poi, uno dopo l'altro, si sono seduti sull'erba. I primi minuti sono stati i più difficili: qualcuno tossiva, qualcuno controllava l'orologio. Poi, lentamente, il bosco ha cominciato a farsi sentire: il vento tra i faggi, un picchio lontano, il fruscio delle foglie secche.",
+        "All'ottavo minuto, dal fondo della valle, è arrivato un suono lungo e profondo, che nessuno di loro aveva mai sentito. Elisa ha sorriso e ha sussurrato una sola parola: «Cervo.» Era il bramito, il richiamo dei maschi in autunno. Quando il tempo è scaduto, nessuno ha parlato. Il dottor Ruggeri ha spento il telefono e se l'è messo in tasca, e quella sera, a cena, è stato lui a pagare per tutti."
+      ],
+      "english": [
+        [
+          "The company trip had been organised by the personnel office, which believed that the staff of a Roman insurance company needed to “get back in touch with nature”.",
+          "So, one Saturday in October, twenty-two office workers got off a coach in the Casentino Forests, between Tuscany and Romagna, with new shoes and fully charged phones."
+        ],
+        [
+          "The guide, a local young woman called Elisa, began to explain that red deer, roe deer and even a few packs of wolves live in those woods.",
+          "But nobody was really listening to her.",
+          "Some talked about work, some took photos, some complained about the damp.",
+          "The director, Dottor Ruggeri, walked at the back of the group with his phone to his ear, arguing about a contract."
+        ],
+        [
+          "After an hour Elisa stopped in a clearing and suggested a bet.",
+          "“If you can keep quiet for ten minutes, dinner tonight is on me,” she said.",
+          "The office workers looked at each other, laughed, and then, one after another, sat down on the grass.",
+          "The first few minutes were the hardest: someone was coughing, someone kept checking their watch.",
+          "Then, slowly, the forest began to make itself heard: the wind in the beech trees, a distant woodpecker, the rustle of dry leaves."
+        ],
+        [
+          "In the eighth minute, from the bottom of the valley, came a long, deep sound that none of them had ever heard.",
+          "Elisa smiled and whispered a single word: “Stag.”",
+          "It was the bellow, the call of the males in autumn.",
+          "When the time was up, nobody spoke.",
+          "Dottor Ruggeri switched off his phone and put it in his pocket, and that evening at dinner it was he who paid for everyone."
+        ]
+      ],
+      "vocab": [
+        { "word": "viaggio aziendale", "gloss": "company trip" },
+        { "word": "dipendenti", "gloss": "employees, staff" },
+        { "word": "assicurativa", "gloss": "insurance (adj.)" },
+        { "word": "impiegati", "gloss": "office workers" },
+        { "word": "cervi", "gloss": "red deer" },
+        { "word": "branco", "gloss": "pack" },
+        { "word": "radura", "gloss": "clearing" },
+        { "word": "scommessa", "gloss": "bet" },
+        { "word": "faggi", "gloss": "beech trees" },
+        { "word": "picchio", "gloss": "woodpecker" },
+        { "word": "fruscio", "gloss": "rustle" },
+        { "word": "bramito", "gloss": "bellow (of a stag in rut)" }
+      ]
+    },
+    {
+      "id": "it-b2-14",
+      "title": "Una casa a un euro",
+      "subtitle": "A house for one euro",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Cara Elisa, ti scrivo dal tavolo di plastica che, per ora, è l'unico mobile della nostra casa da un euro. Sì, l'abbiamo fatto davvero. Quando ti ho detto che Paolo e io volevamo comprare una casa abbandonata a Mussomeli, in Sicilia, tu hai riso e mi hai detto che eravamo pazzi. Avevi ragione solo in parte.",
+        "Il prezzo era davvero di un euro, ma nessuno ci aveva spiegato tutto il resto. Il notaio è costato duemila euro, il progetto dell'architetto altri tremila, e il Comune ci ha chiesto di finire i lavori entro tre anni, altrimenti la casa ci verrà tolta. Il tetto era crollato a metà, e quando siamo entrati la prima volta abbiamo trovato un albero di fico che cresceva in mezzo al soggiorno. Paolo dice che è un buon segno. Io dico che è un problema di umidità.",
+        "La sorpresa più grande, però, è stata la signora Calogera, la vicina. Il primo giorno è venuta a presentarsi con un cesto di uova, e ci ha spiegato con molta gentilezza che il nostro cortile, da quarant'anni, è il pollaio delle sue galline. A quanto pare, il vecchio proprietario non aveva mai detto niente. Abbiamo pensato di chiamare un avvocato, ma poi abbiamo assaggiato le uova.",
+        "Insomma, abbiamo trovato un accordo: le galline restano, e noi riceviamo sei uova al giorno e lezioni gratuite di dialetto. Il fico, invece, l'abbiamo spostato in giardino. Vieni a trovarci a Pasqua? Non abbiamo ancora un letto per gli ospiti, ma ti prometto la frittata migliore della tua vita. Un abbraccio, Giulia."
+      ],
+      "english": [
+        [
+          "Dear Elisa, I'm writing to you from the plastic table which, for now, is the only piece of furniture in our one-euro house.",
+          "Yes, we really did it.",
+          "When I told you that Paolo and I wanted to buy an abandoned house in Mussomeli, in Sicily, you laughed and said we were mad.",
+          "You were only partly right."
+        ],
+        [
+          "The price really was one euro, but nobody had explained all the rest to us.",
+          "The notary cost two thousand euros, the architect's plans another three thousand, and the council has asked us to finish the work within three years, otherwise the house will be taken away from us.",
+          "Half the roof had collapsed, and when we went in for the first time we found a fig tree growing in the middle of the living room.",
+          "Paolo says it's a good sign.",
+          "I say it's a damp problem."
+        ],
+        [
+          "The biggest surprise, though, was Signora Calogera, our neighbour.",
+          "On the first day she came to introduce herself with a basket of eggs, and explained to us very kindly that for forty years our courtyard has been the run for her hens.",
+          "Apparently, the previous owner had never said anything.",
+          "We thought about calling a lawyer, but then we tasted the eggs."
+        ],
+        [
+          "In short, we've come to an arrangement: the hens stay, and we get six eggs a day and free lessons in dialect.",
+          "The fig tree, on the other hand, we've moved to the garden.",
+          "Will you come and see us at Easter?",
+          "We don't have a bed for guests yet, but I promise you the best omelette of your life.",
+          "Love, Giulia."
+        ]
+      ],
+      "vocab": [
+        { "word": "mobile", "gloss": "piece of furniture" },
+        { "word": "abbandonata", "gloss": "abandoned" },
+        { "word": "notaio", "gloss": "notary" },
+        { "word": "lavori", "gloss": "building work" },
+        { "word": "verrà tolta", "gloss": "will be taken away" },
+        { "word": "crollato", "gloss": "collapsed" },
+        { "word": "fico", "gloss": "fig tree" },
+        { "word": "soggiorno", "gloss": "living room" },
+        { "word": "cesto", "gloss": "basket" },
+        { "word": "pollaio", "gloss": "hen run, chicken coop" },
+        { "word": "galline", "gloss": "hens" },
+        { "word": "accordo", "gloss": "arrangement, agreement" }
+      ]
+    },
+    {
+      "id": "it-b2-15",
+      "title": "Piccoli annunci",
+      "subtitle": "Small ads",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "L'annuncio è uscito un giovedì di aprile, nella pagina dei piccoli annunci del giornale di quartiere, tra una bicicletta usata e un corso di yoga: «Vedovo, ottantadue anni, buona salute e pessimo carattere, cerca compagna per passeggiate al Valentino e discussioni sul Torino. Astenersi juventine.» L'aveva scritto Ernesto Gallo, ex tranviere, che da due anni viveva solo in un alloggio di San Salvario.",
+        "Nei giorni successivi la sua vita è cambiata. Una giornalista di una televisione locale ha voluto intervistarlo, sua figlia gli ha telefonato da Bruxelles indignata, e il barista sotto casa ha attaccato l'annuncio accanto alla cassa. Sono arrivate anche diciassette lettere. Ernesto le ha lette tutte con attenzione, ma nessuna lo ha convinto: alcune erano troppo gentili, altre troppo lunghe, una era chiaramente di un suo ex collega che voleva prenderlo in giro.",
+        "La diciottesima lettera era scritta su un foglio a quadretti. «Gentile signore, lei passeggia già al Valentino tutti i giorni, alle quattro, e si ferma sempre a dare da mangiare ai piccioni, anche se è vietato. Io sono la signora con il cane bianco sulla panchina vicino al Borgo Medievale. La guardo da un anno. Purtroppo sono juventina, ma prometto di non parlarne prima del caffè. Adele.»",
+        "Ernesto ha riletto la lettera due volte, poi ha indossato la giacca buona. Alle quattro meno cinque era al parco. La signora con il cane bianco era al suo posto, e quando l'ha visto arrivare ha alzato un sopracciglio. «È in anticipo,» gli ha detto. «E lei è juventina,» ha risposto lui, sedendosi accanto a lei. Da quel giorno hanno discusso di calcio quasi ogni pomeriggio, e secondo i piccioni del Valentino non hanno mai smesso di andare d'accordo."
+      ],
+      "english": [
+        [
+          "The ad came out one Thursday in April, on the small-ads page of the neighbourhood paper, between a second-hand bicycle and a yoga course: “Widower, eighty-two, good health and terrible temper, seeks companion for walks in the Valentino park and arguments about Torino. No Juventus fans.”",
+          "It had been written by Ernesto Gallo, a former tram driver, who had been living alone for two years in a flat in San Salvario."
+        ],
+        [
+          "In the days that followed, his life changed.",
+          "A journalist from a local TV station wanted to interview him, his daughter phoned him from Brussels in outrage, and the barman downstairs stuck the ad up next to the till.",
+          "Seventeen letters arrived as well.",
+          "Ernesto read them all carefully, but none of them convinced him: some were too nice, others too long, and one was obviously from a former colleague who wanted to make fun of him."
+        ],
+        [
+          "The eighteenth letter was written on a sheet of squared paper.",
+          "“Dear sir, you already walk in the Valentino every day, at four, and you always stop to feed the pigeons, even though it's forbidden. I'm the lady with the white dog on the bench near the Borgo Medievale. I've been watching you for a year. Unfortunately I'm a Juventus fan, but I promise not to mention it before coffee. Adele.”"
+        ],
+        [
+          "Ernesto reread the letter twice, then put on his good jacket.",
+          "At five to four he was in the park.",
+          "The lady with the white dog was in her place, and when she saw him coming she raised an eyebrow.",
+          "“You're early,” she said.",
+          "“And you're a Juventus fan,” he replied, sitting down next to her.",
+          "From that day on they argued about football almost every afternoon, and according to the pigeons of the Valentino they have never stopped getting on."
+        ]
+      ],
+      "vocab": [
+        { "word": "piccoli annunci", "gloss": "small ads, classifieds" },
+        { "word": "Vedovo", "gloss": "widower" },
+        { "word": "pessimo carattere", "gloss": "terrible temper" },
+        { "word": "Astenersi", "gloss": "please do not apply (formal)" },
+        { "word": "tranviere", "gloss": "tram driver" },
+        { "word": "alloggio", "gloss": "flat (northern Italian usage)" },
+        { "word": "indignata", "gloss": "outraged" },
+        { "word": "prenderlo in giro", "gloss": "to make fun of him" },
+        { "word": "a quadretti", "gloss": "squared (paper)" },
+        { "word": "vietato", "gloss": "forbidden" },
+        { "word": "sopracciglio", "gloss": "eyebrow" },
+        { "word": "in anticipo", "gloss": "early" }
+      ]
+    }
+  ]
+}
