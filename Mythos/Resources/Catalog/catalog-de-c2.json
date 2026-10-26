@@ -1,0 +1,1038 @@
+{
+  "language": "de",
+  "level": "C2",
+  "stories": [
+    {
+      "id": "de-c2-01",
+      "title": "Bekenntnisse eines Mülltrenners",
+      "subtitle": "Confessions of a waste sorter",
+      "topic": "Everyday life",
+      "symbol": "trash.fill",
+      "paragraphs": [
+        "Ich muss ein Geständnis machen, und ich mache es hier, öffentlich, weil die Last zu groß geworden ist: Ich habe gestern einen Joghurtbecher in den Restmüll geworfen. Nicht ausgespült, nicht vom Aluminiumdeckel befreit, einfach so, in einem Moment der Schwäche, während in der Küche das Nudelwasser überkochte. Seitdem schlafe ich schlecht. Ich höre das leise Knistern der Plastiktüte, in der er jetzt liegt, mitten unter den Kartoffelschalen, und ich weiß, dass es falsch war.",
+        "Man muss verstehen, dass Mülltrennung in diesem Land keine Tätigkeit ist, sondern eine Konfession. Es gibt die gelbe Tonne für Verpackungen, die blaue für Papier, die braune für Bioabfall, die schwarze für alles, was übrig bleibt, und daneben die Glascontainer, säuberlich nach Weiß, Grün und Braun getrennt. Wer eine blaue Flasche besitzt, gerät in eine theologische Krise, die zu lösen bisher kein Konzil imstande war. Blau, so lautet die herrschende Lehre, gehört zu Grün. Ich habe das nie verstanden, aber ich glaube es.",
+        "In meinem Mietshaus in Hannover wird über die Reinheit der Tonnen gewacht. Frau Behrens aus dem Erdgeschoss, eine ehemalige Grundschulrektorin mit dem Blick eines Zollbeamten, hebt jeden Dienstagabend die Deckel an und prüft. Findet sie einen Fehltritt, so klebt sie einen Zettel an die Haustür, stets anonym, stets in Schönschrift, stets mit drei Ausrufezeichen. „Pizzakartons mit Fettflecken gehören NICHT ins Altpapier!!!“ Niemand weiß, wie sie die Täter ermittelt, aber alle wissen, dass sie es tut.",
+        "Natürlich ließe sich einwenden, dass ein beträchtlicher Teil des sorgfältig getrennten Plastiks am Ende ohnehin verbrannt oder in ferne Länder verschifft wird. Ich kenne diese Statistiken. Ich habe sie gelesen, nachts, mit zitternden Händen. Aber Religionen sind bekanntlich nicht dazu da, empirisch zu funktionieren, sondern dazu, uns das Gefühl zu geben, auf der richtigen Seite zu stehen. Ein ausgespülter Joghurtbecher ist ein kleines Gebet an eine Welt, die wir längst verbraucht haben.",
+        "Heute Morgen um sechs, bevor das Haus erwachte, bin ich in den Hof hinuntergeschlichen, im Bademantel, mit Gummihandschuhen. Ich habe die schwarze Tonne geöffnet und den Becher gesucht. Ich fand ihn unter einem Teebeutel, und als ich mich mit meiner Beute aufrichtete, stand Frau Behrens hinter mir, ebenfalls im Bademantel, eine Plastikgabel in der Hand. Wir sahen uns lange an. Dann nickte sie mir zu, wortlos, wie man einem Mitbruder im Kloster zunickt, und ging zur gelben Tonne. Seitdem grüßen wir uns. Über Dienstagabende sprechen wir nie."
+      ],
+      "english": [
+        [
+          "I have a confession to make, and I am making it here, in public, because the burden has become too great: yesterday I threw a yoghurt pot into the general waste.",
+          "Not rinsed, not freed of its aluminium lid, just like that, in a moment of weakness, while the pasta water was boiling over in the kitchen.",
+          "I haven't slept well since.",
+          "I hear the faint rustle of the plastic bag in which it now lies, among the potato peelings, and I know that it was wrong."
+        ],
+        [
+          "You have to understand that in this country sorting rubbish is not an activity but a denomination.",
+          "There is the yellow bin for packaging, the blue one for paper, the brown one for organic waste, the black one for everything left over, and beside them the bottle banks, neatly divided into white, green and brown.",
+          "Anyone who owns a blue bottle is plunged into a theological crisis that no church council has yet been able to resolve.",
+          "Blue, according to the prevailing doctrine, belongs with green.",
+          "I have never understood it, but I believe it."
+        ],
+        [
+          "In my block of flats in Hanover, the purity of the bins is closely guarded.",
+          "Frau Behrens from the ground floor, a former primary school head with the gaze of a customs officer, lifts the lids every Tuesday evening and inspects.",
+          "If she finds a transgression, she sticks a note on the front door, always anonymous, always in her best handwriting, always with three exclamation marks.",
+          "\"Pizza boxes with grease stains do NOT go in the paper recycling!!!\"",
+          "Nobody knows how she identifies the culprits, but everybody knows that she does."
+        ],
+        [
+          "Of course one could object that a considerable share of the carefully sorted plastic is burned in the end anyway, or shipped to distant countries.",
+          "I know these statistics.",
+          "I have read them, at night, with trembling hands.",
+          "But religions, as everyone knows, are not there to work empirically, but to give us the feeling of being on the right side.",
+          "A rinsed yoghurt pot is a small prayer to a world we have long since used up."
+        ],
+        [
+          "This morning at six, before the building woke, I crept down into the courtyard in my dressing gown and rubber gloves.",
+          "I opened the black bin and looked for the pot.",
+          "I found it under a tea bag, and as I straightened up with my prize, Frau Behrens was standing behind me, also in a dressing gown, a plastic fork in her hand.",
+          "We looked at each other for a long time.",
+          "Then she nodded to me, wordlessly, the way one nods to a fellow brother in a monastery, and went to the yellow bin.",
+          "We have greeted each other ever since.",
+          "We never talk about Tuesday evenings."
+        ]
+      ],
+      "vocab": [
+        { "word": "Geständnis", "gloss": "confession" },
+        { "word": "Schwäche", "gloss": "weakness" },
+        { "word": "Knistern", "gloss": "rustling" },
+        { "word": "Konfession", "gloss": "religious denomination" },
+        { "word": "säuberlich", "gloss": "neatly" },
+        { "word": "Konzil", "gloss": "church council" },
+        { "word": "herrschende Lehre", "gloss": "prevailing doctrine" },
+        { "word": "gewacht", "gloss": "guarded, watched over" },
+        { "word": "Zollbeamten", "gloss": "customs officer" },
+        { "word": "Fehltritt", "gloss": "transgression, slip" },
+        { "word": "Täter", "gloss": "culprits" },
+        { "word": "ermittelt", "gloss": "identifies, tracks down" },
+        { "word": "einwenden", "gloss": "object" },
+        { "word": "beträchtlicher", "gloss": "considerable" },
+        { "word": "hinuntergeschlichen", "gloss": "crept down" }
+      ]
+    },
+    {
+      "id": "de-c2-02",
+      "title": "Föhn",
+      "subtitle": "The Föhn wind",
+      "topic": "Weather",
+      "symbol": "wind",
+      "paragraphs": [
+        "An Föhntagen rückt München an die Alpen heran. Man steht morgens am Fenster in Giesing und sieht die Berge so nah, als hätte jemand sie über Nacht bis an den Stadtrand geschoben, jede Felswand gestochen scharf, jeder Grat wie mit dem Lineal gezogen. Der Himmel ist von einem Blau, das in keinem Farbkasten vorkommt, ein Blau, das beinahe weh tut. Es ist Februar, und es ist warm, unanständig warm, und der Wind riecht nach Süden.",
+        "An Föhntagen werden die Münchner sonderbar. Die Ärzte wissen es, die Polizisten wissen es, und die Kellnerinnen in den Biergärten, die verfrüht die Stühle hinausstellen, wissen es auch. Man bekommt Kopfweh ohne Grund und Lust auf Dinge, die man sich sonst verbietet. Alte Ehepaare streiten über Nichtigkeiten, Schüchterne sprechen Fremde in der Trambahn an, und in den Kanzleien der Maximilianstraße werden Briefe geschrieben, die man besser nicht abgeschickt hätte. Es heißt, Chirurgen verschieben an solchen Tagen Operationen. Es heißt vieles.",
+        "Der Föhn ist ein Wind, der über die Berge stürzt und dabei seine Feuchtigkeit verliert, so erklären es die Meteorologen, und je tiefer er fällt, desto wärmer und trockener wird er. Ein Wind also, der alles abgegeben hat, was ihn schwer machte, und nun leicht und rücksichtslos über die Ebene fegt. Vielleicht ist es das, was uns verstört: dass er uns vorführt, wie es wäre, nichts mehr mit sich herumzutragen.",
+        "Meine Großmutter, die in Garmisch aufwuchs, sagte, an Föhntagen höre man die Glocken von Kirchen, die es gar nicht gebe. Sie sagte auch, man solle an solchen Tagen keine Entscheidungen treffen, weder heiraten noch kündigen noch Haare schneiden. Sie selbst hat, wie ich später erfuhr, an einem Föhntag im März ihren Verlobten verlassen und den Mann geheiratet, der mein Großvater wurde. Sie hat es nie bereut, aber sie hat bis an ihr Lebensende behauptet, es sei der Wind gewesen.",
+        "Am Abend bricht der Föhn zusammen, meistens ohne Vorwarnung. Die Berge rücken zurück an ihren Platz, Wolken schieben sich von Westen heran, und es beginnt zu regnen, ein gewöhnlicher, grauer, vernünftiger Regen. Die Stadt atmet aus. Man schämt sich ein wenig für das, was man gesagt hat, und weiß doch, dass man es ernst gemeint hat. Morgen wird es kalt sein. Morgen wird man wieder sein, wer man ist. Aber irgendwo auf dem Tisch liegt noch ein Brief, und er ist schon frankiert."
+      ],
+      "english": [
+        [
+          "On Föhn days Munich moves closer to the Alps.",
+          "You stand at the window in Giesing in the morning and see the mountains so close, as if someone had pushed them to the edge of the city overnight, every rock face pin-sharp, every ridge as if drawn with a ruler.",
+          "The sky is a blue that appears in no paintbox, a blue that almost hurts.",
+          "It is February, and it is warm, indecently warm, and the wind smells of the south."
+        ],
+        [
+          "On Föhn days the people of Munich turn strange.",
+          "The doctors know it, the police know it, and the waitresses in the beer gardens, who put the chairs out too early, know it too.",
+          "You get headaches for no reason and a craving for things you normally forbid yourself.",
+          "Old married couples quarrel over trifles, shy people speak to strangers on the tram, and in the law offices of Maximilianstrasse letters are written that would have been better left unsent.",
+          "It is said that surgeons postpone operations on such days.",
+          "A great deal is said."
+        ],
+        [
+          "The Föhn is a wind that plunges over the mountains and loses its moisture as it does, so the meteorologists explain, and the further it falls, the warmer and drier it becomes.",
+          "A wind, then, that has given up everything that weighed it down and now sweeps lightly and recklessly across the plain.",
+          "Perhaps that is what unsettles us: that it shows us what it would be like to carry nothing around any more."
+        ],
+        [
+          "My grandmother, who grew up in Garmisch, used to say that on Föhn days you could hear the bells of churches that didn't exist.",
+          "She also said that on such days you should make no decisions: neither marry, nor resign, nor cut your hair.",
+          "She herself, as I later found out, left her fiancé on a Föhn day in March and married the man who became my grandfather.",
+          "She never regretted it, but to the end of her life she maintained that it had been the wind."
+        ],
+        [
+          "In the evening the Föhn collapses, usually without warning.",
+          "The mountains move back to their places, clouds push in from the west, and it starts to rain, an ordinary, grey, sensible rain.",
+          "The city breathes out.",
+          "You are a little ashamed of what you said, and yet you know you meant it.",
+          "Tomorrow it will be cold.",
+          "Tomorrow you will be who you are again.",
+          "But somewhere on the table there is still a letter, and it already has a stamp on it."
+        ]
+      ],
+      "vocab": [
+        { "word": "gestochen scharf", "gloss": "pin-sharp" },
+        { "word": "Grat", "gloss": "ridge" },
+        { "word": "unanständig", "gloss": "indecently" },
+        { "word": "sonderbar", "gloss": "strange, odd" },
+        { "word": "verfrüht", "gloss": "prematurely" },
+        { "word": "Nichtigkeiten", "gloss": "trifles" },
+        { "word": "Schüchterne", "gloss": "shy people" },
+        { "word": "Kanzleien", "gloss": "law offices" },
+        { "word": "rücksichtslos", "gloss": "recklessly" },
+        { "word": "fegt", "gloss": "sweeps" },
+        { "word": "verstört", "gloss": "unsettles, disturbs" },
+        { "word": "Verlobten", "gloss": "fiancé" },
+        { "word": "Vorwarnung", "gloss": "warning" },
+        { "word": "frankiert", "gloss": "stamped" }
+      ]
+    },
+    {
+      "id": "de-c2-03",
+      "title": "Wir bitten um Ihr Verständnis",
+      "subtitle": "We ask for your understanding",
+      "topic": "Media",
+      "symbol": "megaphone.fill",
+      "paragraphs": [
+        "Es gibt Sätze, die so oft gesagt worden sind, dass sie keine Bedeutung mehr haben, sondern nur noch eine Temperatur. „Wir bitten um Ihr Verständnis“ ist ein solcher Satz. Ich höre ihn auf Bahnsteigen, in Warteschleifen, in Briefen meiner Krankenkasse, und jedes Mal spüre ich, wie die Umgebungstemperatur um zwei Grad sinkt. Niemand bittet hier um irgendetwas. Der Satz ist keine Bitte, er ist eine Feststellung: Ihr Verständnis wird hiermit vorausgesetzt, Einspruch zwecklos.",
+        "Ich habe begonnen, diese Sprache zu sammeln, wie andere Leute Schmetterlinge sammeln, aufgespießt und beschriftet. Da ist das wunderbare „Es kam zu Verzögerungen im Betriebsablauf“, ein Satz ohne Täter, in dem Verzögerungen offenbar von selbst zustande kommen, wie Schimmel. Da ist „Wir bedauern etwaige Unannehmlichkeiten“, wobei das kleine Wort „etwaige“ die ganze Arbeit leistet: Es lässt offen, ob es überhaupt Unannehmlichkeiten gab, und wenn ja, ob man sie nicht vielleicht selbst verschuldet hat. Und da ist mein Lieblingsexemplar, das „Wir nehmen Ihr Anliegen sehr ernst“, das ausschließlich dann verwendet wird, wenn ein Anliegen nicht im Geringsten ernst genommen wird.",
+        "Die Sprachwissenschaft kennt dafür einen Fachbegriff, der im Kern das Verschwinden des Handelnden aus dem Satz beschreibt. Das Passiv ist dabei der treueste Komplize. Fehler wurden gemacht. Daten wurden weitergegeben. Stellen wurden abgebaut. Wer genau hat hier etwas getan? Niemand. Es ist einfach geschehen, wie das Wetter, und wer sich über das Wetter beschwert, ist bekanntlich ein Querulant.",
+        "Ich will nicht ungerecht sein. Hinter jedem dieser Sätze sitzt vermutlich ein Mensch, der einmal Germanistik studiert hat und nun, gegen ein ordentliches Gehalt, die eigene Muttersprache in Watte packt. Vielleicht leidet er. Vielleicht formuliert er nachts, heimlich, Sätze mit Subjekt, Prädikat und Schuld: „Wir haben Mist gebaut, und es tut uns leid.“ Vielleicht liest er sie sich laut vor und zerreißt sie dann.",
+        "Neulich, auf einem Bahnsteig in Fulda, geschah etwas Seltsames. Aus dem Lautsprecher knackte es, und eine erschöpfte Männerstimme sagte: „Der Zug kommt heute gar nicht. Ich weiß auch nicht, warum. Ich würde an Ihrer Stelle ein Taxi nehmen.“ Einen Moment lang herrschte vollkommene Stille. Dann begannen die Menschen zu applaudieren, zögernd erst, schließlich begeistert, und Fremde lachten einander an. Ich habe nie wieder etwas von diesem Mann gehört. Ich hoffe, man hat ihm verziehen. Wahrscheinlich, so fürchte ich, wurden Konsequenzen gezogen."
+      ],
+      "english": [
+        [
+          "There are sentences that have been said so often that they no longer have a meaning, only a temperature.",
+          "\"We ask for your understanding\" is one such sentence.",
+          "I hear it on station platforms, in telephone queues, in letters from my health insurer, and every time I feel the ambient temperature drop by two degrees.",
+          "Nobody is asking for anything here.",
+          "The sentence is not a request but a statement: your understanding is hereby presupposed, objections pointless."
+        ],
+        [
+          "I have started collecting this language the way other people collect butterflies, pinned and labelled.",
+          "There is the wonderful \"There were delays in operations\", a sentence without a culprit, in which delays apparently come about by themselves, like mould.",
+          "There is \"We regret any inconvenience\", in which the little word \"any\" does all the work: it leaves open whether there was any inconvenience at all, and if so, whether you might not have caused it yourself.",
+          "And there is my favourite specimen, \"We take your concern very seriously\", which is used exclusively when a concern is not being taken seriously in the slightest."
+        ],
+        [
+          "Linguistics has a technical term for this, which essentially describes the disappearance of the agent from the sentence.",
+          "The passive is its most loyal accomplice.",
+          "Mistakes were made.",
+          "Data was passed on.",
+          "Jobs were cut.",
+          "Who exactly did anything here?",
+          "Nobody.",
+          "It simply happened, like the weather, and anyone who complains about the weather is, as everyone knows, a grumbler."
+        ],
+        [
+          "I don't want to be unfair.",
+          "Behind each of these sentences there presumably sits a person who once studied German literature and now, for a decent salary, wraps their own mother tongue in cotton wool.",
+          "Perhaps he suffers.",
+          "Perhaps at night, in secret, he composes sentences with a subject, a verb and guilt: \"We messed up, and we're sorry.\"",
+          "Perhaps he reads them aloud to himself and then tears them up."
+        ],
+        [
+          "Recently, on a platform in Fulda, something strange happened.",
+          "The loudspeaker crackled, and an exhausted male voice said: \"The train isn't coming at all today. I don't know why either. If I were you, I'd take a taxi.\"",
+          "For a moment there was complete silence.",
+          "Then people began to applaud, hesitantly at first, then enthusiastically, and strangers laughed at one another.",
+          "I never heard from that man again.",
+          "I hope he was forgiven.",
+          "Probably, I fear, consequences were drawn."
+        ]
+      ],
+      "vocab": [
+        { "word": "Warteschleifen", "gloss": "telephone queues, hold loops" },
+        { "word": "Feststellung", "gloss": "statement" },
+        { "word": "vorausgesetzt", "gloss": "presupposed" },
+        { "word": "Einspruch", "gloss": "objection" },
+        { "word": "aufgespießt", "gloss": "pinned, skewered" },
+        { "word": "Betriebsablauf", "gloss": "operations" },
+        { "word": "Schimmel", "gloss": "mould" },
+        { "word": "etwaige", "gloss": "any, possible" },
+        { "word": "Anliegen", "gloss": "concern, request" },
+        { "word": "Komplize", "gloss": "accomplice" },
+        { "word": "Querulant", "gloss": "grumbler, troublemaker" },
+        { "word": "in Watte packt", "gloss": "wraps in cotton wool" },
+        { "word": "Mist gebaut", "gloss": "messed up" },
+        { "word": "knackte", "gloss": "crackled" },
+        { "word": "verziehen", "gloss": "forgiven" }
+      ]
+    },
+    {
+      "id": "de-c2-04",
+      "title": "Der Vorhang",
+      "subtitle": "The curtain",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Seit vierzehn Monaten arbeitete Ruth Kessler an dem Bild, und in dieser Zeit hatte sie es besser kennengelernt als die meisten Menschen in ihrem Leben. Es war ein kleines Gemälde aus dem Umkreis eines holländischen Meisters, ein junger Mann am offenen Fenster, der eine Laute stimmt, im siebzehnten Jahrhundert gemalt und im neunzehnten, wie Ruth vermutete, von einem eifrigen Kollegen gründlich verschlimmbessert. Die Gemäldegalerie in Dresden wollte es zum Jubiläum ausstellen, gereinigt, gefestigt, in seinem ursprünglichen Zustand.",
+        "Im Februar, unter dem Mikroskop, bemerkte sie die Unregelmäßigkeit. Der dunkle Vorhang rechts im Bild, ein schwerer, olivgrüner Stoff, war nicht so alt wie der Rest. Die Röntgenaufnahmen bestätigten, was sie geahnt hatte: Darunter verbarg sich eine zweite Figur, eine junge Frau, halb im Schatten, die dem Lautenspieler zuhörte. Ruth spürte jenes Kribbeln, für das man diesen Beruf ergreift und das sich in dreißig Jahren vielleicht dreimal einstellt.",
+        "Sie arbeitete wochenlang mit Skalpell und Lösungsmitteln, Quadratmillimeter für Quadratmillimeter, und allmählich trat die Frau aus dem Dunkel hervor: ein blaues Kleid, eine Hand auf der Stuhllehne, ein Hals, der sich leicht zur Musik neigte. Nur das Gesicht fehlte. Es war nicht übermalt, sondern zerkratzt, mit wenigen harten Strichen, die bis auf die Grundierung gingen. Die Analyse ließ keinen Zweifel: Die Kratzer stammten aus derselben Zeit wie das Bild. Nicht ein späterer Restaurator hatte die Frau verschwinden lassen. Es war der Maler selbst gewesen.",
+        "Ruth saß eine lange Nacht vor dem Bild. Die Richtlinien des Museums waren eindeutig: Man stellt den Zustand wieder her, den der Künstler gewollt hat. Aber was hatte er gewollt? Erst hatte er sie gemalt, mit einer Zärtlichkeit, die man noch in der Falte ihres Ärmels sah, und dann hatte er ihr das Gesicht genommen, in einer einzigen Minute, die vielleicht Wut war, vielleicht Trauer, vielleicht Vernunft. Ein Kollege des neunzehnten Jahrhunderts hatte die Wunde dann diskret mit einem Vorhang verdeckt, wie man ein Familiengeheimnis zudeckt.",
+        "Am Morgen rief sie den Direktor an. Sie legte ihm die Aufnahmen vor, die Analysen, die Hypothesen. Er hörte zu, rieb sich die Stirn und fragte schließlich, was sie vorschlage. Ruth sagte, man solle beides zeigen: das Bild mit dem Vorhang, so wie es hundertfünfzig Jahre lang betrachtet worden sei, und daneben, in der Vitrine, die Röntgenaufnahme, auf der die Frau ohne Gesicht dem Lautenspieler zuhöre. Manche Geschichten, sagte sie, erzähle man am ehrlichsten, indem man zeige, dass jemand sie verschweigen wollte. Dann ging sie zurück ins Atelier und begann, den Vorhang wieder zu malen, Faden für Faden, in einem Olivgrün, das sie drei Tage lang angemischt hatte."
+      ],
+      "english": [
+        [
+          "Ruth Kessler had been working on the painting for fourteen months, and in that time she had come to know it better than most of the people in her life.",
+          "It was a small painting from the circle of a Dutch master, a young man at an open window tuning a lute, painted in the seventeenth century and, Ruth suspected, thoroughly made worse by an overzealous colleague in the nineteenth.",
+          "The picture gallery in Dresden wanted to exhibit it for its anniversary, cleaned, consolidated, in its original state."
+        ],
+        [
+          "In February, under the microscope, she noticed the irregularity.",
+          "The dark curtain on the right of the picture, a heavy olive-green fabric, was not as old as the rest.",
+          "The X-rays confirmed what she had suspected: beneath it was hidden a second figure, a young woman, half in shadow, listening to the lute player.",
+          "Ruth felt that tingle for which one takes up this profession and which comes perhaps three times in thirty years."
+        ],
+        [
+          "For weeks she worked with scalpel and solvents, square millimetre by square millimetre, and gradually the woman emerged from the darkness: a blue dress, a hand on the back of a chair, a neck inclined slightly towards the music.",
+          "Only the face was missing.",
+          "It had not been painted over but scratched out, with a few hard strokes that went right down to the ground layer.",
+          "The analysis left no doubt: the scratches dated from the same time as the picture.",
+          "It was not a later restorer who had made the woman disappear.",
+          "It had been the painter himself."
+        ],
+        [
+          "Ruth sat in front of the picture for a long night.",
+          "The museum's guidelines were clear: you restore the state the artist intended.",
+          "But what had he intended?",
+          "First he had painted her, with a tenderness still visible in the fold of her sleeve, and then he had taken her face away, in a single minute that was perhaps anger, perhaps grief, perhaps reason.",
+          "A nineteenth-century colleague had then discreetly covered the wound with a curtain, the way one covers up a family secret."
+        ],
+        [
+          "In the morning she called the director.",
+          "She showed him the images, the analyses, the hypotheses.",
+          "He listened, rubbed his forehead and finally asked what she proposed.",
+          "Ruth said they should show both: the picture with the curtain, as it had been seen for a hundred and fifty years, and beside it, in the display case, the X-ray in which the faceless woman listens to the lute player.",
+          "Some stories, she said, are told most honestly by showing that someone wanted to keep them quiet.",
+          "Then she went back to the studio and began to paint the curtain again, thread by thread, in an olive green she had spent three days mixing."
+        ]
+      ],
+      "vocab": [
+        { "word": "Umkreis", "gloss": "circle (of an artist)" },
+        { "word": "eifrigen", "gloss": "overzealous" },
+        { "word": "verschlimmbessert", "gloss": "made worse by trying to improve" },
+        { "word": "gefestigt", "gloss": "consolidated" },
+        { "word": "Unregelmäßigkeit", "gloss": "irregularity" },
+        { "word": "Röntgenaufnahmen", "gloss": "X-rays" },
+        { "word": "Kribbeln", "gloss": "tingle" },
+        { "word": "Lösungsmitteln", "gloss": "solvents" },
+        { "word": "zerkratzt", "gloss": "scratched out" },
+        { "word": "Grundierung", "gloss": "ground layer, primer" },
+        { "word": "Richtlinien", "gloss": "guidelines" },
+        { "word": "Ärmels", "gloss": "sleeve" },
+        { "word": "verdeckt", "gloss": "covered" },
+        { "word": "verschweigen", "gloss": "keep quiet, conceal" },
+        { "word": "angemischt", "gloss": "mixed" }
+      ]
+    },
+    {
+      "id": "de-c2-05",
+      "title": "Das Sparbuch",
+      "subtitle": "The savings book",
+      "topic": "Money",
+      "symbol": "banknote.fill",
+      "paragraphs": [
+        "Das Sparbuch lag in der untersten Schublade des Schreibtischs, unter Steuerbescheiden, Garantiescheinen für Geräte, die längst nicht mehr existierten, und einem Bündel Postkarten aus Rimini. Es war ein graues Heftchen der Kreissparkasse, an den Ecken weich gegriffen wie ein Gesangbuch. Auf dem Umschlag stand in der steilen Handschrift meines Vaters mein Name. Ich hatte nicht gewusst, dass es existierte. Ich war neunundfünfzig Jahre alt, und mein Vater war seit drei Wochen tot.",
+        "Die erste Eintragung stammte vom Tag meiner Geburt im April neunzehnhundertsiebenundsechzig: fünf Mark. Die zweite eine Woche später: fünf Mark. Dann, Seite um Seite, Stempel um Stempel, jeden Freitag fünf Mark, über Jahrzehnte, in einer Regelmäßigkeit, die etwas Unheimliches hatte. Als die Mark verschwand, wurden es zweieinhalb Euro, später drei. Die letzte Einzahlung trug das Datum seines letzten Freitags vor dem Krankenhaus.",
+        "Ich rechnete. Ein Leben lang, Woche für Woche, und doch war die Summe am Ende lächerlich: etwas über elftausend Euro, inklusive Zinsen, die in manchen Jahren kaum der Rede wert gewesen waren. Ein Finanzberater hätte die Hände über dem Kopf zusammengeschlagen. Hätte er das Geld in Aktien angelegt, sagte mir ein Freund, der von solchen Dingen etwas versteht, wäre ich heute vermögend. Mein Vater hat nie in Aktien angelegt. Er misstraute allem, was man nicht anfassen konnte, und er hätte das Wort „Rendite“ nicht ohne leichten Ekel ausgesprochen.",
+        "Wir haben nicht viel miteinander geredet, mein Vater und ich. Er war Schlosser bei einem Maschinenbauer in Heilbronn, ein Mann, der seine Gefühle in Werkstücken ausdrückte, die genau passten, und in Schweigen, das nicht immer passte. Als ich Literatur studierte statt etwas Ordentliches, hat er drei Monate nicht mit mir gesprochen. Als mein erstes Buch erschien, hat er es gekauft, wie ich später erfuhr, aber er hat nie ein Wort darüber verloren. Ich hielt ihn lange für einen Menschen ohne Sprache.",
+        "Jetzt sitze ich mit diesem grauen Heft am Küchentisch und blättere, und mir wird klar, dass ich mich geirrt habe. Er hatte eine Sprache, nur schrieb er sie nicht in Briefen, sondern in Stempeln. Jeden Freitag, über dreitausendmal, hat er sich in die Schlange am Schalter gestellt, um mir dasselbe zu sagen. Es ist ein langweiliger Text, monoton, ohne Steigerung und ohne Pointe. Ich habe nie einen schöneren gelesen. Das Geld werde ich nicht abheben. Stattdessen habe ich am Freitag zum ersten Mal selbst etwas eingezahlt, fünf Euro. Die Frau am Schalter hat mich merkwürdig angesehen, als ich sie bat, es von Hand einzutragen."
+      ],
+      "english": [
+        [
+          "The savings book lay in the bottom drawer of the desk, under tax assessments, guarantee slips for appliances that had long since ceased to exist, and a bundle of postcards from Rimini.",
+          "It was a grey little booklet from the district savings bank, its corners worn soft like a hymn book.",
+          "On the cover, in my father's upright handwriting, was my name.",
+          "I hadn't known it existed.",
+          "I was fifty-nine years old, and my father had been dead for three weeks."
+        ],
+        [
+          "The first entry dated from the day I was born in April 1967: five marks.",
+          "The second a week later: five marks.",
+          "Then, page after page, stamp after stamp, five marks every Friday, for decades, with a regularity that had something uncanny about it.",
+          "When the mark disappeared, it became two and a half euros, later three.",
+          "The last deposit bore the date of his last Friday before hospital."
+        ],
+        [
+          "I did the sums.",
+          "A whole lifetime, week after week, and yet in the end the total was laughable: a little over eleven thousand euros, including interest that in some years had hardly been worth mentioning.",
+          "A financial adviser would have thrown up his hands in horror.",
+          "If he had invested the money in shares, a friend who understands such things told me, I would be wealthy today.",
+          "My father never invested in shares.",
+          "He distrusted everything you couldn't touch, and he could not have said the word \"yield\" without a slight shudder of disgust."
+        ],
+        [
+          "We didn't talk much, my father and I.",
+          "He was a fitter at an engineering firm in Heilbronn, a man who expressed his feelings in workpieces that fitted exactly, and in silences that did not always fit.",
+          "When I studied literature instead of something proper, he didn't speak to me for three months.",
+          "When my first book came out, he bought it, as I learned later, but he never said a word about it.",
+          "For a long time I took him for a man without language."
+        ],
+        [
+          "Now I sit at the kitchen table leafing through this grey booklet, and I realise I was wrong.",
+          "He had a language; he just didn't write it in letters, but in stamps.",
+          "Every Friday, more than three thousand times, he stood in the queue at the counter to tell me the same thing.",
+          "It is a boring text, monotonous, without a climax and without a punchline.",
+          "I have never read a more beautiful one.",
+          "I won't withdraw the money.",
+          "Instead, on Friday, for the first time, I paid something in myself: five euros.",
+          "The woman at the counter gave me an odd look when I asked her to enter it by hand."
+        ]
+      ],
+      "vocab": [
+        { "word": "Steuerbescheiden", "gloss": "tax assessments" },
+        { "word": "Garantiescheinen", "gloss": "guarantee slips" },
+        { "word": "weich gegriffen", "gloss": "worn soft (by handling)" },
+        { "word": "Gesangbuch", "gloss": "hymn book" },
+        { "word": "steilen", "gloss": "upright" },
+        { "word": "Eintragung", "gloss": "entry" },
+        { "word": "Unheimliches", "gloss": "something uncanny" },
+        { "word": "Zinsen", "gloss": "interest" },
+        { "word": "der Rede wert", "gloss": "worth mentioning" },
+        { "word": "vermögend", "gloss": "wealthy" },
+        { "word": "Rendite", "gloss": "yield, return" },
+        { "word": "Ekel", "gloss": "disgust" },
+        { "word": "Schlosser", "gloss": "fitter, metalworker" },
+        { "word": "Steigerung", "gloss": "climax, build-up" },
+        { "word": "abheben", "gloss": "withdraw" }
+      ]
+    },
+    {
+      "id": "de-c2-06",
+      "title": "Klopfzeichen",
+      "subtitle": "Knocking signals",
+      "topic": "Neighbours",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Die Wand zwischen den Wohnungen vierzehn und fünfzehn in einem Gründerzeithaus im fünften Wiener Bezirk ist, nach Auskunft der Hausverwaltung, siebenundzwanzig Zentimeter dick: Ziegel, Mörtel, mehrere Schichten Tapete und, auf der Seite von Nummer vierzehn, ein Regal voller Lexika aus einer Zeit, als man Wissen noch nach Gewicht kaufte. Siebenundzwanzig Zentimeter sind nicht viel. Man hört durch sie das Husten, das Radio, gelegentlich ein Lachen. Ein Gesicht hört man nicht.",
+        "Agnes Hrdlicka, Nummer vierzehn, zog im Herbst neunzehnhundertachtundneunzig ein, frisch geschieden, mit drei Koffern und einer Schlaflosigkeit, die sie für vorübergehend hielt. In der vierten Nacht, um halb drei, klopfte sie, ohne recht zu wissen, warum, zweimal leise gegen die Wand neben ihrem Bett. Nach einer Weile kamen von der anderen Seite zwei Klopfer zurück. Sie lag lange wach, mit klopfendem Herzen, und schlief dann besser als seit Monaten.",
+        "Daraus wurde, ohne dass je ein Wort darüber gewechselt worden wäre, eine Ordnung. Zweimal hieß: Ich bin wach. Dreimal hieß, so hatte sie es sich zurechtgelegt: Ich auch, es ist auszuhalten. Einmal, lange und fest, hieß gute Nacht. Im Stiegenhaus begegnete sie gelegentlich Nachbarn, grüßte und wurde gegrüßt, aber wer hinter der Wand wohnte, fand sie nie heraus, und sie hütete sich, danach zu fragen. Sie stellte sich einen pensionierten Musiker vor, dann einen Nachtportier, dann eine Witwe, und im Lauf der Jahre trug der Mensch hinter der Wand viele Gesichter, die alle freundlich waren.",
+        "Zweiundzwanzig Jahre lang klopften sie. Agnes wurde älter, und ihre Schlaflosigkeit erwies sich als treuer als ihr Ehemann. Sie überstand eine Operation, den Tod ihrer Schwester und einen Winter, in dem sie kaum das Haus verließ. In jeder dieser Nächte kamen die Klopfer zurück. Dann, an einem Märzabend, blieb die Wand stumm. Sie klopfte zweimal, dreimal, sie klopfte, bis ihre Knöchel schmerzten. Am nächsten Morgen stand vor dem Haus ein Rettungswagen, und Männer trugen etwas Schmales, Zugedecktes die Stiege hinunter.",
+        "Sie erfuhr später von der Hausbesorgerin, dass dort ein Mann namens Leopold gewohnt hatte, Uhrmacher, ledig, sehr zurückgezogen, über neunzig. Er habe nie Besuch bekommen, sagte die Hausbesorgerin, der Arme, nie in all den Jahren. Agnes nickte und sagte nichts. Im Sommer zog eine junge Familie in Nummer fünfzehn ein, mit einem Baby, das nachts schrie. In der ersten Nacht, um halb drei, lag Agnes lange wach und hörte zu. Dann klopfte sie, sehr leise, zweimal gegen die Wand. Es kam keine Antwort. Aber das Baby, so schien es ihr, wurde ein wenig ruhiger."
+      ],
+      "english": [
+        [
+          "The wall between flats fourteen and fifteen in a late-nineteenth-century building in Vienna's fifth district is, according to the management company, twenty-seven centimetres thick: brick, mortar, several layers of wallpaper and, on the side of number fourteen, a shelf full of encyclopaedias from a time when knowledge was still bought by weight.",
+          "Twenty-seven centimetres is not much.",
+          "Through them you hear coughing, the radio, occasionally a laugh.",
+          "A face you cannot hear."
+        ],
+        [
+          "Agnes Hrdlicka, number fourteen, moved in in the autumn of 1998, freshly divorced, with three suitcases and an insomnia she believed to be temporary.",
+          "On the fourth night, at half past two, without quite knowing why, she knocked twice softly on the wall beside her bed.",
+          "After a while two knocks came back from the other side.",
+          "She lay awake for a long time with a pounding heart, and then slept better than she had in months."
+        ],
+        [
+          "Out of this, without a word ever being exchanged about it, grew an order.",
+          "Twice meant: I'm awake.",
+          "Three times meant, as she had worked it out for herself: me too, it's bearable.",
+          "Once, long and firm, meant good night.",
+          "On the stairs she occasionally met neighbours, greeted them and was greeted, but she never found out who lived behind the wall, and she took care not to ask.",
+          "She imagined a retired musician, then a night porter, then a widow, and over the years the person behind the wall wore many faces, all of them kind."
+        ],
+        [
+          "For twenty-two years they knocked.",
+          "Agnes grew older, and her insomnia proved more faithful than her husband.",
+          "She came through an operation, her sister's death and a winter in which she hardly left the house.",
+          "On every one of those nights the knocks came back.",
+          "Then, one evening in March, the wall stayed silent.",
+          "She knocked twice, three times, she knocked until her knuckles hurt.",
+          "The next morning an ambulance stood outside the building, and men carried something narrow and covered down the stairs."
+        ],
+        [
+          "She later learned from the caretaker that a man called Leopold had lived there, a watchmaker, unmarried, very reclusive, over ninety.",
+          "He never had visitors, said the caretaker, the poor man, never in all those years.",
+          "Agnes nodded and said nothing.",
+          "In summer a young family moved into number fifteen, with a baby that cried at night.",
+          "On the first night, at half past two, Agnes lay awake for a long time and listened.",
+          "Then, very softly, she knocked twice on the wall.",
+          "No answer came.",
+          "But the baby, it seemed to her, grew a little calmer."
+        ]
+      ],
+      "vocab": [
+        { "word": "Gründerzeithaus", "gloss": "late-19th-century apartment building" },
+        { "word": "Ziegel", "gloss": "brick" },
+        { "word": "Mörtel", "gloss": "mortar" },
+        { "word": "Schlaflosigkeit", "gloss": "insomnia" },
+        { "word": "vorübergehend", "gloss": "temporary" },
+        { "word": "zurechtgelegt", "gloss": "worked out (for herself)" },
+        { "word": "auszuhalten", "gloss": "bearable" },
+        { "word": "Stiegenhaus", "gloss": "stairwell (Austrian)" },
+        { "word": "hütete sich", "gloss": "took care not to" },
+        { "word": "Witwe", "gloss": "widow" },
+        { "word": "erwies sich", "gloss": "proved" },
+        { "word": "stumm", "gloss": "silent" },
+        { "word": "Knöchel", "gloss": "knuckles" },
+        { "word": "Zugedecktes", "gloss": "something covered" },
+        { "word": "zurückgezogen", "gloss": "reclusive" }
+      ]
+    },
+    {
+      "id": "de-c2-07",
+      "title": "Der Fuchs vom Paradeplatz",
+      "subtitle": "The fox of Paradeplatz",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Um fünf Uhr früh gehört der Paradeplatz in Zürich den Kehrmaschinen, den Zeitungsausträgern und dem Fuchs. Ich weiß nicht, woher er kommt. Vielleicht aus dem Friedhof Sihlfeld, vielleicht aus den Gärten am Zürichberg, vielleicht aus einer jener Ritzen in der Stadt, die auf keinem Plan verzeichnet sind. Ich weiß nur, dass er kommt, seit drei Jahren, an jedem Morgen, an dem ich Dienst habe, und dass er den Platz überquert, als gehöre er ihm.",
+        "Ich arbeite für die Stadtreinigung. Mein Revier sind die Straßen zwischen dem See und dem Hauptbahnhof, die saubersten der Welt, wie die Touristen glauben, die nicht wissen, dass sie es nur sind, weil wir jede Nacht aufräumen, was die Welt am Tag hat fallen lassen. Man sieht viel um diese Zeit. Champagnerflaschen vor den Bars, ein einzelner Damenschuh, einmal eine Aktentasche voller Unterlagen, die ich ungelesen beim Fundbüro abgab, obwohl ich, das gebe ich zu, kurz in Versuchung war.",
+        "Der Fuchs hält sich an keinen Fahrplan außer seinem eigenen. Er trabt diagonal über die Tramgleise, bleibt vor dem Eingang einer der großen Banken stehen und schnuppert an der Drehtür, mit einer Gründlichkeit, die man fast als Prüfung bezeichnen könnte. Dann hebt er das Bein, nicht immer, aber oft genug, dass man es für eine Meinung halten muss. Danach verschwindet er in Richtung Bahnhofstraße, ohne Eile, den buschigen Schwanz waagrecht wie eine Fahne.",
+        "Um halb sieben kommen die ersten Bankangestellten, in dunklen Mänteln, mit Kaffeebechern, die Augen auf den Telefonen. Sie gehen über genau dieselben Pflastersteine, durch dieselbe Drehtür, und keiner von ihnen ahnt, dass vor einer Stunde jemand hier war, der von alledem nichts braucht. Kein Konto, keine Rendite, keine Kreditwürdigkeit. Ich habe einmal versucht, einem jungen Mann, der auf eine Straßenbahn wartete, davon zu erzählen. Er sah mich an, wie man einen Straßenfeger ansieht, der von Füchsen erzählt, und schaute wieder auf seinen Bildschirm, wo vermutlich Kurse fielen.",
+        "Ich erzähle es seitdem niemandem mehr. Es ist eine Art Geheimnis zwischen dem Fuchs und mir, und ich glaube, er weiß es. Manchmal bleibt er mitten auf dem Platz stehen und sieht zu mir herüber, mit einer Gelassenheit, um die ich ihn beneide. Wir sind, so denke ich in solchen Momenten, die beiden einzigen Wesen hier, die die Stadt kennen, wie sie wirklich ist, bevor sie sich zurechtmacht. Dann schalte ich die Kehrmaschine wieder ein, und er geht seiner Wege, und die Stadt beginnt, sich für einen weiteren Tag zu schminken."
+      ],
+      "english": [
+        [
+          "At five in the morning Paradeplatz in Zurich belongs to the street sweepers, the newspaper deliverers and the fox.",
+          "I don't know where he comes from.",
+          "Perhaps from the Sihlfeld cemetery, perhaps from the gardens on the Zürichberg, perhaps from one of those cracks in the city that are marked on no map.",
+          "I only know that he comes, for three years now, every morning I'm on duty, and that he crosses the square as if it belonged to him."
+        ],
+        [
+          "I work for the city cleaning department.",
+          "My patch is the streets between the lake and the main station, the cleanest in the world, as the tourists believe, not knowing that they are only so because every night we clear up what the world has dropped during the day.",
+          "You see a lot at that hour.",
+          "Champagne bottles outside the bars, a single woman's shoe, once a briefcase full of documents that I handed in unread at the lost property office, although, I admit, I was briefly tempted."
+        ],
+        [
+          "The fox keeps to no timetable but his own.",
+          "He trots diagonally across the tram tracks, stops at the entrance of one of the big banks and sniffs at the revolving door with a thoroughness that one might almost call an audit.",
+          "Then he lifts his leg, not always, but often enough that one has to take it as an opinion.",
+          "Then he disappears towards the Bahnhofstrasse, unhurried, his bushy tail held level like a flag."
+        ],
+        [
+          "At half past six the first bank employees arrive, in dark coats, with coffee cups, eyes on their phones.",
+          "They walk over exactly the same cobblestones, through the same revolving door, and none of them suspects that an hour ago someone was here who needs none of it.",
+          "No account, no returns, no creditworthiness.",
+          "I once tried to tell a young man waiting for a tram about it.",
+          "He looked at me the way one looks at a street sweeper talking about foxes, and turned back to his screen, where share prices were presumably falling."
+        ],
+        [
+          "Since then I don't tell anyone any more.",
+          "It is a kind of secret between the fox and me, and I think he knows it.",
+          "Sometimes he stops in the middle of the square and looks over at me with a composure I envy him.",
+          "We are, I think in such moments, the only two creatures here who know the city as it really is, before it makes itself presentable.",
+          "Then I switch the sweeper back on, and he goes his way, and the city begins to put on its make-up for another day."
+        ]
+      ],
+      "vocab": [
+        { "word": "Kehrmaschinen", "gloss": "street sweepers (machines)" },
+        { "word": "Ritzen", "gloss": "cracks" },
+        { "word": "verzeichnet", "gloss": "marked, recorded" },
+        { "word": "Revier", "gloss": "patch, territory" },
+        { "word": "in Versuchung", "gloss": "tempted" },
+        { "word": "trabt", "gloss": "trots" },
+        { "word": "schnuppert", "gloss": "sniffs" },
+        { "word": "Drehtür", "gloss": "revolving door" },
+        { "word": "Gründlichkeit", "gloss": "thoroughness" },
+        { "word": "waagrecht", "gloss": "level, horizontal" },
+        { "word": "Pflastersteine", "gloss": "cobblestones" },
+        { "word": "Kreditwürdigkeit", "gloss": "creditworthiness" },
+        { "word": "Kurse", "gloss": "share prices" },
+        { "word": "beneide", "gloss": "envy" },
+        { "word": "zurechtmacht", "gloss": "makes itself presentable" }
+      ]
+    },
+    {
+      "id": "de-c2-08",
+      "title": "Die Vase",
+      "subtitle": "The vase",
+      "topic": "Family",
+      "symbol": "photo.fill",
+      "paragraphs": [
+        "Drei Geschwister, ein Haus am Ammersee und ein Wochenende im Oktober: So hatte es der Notar formuliert, als handle es sich um eine Rechenaufgabe. Die Eltern waren im Abstand von elf Monaten gestorben, erst der Vater, dann, als hätte sie die Ordnung nicht stören wollen, die Mutter. Das Haus sollte verkauft werden. Vorher musste es geleert werden, und vorher musste geteilt werden, was es enthielt, und das, so wusste jeder von ihnen, war der eigentliche Prüfstein.",
+        "Es ging zunächst erstaunlich gut. Martin, der Älteste, Zahnarzt in Augsburg, nahm die Werkzeuge aus der Garage, mit denen er nichts anfangen konnte. Sabine, die Mittlere, nahm das Porzellan, das sie zeitlebens kritisiert hatte. Thomas, der Jüngste, der in Berlin in einer Altbauwohnung ohne Platz lebte, nahm die Bücher. Man war höflich zueinander, auf die übertriebene Art, in der Erwachsene höflich sind, die als Kinder um die Fernbedienung gekämpft haben. Niemand erwähnte den Streit an Weihnachten vor sieben Jahren. Niemand erwähnte das Pflegeheim, in dem Thomas die Mutter nie besucht hatte.",
+        "Am Sonntagnachmittag blieb nur noch eine Sache übrig: die Vase. Sie stand seit einem halben Jahrhundert auf dem Fensterbrett im Wohnzimmer, ein grünlich glasiertes Ungetüm mit Henkeln wie Ohren, das Hochzeitsgeschenk einer Tante, die niemand gemocht hatte. Die Mutter hatte sie verabscheut, und die Vase hatte als einziges Objekt im Haus jeden Umbau, jede Renovierung und jeden Wutanfall der Familie scheinbar unbeschadet überstanden. „Die will doch keiner“, sagte Sabine. Martin nickte. Thomas zuckte mit den Schultern. Man beschloss, sie mit dem Sperrmüll zu entsorgen, und ging erleichtert zum Abschiedsessen ins Dorf.",
+        "Martin kam als Erster zurück, angeblich, weil er seine Brille vergessen hatte. Er fand Sabine im Wohnzimmer, die Vase in Zeitungspapier wickelnd. Sie sahen sich ertappt an, und bevor einer von ihnen etwas sagen konnte, ging die Haustür, und Thomas stand im Flur, mit einem leeren Umzugskarton unter dem Arm. Es folgte eine Stille, in der dreißig Jahre Familiengeschichte verhandelt wurden, ohne dass ein Wort fiel.",
+        "Dann begann Sabine zu lachen, und dann lachten alle drei, so sehr, dass Martin sich auf die Treppe setzen musste. Jeder erzählte, warum: Martin hatte als Kind seinen ersten Milchzahn darin versteckt, Sabine hatte jahrelang Liebesbriefe unter sie geschoben, und Thomas hatte sie mit sieben zerbrochen und heimlich geklebt, und die Mutter hatte es bemerkt und nie etwas gesagt. Am Ende einigten sie sich auf eine Lösung, die der Notar absurd fand: Die Vase wandert. Jedes Jahr zu Weihnachten wird sie dem nächsten Geschwister übergeben, in Zeitungspapier, mit einem Brief. Seitdem feiern sie Weihnachten wieder zusammen."
+      ],
+      "english": [
+        [
+          "Three siblings, a house on the Ammersee and a weekend in October: that was how the notary had put it, as if it were a maths problem.",
+          "The parents had died eleven months apart, first the father, then, as if she hadn't wanted to disturb the order, the mother.",
+          "The house was to be sold.",
+          "Before that it had to be emptied, and before that its contents had to be divided, and that, each of them knew, was the real test."
+        ],
+        [
+          "At first it went surprisingly well.",
+          "Martin, the eldest, a dentist in Augsburg, took the tools from the garage, which were of no use to him.",
+          "Sabine, the middle one, took the china she had criticised all her life.",
+          "Thomas, the youngest, who lived in Berlin in an old flat with no room, took the books.",
+          "They were polite to one another, in the exaggerated way that adults who fought over the remote control as children are polite.",
+          "Nobody mentioned the row at Christmas seven years ago.",
+          "Nobody mentioned the care home where Thomas had never visited their mother."
+        ],
+        [
+          "On Sunday afternoon only one thing was left: the vase.",
+          "It had stood on the living-room windowsill for half a century, a greenish-glazed monstrosity with handles like ears, the wedding present of an aunt nobody had liked.",
+          "Their mother had loathed it, and the vase was the only object in the house that had seemingly survived every rebuild, every renovation and every family tantrum unscathed.",
+          "\"Nobody wants that,\" said Sabine.",
+          "Martin nodded.",
+          "Thomas shrugged.",
+          "They decided to put it out with the bulky waste and went, relieved, to the farewell dinner in the village."
+        ],
+        [
+          "Martin came back first, supposedly because he had forgotten his glasses.",
+          "He found Sabine in the living room, wrapping the vase in newspaper.",
+          "They looked at each other, caught out, and before either could say anything the front door opened, and Thomas stood in the hall with an empty moving box under his arm.",
+          "There followed a silence in which thirty years of family history were negotiated without a word being spoken."
+        ],
+        [
+          "Then Sabine began to laugh, and then all three laughed, so hard that Martin had to sit down on the stairs.",
+          "Each told why: as a child Martin had hidden his first milk tooth in it, Sabine had slid love letters under it for years, and Thomas had broken it at seven and secretly glued it back together, and their mother had noticed and never said a thing.",
+          "In the end they agreed on a solution the notary found absurd: the vase travels.",
+          "Every year at Christmas it is handed on to the next sibling, in newspaper, with a letter.",
+          "Since then they have celebrated Christmas together again."
+        ]
+      ],
+      "vocab": [
+        { "word": "Notar", "gloss": "notary" },
+        { "word": "Prüfstein", "gloss": "test, touchstone" },
+        { "word": "zeitlebens", "gloss": "all her life" },
+        { "word": "übertriebene", "gloss": "exaggerated" },
+        { "word": "Fernbedienung", "gloss": "remote control" },
+        { "word": "Ungetüm", "gloss": "monstrosity" },
+        { "word": "Henkeln", "gloss": "handles" },
+        { "word": "verabscheut", "gloss": "loathed" },
+        { "word": "Wutanfall", "gloss": "tantrum" },
+        { "word": "Sperrmüll", "gloss": "bulky waste" },
+        { "word": "entsorgen", "gloss": "dispose of" },
+        { "word": "ertappt", "gloss": "caught out" },
+        { "word": "verhandelt", "gloss": "negotiated" },
+        { "word": "geklebt", "gloss": "glued" }
+      ]
+    },
+    {
+      "id": "de-c2-09",
+      "title": "Wir sind eine Familie",
+      "subtitle": "We're a family",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Am ersten Tag in meiner neuen Firma, einem Start-up in Berlin-Kreuzberg, das irgendetwas mit künstlicher Intelligenz und Hundefutter macht, wurde mir mitgeteilt, dass wir hier keine Firma seien, sondern eine Familie. Das hat mich zunächst beunruhigt. Ich habe bereits eine Familie, und sie reicht mir vollauf. Außerdem bezahlt mich meine Familie nicht, was die Analogie von Anfang an in ein schiefes Licht rückt.",
+        "Die Familie, so stellte sich heraus, hat eigene Sitten. Man duzt sich, auch den Gründer, einen siebenundzwanzigjährigen Mann namens Jannik, der barfuß durchs Büro läuft und Sätze sagt wie „Lass uns das mal offline nehmen“, obwohl wir nebeneinander stehen. Es gibt keine Chefs, sondern „Leads“, keine Probleme, sondern „Challenges“, und niemand wird entlassen, sondern man „geht getrennte Wege“, meistens freitags, meistens nach einer Videokonferenz, deren Hintergrund eine Strandkulisse zeigt. Die Kaffeeküche heißt „Community Space“. Der Kaffee ist trotzdem schlecht.",
+        "Familiär ist auch das Verhältnis zur Arbeitszeit. Feierabend gilt als ein etwas spießiges Konzept, das in der Familie niemand so recht verwendet. Wer um achtzehn Uhr geht, wird nicht kritisiert, man wünscht ihm nur sehr herzlich „einen schönen Abend!“, mit einer Betonung, die in jeder echten Familie Anlass für ein klärendes Gespräch wäre. Dafür gibt es freitags kostenloses Bier und einmal im Quartal ein „Offsite“ in Brandenburg, bei dem man gemeinsam Flöße baut und anschließend über seine Gefühle spricht. Ich habe dabei mehr über meine Kollegen erfahren, als ich je wissen wollte, und sie über mich, fürchte ich, auch.",
+        "Ich will nicht undankbar erscheinen. Die Familie hat mir viel beigebracht, zum Beispiel, dass man das Wort „spannend“ für so ziemlich alles verwenden kann, von einer neuen Produktidee bis zu einer gescheiterten Finanzierungsrunde. Sie hat mich gelehrt, dass man ein Scheitern „Learning“ nennt und einen Erfolg „Proof of Concept“. Und sie hat mir gezeigt, dass Ironie in diesem Umfeld so wirkungslos ist wie ein Regenschirm unter Wasser: Sie wird nicht verstanden, sondern in einem Workshop aufgearbeitet.",
+        "Vor drei Wochen wurde in der großen Runde verkündet, die Familie müsse sich „neu aufstellen“. Ein Investor aus Kalifornien hatte Bedenken, und Jannik, diesmal mit Schuhen, sprach mit bewegter Stimme von harten, aber notwendigen Entscheidungen. Ein Drittel der Familie ging am Freitag darauf getrennte Wege. Ich bin noch da. Ich habe mich gefragt, ob ich mich freuen soll, und bin zu dem Schluss gekommen, dass Jannik in einem Punkt recht hatte. Es ist wirklich wie in einer Familie: Man kann sie sich nicht aussuchen, und am Ende geht es ums Erbe."
+      ],
+      "english": [
+        [
+          "On my first day at my new company, a start-up in Berlin-Kreuzberg that does something or other with artificial intelligence and dog food, I was informed that we were not a company here but a family.",
+          "At first this worried me.",
+          "I already have a family, and it is quite enough for me.",
+          "Besides, my family doesn't pay me, which puts the analogy in a dubious light from the start."
+        ],
+        [
+          "The family, it turned out, has its own customs.",
+          "Everyone is on first-name terms, even with the founder, a twenty-seven-year-old called Jannik who walks around the office barefoot and says things like \"Let's take this offline,\" although we're standing next to each other.",
+          "There are no bosses but \"leads\", no problems but \"challenges\", and nobody is fired; rather, people \"go separate ways\", usually on Fridays, usually after a video call with a beach scene as the background.",
+          "The coffee kitchen is called the \"community space\".",
+          "The coffee is still bad."
+        ],
+        [
+          "The attitude to working hours is also familial.",
+          "Knocking off for the day is regarded as a somewhat fuddy-duddy concept that nobody in the family really uses.",
+          "Anyone who leaves at six is not criticised; they are merely wished a very warm \"have a lovely evening!\", with an emphasis that in any real family would prompt a frank talk.",
+          "In return there is free beer on Fridays and once a quarter an \"offsite\" in Brandenburg, where you build rafts together and then talk about your feelings.",
+          "I learned more about my colleagues there than I ever wanted to know, and they about me too, I fear."
+        ],
+        [
+          "I don't want to seem ungrateful.",
+          "The family has taught me a lot, for example that you can use the word \"exciting\" for just about anything, from a new product idea to a failed funding round.",
+          "It has taught me that a failure is called a \"learning\" and a success a \"proof of concept\".",
+          "And it has shown me that irony in this environment is as useless as an umbrella under water: it is not understood but worked through in a workshop."
+        ],
+        [
+          "Three weeks ago it was announced at the all-hands meeting that the family had to \"restructure\".",
+          "An investor from California had concerns, and Jannik, wearing shoes this time, spoke in a voice full of emotion about hard but necessary decisions.",
+          "On the following Friday a third of the family went separate ways.",
+          "I am still here.",
+          "I wondered whether I should be glad, and came to the conclusion that Jannik was right about one thing.",
+          "It really is like a family: you can't choose it, and in the end it's all about the inheritance."
+        ]
+      ],
+      "vocab": [
+        { "word": "mitgeteilt", "gloss": "informed" },
+        { "word": "vollauf", "gloss": "quite, fully" },
+        { "word": "in ein schiefes Licht rückt", "gloss": "puts in a dubious light" },
+        { "word": "Sitten", "gloss": "customs" },
+        { "word": "duzt sich", "gloss": "is on first-name terms" },
+        { "word": "barfuß", "gloss": "barefoot" },
+        { "word": "Strandkulisse", "gloss": "beach backdrop" },
+        { "word": "spießiges", "gloss": "fuddy-duddy, petty bourgeois" },
+        { "word": "Betonung", "gloss": "emphasis" },
+        { "word": "Flöße", "gloss": "rafts" },
+        { "word": "gescheiterten", "gloss": "failed" },
+        { "word": "wirkungslos", "gloss": "ineffective, useless" },
+        { "word": "aufgearbeitet", "gloss": "worked through" },
+        { "word": "neu aufstellen", "gloss": "restructure" },
+        { "word": "Bedenken", "gloss": "concerns" }
+      ]
+    },
+    {
+      "id": "de-c2-10",
+      "title": "Bei Ebbe",
+      "subtitle": "At low tide",
+      "topic": "Nature",
+      "symbol": "water.waves",
+      "paragraphs": [
+        "Zweimal am Tag verschwindet bei Cuxhaven das Meer. Es zieht sich nicht zurück wie ein beleidigter Gast, sondern gemächlich, beinahe höflich, und hinterlässt eine Landschaft, für die unsere Sprache eigentlich zu arm ist: das Watt. Grau, braun und silbern liegt es da, von Prielen durchzogen, in denen das Wasser noch eine Weile zögert, bevor es dem Mond folgt. Wer hier zum ersten Mal steht, glaubt, auf eine Leere zu blicken. Das ist der erste Irrtum.",
+        "Ich bin im August mit einer Gruppe zur Insel Neuwerk gelaufen, zwölf Kilometer über den Meeresboden, barfuß, angeführt von einem Wattführer namens Okke, der aussah, als sei er aus demselben Material gemacht wie die Landschaft. Okke sprach wenig. Wenn er etwas sagte, dann meist über die Zeit. Die Flut, erklärte er gleich zu Beginn, komme schneller, als ein Mensch laufe, und sie frage nicht, ob man noch ein Foto machen wolle. Wer das Watt unterschätze, unterschätze es genau einmal.",
+        "Dann bückte er sich und zeigte uns, dass die Leere voller Leben ist. Unter jedem Quadratmeter Schlick, sagte er, lebten Zehntausende Würmer, Schnecken und Muscheln, und die kleinen Spiralen aus Sand, die wie achtlos hingeworfene Nudeln aussahen, seien die Hinterlassenschaften des Wattwurms, der den Boden unablässig fresse und wieder ausscheide. Er grub mit der Hand und hielt uns eine Herzmuschel hin, und plötzlich hörten wir es überall: ein leises Knistern und Schmatzen, als atme der Boden. Wenn man genau hinhört, ist das Watt laut.",
+        "Seit einigen Jahren ist das Wattenmeer Weltnaturerbe, und man liest gern, es sei eine der letzten großen Wildnisse Europas. Das ist schön gesagt und stimmt doch nur halb. Am Horizont zogen Containerschiffe auf dem Weg nach Hamburg vorbei, über uns blinkten Windräder, und Okke erzählte nebenbei, dass der steigende Meeresspiegel das Watt langfristig ertränken könnte, weil es nicht schnell genug mitwächst. Die Wildnis, auf der wir gingen, ist eine Wildnis auf Abruf.",
+        "Nach drei Stunden erreichten wir Neuwerk, schlammig bis zu den Knien und seltsam still. Auf der Terrasse eines Gasthofs tranken wir Tee mit Kandis und sahen zu, wie die Flut zurückkehrte, erst in den Prielen, dann überall, bis dort, wo wir eben noch gegangen waren, wieder Meer war, als hätte es nie einen Weg gegeben. Ich fragte Okke, ob ihn das nach dreißig Jahren noch beeindrucke. Er dachte lange nach. Dann sagte er, das Watt lehre einen das Einzige, was man über die Welt wissen müsse: dass man nur zu Gast sei, und dass die Gastgeberin pünktlich zurückkomme."
+      ],
+      "english": [
+        [
+          "Twice a day, near Cuxhaven, the sea disappears.",
+          "It does not withdraw like an offended guest but leisurely, almost politely, and leaves behind a landscape for which our language is really too poor: the mudflats.",
+          "Grey, brown and silver it lies there, crossed by tidal channels in which the water lingers a while before following the moon.",
+          "Whoever stands here for the first time thinks they are looking at emptiness.",
+          "That is the first mistake."
+        ],
+        [
+          "In August I walked with a group to the island of Neuwerk, twelve kilometres across the seabed, barefoot, led by a mudflat guide called Okke, who looked as if he were made of the same material as the landscape.",
+          "Okke said little.",
+          "When he did speak, it was mostly about time.",
+          "The tide, he explained right at the start, comes in faster than a person can walk, and it doesn't ask whether you want to take one more photo.",
+          "Whoever underestimates the mudflats underestimates them exactly once."
+        ],
+        [
+          "Then he bent down and showed us that the emptiness is full of life.",
+          "Under every square metre of mud, he said, lived tens of thousands of worms, snails and shellfish, and the little sand spirals that looked like carelessly discarded noodles were the leavings of the lugworm, which endlessly eats the ground and excretes it again.",
+          "He dug with his hand and held out a cockle to us, and suddenly we heard it everywhere: a faint crackling and smacking, as if the ground were breathing.",
+          "If you listen closely, the mudflats are loud."
+        ],
+        [
+          "For some years the Wadden Sea has been a World Heritage Site, and one often reads that it is one of the last great wildernesses of Europe.",
+          "That is nicely put and yet only half true.",
+          "On the horizon container ships passed on their way to Hamburg, wind turbines blinked above us, and Okke mentioned in passing that rising sea levels could drown the mudflats in the long run, because they don't grow fast enough to keep up.",
+          "The wilderness we were walking on is a wilderness on borrowed time."
+        ],
+        [
+          "After three hours we reached Neuwerk, muddy up to the knees and strangely quiet.",
+          "On the terrace of an inn we drank tea with rock sugar and watched the tide return, first in the channels, then everywhere, until where we had just been walking was sea again, as if there had never been a path.",
+          "I asked Okke whether it still impressed him after thirty years.",
+          "He thought for a long time.",
+          "Then he said the mudflats teach you the only thing you need to know about the world: that you are only a guest, and that the hostess comes back on time."
+        ]
+      ],
+      "vocab": [
+        { "word": "gemächlich", "gloss": "leisurely" },
+        { "word": "Prielen", "gloss": "tidal channels" },
+        { "word": "Irrtum", "gloss": "mistake, error" },
+        { "word": "Wattführer", "gloss": "mudflat guide" },
+        { "word": "unterschätze", "gloss": "underestimates" },
+        { "word": "bückte", "gloss": "bent down" },
+        { "word": "Schlick", "gloss": "mud, silt" },
+        { "word": "achtlos", "gloss": "carelessly" },
+        { "word": "Hinterlassenschaften", "gloss": "leavings, remains" },
+        { "word": "unablässig", "gloss": "ceaselessly" },
+        { "word": "ausscheide", "gloss": "excretes" },
+        { "word": "Schmatzen", "gloss": "smacking (sound)" },
+        { "word": "Meeresspiegel", "gloss": "sea level" },
+        { "word": "auf Abruf", "gloss": "on borrowed time, on call" },
+        { "word": "Kandis", "gloss": "rock sugar" }
+      ]
+    },
+    {
+      "id": "de-c2-11",
+      "title": "Eigentlich",
+      "subtitle": "Actually",
+      "topic": "Language",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Wenn ich gezwungen würde, die deutsche Sprache auf ein einziges Wort zu reduzieren, würde ich nach kurzem Zögern „eigentlich“ wählen. Kein Wort verrät so viel über uns und hilft uns zugleich so gut, nichts zu verraten. Es ist ein unscheinbares Adverb, das in Wörterbüchern mit „actually“ oder „really“ übersetzt wird, was ungefähr so treffend ist, wie wenn man den Kölner Dom als Gebäude bezeichnet.",
+        "Man betrachte nur die Vielfalt seiner Verwendung. „Eigentlich habe ich keine Zeit“ bedeutet: Ich habe Zeit, aber ich möchte, dass du weißt, welches Opfer ich bringe. „Eigentlich mag ich ihn“ bedeutet: Gleich folgt ein Aber, und es wird vernichtend. „Was willst du eigentlich?“ ist keine Frage, sondern eine Kriegserklärung. Und „Eigentlich wollte ich Ärztin werden“, gesagt von einer Frau um die sechzig an einem Küchentisch, ist ein ganzer Roman, dessen restliche Kapitel man besser nicht aufschlägt.",
+        "Das Wort lebt von einer Unterscheidung, die tief in unserem Denken verwurzelt ist: der zwischen dem, was ist, und dem, was eigentlich sein sollte. Zwischen dem Leben, das wir führen, und dem Leben, das irgendwo hinter ihm liegt, wie ein Zimmer, das man nie betritt. Die Philosophie hat daraus ganze Gebäude errichtet, und man hat ihr, nicht ganz zu Unrecht, vorgeworfen, sie raune dabei mehr, als sie erkläre. Im Alltag dagegen dient das Wort meist einem bescheideneren Zweck. Es ist eine Art Polster, das man zwischen sich und die Wirklichkeit schiebt, damit der Aufprall nicht so wehtut.",
+        "Ausländer, die Deutsch lernen, verzweifeln regelmäßig daran. Eine amerikanische Freundin, die seit zehn Jahren in Leipzig lebt, erzählte mir, sie habe lange geglaubt, die Deutschen seien ein Volk von Zweiflern, weil sie jeden zweiten Satz mit diesem Wort relativierten. Inzwischen verwende sie es selbst, ständig, und habe festgestellt, dass es ihr Leben erleichtere. Man könne mit „eigentlich“ zusagen und absagen zugleich, man könne sich festlegen, ohne sich festzulegen, man könne jemandem widersprechen und dabei so tun, als stimme man ihm zu. Sie nannte es das diplomatischste Wort der Welt.",
+        "Vielleicht liegt darin seine Schönheit, und vielleicht seine Gefahr. Wer zu oft „eigentlich“ sagt, richtet sich in der Lücke zwischen Wunsch und Wirklichkeit ein und vergisst irgendwann, dass man sie auch überspringen könnte. Ich habe mir deshalb vorgenommen, das Wort einen Monat lang nicht zu benutzen. Es war schwieriger, als ich dachte, und mein Umfeld empfand mich als auffallend unhöflich. Aber ich habe in diesem Monat zwei Dinge getan, die ich seit Jahren eigentlich tun wollte. Sie sehen: Ganz ohne geht es nicht."
+      ],
+      "english": [
+        [
+          "If I were forced to reduce the German language to a single word, after a brief hesitation I would choose \"eigentlich\".",
+          "No word gives away so much about us while helping us so well to give nothing away.",
+          "It is an inconspicuous adverb that dictionaries translate as \"actually\" or \"really\", which is about as apt as calling Cologne Cathedral a building."
+        ],
+        [
+          "Just consider the variety of its uses.",
+          "\"Eigentlich I don't have time\" means: I have time, but I want you to know what a sacrifice I'm making.",
+          "\"Eigentlich I like him\" means: a \"but\" is coming, and it will be devastating.",
+          "\"What do you eigentlich want?\" is not a question but a declaration of war.",
+          "And \"Eigentlich I wanted to be a doctor\", said by a woman of about sixty at a kitchen table, is an entire novel whose remaining chapters are better left unopened."
+        ],
+        [
+          "The word thrives on a distinction deeply rooted in our thinking: that between what is and what eigentlich ought to be.",
+          "Between the life we lead and the life that lies somewhere behind it, like a room one never enters.",
+          "Philosophy has built entire edifices out of this, and it has been accused, not entirely unfairly, of murmuring darkly more than it explains.",
+          "In everyday life, on the other hand, the word mostly serves a humbler purpose.",
+          "It is a kind of cushion that one slips between oneself and reality so that the impact doesn't hurt so much."
+        ],
+        [
+          "Foreigners learning German regularly despair of it.",
+          "An American friend who has lived in Leipzig for ten years told me she long believed the Germans were a nation of doubters, because they qualified every other sentence with this word.",
+          "Now she uses it herself, constantly, and has found that it makes her life easier.",
+          "With \"eigentlich\" you can accept and decline at the same time, commit yourself without committing yourself, contradict someone while pretending to agree with them.",
+          "She called it the most diplomatic word in the world."
+        ],
+        [
+          "Perhaps therein lies its beauty, and perhaps its danger.",
+          "Whoever says \"eigentlich\" too often settles into the gap between wish and reality and at some point forgets that one could also leap across it.",
+          "So I resolved not to use the word for a month.",
+          "It was harder than I thought, and the people around me found me strikingly rude.",
+          "But in that month I did two things that I had eigentlich been meaning to do for years.",
+          "You see: you can't do entirely without it."
+        ]
+      ],
+      "vocab": [
+        { "word": "unscheinbares", "gloss": "inconspicuous" },
+        { "word": "verrät", "gloss": "gives away" },
+        { "word": "treffend", "gloss": "apt" },
+        { "word": "Vielfalt", "gloss": "variety" },
+        { "word": "Opfer", "gloss": "sacrifice" },
+        { "word": "vernichtend", "gloss": "devastating" },
+        { "word": "Kriegserklärung", "gloss": "declaration of war" },
+        { "word": "verwurzelt", "gloss": "rooted" },
+        { "word": "zu Unrecht", "gloss": "unfairly" },
+        { "word": "Polster", "gloss": "cushion" },
+        { "word": "Aufprall", "gloss": "impact" },
+        { "word": "verzweifeln", "gloss": "despair" },
+        { "word": "relativierten", "gloss": "qualified, toned down" },
+        { "word": "festlegen", "gloss": "commit oneself" },
+        { "word": "auffallend", "gloss": "strikingly" }
+      ]
+    },
+    {
+      "id": "de-c2-12",
+      "title": "Vorsätze",
+      "subtitle": "Resolutions",
+      "topic": "Plans",
+      "symbol": "calendar",
+      "paragraphs": [
+        "Am Silvesterabend neunzehnhundertsechsundachtzig, kurz vor Mitternacht, schrieb Klaus Wendler, einundzwanzig, Student der Betriebswirtschaft in Bielefeld, drei Sätze in ein liniertes Schulheft. Erstens: zehn Kilo abnehmen. Zweitens: Italienisch lernen. Drittens: öfter den Vater anrufen. Dann ging er auf eine Party, auf der er eine Frau namens Gisela kennenlernte, und vergaß das Heft für ein Jahr.",
+        "Er hat es jedes Jahr wieder hervorgeholt. Das Heft, inzwischen mit Klebeband zusammengehalten, liegt vor mir, und es ist auf seine Art die genaueste Biografie, die man über einen Menschen schreiben kann: nicht was er tat, sondern was er sich vornahm. Die drei Vorsätze kehren mit einer Hartnäckigkeit wieder, die beinahe rührend ist. Zehn Kilo werden zu zwölf, dann zu fünfzehn, dann, irgendwann in den Nullerjahren, still zu „gesünder leben“. Das Italienische wird jährlich erneuert, einmal mit dem Zusatz „diesmal wirklich“, zweimal unterstrichen.",
+        "Dazwischen schieben sich neue Pläne, kühner und vergänglicher. Neunzehnhundertneunzig: „Gisela fragen.“ Ein Jahr später, in anderer Tinte: „Wohnung mit Garten.“ Neunzehnhundertvierundneunzig: „Ein guter Vater sein“, und daneben, klein, ein gezeichnetes Herz. Dann kommen die Jahre der Karriere, in denen die Vorsätze kürzer werden und sachlicher, „Abteilungsleiter“, „Golf“, „weniger Überstunden“, und in denen der Satz über den Vater fehlt. Er fehlt sieben Jahre lang. Im achten steht er wieder da, in zitternder Schrift, mit dem Zusatz: „Zu spät.“",
+        "Man könnte dieses Heft als Dokument des Scheiterns lesen. Klaus Wendler hat nie zehn Kilo abgenommen, er hat nie Italienisch gelernt, und er hat seinen Vater, wie er selbst festhielt, zu selten angerufen. Aber das wäre eine sehr deutsche Lektüre, die nur zählt, was erledigt wurde. Liest man genauer, sieht man etwas anderes: einen Mann, der fünfunddreißig Jahre lang an jedem Silvesterabend daran geglaubt hat, dass er noch ein anderer werden könnte. Diese Zuversicht ist das Einzige, was er in keinem Jahr aufgegeben hat.",
+        "Die letzte Eintragung stammt vom Silvesterabend vor drei Jahren, wenige Wochen vor seinem Tod. Sie lautet nur: „Mit Lena nach Rom.“ Lena bin ich. Wir sind nicht gefahren, weil er zu krank war. Ich habe das Heft in seinem Nachttisch gefunden und es, wie ich gestehen muss, erst nach Monaten zu öffnen gewagt. Im Frühjahr bin ich allein nach Rom gefahren und habe in einem Café an der Piazza Navona mit stockenden Worten einen Cappuccino bestellt. Ich lerne jetzt Italienisch, zweimal in der Woche, an der Volkshochschule. Diesmal wirklich. Ich habe es in sein Heft geschrieben, unter seine Zeilen, und es zweimal unterstrichen."
+      ],
+      "english": [
+        [
+          "On New Year's Eve 1986, shortly before midnight, Klaus Wendler, twenty-one, a business student in Bielefeld, wrote three sentences in a lined exercise book.",
+          "First: lose ten kilos.",
+          "Second: learn Italian.",
+          "Third: call Father more often.",
+          "Then he went to a party where he met a woman called Gisela, and forgot the exercise book for a year."
+        ],
+        [
+          "He took it out again every year.",
+          "The exercise book, now held together with sticky tape, lies in front of me, and in its way it is the most accurate biography one could write of a person: not what he did, but what he resolved to do.",
+          "The three resolutions recur with a persistence that is almost touching.",
+          "Ten kilos become twelve, then fifteen, then, at some point in the noughties, quietly turn into \"live more healthily\".",
+          "The Italian is renewed every year, once with the addition \"this time for real\", underlined twice."
+        ],
+        [
+          "In between, new plans push their way in, bolder and more fleeting.",
+          "1990: \"Ask Gisela.\"",
+          "A year later, in different ink: \"Flat with a garden.\"",
+          "1994: \"Be a good father\", and next to it, small, a drawn heart.",
+          "Then come the career years, in which the resolutions get shorter and more matter-of-fact, \"head of department\", \"golf\", \"less overtime\", and in which the sentence about his father is missing.",
+          "It is missing for seven years.",
+          "In the eighth it is back, in shaky handwriting, with the addition: \"Too late.\""
+        ],
+        [
+          "One could read this exercise book as a document of failure.",
+          "Klaus Wendler never lost ten kilos, he never learned Italian, and, as he himself recorded, he called his father too rarely.",
+          "But that would be a very German reading, one that only counts what got done.",
+          "Read more closely, and you see something else: a man who for thirty-five years, every New Year's Eve, believed that he could still become someone else.",
+          "That confidence is the only thing he never gave up, in any year."
+        ],
+        [
+          "The last entry dates from New Year's Eve three years ago, a few weeks before his death.",
+          "It reads simply: \"Rome with Lena.\"",
+          "I am Lena.",
+          "We didn't go, because he was too ill.",
+          "I found the exercise book in his bedside table and, I must confess, only dared to open it after months.",
+          "In spring I went to Rome alone and, in a café on the Piazza Navona, ordered a cappuccino in halting words.",
+          "I am learning Italian now, twice a week, at the adult education centre.",
+          "This time for real.",
+          "I wrote it in his exercise book, beneath his lines, and underlined it twice."
+        ]
+      ],
+      "vocab": [
+        { "word": "liniertes", "gloss": "lined" },
+        { "word": "abnehmen", "gloss": "lose weight" },
+        { "word": "hervorgeholt", "gloss": "taken out" },
+        { "word": "Klebeband", "gloss": "sticky tape" },
+        { "word": "Hartnäckigkeit", "gloss": "persistence" },
+        { "word": "rührend", "gloss": "touching" },
+        { "word": "Zusatz", "gloss": "addition" },
+        { "word": "kühner", "gloss": "bolder" },
+        { "word": "vergänglicher", "gloss": "more fleeting" },
+        { "word": "sachlicher", "gloss": "more matter-of-fact" },
+        { "word": "Scheiterns", "gloss": "failure" },
+        { "word": "festhielt", "gloss": "recorded" },
+        { "word": "Lektüre", "gloss": "reading" },
+        { "word": "Zuversicht", "gloss": "confidence, hope" },
+        { "word": "gewagt", "gloss": "dared" }
+      ]
+    },
+    {
+      "id": "de-c2-13",
+      "title": "Der vierte Stuhl",
+      "subtitle": "The fourth chair",
+      "topic": "Friends",
+      "symbol": "suit.club.fill",
+      "paragraphs": [
+        "Seit einundvierzig Jahren spielen sie donnerstags Skat, in der Eckkneipe „Zum Förderturm“ in Gelsenkirchen-Buer, am runden Tisch unter dem Wimpel eines Vereins, den man hier nicht nennen muss. Früher waren sie zu viert: Heinz, Bodo, Achim und Willi, drei ehemalige Bergleute und ein Postbeamter, den man aus Mitleid aufgenommen hatte. Beim Skat spielen immer nur drei, der vierte gibt die Karten und sitzt die Runde aus, und diese Rolle, die des Zuschauers mit Kommentarrecht, war die eigentliche Seele des Abends.",
+        "Willi, der Postbeamte, war der beste Aussetzer, den man sich denken konnte. Er sah jedem in die Karten, verzog keine Miene und sagte nach dem Spiel mit trockener Gründlichkeit, was man alles falsch gemacht hatte. Er wusste, wer den Kreuzbuben gehalten hatte, bevor der ihn ausspielte, und er wusste, dass Bodo bei einem Grand immer zu früh die Trümpfe zog. Man hasste ihn dafür ein wenig und hätte doch keinen Donnerstag ohne ihn verbringen wollen.",
+        "Im Frühjahr starb Willi an einem Herzinfarkt, beim Rasenmähen, mitten in einem Satz, wie seine Frau Margret erzählte. Am Donnerstag nach der Beerdigung saßen die drei anderen am runden Tisch und wussten nicht, was sie tun sollten. Spielen konnte man zu dritt, regeltechnisch war das kein Problem. Aber als Achim die Karten mischte, merkten sie, dass niemand mehr da war, der zusah. Jeder Fehler blieb unbemerkt, jede gute Entscheidung ungewürdigt. Sie spielten zwei Runden, schlecht und schweigsam, und gingen früh nach Hause.",
+        "So ging es mehrere Wochen. Der Wirt stellte den vierten Stuhl nicht weg, und keiner von ihnen bat ihn darum. An einem Donnerstag im Juni ging die Tür auf, und Margret kam herein, in Strickjacke, mit einer Handtasche, die sie demonstrativ auf den freien Stuhl stellte. Sie setzte sich, bestellte ein Pils und sagte, sie habe genug davon, donnerstags allein zu Hause zu sitzen. Die drei Männer sahen sich an. Heinz räusperte sich und erklärte vorsichtig, beim Skat müsse man schon ein bisschen was verstehen.",
+        "Margret lächelte nachsichtig. Dann erzählte sie, dass sie es gewesen sei, die Willi vor fünfzig Jahren Skat beigebracht habe, an ihrem Küchentisch, weil er sich in der Kneipe nicht blamieren wollte. Seine Kommentare, all die klugen Analysen, über die sie sich jahrzehntelang geärgert hatten, habe er donnerstagnachts bei ihr gelernt, bei der Nachbesprechung, Spiel für Spiel. Sie nahm die Karten, mischte mit einer Geschwindigkeit, die Achim später als beängstigend beschrieb, und teilte aus. „Bodo“, sagte sie, ohne aufzusehen, „du ziehst deine Trümpfe zu früh. Hat er dir das nie gesagt?“ Seitdem sind sie wieder zu viert. Gewonnen hat seither keiner der drei Männer."
+      ],
+      "english": [
+        [
+          "For forty-one years they have played skat on Thursdays, in the corner pub \"The Pithead\" in Gelsenkirchen-Buer, at the round table under the pennant of a club that needs no naming here.",
+          "There used to be four of them: Heinz, Bodo, Achim and Willi, three former miners and a post office clerk they had taken in out of pity.",
+          "In skat only three ever play; the fourth deals and sits out the round, and this role, that of spectator with the right to comment, was the real soul of the evening."
+        ],
+        [
+          "Willi, the post office clerk, was the best sitter-out imaginable.",
+          "He looked at everyone's cards, kept a straight face and after the game said, with dry thoroughness, everything you had done wrong.",
+          "He knew who had held the jack of clubs before they played it, and he knew that Bodo always drew his trumps too early in a grand.",
+          "They hated him a little for it, and yet wouldn't have wanted to spend a single Thursday without him."
+        ],
+        [
+          "In the spring Willi died of a heart attack, while mowing the lawn, in the middle of a sentence, as his wife Margret told them.",
+          "On the Thursday after the funeral the other three sat at the round table and didn't know what to do.",
+          "You could play with three; as far as the rules went, that was no problem.",
+          "But when Achim shuffled the cards, they realised there was no one left to watch.",
+          "Every mistake went unnoticed, every good decision unappreciated.",
+          "They played two rounds, badly and silently, and went home early."
+        ],
+        [
+          "It went on like that for several weeks.",
+          "The landlord didn't take the fourth chair away, and none of them asked him to.",
+          "One Thursday in June the door opened and Margret came in, in a cardigan, with a handbag that she pointedly placed on the empty chair.",
+          "She sat down, ordered a pilsner and said she was fed up with sitting at home alone on Thursdays.",
+          "The three men looked at one another.",
+          "Heinz cleared his throat and explained carefully that in skat you did need to know a thing or two."
+        ],
+        [
+          "Margret smiled indulgently.",
+          "Then she told them that it was she who had taught Willi skat fifty years ago, at her kitchen table, because he didn't want to embarrass himself in the pub.",
+          "His comments, all the clever analyses that had annoyed them for decades, he had learned from her on Thursday nights, going over the games, one by one.",
+          "She took the cards, shuffled with a speed that Achim later described as frightening, and dealt.",
+          "\"Bodo,\" she said without looking up, \"you draw your trumps too early. Did he never tell you?\"",
+          "Since then there have been four of them again.",
+          "None of the three men has won since."
+        ]
+      ],
+      "vocab": [
+        { "word": "Eckkneipe", "gloss": "corner pub" },
+        { "word": "Förderturm", "gloss": "pithead tower" },
+        { "word": "Wimpel", "gloss": "pennant" },
+        { "word": "Mitleid", "gloss": "pity" },
+        { "word": "sitzt die Runde aus", "gloss": "sits out the round" },
+        { "word": "Aussetzer", "gloss": "player sitting out" },
+        { "word": "verzog keine Miene", "gloss": "kept a straight face" },
+        { "word": "Trümpfe", "gloss": "trumps" },
+        { "word": "Beerdigung", "gloss": "funeral" },
+        { "word": "ungewürdigt", "gloss": "unappreciated" },
+        { "word": "demonstrativ", "gloss": "pointedly" },
+        { "word": "nachsichtig", "gloss": "indulgently" },
+        { "word": "blamieren", "gloss": "embarrass oneself" },
+        { "word": "Nachbesprechung", "gloss": "debriefing, going over" },
+        { "word": "beängstigend", "gloss": "frightening" }
+      ]
+    },
+    {
+      "id": "de-c2-14",
+      "title": "Hundertzwanzig Meter",
+      "subtitle": "A hundred and twenty metres",
+      "topic": "Outdoors",
+      "symbol": "figure.hiking",
+      "paragraphs": [
+        "Hundertzwanzig Meter unter dem Gipfel des Weißhorns blieb Clara stehen. Es war sieben Uhr morgens, der Himmel über dem Wallis war wolkenlos, und der Grat vor ihr zog sich in einem eleganten, beinahe frechen Bogen bis zu jenem Punkt, auf den sie seit elf Jahren zulebte. Sie war seit Mitternacht unterwegs. Ihre Beine waren gut, ihr Kopf war klar. Und doch wusste sie in diesem Moment mit einer Sicherheit, die sie selbst erschreckte, dass sie umkehren würde.",
+        "Es gab keinen guten Grund, jedenfalls keinen, den man später in einer Hütte hätte erzählen können. Kein Wettersturz, keine Verletzung, kein Steinschlag. Nur ein feiner Riss im Schnee, eine Linie, kaum länger als ein Arm, quer über die Wechte zu ihrer Linken. Vielleicht war er harmlos. Vielleicht trug der Schnee noch Stunden, noch Tage, noch bis zum nächsten Winter. Ihr Seilpartner, ein junger Bergführer aus Zermatt, wartete höflich, ohne zu drängen, aber sie sah in seinen Augen, dass er weitergehen würde, wenn sie es wollte.",
+        "Man spricht in den Bergen gern vom Gipfelsieg, als ginge es um einen Krieg, den man gegen den Berg führt. Die Literatur des Alpinismus ist voll von Männern, die etwas bezwungen haben, und voll von Grabsteinen. Clara hatte diese Bücher alle gelesen, als Jugendliche in einer Reihenhaussiedlung in Winterthur, und sie hatte die Helden darin geliebt. Erst später war ihr aufgefallen, dass die Bücher meist von denen geschrieben wurden, die zurückgekommen waren, und dass das Umkehren in ihnen selten vorkam. Es eignet sich schlecht für Geschichten. Es hat keine Pointe.",
+        "Der Abstieg dauerte sechs Stunden. Sie sprachen kaum. Unterhalb der Hütte, auf einer Wiese voller Enziane, setzte sie sich ins Gras und weinte, zum ersten Mal seit Jahren, ohne genau zu wissen, worüber: über den verlorenen Gipfel, über die elf Jahre, über die Erleichterung, die so viel stärker war, als sie es sich eingestehen wollte. Der Bergführer setzte sich neben sie und schwieg. Nach einer Weile sagte er, sein Vater habe ihm beigebracht, dass der Berg nicht weglaufe. Nur man selbst laufe manchmal davon, und das sei die eigentliche Gefahr.",
+        "Zwei Tage später brach am Weißhorn, an genau jener Stelle, eine Wechte ab und riss eine Seilschaft mit sich, und beide Bergsteiger überlebten nur knapp. Clara las es in der Zeitung, in einem Café in Visp, und legte die Zeitung sehr langsam wieder hin. Sie hat seither keinen Versuch mehr unternommen. Wenn Freunde sie fragen, ob sie das Weißhorn nicht doch noch machen wolle, sagt sie manchmal, sie habe es gemacht, bis auf hundertzwanzig Meter, und das seien die schönsten hundertzwanzig Meter gewesen, die sie nie gegangen sei. Die meisten verstehen das nicht. Sie erwartet es auch nicht."
+      ],
+      "english": [
+        [
+          "A hundred and twenty metres below the summit of the Weisshorn, Clara stopped.",
+          "It was seven in the morning, the sky over the Valais was cloudless, and the ridge ahead of her ran in an elegant, almost cheeky curve up to the point she had been living towards for eleven years.",
+          "She had been on the move since midnight.",
+          "Her legs were good, her head was clear.",
+          "And yet at that moment she knew, with a certainty that frightened even her, that she would turn back."
+        ],
+        [
+          "There was no good reason, at least none that one could have told later in a hut.",
+          "No sudden change in the weather, no injury, no rockfall.",
+          "Only a fine crack in the snow, a line barely longer than an arm, running across the cornice to her left.",
+          "Perhaps it was harmless.",
+          "Perhaps the snow would hold for hours yet, for days, until next winter.",
+          "Her rope partner, a young mountain guide from Zermatt, waited politely without pushing, but she could see in his eyes that he would go on if she wanted to."
+        ],
+        [
+          "In the mountains people like to speak of conquering the summit, as if it were a war waged against the mountain.",
+          "The literature of mountaineering is full of men who conquered something, and full of gravestones.",
+          "Clara had read all those books as a teenager on a terraced-house estate in Winterthur, and she had loved their heroes.",
+          "Only later had it struck her that the books were mostly written by those who had come back, and that turning back rarely featured in them.",
+          "It doesn't lend itself to stories.",
+          "It has no punchline."
+        ],
+        [
+          "The descent took six hours.",
+          "They hardly spoke.",
+          "Below the hut, in a meadow full of gentians, she sat down in the grass and cried, for the first time in years, without knowing exactly what about: the lost summit, the eleven years, the relief that was so much stronger than she wanted to admit to herself.",
+          "The guide sat down beside her and said nothing.",
+          "After a while he said his father had taught him that the mountain doesn't run away.",
+          "Only you yourself sometimes run off, and that is the real danger."
+        ],
+        [
+          "Two days later, on the Weisshorn, at exactly that spot, a cornice broke off and swept a roped party away with it, and both climbers barely survived.",
+          "Clara read about it in the newspaper, in a café in Visp, and put the paper down again very slowly.",
+          "She has not made another attempt since.",
+          "When friends ask whether she doesn't want to do the Weisshorn after all, she sometimes says she has done it, all but a hundred and twenty metres, and those were the most beautiful hundred and twenty metres she never walked.",
+          "Most people don't understand that.",
+          "She doesn't expect them to."
+        ]
+      ],
+      "vocab": [
+        { "word": "Grat", "gloss": "ridge" },
+        { "word": "frechen", "gloss": "cheeky" },
+        { "word": "zulebte", "gloss": "was living towards" },
+        { "word": "umkehren", "gloss": "turn back" },
+        { "word": "Wettersturz", "gloss": "sudden change in the weather" },
+        { "word": "Steinschlag", "gloss": "rockfall" },
+        { "word": "Riss", "gloss": "crack" },
+        { "word": "Wechte", "gloss": "cornice (of snow)" },
+        { "word": "bezwungen", "gloss": "conquered" },
+        { "word": "Grabsteinen", "gloss": "gravestones" },
+        { "word": "eignet sich", "gloss": "lends itself" },
+        { "word": "Enziane", "gloss": "gentians" },
+        { "word": "eingestehen", "gloss": "admit (to oneself)" },
+        { "word": "Seilschaft", "gloss": "roped party" },
+        { "word": "unternommen", "gloss": "undertaken, made" }
+      ]
+    },
+    {
+      "id": "de-c2-15",
+      "title": "Weihnachtsmarkt: eine Gebrauchsanweisung",
+      "subtitle": "The Christmas market: a user's guide",
+      "topic": "Celebrations",
+      "symbol": "star.fill",
+      "paragraphs": [
+        "Der deutsche Weihnachtsmarkt ist eine Einrichtung, die sich dem Ausländer zunächst als Idylle präsentiert und dem Einheimischen als Pflicht. Er öffnet traditionell Ende November, also lange bevor irgendjemand in Weihnachtsstimmung ist, und hat die Aufgabe, diese Stimmung industriell herzustellen, unter Zuhilfenahme von Glühwein, Lichterketten und einem Lautsprecher, aus dem in Endlosschleife ein Lied über ein Rentier mit roter Nase dröhnt. Für Neulinge seien hier einige Hinweise zusammengestellt.",
+        "Erstens: Kommen Sie nicht, um etwas zu kaufen. Die Holzbuden bieten zwar eine reiche Auswahl an Gegenständen, die niemand braucht, von handgeschnitzten Räuchermännchen bis zu Socken mit Elchmotiv, aber der Kauf ist nicht der Zweck. Der Zweck ist das Stehen. Man steht dicht gedrängt an Stehtischen, die zu klein sind, in einer Kälte, die man zu Hause nie freiwillig ertragen würde, und hält einen Becher in beiden Händen, als wäre er die letzte Wärmequelle der Zivilisation.",
+        "Zweitens: der Glühwein. Er wird in Tassen ausgeschenkt, für die man ein Pfand bezahlt, das höher ist als der Wert des Inhalts. Jede Stadt hat eigene Tassen, mit Jahreszahl, und es gibt Menschen, die sie sammeln, mit der Ernsthaftigkeit von Briefmarkensammlern. Der Glühwein selbst ist ein Getränk von bemerkenswerter Süße, dessen Alkoholgehalt man unterschätzt, bis man auf dem Heimweg feststellt, dass man einem Unbekannten die Familiengeschichte erzählt und Telefonnummern ausgetauscht hat. Wer mehr Würde bewahren will, bestellt Kinderpunsch. Niemand bestellt Kinderpunsch.",
+        "Drittens: die Gesellschaft. Auf dem Weihnachtsmarkt treffen Sie alle, denen Sie das Jahr über erfolgreich ausgewichen sind: den ehemaligen Kollegen, die Schwiegereltern Ihres Bruders, die Exfreundin aus der Oberstufe, die inzwischen glücklich verheiratet ist, was sie Ihnen ungefragt mitteilt. Die Enge macht Flucht unmöglich. Sie werden lächeln, Sie werden sagen, man müsse sich unbedingt mal wieder treffen, und beide Seiten werden wissen, dass dies eine Formel ist, deren einzige Funktion darin besteht, genau das zu verhindern.",
+        "Viertens, und das ist das Wichtigste: Sie werden es lieben. Nicht sofort, nicht beim ersten Mal und nicht, während Ihnen jemand Senf auf den Mantel tropft. Aber irgendwann, an einem Abend im Dezember, wenn es leicht zu schneien beginnt und ein Posaunenchor vor der Kirche ein Lied spielt, das schon Ihre Großeltern kannten, werden Sie merken, dass Sie gerührt sind, und sich darüber ärgern, und gerade deshalb wiederkommen. Das ist das Geheimnis des Weihnachtsmarkts: Er verlangt nicht, dass man an ihn glaubt. Er wartet einfach, mit der Geduld eines Verkäufers gebrannter Mandeln, bis man es trotzdem tut."
+      ],
+      "english": [
+        [
+          "The German Christmas market is an institution that presents itself to the foreigner at first as an idyll, and to the local as a duty.",
+          "It traditionally opens at the end of November, that is, long before anyone is in the Christmas spirit, and its task is to manufacture that spirit industrially, with the aid of mulled wine, fairy lights and a loudspeaker blaring a song about a reindeer with a red nose on an endless loop.",
+          "For newcomers, here are a few tips."
+        ],
+        [
+          "First: don't come to buy anything.",
+          "The wooden stalls do offer a rich selection of objects that nobody needs, from hand-carved incense smokers to socks with a moose motif, but buying is not the point.",
+          "The point is standing.",
+          "You stand crammed together at standing tables that are too small, in a cold you would never voluntarily endure at home, holding a mug in both hands as if it were the last source of heat in civilisation."
+        ],
+        [
+          "Second: the mulled wine.",
+          "It is served in mugs for which you pay a deposit higher than the value of the contents.",
+          "Every town has its own mugs, with the year on them, and there are people who collect them with the seriousness of stamp collectors.",
+          "The mulled wine itself is a drink of remarkable sweetness whose alcohol content one underestimates, until on the way home one realises one has told a stranger one's family history and exchanged phone numbers.",
+          "Anyone wishing to keep more dignity orders children's punch.",
+          "Nobody orders children's punch."
+        ],
+        [
+          "Third: the company.",
+          "At the Christmas market you will meet everyone you have successfully avoided all year: the former colleague, your brother's in-laws, the ex-girlfriend from sixth form who is now happily married, as she informs you unasked.",
+          "The crush makes escape impossible.",
+          "You will smile, you will say you really must meet up again some time, and both sides will know that this is a formula whose sole function is to prevent exactly that."
+        ],
+        [
+          "Fourth, and this is the most important: you will love it.",
+          "Not immediately, not the first time, and not while someone is dripping mustard on your coat.",
+          "But at some point, one evening in December, when it starts to snow lightly and a brass band in front of the church plays a carol your grandparents already knew, you will notice that you are moved, and be annoyed about it, and come back precisely because of that.",
+          "That is the secret of the Christmas market: it doesn't demand that you believe in it.",
+          "It simply waits, with the patience of a seller of roasted almonds, until you do so anyway."
+        ]
+      ],
+      "vocab": [
+        { "word": "Einrichtung", "gloss": "institution" },
+        { "word": "Einheimischen", "gloss": "local" },
+        { "word": "Zuhilfenahme", "gloss": "aid, help" },
+        { "word": "Endlosschleife", "gloss": "endless loop" },
+        { "word": "dröhnt", "gloss": "blares" },
+        { "word": "Neulinge", "gloss": "newcomers" },
+        { "word": "Räuchermännchen", "gloss": "incense smoker figures" },
+        { "word": "gedrängt", "gloss": "crammed together" },
+        { "word": "ausgeschenkt", "gloss": "served (drinks)" },
+        { "word": "Pfand", "gloss": "deposit" },
+        { "word": "bemerkenswerter", "gloss": "remarkable" },
+        { "word": "ausgewichen", "gloss": "avoided" },
+        { "word": "ungefragt", "gloss": "unasked" },
+        { "word": "tropft", "gloss": "drips" },
+        { "word": "gerührt", "gloss": "moved, touched" }
+      ]
+    }
+  ]
+}

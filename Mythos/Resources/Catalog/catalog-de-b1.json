@@ -1,0 +1,762 @@
+{
+  "language": "de",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "de-b1-01",
+      "title": "Der falsche Koffer",
+      "subtitle": "The wrong suitcase",
+      "topic": "Travel",
+      "symbol": "airplane",
+      "paragraphs": [
+        "Als Lena am Flughafen Zürich ankam, war sie müde und wollte nur nach Hause. Sie nahm einen schwarzen Koffer vom Band und stieg in den Zug nach Basel. Erst in ihrer Wohnung merkte sie, dass das Schloss anders aussah. Im Koffer lagen keine Kleider, sondern Noten, ein Taktstock und ein Paar glänzende Lackschuhe.",
+        "Auf einem kleinen Zettel stand eine Telefonnummer. Lena rief sofort an. „Gott sei Dank!“, rief ein Mann mit tiefer Stimme. „Ich bin Dirigent, und heute Abend um acht leite ich ein Konzert im Stadtcasino. Ohne meine Noten bin ich verloren.“ Lena schaute auf die Uhr: Es war schon halb sieben. „Ich bringe Ihnen den Koffer“, sagte sie. „Aber dann hätte ich gern meinen zurück.“",
+        "Sie nahm ein Taxi und kam zehn Minuten vor Beginn an. Der Dirigent wartete am Bühneneingang, in Socken und mit Lenas rotem Koffer in der Hand. „Sie haben mich gerettet“, sagte er und gab ihr eine Karte für die erste Reihe. Lena blieb. Es war das erste klassische Konzert ihres Lebens, und es würde nicht das letzte sein."
+      ],
+      "english": [
+        [
+          "When Lena arrived at Zurich airport, she was tired and just wanted to go home.",
+          "She took a black suitcase off the carousel and got on the train to Basel.",
+          "Only in her flat did she notice that the lock looked different.",
+          "In the suitcase there were no clothes, but sheet music, a baton and a pair of shiny patent leather shoes."
+        ],
+        [
+          "On a small slip of paper there was a phone number.",
+          "Lena called straight away.",
+          "\"Thank God!\" cried a man with a deep voice.",
+          "\"I'm a conductor, and tonight at eight I'm conducting a concert at the Stadtcasino. Without my music I'm lost.\"",
+          "Lena looked at the clock: it was already half past six.",
+          "\"I'll bring you the suitcase,\" she said.",
+          "\"But then I'd like mine back.\""
+        ],
+        [
+          "She took a taxi and arrived ten minutes before the start.",
+          "The conductor was waiting at the stage door, in his socks and with Lena's red suitcase in his hand.",
+          "\"You've saved me,\" he said, and gave her a ticket for the front row.",
+          "Lena stayed.",
+          "It was the first classical concert of her life, and it would not be the last."
+        ]
+      ],
+      "vocab": [
+        { "word": "Band", "gloss": "baggage carousel" },
+        { "word": "Schloss", "gloss": "lock" },
+        { "word": "Noten", "gloss": "sheet music" },
+        { "word": "Taktstock", "gloss": "conductor's baton" },
+        { "word": "Zettel", "gloss": "slip of paper, note" },
+        { "word": "Dirigent", "gloss": "conductor" },
+        { "word": "leite", "gloss": "am conducting, lead" },
+        { "word": "verloren", "gloss": "lost" },
+        { "word": "Bühneneingang", "gloss": "stage door" },
+        { "word": "gerettet", "gloss": "saved, rescued" },
+        { "word": "Reihe", "gloss": "row" }
+      ]
+    },
+    {
+      "id": "de-b1-02",
+      "title": "Musik im Hinterhof",
+      "subtitle": "Music in the courtyard",
+      "topic": "Neighbours",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Seit drei Wochen hörte Jonas jeden Abend dieselbe Melodie aus dem Hinterhof. Jemand spielte Klavier, langsam und mit vielen Fehlern. Immer an der gleichen Stelle hörte die Musik auf, und dann begann alles wieder von vorn. Jonas studierte in Wien Medizin und musste für eine wichtige Prüfung lernen. „Heute beschwere ich mich“, sagte er zu seiner Mitbewohnerin.",
+        "Er klopfte an die Tür im Erdgeschoss. Ein alter Mann in einer Strickjacke öffnete. „Sie kommen wegen des Lärms, nicht wahr?“, fragte er leise. „Es tut mir leid. Meine Frau hat dieses Stück fünfzig Jahre lang gespielt. Seit sie gestorben ist, ist es hier so still. Also habe ich mit dreiundachtzig angefangen, es selbst zu lernen.“ Jonas wusste nicht, was er sagen sollte. Dann sah er die Noten auf dem Klavier.",
+        "„Darf ich?“, fragte er. Als Kind hatte er zehn Jahre lang Unterricht gehabt. Er setzte sich und zeigte Herrn Pichler, wie man die schwierige Stelle mit der linken Hand spielt. Von da an kam er jeden Donnerstag nach unten. Im Frühling klang die Melodie zum ersten Mal ohne Fehler durch den Hof. Oben gingen mehrere Fenster auf, und jemand klatschte."
+      ],
+      "english": [
+        [
+          "For three weeks Jonas had heard the same tune from the courtyard every evening.",
+          "Someone was playing the piano, slowly and with lots of mistakes.",
+          "The music always stopped at the same place, and then everything started again from the beginning.",
+          "Jonas was studying medicine in Vienna and had to revise for an important exam.",
+          "\"Today I'm going to complain,\" he said to his flatmate."
+        ],
+        [
+          "He knocked on the door on the ground floor.",
+          "An old man in a cardigan opened it.",
+          "\"You've come about the noise, haven't you?\" he asked quietly.",
+          "\"I'm sorry. My wife played this piece for fifty years. Since she died it has been so quiet here. So at eighty-three I started learning it myself.\"",
+          "Jonas didn't know what to say.",
+          "Then he saw the sheet music on the piano."
+        ],
+        [
+          "\"May I?\" he asked.",
+          "As a child he had had lessons for ten years.",
+          "He sat down and showed Herr Pichler how to play the difficult passage with the left hand.",
+          "From then on he came downstairs every Thursday.",
+          "In spring the tune rang through the courtyard without mistakes for the first time.",
+          "Up above, several windows opened, and someone clapped."
+        ]
+      ],
+      "vocab": [
+        { "word": "Hinterhof", "gloss": "courtyard, back yard" },
+        { "word": "Fehlern", "gloss": "mistakes" },
+        { "word": "von vorn", "gloss": "from the beginning" },
+        { "word": "beschwere ich mich", "gloss": "I'm going to complain" },
+        { "word": "Mitbewohnerin", "gloss": "flatmate (female)" },
+        { "word": "Erdgeschoss", "gloss": "ground floor" },
+        { "word": "Strickjacke", "gloss": "cardigan" },
+        { "word": "Lärms", "gloss": "noise" },
+        { "word": "gestorben", "gloss": "died" },
+        { "word": "Stelle", "gloss": "place, passage" },
+        { "word": "klatschte", "gloss": "clapped" }
+      ]
+    },
+    {
+      "id": "de-b1-03",
+      "title": "Ölige Hände",
+      "subtitle": "Oily hands",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Tobias hatte an diesem Morgen ein Vorstellungsgespräch bei einer Münchner Firma, die Elektrofahrräder baut. Er trug sein bestes Hemd und war eine halbe Stunde zu früh unterwegs. An der Isar sah er eine Frau, die neben ihrem Fahrrad kniete. Die Kette war abgesprungen, und sie sah verzweifelt aus.",
+        "„Kann ich helfen?“, fragte Tobias. „Wenn Sie wissen, wie das geht, gern“, antwortete sie. „Ich habe gleich einen Termin.“ Es dauerte länger, als er gedacht hatte. Als die Kette endlich wieder saß, waren seine Hände schwarz, und auf dem Hemd war ein großer Fleck. Die Frau bedankte sich und fuhr schnell weg. Tobias rannte zur Firma und kam fünf Minuten zu spät.",
+        "Im Besprechungsraum saßen zwei Männer und eine Frau. Es war die Frau von der Isar. Tobias wurde rot. „Sie sind also unser Kandidat“, sagte sie und lächelte. „Eigentlich wollte ich Sie fragen, wie man eine Fahrradkette repariert. Aber die Antwort kenne ich ja schon.“ Die beiden Männer schauten verwirrt. Eine Woche später bekam Tobias den Vertrag."
+      ],
+      "english": [
+        [
+          "That morning Tobias had a job interview at a Munich company that builds electric bikes.",
+          "He was wearing his best shirt and had set off half an hour early.",
+          "By the river Isar he saw a woman kneeling next to her bike.",
+          "The chain had come off, and she looked desperate."
+        ],
+        [
+          "\"Can I help?\" Tobias asked.",
+          "\"If you know how to do it, please,\" she answered.",
+          "\"I've got an appointment shortly.\"",
+          "It took longer than he had thought.",
+          "When the chain was finally back on, his hands were black and there was a big stain on his shirt.",
+          "The woman thanked him and rode off quickly.",
+          "Tobias ran to the company and arrived five minutes late."
+        ],
+        [
+          "In the meeting room sat two men and a woman.",
+          "It was the woman from the Isar.",
+          "Tobias went red.",
+          "\"So you're our candidate,\" she said, smiling.",
+          "\"Actually I was going to ask you how to repair a bike chain. But I already know the answer.\"",
+          "The two men looked confused.",
+          "A week later Tobias got the contract."
+        ]
+      ],
+      "vocab": [
+        { "word": "Vorstellungsgespräch", "gloss": "job interview" },
+        { "word": "kniete", "gloss": "was kneeling" },
+        { "word": "Kette", "gloss": "chain" },
+        { "word": "abgesprungen", "gloss": "come off" },
+        { "word": "verzweifelt", "gloss": "desperate" },
+        { "word": "Termin", "gloss": "appointment" },
+        { "word": "Fleck", "gloss": "stain" },
+        { "word": "Besprechungsraum", "gloss": "meeting room" },
+        { "word": "wurde rot", "gloss": "went red, blushed" },
+        { "word": "verwirrt", "gloss": "confused" },
+        { "word": "Vertrag", "gloss": "contract" }
+      ]
+    },
+    {
+      "id": "de-b1-04",
+      "title": "Die Wette",
+      "subtitle": "The bet",
+      "topic": "Sport",
+      "symbol": "figure.pool.swim",
+      "paragraphs": [
+        "„Du schaffst das nicht mehr, Opa“, sagte Max beim Sonntagsessen in Essen. Sein Großvater Heinz war achtundsiebzig und hatte früher im Bergwerk gearbeitet. Im Sommer gab es am Baldeneysee ein Rennen über einen Kilometer, und Heinz hatte erzählt, dass er als junger Mann jedes Jahr mitgeschwommen war. „Wetten, dass doch?“, antwortete Heinz. „Wer verliert, wäscht den ganzen Sommer das Auto des anderen.“",
+        "Von da an ging Heinz jeden Morgen um sieben ins Hallenbad. Am Anfang schaffte er nur vier Bahnen, dann zehn, dann zwanzig. Er aß weniger Currywurst und mehr Gemüse. Max begleitete ihn oft und stoppte die Zeit. Die Familie merkte, dass Heinz wieder lachte, zum ersten Mal seit Omas Tod im letzten Winter.",
+        "Am Tag des Rennens war das Wasser kühl und grau. Heinz kam als Vorletzter ins Ziel, aber er kam ins Ziel. Max wartete mit einem Handtuch am Ufer. „Du hast gewonnen“, sagte er. „Ich wasche dein Auto.“ Heinz zwinkerte. „Ich weiß, dass du die Wette nur erfunden hast, damit ich wieder aus dem Haus gehe. Aber das Auto wäschst du trotzdem.“"
+      ],
+      "english": [
+        [
+          "\"You can't manage it any more, Grandpa,\" said Max at Sunday lunch in Essen.",
+          "His grandfather Heinz was seventy-eight and used to work in the coal mine.",
+          "In summer there was a one-kilometre race on Lake Baldeney, and Heinz had told them that as a young man he had swum in it every year.",
+          "\"Want to bet I can?\" Heinz answered.",
+          "\"Whoever loses washes the other one's car all summer.\""
+        ],
+        [
+          "From then on Heinz went to the indoor pool every morning at seven.",
+          "At first he only managed four lengths, then ten, then twenty.",
+          "He ate less currywurst and more vegetables.",
+          "Max often went with him and timed him.",
+          "The family noticed that Heinz was laughing again, for the first time since Grandma's death last winter."
+        ],
+        [
+          "On the day of the race the water was cool and grey.",
+          "Heinz finished second to last, but he finished.",
+          "Max was waiting on the shore with a towel.",
+          "\"You won,\" he said.",
+          "\"I'll wash your car.\"",
+          "Heinz winked.",
+          "\"I know you only made up the bet so that I'd get out of the house again. But you're still washing the car.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "Bergwerk", "gloss": "coal mine" },
+        { "word": "Rennen", "gloss": "race" },
+        { "word": "mitgeschwommen", "gloss": "swum in it, taken part" },
+        { "word": "Wetten, dass", "gloss": "want to bet" },
+        { "word": "Hallenbad", "gloss": "indoor swimming pool" },
+        { "word": "Bahnen", "gloss": "lengths (of a pool)" },
+        { "word": "begleitete", "gloss": "accompanied" },
+        { "word": "Vorletzter", "gloss": "second to last" },
+        { "word": "Ufer", "gloss": "shore, bank" },
+        { "word": "zwinkerte", "gloss": "winked" },
+        { "word": "erfunden", "gloss": "made up, invented" }
+      ]
+    },
+    {
+      "id": "de-b1-05",
+      "title": "Der Brief in der Wand",
+      "subtitle": "The letter in the wall",
+      "topic": "History",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Beim Renovieren ihrer Altbauwohnung in Prenzlauer Berg schlug Aylin ein Loch in die Küchenwand. Dahinter fand sie einen alten Umschlag. Das Papier war gelb, und die Schrift war klein und ordentlich. Der Brief war vom Oktober 1989 und an einen gewissen Peter in West-Berlin adressiert.",
+        "„Lieber Peter“, las sie ihrem Freund vor, „ich kann diesen Brief nicht abschicken, deshalb verstecke ich ihn hier. Wenn die Mauer irgendwann fällt, sollst du wissen, dass ich jeden Tag an dich gedacht habe. Deine Schwester Monika.“ Aylin sah ihren Freund an. „Die Mauer ist nur einen Monat später gefallen“, sagte er. „Ob sie sich wiedergesehen haben?“",
+        "Aylin suchte im Internet und fand einen Peter Lehmann, der in Spandau wohnte. Sie schrieb ihm eine E-Mail. Zwei Tage später stand ein alter Mann vor ihrer Tür, zusammen mit einer Frau mit weißen Haaren. „Das ist Monika“, sagte er. „Wir haben uns im November 1989 an der Bornholmer Straße wiedergefunden.“ Monika nahm den Brief und lachte und weinte gleichzeitig. „Den hatte ich ganz vergessen“, sagte sie. Dann gab sie ihn ihrem Bruder. „Jetzt kann ich ihn ja endlich abschicken.“"
+      ],
+      "english": [
+        [
+          "While renovating her old-building flat in Prenzlauer Berg, Aylin knocked a hole in the kitchen wall.",
+          "Behind it she found an old envelope.",
+          "The paper was yellow, and the handwriting was small and neat.",
+          "The letter was dated October 1989 and addressed to a certain Peter in West Berlin."
+        ],
+        [
+          "\"Dear Peter,\" she read aloud to her boyfriend, \"I can't send this letter, so I'm hiding it here. If the Wall ever falls, I want you to know that I thought of you every day. Your sister Monika.\"",
+          "Aylin looked at her boyfriend.",
+          "\"The Wall fell only a month later,\" he said.",
+          "\"I wonder if they saw each other again?\""
+        ],
+        [
+          "Aylin searched online and found a Peter Lehmann who lived in Spandau.",
+          "She wrote him an email.",
+          "Two days later an old man stood at her door, together with a woman with white hair.",
+          "\"This is Monika,\" he said.",
+          "\"We found each other again in November 1989 at Bornholmer Straße.\"",
+          "Monika took the letter and laughed and cried at the same time.",
+          "\"I'd completely forgotten about it,\" she said.",
+          "Then she gave it to her brother.",
+          "\"Now I can finally send it.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "Renovieren", "gloss": "renovating" },
+        { "word": "Altbauwohnung", "gloss": "flat in an old building" },
+        { "word": "Loch", "gloss": "hole" },
+        { "word": "Umschlag", "gloss": "envelope" },
+        { "word": "ordentlich", "gloss": "neat" },
+        { "word": "abschicken", "gloss": "send off" },
+        { "word": "verstecke", "gloss": "am hiding" },
+        { "word": "Mauer", "gloss": "(Berlin) Wall" },
+        { "word": "wiedergesehen", "gloss": "seen each other again" },
+        { "word": "gleichzeitig", "gloss": "at the same time" }
+      ]
+    },
+    {
+      "id": "de-b1-06",
+      "title": "Die wichtigste Zutat",
+      "subtitle": "The most important ingredient",
+      "topic": "Cooking",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Seit seine Oma nicht mehr kochte, versuchte Florian jeden Sonntag, ihren berühmten Käferbohnensalat nachzumachen. Er kaufte die Bohnen und das dunkelgrüne Kürbiskernöl am Kaiser-Josef-Markt in Graz, genau wie sie. Er schnitt die Zwiebeln fein und nahm Essig, Salz und Pfeffer. Aber der Salat schmeckte nie so wie früher.",
+        "„Was mache ich falsch?“, fragte er seine Oma im Altersheim. Sie probierte eine Gabel voll und dachte lange nach. „Der Salat ist gut“, sagte sie schließlich. „Aber wann hast du ihn bei mir gegessen?“ Florian überlegte. Immer nach den Sonntagswanderungen auf den Schöckl, wenn die ganze Familie stundenlang gelaufen war. „Siehst du“, sagte die Oma und lachte. „Die wichtigste Zutat war der Hunger.“",
+        "Am nächsten Sonntag stieg Florian früh am Morgen auf den Schöckl, drei Stunden hinauf und zwei hinunter. Zu Hause machte er den Salat genau wie immer. Beim ersten Bissen musste er lächeln. Er schmeckte genau wie früher. Am Abend rief er seine Oma an. „Nächste Woche nehme ich dich mit“, sagte er. „Mit dem Rollstuhl fahren wir einfach mit der Seilbahn hinauf.“"
+      ],
+      "english": [
+        [
+          "Since his grandma had stopped cooking, Florian tried every Sunday to recreate her famous runner bean salad.",
+          "He bought the beans and the dark green pumpkin seed oil at the Kaiser-Josef market in Graz, just like her.",
+          "He chopped the onions finely and added vinegar, salt and pepper.",
+          "But the salad never tasted the way it used to."
+        ],
+        [
+          "\"What am I doing wrong?\" he asked his grandma at the care home.",
+          "She tasted a forkful and thought for a long time.",
+          "\"The salad is good,\" she said at last.",
+          "\"But when did you eat it at my place?\"",
+          "Florian thought about it.",
+          "Always after the Sunday hikes up the Schöckl, when the whole family had walked for hours.",
+          "\"You see,\" said Grandma, laughing.",
+          "\"The most important ingredient was hunger.\""
+        ],
+        [
+          "The next Sunday Florian climbed the Schöckl early in the morning, three hours up and two down.",
+          "At home he made the salad exactly as always.",
+          "At the first bite he had to smile.",
+          "It tasted just like it used to.",
+          "In the evening he called his grandma.",
+          "\"Next week I'm taking you with me,\" he said.",
+          "\"With the wheelchair we'll just take the cable car up.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "nachzumachen", "gloss": "to recreate, copy" },
+        { "word": "Kürbiskernöl", "gloss": "pumpkin seed oil" },
+        { "word": "Zwiebeln", "gloss": "onions" },
+        { "word": "Essig", "gloss": "vinegar" },
+        { "word": "Altersheim", "gloss": "care home" },
+        { "word": "probierte", "gloss": "tasted" },
+        { "word": "überlegte", "gloss": "thought about it" },
+        { "word": "Zutat", "gloss": "ingredient" },
+        { "word": "Bissen", "gloss": "bite, mouthful" },
+        { "word": "Rollstuhl", "gloss": "wheelchair" },
+        { "word": "Seilbahn", "gloss": "cable car" }
+      ]
+    },
+    {
+      "id": "de-b1-07",
+      "title": "Die Hütte im Gewitter",
+      "subtitle": "The hut in the storm",
+      "topic": "Weather",
+      "symbol": "cloud.bolt.rain.fill",
+      "paragraphs": [
+        "Die Wetter-App zeigte eine kleine Sonne. „Siehst du?“, sagte Marie zu ihrem Freund Paul. „Kein Problem, wir schaffen den Gipfel locker.“ Sie waren um sechs Uhr in Garmisch losgegangen und wollten am Abend wieder unten sein. Gegen Mittag erreichten sie eine kleine Hütte. Ein alter Mann saß davor auf einer Bank und schaute in den Himmel.",
+        "„Wo wollt ihr denn hin?“, fragte er. „Zum Gipfel“, antwortete Paul. Der Mann schüttelte den Kopf. „In zwanzig Minuten kommt ein Gewitter. Ihr bleibt besser hier.“ Marie zeigte ihm ihr Handy, aber er lachte nur. Sie tranken einen Tee, und genau zwanzig Minuten später wurde der Himmel schwarz. Blitze zuckten über die Berge, und der Regen schlug gegen die Fenster.",
+        "Sie übernachteten in der Hütte. Am nächsten Morgen versprach die App Regen, aber der alte Mann sagte: „Heute wird’s schön.“ Diesmal glaubten sie ihm sofort. Als sie gingen, sahen sie hinter der Hütte einen Mast mit vielen kleinen Geräten. „Ist das eine Wetterstation?“, fragte Marie. Der Mann zwinkerte. „Ich war vierzig Jahre lang Meteorologe beim Deutschen Wetterdienst. Aber das müsst ihr niemandem erzählen.“"
+      ],
+      "english": [
+        [
+          "The weather app showed a little sun.",
+          "\"See?\" Marie said to her friend Paul.",
+          "\"No problem, we'll make the summit easily.\"",
+          "They had set off from Garmisch at six and wanted to be back down by evening.",
+          "Around midday they reached a small hut.",
+          "An old man was sitting on a bench in front of it, looking at the sky."
+        ],
+        [
+          "\"And where are you off to?\" he asked.",
+          "\"To the summit,\" Paul answered.",
+          "The man shook his head.",
+          "\"In twenty minutes there'll be a thunderstorm. You'd better stay here.\"",
+          "Marie showed him her phone, but he just laughed.",
+          "They drank a cup of tea, and exactly twenty minutes later the sky went black.",
+          "Lightning flashed over the mountains, and the rain beat against the windows."
+        ],
+        [
+          "They spent the night in the hut.",
+          "The next morning the app promised rain, but the old man said, \"It'll be lovely today.\"",
+          "This time they believed him at once.",
+          "As they left, they saw a mast with lots of small instruments behind the hut.",
+          "\"Is that a weather station?\" Marie asked.",
+          "The man winked.",
+          "\"I was a meteorologist at the German Weather Service for forty years. But you don't need to tell anyone that.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "locker", "gloss": "easily" },
+        { "word": "Gipfel", "gloss": "summit" },
+        { "word": "erreichten", "gloss": "reached" },
+        { "word": "Hütte", "gloss": "mountain hut" },
+        { "word": "schüttelte den Kopf", "gloss": "shook his head" },
+        { "word": "Gewitter", "gloss": "thunderstorm" },
+        { "word": "Blitze", "gloss": "lightning flashes" },
+        { "word": "zuckten", "gloss": "flashed, flickered" },
+        { "word": "übernachteten", "gloss": "spent the night" },
+        { "word": "versprach", "gloss": "promised" },
+        { "word": "Geräten", "gloss": "instruments, devices" }
+      ]
+    },
+    {
+      "id": "de-b1-08",
+      "title": "Zügeln",
+      "subtitle": "Moving house",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Als Hannah aus Hannover nach Basel zog, dachte sie, die Sprache würde kein Problem sein. Schließlich sprach man in der Schweiz ja Deutsch. Aber im Büro verstand sie in der ersten Woche fast nichts. Ihre Kollegen sprachen Baseldeutsch, und das klang für sie wie eine fremde Sprache. Nur in Sitzungen redeten alle Hochdeutsch, sehr höflich und ein bisschen langsam.",
+        "Am Donnerstag fragte ihr Kollege Reto in der Kaffeepause: „Am Samstag zügle ich. Chunnsch go hälfe?“ Hannah verstand nur „Samstag“ und „helfen“. Sie wollte nicht unhöflich sein, also nickte sie. „Zügeln“ kannte sie nur von Pferden. Hatte Reto vielleicht ein Pferd? Am Samstagmorgen zog sie ihre alten Turnschuhe an, denn bei Pferden wird man schmutzig.",
+        "Vor Retos Haus stand ein großer Lieferwagen voller Kisten. „Zügeln heißt umziehen“, erklärte Reto und lachte, als er ihr Gesicht sah. Den ganzen Tag trugen sie Möbel und Kartons in den fünften Stock. Am Abend saßen alle müde auf dem Balkon und aßen Pizza. „Merci vielmal“, sagte Reto. Hannah hob ihr Glas. „Gärn gscheh“, antwortete sie. Es war ihr erstes Schweizerdeutsch, und alle klatschten."
+      ],
+      "english": [
+        [
+          "When Hannah moved from Hanover to Basel, she thought the language wouldn't be a problem.",
+          "After all, people in Switzerland spoke German.",
+          "But in the office she understood almost nothing in the first week.",
+          "Her colleagues spoke Basel German, and to her it sounded like a foreign language.",
+          "Only in meetings did everyone speak standard German, very politely and a little slowly."
+        ],
+        [
+          "On Thursday her colleague Reto asked during the coffee break, \"On Saturday I'm moving. Are you coming to help?\"",
+          "Hannah only understood \"Saturday\" and \"help\".",
+          "She didn't want to be rude, so she nodded.",
+          "She only knew \"zügeln\" from horses, as in reining them in.",
+          "Did Reto perhaps have a horse?",
+          "On Saturday morning she put on her old trainers, because you get dirty around horses."
+        ],
+        [
+          "In front of Reto's house stood a big van full of boxes.",
+          "\"Zügeln means moving house,\" Reto explained, laughing when he saw her face.",
+          "All day they carried furniture and cardboard boxes up to the fifth floor.",
+          "In the evening everyone sat tired on the balcony eating pizza.",
+          "\"Thanks a lot,\" said Reto.",
+          "Hannah raised her glass.",
+          "\"You're welcome,\" she answered, in Swiss German.",
+          "It was her first Swiss German, and everyone clapped."
+        ]
+      ],
+      "vocab": [
+        { "word": "Schließlich", "gloss": "after all" },
+        { "word": "fremde", "gloss": "foreign" },
+        { "word": "Sitzungen", "gloss": "meetings" },
+        { "word": "höflich", "gloss": "politely" },
+        { "word": "unhöflich", "gloss": "rude" },
+        { "word": "nickte", "gloss": "nodded" },
+        { "word": "Pferden", "gloss": "horses" },
+        { "word": "Turnschuhe", "gloss": "trainers, sneakers" },
+        { "word": "Lieferwagen", "gloss": "van" },
+        { "word": "Kisten", "gloss": "boxes, crates" },
+        { "word": "Möbel", "gloss": "furniture" }
+      ]
+    },
+    {
+      "id": "de-b1-09",
+      "title": "Die alte Kamera",
+      "subtitle": "The old camera",
+      "topic": "Shopping",
+      "symbol": "camera.fill",
+      "paragraphs": [
+        "Auf einem Flohmarkt in Leipzig kaufte Jakob für zwanzig Euro eine alte Kamera. Der Verkäufer sagte, dass sie nicht mehr funktioniert. Zu Hause merkte Jakob, dass noch ein Film darin war. Neugierig brachte er ihn in ein kleines Fotolabor in der Südvorstadt.",
+        "Eine Woche später holte er die Bilder ab. Es waren sechsunddreißig Fotos von derselben Frau: am Völkerschlachtdenkmal, auf einem Fahrrad, in einer Küche, lachend mit einem Kuchen in der Hand. Auf dem letzten Foto stand sie in einem weißen Kleid vor einer Kirche. „Die kenne ich“, sagte die Frau im Labor plötzlich. „Das ist Frau Krause aus der Bäckerei an der Ecke.“",
+        "Jakob ging mit dem Umschlag in die Bäckerei. Frau Krause war jetzt etwa sechzig. Sie sah die Fotos lange an, dann wurden ihre Augen feucht. „Mein Mann hat die gemacht“, sagte sie. „Im Sommer vor unserer Hochzeit. Kurz danach wurde die Kamera gestohlen, und wir dachten, die Bilder sind für immer weg.“ Sie wollte Jakob Geld geben, aber er lehnte ab. Seitdem bekommt er jeden Samstag ein Stück Kuchen umsonst."
+      ],
+      "english": [
+        [
+          "At a flea market in Leipzig, Jakob bought an old camera for twenty euros.",
+          "The seller said that it didn't work any more.",
+          "At home Jakob noticed that there was still a film inside.",
+          "Curious, he took it to a small photo lab in the Südvorstadt."
+        ],
+        [
+          "A week later he picked up the pictures.",
+          "There were thirty-six photos of the same woman: at the Monument to the Battle of the Nations, on a bike, in a kitchen, laughing with a cake in her hand.",
+          "In the last photo she was standing in a white dress in front of a church.",
+          "\"I know her,\" the woman at the lab said suddenly.",
+          "\"That's Frau Krause from the bakery on the corner.\""
+        ],
+        [
+          "Jakob went to the bakery with the envelope.",
+          "Frau Krause was now about sixty.",
+          "She looked at the photos for a long time, then her eyes grew moist.",
+          "\"My husband took these,\" she said.",
+          "\"In the summer before our wedding. Shortly afterwards the camera was stolen, and we thought the pictures were gone for ever.\"",
+          "She wanted to give Jakob money, but he refused.",
+          "Since then he gets a free piece of cake every Saturday."
+        ]
+      ],
+      "vocab": [
+        { "word": "Flohmarkt", "gloss": "flea market" },
+        { "word": "Verkäufer", "gloss": "seller" },
+        { "word": "Neugierig", "gloss": "curious(ly)" },
+        { "word": "Fotolabor", "gloss": "photo lab" },
+        { "word": "derselben", "gloss": "the same" },
+        { "word": "lachend", "gloss": "laughing" },
+        { "word": "feucht", "gloss": "moist, damp" },
+        { "word": "Hochzeit", "gloss": "wedding" },
+        { "word": "gestohlen", "gloss": "stolen" },
+        { "word": "lehnte ab", "gloss": "refused" },
+        { "word": "umsonst", "gloss": "for free" }
+      ]
+    },
+    {
+      "id": "de-b1-10",
+      "title": "Kölsche Küche mit Gisela",
+      "subtitle": "Cologne cooking with Gisela",
+      "topic": "Technology",
+      "symbol": "video.fill",
+      "paragraphs": [
+        "Emma studierte seit Oktober in Lissabon, und ihre Oma Gisela in Köln vermisste sie sehr. „Wir machen einfach Videoanrufe“, sagte Emma, bevor sie abflog. Sie installierte eine App auf Omas Tablet und erklärte ihr alles dreimal. Oma schrieb jeden Schritt in ein kleines Heft.",
+        "Der erste Anruf war ein Chaos. Emma sah zehn Minuten lang nur die Zimmerdecke, dann ein Ohr, dann ein Stück vom Wohnzimmerteppich. „Hörst du mich?“, rief Oma viel zu laut. Beim zweiten Mal sah Emma wenigstens die Nase. Aber nach ein paar Wochen klappte es gut, und sie telefonierten jeden Sonntag.",
+        "Im Dezember schickte ein Freund Emma einen Link. „Ist das nicht deine Oma?“, fragte er. Es war ein Video mit dem Titel „Kölsche Küche mit Gisela“. Oma stand in ihrer Küche und kochte Himmel und Erde, Schritt für Schritt, mit perfektem Licht. Das Video hatte schon zwanzigtausend Aufrufe. Emma rief sofort an. „Oma, seit wann machst du Videos?“ Oma lachte. „Seit du mir gezeigt hast, wo der Knopf ist, Kind. Und jetzt muss ich los, meine Fans warten.“"
+      ],
+      "english": [
+        [
+          "Emma had been studying in Lisbon since October, and her grandma Gisela in Cologne missed her a lot.",
+          "\"We'll just do video calls,\" Emma said before she flew off.",
+          "She installed an app on Grandma's tablet and explained everything to her three times.",
+          "Grandma wrote every step in a little notebook."
+        ],
+        [
+          "The first call was chaos.",
+          "For ten minutes Emma saw only the ceiling, then an ear, then a bit of the living-room carpet.",
+          "\"Can you hear me?\" Grandma shouted, much too loudly.",
+          "The second time Emma at least saw her nose.",
+          "But after a few weeks it worked well, and they talked every Sunday."
+        ],
+        [
+          "In December a friend sent Emma a link.",
+          "\"Isn't that your grandma?\" he asked.",
+          "It was a video called \"Cologne cooking with Gisela\".",
+          "Grandma stood in her kitchen cooking \"heaven and earth\", potatoes with apple, step by step, in perfect light.",
+          "The video already had twenty thousand views.",
+          "Emma called at once.",
+          "\"Grandma, since when do you make videos?\"",
+          "Grandma laughed.",
+          "\"Since you showed me where the button is, child. And now I have to go, my fans are waiting.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "vermisste", "gloss": "missed" },
+        { "word": "Videoanrufe", "gloss": "video calls" },
+        { "word": "Schritt", "gloss": "step" },
+        { "word": "Heft", "gloss": "notebook" },
+        { "word": "Zimmerdecke", "gloss": "ceiling" },
+        { "word": "Wohnzimmerteppich", "gloss": "living-room carpet" },
+        { "word": "wenigstens", "gloss": "at least" },
+        { "word": "klappte", "gloss": "worked out" },
+        { "word": "Aufrufe", "gloss": "views" },
+        { "word": "Knopf", "gloss": "button" }
+      ]
+    },
+    {
+      "id": "de-b1-11",
+      "title": "Tomaten auf dem Parkhaus",
+      "subtitle": "Tomatoes on the car park",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Im Frühling entdeckte Selin, dass das oberste Deck des Parkhauses neben ihrem Büro in Frankfurt fast immer leer war. Dort gab es nur Tauben und Sonne, kein einziges Auto. In der Mittagspause brachte sie zwei alte Eimer mit Erde hinauf und pflanzte Tomaten. Bald kamen Kollegen dazu, dann Leute aus den Nachbarhäusern. Im Juli wuchsen dort oben Bohnen, Kräuter, Zucchini und Sonnenblumen.",
+        "Eines Morgens hing ein Zettel an einem Eimer. „Das ist privates Gelände. Bitte entfernen Sie alle Pflanzen bis Freitag. Der Eigentümer.“ Selin war traurig. „Wir können doch nicht einfach alles wegwerfen“, sagte ihr Kollege Tim. Sie beschlossen, am Freitag ein letztes Fest zu feiern und das Gemüse zu ernten.",
+        "Am Freitag kam ein älterer Herr im Anzug die Treppe herauf. Er sah die vielen Menschen, die Körbe voller Gemüse und die Kinder zwischen den Sonnenblumen. Eine Frau gab ihm eine kleine rote Tomate. Er probierte sie und blieb lange still. „So haben die Tomaten bei meinem Vater in Kalabrien geschmeckt“, sagte er endlich. Dann nahm er den Zettel vom Eimer und zerriss ihn. „Nächstes Jahr bringe ich Samen mit.“"
+      ],
+      "english": [
+        [
+          "In spring Selin discovered that the top deck of the car park next to her office in Frankfurt was almost always empty.",
+          "There were only pigeons and sun there, not a single car.",
+          "In her lunch break she took two old buckets of soil up and planted tomatoes.",
+          "Soon colleagues joined in, then people from the neighbouring buildings.",
+          "By July beans, herbs, courgettes and sunflowers were growing up there."
+        ],
+        [
+          "One morning a note was hanging on a bucket.",
+          "\"This is private property. Please remove all plants by Friday. The owner.\"",
+          "Selin was sad.",
+          "\"We can't just throw everything away,\" said her colleague Tim.",
+          "They decided to hold one last party on Friday and harvest the vegetables."
+        ],
+        [
+          "On Friday an elderly gentleman in a suit came up the stairs.",
+          "He saw all the people, the baskets full of vegetables and the children among the sunflowers.",
+          "A woman gave him a small red tomato.",
+          "He tasted it and was silent for a long time.",
+          "\"That's how the tomatoes tasted at my father's in Calabria,\" he said at last.",
+          "Then he took the note off the bucket and tore it up.",
+          "\"Next year I'll bring seeds.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "oberste", "gloss": "top" },
+        { "word": "Parkhauses", "gloss": "multi-storey car park" },
+        { "word": "Tauben", "gloss": "pigeons" },
+        { "word": "Eimer", "gloss": "buckets" },
+        { "word": "Gelände", "gloss": "property, grounds" },
+        { "word": "entfernen", "gloss": "remove" },
+        { "word": "Eigentümer", "gloss": "owner" },
+        { "word": "beschlossen", "gloss": "decided" },
+        { "word": "ernten", "gloss": "harvest" },
+        { "word": "zerriss", "gloss": "tore up" },
+        { "word": "Samen", "gloss": "seeds" }
+      ]
+    },
+    {
+      "id": "de-b1-12",
+      "title": "Das Bild im Treppenhaus",
+      "subtitle": "The picture in the stairwell",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Im Treppenhaus seines neuen Hauses in Hamburg-Altona hing ein seltsames Bild: ein blaues Pferd, ein roter Mond und ein Hafen voller gelber Schiffe. Lukas studierte Kunstgeschichte, und er blieb jedes Mal davor stehen. Die Farben, die Linien, die Kraft – das war kein Zufall. „Das sieht aus wie ein früher Expressionist“, sagte er zu seiner Freundin. „Vielleicht ist es ein Vermögen wert.“",
+        "Er fotografierte das Bild und schickte es an seine Professorin. Er suchte in Büchern und Museumskatalogen, aber er fand nichts. Schließlich klingelte er bei der ältesten Mieterin im Haus, Frau Brandt, die seit sechzig Jahren im Erdgeschoss wohnte. „Wissen Sie, wer das Bild gemalt hat?“, fragte er aufgeregt.",
+        "Frau Brandt lachte so sehr, dass sie sich setzen musste. „Das war ich“, sagte sie. „Da war ich acht Jahre alt und hatte Masern. Meine Mutter hat es aufgehängt, damit ich nicht so traurig bin.“ Lukas starrte sie an. „Haben Sie danach weiter gemalt?“ „Nein, nie wieder“, sagte sie. Am nächsten Tag brachte Lukas ihr Farben und Pinsel. Ein Jahr später hatte Frau Brandt mit einundneunzig Jahren ihre erste Ausstellung, in dem kleinen Café an der Ecke."
+      ],
+      "english": [
+        [
+          "In the stairwell of his new building in Hamburg-Altona hung a strange picture: a blue horse, a red moon and a harbour full of yellow ships.",
+          "Lukas was studying art history, and he stopped in front of it every time.",
+          "The colours, the lines, the energy – that was no accident.",
+          "\"That looks like an early Expressionist,\" he said to his girlfriend.",
+          "\"Maybe it's worth a fortune.\""
+        ],
+        [
+          "He photographed the picture and sent it to his professor.",
+          "He searched in books and museum catalogues, but he found nothing.",
+          "Finally he rang the bell of the oldest tenant in the building, Frau Brandt, who had lived on the ground floor for sixty years.",
+          "\"Do you know who painted the picture?\" he asked excitedly."
+        ],
+        [
+          "Frau Brandt laughed so hard that she had to sit down.",
+          "\"That was me,\" she said.",
+          "\"I was eight years old and had measles. My mother hung it up so that I wouldn't be so sad.\"",
+          "Lukas stared at her.",
+          "\"Did you keep painting after that?\"",
+          "\"No, never again,\" she said.",
+          "The next day Lukas brought her paints and brushes.",
+          "A year later, at ninety-one, Frau Brandt had her first exhibition, in the little café on the corner."
+        ]
+      ],
+      "vocab": [
+        { "word": "Treppenhaus", "gloss": "stairwell" },
+        { "word": "seltsames", "gloss": "strange" },
+        { "word": "Hafen", "gloss": "harbour" },
+        { "word": "Zufall", "gloss": "accident, chance" },
+        { "word": "Vermögen", "gloss": "fortune" },
+        { "word": "Mieterin", "gloss": "tenant (female)" },
+        { "word": "aufgeregt", "gloss": "excitedly" },
+        { "word": "Masern", "gloss": "measles" },
+        { "word": "starrte", "gloss": "stared" },
+        { "word": "Pinsel", "gloss": "brushes" },
+        { "word": "Ausstellung", "gloss": "exhibition" }
+      ]
+    },
+    {
+      "id": "de-b1-13",
+      "title": "Der Bub mit der roten Mütze",
+      "subtitle": "The boy in the red hat",
+      "topic": "Getting around",
+      "symbol": "tram.fill",
+      "paragraphs": [
+        "Jeden Morgen um sieben Uhr zwölf fuhr Sonja mit ihrer Straßenbahn über den Wiener Ring. Und jeden Morgen stand an der Haltestelle beim Parlament ein kleiner Junge mit einer roten Mütze. Er stieg nie ein. Er winkte nur, und Sonja klingelte zweimal für ihn. Das ging so seit fast einem Jahr.",
+        "Eines Tages im Februar war die Haltestelle leer. Am nächsten Tag auch, und am Tag danach wieder. Sonja machte sich Sorgen. In der Pause fragte sie den Mann am Kiosk neben der Haltestelle. „Der Bub mit der roten Mütze?“, sagte er. „Der hat sich beim Skifahren das Bein gebrochen. Seine Mutter hat es mir erzählt. Er liegt im Spital und ist ganz traurig.“",
+        "Sonja hatte eine Idee. Mit ihren Kollegen machte sie ein großes Foto: zwanzig Straßenbahnfahrer in Uniform vor einer Straßenbahn, alle mit einem Schild. Darauf stand: „Gute Besserung! Wir warten auf dich.“ Der Mann vom Kiosk brachte das Foto ins Spital. Drei Wochen später stand der Junge wieder an der Haltestelle, mit Krücken und roter Mütze. Diesmal stieg er ein, und an der Endstation durfte er einmal selbst klingeln."
+      ],
+      "english": [
+        [
+          "Every morning at twelve minutes past seven, Sonja drove her tram along Vienna's Ring.",
+          "And every morning a little boy in a red hat stood at the stop by the Parliament.",
+          "He never got on.",
+          "He just waved, and Sonja rang the bell twice for him.",
+          "It had been like that for almost a year."
+        ],
+        [
+          "One day in February the stop was empty.",
+          "The next day too, and again the day after.",
+          "Sonja was worried.",
+          "In her break she asked the man at the kiosk next to the stop.",
+          "\"The lad in the red hat?\" he said.",
+          "\"He broke his leg skiing. His mother told me. He's in hospital and very sad.\""
+        ],
+        [
+          "Sonja had an idea.",
+          "With her colleagues she took a big photo: twenty tram drivers in uniform in front of a tram, all holding a sign.",
+          "It said, \"Get well soon! We're waiting for you.\"",
+          "The man from the kiosk took the photo to the hospital.",
+          "Three weeks later the boy was back at the stop, with crutches and his red hat.",
+          "This time he got on, and at the terminus he was allowed to ring the bell himself."
+        ]
+      ],
+      "vocab": [
+        { "word": "Haltestelle", "gloss": "stop" },
+        { "word": "winkte", "gloss": "waved" },
+        { "word": "klingelte", "gloss": "rang the bell" },
+        { "word": "machte sich Sorgen", "gloss": "was worried" },
+        { "word": "Bub", "gloss": "boy, lad (Austrian)" },
+        { "word": "gebrochen", "gloss": "broken" },
+        { "word": "Spital", "gloss": "hospital (Austrian)" },
+        { "word": "Schild", "gloss": "sign" },
+        { "word": "Gute Besserung", "gloss": "get well soon" },
+        { "word": "Krücken", "gloss": "crutches" },
+        { "word": "Endstation", "gloss": "terminus" }
+      ]
+    },
+    {
+      "id": "de-b1-14",
+      "title": "Ein Umschlag am Montag",
+      "subtitle": "An envelope on Monday",
+      "topic": "Mystery",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Jeden Montagmorgen, wenn Frau Hinrichs ihre kleine Bäckerei in Bremen aufschloss, fand sie einen Umschlag unter der Tür. Darin lagen immer ein Zehneuroschein und ein Zettel mit einem einzigen Wort: „Danke.“ Das ging schon seit vier Monaten so. Ihre Angestellten hatten viele Theorien. „Ein heimlicher Verehrer“, meinte die eine. „Jemand mit schlechtem Gewissen“, sagte die andere.",
+        "Frau Hinrichs wollte es wissen. In der Nacht zum Montag setzte sie sich mit einer Thermoskanne Kaffee in ihr Auto gegenüber der Bäckerei. Um halb vier kam ein junger Mann auf einem Fahrrad. Er trug die Jacke eines Lieferdienstes. Leise schob er den Umschlag unter die Tür und wollte wieder wegfahren. „Warten Sie!“, rief sie und stieg aus dem Auto.",
+        "Der Mann erschrak, und dann erkannte sie ihn. Vor fünf Jahren hatte er im Winter oft vor der Bäckerei gesessen, ohne Wohnung und ohne Geld. Jeden Abend hatte sie ihm das Brot gegeben, das übrig war. „Sie haben mir damals geholfen, als niemand mich gesehen hat“, sagte er. „Jetzt habe ich Arbeit und eine Wohnung. Ich zahle nur zurück.“ Frau Hinrichs schüttelte den Kopf und gab ihm den Umschlag zurück. „Behalt dein Geld“, sagte sie. „Aber komm am Montag zum Frühstück. Durch die Tür, bitte.“"
+      ],
+      "english": [
+        [
+          "Every Monday morning, when Frau Hinrichs unlocked her little bakery in Bremen, she found an envelope under the door.",
+          "Inside there was always a ten-euro note and a slip of paper with a single word: \"Thank you.\"",
+          "It had been going on for four months.",
+          "Her staff had lots of theories.",
+          "\"A secret admirer,\" said one.",
+          "\"Someone with a guilty conscience,\" said the other."
+        ],
+        [
+          "Frau Hinrichs wanted to know.",
+          "On the night before Monday she sat in her car opposite the bakery with a flask of coffee.",
+          "At half past three a young man came on a bike.",
+          "He was wearing the jacket of a delivery service.",
+          "Quietly he pushed the envelope under the door and was about to ride off again.",
+          "\"Wait!\" she called, getting out of the car."
+        ],
+        [
+          "The man jumped, and then she recognised him.",
+          "Five years earlier he had often sat outside the bakery in winter, with no home and no money.",
+          "Every evening she had given him the bread that was left over.",
+          "\"You helped me back then, when nobody saw me,\" he said.",
+          "\"Now I have a job and a flat. I'm just paying it back.\"",
+          "Frau Hinrichs shook her head and gave him back the envelope.",
+          "\"Keep your money,\" she said.",
+          "\"But come for breakfast on Monday. Through the door, please.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "aufschloss", "gloss": "unlocked" },
+        { "word": "Zehneuroschein", "gloss": "ten-euro note" },
+        { "word": "Angestellten", "gloss": "staff, employees" },
+        { "word": "heimlicher Verehrer", "gloss": "secret admirer" },
+        { "word": "schlechtem Gewissen", "gloss": "guilty conscience" },
+        { "word": "gegenüber", "gloss": "opposite" },
+        { "word": "Lieferdienstes", "gloss": "delivery service" },
+        { "word": "schob", "gloss": "pushed" },
+        { "word": "erschrak", "gloss": "got a fright" },
+        { "word": "übrig", "gloss": "left over" },
+        { "word": "Behalt", "gloss": "keep" }
+      ]
+    },
+    {
+      "id": "de-b1-15",
+      "title": "Notizen am Rand",
+      "subtitle": "Notes in the margin",
+      "topic": "Love",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Nils arbeitete seit drei Jahren in der Universitätsbibliothek in Heidelberg. Eines Tages fand er in einem zurückgegebenen Roman eine Notiz mit Bleistift am Rand: „Der Held ist ein Idiot. Sie hätte den Bäcker heiraten sollen.“ Nils musste lachen. Eigentlich war es verboten, in Bücher zu schreiben, aber er radierte die Notiz nicht weg.",
+        "Stattdessen schrieb er darunter: „Ganz Ihrer Meinung. Der Bäcker hatte die besseren Argumente.“ Er stellte das Buch wieder ins Regal. Bald war es wieder ausgeliehen, und als es zurückkam, stand eine neue Notiz darin: „Endlich jemand mit Geschmack. Nächstes Buch: Regal sieben, ganz oben.“ Monatelang schrieben sie sich so, in Krimis, in Gedichtbänden und sogar in einem Atlas.",
+        "Im Dezember stand in einem Kochbuch: „Wollen wir uns endlich treffen? Freitag, achtzehn Uhr, auf der Alten Brücke.“ Nils war schrecklich nervös. Am Freitag wartete er im Schnee auf der Brücke. Um sechs kam Frau Albers, die Kollegin aus dem Lesesaal, die er jeden Tag grüßte, aber mit der er nie mehr als drei Sätze gesprochen hatte. Sie hielt einen Bleistift in der Hand. „Ich wusste es schon seit August“, sagte sie. „Du machst beim Schreiben immer so ein komisches Gesicht.“"
+      ],
+      "english": [
+        [
+          "Nils had been working at the university library in Heidelberg for three years.",
+          "One day, in a returned novel, he found a note in pencil in the margin: \"The hero is an idiot. She should have married the baker.\"",
+          "Nils had to laugh.",
+          "Strictly speaking it was forbidden to write in books, but he didn't rub the note out."
+        ],
+        [
+          "Instead he wrote underneath: \"I quite agree. The baker had the better arguments.\"",
+          "He put the book back on the shelf.",
+          "Soon it was borrowed again, and when it came back there was a new note in it: \"At last, someone with taste. Next book: shelf seven, right at the top.\"",
+          "For months they wrote to each other like this, in crime novels, in poetry collections and even in an atlas."
+        ],
+        [
+          "In December a cookbook said: \"Shall we finally meet? Friday, six p.m., on the Old Bridge.\"",
+          "Nils was terribly nervous.",
+          "On Friday he waited on the bridge in the snow.",
+          "At six along came Frau Albers, the colleague from the reading room whom he greeted every day but had never exchanged more than three sentences with.",
+          "She was holding a pencil.",
+          "\"I've known since August,\" she said.",
+          "\"You always pull such a funny face when you write.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "zurückgegebenen", "gloss": "returned" },
+        { "word": "Bleistift", "gloss": "pencil" },
+        { "word": "Rand", "gloss": "margin" },
+        { "word": "verboten", "gloss": "forbidden" },
+        { "word": "Stattdessen", "gloss": "instead" },
+        { "word": "Regal", "gloss": "shelf" },
+        { "word": "ausgeliehen", "gloss": "borrowed" },
+        { "word": "Geschmack", "gloss": "taste" },
+        { "word": "Gedichtbänden", "gloss": "poetry collections" },
+        { "word": "schrecklich", "gloss": "terribly" },
+        { "word": "Lesesaal", "gloss": "reading room" }
+      ]
+    }
+  ]
+}

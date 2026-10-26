@@ -1,0 +1,852 @@
+{
+  "language": "de",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "de-b2-01",
+      "title": "Lasst die Bänke stehen",
+      "subtitle": "Leave the benches alone",
+      "topic": "City",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Sehr geehrte Redaktion, in Ihrer letzten Ausgabe habe ich gelesen, dass in unserem Bezirk bis zum Sommer zwanzig Parkbänke abgebaut werden sollen. Als Begründung wird angegeben, die Bänke würden zu selten benutzt und zu oft beschädigt. Außerdem hätten sich Anrainer über Lärm am Abend beschwert. Ich möchte dazu etwas sagen, denn ich sitze seit vielen Jahren auf einer dieser Bänke.",
+        "Es stimmt, dass man an manchen Tagen niemanden auf der Bank vor der Kirche sieht. Aber das bedeutet nicht, dass sie überflüssig ist. Für Menschen wie mich ist eine Bank so etwas wie eine Haltestelle: Ohne sie würde ich den Weg zum Markt gar nicht mehr schaffen. Ich gehe hundert Meter, ich setze mich, ich gehe weiter. Wenn man die Bänke entfernt, entfernt man auch uns aus dem Straßenbild.",
+        "Und was den Lärm betrifft: Natürlich sitzen dort abends auch junge Leute, und manchmal wird gelacht und Musik gehört. Ich gebe zu, dass es mich früher gestört hat. Inzwischen kenne ich einige von ihnen beim Namen. Ein junger Mann namens Emre hat mir im Winter die Einkäufe nach Hause getragen, als es glatt war. Eine Studentin hat mir erklärt, wie ich Fotos an meine Tochter in Kanada schicke. Wäre die Bank nicht gewesen, hätten wir uns nie kennengelernt.",
+        "Ich bitte die Bezirksvertretung deshalb, ihre Entscheidung noch einmal zu überdenken. Eine Bank ist kein Möbelstück, das man wegräumt, wenn es im Weg steht. Sie ist eine Einladung, stehen zu bleiben. Mit freundlichen Grüßen, Hermine Wallner, vierundachtzig Jahre alt, Wien-Ottakring."
+      ],
+      "english": [
+        [
+          "Dear Editor, in your last issue I read that twenty park benches in our district are to be removed by the summer.",
+          "The reason given is that the benches are used too rarely and damaged too often.",
+          "Residents had also complained, it says, about noise in the evenings.",
+          "I would like to say something about this, because I have been sitting on one of these benches for many years."
+        ],
+        [
+          "It's true that on some days you see nobody on the bench in front of the church.",
+          "But that doesn't mean it is superfluous.",
+          "For people like me a bench is something like a stop on the line: without it I wouldn't manage the walk to the market at all any more.",
+          "I walk a hundred metres, I sit down, I walk on.",
+          "If you remove the benches, you remove us from the streets as well."
+        ],
+        [
+          "And as far as the noise is concerned: of course young people sit there in the evenings too, and sometimes there is laughing and music.",
+          "I admit that it used to bother me.",
+          "By now I know some of them by name.",
+          "A young man called Emre carried my shopping home for me in winter when it was icy.",
+          "A student explained to me how to send photos to my daughter in Canada.",
+          "If it hadn't been for the bench, we would never have met."
+        ],
+        [
+          "I therefore ask the district council to reconsider its decision.",
+          "A bench is not a piece of furniture that you clear away when it's in the way.",
+          "It is an invitation to stop.",
+          "Yours sincerely, Hermine Wallner, aged eighty-four, Vienna-Ottakring."
+        ]
+      ],
+      "vocab": [
+        { "word": "abgebaut", "gloss": "removed, taken down" },
+        { "word": "Begründung", "gloss": "reason, justification" },
+        { "word": "beschädigt", "gloss": "damaged" },
+        { "word": "Anrainer", "gloss": "residents (Austrian)" },
+        { "word": "überflüssig", "gloss": "superfluous" },
+        { "word": "Straßenbild", "gloss": "streetscape, the streets" },
+        { "word": "was den Lärm betrifft", "gloss": "as far as the noise is concerned" },
+        { "word": "Ich gebe zu", "gloss": "I admit" },
+        { "word": "glatt", "gloss": "icy, slippery" },
+        { "word": "überdenken", "gloss": "reconsider" },
+        { "word": "Einladung", "gloss": "invitation" }
+      ]
+    },
+    {
+      "id": "de-b2-02",
+      "title": "Honig von der Bahnhofstraße",
+      "subtitle": "Honey from the Bahnhofstrasse",
+      "topic": "Nature",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Auf dem Dach einer Bank an der Zürcher Bahnhofstraße stehen sechs Bienenkästen. Sie gehören Corinne Gerber, achtunddreißig, die tagsüber als Informatikerin arbeitet und in ihrer Freizeit Stadtimkerin ist. Wir haben mit ihr über Honig, Nachbarn und Vorurteile gesprochen.",
+        "Frage: Frau Gerber, wie kommen Bienen auf das Dach einer Bank? Gerber: Ganz einfach, ich habe gefragt. Die Bank wollte etwas für die Umwelt tun, und ich suchte einen Standort. Am Anfang hatten einige Mitarbeitende Angst, gestochen zu werden. Inzwischen kommen sie in der Mittagspause aufs Dach und schauen den Bienen zu.",
+        "Frage: Ist die Luft in der Stadt nicht zu schmutzig für Bienen? Gerber: Das wird oft behauptet, aber es stimmt nicht. Der Honig wird regelmäßig im Labor untersucht, und er ist sauberer als mancher Honig vom Land. Auf dem Land gibt es oft riesige Felder mit nur einer einzigen Pflanze, und es werden Pestizide gespritzt. In der Stadt dagegen blühen das ganze Jahr über verschiedene Pflanzen: Linden in den Alleen, Kräuter auf Balkonen, Obstbäume in Hinterhöfen. Für eine Biene ist Zürich ein Buffet.",
+        "Frage: Und wie schmeckt der Honig von der Bahnhofstraße? Gerber: Jedes Jahr anders, und genau das gefällt mir. Letztes Jahr hat er nach Linde geschmeckt, dieses Jahr eher nach Klee. Die Bank verschenkt ihn übrigens an ihre Kunden. Ich finde es eine schöne Ironie, dass an einem Ort, wo sich den ganzen Tag alles um Geld dreht, etwas entsteht, das man nicht kaufen kann."
+      ],
+      "english": [
+        [
+          "On the roof of a bank on Zurich's Bahnhofstrasse there are six beehives.",
+          "They belong to Corinne Gerber, thirty-eight, who works as a computer scientist during the day and is an urban beekeeper in her free time.",
+          "We talked to her about honey, neighbours and prejudices."
+        ],
+        [
+          "Question: Ms Gerber, how do bees end up on the roof of a bank?",
+          "Gerber: Quite simply, I asked.",
+          "The bank wanted to do something for the environment, and I was looking for a site.",
+          "At first some of the staff were afraid of being stung.",
+          "Now they come up to the roof in their lunch break and watch the bees."
+        ],
+        [
+          "Question: Isn't the air in the city too dirty for bees?",
+          "Gerber: People often claim that, but it isn't true.",
+          "The honey is tested regularly in a laboratory, and it is cleaner than some honey from the countryside.",
+          "In the countryside there are often huge fields with just one single plant, and pesticides are sprayed.",
+          "In the city, by contrast, different plants flower all year round: lime trees in the avenues, herbs on balconies, fruit trees in back yards.",
+          "For a bee, Zurich is a buffet."
+        ],
+        [
+          "Question: And what does the honey from the Bahnhofstrasse taste like?",
+          "Gerber: Different every year, and that's exactly what I like.",
+          "Last year it tasted of lime blossom, this year more of clover.",
+          "The bank gives it away to its customers, by the way.",
+          "I find it a lovely irony that in a place where everything revolves around money all day long, something is made that you can't buy."
+        ]
+      ],
+      "vocab": [
+        { "word": "Bienenkästen", "gloss": "beehives" },
+        { "word": "Vorurteile", "gloss": "prejudices" },
+        { "word": "Standort", "gloss": "site, location" },
+        { "word": "Mitarbeitende", "gloss": "staff, employees" },
+        { "word": "gestochen", "gloss": "stung" },
+        { "word": "behauptet", "gloss": "claimed" },
+        { "word": "untersucht", "gloss": "tested, examined" },
+        { "word": "gespritzt", "gloss": "sprayed" },
+        { "word": "blühen", "gloss": "flower, bloom" },
+        { "word": "Klee", "gloss": "clover" },
+        { "word": "entsteht", "gloss": "is made, comes into being" }
+      ]
+    },
+    {
+      "id": "de-b2-03",
+      "title": "Die Wohnungsbesichtigung",
+      "subtitle": "The flat viewing",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Als Miriam am Samstag um elf in der Ungererstraße ankam, standen schon fünfzig Menschen vor dem Haus. Die Zweizimmerwohnung im dritten Stock war bezahlbar, hell und hatte einen Balkon, was in München fast an ein Wunder grenzte. Miriam hatte ihre Mappe dabei: Gehaltsnachweise, eine Bonitätsauskunft, ein Foto und einen Brief, in dem sie sich vorstellte. Die anderen hatten genau dieselben Mappen.",
+        "Die Besichtigung dauerte nur zehn Minuten. Der Makler sagte, man solle sich beeilen, die nächste Gruppe warte schon. Er erklärte, die Vormieterin ziehe in ein Seniorenheim, und die Wohnung werde im nächsten Monat frei. In der Küche stand eine alte Frau zwischen Umzugskartons. Während alle anderen die Steckdosen zählten und Fotos machten, bemerkte Miriam, dass die Tomatenpflanzen auf dem Balkon die Köpfe hängen ließen. Ohne nachzudenken, füllte sie ein Glas mit Wasser und goss sie.",
+        "„Die vergisst man immer beim Umziehen“, sagte die alte Frau leise. Miriam fragte, ob sie die Pflanzen mitnehmen dürfe, falls sie die Wohnung nicht bekomme. Die Frau lachte und meinte, im Heim gebe es keinen Balkon, also gern.",
+        "Drei Tage später rief der Makler an. Er sagte, eigentlich habe es Bewerber mit einem höheren Einkommen gegeben, aber die Eigentümerin habe sich für sie entschieden. Miriam verstand nicht ganz. „Die Eigentümerin?“, fragte sie. „Ja“, sagte der Makler etwas genervt, „die Dame in der Küche. Ihr gehört das ganze Haus. Sie hat gesagt, sie wolle jemanden, der sich um die Tomaten kümmert.“"
+      ],
+      "english": [
+        [
+          "When Miriam arrived in Ungererstraße at eleven on Saturday, fifty people were already standing outside the building.",
+          "The two-room flat on the third floor was affordable, bright and had a balcony, which in Munich bordered on a miracle.",
+          "Miriam had her folder with her: payslips, a credit report, a photo and a letter introducing herself.",
+          "The others had exactly the same folders."
+        ],
+        [
+          "The viewing lasted only ten minutes.",
+          "The estate agent said they should hurry, the next group was already waiting.",
+          "He explained that the previous tenant was moving into a retirement home and the flat would be free the following month.",
+          "In the kitchen an old woman stood among moving boxes.",
+          "While everyone else counted the sockets and took photos, Miriam noticed that the tomato plants on the balcony were drooping.",
+          "Without thinking, she filled a glass with water and watered them."
+        ],
+        [
+          "\"People always forget those when they move,\" the old woman said quietly.",
+          "Miriam asked whether she might take the plants if she didn't get the flat.",
+          "The woman laughed and said there was no balcony at the home, so by all means."
+        ],
+        [
+          "Three days later the agent called.",
+          "He said there had actually been applicants with a higher income, but the owner had chosen her.",
+          "Miriam didn't quite understand.",
+          "\"The owner?\" she asked.",
+          "\"Yes,\" said the agent, slightly irritated, \"the lady in the kitchen. She owns the whole building. She said she wanted someone who would look after the tomatoes.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "bezahlbar", "gloss": "affordable" },
+        { "word": "grenzte", "gloss": "bordered" },
+        { "word": "Mappe", "gloss": "folder" },
+        { "word": "Gehaltsnachweise", "gloss": "payslips" },
+        { "word": "Makler", "gloss": "estate agent" },
+        { "word": "Vormieterin", "gloss": "previous tenant (female)" },
+        { "word": "Seniorenheim", "gloss": "retirement home" },
+        { "word": "Steckdosen", "gloss": "sockets" },
+        { "word": "goss", "gloss": "watered" },
+        { "word": "Bewerber", "gloss": "applicants" },
+        { "word": "Einkommen", "gloss": "income" },
+        { "word": "kümmert", "gloss": "looks after" }
+      ]
+    },
+    {
+      "id": "de-b2-04",
+      "title": "Ein Plädoyer für das Bargeld",
+      "subtitle": "In defence of cash",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Neulich stand ich in einem Berliner Café an der Kasse und wollte mit einem Fünfeuroschein bezahlen. Die junge Frau hinter dem Tresen sah mich an, als hätte ich ihr eine Muschel angeboten. „Wir nehmen nur Karte“, sagte sie freundlich. Ich bezahlte mit dem Handy und ging, aber der Moment ließ mich nicht los.",
+        "Ich bin kein Feind der Digitalisierung. Kartenzahlung ist bequem, schnell und hygienisch, und niemand vermisst es, an der Kasse nach Kleingeld zu suchen. Trotzdem glaube ich, dass wir etwas verlieren würden, wenn das Bargeld verschwände. Jede digitale Zahlung hinterlässt eine Spur. Wer weiß, wo ich meinen Kaffee trinke, wann ich in die Apotheke gehe und wie viel ich für Geschenke ausgebe, weiß sehr viel über mich. Mit Münzen und Scheinen bleibt so etwas meine Privatsache.",
+        "Dazu kommt, dass nicht alle Menschen ein Konto oder ein Smartphone haben. Ältere Menschen, Obdachlose, Kinder: Für sie ist Bargeld oft die einfachste Art, am Alltag teilzunehmen. Und wenn das Netz ausfällt oder der Strom, ist man mit einem Zehner in der Tasche plötzlich wieder König.",
+        "Den wichtigsten Grund hat mir allerdings meine siebenjährige Tochter gezeigt. Sie spart seit Monaten für ein Fahrrad und zählt jeden Sonntag ihre Münzen. Sie weiß genau, wie schwer sechzig Euro sind, wörtlich und im übertragenen Sinn. Eine Zahl auf einem Bildschirm hätte ihr das nie beigebracht. Vielleicht sollten wir das Bargeld nicht wie ein Museumsstück behandeln, sondern wie einen Lehrer."
+      ],
+      "english": [
+        [
+          "Recently I was standing at the till in a Berlin café, wanting to pay with a five-euro note.",
+          "The young woman behind the counter looked at me as if I had offered her a seashell.",
+          "\"We only take cards,\" she said kindly.",
+          "I paid with my phone and left, but the moment stayed with me."
+        ],
+        [
+          "I am no enemy of digitalisation.",
+          "Paying by card is convenient, fast and hygienic, and nobody misses searching for small change at the till.",
+          "All the same, I believe we would lose something if cash disappeared.",
+          "Every digital payment leaves a trace.",
+          "Whoever knows where I drink my coffee, when I go to the chemist's and how much I spend on presents knows a great deal about me.",
+          "With coins and notes, that sort of thing stays my own business."
+        ],
+        [
+          "On top of that, not everyone has a bank account or a smartphone.",
+          "Older people, homeless people, children: for them cash is often the simplest way to take part in everyday life.",
+          "And when the network goes down, or the power, a tenner in your pocket suddenly makes you king again."
+        ],
+        [
+          "The most important reason, however, was shown to me by my seven-year-old daughter.",
+          "She has been saving for a bike for months and counts her coins every Sunday.",
+          "She knows exactly how heavy sixty euros are, literally and figuratively.",
+          "A number on a screen would never have taught her that.",
+          "Perhaps we should treat cash not like a museum piece, but like a teacher."
+        ]
+      ],
+      "vocab": [
+        { "word": "Tresen", "gloss": "counter" },
+        { "word": "Muschel", "gloss": "seashell" },
+        { "word": "ließ mich nicht los", "gloss": "stayed with me" },
+        { "word": "bequem", "gloss": "convenient" },
+        { "word": "verschwände", "gloss": "were to disappear" },
+        { "word": "hinterlässt", "gloss": "leaves behind" },
+        { "word": "Spur", "gloss": "trace" },
+        { "word": "Münzen", "gloss": "coins" },
+        { "word": "Obdachlose", "gloss": "homeless people" },
+        { "word": "ausfällt", "gloss": "goes down, fails" },
+        { "word": "wörtlich", "gloss": "literally" },
+        { "word": "übertragenen Sinn", "gloss": "figurative sense" }
+      ]
+    },
+    {
+      "id": "de-b2-05",
+      "title": "Brief an meine Enkelin",
+      "subtitle": "Letter to my granddaughter",
+      "topic": "Family",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Liebe Lena, deine Mutter hat mich gestern angerufen und mir erzählt, dass du dein Jusstudium in Wien abbrechen und eine Tischlerlehre machen willst. Sie war ziemlich aufgeregt und meinte, ich solle dir das ausreden. Du hättest nur noch drei Semester vor dir, und ein Studium werfe man nicht einfach weg. Ich habe ihr versprochen, dir zu schreiben. Ich halte mein Versprechen, aber vielleicht nicht so, wie sie es sich vorgestellt hat.",
+        "Als ich so alt war wie du, wollte ich Tischler werden. Ich habe stundenlang in der Werkstatt meines Onkels in der Annenstraße gesessen und den Geruch von Holz eingeatmet. Aber mein Vater sagte, ein Handwerk sei nichts für einen klugen Buben, und so wurde ich Beamter bei der Landesregierung. Ich war kein unglücklicher Beamter. Aber ich habe mich vierzig Jahre lang gefragt, wie mein Leben ausgesehen hätte, wenn ich damals Nein gesagt hätte.",
+        "Erinnerst du dich an den kleinen Tisch in meinem Wohnzimmer, auf dem immer das Schachbrett steht? Den habe ich nach meiner Pensionierung selbst gebaut. Er wackelt ein bisschen, und eine Ecke ist schief. Ich bin trotzdem stolzer auf ihn als auf alle Akten, die ich je unterschrieben habe.",
+        "Ich werde deiner Mutter also sagen, dass ich mit dir gesprochen habe. Ich werde ihr nicht sagen, dass ich dir mein Werkzeug vermachen möchte. Es liegt im Keller und wartet auf jemanden, der es besser benutzt als ich. Komm mich bald in Graz besuchen, dann zeige ich es dir. Dein Opa Ferdinand"
+      ],
+      "english": [
+        [
+          "Dear Lena, your mother rang me yesterday and told me that you want to drop out of your law degree in Vienna and do a carpentry apprenticeship.",
+          "She was rather upset and said I should talk you out of it.",
+          "You only had three semesters left, she said, and you don't just throw a degree away.",
+          "I promised her I would write to you.",
+          "I'm keeping my promise, but perhaps not in the way she imagined."
+        ],
+        [
+          "When I was your age, I wanted to be a carpenter.",
+          "I sat for hours in my uncle's workshop on Annenstraße breathing in the smell of wood.",
+          "But my father said a trade was no job for a clever boy, and so I became a civil servant with the provincial government.",
+          "I was not an unhappy civil servant.",
+          "But for forty years I wondered what my life would have looked like if I had said no back then."
+        ],
+        [
+          "Do you remember the little table in my living room that the chessboard always stands on?",
+          "I built it myself after I retired.",
+          "It wobbles a little, and one corner is crooked.",
+          "All the same, I'm prouder of it than of all the files I ever signed."
+        ],
+        [
+          "So I will tell your mother that I have spoken to you.",
+          "I will not tell her that I want to leave you my tools.",
+          "They're in the cellar, waiting for someone who will use them better than I did.",
+          "Come and visit me in Graz soon, and I'll show them to you.",
+          "Your Grandpa Ferdinand"
+        ]
+      ],
+      "vocab": [
+        { "word": "Jusstudium", "gloss": "law degree (Austrian)" },
+        { "word": "abbrechen", "gloss": "drop out of, break off" },
+        { "word": "Tischlerlehre", "gloss": "carpentry apprenticeship" },
+        { "word": "ausreden", "gloss": "talk out of" },
+        { "word": "Werkstatt", "gloss": "workshop" },
+        { "word": "eingeatmet", "gloss": "breathed in" },
+        { "word": "Handwerk", "gloss": "trade, craft" },
+        { "word": "Beamter", "gloss": "civil servant" },
+        { "word": "Pensionierung", "gloss": "retirement" },
+        { "word": "wackelt", "gloss": "wobbles" },
+        { "word": "schief", "gloss": "crooked" },
+        { "word": "vermachen", "gloss": "leave, bequeath" }
+      ]
+    },
+    {
+      "id": "de-b2-06",
+      "title": "Das Störsignal",
+      "subtitle": "The interference",
+      "topic": "Science",
+      "symbol": "flask.fill",
+      "paragraphs": [
+        "Seit drei Monaten versuchte Jana, Doktorandin am Physikalischen Institut in Göttingen, eine winzige Schwingung in einem Kristall zu messen. Der Versuch war sorgfältig geplant worden, die Geräte waren neu, und trotzdem zeigten die Daten jeden Tag dasselbe Rätsel: Um vierzehn Uhr zwölf erschien ein Störsignal, so stark, dass alle Messungen unbrauchbar wurden. Es kam pünktlich, als hätte jemand einen Wecker gestellt.",
+        "Sie prüfte alles. Die Kabel wurden ausgetauscht, der Tisch wurde mit Gummi gedämpft, der Raum wurde verdunkelt. Ihr Betreuer, Professor Albrecht, vermutete, es liege an den Lastwagen, die am Nachmittag Waren in die Mensa brächten. Eine Kollegin meinte, es könnte ein Funknetz sein. Nichts davon erklärte, warum das Signal auf die Minute genau kam, auch am Wochenende.",
+        "An einem Samstag beschloss Jana, um vierzehn Uhr im Labor zu bleiben und einfach zuzuhören. Um vierzehn Uhr elf hörte sie Schritte im Flur. Eine Tür ging auf, dann kam aus dem Nebenraum ein lautes Zischen und Brummen. Jana öffnete die Tür. Dort stand Professor Albrecht vor einer großen italienischen Espressomaschine, die er im Herbst für sein Büro gekauft hatte. „Ich trinke meinen Kaffee immer nach dem Mittagessen“, sagte er. „Auch samstags. Warum?“",
+        "Die Maschine wurde noch am selben Tag in die Teeküche im Erdgeschoss gebracht. Von da an funktionierten die Messungen perfekt. In Janas Doktorarbeit steht heute eine Fußnote, die bei jeder Präsentation für Gelächter sorgt: „Die Autorin dankt ihrem Betreuer für seine Unterstützung und bittet ihn, in Zukunft Tee zu trinken.“"
+      ],
+      "english": [
+        [
+          "For three months Jana, a doctoral student at the Institute of Physics in Göttingen, had been trying to measure a tiny vibration in a crystal.",
+          "The experiment had been carefully planned, the equipment was new, and yet every day the data showed the same puzzle: at twelve minutes past two an interference signal appeared, so strong that all the measurements became useless.",
+          "It came on time, as if someone had set an alarm clock."
+        ],
+        [
+          "She checked everything.",
+          "The cables were replaced, the table was damped with rubber, the room was darkened.",
+          "Her supervisor, Professor Albrecht, suspected it was due to the lorries that delivered goods to the canteen in the afternoon.",
+          "A colleague thought it might be a wireless network.",
+          "None of it explained why the signal came to the exact minute, even at weekends."
+        ],
+        [
+          "One Saturday Jana decided to stay in the lab at two o'clock and simply listen.",
+          "At eleven minutes past two she heard footsteps in the corridor.",
+          "A door opened, then a loud hissing and humming came from the next room.",
+          "Jana opened the door.",
+          "There stood Professor Albrecht in front of a large Italian espresso machine that he had bought for his office in the autumn.",
+          "\"I always drink my coffee after lunch,\" he said.",
+          "\"Saturdays too. Why?\""
+        ],
+        [
+          "The machine was moved to the kitchenette on the ground floor that same day.",
+          "From then on the measurements worked perfectly.",
+          "Jana's thesis now contains a footnote that gets a laugh at every presentation: \"The author thanks her supervisor for his support and asks him to drink tea in future.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "Doktorandin", "gloss": "doctoral student (female)" },
+        { "word": "winzige", "gloss": "tiny" },
+        { "word": "Schwingung", "gloss": "vibration, oscillation" },
+        { "word": "sorgfältig", "gloss": "carefully" },
+        { "word": "Rätsel", "gloss": "puzzle" },
+        { "word": "Störsignal", "gloss": "interference signal" },
+        { "word": "unbrauchbar", "gloss": "useless" },
+        { "word": "gedämpft", "gloss": "damped" },
+        { "word": "Betreuer", "gloss": "supervisor" },
+        { "word": "vermutete", "gloss": "suspected" },
+        { "word": "Zischen", "gloss": "hissing" },
+        { "word": "Gelächter", "gloss": "laughter" }
+      ]
+    },
+    {
+      "id": "de-b2-07",
+      "title": "Die Landärztin",
+      "subtitle": "The country doctor",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Seit einem Jahr führt Katharina Lenz, einunddreißig, die einzige Hausarztpraxis in Friedrichswalde, einem Dorf in der Uckermark mit vierhundert Einwohnern. Ihr Vorgänger hatte fünf Jahre lang nach einer Nachfolgerin gesucht. Wir haben sie gefragt, warum sie sich für das Land entschieden hat.",
+        "Frage: Frau Lenz, viele junge Ärztinnen und Ärzte wollen lieber in der Stadt arbeiten. Warum Sie nicht? Lenz: Ich habe vorher in einer großen Klinik in Berlin gearbeitet. Dort habe ich jeden Tag Dutzende Patienten gesehen, aber keinen wirklich kennengelernt. Hier weiß ich, wer mit wem verheiratet ist, wer allein lebt und wessen Hund krank ist. Das klingt nach Dorfklatsch, aber für die Medizin ist es Gold wert.",
+        "Frage: Was war am Anfang am schwierigsten? Lenz: Ehrlich gesagt, das Vertrauen. Man hatte mir gesagt, die Leute hier seien skeptisch gegenüber Fremden, und das stimmte. In den ersten Wochen kamen viele nur, um sich die Neue anzusehen. Ein älterer Bauer hat mich gefragt, ob ich überhaupt schon volljährig sei. Inzwischen bringt er mir jeden Freitag Eier.",
+        "Frage: Würden Sie jungen Kolleginnen raten, aufs Land zu gehen? Lenz: Ja, aber nicht aus Pflichtgefühl. Man sollte es tun, weil es ein gutes Leben ist. Ich arbeite viel, das stimmt, aber ich fahre mit dem Fahrrad zu Hausbesuchen, durch Felder voller Kraniche. Mein Vorgänger hat mir am letzten Tag gesagt, er habe sich in vierzig Jahren keinen einzigen Tag gelangweilt. Damals habe ich ihm nicht geglaubt. Heute schon."
+      ],
+      "english": [
+        [
+          "For a year Katharina Lenz, thirty-one, has been running the only GP practice in Friedrichswalde, a village of four hundred inhabitants in the Uckermark.",
+          "Her predecessor had spent five years looking for a successor.",
+          "We asked her why she chose the countryside."
+        ],
+        [
+          "Question: Ms Lenz, many young doctors would rather work in the city.",
+          "Why not you?",
+          "Lenz: Before this I worked in a big hospital in Berlin.",
+          "There I saw dozens of patients every day but never really got to know any of them.",
+          "Here I know who is married to whom, who lives alone and whose dog is ill.",
+          "That sounds like village gossip, but for medicine it's worth its weight in gold."
+        ],
+        [
+          "Question: What was hardest at the beginning?",
+          "Lenz: To be honest, trust.",
+          "I had been told that people here were sceptical of strangers, and that was true.",
+          "In the first weeks many came only to have a look at the new doctor.",
+          "An elderly farmer asked me whether I was even of age yet.",
+          "Now he brings me eggs every Friday."
+        ],
+        [
+          "Question: Would you advise young colleagues to go to the country?",
+          "Lenz: Yes, but not out of a sense of duty.",
+          "You should do it because it's a good life.",
+          "I work a lot, that's true, but I cycle to house calls through fields full of cranes.",
+          "On his last day my predecessor told me that in forty years he hadn't been bored for a single day.",
+          "At the time I didn't believe him.",
+          "Now I do."
+        ]
+      ],
+      "vocab": [
+        { "word": "Hausarztpraxis", "gloss": "GP practice" },
+        { "word": "Einwohnern", "gloss": "inhabitants" },
+        { "word": "Vorgänger", "gloss": "predecessor" },
+        { "word": "Nachfolgerin", "gloss": "successor (female)" },
+        { "word": "Dutzende", "gloss": "dozens" },
+        { "word": "Dorfklatsch", "gloss": "village gossip" },
+        { "word": "Gold wert", "gloss": "worth its weight in gold" },
+        { "word": "Vertrauen", "gloss": "trust" },
+        { "word": "volljährig", "gloss": "of age, an adult" },
+        { "word": "Pflichtgefühl", "gloss": "sense of duty" },
+        { "word": "Hausbesuchen", "gloss": "house calls" },
+        { "word": "Kraniche", "gloss": "cranes (birds)" }
+      ]
+    },
+    {
+      "id": "de-b2-08",
+      "title": "Die Falschmeldung",
+      "subtitle": "The false report",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "Am Dienstag erschien in der Lokalzeitung einer Kleinstadt im Breisgau eine kurze Meldung: Die alte Linde auf dem Marktplatz solle im Frühjahr gefällt werden, weil sie krank sei. Der Artikel war nur zehn Zeilen lang und stand auf Seite sieben, zwischen einer Anzeige für Gartenmöbel und dem Wetterbericht. Trotzdem wurde er bis zum Abend hunderte Male in sozialen Netzwerken geteilt.",
+        "Am Mittwoch standen dreihundert Menschen auf dem Marktplatz. Kinder hatten Herzen aus Papier an den Stamm geklebt, und ein Rentner hielt ein Schild hoch, auf dem stand, unter diesem Baum habe er seiner Frau einen Heiratsantrag gemacht. Der Bürgermeister wurde von Journalisten bedrängt und wirkte überrascht. Er erklärte, er wisse von keinem solchen Beschluss.",
+        "Am Donnerstag musste die Zeitung eine Korrektur drucken. Der junge Volontär, der den Artikel geschrieben hatte, hatte zwei Dokumente verwechselt: Gefällt werden sollte nicht die Linde in der Stadt, sondern eine Pappel an einer Landstraße in einem anderen Dorf. Die Chefredakteurin entschuldigte sich öffentlich, und der Volontär rechnete damit, entlassen zu werden.",
+        "Doch dann geschah etwas Unerwartetes. Weil nun so viele Leute auf die Linde schauten, ließ die Stadt sie von einem Experten untersuchen. Das Ergebnis: Der Baum war tatsächlich krank, ein Pilz hatte sich in seinem Inneren ausgebreitet. Ohne Behandlung hätte er wohl nur noch zwei Jahre überlebt. Die Linde wurde gerettet, und die Behandlung wurde mit Spenden der Bürger bezahlt. Der Volontär bekam einen festen Vertrag – mit der Bitte, Dokumente in Zukunft zweimal zu lesen."
+      ],
+      "english": [
+        [
+          "On Tuesday a short report appeared in the local paper of a small town in the Breisgau: the old lime tree on the market square was to be felled in spring because it was diseased.",
+          "The article was only ten lines long and was on page seven, between an advert for garden furniture and the weather report.",
+          "Nevertheless, by the evening it had been shared hundreds of times on social media."
+        ],
+        [
+          "On Wednesday three hundred people were standing on the market square.",
+          "Children had stuck paper hearts to the trunk, and a pensioner held up a sign saying that he had proposed to his wife under this tree.",
+          "The mayor was besieged by journalists and seemed surprised.",
+          "He stated that he knew of no such decision."
+        ],
+        [
+          "On Thursday the paper had to print a correction.",
+          "The young trainee who had written the article had mixed up two documents: what was to be felled was not the lime tree in the town but a poplar beside a country road in another village.",
+          "The editor-in-chief apologised publicly, and the trainee expected to be fired."
+        ],
+        [
+          "But then something unexpected happened.",
+          "Because so many people were now looking at the lime tree, the town had it examined by an expert.",
+          "The result: the tree really was diseased; a fungus had spread inside it.",
+          "Without treatment it would probably have survived only two more years.",
+          "The lime tree was saved, and the treatment was paid for with donations from the townspeople.",
+          "The trainee got a permanent contract – with the request that in future he read documents twice."
+        ]
+      ],
+      "vocab": [
+        { "word": "Meldung", "gloss": "report, news item" },
+        { "word": "gefällt", "gloss": "felled" },
+        { "word": "Anzeige", "gloss": "advert" },
+        { "word": "geteilt", "gloss": "shared" },
+        { "word": "Stamm", "gloss": "trunk" },
+        { "word": "Heiratsantrag", "gloss": "marriage proposal" },
+        { "word": "bedrängt", "gloss": "besieged, pressed" },
+        { "word": "Beschluss", "gloss": "decision, resolution" },
+        { "word": "Volontär", "gloss": "trainee journalist" },
+        { "word": "verwechselt", "gloss": "mixed up" },
+        { "word": "entlassen", "gloss": "fired, dismissed" },
+        { "word": "Pilz", "gloss": "fungus" }
+      ]
+    },
+    {
+      "id": "de-b2-09",
+      "title": "Vier Uhr früh in Basel",
+      "subtitle": "Four in the morning in Basel",
+      "topic": "Celebrations",
+      "symbol": "theatermasks.fill",
+      "paragraphs": [
+        "Ihre Nachbarin hatte Ines gewarnt: Sie solle den Wecker auf drei Uhr stellen, sich warm anziehen und auf keinen Fall eine Taschenlampe mitnehmen. Ines war erst im Herbst aus Stuttgart nach Basel gezogen und hielt das Ganze für einen Scherz. Wer stand schon mitten in der Nacht auf, um im Februar in der Kälte zu stehen? Aber die Neugier war stärker.",
+        "Kurz vor vier stand sie mit Tausenden anderen in der Altstadt. Niemand sprach laut. Dann, genau um vier Uhr, gingen in der ganzen Innenstadt die Lichter aus. Ein Kommando ertönte, und plötzlich war die Dunkelheit voller Musik: Piccoloflöten, Trommeln und große, von innen beleuchtete Laternen, die langsam durch die engen Gassen getragen wurden. Die Menschen darunter trugen Masken mit riesigen Nasen. Ines bekam eine Gänsehaut, und es lag nicht an der Kälte.",
+        "Später, bei einer Mehlsuppe in einem überfüllten Restaurant, erklärte ihr die Nachbarin die Regeln. Zuschauer verkleideten sich nicht, das sei etwas für den Karneval in Deutschland. Die Fasnacht gehöre den Cliquen, die das ganze Jahr übten und ihre Laternen selbst bemalten. Und man solle nie, wirklich nie, „Helau“ rufen.",
+        "Ines hörte drei Tage lang die Piccolos, sogar im Traum. Im März fragte sie ihre Nachbarin, ob eine Clique auch Anfängerinnen aus Stuttgart aufnehme. Die Nachbarin lächelte und holte ein kleines Instrument aus der Schublade. „Ich dachte schon, du fragst nie“, sagte sie. „Wir proben dienstags. Und Piccolo lernt man in ungefähr zehn Jahren.“"
+      ],
+      "english": [
+        [
+          "Her neighbour had warned Ines: she should set her alarm for three, dress warmly and on no account bring a torch.",
+          "Ines had only moved from Stuttgart to Basel in the autumn and thought the whole thing was a joke.",
+          "Who would get up in the middle of the night to stand in the cold in February?",
+          "But curiosity won."
+        ],
+        [
+          "Shortly before four she was standing in the old town with thousands of others.",
+          "Nobody spoke loudly.",
+          "Then, at exactly four o'clock, the lights went out all over the city centre.",
+          "A command rang out, and suddenly the darkness was full of music: piccolos, drums and large lanterns lit from inside, carried slowly through the narrow lanes.",
+          "The people beneath them wore masks with enormous noses.",
+          "Ines got goosebumps, and it wasn't because of the cold."
+        ],
+        [
+          "Later, over flour soup in a packed restaurant, her neighbour explained the rules.",
+          "Spectators didn't dress up, she said; that was something for carnival in Germany.",
+          "Fasnacht belonged to the cliques, who practised all year and painted their own lanterns.",
+          "And you should never, ever shout \"Helau\"."
+        ],
+        [
+          "For three days Ines heard the piccolos, even in her dreams.",
+          "In March she asked her neighbour whether a clique would also take beginners from Stuttgart.",
+          "The neighbour smiled and took a small instrument out of a drawer.",
+          "\"I thought you'd never ask,\" she said.",
+          "\"We rehearse on Tuesdays. And it takes about ten years to learn the piccolo.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "Scherz", "gloss": "joke" },
+        { "word": "Neugier", "gloss": "curiosity" },
+        { "word": "ertönte", "gloss": "rang out" },
+        { "word": "Trommeln", "gloss": "drums" },
+        { "word": "beleuchtete", "gloss": "lit" },
+        { "word": "Gassen", "gloss": "lanes, alleys" },
+        { "word": "Gänsehaut", "gloss": "goosebumps" },
+        { "word": "überfüllten", "gloss": "packed" },
+        { "word": "verkleideten sich", "gloss": "dressed up" },
+        { "word": "Cliquen", "gloss": "carnival groups (Basel)" },
+        { "word": "Schublade", "gloss": "drawer" },
+        { "word": "proben", "gloss": "rehearse" }
+      ]
+    },
+    {
+      "id": "de-b2-10",
+      "title": "Zehn Minuten mit der Pfeife",
+      "subtitle": "Ten minutes with the whistle",
+      "topic": "Sport",
+      "symbol": "figure.soccer",
+      "paragraphs": [
+        "Jeden Sonntag pfiff Ahmet Spiele der Jugendmannschaften in Dortmund, ehrenamtlich, für fünfzehn Euro Aufwandsentschädigung. Er liebte den Fußball, aber nicht die Eltern am Spielfeldrand. Besonders schlimm war es an diesem Morgen in Hombruch. Bei den Zwölfjährigen stand es eins zu eins, und ein Vater in einer gelben Regenjacke kommentierte jede Entscheidung so laut, dass man ihn bis zum Parkplatz hörte.",
+        "Nach einem Foul, das Ahmet nicht gepfiffen hatte, schrie der Mann, er sei blind und solle sich eine Brille kaufen. Einige Eltern lachten. Ein Junge auf dem Platz senkte verlegen den Kopf, offenbar sein Sohn. Ahmet unterbrach das Spiel. Er ging ruhig zum Spielfeldrand, nahm seine Pfeife ab und hielt sie dem Mann hin. „Bitte“, sagte er. „Zehn Minuten. Wenn Sie es besser können, machen Sie.“",
+        "Der Mann zögerte, aber alle schauten ihn an, also nahm er die Pfeife. In den nächsten zehn Minuten wurde er von beiden Seiten angeschrien. Er übersah ein Handspiel, pfiff ein Abseits, das keines war, und wusste bei einem Zweikampf im Strafraum überhaupt nicht, was er tun sollte. Sein Gesicht wurde immer röter. Sein Sohn dagegen grinste zum ersten Mal an diesem Tag.",
+        "Nach zehn Minuten kam der Mann zurück und gab Ahmet die Pfeife. „Das ist ja Wahnsinn“, murmelte er. „Man sieht ja gar nichts da drinnen.“ Den Rest des Spiels sagte er kein Wort. Am folgenden Mittwoch bekam der Verein eine Anmeldung für den nächsten Schiedsrichterlehrgang. Der Name darauf: Frank Wieczorek, Vater eines Linksverteidigers."
+      ],
+      "english": [
+        [
+          "Every Sunday Ahmet refereed youth matches in Dortmund, as a volunteer, for fifteen euros in expenses.",
+          "He loved football, but not the parents on the touchline.",
+          "It was particularly bad that morning in Hombruch.",
+          "In the under-twelves it was one all, and a father in a yellow raincoat commented on every decision so loudly that you could hear him in the car park."
+        ],
+        [
+          "After a foul that Ahmet hadn't given, the man shouted that he was blind and should buy himself some glasses.",
+          "Some parents laughed.",
+          "A boy on the pitch lowered his head in embarrassment, evidently his son.",
+          "Ahmet stopped the game.",
+          "He walked calmly to the touchline, took off his whistle and held it out to the man.",
+          "\"Here you go,\" he said.",
+          "\"Ten minutes. If you can do it better, go ahead.\""
+        ],
+        [
+          "The man hesitated, but everyone was looking at him, so he took the whistle.",
+          "For the next ten minutes he was shouted at from both sides.",
+          "He missed a handball, blew for an offside that wasn't one, and had no idea at all what to do about a tackle in the penalty area.",
+          "His face got redder and redder.",
+          "His son, on the other hand, grinned for the first time that day."
+        ],
+        [
+          "After ten minutes the man came back and gave Ahmet the whistle.",
+          "\"That's crazy,\" he muttered.",
+          "\"You can't see a thing in there.\"",
+          "He didn't say a word for the rest of the game.",
+          "The following Wednesday the club received an application for the next referees' course.",
+          "The name on it: Frank Wieczorek, father of a left-back."
+        ]
+      ],
+      "vocab": [
+        { "word": "pfiff", "gloss": "refereed, blew the whistle" },
+        { "word": "ehrenamtlich", "gloss": "as a volunteer" },
+        { "word": "Aufwandsentschädigung", "gloss": "expenses allowance" },
+        { "word": "Spielfeldrand", "gloss": "touchline" },
+        { "word": "verlegen", "gloss": "embarrassed" },
+        { "word": "unterbrach", "gloss": "stopped, interrupted" },
+        { "word": "zögerte", "gloss": "hesitated" },
+        { "word": "übersah", "gloss": "missed, overlooked" },
+        { "word": "Abseits", "gloss": "offside" },
+        { "word": "Strafraum", "gloss": "penalty area" },
+        { "word": "murmelte", "gloss": "muttered" },
+        { "word": "Schiedsrichterlehrgang", "gloss": "referees' course" }
+      ]
+    },
+    {
+      "id": "de-b2-11",
+      "title": "Der Dorfladen",
+      "subtitle": "The village shop",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Als im Januar der letzte Laden in Oberweiler schloss, mussten die achthundert Einwohner für jedes Stück Butter acht Kilometer in die nächste Stadt fahren. Für Familien mit Auto war das lästig, für die Älteren ohne Auto ein echtes Problem. Die Gemeinde lud deshalb zu einer Bürgerversammlung in die Turnhalle ein. Das Thema: Kann ein Dorf seinen eigenen Laden betreiben?",
+        "Die Idee war eine Genossenschaft. Jeder Bürger sollte Anteile für hundert Euro kaufen können, und ehrenamtliche Helfer sollten beim Verkauf helfen. Die Diskussion wurde schnell hitzig. Ein Landwirt sagte, so etwas habe noch nie funktioniert. Ein junger Vater fragte, wer denn um sechs Uhr morgens Brötchen verkaufen wolle. Am lautesten war Herr Kübler, ein pensionierter Bankdirektor. Er rechnete vor, der Laden werde schon im ersten Jahr Verluste machen, und die Leute würden weiter im Supermarkt einkaufen, weil es dort billiger sei.",
+        "Dann stand Frau Seitz auf, dreiundneunzig Jahre alt, die mit einem Rollator gekommen war. Sie sagte, sie wolle nicht über Zahlen reden. Seit dem Januar habe sie keinen Menschen mehr zufällig getroffen. Früher habe sie im Laden jeden Tag mit jemandem gesprochen, jetzt komme nur noch der Pflegedienst. In der Turnhalle wurde es sehr still.",
+        "Herr Kübler räusperte sich. Dann zog er ein Scheckheft aus der Jacke, wahrscheinlich das letzte im ganzen Landkreis. Er sagte, seine Rechnung stimme trotzdem, aber manche Dinge stünden eben nicht in der Bilanz. Er kaufte zwanzig Anteile. Im Mai eröffnete der Dorfladen. An der Kasse sitzt dienstags ein pensionierter Bankdirektor, und er rechnet sehr genau."
+      ],
+      "english": [
+        [
+          "When the last shop in Oberweiler closed in January, the eight hundred inhabitants had to drive eight kilometres to the next town for every pat of butter.",
+          "For families with a car that was a nuisance; for older people without one it was a real problem.",
+          "The council therefore called a public meeting in the gym.",
+          "The question: can a village run its own shop?"
+        ],
+        [
+          "The idea was a cooperative.",
+          "Every resident would be able to buy shares at a hundred euros, and volunteers would help with the selling.",
+          "The discussion quickly became heated.",
+          "A farmer said that something like that had never worked.",
+          "A young father asked who on earth would want to sell bread rolls at six in the morning.",
+          "Loudest of all was Herr Kübler, a retired bank manager.",
+          "He calculated for them that the shop would make losses in its very first year, and people would carry on shopping at the supermarket because it was cheaper there."
+        ],
+        [
+          "Then Frau Seitz stood up, ninety-three years old, who had come with a walking frame.",
+          "She said she didn't want to talk about figures.",
+          "Since January, she said, she hadn't met a single person by chance.",
+          "In the past she had talked to someone in the shop every day; now only the care service came.",
+          "The gym went very quiet."
+        ],
+        [
+          "Herr Kübler cleared his throat.",
+          "Then he pulled a chequebook out of his jacket, probably the last one in the whole district.",
+          "He said his calculation was still correct, but some things simply weren't on the balance sheet.",
+          "He bought twenty shares.",
+          "In May the village shop opened.",
+          "On Tuesdays a retired bank manager sits at the till, and he counts very carefully."
+        ]
+      ],
+      "vocab": [
+        { "word": "lästig", "gloss": "a nuisance" },
+        { "word": "Bürgerversammlung", "gloss": "public meeting" },
+        { "word": "betreiben", "gloss": "run, operate" },
+        { "word": "Genossenschaft", "gloss": "cooperative" },
+        { "word": "Anteile", "gloss": "shares" },
+        { "word": "hitzig", "gloss": "heated" },
+        { "word": "Verluste", "gloss": "losses" },
+        { "word": "Rollator", "gloss": "walking frame" },
+        { "word": "zufällig", "gloss": "by chance" },
+        { "word": "Pflegedienst", "gloss": "care service" },
+        { "word": "räusperte sich", "gloss": "cleared his throat" },
+        { "word": "Bilanz", "gloss": "balance sheet" }
+      ]
+    },
+    {
+      "id": "de-b2-12",
+      "title": "Freitags frei",
+      "subtitle": "Fridays off",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Als unser Chef im letzten Herbst verkündete, dass unsere Werbeagentur in Hamburg ein halbes Jahr lang die Viertagewoche testen werde, haben wir gejubelt. Gleiches Gehalt, zweiunddreißig Stunden, freitags frei. Wer würde dazu Nein sagen? Ich hatte sofort Pläne: Segeln auf der Alster, endlich Spanisch lernen, lange Frühstücke mit meiner Tochter.",
+        "Die ersten Wochen waren allerdings anstrengender als gedacht. Die Arbeit von fünf Tagen musste ja in vier erledigt werden. Besprechungen wurden von einer Stunde auf zwanzig Minuten gekürzt, und wer zu spät kam, hatte Pech. Kollegen, die früher stundenlang in der Küche geplaudert hatten, aßen plötzlich am Schreibtisch. Einige fanden das effizient, andere vermissten die Gespräche, aus denen manchmal die besten Ideen entstanden waren.",
+        "Nach etwa zwei Monaten veränderte sich etwas. Wir hatten gelernt, Nein zu sagen: zu unnötigen Meetings, zu E-Mails mit zwanzig Personen in Kopie, zu Kunden, die abends um zehn anriefen. Die Krankmeldungen gingen deutlich zurück. Und am Freitag war ich so ausgeruht, dass ich tatsächlich mit dem Spanischkurs begann. Und beim langen Frühstück erzählte mir meine Tochter Dinge, die sie mir unter der Woche nie erzählt hätte.",
+        "Im Frühling wurden die Ergebnisse vorgestellt. Der Umsatz war gleich geblieben, die Zufriedenheit war gestiegen. Nur ein Kollege wollte zurück zur Fünftagewoche, weil ihm zu Hause die Decke auf den Kopf fiel. Der Chef erklärte, das Modell werde beibehalten. Dann gab er zu, dass er selbst freitags trotzdem ins Büro komme. Es sei dort so herrlich ruhig."
+      ],
+      "english": [
+        [
+          "When our boss announced last autumn that our advertising agency in Hamburg would trial the four-day week for six months, we cheered.",
+          "Same salary, thirty-two hours, Fridays off.",
+          "Who would say no to that?",
+          "I had plans at once: sailing on the Alster, finally learning Spanish, long breakfasts with my daughter."
+        ],
+        [
+          "The first few weeks, however, were more tiring than expected.",
+          "After all, five days' work had to be done in four.",
+          "Meetings were cut from an hour to twenty minutes, and anyone who came late was out of luck.",
+          "Colleagues who used to chat in the kitchen for hours suddenly ate at their desks.",
+          "Some found that efficient; others missed the conversations that the best ideas had sometimes come out of."
+        ],
+        [
+          "After about two months something changed.",
+          "We had learned to say no: to unnecessary meetings, to emails with twenty people in copy, to clients who called at ten in the evening.",
+          "Sick days went down noticeably.",
+          "And on Fridays I was so well rested that I actually started the Spanish course.",
+          "And over long breakfasts my daughter told me things she would never have told me during the week."
+        ],
+        [
+          "In spring the results were presented.",
+          "Turnover had stayed the same, and satisfaction had gone up.",
+          "Only one colleague wanted to go back to the five-day week, because he was going stir-crazy at home.",
+          "The boss announced that the model would be kept.",
+          "Then he admitted that he himself still came into the office on Fridays.",
+          "It was so wonderfully quiet there, he said."
+        ]
+      ],
+      "vocab": [
+        { "word": "verkündete", "gloss": "announced" },
+        { "word": "gejubelt", "gloss": "cheered" },
+        { "word": "Gehalt", "gloss": "salary" },
+        { "word": "erledigt", "gloss": "done, completed" },
+        { "word": "gekürzt", "gloss": "cut, shortened" },
+        { "word": "hatte Pech", "gloss": "was out of luck" },
+        { "word": "geplaudert", "gloss": "chatted" },
+        { "word": "Krankmeldungen", "gloss": "sick notes, sick days" },
+        { "word": "ausgeruht", "gloss": "rested" },
+        { "word": "Umsatz", "gloss": "turnover" },
+        { "word": "Zufriedenheit", "gloss": "satisfaction" },
+        { "word": "die Decke auf den Kopf fiel", "gloss": "was going stir-crazy" }
+      ]
+    },
+    {
+      "id": "de-b2-13",
+      "title": "Matura mit fünfzig",
+      "subtitle": "School-leaving exams at fifty",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Brigitte Hofer hatte mit fünfzehn die Schule verlassen, weil ihre Eltern meinten, ein Mädchen brauche keine Matura. Sie wurde Verkäuferin in einem Schuhgeschäft in Linz, heiratete, bekam zwei Kinder und vergaß den Traum fast. Fast. Als ihr jüngerer Sohn Lukas in die Maturaklasse kam, meldete sie sich heimlich bei der Abendschule an.",
+        "Zwei Jahre lang lernte sie nach der Arbeit, meistens am Küchentisch, wenn alle schliefen. Mathematik war eine Qual. Wenn sie eine Aufgabe nicht verstand, schrieb sie sie auf einen Zettel und legte ihn wie zufällig neben das Müsli ihres Sohnes. Lukas, der sich für ein Genie hielt, löste die Aufgaben nebenbei beim Frühstück und erklärte sie mit großer Geduld. Er wunderte sich nur, warum seine Mutter plötzlich so neugierig auf Integralrechnung war.",
+        "Im Mai wurde das Geheimnis gelüftet, und zwar auf die peinlichste Art. Am Tag der schriftlichen Mathematikprüfung saß Lukas in einem Gymnasium in der Innenstadt. Als er nach Hause kam, lag auf dem Tisch ein Zettel mit genau der Aufgabe, die er am Vormittag gelöst hatte, und darunter stand: „Danke, Schatz. Ich glaube, ich habe sie richtig.“ Lukas starrte den Zettel an. Dann ging ihm ein Licht auf: Die Abendschule hatte am selben Tag dieselbe zentrale Prüfung geschrieben.",
+        "Im Juni bekamen beide ihre Zeugnisse. Lukas hatte in Mathematik ein „Gut“. Seine Mutter hatte ein „Sehr gut“. Er behauptet bis heute, das liege nur an seiner hervorragenden Nachhilfe, und verlangt rückwirkend ein Honorar. Brigitte studiert inzwischen Geschichte an der Universität. Ihre Hausaufgaben macht sie jetzt allein."
+      ],
+      "english": [
+        [
+          "Brigitte Hofer had left school at fifteen because her parents thought a girl didn't need the Matura.",
+          "She became a sales assistant in a shoe shop in Linz, got married, had two children and almost forgot the dream.",
+          "Almost.",
+          "When her younger son Lukas went into the final year, she secretly enrolled at evening school."
+        ],
+        [
+          "For two years she studied after work, mostly at the kitchen table while everyone was asleep.",
+          "Maths was torture.",
+          "When she didn't understand a problem, she wrote it on a slip of paper and laid it, as if by chance, next to her son's muesli.",
+          "Lukas, who thought he was a genius, solved the problems in passing at breakfast and explained them with great patience.",
+          "He only wondered why his mother was suddenly so curious about integral calculus."
+        ],
+        [
+          "In May the secret was revealed, and in the most embarrassing way.",
+          "On the day of the written maths exam, Lukas sat in a grammar school in the city centre.",
+          "When he came home, on the table lay a note with exactly the problem he had solved that morning, and underneath it said: \"Thanks, darling. I think I got it right.\"",
+          "Lukas stared at the note.",
+          "Then the penny dropped: the evening school had sat the same national exam on the same day."
+        ],
+        [
+          "In June they both got their certificates.",
+          "Lukas got a \"Good\" in maths.",
+          "His mother got a \"Very good\".",
+          "To this day he claims that was only thanks to his excellent tutoring, and demands a fee retrospectively.",
+          "Brigitte is now studying history at university.",
+          "She does her homework on her own now."
+        ]
+      ],
+      "vocab": [
+        { "word": "Matura", "gloss": "school-leaving exam (Austria, Switzerland)" },
+        { "word": "heimlich", "gloss": "secretly" },
+        { "word": "Abendschule", "gloss": "evening school" },
+        { "word": "Qual", "gloss": "torture, agony" },
+        { "word": "Geduld", "gloss": "patience" },
+        { "word": "gelüftet", "gloss": "revealed" },
+        { "word": "peinlichste", "gloss": "most embarrassing" },
+        { "word": "ging ihm ein Licht auf", "gloss": "the penny dropped" },
+        { "word": "Zeugnisse", "gloss": "certificates, reports" },
+        { "word": "hervorragenden", "gloss": "excellent" },
+        { "word": "Nachhilfe", "gloss": "tutoring" },
+        { "word": "rückwirkend", "gloss": "retrospectively" }
+      ]
+    },
+    {
+      "id": "de-b2-14",
+      "title": "Der graue Nachbar",
+      "subtitle": "The grey neighbour",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Im März fand Schäfer Hinnerk Bode in der Lüneburger Heide drei tote Schafe hinter seinem Zaun. Die Spuren waren eindeutig: Es war ein Wolf gewesen. Zwei Tage später kam eine junge Frau vom Wolfsbüro des Landes, um den Schaden aufzunehmen. Sie hieß Svenja und war in Hannover aufgewachsen, und Hinnerk konnte sie vom ersten Moment an nicht leiden.",
+        "„Sie sitzen in der Stadt und finden den Wolf romantisch“, sagte er. „Ich stehe hier und sammle meine Schafe ein.“ Svenja widersprach nicht. Sie erklärte ihm, dass der Schaden ersetzt werde und dass das Land höhere Zäune und Herdenschutzhunde bezahle. Hinnerk lachte bitter. Einen Hund, der seine Schafe beschütze, habe er schon, sagte er, und der sei vierzehn und fast taub.",
+        "Trotzdem kam Svenja wieder. Sie half beim Aufstellen des neuen Elektrozauns, im Regen, bis zu den Knöcheln im Matsch. Im Sommer brachte sie zwei junge Pyrenäenberghunde, groß, weiß und ziemlich faul. Hinnerk war überzeugt, dass sie nichts taugen würden. Aber im September, an einem nebligen Morgen, hörte er sie bellen wie noch nie. Am Waldrand sah er einen grauen Schatten, der sich langsam zurückzog.",
+        "Seitdem hat Hinnerk kein Schaf mehr verloren. Er mag den Wolf immer noch nicht, und das sagt er jedem, der es hören will. Aber wenn jemand im Dorfkrug behauptet, man müsse alle Wölfe abschießen, wird er still. Einmal soll er sogar gesagt haben, der Wolf sei ja auch nur ein Nachbar, mit dem man klare Regeln brauche. Svenja kommt jetzt einmal im Monat zum Kaffee. Die Hunde begrüßen sie wie eine alte Freundin."
+      ],
+      "english": [
+        [
+          "In March the shepherd Hinnerk Bode found three dead sheep behind his fence on the Lüneburg Heath.",
+          "The tracks were unmistakable: it had been a wolf.",
+          "Two days later a young woman from the state's wolf office came to record the damage.",
+          "Her name was Svenja and she had grown up in Hanover, and Hinnerk couldn't stand her from the first moment."
+        ],
+        [
+          "\"You sit in the city and think the wolf is romantic,\" he said.",
+          "\"I stand here and gather up my sheep.\"",
+          "Svenja didn't contradict him.",
+          "She explained to him that the damage would be compensated and that the state would pay for higher fences and livestock guardian dogs.",
+          "Hinnerk laughed bitterly.",
+          "He already had a dog that protected his sheep, he said, and it was fourteen and nearly deaf."
+        ],
+        [
+          "All the same, Svenja came back.",
+          "She helped put up the new electric fence, in the rain, ankle-deep in mud.",
+          "In summer she brought two young Pyrenean mountain dogs, big, white and rather lazy.",
+          "Hinnerk was convinced they would be good for nothing.",
+          "But in September, on a foggy morning, he heard them bark as never before.",
+          "At the edge of the forest he saw a grey shadow slowly withdrawing."
+        ],
+        [
+          "Since then Hinnerk hasn't lost a single sheep.",
+          "He still doesn't like the wolf, and he tells anyone who will listen.",
+          "But when someone in the village pub claims all wolves should be shot, he goes quiet.",
+          "Once he is even said to have remarked that the wolf was just a neighbour, too, one you needed clear rules with.",
+          "Svenja now comes for coffee once a month.",
+          "The dogs greet her like an old friend."
+        ]
+      ],
+      "vocab": [
+        { "word": "Schäfer", "gloss": "shepherd" },
+        { "word": "Zaun", "gloss": "fence" },
+        { "word": "eindeutig", "gloss": "unmistakable" },
+        { "word": "Schaden", "gloss": "damage" },
+        { "word": "nicht leiden", "gloss": "couldn't stand" },
+        { "word": "widersprach", "gloss": "contradicted" },
+        { "word": "ersetzt", "gloss": "compensated" },
+        { "word": "Herdenschutzhunde", "gloss": "livestock guardian dogs" },
+        { "word": "taub", "gloss": "deaf" },
+        { "word": "Knöcheln", "gloss": "ankles" },
+        { "word": "taugen", "gloss": "be any good" },
+        { "word": "abschießen", "gloss": "shoot" }
+      ]
+    },
+    {
+      "id": "de-b2-15",
+      "title": "Die Gartenordnung",
+      "subtitle": "The garden rules",
+      "topic": "Free time",
+      "symbol": "tree.fill",
+      "paragraphs": [
+        "Als Jule und Tarek im April einen Kleingarten in der Kolonie „Sonnenhang“ in Leipzig übernahmen, bekamen sie zusammen mit dem Schlüssel eine Gartenordnung von zwölf Seiten. Darin stand, dass Hecken nicht höher als einen Meter vierzig sein dürften, dass mindestens ein Drittel der Fläche für Obst und Gemüse genutzt werden müsse und dass zwischen dreizehn und fünfzehn Uhr Mittagsruhe herrsche. Jule hielt das für einen Witz. Tarek, der aus Syrien stammte, fand es eher faszinierend.",
+        "Der Vorsitzende des Vereins, Herr Pötzsch, kontrollierte die Gärten jeden Samstag mit einem Zollstock. Schon in der ersten Woche wurden sie ermahnt, weil ihr Rasen zu hoch sei. Dann, weil Jule an einem Sonntag gebohrt habe. Dann, weil Tarek Pfefferminze angebaut hatte, die angeblich in die Nachbargärten wuchere. Jule wollte schon aufgeben. „Der Mann ist ein Albtraum“, sagte sie.",
+        "Im Juli wurde Herr Pötzsch krank und lag zwei Wochen im Krankenhaus. Seine Beete vertrockneten in der Hitze, und niemand traute sich, seinen Garten ohne Erlaubnis zu betreten. Tarek tat es trotzdem. Er goss jeden Abend die Tomaten, band die Bohnen hoch und schnitt sogar die Hecke, auf genau einen Meter vierzig.",
+        "Als Herr Pötzsch zurückkam, stand er lange vor seinem Garten. Dann klopfte er an ihre Laube, mit einer Flasche selbst gemachtem Johannisbeerwein. In der nächsten Mitgliederversammlung beantragte er eine Änderung der Gartenordnung: Pfefferminze sei ab sofort ausdrücklich erlaubt. Seitdem trinkt er bei Jule und Tarek jeden Samstag frischen Minztee. Den Zollstock bringt er trotzdem mit, aus Gewohnheit."
+      ],
+      "english": [
+        [
+          "When Jule and Tarek took over an allotment in the \"Sunny Slope\" colony in Leipzig in April, they were given twelve pages of garden rules along with the key.",
+          "They stated that hedges might not be taller than one metre forty, that at least a third of the plot had to be used for fruit and vegetables, and that a midday quiet period applied between one and three.",
+          "Jule thought it was a joke.",
+          "Tarek, who came from Syria, found it rather fascinating."
+        ],
+        [
+          "The chairman of the association, Herr Pötzsch, inspected the gardens every Saturday with a folding ruler.",
+          "In the very first week they were reprimanded because their lawn was supposedly too long.",
+          "Then because Jule had allegedly drilled on a Sunday.",
+          "Then because Tarek had planted peppermint, which was supposedly spreading into the neighbouring gardens.",
+          "Jule was ready to give up.",
+          "\"The man is a nightmare,\" she said."
+        ],
+        [
+          "In July Herr Pötzsch fell ill and spent two weeks in hospital.",
+          "His beds dried out in the heat, and nobody dared to enter his garden without permission.",
+          "Tarek did it anyway.",
+          "Every evening he watered the tomatoes, tied up the beans and even cut the hedge, to exactly one metre forty."
+        ],
+        [
+          "When Herr Pötzsch came back, he stood in front of his garden for a long time.",
+          "Then he knocked at their summer house, with a bottle of homemade redcurrant wine.",
+          "At the next members' meeting he proposed an amendment to the garden rules: peppermint was henceforth expressly permitted.",
+          "Since then he has drunk fresh mint tea at Jule and Tarek's every Saturday.",
+          "He still brings his folding ruler, out of habit."
+        ]
+      ],
+      "vocab": [
+        { "word": "Gartenordnung", "gloss": "garden rules" },
+        { "word": "Hecken", "gloss": "hedges" },
+        { "word": "Fläche", "gloss": "area, plot" },
+        { "word": "Mittagsruhe", "gloss": "midday quiet period" },
+        { "word": "Vorsitzende", "gloss": "chairman" },
+        { "word": "Zollstock", "gloss": "folding ruler" },
+        { "word": "ermahnt", "gloss": "reprimanded" },
+        { "word": "wuchere", "gloss": "was spreading rampantly" },
+        { "word": "vertrockneten", "gloss": "dried out" },
+        { "word": "traute sich", "gloss": "dared" },
+        { "word": "Laube", "gloss": "summer house, garden shed" },
+        { "word": "beantragte", "gloss": "proposed, applied for" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "language": "de",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "de-c1-01",
+      "title": "Die Fähre ohne Motor",
+      "subtitle": "The ferry without an engine",
+      "topic": "Travel",
+      "symbol": "ferry.fill",
+      "paragraphs": [
+        "Wer in Basel von einem Rheinufer zum anderen will, nimmt normalerweise eine der Brücken. Man kann aber auch zum Wasser hinuntersteigen, an einem Holzsteg eine kleine Glocke läuten und warten. Nach einer Weile löst sich am gegenüberliegenden Ufer ein schmales Boot und gleitet lautlos herüber, ohne Motor, ohne Ruder und ohne Segel. Es hängt an einem Drahtseil, das hoch über den Fluss gespannt ist, und wird allein von der Strömung angetrieben. Vier solcher Fähren gibt es in der Stadt, und sie verkehren seit dem neunzehnten Jahrhundert nach demselben Prinzip.",
+        "Einer der Fährmänner ist Beat Schaffner, sechzig, ein ehemaliger Primarlehrer mit wettergegerbtem Gesicht. Er erklärt das Prinzip, während er das Steuer verstellt: Indem er das Boot schräg zur Strömung dreht, drückt das Wasser es ans andere Ufer, ähnlich wie der Wind einen Drachen in die Höhe treibt. „Physik, nichts weiter“, sagt er. „Aber ich habe dreißig Jahre lang Kindern Physik erklärt, und keines hat sie so gut verstanden wie hier, wenn es die Hand ins Wasser hält.“",
+        "Die Überfahrt dauert kaum drei Minuten und kostet ein paar Franken. Trotzdem sind die Fähren, wie Schaffner betont, kein Verkehrsmittel im eigentlichen Sinne. Wer es eilig hat, nimmt das Tram. Auf die Fähre steigen Touristen, die etwas Besonderes erleben wollen, Liebespaare, Pendler mit ungewöhnlich viel Gelassenheit und ältere Basler, die schon als Kinder hier übergesetzt haben. Manche fahren hin und gleich wieder zurück, nur um die Stille auf dem Wasser zu genießen, während sich über ihnen auf der Brücke der Feierabendverkehr staut.",
+        "Gefragt, ob er nie daran gedacht habe, einen Motor einzubauen, schüttelt Schaffner energisch den Kopf. Die Fähre sei vielleicht das einzige Verkehrsmittel der Welt, das schneller werde, je stärker der Fluss sei, und das keinerlei Energie verbrauche. „Man muss nur wissen, in welchem Winkel man sich hineinlegt“, sagt er, und es klingt, als spreche er nicht nur vom Rhein. Dann läutet am anderen Ufer die Glocke, und er stößt sich ab."
+      ],
+      "english": [
+        [
+          "Anyone in Basel who wants to get from one bank of the Rhine to the other usually takes one of the bridges.",
+          "But you can also climb down to the water, ring a little bell on a wooden jetty and wait.",
+          "After a while a narrow boat casts off from the opposite bank and glides silently across, with no engine, no oars and no sail.",
+          "It hangs from a steel cable stretched high above the river and is driven by the current alone.",
+          "There are four such ferries in the city, and they have run on the same principle since the nineteenth century."
+        ],
+        [
+          "One of the ferrymen is Beat Schaffner, sixty, a former primary school teacher with a weather-beaten face.",
+          "He explains the principle while adjusting the rudder: by turning the boat at an angle to the current, he lets the water push it to the other bank, much as the wind drives a kite upwards.",
+          "\"Physics, nothing more,\" he says.",
+          "\"But I spent thirty years explaining physics to children, and none of them understood it as well as they do here, holding a hand in the water.\""
+        ],
+        [
+          "The crossing takes barely three minutes and costs a couple of francs.",
+          "All the same, as Schaffner stresses, the ferries are not a means of transport in the proper sense.",
+          "Anyone in a hurry takes the tram.",
+          "The people who board the ferry are tourists looking for something special, couples in love, commuters with an unusual amount of composure, and older Baslers who already crossed here as children.",
+          "Some cross over and straight back again, just to enjoy the quiet on the water while the rush-hour traffic jams up on the bridge above them."
+        ],
+        [
+          "Asked whether he has never thought of fitting an engine, Schaffner shakes his head vigorously.",
+          "The ferry, he says, may be the only means of transport in the world that gets faster the stronger the river is, and that uses no energy whatsoever.",
+          "\"You just have to know at what angle to lean into it,\" he says, and it sounds as if he is not only talking about the Rhine.",
+          "Then the bell rings on the other bank, and he pushes off."
+        ]
+      ],
+      "vocab": [
+        { "word": "Holzsteg", "gloss": "wooden jetty" },
+        { "word": "gegenüberliegenden", "gloss": "opposite" },
+        { "word": "gleitet", "gloss": "glides" },
+        { "word": "Drahtseil", "gloss": "steel cable" },
+        { "word": "Strömung", "gloss": "current" },
+        { "word": "angetrieben", "gloss": "driven, propelled" },
+        { "word": "verkehren", "gloss": "run, operate" },
+        { "word": "wettergegerbtem", "gloss": "weather-beaten" },
+        { "word": "schräg", "gloss": "at an angle" },
+        { "word": "Drachen", "gloss": "kite" },
+        { "word": "Gelassenheit", "gloss": "composure, calm" },
+        { "word": "übergesetzt", "gloss": "crossed over (by ferry)" },
+        { "word": "staut", "gloss": "jams up" }
+      ]
+    },
+    {
+      "id": "de-c1-02",
+      "title": "Über das Warten",
+      "subtitle": "On waiting",
+      "topic": "Ideas",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Kaum eine Tätigkeit hat einen so schlechten Ruf wie das Warten. Wir warten auf verspätete Züge, auf Termine beim Bürgeramt, auf den Rückruf der Hotline, und jedes Mal haben wir das Gefühl, uns werde etwas gestohlen. Eine ganze Industrie lebt inzwischen davon, uns diese Momente zu ersparen: Lieferdienste versprechen Lebensmittel in zehn Minuten, Streamingdienste spielen die nächste Folge ab, bevor der Abspann vorbei ist, und wer an der Bushaltestelle steht, greift reflexartig zum Handy, als wäre eine Minute ohne Beschäftigung ein Versagen.",
+        "Dabei war das Warten nicht immer verpönt. Unsere Großeltern warteten wochenlang auf Briefe, und man könnte argumentieren, dass gerade diese Verzögerung den Briefen ihr Gewicht verlieh. Wer weiß, dass eine Antwort zehn Tage braucht, überlegt sich genauer, was er schreibt. Die Vorfreude, dieses typisch deutsche Wort, das sich so schlecht übersetzen lässt, setzt sogar voraus, dass etwas noch nicht da ist. Sie ist, wenn man so will, eine Form des Wartens, die man genießt.",
+        "Natürlich wäre es naiv, jedes Warten zu verklären. Wer stundenlang in einer Notaufnahme sitzt oder seit Monaten auf einen Bescheid der Ausländerbehörde wartet, empfindet nichts Romantisches dabei. Warten ist auch eine Frage der Macht: Wer warten lässt, zeigt, dass seine Zeit mehr wert ist als die des anderen. Insofern hat die Ungeduld unserer Zeit auch etwas Demokratisches.",
+        "Und doch ertappe ich mich in letzter Zeit dabei, dass ich das Handy in der Tasche lasse. Neulich stand ich zwanzig Minuten an einem Bahnsteig in Kassel, weil ein Anschlusszug ausgefallen war. Ich tat nichts, außer zu schauen: wie eine Taube einen Brotrest gegen drei Konkurrenten verteidigte, wie ein Kind seinem Großvater das Pfeifen beibrachte, wie sich das Licht auf den Gleisen veränderte. Als der Zug endlich kam, war ich beinahe enttäuscht. Es waren die besten zwanzig Minuten des Tages gewesen, und niemand hatte sie mir verkauft."
+      ],
+      "english": [
+        [
+          "Hardly any activity has as bad a reputation as waiting.",
+          "We wait for delayed trains, for appointments at the citizens' office, for the hotline to call back, and every time we feel as though something is being stolen from us.",
+          "A whole industry now lives off sparing us these moments: delivery services promise groceries in ten minutes, streaming services play the next episode before the credits are over, and anyone standing at a bus stop reaches for their phone by reflex, as if a minute without occupation were a failure."
+        ],
+        [
+          "And yet waiting was not always frowned upon.",
+          "Our grandparents waited weeks for letters, and one could argue that it was precisely this delay that gave the letters their weight.",
+          "If you know an answer will take ten days, you think harder about what you write.",
+          "Vorfreude, that typically German word that translates so poorly, even presupposes that something is not here yet.",
+          "It is, if you like, a form of waiting that one enjoys."
+        ],
+        [
+          "Of course it would be naive to romanticise all waiting.",
+          "Anyone who sits for hours in an emergency department, or has been waiting months for a decision from the immigration office, feels nothing romantic about it.",
+          "Waiting is also a question of power: whoever keeps others waiting shows that their time is worth more than other people's.",
+          "In that sense the impatience of our age also has something democratic about it."
+        ],
+        [
+          "And yet lately I catch myself leaving my phone in my pocket.",
+          "Recently I stood on a platform in Kassel for twenty minutes because a connecting train had been cancelled.",
+          "I did nothing except look: at how a pigeon defended a scrap of bread against three rivals, how a child taught its grandfather to whistle, how the light changed on the tracks.",
+          "When the train finally came, I was almost disappointed.",
+          "They had been the best twenty minutes of the day, and nobody had sold them to me."
+        ]
+      ],
+      "vocab": [
+        { "word": "Ruf", "gloss": "reputation" },
+        { "word": "Bürgeramt", "gloss": "citizens' office" },
+        { "word": "ersparen", "gloss": "spare" },
+        { "word": "Abspann", "gloss": "closing credits" },
+        { "word": "Versagen", "gloss": "failure" },
+        { "word": "verpönt", "gloss": "frowned upon" },
+        { "word": "Verzögerung", "gloss": "delay" },
+        { "word": "Vorfreude", "gloss": "anticipation, looking forward" },
+        { "word": "verklären", "gloss": "romanticise" },
+        { "word": "Notaufnahme", "gloss": "emergency department" },
+        { "word": "Bescheid", "gloss": "official decision" },
+        { "word": "ertappe ich mich", "gloss": "I catch myself" },
+        { "word": "Anschlusszug", "gloss": "connecting train" }
+      ]
+    },
+    {
+      "id": "de-c1-03",
+      "title": "Der Handschuh",
+      "subtitle": "The glove",
+      "topic": "Memory",
+      "symbol": "archivebox.fill",
+      "paragraphs": [
+        "In Wien heißt das Fundbüro offiziell Fundservice, aber für Marlene, die dort seit elf Jahren hinter dem Schalter sitzt, ist es ein Archiv der Unaufmerksamkeit. Jährlich landen Zehntausende Gegenstände in den Regalen: Regenschirme, Schlüssel, Handys, aber auch ein Brautkleid, eine Urne und einmal ein ausgestopfter Fuchs. Die meisten Besitzer melden sich nie. Marlene hat gelernt, sich über nichts mehr zu wundern, bis zu jenem Dienstag im November, an dem Frau Lindner zum ersten Mal auftauchte.",
+        "Sie war eine zierliche Frau um die achtzig, sorgfältig frisiert, mit Handschuhen aus dunkelgrünem Leder. Sie suche einen Handschuh, sagte sie, rechts, aus braunem Wildleder, verloren in der Straßenbahnlinie neunundvierzig. Marlene fragte routinemäßig nach dem Datum. „Am vierzehnten November“, antwortete Frau Lindner. Marlene tippte schon, als die alte Dame hinzufügte: „Neunzehnhundertsiebenundsechzig.“",
+        "Marlene erklärte geduldig, dass Fundsachen nur drei Jahre aufbewahrt würden. Frau Lindner nickte, als hätte sie genau das erwartet, bedankte sich und ging. Im nächsten Jahr, am selben Tag, stand sie wieder am Schalter. Und im übernächsten. Jedes Mal trug sie dieselben grünen Handschuhe, und jedes Mal ging sie ohne Ärger und ohne Handschuh wieder hinaus. Erst beim dritten Mal wagte Marlene, sie zu fragen, warum sie einen Handschuh suche, der seit über einem halben Jahrhundert verschwunden sei.",
+        "Frau Lindner lächelte. Damals, erzählte sie, habe sie den Handschuh tatsächlich verloren und sei am nächsten Tag hierhergekommen, in dieses Gebäude. Hinter dem Schalter habe ein junger Beamter gesessen, mit abstehenden Ohren und einer furchtbaren Krawatte. Er habe den Handschuh nicht gefunden, aber er habe sie gefragt, ob sie zur Entschädigung mit ihm einen Kaffee trinken wolle. Sechsundvierzig Jahre seien sie verheiratet gewesen. Seit er tot sei, komme sie jedes Jahr an diesem Tag, um nachzufragen. „Wissen Sie“, sagte sie, „ich hoffe ein bisschen, dass er nie gefunden wird.“ Seitdem stehen am vierzehnten November hinter Marlenes Schalter immer zwei Tassen Kaffee."
+      ],
+      "english": [
+        [
+          "In Vienna the lost property office is officially called the Fundservice, but for Marlene, who has sat behind its counter for eleven years, it is an archive of inattention.",
+          "Every year tens of thousands of objects end up on its shelves: umbrellas, keys, phones, but also a wedding dress, an urn and, once, a stuffed fox.",
+          "Most of the owners never come forward.",
+          "Marlene had learned not to be surprised by anything any more, until that Tuesday in November when Frau Lindner turned up for the first time."
+        ],
+        [
+          "She was a petite woman of about eighty, carefully coiffed, wearing dark green leather gloves.",
+          "She was looking for a glove, she said, a right one, in brown suede, lost on the number forty-nine tram.",
+          "Marlene routinely asked for the date.",
+          "\"On the fourteenth of November,\" Frau Lindner replied.",
+          "Marlene was already typing when the old lady added: \"Nineteen sixty-seven.\""
+        ],
+        [
+          "Marlene patiently explained that lost property was only kept for three years.",
+          "Frau Lindner nodded as if she had expected exactly that, thanked her and left.",
+          "The following year, on the same day, she was back at the counter.",
+          "And the year after that.",
+          "Each time she wore the same green gloves, and each time she left again without complaint and without a glove.",
+          "Only on the third occasion did Marlene dare to ask her why she was looking for a glove that had been missing for over half a century."
+        ],
+        [
+          "Frau Lindner smiled.",
+          "Back then, she said, she really had lost the glove, and the next day she had come here, to this building.",
+          "Behind the counter sat a young official with sticking-out ears and a dreadful tie.",
+          "He hadn't found the glove, but he had asked her whether, by way of compensation, she would like to have a coffee with him.",
+          "They had been married for forty-six years.",
+          "Since his death she had come every year on this day to ask.",
+          "\"You know,\" she said, \"I rather hope it's never found.\"",
+          "Since then there have always been two cups of coffee behind Marlene's counter on the fourteenth of November."
+        ]
+      ],
+      "vocab": [
+        { "word": "Schalter", "gloss": "counter" },
+        { "word": "Unaufmerksamkeit", "gloss": "inattention" },
+        { "word": "Gegenstände", "gloss": "objects" },
+        { "word": "ausgestopfter", "gloss": "stuffed" },
+        { "word": "auftauchte", "gloss": "turned up" },
+        { "word": "zierliche", "gloss": "petite, dainty" },
+        { "word": "Wildleder", "gloss": "suede" },
+        { "word": "hinzufügte", "gloss": "added" },
+        { "word": "aufbewahrt", "gloss": "kept, stored" },
+        { "word": "wagte", "gloss": "dared" },
+        { "word": "abstehenden", "gloss": "sticking out" },
+        { "word": "Entschädigung", "gloss": "compensation" }
+      ]
+    },
+    {
+      "id": "de-c1-04",
+      "title": "Ein Fluss kehrt zurück",
+      "subtitle": "A river comes back",
+      "topic": "Environment",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "Wer in den Siebzigerjahren in Bottrop oder Oberhausen aufwuchs, lernte früh, um die Emscher einen Bogen zu machen. Der Fluss, der sich quer durch das Ruhrgebiet zieht, war damals kein Fluss mehr, sondern ein offener Abwasserkanal, eingezwängt in Betonschalen und eingezäunt wie ein Gefahrgut. Weil sich der Boden durch den Bergbau ständig senkte, konnte man keine unterirdischen Rohre bauen, also leitete man das Abwasser von Millionen Menschen und Hunderten Fabriken einfach in die Emscher. Im Sommer roch man sie, bevor man sie sah.",
+        "Erst als die letzten Zechen schlossen, wurde ein Plan möglich, der lange als utopisch gegolten hatte. Fast dreißig Jahre lang wurden neben dem Flussbett unterirdische Kanäle gebaut, insgesamt über vierhundert Kilometer lang, die das Abwasser heute getrennt zu den Kläranlagen leiten. Der Beton wurde aufgebrochen, die Ufer wurden abgeflacht und bepflanzt. Die Kosten lagen bei über fünf Milliarden Euro, was es zu einem der größten Umweltprojekte Europas machte.",
+        "Der Biologe Malte Kowalski, der den Wandel seit Jahren dokumentiert, steht an einem Morgen im Mai bis zu den Knien im Wasser. In der Hand hält er ein Netz, in dem etwas Silbriges zappelt. „Eine Groppe“, sagt er, und seine Stimme klingt beinahe zärtlich. Der kleine Fisch gilt als anspruchsvoll, denn er lebt nur in sauberem, sauerstoffreichem Wasser. Vor zwanzig Jahren hätte man hier, so Kowalski, außer Bakterien kaum etwas gefunden. Heute zählt er Libellen, Eisvögel und an manchen Stellen sogar Biber.",
+        "Nicht alle Anwohner sind begeistert. Manche finden, das Geld hätte man besser in Schulen gesteckt, andere vermissen, so seltsam das klingt, den vertrauten Gestank als Teil ihrer Kindheit. Kowalski nimmt solche Einwände ernst. Aber dann erzählt er von einem alten Bergmann, der im letzten Sommer neben ihm am Ufer stand und lange schwieg. Schließlich habe der Mann gesagt, er wohne seit achtzig Jahren an diesem Fluss und habe ihn heute zum ersten Mal plätschern hören."
+      ],
+      "english": [
+        [
+          "Anyone who grew up in Bottrop or Oberhausen in the seventies learned early on to give the Emscher a wide berth.",
+          "The river, which runs right across the Ruhr, was no longer a river then but an open sewer, squeezed into concrete channels and fenced off like hazardous goods.",
+          "Because mining made the ground subside constantly, underground pipes couldn't be built, so the sewage of millions of people and hundreds of factories was simply channelled into the Emscher.",
+          "In summer you smelled it before you saw it."
+        ],
+        [
+          "Only when the last collieries closed did a plan become possible that had long been considered utopian.",
+          "For almost thirty years underground sewers were built alongside the riverbed, more than four hundred kilometres in total, which now carry the waste water separately to the treatment plants.",
+          "The concrete was broken up, the banks were levelled out and planted.",
+          "The cost came to over five billion euros, making it one of the largest environmental projects in Europe."
+        ],
+        [
+          "The biologist Malte Kowalski, who has been documenting the transformation for years, is standing knee-deep in the water one morning in May.",
+          "In his hand he holds a net in which something silvery is wriggling.",
+          "\"A bullhead,\" he says, and his voice sounds almost tender.",
+          "The little fish is considered demanding, because it lives only in clean, oxygen-rich water.",
+          "Twenty years ago, according to Kowalski, you would have found hardly anything here apart from bacteria.",
+          "Today he counts dragonflies, kingfishers and in some places even beavers."
+        ],
+        [
+          "Not all local residents are enthusiastic.",
+          "Some think the money would have been better spent on schools; others, strange as it sounds, miss the familiar stench as part of their childhood.",
+          "Kowalski takes such objections seriously.",
+          "But then he tells of an old miner who stood beside him on the bank last summer and said nothing for a long time.",
+          "Finally the man said that he had lived by this river for eighty years and today had heard it babble for the first time."
+        ]
+      ],
+      "vocab": [
+        { "word": "einen Bogen zu machen", "gloss": "to give a wide berth" },
+        { "word": "Abwasserkanal", "gloss": "sewer" },
+        { "word": "eingezwängt", "gloss": "squeezed in" },
+        { "word": "senkte", "gloss": "subsided" },
+        { "word": "Zechen", "gloss": "collieries, coal mines" },
+        { "word": "Kläranlagen", "gloss": "sewage treatment plants" },
+        { "word": "abgeflacht", "gloss": "levelled out" },
+        { "word": "zappelt", "gloss": "wriggles" },
+        { "word": "anspruchsvoll", "gloss": "demanding" },
+        { "word": "Eisvögel", "gloss": "kingfishers" },
+        { "word": "Gestank", "gloss": "stench" },
+        { "word": "Einwände", "gloss": "objections" },
+        { "word": "plätschern", "gloss": "babble, splash" }
+      ]
+    },
+    {
+      "id": "de-c1-05",
+      "title": "Die Dolmetscherin",
+      "subtitle": "The interpreter",
+      "topic": "Language",
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "paragraphs": [
+        "Seit fünfzehn Jahren dolmetscht Elif Arslan in Hamburger Krankenhäusern zwischen Deutsch und Türkisch. Sie hat Diagnosen übersetzt, Operationen erklärt und Patienten, die kein Wort Deutsch verstanden, durch Narkose und Aufwachraum begleitet. Ihr Beruf, sagt sie gern, verlange vor allem eines: unsichtbar zu sein. Eine gute Dolmetscherin sei wie eine Fensterscheibe, und je weniger man sie bemerke, desto besser mache sie ihre Arbeit.",
+        "An jenem Abend auf der Palliativstation in Eppendorf war sie alles andere als unsichtbar. Ein alter Mann lag im Sterben, und an seinem Bett saß sein Sohn, der vor vielen Jahren nach einem Streit mit dem Vater den Kontakt abgebrochen hatte. Der Sohn sprach nur noch Deutsch, der Vater hatte es nie richtig gelernt. Zwischen ihnen saß Elif, und durch sie musste alles hindurch, was in zwanzig Jahren ungesagt geblieben war.",
+        "Der Sohn sprach lange und stockend. Er warf seinem Vater vor, ihn nie gelobt zu haben, nie zu seinen Fußballspielen gekommen zu sein, ihn wegen seiner Berufswahl verachtet zu haben. Elif übersetzte Satz für Satz, präzise, wie sie es gelernt hatte. Dann sagte der Sohn, kaum hörbar, einen Satz, der so verletzend war, dass sie einen Augenblick zögerte. Sie wusste, dass dies vielleicht das Letzte war, was der Vater in seinem Leben hören würde. Und sie wusste ebenso, dass es nicht ihre Aufgabe war, zu entscheiden, was er hören durfte.",
+        "Sie übersetzte den Satz Wort für Wort. Der Vater schloss die Augen, und für einen langen Moment herrschte Stille. Dann antwortete er mit brüchiger Stimme, und Elif übersetzte wieder: „Du hast recht. Ich war stolz auf dich, aber ich hatte nicht die Worte dafür, in keiner Sprache.“ Der Sohn nahm die Hand des Vaters. Elif stand leise auf und ging auf den Flur hinaus. Zum ersten Mal in fünfzehn Jahren, sagt sie, sei sie froh gewesen, überflüssig zu sein."
+      ],
+      "english": [
+        [
+          "For fifteen years Elif Arslan has interpreted between German and Turkish in Hamburg hospitals.",
+          "She has translated diagnoses, explained operations and accompanied patients who didn't understand a word of German through anaesthesia and the recovery room.",
+          "Her profession, she likes to say, demands one thing above all: to be invisible.",
+          "A good interpreter is like a windowpane, and the less you notice her, the better she is doing her job."
+        ],
+        [
+          "That evening on the palliative care ward in Eppendorf she was anything but invisible.",
+          "An old man was dying, and at his bedside sat his son, who had broken off contact with his father many years before after a quarrel.",
+          "The son now spoke only German; the father had never properly learned it.",
+          "Between them sat Elif, and everything that had gone unsaid in twenty years had to pass through her."
+        ],
+        [
+          "The son spoke at length and haltingly.",
+          "He reproached his father for never having praised him, never having come to his football matches, for having despised him because of his choice of career.",
+          "Elif translated sentence by sentence, precisely, as she had been trained to.",
+          "Then, barely audibly, the son said a sentence so hurtful that she hesitated for a moment.",
+          "She knew that this might be the last thing the father would ever hear.",
+          "And she knew just as well that it was not her job to decide what he was allowed to hear."
+        ],
+        [
+          "She translated the sentence word for word.",
+          "The father closed his eyes, and for a long moment there was silence.",
+          "Then he answered in a cracked voice, and Elif translated again: \"You're right. I was proud of you, but I didn't have the words for it, in any language.\"",
+          "The son took his father's hand.",
+          "Elif quietly got up and went out into the corridor.",
+          "For the first time in fifteen years, she says, she was glad to be superfluous."
+        ]
+      ],
+      "vocab": [
+        { "word": "dolmetscht", "gloss": "interprets" },
+        { "word": "Narkose", "gloss": "anaesthesia" },
+        { "word": "Aufwachraum", "gloss": "recovery room" },
+        { "word": "unsichtbar", "gloss": "invisible" },
+        { "word": "Fensterscheibe", "gloss": "windowpane" },
+        { "word": "Palliativstation", "gloss": "palliative care ward" },
+        { "word": "lag im Sterben", "gloss": "was dying" },
+        { "word": "abgebrochen", "gloss": "broken off" },
+        { "word": "stockend", "gloss": "haltingly" },
+        { "word": "verachtet", "gloss": "despised" },
+        { "word": "verletzend", "gloss": "hurtful" },
+        { "word": "brüchiger", "gloss": "cracked, brittle" },
+        { "word": "überflüssig", "gloss": "superfluous" }
+      ]
+    },
+    {
+      "id": "de-c1-06",
+      "title": "Ein Tisch zur Miete",
+      "subtitle": "A table for rent",
+      "topic": "Culture",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Wer zum ersten Mal ein klassisches Wiener Kaffeehaus betritt, macht meist denselben Fehler: Er erwartet, bedient zu werden. Tatsächlich wird er erst einmal ignoriert. Der Ober, im schwarzen Frack und mit der Würde eines Diplomaten, durchquert den Raum mehrmals, ohne den Neuankömmling auch nur anzusehen. Das ist keine Unhöflichkeit, sondern Teil eines Rituals, dessen Regeln niemand aufgeschrieben hat und das doch jeder Stammgast beherrscht.",
+        "Seit die UNESCO die Wiener Kaffeehauskultur zum immateriellen Kulturerbe erklärt hat, kommen Touristen in Scharen. Sie fotografieren die Marmortische, die Thonetstühle und die Zeitungen, die in hölzernen Haltern an der Wand hängen. Doch was das Kaffeehaus ausmacht, lässt sich nicht fotografieren. Herr Karl, seit achtunddreißig Jahren Ober in einem Café im sechsten Bezirk, formuliert es so: „Bei uns kauft man keinen Kaffee. Man mietet einen Tisch, und den Kaffee gibt’s dazu.“ Wer eine Melange bestellt, darf stundenlang sitzen bleiben, lesen, schreiben oder einfach aus dem Fenster schauen, und niemand wird ihn drängen.",
+        "Für viele Wiener ist das Kaffeehaus deshalb eine Art erweitertes Wohnzimmer, ein Ort zwischen privat und öffentlich. Hier trifft man sich, ohne sich verabreden zu müssen, und man ist allein, ohne einsam zu sein. Schriftsteller haben ganze Romane an diesen Tischen geschrieben, und Studenten haben sich hier aufgewärmt, wenn ihre Zimmer im Winter zu kalt waren. Der Ober kennt die Gewohnheiten seiner Stammgäste besser als mancher Ehepartner: wer das Wasserglas nachgefüllt haben will, wer die Zeitung vor dem Kaffee braucht und wer an welchem Tag schweigen möchte.",
+        "Ob dieses Modell überlebt, ist eine offene Frage. Die Mieten in der Innenstadt steigen, und ein Gast, der vier Stunden über einer einzigen Melange sitzt, ist betriebswirtschaftlich eine Katastrophe. Herr Karl zuckt mit den Schultern. Vor kurzem, erzählt er, habe ihn ein junger Mann aus Kalifornien gefragt, ob es WLAN gebe. Er habe Nein gesagt und ihm stattdessen eine Zeitung gebracht. Der junge Mann sei drei Stunden geblieben und am nächsten Tag wiedergekommen. „Sehen Sie“, sagt Herr Karl, „man muss den Leuten nur zeigen, was ihnen fehlt.“"
+      ],
+      "english": [
+        [
+          "Anyone entering a classic Viennese coffee house for the first time usually makes the same mistake: they expect to be served.",
+          "In fact, they are ignored to begin with.",
+          "The head waiter, in a black tailcoat and with the dignity of a diplomat, crosses the room several times without so much as looking at the newcomer.",
+          "That is not rudeness but part of a ritual whose rules nobody has written down and which every regular has nonetheless mastered."
+        ],
+        [
+          "Since UNESCO declared Viennese coffee house culture part of the intangible cultural heritage, tourists have been coming in droves.",
+          "They photograph the marble tables, the bentwood Thonet chairs and the newspapers hanging on the wall in wooden holders.",
+          "But what makes the coffee house what it is cannot be photographed.",
+          "Herr Karl, head waiter for thirty-eight years in a café in the sixth district, puts it like this: \"Here you don't buy a coffee. You rent a table, and the coffee comes with it.\"",
+          "Whoever orders a Melange may stay sitting for hours, reading, writing or simply looking out of the window, and nobody will hurry them."
+        ],
+        [
+          "For many Viennese, then, the coffee house is a kind of extended living room, a place between private and public.",
+          "Here you meet people without having to arrange to, and you are alone without being lonely.",
+          "Writers have written entire novels at these tables, and students have warmed themselves up here when their rooms were too cold in winter.",
+          "The waiter knows his regulars' habits better than many a spouse: who wants their water glass refilled, who needs the paper before the coffee and who wishes to be silent on which day."
+        ],
+        [
+          "Whether this model will survive is an open question.",
+          "Rents in the city centre are rising, and a guest who sits for four hours over a single Melange is, in business terms, a disaster.",
+          "Herr Karl shrugs.",
+          "Recently, he says, a young man from California asked him whether there was Wi-Fi.",
+          "He said no and brought him a newspaper instead.",
+          "The young man stayed for three hours and came back the next day.",
+          "\"You see,\" says Herr Karl, \"you just have to show people what they're missing.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "Ober", "gloss": "head waiter" },
+        { "word": "Frack", "gloss": "tailcoat" },
+        { "word": "Würde", "gloss": "dignity" },
+        { "word": "Neuankömmling", "gloss": "newcomer" },
+        { "word": "Stammgast", "gloss": "regular customer" },
+        { "word": "beherrscht", "gloss": "has mastered" },
+        { "word": "in Scharen", "gloss": "in droves" },
+        { "word": "ausmacht", "gloss": "makes it what it is" },
+        { "word": "drängen", "gloss": "hurry, rush" },
+        { "word": "verabreden", "gloss": "arrange to meet" },
+        { "word": "Gewohnheiten", "gloss": "habits" },
+        { "word": "betriebswirtschaftlich", "gloss": "in business terms" },
+        { "word": "zuckt mit den Schultern", "gloss": "shrugs" }
+      ]
+    },
+    {
+      "id": "de-c1-07",
+      "title": "Nachtdienst",
+      "subtitle": "Night duty",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Um drei Uhr morgens ist ein Krankenhaus ein anderer Ort. Die Flure der chirurgischen Station im Klinikum Schwabing liegen im Halbdunkel, irgendwo piept ein Monitor, und die Geräusche der Stadt dringen nur gedämpft durch die Fenster. Lea Hartmann, seit sechs Jahren Pflegerin, mag diese Stunden. Man habe Zeit, sagt sie, und manchmal erzählten die Patienten nachts Dinge, die sie tagsüber nie aussprechen würden.",
+        "In Zimmer zwölf lag seit zwei Tagen ein Mann, der sich nach einer Hüftoperation weigerte zu schlafen. Als Lea ihm in dieser Nacht ein Glas Tee brachte, erkannte sie ihn plötzlich, obwohl sein Haar inzwischen weiß war: Herr Brandl, ihr Deutschlehrer aus der neunten Klasse. Derselbe Herr Brandl, der ihr damals vor der ganzen Klasse prophezeit hatte, sie werde es nie bis zum Abitur schaffen. Sie hatte es geschafft, mit Mühe, und den Satz hatte sie nie vergessen.",
+        "Er erkannte sie nicht, und sie gab sich nicht zu erkennen. Aber er wollte reden. Er erzählte von seiner Frau, die vor einem Jahr gestorben war, von der Angst, nach der Operation nicht mehr allein zurechtzukommen, und schließlich, ohne dass sie ihn danach gefragt hätte, von seiner Zeit als Lehrer. Er habe viel falsch gemacht, sagte er. Besonders bereue er eine Sache: Einmal habe er einem Mädchen, das ihn mit seiner Faulheit zur Weißglut gebracht habe, gesagt, sie werde nie das Abitur schaffen. Er habe gehofft, sie damit wachzurütteln, aber er habe nie erfahren, was aus ihr geworden sei. Seitdem frage er sich, ob er ihr damit etwas kaputt gemacht habe.",
+        "Lea schwieg eine Weile. Dann stellte sie den Tee auf den Nachttisch und richtete sein Kissen. „Ich glaube, das Mädchen hat es geschafft“, sagte sie. „Vielleicht sogar ein bisschen wegen Ihnen, aus lauter Trotz.“ Herr Brandl sah sie lange an, und in seinem Blick lag eine Frage, die er nicht stellte. Er schlief kurz danach ein, zum ersten Mal seit zwei Nächten. Als Lea um sechs Uhr ihre Schicht beendete, ging sie leiser als sonst an Zimmer zwölf vorbei."
+      ],
+      "english": [
+        [
+          "At three in the morning a hospital is a different place.",
+          "The corridors of the surgical ward at the Schwabing hospital lie in semi-darkness, somewhere a monitor beeps, and the sounds of the city come through the windows only faintly.",
+          "Lea Hartmann, a nurse for six years, likes these hours.",
+          "You have time, she says, and at night patients sometimes say things they would never utter during the day."
+        ],
+        [
+          "In room twelve, for two days, there had been a man who refused to sleep after a hip operation.",
+          "When Lea brought him a glass of tea that night, she suddenly recognised him, although his hair was white now: Herr Brandl, her German teacher from year nine.",
+          "The same Herr Brandl who had once prophesied in front of the whole class that she would never make it to the Abitur.",
+          "She had made it, with difficulty, and she had never forgotten that sentence."
+        ],
+        [
+          "He didn't recognise her, and she didn't reveal who she was.",
+          "But he wanted to talk.",
+          "He talked about his wife, who had died a year earlier, about his fear of no longer coping on his own after the operation, and finally, without her having asked, about his time as a teacher.",
+          "He had done a lot wrong, he said.",
+          "There was one thing he especially regretted: he had once told a girl whose laziness had driven him up the wall that she would never pass the Abitur.",
+          "He had hoped to shake her awake with it, but he had never found out what became of her.",
+          "Ever since, he had wondered whether he had broken something in her."
+        ],
+        [
+          "Lea was silent for a while.",
+          "Then she put the tea on the bedside table and straightened his pillow.",
+          "\"I think the girl made it,\" she said.",
+          "\"Maybe even a little because of you, out of sheer defiance.\"",
+          "Herr Brandl looked at her for a long time, and in his eyes there was a question he didn't ask.",
+          "He fell asleep shortly afterwards, for the first time in two nights.",
+          "When Lea finished her shift at six, she walked past room twelve more quietly than usual."
+        ]
+      ],
+      "vocab": [
+        { "word": "Halbdunkel", "gloss": "semi-darkness" },
+        { "word": "piept", "gloss": "beeps" },
+        { "word": "gedämpft", "gloss": "muffled, faintly" },
+        { "word": "aussprechen", "gloss": "utter, say out loud" },
+        { "word": "weigerte", "gloss": "refused" },
+        { "word": "prophezeit", "gloss": "prophesied" },
+        { "word": "mit Mühe", "gloss": "with difficulty" },
+        { "word": "gab sich nicht zu erkennen", "gloss": "didn't reveal who she was" },
+        { "word": "zurechtzukommen", "gloss": "to cope" },
+        { "word": "bereue", "gloss": "regretted" },
+        { "word": "zur Weißglut", "gloss": "up the wall, into a rage" },
+        { "word": "wachzurütteln", "gloss": "to shake awake" },
+        { "word": "Trotz", "gloss": "defiance" }
+      ]
+    },
+    {
+      "id": "de-c1-08",
+      "title": "Die Stadt unter der Stadt",
+      "subtitle": "The city beneath the city",
+      "topic": "City",
+      "symbol": "building.2.fill",
+      "paragraphs": [
+        "Die meisten Berliner laufen täglich darüber hinweg, ohne zu ahnen, was unter ihren Füßen liegt: Bunker aus dem Zweiten Weltkrieg, vergessene U-Bahn-Tunnel, Brauereikeller, Fluchttunnel aus der Zeit der Mauer. Ein Verein, der sich der Erforschung dieser Unterwelt verschrieben hat, führt jedes Jahr Zehntausende Besucher hinab. Eine der Führerinnen ist Katrin Albers, Historikerin, achtundvierzig, und sie hat die Angewohnheit, bei jeder Führung für einen Moment das Licht auszuschalten.",
+        "Wir stehen in einem Bunker unter dem Bahnhof Gesundbrunnen. Die Wände sind grau, die Decken niedrig, und an manchen Stellen leuchten noch Pfeile in fluoreszierender Farbe, die damals den Weg wiesen, wenn der Strom ausfiel. Albers erzählt, dass hier bei Luftangriffen bis zu viertausend Menschen Schutz suchten, obwohl der Raum für ein Viertel davon gebaut war. Sie erzählt es nüchtern, mit Zahlen und Jahreszahlen, wie Historiker es tun. Dann geht das Licht aus.",
+        "Die Dunkelheit ist vollkommen. Niemand sagt etwas, nur ein Kind kichert nervös und verstummt sofort. Nach etwa dreißig Sekunden beginnt Albers in die Stille hinein zu sprechen, diesmal ohne Zahlen. Ihre Großmutter, erzählt sie, sei im Winter neunzehnhundertvierundvierzig mit zwei kleinen Kindern hier unten gewesen, zwölf Stunden lang, ohne zu wissen, ob ihr Haus noch stehe. Sie habe den Kindern die ganze Nacht Märchen erzählt, damit sie die Einschläge nicht hörten, und sie habe diese Märchen bis an ihr Lebensende nie wieder erzählen können.",
+        "Als das Licht wieder angeht, blinzeln alle, als kämen sie aus einem Traum. Später, oben auf der Straße, zwischen Imbissbuden und Straßenbahnen, frage ich Albers, warum sie das mit dem Licht macht. Zahlen, sagt sie, vergesse man auf dem Heimweg. Aber die Dunkelheit bleibe einem im Körper. Wer einmal dreißig Sekunden darin gestanden habe, verstehe vielleicht ein kleines bisschen, was viertausend Menschen hier eine ganze Nacht lang ausgehalten hätten. Mehr könne man von einer Führung nicht verlangen."
+      ],
+      "english": [
+        [
+          "Most Berliners walk over it every day without suspecting what lies beneath their feet: Second World War bunkers, forgotten underground tunnels, brewery cellars, escape tunnels from the time of the Wall.",
+          "An association devoted to exploring this underworld takes tens of thousands of visitors down every year.",
+          "One of the guides is Katrin Albers, a historian, forty-eight, and she has a habit of switching the light off for a moment on every tour."
+        ],
+        [
+          "We are standing in a bunker under Gesundbrunnen station.",
+          "The walls are grey, the ceilings low, and in some places arrows in fluorescent paint still glow, which showed the way back then when the power failed.",
+          "Albers explains that during air raids up to four thousand people sought shelter here, although the space was built for a quarter of that.",
+          "She tells it soberly, with figures and dates, the way historians do.",
+          "Then the light goes out."
+        ],
+        [
+          "The darkness is total.",
+          "Nobody says anything; only a child giggles nervously and falls silent at once.",
+          "After about thirty seconds Albers begins to speak into the silence, this time without figures.",
+          "Her grandmother, she says, was down here in the winter of 1944 with two small children, for twelve hours, without knowing whether her house was still standing.",
+          "She told the children fairy tales all night so they wouldn't hear the impacts, and to the end of her life she was never able to tell those fairy tales again."
+        ],
+        [
+          "When the light comes back on, everyone blinks as if waking from a dream.",
+          "Later, up on the street, among snack stands and trams, I ask Albers why she does that with the light.",
+          "Figures, she says, you forget on the way home.",
+          "But the darkness stays in your body.",
+          "Anyone who has stood in it for thirty seconds perhaps understands a tiny bit of what four thousand people endured here for a whole night.",
+          "You can't ask more of a guided tour than that."
+        ]
+      ],
+      "vocab": [
+        { "word": "ahnen", "gloss": "suspect, have an inkling" },
+        { "word": "Fluchttunnel", "gloss": "escape tunnels" },
+        { "word": "verschrieben", "gloss": "devoted itself" },
+        { "word": "Angewohnheit", "gloss": "habit" },
+        { "word": "Pfeile", "gloss": "arrows" },
+        { "word": "wiesen", "gloss": "showed, pointed" },
+        { "word": "Luftangriffen", "gloss": "air raids" },
+        { "word": "nüchtern", "gloss": "soberly" },
+        { "word": "kichert", "gloss": "giggles" },
+        { "word": "verstummt", "gloss": "falls silent" },
+        { "word": "Einschläge", "gloss": "impacts (of bombs)" },
+        { "word": "blinzeln", "gloss": "blink" },
+        { "word": "ausgehalten", "gloss": "endured" }
+      ]
+    },
+    {
+      "id": "de-c1-09",
+      "title": "Trennung auf Probe",
+      "subtitle": "A trial separation",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "Es war keine leichte Entscheidung, und ich will nicht behaupten, dass ich sie aus freien Stücken getroffen habe. Mein Telefon hatte mir am Sonntagabend, wie jede Woche, meinen Wochenbericht geschickt: durchschnittliche Bildschirmzeit fünf Stunden und zweiundvierzig Minuten pro Tag. Ich rechnete nach. Das waren knapp vierzig Stunden in der Woche, also eine Vollzeitstelle, für die mich niemand bezahlte. Am Montagmorgen legte ich das Gerät in eine Schublade und kaufte mir für neunzehn Euro ein altes Tastenhandy, mit dem man nur telefonieren und Kurznachrichten schreiben kann.",
+        "Die ersten Tage waren erbärmlich. Ich griff ständig in die leere Hosentasche, wie ein Raucher nach der Zigarette. An der Bushaltestelle wusste ich nicht, wohin mit meinen Augen. Ich verlief mich zweimal in einem Viertel, in dem ich seit zwölf Jahren wohne, weil ich nie darauf geachtet hatte, wo ich eigentlich abbiege. Und ich stellte mit einer gewissen Kränkung fest, dass die Welt durchaus ohne meine Kommentare auskam. Niemand vermisste mich in den sozialen Netzwerken. Nicht einmal ich selbst, nach etwa einer Woche.",
+        "Dann begannen seltsame Dinge zu passieren. Ich las ein Buch zu Ende, das seit zwei Jahren auf meinem Nachttisch lag. Ich rief meine Schwester an, statt ihr ein Herz unter ein Foto zu setzen, und wir telefonierten eine Stunde. Ich merkte, dass ich mich an Gespräche erinnerte, weil ich nicht nebenbei auf einen Bildschirm geschaut hatte. Mein Gehirn, so kam es mir vor, hatte die Fenster geöffnet und ordentlich gelüftet.",
+        "Ich will hier niemanden bekehren. Nach einem Monat habe ich das Smartphone wieder aus der Schublade geholt, denn ohne Banking-App und Fahrkarten lebt es sich in Deutschland zunehmend mühsam. Aber unsere Beziehung hat sich verändert. Es schläft jetzt in der Küche, nicht mehr neben meinem Kopfkissen, und am Wochenende hat es frei. Wir sehen uns weniger, und, ganz ehrlich, das tut uns beiden gut. Bleibt nur die Frage, warum eigentlich das Telefon mir jeden Sonntag einen Bericht schickt und nicht umgekehrt."
+      ],
+      "english": [
+        [
+          "It was not an easy decision, and I won't claim that I made it of my own free will.",
+          "On Sunday evening my phone had sent me my weekly report, as it does every week: average screen time five hours and forty-two minutes a day.",
+          "I did the maths.",
+          "That was nearly forty hours a week, in other words a full-time job that nobody was paying me for.",
+          "On Monday morning I put the device in a drawer and bought myself an old keypad phone for nineteen euros, which can only make calls and send text messages."
+        ],
+        [
+          "The first few days were miserable.",
+          "I kept reaching into my empty trouser pocket, like a smoker for a cigarette.",
+          "At the bus stop I didn't know where to put my eyes.",
+          "Twice I got lost in a neighbourhood I have lived in for twelve years, because I had never paid attention to where I actually turn.",
+          "And I noted, with a certain sense of injury, that the world managed perfectly well without my comments.",
+          "Nobody missed me on social media.",
+          "Not even I did, after about a week."
+        ],
+        [
+          "Then strange things began to happen.",
+          "I finished a book that had been lying on my bedside table for two years.",
+          "I called my sister instead of putting a heart under one of her photos, and we talked for an hour.",
+          "I noticed that I remembered conversations, because I hadn't been looking at a screen at the same time.",
+          "My brain, it seemed to me, had opened its windows and given itself a good airing."
+        ],
+        [
+          "I don't want to convert anyone here.",
+          "After a month I took the smartphone out of the drawer again, because without a banking app and tickets, life in Germany is increasingly hard work.",
+          "But our relationship has changed.",
+          "It sleeps in the kitchen now, no longer next to my pillow, and at weekends it has time off.",
+          "We see less of each other, and, quite honestly, it does us both good.",
+          "That just leaves the question of why it is the phone that sends me a report every Sunday and not the other way round."
+        ]
+      ],
+      "vocab": [
+        { "word": "aus freien Stücken", "gloss": "of my own free will" },
+        { "word": "Bildschirmzeit", "gloss": "screen time" },
+        { "word": "Vollzeitstelle", "gloss": "full-time job" },
+        { "word": "Tastenhandy", "gloss": "keypad phone" },
+        { "word": "erbärmlich", "gloss": "miserable" },
+        { "word": "verlief mich", "gloss": "got lost" },
+        { "word": "abbiege", "gloss": "turn off" },
+        { "word": "Kränkung", "gloss": "hurt, injury to pride" },
+        { "word": "auskam", "gloss": "managed, got by" },
+        { "word": "gelüftet", "gloss": "aired" },
+        { "word": "bekehren", "gloss": "convert" },
+        { "word": "mühsam", "gloss": "laborious, hard work" },
+        { "word": "umgekehrt", "gloss": "the other way round" }
+      ]
+    },
+    {
+      "id": "de-c1-10",
+      "title": "Die Nacht, als das Wasser kam",
+      "subtitle": "The night the water came",
+      "topic": "History",
+      "symbol": "water.waves",
+      "paragraphs": [
+        "Für ihr Geschichtsreferat sollte Mia, vierzehn, einen Zeitzeugen befragen, und weil ihr nichts Besseres einfiel, setzte sie sich mit ihrem Handy und einer Liste von Fragen zu ihrer Urgroßmutter Anni ins Wohnzimmer in Hamburg-Wilhelmsburg. Das Thema war die Sturmflut vom Februar neunzehnhundertzweiundsechzig, bei der allein in Hamburg über dreihundert Menschen ums Leben kamen. Mia hatte im Internet alles nachgelesen: die Deichbrüche, die Hubschrauber, den damaligen Polizeisenator Helmut Schmidt, der eigenmächtig die Bundeswehr und Hilfe der Nato angefordert hatte. Sie erwartete eine Heldengeschichte.",
+        "Uroma Anni aber sprach zuerst von der Kälte. Sie war damals zweiundzwanzig gewesen und wohnte mit ihrem Mann in einer Gartenlaube, weil nach dem Krieg Wohnungen knapp waren. Mitten in der Nacht wachte sie auf, weil ihr Arm aus dem Bett hing und ihre Hand im eiskalten Wasser lag. Im Dunkeln kletterten sie auf das Dach der Laube. Dort saßen sie elf Stunden, durchnässt, ohne zu wissen, ob das Wasser weiter steigen würde, und hörten in der Ferne Menschen um Hilfe rufen.",
+        "„Und dann kamen die Hubschrauber?“, fragte Mia. Uroma Anni schüttelte den Kopf. Gerettet habe sie ein Nachbar, Herr Petersen, ein wortkarger Hafenarbeiter, mit dem niemand in der Kolonie richtig warm geworden sei. Er habe ein altes Ruderboot besessen und sei die ganze Nacht von Dach zu Dach gerudert, bis seine Hände bluteten. Siebzehn Menschen habe er so an Land gebracht. Danach habe er nie wieder darüber gesprochen, und als die Zeitungen ihn interviewen wollten, habe er die Tür nicht aufgemacht.",
+        "Mia schrieb ihr Referat am Ende nicht über Helmut Schmidt, sondern über Herrn Petersen. Ihre Lehrerin war zunächst skeptisch, denn Quellen gab es kaum, außer einer kurzen Erwähnung in einem Kirchenblatt von damals. Aber Mia hatte eine bessere Quelle mitgebracht. Am Tag der Präsentation saß Uroma Anni in der ersten Reihe, sechsundachtzig Jahre alt, und als Mia fertig war, stand sie auf und sagte, sie wolle nur eines ergänzen: Sie sei die Fünfte gewesen, die Herr Petersen aus dem Wasser gezogen habe. Ohne ihn, fügte sie hinzu, säße jetzt niemand von ihnen hier."
+      ],
+      "english": [
+        [
+          "For her history presentation Mia, fourteen, was supposed to interview an eyewitness, and because she couldn't think of anything better, she sat down with her phone and a list of questions next to her great-grandmother Anni in the living room in Hamburg-Wilhelmsburg.",
+          "The topic was the storm flood of February 1962, in which more than three hundred people died in Hamburg alone.",
+          "Mia had read up on everything online: the dyke breaches, the helicopters, the then police senator Helmut Schmidt, who on his own authority had called in the army and NATO assistance.",
+          "She was expecting a hero's story."
+        ],
+        [
+          "But Great-Grandma Anni talked first about the cold.",
+          "She had been twenty-two at the time and lived with her husband in an allotment hut, because flats were scarce after the war.",
+          "In the middle of the night she woke up because her arm was hanging out of the bed and her hand was lying in ice-cold water.",
+          "In the dark they climbed onto the roof of the hut.",
+          "There they sat for eleven hours, soaked through, without knowing whether the water would go on rising, and heard people calling for help in the distance."
+        ],
+        [
+          "\"And then the helicopters came?\" Mia asked.",
+          "Great-Grandma Anni shook her head.",
+          "They had been rescued by a neighbour, Herr Petersen, a taciturn dock worker whom nobody in the allotment colony had ever really warmed to.",
+          "He had owned an old rowing boat and had rowed from roof to roof all night, until his hands bled.",
+          "He brought seventeen people to dry land that way.",
+          "Afterwards he never spoke of it again, and when the newspapers wanted to interview him, he didn't open the door."
+        ],
+        [
+          "In the end Mia wrote her presentation not about Helmut Schmidt but about Herr Petersen.",
+          "Her teacher was sceptical at first, because there were hardly any sources, apart from a brief mention in a parish newsletter of the time.",
+          "But Mia had brought a better source.",
+          "On the day of the presentation Great-Grandma Anni sat in the front row, eighty-six years old, and when Mia had finished, she stood up and said she only wanted to add one thing: she had been the fifth person Herr Petersen pulled out of the water.",
+          "Without him, she added, none of them would be sitting here now."
+        ]
+      ],
+      "vocab": [
+        { "word": "Referat", "gloss": "presentation, school report" },
+        { "word": "Zeitzeugen", "gloss": "eyewitness" },
+        { "word": "Sturmflut", "gloss": "storm flood" },
+        { "word": "ums Leben kamen", "gloss": "died, lost their lives" },
+        { "word": "Deichbrüche", "gloss": "dyke breaches" },
+        { "word": "eigenmächtig", "gloss": "on his own authority" },
+        { "word": "knapp", "gloss": "scarce" },
+        { "word": "durchnässt", "gloss": "soaked through" },
+        { "word": "wortkarger", "gloss": "taciturn" },
+        { "word": "gerudert", "gloss": "rowed" },
+        { "word": "Quellen", "gloss": "sources" },
+        { "word": "Erwähnung", "gloss": "mention" },
+        { "word": "ergänzen", "gloss": "add" }
+      ]
+    },
+    {
+      "id": "de-c1-11",
+      "title": "Ein Teig, älter als der Bäcker",
+      "subtitle": "A dough older than the baker",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Morgens um zwei, wenn in dem kleinen Ort auf der Schwäbischen Alb noch alle Fenster dunkel sind, brennt in der Backstube von Gerhard Maier schon Licht. Der Bäckermeister, vierundsechzig, beugt sich über einen Eimer mit einer grauen, leicht säuerlich riechenden Masse und betrachtet sie mit dem prüfenden Blick eines Arztes. Es ist ein Sauerteig, und er ist, so behauptet Maier, älter als er selbst. Sein Großvater hat ihn neunzehnhundertzweiundfünfzig angesetzt, und seitdem wird er jeden Tag gefüttert, mit Mehl und Wasser, ohne einen einzigen Tag Pause.",
+        "In Deutschland, wo es nach Angaben des Deutschen Brotinstituts über dreitausend Brotsorten gibt, ist Brot keine Beilage, sondern eine Weltanschauung. Deutsche, die ins Ausland ziehen, nennen es erstaunlich oft als das, was sie am meisten vermissen. Doch die Zahl der handwerklichen Bäckereien ist in den letzten Jahrzehnten dramatisch gesunken. Industriebetriebe und Backshops, die tiefgefrorene Teiglinge aufbacken, sind billiger und schneller. Ein Brot wie das von Maier braucht dagegen vierundzwanzig Stunden, vom Anrühren bis zum Ofen.",
+        "Lange sah es so aus, als würde der Teig mit Maier in Rente gehen. Seine Kinder hatten andere Berufe gewählt, und auf seine Anzeigen meldete sich niemand. Dann stand eines Tages eine Frau Mitte dreißig in der Backstube, Sarah Okonkwo, aufgewachsen in Stuttgart, bis vor kurzem Softwareentwicklerin bei einem großen Autokonzern. Sie hatte während der Pandemie angefangen, zu Hause Brot zu backen, und war ihm, wie sie sagt, „ziemlich hoffnungslos verfallen“. Maier hielt sie zunächst für eine Spinnerin. Nach drei Monaten Probezeit nicht mehr.",
+        "Inzwischen hat Okonkwo ihre Meisterprüfung bestanden und die Bäckerei übernommen. Sie hat ein paar Dinge verändert: Es gibt jetzt eine Website, ein Dinkelbrot mit Walnüssen und samstags eine Schlange bis auf die Straße. Den Sauerteig aber rührt sie genauso an wie Maier, wie dessen Vater und Großvater. Maier kommt noch zweimal pro Woche vorbei, angeblich nur zum Kaffee. In Wahrheit, gibt er zu, schaue er nach seinem Teig. „Man gibt so etwas nicht einfach ab“, sagt er. „Das ist, wie wenn die Tochter heiratet. Man weiß, dass es richtig ist, und trotzdem kontrolliert man den Schwiegersohn.“"
+      ],
+      "english": [
+        [
+          "At two in the morning, when all the windows in the little town on the Swabian Jura are still dark, the light is already on in Gerhard Maier's bakehouse.",
+          "The master baker, sixty-four, bends over a bucket of a grey, slightly sour-smelling mass and studies it with the searching gaze of a doctor.",
+          "It is a sourdough, and it is, Maier claims, older than he is.",
+          "His grandfather started it in 1952, and since then it has been fed every day, with flour and water, without a single day's break."
+        ],
+        [
+          "In Germany, where according to the German Bread Institute there are more than three thousand kinds of bread, bread is not a side dish but a worldview.",
+          "Germans who move abroad name it surprisingly often as the thing they miss most.",
+          "Yet the number of craft bakeries has fallen dramatically in recent decades.",
+          "Industrial producers and bake shops that bake off frozen dough pieces are cheaper and faster.",
+          "A loaf like Maier's, on the other hand, takes twenty-four hours from mixing to oven."
+        ],
+        [
+          "For a long time it looked as if the dough would retire along with Maier.",
+          "His children had chosen other careers, and nobody responded to his adverts.",
+          "Then one day a woman in her mid-thirties was standing in the bakehouse: Sarah Okonkwo, raised in Stuttgart, until recently a software developer at a big car company.",
+          "She had started baking bread at home during the pandemic and had, as she puts it, \"fallen for it pretty hopelessly\".",
+          "At first Maier thought she was a crank.",
+          "After a three-month trial period, he no longer did."
+        ],
+        [
+          "Okonkwo has since passed her master craftsman's exam and taken over the bakery.",
+          "She has changed a few things: there is now a website, a spelt loaf with walnuts and, on Saturdays, a queue out into the street.",
+          "But she mixes the sourdough exactly as Maier did, and his father and grandfather before him.",
+          "Maier still drops by twice a week, supposedly just for coffee.",
+          "In truth, he admits, he is checking on his dough.",
+          "\"You don't just hand something like that over,\" he says.",
+          "\"It's like when your daughter gets married. You know it's right, and you still keep an eye on the son-in-law.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "Backstube", "gloss": "bakehouse" },
+        { "word": "beugt sich", "gloss": "bends" },
+        { "word": "säuerlich", "gloss": "sour, tangy" },
+        { "word": "Sauerteig", "gloss": "sourdough" },
+        { "word": "angesetzt", "gloss": "started (a culture)" },
+        { "word": "gefüttert", "gloss": "fed" },
+        { "word": "Beilage", "gloss": "side dish" },
+        { "word": "Weltanschauung", "gloss": "worldview" },
+        { "word": "Teiglinge", "gloss": "dough pieces" },
+        { "word": "in Rente gehen", "gloss": "retire" },
+        { "word": "verfallen", "gloss": "fallen for, addicted to" },
+        { "word": "Spinnerin", "gloss": "crank (female)" },
+        { "word": "Probezeit", "gloss": "trial period" }
+      ]
+    },
+    {
+      "id": "de-c1-12",
+      "title": "Halbzeit in Erfurt",
+      "subtitle": "Halfway in Erfurt",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Sieben Jahre lang trafen sich Johanna und Mehmet jeden Freitag in Erfurt. Nicht weil einer von ihnen dort wohnte, sondern gerade weil keiner dort wohnte: Johanna arbeitete als Tontechnikerin in Berlin, Mehmet als Assistenzarzt in München, und Erfurt lag mit dem ICE ziemlich genau in der Mitte, von beiden Städten knapp zwei Stunden entfernt. Kennengelernt hatten sie sich ausgerechnet dort, auf dem Bahnsteig, als beide wegen einer Weichenstörung gestrandet waren und sich die letzte Bratwurst des Kiosks teilen mussten.",
+        "Was als Notlösung begann, wurde zu einem Ritual. Sie hatten ein Stammhotel am Domplatz, einen Stammitaliener und eine Bank auf der Krämerbrücke, wo sie am Samstagmorgen Kaffee aus Pappbechern tranken. Freunde fragten oft, wie sie das aushielten, diese ewige Fahrerei, diese Wochenenden in einer Stadt, die keinem von beiden gehörte. Johanna antwortete jedes Mal dasselbe: Erfurt sei das einzige Zuhause, in dem sie nie darüber streiten müssten, wer den Müll rausbringt.",
+        "Im achten Jahr bekam Mehmet eine Stelle an der Charité, und sie zogen zusammen in eine Wohnung in Berlin-Moabit. Alles war plötzlich einfacher, und alles war plötzlich ein bisschen leerer. Niemand wartete mehr auf einem Bahnsteig. Man sah sich morgens im Bad und abends in der Küche, müde und mit dem Kopf noch bei der Arbeit. Am dritten Freitag ertappte Johanna sich dabei, wie sie um halb fünf auf die Uhr schaute und auf die Durchsage wartete, dass der ICE aus München gleich einfahre.",
+        "An diesem Abend kam Mehmet nach Hause und fand auf dem Küchentisch zwei Fahrkarten. Berlin–Erfurt und zurück, Abfahrt Freitag, siebzehn Uhr achtundvierzig. Er lachte, dann wurde er ernst. „Ist das verrückt?“, fragte er. „Vollkommen“, sagte Johanna. Seitdem fahren sie einmal im Monat gemeinsam nach Erfurt, setzen sich auf ihre Bank auf der Krämerbrücke und tun so, als hätten sie sich eine Woche lang nicht gesehen. Ihre Freunde halten sie für verrückt. Sie selbst halten es für die beste Investition ihrer Ehe."
+      ],
+      "english": [
+        [
+          "For seven years Johanna and Mehmet met in Erfurt every Friday.",
+          "Not because one of them lived there, but precisely because neither did: Johanna worked as a sound engineer in Berlin, Mehmet as a junior doctor in Munich, and by high-speed train Erfurt lay almost exactly in the middle, just under two hours from each city.",
+          "They had met of all places there, on the platform, when both were stranded by a points failure and had to share the kiosk's last bratwurst."
+        ],
+        [
+          "What began as a stopgap became a ritual.",
+          "They had a regular hotel on the cathedral square, a regular Italian restaurant and a bench on the Merchants' Bridge, where they drank coffee from paper cups on Saturday mornings.",
+          "Friends often asked how they stood it, this endless travelling, these weekends in a city that belonged to neither of them.",
+          "Johanna gave the same answer every time: Erfurt was the only home in which they never had to argue about who takes the rubbish out."
+        ],
+        [
+          "In the eighth year Mehmet got a post at the Charité, and they moved in together in a flat in Berlin-Moabit.",
+          "Everything was suddenly simpler, and everything was suddenly a little emptier.",
+          "Nobody waited on a platform any more.",
+          "They saw each other in the bathroom in the morning and in the kitchen in the evening, tired, their minds still at work.",
+          "On the third Friday Johanna caught herself looking at the clock at half past four and waiting for the announcement that the train from Munich was about to arrive."
+        ],
+        [
+          "That evening Mehmet came home and found two tickets on the kitchen table.",
+          "Berlin–Erfurt return, departing Friday, 17:48.",
+          "He laughed, then grew serious.",
+          "\"Is this crazy?\" he asked.",
+          "\"Completely,\" said Johanna.",
+          "Since then they have travelled to Erfurt together once a month, sat down on their bench on the Merchants' Bridge and pretended they hadn't seen each other for a week.",
+          "Their friends think they're mad.",
+          "They themselves consider it the best investment in their marriage."
+        ]
+      ],
+      "vocab": [
+        { "word": "Tontechnikerin", "gloss": "sound engineer (female)" },
+        { "word": "Assistenzarzt", "gloss": "junior doctor" },
+        { "word": "ausgerechnet", "gloss": "of all places" },
+        { "word": "Weichenstörung", "gloss": "points failure" },
+        { "word": "gestrandet", "gloss": "stranded" },
+        { "word": "Notlösung", "gloss": "stopgap" },
+        { "word": "Pappbechern", "gloss": "paper cups" },
+        { "word": "aushielten", "gloss": "stood it, endured" },
+        { "word": "Fahrerei", "gloss": "(endless) travelling" },
+        { "word": "ertappte Johanna sich", "gloss": "Johanna caught herself" },
+        { "word": "Durchsage", "gloss": "announcement" },
+        { "word": "einfahre", "gloss": "was pulling in" }
+      ]
+    },
+    {
+      "id": "de-c1-13",
+      "title": "Was übrig bleibt",
+      "subtitle": "What's left over",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Jeden Dienstag um vierzehn Uhr bildet sich vor einem ehemaligen Gemeindehaus in Köln-Kalk eine Schlange. Rentnerinnen mit Einkaufstrolleys stehen dort, junge Mütter mit Kinderwagen, Studenten, ein Mann im Anzug, der so tut, als warte er auf jemanden. Sie alle haben einen Berechtigungsausweis, der bescheinigt, dass sie arm genug sind, um hier einkaufen zu dürfen. Drinnen verteilen Ehrenamtliche der Tafel Lebensmittel, die Supermärkte nicht mehr verkaufen wollen: Joghurt kurz vor dem Ablaufdatum, Äpfel mit Druckstellen, Brot vom Vortag.",
+        "Die Idee der Tafeln ist so einfach wie bestechend. In einem der reichsten Länder der Welt werden jedes Jahr Millionen Tonnen genießbarer Lebensmittel weggeworfen, während gleichzeitig Menschen am Monatsende nicht wissen, wie sie ihre Kinder satt bekommen. Die Tafeln bringen beides zusammen. Fast tausend Tafeln mit noch mehr Ausgabestellen gibt es inzwischen in Deutschland, getragen fast ausschließlich von Freiwilligen.",
+        "Gerade dieser Erfolg aber ist es, der manche Beobachter beunruhigt. Kritiker werfen den Tafeln vor, sie ließen den Staat aus der Verantwortung: Wo Ehrenamtliche die Lücken füllen, müsse die Politik die Sozialleistungen nicht erhöhen. Auch Ursula Behrendt, die die Ausgabestelle in Kalk seit zwölf Jahren leitet, kennt diese Argumente, und sie teilt sie zum Teil. „Eigentlich dürfte es uns gar nicht geben“, sagt sie, während sie Paprika in Kisten sortiert. „In einem gerechten Land wären wir überflüssig.“",
+        "Warum sie trotzdem weitermacht? Behrendt deutet auf die Schlange draußen. Grundsatzdebatten, sagt sie, machten niemanden satt, jedenfalls nicht heute Nachmittag. Dann erzählt sie von einem kleinen Mädchen, das einmal mit seiner Mutter kam und an der Ausgabe fragte, ob es sich eine Mango aussuchen dürfe, weil es noch nie eine gegessen habe. Die Mango war überreif und hatte einen braunen Fleck. Das Mädchen, sagt Behrendt, habe sie den ganzen Weg zum Ausgang in beiden Händen getragen wie einen Schatz. Es sei richtig, sich über das System zu empören. Aber man könne sich empören und gleichzeitig die Mango verteilen."
+      ],
+      "english": [
+        [
+          "Every Tuesday at two o'clock a queue forms outside a former parish hall in Cologne-Kalk.",
+          "Pensioners with shopping trolleys stand there, young mothers with prams, students, a man in a suit who pretends to be waiting for someone.",
+          "They all have an entitlement card certifying that they are poor enough to be allowed to shop here.",
+          "Inside, volunteers from the food bank hand out food that supermarkets no longer want to sell: yoghurt just before its use-by date, bruised apples, yesterday's bread."
+        ],
+        [
+          "The idea of the food banks is as simple as it is compelling.",
+          "In one of the richest countries in the world, millions of tonnes of edible food are thrown away every year, while at the same time people at the end of the month don't know how to feed their children.",
+          "The food banks bring the two together.",
+          "There are now almost a thousand food banks in Germany, with even more distribution points, run almost exclusively by volunteers."
+        ],
+        [
+          "Yet it is precisely this success that worries some observers.",
+          "Critics accuse the food banks of letting the state off the hook: where volunteers fill the gaps, politicians don't have to raise welfare benefits.",
+          "Ursula Behrendt, who has run the Kalk distribution point for twelve years, knows these arguments too, and in part she shares them.",
+          "\"Really, we shouldn't exist at all,\" she says as she sorts peppers into crates.",
+          "\"In a just country we'd be superfluous.\""
+        ],
+        [
+          "Why does she carry on regardless?",
+          "Behrendt points to the queue outside.",
+          "Debates about principles, she says, don't fill anyone's stomach, at least not this afternoon.",
+          "Then she tells of a little girl who came with her mother once and asked at the counter whether she could pick a mango, because she had never eaten one.",
+          "The mango was overripe and had a brown spot.",
+          "The girl, says Behrendt, carried it in both hands all the way to the exit like a treasure.",
+          "It is right to be outraged at the system, she says.",
+          "But you can be outraged and hand out the mango at the same time."
+        ]
+      ],
+      "vocab": [
+        { "word": "Berechtigungsausweis", "gloss": "entitlement card" },
+        { "word": "bescheinigt", "gloss": "certifies" },
+        { "word": "Ehrenamtliche", "gloss": "volunteers" },
+        { "word": "Ablaufdatum", "gloss": "use-by date" },
+        { "word": "Druckstellen", "gloss": "bruises" },
+        { "word": "bestechend", "gloss": "compelling" },
+        { "word": "genießbarer", "gloss": "edible" },
+        { "word": "Ausgabestellen", "gloss": "distribution points" },
+        { "word": "beunruhigt", "gloss": "worries" },
+        { "word": "Lücken", "gloss": "gaps" },
+        { "word": "Sozialleistungen", "gloss": "welfare benefits" },
+        { "word": "Grundsatzdebatten", "gloss": "debates about principles" },
+        { "word": "empören", "gloss": "be outraged" }
+      ]
+    },
+    {
+      "id": "de-c1-14",
+      "title": "Der Gast in Zimmer neun",
+      "subtitle": "The guest in room nine",
+      "topic": "Mystery",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Als Flurina im Dezember ihre Stelle an der Rezeption eines alten Hotels in Sils antrat, bekam sie von der Besitzerin, Frau Gredig, eine lange Liste von Anweisungen. Die meisten waren vernünftig, einige skurril, und eine war geradezu rätselhaft: Zimmer neun dürfe in der Nacht auf den vierten Januar niemals vergeben werden. Es sei für Herrn Theodor Weill reserviert. Herr Weill rufe nicht an, er schreibe keine E-Mails, er reserviere nie. Aber er komme. Er komme immer.",
+        "Flurina, die Geschichte studiert hatte, bevor sie in ihr Heimattal zurückgekehrt war, konnte ihre Neugier nicht lange zügeln. An einem ruhigen Nachmittag stieg sie in den Keller, wo die alten Gästebücher in Kartons lagerten. Sie fand den Namen sofort, und dann immer wieder: Theodor Weill, Zimmer neun, dritter Januar, Jahr für Jahr, bis zurück ins Jahr neunzehnhundertsechsunddreißig. Die Handschrift war in allen Büchern dieselbe, schräg und schwungvoll, und hinter dem Namen stand jedes Mal ein kleiner, sorgfältig gezeichneter Stern. Flurina rechnete nach und bekam eine Gänsehaut. Der Mann müsste weit über hundert Jahre alt sein.",
+        "Am dritten Januar fiel den ganzen Tag Schnee, und die Passstraße über den Maloja war gesperrt. Gegen elf Uhr abends war Flurina überzeugt, dass niemand mehr kommen würde. Da ging die Tür auf. Ein Mann von vielleicht vierzig Jahren trat ein, klopfte sich den Schnee vom Mantel und griff ohne ein Wort nach dem Stift. Er schrieb, schräg und schwungvoll, Theodor Weill, und dahinter einen kleinen Stern. Flurina starrte auf die Unterschrift. „Wer sind Sie?“, fragte sie, und es klang unhöflicher, als sie es gemeint hatte.",
+        "Der Mann lachte, als hätte er die Frage erwartet. Er sei der dritte Theodor Weill, der hierherkomme, erklärte er. Sein Urgroßvater, ein Astronom aus Zürich, sei im Winter neunzehnhundertsechsunddreißig zum ersten Mal hier gewesen, weil der Himmel über dem gefrorenen See der klarste sei, den er je gesehen habe. Er habe sich gewünscht, dass die Familie die Tradition fortführe, und jedes Kind, das seinen Namen trage, lerne ihn zu schreiben, indem es die allererste Unterschrift im Gästebuch abmale. Dann fragte er, ob Flurina einen Moment Zeit habe. Sie traten hinaus in die Kälte. Der Schnee hatte aufgehört, und über dem See stand ein Himmel, so dicht mit Sternen besetzt, dass Flurina, die hier aufgewachsen war, ihn zum ersten Mal wirklich sah."
+      ],
+      "english": [
+        [
+          "When Flurina started her job on the reception desk of an old hotel in Sils in December, the owner, Frau Gredig, gave her a long list of instructions.",
+          "Most were sensible, some quirky, and one was downright puzzling: room nine must never be let for the night of the third of January.",
+          "It was reserved for Herr Theodor Weill.",
+          "Herr Weill didn't phone, he didn't write emails, he never booked.",
+          "But he came.",
+          "He always came."
+        ],
+        [
+          "Flurina, who had studied history before returning to her home valley, couldn't keep her curiosity in check for long.",
+          "One quiet afternoon she went down to the cellar, where the old guest books were stored in boxes.",
+          "She found the name at once, and then again and again: Theodor Weill, room nine, third of January, year after year, all the way back to 1936.",
+          "The handwriting was the same in every book, slanting and flamboyant, and after the name there was always a small, carefully drawn star.",
+          "Flurina did the sums and got goosebumps.",
+          "The man would have to be well over a hundred years old."
+        ],
+        [
+          "On the third of January it snowed all day, and the road over the Maloja Pass was closed.",
+          "By about eleven at night Flurina was convinced that nobody would come.",
+          "Then the door opened.",
+          "A man of perhaps forty came in, brushed the snow off his coat and reached for the pen without a word.",
+          "He wrote, slanting and flamboyant, Theodor Weill, and after it a small star.",
+          "Flurina stared at the signature.",
+          "\"Who are you?\" she asked, and it sounded ruder than she had meant it to."
+        ],
+        [
+          "The man laughed as if he had expected the question.",
+          "He was the third Theodor Weill to come here, he explained.",
+          "His great-grandfather, an astronomer from Zurich, had first come here in the winter of 1936, because the sky above the frozen lake was the clearest he had ever seen.",
+          "He had wished the family to continue the tradition, and every child who bore his name learned to write it by copying the very first signature in the guest book.",
+          "Then he asked whether Flurina had a moment.",
+          "They stepped out into the cold.",
+          "The snow had stopped, and above the lake hung a sky so densely set with stars that Flurina, who had grown up here, truly saw it for the first time."
+        ]
+      ],
+      "vocab": [
+        { "word": "antrat", "gloss": "started (a job)" },
+        { "word": "Anweisungen", "gloss": "instructions" },
+        { "word": "skurril", "gloss": "quirky, bizarre" },
+        { "word": "rätselhaft", "gloss": "puzzling" },
+        { "word": "vergeben", "gloss": "let, given away" },
+        { "word": "zügeln", "gloss": "keep in check" },
+        { "word": "lagerten", "gloss": "were stored" },
+        { "word": "schwungvoll", "gloss": "flamboyant, sweeping" },
+        { "word": "Passstraße", "gloss": "pass road" },
+        { "word": "gesperrt", "gloss": "closed" },
+        { "word": "fortführe", "gloss": "continue" },
+        { "word": "abmale", "gloss": "copied (by drawing)" },
+        { "word": "besetzt", "gloss": "set, studded" }
+      ]
+    },
+    {
+      "id": "de-c1-15",
+      "title": "Die rote Farbe",
+      "subtitle": "The red paint",
+      "topic": "Science",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Jedes Jahr im September steigt Andrea Wallner mit zwei Studenten, einem GPS-Gerät und einer Dose roter Farbe zur Pasterze hinauf, dem größten Gletscher Österreichs, am Fuß des Großglockners. Die Glaziologin der Universität Graz misst, wie weit sich das Eis im vergangenen Jahr zurückgezogen hat. Die Ergebnisse sind seit Jahrzehnten ernüchternd, und in manchen Sommern verliert die Gletscherzunge über fünfzig Meter. Wo Wallners Großvater als junger Bergführer noch Gäste übers Eis führte, liegt heute ein grauer Schuttsee.",
+        "Die Messungen an der Pasterze gehören zu den ältesten der Welt. Seit dem neunzehnten Jahrhundert haben Forscher am Rand des Gletschers Markierungen auf Felsen gemalt, jeweils mit Jahreszahl, dort, wo das Eis gerade endete. Wer heute vom Parkplatz zum Gletscher hinabsteigt, geht diese Zahlen entlang wie eine Zeitleiste. Der Weg wird jedes Jahr länger. Für Touristen, so Wallner, sei das oft der Moment, in dem der Klimawandel aufhöre, eine abstrakte Kurve in der Zeitung zu sein. „Man kann ihn mit den Füßen abschreiten.“",
+        "Wallner ist Wissenschaftlerin, und sie misstraut großen Gefühlen. Sie spricht lieber über Massenbilanzen und Strahlungsmodelle als über Trauer. Doch es gibt einen Stein, an dem sie jedes Jahr kurz stehen bleibt. Darauf steht, in verblichener roter Farbe, eine Jahreszahl aus den Sechzigerjahren und daneben zwei Initialen: die ihres Großvaters, der die Forscher damals begleitete und selbst einen Pinsel in die Hand nehmen durfte. Der Stein liegt inzwischen fast einen Kilometer vom Eis entfernt.",
+        "Ob sie manchmal daran denke, aufzuhören? Wallner überlegt lange. Ein Arzt höre ja auch nicht auf, Fieber zu messen, nur weil die Kurve steige, sagt sie schließlich. Die Daten seien das Einzige, was sie diesem Gletscher noch geben könne: ein genaues Protokoll seines Verschwindens, damit niemand später behaupten könne, man habe es nicht gewusst. Dann taucht sie den Pinsel in die rote Farbe und schreibt die aktuelle Jahreszahl auf einen frischen Felsen, so sorgfältig, als könnte eine schöne Handschrift etwas aufhalten. Einer der Studenten fragt, wie viele Jahre man hier wohl noch messen werde. Wallner antwortet nicht. Sie packt die Farbe ein und geht voraus, dem Eis entgegen, das jedes Jahr ein Stück weiter weg ist."
+      ],
+      "english": [
+        [
+          "Every year in September Andrea Wallner climbs up to the Pasterze, Austria's largest glacier at the foot of the Grossglockner, with two students, a GPS device and a tin of red paint.",
+          "The University of Graz glaciologist measures how far the ice has retreated over the past year.",
+          "The results have been sobering for decades, and in some summers the glacier tongue loses more than fifty metres.",
+          "Where Wallner's grandfather once led guests across the ice as a young mountain guide, there is now a grey lake full of rubble."
+        ],
+        [
+          "The measurements on the Pasterze are among the oldest in the world.",
+          "Since the nineteenth century researchers have painted markings on rocks at the edge of the glacier, each with the year, at the point where the ice ended at the time.",
+          "Anyone who walks down from the car park to the glacier today follows these numbers like a timeline.",
+          "The path gets longer every year.",
+          "For tourists, Wallner says, this is often the moment when climate change stops being an abstract curve in the newspaper.",
+          "\"You can pace it out with your feet.\""
+        ],
+        [
+          "Wallner is a scientist, and she distrusts big emotions.",
+          "She would rather talk about mass balances and radiation models than about grief.",
+          "Yet there is one stone at which she stops briefly every year.",
+          "On it, in faded red paint, is a year from the sixties and next to it two initials: those of her grandfather, who accompanied the researchers back then and was allowed to take up a brush himself.",
+          "The stone now lies almost a kilometre from the ice."
+        ],
+        [
+          "Does she sometimes think of giving up?",
+          "Wallner thinks for a long time.",
+          "A doctor doesn't stop taking a temperature just because the curve is rising, she says at last.",
+          "The data are the only thing she can still give this glacier: a precise record of its disappearance, so that nobody can later claim they didn't know.",
+          "Then she dips the brush in the red paint and writes the current year on a fresh rock, as carefully as if beautiful handwriting could hold something back.",
+          "One of the students asks how many more years they will be measuring here.",
+          "Wallner doesn't answer.",
+          "She packs up the paint and walks on ahead, towards the ice, which is a little further away every year."
+        ]
+      ],
+      "vocab": [
+        { "word": "Gletscher", "gloss": "glacier" },
+        { "word": "Glaziologin", "gloss": "glaciologist (female)" },
+        { "word": "zurückgezogen", "gloss": "retreated" },
+        { "word": "ernüchternd", "gloss": "sobering" },
+        { "word": "Gletscherzunge", "gloss": "glacier tongue" },
+        { "word": "Bergführer", "gloss": "mountain guide" },
+        { "word": "Schuttsee", "gloss": "lake full of rubble" },
+        { "word": "Zeitleiste", "gloss": "timeline" },
+        { "word": "abschreiten", "gloss": "pace out" },
+        { "word": "misstraut", "gloss": "distrusts" },
+        { "word": "verblichener", "gloss": "faded" },
+        { "word": "Verschwindens", "gloss": "disappearance" },
+        { "word": "aufhalten", "gloss": "hold back, stop" }
+      ]
+    }
+  ]
+}
