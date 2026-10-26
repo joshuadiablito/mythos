@@ -1,0 +1,499 @@
+{
+  "language": "el",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "el-b2-01",
+      "title": "Επιστολή για τα πλατάνια",
+      "subtitle": "A letter about the plane trees",
+      "topic": "City",
+      "symbol": "building.2.fill",
+      "paragraphs": [
+        "Αξιότιμε κύριε Δήμαρχε, σας γράφω ως κάτοικος της οδού Κουμουνδούρου στον Βόλο εδώ και τριάντα δύο χρόνια. Την περασμένη Πέμπτη, χωρίς καμία προειδοποίηση, συνεργεία του δήμου έκοψαν τα τρία πλατάνια μπροστά από το σχολείο της γειτονιάς μας. Όταν ρώτησα τους εργάτες γιατί, μου απάντησαν ότι είχαν εντολή και ότι τα δέντρα «ήταν επικίνδυνα». Θα ήθελα να μάθω ποιος έκρινε ότι ήταν επικίνδυνα και με ποια κριτήρια.",
+        "Δεν είμαι ειδική, αλλά γνώριζα αυτά τα δέντρα καλύτερα από τον καθένα. Κάτω από τη σκιά τους περίμεναν οι γονείς τα παιδιά τους, έπαιζαν τάβλι οι συνταξιούχοι και ξεκουράζονταν οι διανομείς τα μεσημέρια του Ιουλίου. Κανένα κλαδί δεν είχε πέσει ποτέ, ούτε στη μεγάλη κακοκαιρία του 2023. Αντίθετα, το καλοκαίρι η θερμοκρασία στο πεζοδρόμιο ήταν τουλάχιστον πέντε βαθμούς χαμηλότερη απ' ό,τι στον γυμνό δρόμο της διπλανής πλατείας.",
+        "Ακούσαμε από τρίτους ότι στη θέση τους θα γίνουν θέσεις στάθμευσης. Ελπίζω να μην είναι αλήθεια. Αν όμως είναι, ζητώ να δημοσιευτεί η μελέτη στην οποία βασίστηκε η απόφαση και να γίνει συζήτηση στο δημοτικό συμβούλιο με τη συμμετοχή των κατοίκων. Ζητώ επίσης να φυτευτούν καινούργια δέντρα, όχι κάποτε, αλλά πριν από το επόμενο καλοκαίρι.",
+        "Τα παιδιά της γειτονιάς ζωγράφισαν τα τρία πλατάνια και κόλλησαν τις ζωγραφιές στα κομμένα κούτσουρα. Σας προσκαλώ να έρθετε να τις δείτε, πριν τις ξεπλύνει η βροχή. Με εκτίμηση, Αναστασία Παπαθανασίου, συνταξιούχος δασκάλα. Υστερόγραφο: Ένας από τους μικρούς ζωγράφους είναι ο εγγονός σας. Τον ρώτησα αν ξέρει ποιος έκοψε τα δέντρα και μου είπε ότι θα σας ρωτήσει ο ίδιος στο τραπέζι της Κυριακής."
+      ],
+      "english": [
+        ["Dear Mr Mayor, I am writing to you as a resident of Koumoundourou Street in Volos for the past thirty-two years.", "Last Thursday, without any warning, council work crews cut down the three plane trees in front of our neighbourhood school.", "When I asked the workers why, they told me they had orders and that the trees “were dangerous”.", "I would like to know who judged them to be dangerous, and by what criteria."],
+        ["I am no expert, but I knew those trees better than anyone.", "In their shade parents waited for their children, pensioners played backgammon and delivery riders rested on July afternoons.", "Not a single branch had ever fallen, not even in the great storm of 2023.", "On the contrary, in summer the temperature on the pavement was at least five degrees lower than in the bare street by the next square."],
+        ["We have heard second-hand that parking spaces will be built in their place.", "I hope that is not true.", "If it is, however, I ask that the study on which the decision was based be published, and that it be discussed at the city council with residents taking part.", "I also ask that new trees be planted, not at some point, but before next summer."],
+        ["The neighbourhood children drew the three plane trees and stuck their drawings on the stumps.", "I invite you to come and see them before the rain washes them away.", "Yours sincerely, Anastasia Papathanasiou, retired schoolteacher.", "Postscript: One of the little artists is your grandson.", "I asked him if he knew who cut down the trees, and he told me he would ask you himself at Sunday lunch."]
+      ],
+      "vocab": [
+        { "word": "προειδοποίηση", "gloss": "warning" },
+        { "word": "συνεργεία", "gloss": "work crews" },
+        { "word": "εντολή", "gloss": "orders, instructions" },
+        { "word": "έκρινε", "gloss": "judged, decided" },
+        { "word": "κριτήρια", "gloss": "criteria" },
+        { "word": "διανομείς", "gloss": "delivery riders" },
+        { "word": "κακοκαιρία", "gloss": "storm, spell of bad weather" },
+        { "word": "θέσεις στάθμευσης", "gloss": "parking spaces" },
+        { "word": "να δημοσιευτεί", "gloss": "be published" },
+        { "word": "να φυτευτούν", "gloss": "be planted" },
+        { "word": "κούτσουρα", "gloss": "stumps" },
+        { "word": "υστερόγραφο", "gloss": "postscript" }
+      ]
+    },
+    {
+      "id": "el-b2-02",
+      "title": "Η καπετάνισσα",
+      "subtitle": "The skipper",
+      "topic": "Work",
+      "symbol": "sailboat.fill",
+      "paragraphs": [
+        "Η Φωτεινή Χατζηθεμελή είναι τριάντα οκτώ χρονών και μία από τις λίγες γυναίκες που έχουν δική τους ψαρόβαρκα στην Κάλυμνο. Τη συναντήσαμε στο λιμάνι της Πόθιας, στις πέντε το πρωί, λίγο πριν βγει για ψάρεμα. «Αν θέλετε συνέντευξη, θα την κάνουμε στη θάλασσα», μας είπε, και μας έδωσε ένα αδιάβροχο.",
+        "Πώς αποφασίσατε να γίνετε ψαρού; «Δεν το αποφάσισα, μου έτυχε», απαντά γελώντας. «Ο πατέρας μου ήταν σφουγγαράς, όπως και ο παππούς μου. Όταν αρρώστησε, κάποιος έπρεπε να βγάλει τη βάρκα, αλλιώς θα την πουλούσαμε. Τα αδέρφια μου ζούσαν ήδη στην Αθήνα. Έτσι βγήκα εγώ, για ένα καλοκαίρι, και δεν σταμάτησα ποτέ.»",
+        "Πώς σας αντιμετώπισαν οι άλλοι ψαράδες; «Στην αρχή με κοίταζαν σαν να είχα έρθει από άλλο πλανήτη. Κάποιοι έλεγαν ότι η θάλασσα δεν είναι για γυναίκες και στοιχημάτιζαν πόσο θα αντέξω. Ένας μάλιστα μου πρότεινε να του πουλήσω τα δίχτυα μου πριν χαλάσουν.» Τι άλλαξε; «Ο χρόνος. Όταν σε βλέπουν να βγαίνεις κάθε μέρα, με κάθε καιρό, κάποια στιγμή σταματούν να σχολιάζουν. Σήμερα ο ίδιος άνθρωπος μού τηλεφωνεί για να με ρωτήσει πού έχει ψάρι.»",
+        "Ποιο είναι το μεγαλύτερο πρόβλημα σήμερα; Η Φωτεινή σοβαρεύει. «Η θάλασσα αδειάζει. Τα ψάρια είναι λιγότερα και μικρότερα από ό,τι πριν από δέκα χρόνια, και οι μεγάλες τράτες δεν αφήνουν τίποτα για εμάς. Αν δεν προστατευτούν κάποιες περιοχές, σε είκοσι χρόνια δεν θα υπάρχουν ψαράδες στην Κάλυμνο.» Τραβάει τα δίχτυα και μέσα σπαρταράει ένας μεγάλος ροφός. «Βλέπετε;» λέει χαμογελώντας. «Σήμερα όμως η θάλασσα ήθελε να σας κάνει καλή εντύπωση.»"
+      ],
+      "english": [
+        ["Foteini Chatzithemeli is thirty-eight and one of the few women who own their own fishing boat on Kalymnos.", "We met her at the harbour in Pothia at five in the morning, just before she went out fishing.", "“If you want an interview, we'll do it at sea,” she told us, and handed us a raincoat."],
+        ["How did you decide to become a fisherwoman?", "“I didn't decide, it just happened to me,” she answers, laughing.", "“My father was a sponge diver, and so was my grandfather. When he fell ill, someone had to take the boat out, or else we would have sold it. My brothers and sisters were already living in Athens. So I went out, for one summer, and I never stopped.”"],
+        ["How did the other fishermen treat you?", "“At first they looked at me as if I'd come from another planet. Some said the sea wasn't for women and placed bets on how long I'd last. One of them even offered to buy my nets before they went to waste.”", "What changed?", "“Time. When they see you going out every day, in all weathers, at some point they stop commenting. Today that same man phones me to ask where the fish are.”"],
+        ["What is the biggest problem today?", "Foteini turns serious.", "“The sea is emptying. There are fewer fish, and they're smaller than ten years ago, and the big trawlers leave nothing for us. If some areas aren't protected, in twenty years there will be no fishermen on Kalymnos.”", "She hauls in the nets and inside a big grouper is thrashing.", "“See?” she says with a smile.", "“But today the sea wanted to make a good impression on you.”"]
+      ],
+      "vocab": [
+        { "word": "ψαρόβαρκα", "gloss": "fishing boat" },
+        { "word": "αδιάβροχο", "gloss": "raincoat" },
+        { "word": "μου έτυχε", "gloss": "it just happened to me" },
+        { "word": "σφουγγαράς", "gloss": "sponge diver" },
+        { "word": "αντιμετώπισαν", "gloss": "treated" },
+        { "word": "στοιχημάτιζαν", "gloss": "were betting" },
+        { "word": "δίχτυα", "gloss": "(fishing) nets" },
+        { "word": "σχολιάζουν", "gloss": "comment" },
+        { "word": "σοβαρεύει", "gloss": "turns serious" },
+        { "word": "τράτες", "gloss": "trawlers" },
+        { "word": "προστατευτούν", "gloss": "are protected" },
+        { "word": "σπαρταράει", "gloss": "is thrashing (of a caught fish)" }
+      ]
+    },
+    {
+      "id": "el-b2-03",
+      "title": "Γιατί δεν θέλω έξυπνο σπίτι",
+      "subtitle": "Why I don't want a smart home",
+      "topic": "Technology",
+      "symbol": "cpu",
+      "paragraphs": [
+        "Τον περασμένο μήνα ο κουνιάδος μου μού έκανε δώρο ένα «έξυπνο» ηχείο. Μου εξήγησε με ενθουσιασμό ότι θα μπορούσα να ανάβω τα φώτα με τη φωνή μου, να ρωτάω για τον καιρό και να ακούω ειδήσεις χωρίς να σηκωθώ από τον καναπέ. Τον ευχαρίστησα, έβαλα το ηχείο στο ράφι και, για να είμαι ειλικρινής, δεν το έχω συνδέσει ακόμα. Ας μου επιτραπεί να εξηγήσω γιατί.",
+        "Το πρώτο μου επιχείρημα είναι πρακτικό. Το σπίτι μου λειτουργεί άψογα εδώ και σαράντα χρόνια με διακόπτες, κλειδιά και ένα θερμόμετρο στο μπαλκόνι. Όταν κόβεται το ρεύμα, κάτι που στην Κέρκυρα συμβαίνει συχνότερα απ' όσο θα ήθελα, εγώ τουλάχιστον μπορώ να ανοίξω την πόρτα μου. Δεν είμαι βέβαιος ότι το ίδιο ισχύει για τους γείτονες που ξεκλειδώνουν με εφαρμογή.",
+        "Το δεύτερο είναι πιο σοβαρό. Μια συσκευή που ακούει διαρκώς, περιμένοντας να την καλέσω, ακούει αναγκαστικά και όλα τα υπόλοιπα: τους καβγάδες, τα τραγούδια στο μπάνιο, τις κουβέντες με τη γυναίκα μου για τα οικονομικά μας. Οι εταιρείες μάς διαβεβαιώνουν ότι τίποτα δεν καταγράφεται χωρίς την άδειά μας. Ίσως να είναι έτσι. Δεν βλέπω όμως γιατί πρέπει να το πιστέψω χωρίς αποδείξεις, όταν τα ίδια ακριβώς έλεγαν πριν από χρόνια για τα κινητά μας.",
+        "Δεν είμαι εχθρός της τεχνολογίας. Γράφω αυτό το κείμενο σε υπολογιστή και θα το στείλω με ηλεκτρονικό ταχυδρομείο. Πιστεύω όμως ότι κάθε εργαλείο πρέπει να λύνει ένα πρόβλημα που πράγματι έχουμε. Το να σηκωθώ από τον καναπέ για να ανάψω τη λάμπα δεν είναι πρόβλημα, είναι από τις λίγες φορές της ημέρας που κουνιέμαι. Το ηχείο, λοιπόν, θα μείνει στο ράφι. Φοβάμαι μόνο ότι, αν ακούσει κάποιον να διαβάζει δυνατά αυτό το άρθρο, θα προσβληθεί."
+      ],
+      "english": [
+        ["Last month my brother-in-law gave me a “smart” speaker as a present.", "He explained enthusiastically that I would be able to turn on the lights with my voice, ask about the weather and listen to the news without getting up from the sofa.", "I thanked him, put the speaker on the shelf and, to be honest, I still haven't connected it.", "Allow me to explain why."],
+        ["My first argument is practical.", "My home has worked flawlessly for forty years with switches, keys and a thermometer on the balcony.", "When the power goes off, which in Corfu happens more often than I'd like, I can at least open my front door.", "I'm not sure the same is true for the neighbours who unlock theirs with an app."],
+        ["The second is more serious.", "A device that listens constantly, waiting for me to call it, inevitably hears everything else as well: the rows, the singing in the shower, the conversations with my wife about our finances.", "The companies assure us that nothing is recorded without our permission.", "That may be so.", "But I don't see why I should believe it without proof, when they said exactly the same things about our phones years ago."],
+        ["I am not an enemy of technology.", "I am writing this piece on a computer and I'll send it by email.", "But I believe every tool should solve a problem we actually have.", "Getting up from the sofa to switch on the lamp is not a problem; it's one of the few times in the day that I move.", "So the speaker will stay on the shelf.", "My only fear is that if it hears someone reading this article aloud, it will be offended."]
+      ],
+      "vocab": [
+        { "word": "κουνιάδος", "gloss": "brother-in-law" },
+        { "word": "ηχείο", "gloss": "speaker" },
+        { "word": "δεν το έχω συνδέσει", "gloss": "I haven't connected it" },
+        { "word": "ας μου επιτραπεί", "gloss": "allow me (lit. let it be permitted to me)" },
+        { "word": "επιχείρημα", "gloss": "argument" },
+        { "word": "άψογα", "gloss": "flawlessly" },
+        { "word": "διακόπτες", "gloss": "switches" },
+        { "word": "κόβεται το ρεύμα", "gloss": "the power goes off" },
+        { "word": "διαρκώς", "gloss": "constantly" },
+        { "word": "διαβεβαιώνουν", "gloss": "assure" },
+        { "word": "καταγράφεται", "gloss": "is recorded" },
+        { "word": "θα προσβληθεί", "gloss": "it will be offended" }
+      ]
+    },
+    {
+      "id": "el-b2-04",
+      "title": "Ο ελαιώνας",
+      "subtitle": "The olive grove",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Όταν πέθανε η μητέρα τους, η Ευτυχία και ο αδερφός της ο Σπύρος κληρονόμησαν έναν ελαιώνα με διακόσιες ελιές έξω από την Κορώνη. Η Ευτυχία ζούσε στη Μεσσήνη και πήγαινε κάθε Νοέμβριο να βοηθήσει στο μάζεμα. Ο Σπύρος ζούσε στη Στουτγάρδη εδώ και είκοσι χρόνια και είχε να έρθει στο χωριό από την κηδεία του πατέρα τους.",
+        "Λίγες εβδομάδες μετά την κηδεία, ο Σπύρος τηλεφώνησε. Είπε ότι ένας επενδυτής ενδιαφερόταν να αγοράσει τη γη για να χτίσει βίλες με θέα στη θάλασσα και ότι η προσφορά ήταν πολύ καλή. Πρόσθεσε ότι κανένας από τους δύο δεν ζούσε από το λάδι και ότι δεν είχε νόημα να κρατήσουν κάτι που τους έφερνε μόνο έξοδα. Η Ευτυχία του απάντησε ότι έπρεπε να το σκεφτεί και έκλεισε το τηλέφωνο πριν πει κάτι που θα μετάνιωνε.",
+        "Εκείνο το βράδυ δεν κοιμήθηκε. Ήξερε ότι ο αδερφός της είχε δίκιο στα νούμερα. Το λάδι πουλιόταν φτηνά, τα μεροκάματα ήταν ακριβά και τα δέντρα ήθελαν κλάδεμα που κανείς δεν θα έκανε. Παρ' όλα αυτά, δεν μπορούσε να φανταστεί πισίνες στη θέση τους. Την επομένη έστειλε στον Σπύρο ένα μήνυμα: του ζήτησε να έρθει για το μάζεμα πριν υπογράψει οτιδήποτε.",
+        "Ο Σπύρος ήρθε τον Νοέμβριο, με την αμφιβολία ζωγραφισμένη στο πρόσωπο. Τρεις μέρες άπλωναν πανιά, ράβδιζαν κλαδιά και κουβαλούσαν τσουβάλια μαζί. Το τελευταίο βράδυ, στο ελαιοτριβείο, η Ευτυχία τού έδωσε μια φέτα ψωμί βουτηγμένη στο καινούργιο λάδι, όπως έκανε η μητέρα τους. Ο Σπύρος έφαγε σιωπηλός. Μετά έβγαλε το κινητό του και έγραψε στον επενδυτή ότι ο ελαιώνας δεν πουλιέται."
+      ],
+      "english": [
+        ["When their mother died, Eftychia and her brother Spyros inherited an olive grove of two hundred trees outside Koroni.", "Eftychia lived in Messini and went every November to help with the harvest.", "Spyros had lived in Stuttgart for twenty years and hadn't been back to the village since their father's funeral."],
+        ["A few weeks after the funeral, Spyros phoned.", "He said that an investor was interested in buying the land to build villas with sea views, and that the offer was very good.", "He added that neither of them made a living from the oil, and that there was no point keeping something that brought them nothing but costs.", "Eftychia replied that she needed to think about it, and hung up before she said something she would regret."],
+        ["That night she didn't sleep.", "She knew her brother was right about the numbers.", "The oil sold cheaply, day labour was expensive, and the trees needed pruning that nobody would do.", "Even so, she couldn't imagine swimming pools in their place.", "The next day she sent Spyros a message: she asked him to come for the harvest before he signed anything."],
+        ["Spyros came in November, with doubt written all over his face.", "For three days they spread out the cloths, beat the branches and carried sacks together.", "On the last evening, at the olive press, Eftychia gave him a slice of bread dipped in the new oil, as their mother used to do.", "Spyros ate in silence.", "Then he took out his phone and wrote to the investor that the olive grove was not for sale."]
+      ],
+      "vocab": [
+        { "word": "κληρονόμησαν", "gloss": "inherited" },
+        { "word": "ελαιώνα", "gloss": "olive grove" },
+        { "word": "μάζεμα", "gloss": "harvest, picking" },
+        { "word": "επενδυτής", "gloss": "investor" },
+        { "word": "δεν είχε νόημα", "gloss": "there was no point" },
+        { "word": "θα μετάνιωνε", "gloss": "she would regret" },
+        { "word": "μεροκάματα", "gloss": "day wages" },
+        { "word": "κλάδεμα", "gloss": "pruning" },
+        { "word": "αμφιβολία", "gloss": "doubt" },
+        { "word": "ράβδιζαν", "gloss": "beat (the branches with sticks)" },
+        { "word": "ελαιοτριβείο", "gloss": "olive press" },
+        { "word": "βουτηγμένη", "gloss": "dipped" }
+      ]
+    },
+    {
+      "id": "el-b2-05",
+      "title": "Τρεις μαθητές",
+      "subtitle": "Three pupils",
+      "topic": "Society",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Όταν ο Αλέξης διορίστηκε δάσκαλος σε ένα χωριό των Τζουμέρκων, άνοιξε τον χάρτη για να βρει πού ακριβώς βρίσκεται. Το σχολείο είχε κάποτε εκατό μαθητές. Τη χρονιά που έφτασε εκείνος, είχε τρεις: δύο αδέρφια, την Αθηνά και τον Γιώργο, και ένα αγόρι από την Αλβανία, τον Ερμάλ, του οποίου ο πατέρας δούλευε σε μια στάνη.",
+        "Ο Αλέξης είχε προειδοποιηθεί ότι το σχολείο ενδέχεται να κλείσει στο τέλος της χρονιάς. Σύμφωνα με τους κανονισμούς, ένα σχολείο με λιγότερους από τέσσερις μαθητές «συγχωνεύεται» με κάποιο άλλο. Για τα παιδιά αυτό σήμαινε μία ώρα με το ταξί κάθε πρωί, σε στροφές πάνω από γκρεμούς, τον χειμώνα με χιόνι. Για το χωριό σήμαινε κάτι χειρότερο: ότι θα έφευγαν και οι τελευταίες νέες οικογένειες.",
+        "Ο Αλέξης όμως δεν ήταν άνθρωπος που καθόταν με σταυρωμένα χέρια. Μαζί με τα παιδιά έφτιαξαν ένα μικρό ιστολόγιο, όπου κάθε εβδομάδα έγραφαν για τη ζωή στο βουνό: για τα κοπάδια, για το πανηγύρι του χωριού, για τον πρώτο χιονάνθρωπο. Δεν περίμεναν ότι θα το διάβαζε κανείς. Τον Μάρτιο όμως ένα κείμενο του Ερμάλ, για τον πατέρα του που μιλούσε στα πρόβατα σε τρεις γλώσσες, κοινοποιήθηκε χιλιάδες φορές.",
+        "Τον Ιούνιο ένα ζευγάρι από τη Θεσσαλονίκη, που δούλευε από απόσταση, νοίκιασε ένα σπίτι στο χωριό. Είχαν μια κόρη επτά χρονών. «Διαβάσαμε το ιστολόγιο», είπαν στον Αλέξη, «και η μικρή είπε ότι θέλει να πάει σε σχολείο όπου οι μαθητές γράφουν για τα πρόβατα». Τον Σεπτέμβριο το σχολείο άνοιξε με τέσσερις μαθητές. Κανείς δεν μπορεί να πει για πόσο ακόμα."
+      ],
+      "english": [
+        ["When Alexis was appointed teacher in a village in the Tzoumerka mountains, he opened the map to find out exactly where it was.", "The school had once had a hundred pupils.", "The year he arrived, it had three: a brother and sister, Athina and Giorgos, and a boy from Albania, Ermal, whose father worked at a sheepfold."],
+        ["Alexis had been warned that the school might close at the end of the year.", "Under the regulations, a school with fewer than four pupils is “merged” with another.", "For the children that meant an hour by taxi every morning, on bends above sheer drops, in the snow in winter.", "For the village it meant something worse: that the last young families would leave too."],
+        ["But Alexis was not one to sit back with his arms folded.", "Together with the children he set up a little blog, where every week they wrote about life in the mountains: about the flocks, the village festival, the first snowman.", "They didn't expect anyone to read it.", "But in March a piece by Ermal, about his father, who talked to the sheep in three languages, was shared thousands of times."],
+        ["In June a couple from Thessaloniki who worked remotely rented a house in the village.", "They had a seven-year-old daughter.", "“We read the blog,” they told Alexis, “and our little girl said she wants to go to a school where the pupils write about sheep.”", "In September the school opened with four pupils.", "Nobody can say for how much longer."]
+      ],
+      "vocab": [
+        { "word": "διορίστηκε", "gloss": "was appointed" },
+        { "word": "στάνη", "gloss": "sheepfold" },
+        { "word": "είχε προειδοποιηθεί", "gloss": "had been warned" },
+        { "word": "ενδέχεται", "gloss": "may, might" },
+        { "word": "συγχωνεύεται", "gloss": "is merged" },
+        { "word": "γκρεμούς", "gloss": "sheer drops, cliffs" },
+        { "word": "με σταυρωμένα χέρια", "gloss": "with arms folded, doing nothing" },
+        { "word": "ιστολόγιο", "gloss": "blog" },
+        { "word": "κοπάδια", "gloss": "flocks" },
+        { "word": "κοινοποιήθηκε", "gloss": "was shared" },
+        { "word": "από απόσταση", "gloss": "remotely" }
+      ]
+    },
+    {
+      "id": "el-b2-06",
+      "title": "Το φως που άργησε",
+      "subtitle": "The light that took its time",
+      "topic": "Science",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Το αστεροσκοπείο του Σκίνακα βρίσκεται σχεδόν στα δύο χιλιάδες μέτρα, στον Ψηλορείτη, μακριά από τα φώτα των πόλεων. Εκεί πέρασε το καλοκαίρι η Μαρία, φοιτήτρια φυσικής στο Ηράκλειο, ως εθελόντρια. Η δουλειά της δεν είχε τίποτα ρομαντικό: έλεγχε εκατοντάδες ψηφιακές εικόνες του ουρανού και σημείωνε αν κάποιο αστέρι είχε αλλάξει φωτεινότητα από τη μια νύχτα στην άλλη.",
+        "Μια νύχτα του Αυγούστου, γύρω στις τρεις, πρόσεξε ένα φωτεινό σημάδι σε ένα σημείο του αστερισμού του Κύκνου όπου την προηγούμενη εβδομάδα δεν υπήρχε τίποτα. Η πρώτη της σκέψη ήταν ότι πρόκειται για σκόνη στον φακό ή για κάποιο λάθος του λογισμικού. Δίστασε να ξυπνήσει τον υπεύθυνο, τον καθηγητή Καλογεράκη, γιατί δεν ήθελε να γελοιοποιηθεί. Τελικά το έκανε.",
+        "Ο καθηγητής ήρθε με τις παντόφλες, κοίταξε την οθόνη για πολλή ώρα και ζήτησε να ληφθούν νέες εικόνες με άλλο φίλτρο. Το σημάδι ήταν ακόμα εκεί. «Δεν είναι σκόνη», είπε τελικά. «Είναι ένας καινοφανής αστέρας, μια έκρηξη στην επιφάνεια ενός άστρου. Πρέπει να ειδοποιηθούν αμέσως τα άλλα αστεροσκοπεία.» Μέχρι το πρωί η ανακάλυψη είχε επιβεβαιωθεί από την Ισπανία και τη Χιλή.",
+        "Η Μαρία δεν κοιμήθηκε καθόλου. Καθισμένη στα βράχια έξω από τον τρούλο, έβλεπε τον ήλιο να ανατέλλει και έκανε υπολογισμούς στο μυαλό της. Το φως που είχε δει εκείνη τη νύχτα είχε ξεκινήσει από το άστρο πριν από χιλιάδες χρόνια, όταν στην Κρήτη δεν είχαν χτιστεί ακόμα τα ανάκτορα της Κνωσού. Είχε ταξιδέψει τόσο πολύ, σκέφτηκε, και είχε φτάσει ακριβώς τη νύχτα που κοίταζε εκείνη."
+      ],
+      "english": [
+        ["Skinakas Observatory stands at almost two thousand metres, on Mount Psiloritis, far from the lights of the cities.", "Maria, a physics student in Heraklion, spent the summer there as a volunteer.", "There was nothing romantic about her work: she checked hundreds of digital images of the sky and noted whether any star had changed in brightness from one night to the next."],
+        ["One night in August, at around three, she noticed a bright mark at a spot in the constellation of Cygnus where there had been nothing the week before.", "Her first thought was that it was dust on the lens or some software error.", "She hesitated to wake the person in charge, Professor Kalogerakis, because she didn't want to make a fool of herself.", "In the end she did."],
+        ["The professor came in his slippers, stared at the screen for a long time and asked for new images to be taken with a different filter.", "The mark was still there.", "“It isn't dust,” he said at last.", "“It's a nova, an explosion on the surface of a star. The other observatories must be notified at once.”", "By morning the discovery had been confirmed from Spain and Chile."],
+        ["Maria didn't sleep at all.", "Sitting on the rocks outside the dome, she watched the sun rise and did sums in her head.", "The light she had seen that night had left the star thousands of years earlier, before the palaces of Knossos had even been built on Crete.", "It had travelled so far, she thought, and had arrived on exactly the night she was looking."]
+      ],
+      "vocab": [
+        { "word": "αστεροσκοπείο", "gloss": "observatory" },
+        { "word": "εθελόντρια", "gloss": "volunteer (female)" },
+        { "word": "φωτεινότητα", "gloss": "brightness" },
+        { "word": "αστερισμού", "gloss": "constellation" },
+        { "word": "λογισμικού", "gloss": "software" },
+        { "word": "δίστασε", "gloss": "hesitated" },
+        { "word": "να γελοιοποιηθεί", "gloss": "to make a fool of herself" },
+        { "word": "να ληφθούν", "gloss": "to be taken" },
+        { "word": "καινοφανής αστέρας", "gloss": "nova" },
+        { "word": "να ειδοποιηθούν", "gloss": "be notified" },
+        { "word": "είχε επιβεβαιωθεί", "gloss": "had been confirmed" },
+        { "word": "τρούλο", "gloss": "dome" }
+      ]
+    },
+    {
+      "id": "el-b2-07",
+      "title": "Η φώκια που δεν ήρθε",
+      "subtitle": "The seal that never came",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "Η Ζωή ήταν μόλις δύο μήνες ασκούμενη σε μια ιστοσελίδα ειδήσεων της Καβάλας, όταν το βίντεο έφτασε στο κινητό της. Έδειχνε μια φώκια να λιάζεται πάνω στα σκαλιά του λιμανιού, ενώ γύρω της μαζεύονταν περίεργοι. Μέσα σε μία ώρα το είχαν αναδημοσιεύσει δεκάδες τοπικές σελίδες. «Μια φώκια μονάχους στην καρδιά της πόλης!» έγραφαν όλες.",
+        "Η Ζωή έτρεξε στο γραφείο του αρχισυντάκτη, του κυρίου Ιορδάνη, πεπεισμένη ότι είχε στα χέρια της το θέμα της χρονιάς. Εκείνος το είδε δύο φορές και ρώτησε μόνο: «Ποιος το τράβηξε και πότε;» Η Ζωή παραδέχτηκε ότι δεν ήξερε. «Τότε δεν είναι είδηση ακόμα», της είπε. «Είναι φήμη με ωραία εικόνα.» Της ζήτησε να βρει την πηγή πριν ανεβεί οτιδήποτε.",
+        "Χρειάστηκε όλο το απόγευμα. Συγκρίνοντας τα κτίρια στο βάθος, η Ζωή ανακάλυψε ότι το βίντεο δεν είχε τραβηχτεί στην Καβάλα αλλά στη Μυτιλήνη, και ότι κυκλοφορούσε στο διαδίκτυο εδώ και τρία χρόνια. Ο αρχισυντάκτης χαμογέλασε ικανοποιημένος. Την επομένη η ιστοσελίδα δημοσίευσε το άρθρο της με τίτλο «Η φώκια που δεν ήρθε ποτέ», όπου εξηγούσε πώς μια ψεύτικη είδηση μπορεί να ταξιδέψει πιο γρήγορα από την αλήθεια.",
+        "Το άρθρο διαβάστηκε πολύ, αλλά η ιστορία δεν τελείωσε εκεί. Την Τετάρτη το πρωί ένας ψαράς τηλεφώνησε στη σύνταξη λέγοντας ότι μια φώκια κοιμόταν πάνω στη βάρκα του. Αυτή τη φορά η Ζωή δεν περίμενε κανένα βίντεο. Πήρε τη φωτογραφική μηχανή, κατέβηκε στο λιμάνι και την είδε με τα μάτια της. Ο κύριος Ιορδάνης, όταν του έδειξε τις φωτογραφίες, είπε μόνο: «Ωραία. Τώρα ποιος θα πιστέψει εμάς;»"
+      ],
+      "english": [
+        ["Zoi had been an intern at a Kavala news website for just two months when the video reached her phone.", "It showed a seal sunbathing on the harbour steps while onlookers gathered round it.", "Within an hour dozens of local pages had reposted it.", "“A monk seal in the heart of the city!” they all wrote."],
+        ["Zoi ran to the office of the editor-in-chief, Mr Iordanis, convinced she had the story of the year in her hands.", "He watched it twice and asked only: “Who filmed it, and when?”", "Zoi admitted she didn't know.", "“Then it isn't news yet,” he told her.", "“It's a rumour with a nice picture.”", "He asked her to find the source before anything went online."],
+        ["It took the whole afternoon.", "By comparing the buildings in the background, Zoi discovered that the video hadn't been filmed in Kavala but in Mytilene, and that it had been circulating online for three years.", "The editor smiled, satisfied.", "The next day the website published her article under the headline “The seal that never came”, explaining how a false story can travel faster than the truth."],
+        ["The article was widely read, but the story didn't end there.", "On Wednesday morning a fisherman phoned the newsroom to say that a seal was asleep on his boat.", "This time Zoi didn't wait for any video.", "She took the camera, went down to the harbour and saw it with her own eyes.", "When she showed him the photos, Mr Iordanis said only: “Good. Now who's going to believe us?”"]
+      ],
+      "vocab": [
+        { "word": "ασκούμενη", "gloss": "intern, trainee" },
+        { "word": "λιάζεται", "gloss": "is sunbathing" },
+        { "word": "περίεργοι", "gloss": "onlookers, curious people" },
+        { "word": "αναδημοσιεύσει", "gloss": "reposted, republished" },
+        { "word": "αρχισυντάκτη", "gloss": "editor-in-chief" },
+        { "word": "πεπεισμένη", "gloss": "convinced" },
+        { "word": "παραδέχτηκε", "gloss": "admitted" },
+        { "word": "φήμη", "gloss": "rumour" },
+        { "word": "πηγή", "gloss": "source" },
+        { "word": "είχε τραβηχτεί", "gloss": "had been filmed" },
+        { "word": "κυκλοφορούσε", "gloss": "had been circulating" },
+        { "word": "σύνταξη", "gloss": "newsroom, editorial staff" }
+      ]
+    },
+    {
+      "id": "el-b2-08",
+      "title": "Γράμμα σε μια νοσηλεύτρια",
+      "subtitle": "A letter to a nurse",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Αγαπητή κυρία Ειρήνη, δεν ξέρω αν θυμάστε τον πατέρα μου, τον κύριο Στέλιο από το δωμάτιο δεκατέσσερα της παθολογικής κλινικής, στο νοσοκομείο του Ηρακλείου. Νοσηλεύτηκε δεκαοχτώ μέρες τον περασμένο Φεβρουάριο, μετά από μια σοβαρή πνευμονία. Εσείς είχατε σχεδόν πάντα νυχτερινή βάρδια. Σας γράφω επειδή εκείνες τις μέρες δεν βρήκα ποτέ την ευκαιρία να σας πω αυτά που ήθελα.",
+        "Ο πατέρας μου, όπως ίσως θυμάστε, δεν ήταν εύκολος ασθενής. Αρνιόταν τα φάρμακα, έβγαζε τον ορό και ζητούσε επίμονα να γυρίσει στο χωριό του για να ποτίσει τις ντομάτες του. Οι γιατροί μάς είχαν πει ότι ίσως δεν τα κατάφερνε. Εγώ έφευγα κάθε βράδυ στις δέκα, κατάκοπη και τρομαγμένη, και φοβόμουν ότι το πρωί θα μου τηλεφωνούσαν.",
+        "Κάθε πρωί όμως τον έβρισκα πιο ήρεμο. Στην αρχή νόμιζα ότι ήταν τα φάρμακα. Αργότερα μου είπε ο ίδιος ότι τα βράδια, όταν η κλινική ησύχαζε, καθόσασταν πέντε λεπτά στην άκρη του κρεβατιού του και του ζητούσατε να σας εξηγήσει πώς δένονται οι ντομάτες, πότε πρέπει να κλαδευτούν, πόσο νερό θέλουν τον Αύγουστο. Μου είπε ότι ήσασταν η χειρότερη μαθήτρια που είχε γνωρίσει ποτέ, γιατί κάθε βράδυ ρωτούσατε τα ίδια.",
+        "Υποψιάζομαι ότι η μνήμη σας δεν ήταν τόσο κακή. Ο πατέρας μου βγήκε από το νοσοκομείο στις αρχές του Μαρτίου και σήμερα είναι πάλι στον κήπο του. Μου ζήτησε να σας στείλω μαζί με το γράμμα ένα κιβώτιο με τις πρώτες ντομάτες της χρονιάς. Επέμεινε επίσης να σας πω, και το μεταφέρω κατά λέξη, ότι αν θέλετε να μάθετε επιτέλους πώς δένονται, η πόρτα του είναι ανοιχτή. Με ειλικρινή ευγνωμοσύνη, Μαρία Τζανακάκη."
+      ],
+      "english": [
+        ["Dear Mrs Eirini, I don't know whether you remember my father, Mr Stelios from room fourteen on the internal medicine ward at the hospital in Heraklion.", "He was in hospital for eighteen days last February, after a serious bout of pneumonia.", "You were nearly always on the night shift.", "I'm writing because during those days I never found the chance to tell you what I wanted to."],
+        ["As you may remember, my father was not an easy patient.", "He refused his medicine, pulled out his drip and kept asking to go back to his village to water his tomatoes.", "The doctors had told us he might not make it.", "I left every night at ten, exhausted and frightened, afraid that I would get a phone call in the morning."],
+        ["Yet every morning I found him calmer.", "At first I thought it was the medicine.", "Later he told me himself that in the evenings, when the ward grew quiet, you would sit for five minutes on the edge of his bed and ask him to explain how tomatoes are tied up, when they should be pruned, how much water they need in August.", "He told me you were the worst pupil he had ever met, because you asked the same things every night."],
+        ["I suspect your memory wasn't really that bad.", "My father left hospital at the beginning of March, and today he is back in his garden.", "He asked me to send you, along with this letter, a crate of the first tomatoes of the year.", "He also insisted that I tell you, and I'm passing it on word for word, that if you'd finally like to learn how they're tied, his door is open.", "With heartfelt gratitude, Maria Tzanakaki."]
+      ],
+      "vocab": [
+        { "word": "παθολογικής κλινικής", "gloss": "internal medicine ward" },
+        { "word": "νοσηλεύτηκε", "gloss": "was in hospital, was treated as an inpatient" },
+        { "word": "πνευμονία", "gloss": "pneumonia" },
+        { "word": "ασθενής", "gloss": "patient" },
+        { "word": "ορό", "gloss": "drip, IV" },
+        { "word": "επίμονα", "gloss": "insistently" },
+        { "word": "κατάκοπη", "gloss": "exhausted" },
+        { "word": "ησύχαζε", "gloss": "grew quiet" },
+        { "word": "δένονται", "gloss": "are tied (to stakes)" },
+        { "word": "υποψιάζομαι", "gloss": "I suspect" },
+        { "word": "κατά λέξη", "gloss": "word for word" },
+        { "word": "ευγνωμοσύνη", "gloss": "gratitude" }
+      ]
+    },
+    {
+      "id": "el-b2-09",
+      "title": "Το πρόσωπο στο παράθυρο",
+      "subtitle": "The face at the window",
+      "topic": "History",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "Η Δανάη έγραφε μια εργασία για το πανεπιστήμιο σχετικά με την προσφυγιά του 1922, όταν η γιαγιά της τής έδωσε ένα κουτί από τσίγκο. Μέσα υπήρχε μόνο μια κιτρινισμένη φωτογραφία: μια οικογένεια με γιορτινά ρούχα μπροστά σε ένα σπίτι με ξύλινο μπαλκόνι. Στο πίσω μέρος κάποιος είχε γράψει με μολύβι: «Σμύρνη, Πάσχα 1921». Ήταν, εξήγησε η γιαγιά, η τελευταία φωτογραφία της οικογένειας πριν από την καταστροφή.",
+        "Η γιαγιά τής διηγήθηκε όσα είχε ακούσει από τη δική της μητέρα. Της είπε ότι τον Σεπτέμβριο του 1922 η οικογένεια είχε φύγει μόνο με τα ρούχα που φορούσε και ότι είχαν περάσει τρεις μέρες στην προκυμαία περιμένοντας ένα πλοίο. Πρόσθεσε ότι η προγιαγιά δεν πήρε μαζί της ούτε κοσμήματα ούτε χρήματα, μόνο αυτή τη φωτογραφία, ραμμένη στη φόδρα του παλτού της. Στην Αθήνα έμειναν πρώτα σε σκηνές και αργότερα σε ένα από τα πρόχειρα σπίτια που χτίστηκαν για τους πρόσφυγες στη Νέα Σμύρνη.",
+        "Η Δανάη σκάναρε τη φωτογραφία και τη μεγέθυνε στον υπολογιστή της. Τότε παρατήρησε κάτι που κανείς δεν είχε προσέξει σε έναν αιώνα: στο παράθυρο του σπιτιού, πίσω από την κουρτίνα, φαινόταν ένα πρόσωπο. Ήταν ένα κορίτσι περίπου δέκα χρονών, που δεν ανήκε στην οικογένεια. Η γιαγιά, όταν το είδε, έμεινε σιωπηλή για πολλή ώρα. Ύστερα θυμήθηκε ότι η μητέρα της μιλούσε κάποτε για μια γειτονοπούλα, την Αϊσέ, με την οποία έπαιζαν κρυφτό στους κήπους.",
+        "Η εργασία της Δανάης ονομάστηκε τελικά «Το πρόσωπο στο παράθυρο». Δεν μιλούσε μόνο για μάχες και συνθήκες, αλλά για δύο κορίτσια που η ιστορία χώρισε πριν προλάβουν να μεγαλώσουν. Ο καθηγητής της τής έγραψε ότι ήταν η πιο ανθρώπινη εργασία που είχε διαβάσει εκείνη τη χρονιά. Η φωτογραφία βρίσκεται τώρα σε κορνίζα, στο σαλόνι της γιαγιάς, και η Δανάη ψάχνει ακόμα, σε αρχεία και παλιά μητρώα, ένα κορίτσι που λεγόταν Αϊσέ."
+      ],
+      "english": [
+        ["Danai was writing a university essay about the refugee exodus of 1922 when her grandmother gave her a tin box.", "Inside there was only a yellowed photograph: a family in their best clothes in front of a house with a wooden balcony.", "On the back someone had written in pencil: “Smyrna, Easter 1921.”", "It was, her grandmother explained, the family's last photograph before the catastrophe."],
+        ["Her grandmother told her what she had heard from her own mother.", "She said that in September 1922 the family had left with only the clothes they were wearing, and that they had spent three days on the waterfront waiting for a ship.", "She added that Danai's great-grandmother took neither jewellery nor money with her, only this photograph, sewn into the lining of her coat.", "In Athens they lived first in tents and later in one of the makeshift houses built for the refugees in Nea Smyrni."],
+        ["Danai scanned the photograph and enlarged it on her computer.", "Then she noticed something nobody had spotted in a century: at the window of the house, behind the curtain, a face could be seen.", "It was a girl of about ten who didn't belong to the family.", "When her grandmother saw it, she was silent for a long time.", "Then she remembered that her mother used to talk about a neighbour's girl, Ayşe, with whom she played hide-and-seek in the gardens."],
+        ["In the end Danai's essay was called “The face at the window”.", "It wasn't only about battles and treaties, but about two girls whom history separated before they had a chance to grow up.", "Her professor wrote to her that it was the most human essay he had read that year.", "The photograph is now in a frame in her grandmother's living room, and Danai is still searching, in archives and old registers, for a girl called Ayşe."]
+      ],
+      "vocab": [
+        { "word": "προσφυγιά", "gloss": "life as refugees, the refugee exodus" },
+        { "word": "τσίγκο", "gloss": "tin" },
+        { "word": "κιτρινισμένη", "gloss": "yellowed" },
+        { "word": "καταστροφή", "gloss": "catastrophe (the 1922 destruction of Smyrna)" },
+        { "word": "διηγήθηκε", "gloss": "told, recounted" },
+        { "word": "προκυμαία", "gloss": "waterfront, quay" },
+        { "word": "ραμμένη", "gloss": "sewn" },
+        { "word": "φόδρα", "gloss": "lining" },
+        { "word": "πρόχειρα", "gloss": "makeshift" },
+        { "word": "μεγέθυνε", "gloss": "enlarged" },
+        { "word": "γειτονοπούλα", "gloss": "neighbour's girl" },
+        { "word": "κορνίζα", "gloss": "picture frame" }
+      ]
+    },
+    {
+      "id": "el-b2-10",
+      "title": "Χαμένες συναντήσεις",
+      "subtitle": "Missed connections",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Η αγγελία δημοσιεύτηκε ένα Σάββατο του Οκτωβρίου στη στήλη «Χαμένες συναντήσεις» μιας εφημερίδας της Χίου: «Πλοίο Πειραιάς–Χίος, Παρασκευή βράδυ, κατάστρωμα. Μου δάνεισες τη ζακέτα σου όταν έκανε κρύο και μου διάβασες δυνατά την πρώτη σελίδα του βιβλίου σου επειδή είχα ξεχάσει τα γυαλιά μου. Κατέβηκα στη Χίο κρατώντας ακόμα τη ζακέτα. Θα ήθελα να σου την επιστρέψω. Α.»",
+        "Ο Θοδωρής τη διάβασε την Κυριακή το πρωί στο καφενείο της Βολισσού και του έπεσε ο καφές. Ήταν σίγουρος ότι μιλούσε για εκείνον. Θυμόταν την κοπέλα με τα κόκκινα μαλλιά που έτρεμε στο κατάστρωμα, θυμόταν ότι γελούσε στα ίδια σημεία που γελούσε κι εκείνος. Το μόνο που δεν μπορούσε να καταλάβει ήταν πώς είχε καταφέρει να μη ρωτήσει το όνομά της.",
+        "Έγραψε αμέσως στην εφημερίδα. Επειδή φοβόταν ότι κάποιος άλλος θα μπορούσε να ισχυριστεί ότι ήταν εκείνος, πρόσθεσε μια λεπτομέρεια που μόνο οι δυο τους ήξεραν: ότι το βιβλίο ήταν ένας οδηγός για πουλιά και ότι η πρώτη σελίδα μιλούσε για τους γλάρους. Μια εβδομάδα αργότερα η εφημερίδα δημοσίευσε την απάντηση της Α. Έλεγε μόνο: «Λιμάνι Χίου, Σάββατο, έξι το απόγευμα, δίπλα στους γλάρους».",
+        "Οι γλάροι στο λιμάνι ήταν βέβαια πολλοί, αλλά ο Θοδωρής τη βρήκε αμέσως. Κρατούσε τη ζακέτα του, διπλωμένη προσεκτικά, και ένα βιβλίο για τα ψάρια του Αιγαίου. «Σκέφτηκα ότι θα χρειαστούμε καινούργιο θέμα συζήτησης», του είπε. Αυτό έγινε πριν από έξι χρόνια. Η ζακέτα, ομολογουμένως, δεν επιστράφηκε ποτέ, γιατί ζουν πλέον στο ίδιο σπίτι και ανήκει, όπως λέει η Αλεξάνδρα, και στους δύο."
+      ],
+      "english": [
+        ["The notice appeared one Saturday in October in the “Missed connections” column of a Chios newspaper: “Piraeus–Chios ferry, Friday night, on deck. You lent me your cardigan when it was cold and read me the first page of your book aloud because I'd forgotten my glasses. I got off at Chios still holding the cardigan. I'd like to give it back to you. A.”"],
+        ["Thodoris read it on Sunday morning in the café at Volissos and dropped his coffee.", "He was sure it was about him.", "He remembered the girl with red hair shivering on deck; he remembered that she laughed at the same places he did.", "The only thing he couldn't understand was how he had managed not to ask her name."],
+        ["He wrote to the newspaper at once.", "Because he was afraid someone else might claim to be him, he added a detail only the two of them knew: that the book was a bird guide and that the first page was about seagulls.", "A week later the newspaper published A.'s reply.", "All it said was: “Chios harbour, Saturday, six in the evening, by the seagulls.”"],
+        ["There were, of course, a lot of seagulls in the harbour, but Thodoris found her straight away.", "She was holding his cardigan, carefully folded, and a book about the fish of the Aegean.", "“I thought we'd need a new topic of conversation,” she said to him.", "That was six years ago.", "The cardigan, admittedly, was never returned, because they now live in the same house and it belongs, as Alexandra says, to both of them."]
+      ],
+      "vocab": [
+        { "word": "κατάστρωμα", "gloss": "deck" },
+        { "word": "δάνεισες", "gloss": "you lent" },
+        { "word": "ζακέτα", "gloss": "cardigan" },
+        { "word": "του έπεσε ο καφές", "gloss": "he dropped his coffee" },
+        { "word": "έτρεμε", "gloss": "was shivering" },
+        { "word": "να ισχυριστεί", "gloss": "to claim" },
+        { "word": "λεπτομέρεια", "gloss": "detail" },
+        { "word": "γλάρους", "gloss": "seagulls" },
+        { "word": "διπλωμένη", "gloss": "folded" },
+        { "word": "ομολογουμένως", "gloss": "admittedly" },
+        { "word": "επιστράφηκε", "gloss": "was returned" }
+      ]
+    },
+    {
+      "id": "el-b2-11",
+      "title": "Το δάσος δεν χρειάζεται κάμερες",
+      "subtitle": "The forest doesn't need cameras",
+      "topic": "Environment",
+      "symbol": "tree.fill",
+      "paragraphs": [
+        "Κάθε καλοκαίρι, όταν σβήνει μια μεγάλη πυρκαγιά, ακολουθεί το ίδιο τελετουργικό. Οι τηλεοράσεις δείχνουν τα καμένα βουνά, οι πολιτικοί υπόσχονται ότι «η περιοχή θα ξαναπρασινίσει» και εθελοντές με καπέλα και μπουκάλια νερό φυτεύουν χιλιάδες δενδρύλλια μπροστά στις κάμερες. Ως δασολόγος που εργάζεται εδώ και είκοσι χρόνια στη βόρεια Εύβοια, θα ήθελα να πω κάτι που ίσως ακουστεί παράξενο: τις περισσότερες φορές το δάσος δεν χρειάζεται να το φυτέψουμε εμείς.",
+        "Η χαλέπιος πεύκη, το δέντρο που καλύπτει μεγάλο μέρος της Εύβοιας, έχει εξελιχθεί μαζί με τη φωτιά. Οι κουκουνάρες της ανοίγουν με τη ζέστη και σκορπίζουν τους σπόρους στο έδαφος. Αν το έδαφος προστατευτεί, μέσα σε λίγα χρόνια φυτρώνουν χιλιάδες νέα πεύκα, πολύ περισσότερα από όσα θα μπορούσε να φυτέψει οποιοσδήποτε εθελοντής. Τα δενδρύλλια που φυτεύονται βιαστικά, αντίθετα, συχνά ξεραίνονται τον πρώτο Αύγουστο, επειδή κανείς δεν γυρίζει να τα ποτίσει.",
+        "Τι χρειάζεται λοιπόν; Χρειάζεται να μη βοσκηθούν οι καμένες εκτάσεις για αρκετά χρόνια, ώστε οι κατσίκες να μη φάνε τα νέα φυτά. Χρειάζεται να γίνουν μικρά έργα που συγκρατούν το χώμα πριν έρθουν οι πρώτες βροχές. Και κυρίως χρειάζεται να μην αλλάξει χρήση η γη, να μην εμφανιστούν δηλαδή, μετά από λίγα χρόνια, βίλες και ξενοδοχεία εκεί όπου υπήρχε δάσος. Αυτά δεν βγαίνουν ωραία στις φωτογραφίες, αλλά σώζουν δάση.",
+        "Δεν γράφω για να αποθαρρύνω τους εθελοντές. Η αγάπη τους για τον τόπο είναι ό,τι πολυτιμότερο έχουμε. Τους ζητώ μόνο να τη στρέψουν εκεί όπου μετράει: στη φύλαξη, στην πρόληψη, στην πίεση προς τις αρχές. Πέρσι επέστρεψα σε μια πλαγιά κοντά στη Λίμνη, που είχε καεί ολοσχερώς το 2021. Δεν είχε φυτευτεί εκεί ούτε ένα δέντρο. Ήταν γεμάτη πεύκα ως το γόνατό μου."
+      ],
+      "english": [
+        ["Every summer, when a big wildfire is put out, the same ritual follows.", "The TV channels show the burnt mountains, politicians promise that “the area will turn green again”, and volunteers in hats with bottles of water plant thousands of saplings in front of the cameras.", "As a forester who has worked in northern Evia for twenty years, I'd like to say something that may sound strange: most of the time the forest doesn't need us to plant it."],
+        ["The Aleppo pine, the tree that covers much of Evia, has evolved alongside fire.", "Its cones open in the heat and scatter their seeds on the ground.", "If the ground is protected, within a few years thousands of new pines spring up, far more than any volunteer could plant.", "Saplings planted in a hurry, on the other hand, often dry out in their first August, because nobody comes back to water them."],
+        ["So what is needed?", "The burnt land must not be grazed for several years, so that the goats don't eat the young plants.", "Small works must be built to hold the soil in place before the first rains come.", "And above all the land must not change its use; in other words, villas and hotels must not appear a few years later where there was once forest.", "None of this looks good in photographs, but it saves forests."],
+        ["I am not writing to discourage the volunteers.", "Their love for the land is the most precious thing we have.", "I only ask them to direct it where it counts: into guarding, into prevention, into putting pressure on the authorities.", "Last year I went back to a hillside near Limni that had burned completely in 2021.", "Not a single tree had been planted there.", "It was full of pines as high as my knee."]
+      ],
+      "vocab": [
+        { "word": "τελετουργικό", "gloss": "ritual" },
+        { "word": "δενδρύλλια", "gloss": "saplings" },
+        { "word": "δασολόγος", "gloss": "forester" },
+        { "word": "χαλέπιος πεύκη", "gloss": "Aleppo pine" },
+        { "word": "κουκουνάρες", "gloss": "pine cones" },
+        { "word": "σκορπίζουν", "gloss": "scatter" },
+        { "word": "ξεραίνονται", "gloss": "dry out, wither" },
+        { "word": "να μη βοσκηθούν", "gloss": "not to be grazed" },
+        { "word": "εκτάσεις", "gloss": "areas of land" },
+        { "word": "συγκρατούν", "gloss": "hold in place" },
+        { "word": "να αποθαρρύνω", "gloss": "to discourage" },
+        { "word": "ολοσχερώς", "gloss": "completely, utterly" }
+      ]
+    },
+    {
+      "id": "el-b2-12",
+      "title": "Ίντα ώρα εν το μάθημα;",
+      "subtitle": "What time's the lecture?",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Όταν ήρθα στην Αθήνα για να σπουδάσω, νόμιζα ότι από τη Λεμεσό θα μου έλειπαν μόνο η θάλασσα και το φαγητό της μάνας μου. Δεν είχα σκεφτεί τη γλώσσα. Την πρώτη μέρα στο αμφιθέατρο ρώτησα τη διπλανή μου «Ίντα ώρα εν το μάθημα;» κι εκείνη με κοίταξε σαν να της είχα μιλήσει φινλανδικά. Από εκείνη τη στιγμή άρχισα, χωρίς να το καταλάβω, να «διορθώνω» τον εαυτό μου.",
+        "Μέσα σε λίγους μήνες έμαθα να λέω «τι» αντί για «ίντα» και «είναι» αντί για «εν». Έμαθα να λέω «πολύ ωραίο» αντί για «πολλά ωραίο» και να μην προφέρω τα διπλά σύμφωνα όπως στο χωριό μου. Οι συμφοιτητές μου με επαινούσαν: «Ούτε που καταλαβαίνεις ότι είσαι Κύπρια», μου έλεγαν, σαν να ήταν κομπλιμέντο. Και για ένα διάστημα, ομολογώ, το θεωρούσα κι εγώ κομπλιμέντο.",
+        "Η αλλαγή ήρθε τα Χριστούγεννα, όταν γύρισα σπίτι. Η γιαγιά μου με άκουσε να μιλάω στο τηλέφωνο με μια φίλη από την Αθήνα και με ρώτησε, μισοαστεία μισοσοβαρά: «Πότε έμαθες να μιλάς σαν την τηλεόραση;» Ήταν ένα μικρό σχόλιο, αλλά με πόνεσε. Κατάλαβα ότι, προσπαθώντας να μη φαίνομαι διαφορετική, είχα αρχίσει να χάνω κάτι που με συνέδεε με τους ανθρώπους μου.",
+        "Σήμερα μιλάω δύο γλώσσες, ή μάλλον δύο εκδοχές της ίδιας γλώσσας, και περνάω από τη μία στην άλλη ανάλογα με το πού βρίσκομαι. Στο πανεπιστήμιο γράφω τις εργασίες μου στην κοινή νεοελληνική. Στο τηλέφωνο με τη γιαγιά μου λέω «ίντα» και «εν» χωρίς να ντρέπομαι. Δεν πιστεύω ότι η μία είναι πιο σωστή από την άλλη, ούτε ότι πρέπει να διαλέξω ανάμεσά τους. Πριν από λίγες μέρες, μάλιστα, η Αθηναία διπλανή μου με ρώτησε γελώντας: «Ίντα ώρα εν το μάθημα;»"
+      ],
+      "english": [
+        ["When I came to Athens to study, I thought all I would miss about Limassol was the sea and my mum's cooking.", "I hadn't thought about the language.", "On the first day in the lecture hall I asked the girl next to me, “What time's the lecture?” in Cypriot, and she looked at me as if I'd spoken Finnish to her.", "From that moment on, without realising it, I began to “correct” myself."],
+        ["Within a few months I had learned to say “ti” instead of “inta” and “einai” instead of “en”.", "I learned to say “poly oraio” instead of “polla oraio” and not to pronounce double consonants the way they do in my village.", "My fellow students praised me: “You can't even tell you're Cypriot,” they would say, as if it were a compliment.", "And for a while, I admit, I thought it was a compliment too."],
+        ["The change came at Christmas, when I went home.", "My grandmother heard me talking on the phone to a friend from Athens and asked me, half joking, half serious: “When did you learn to talk like the television?”", "It was a small remark, but it hurt.", "I realised that, in trying not to seem different, I had begun to lose something that connected me to my own people."],
+        ["Today I speak two languages, or rather two versions of the same language, and I switch from one to the other depending on where I am.", "At university I write my essays in standard Modern Greek.", "On the phone to my grandmother I say “inta” and “en” without being ashamed.", "I don't believe one is more correct than the other, nor that I have to choose between them.", "In fact, a few days ago, the Athenian girl who sits next to me asked me, laughing: “Inta ora en to mathima?”"]
+      ],
+      "vocab": [
+        { "word": "αμφιθέατρο", "gloss": "lecture hall" },
+        { "word": "ίντα", "gloss": "what (Cypriot)" },
+        { "word": "εν", "gloss": "is (Cypriot)" },
+        { "word": "προφέρω", "gloss": "pronounce" },
+        { "word": "σύμφωνα", "gloss": "consonants" },
+        { "word": "συμφοιτητές", "gloss": "fellow students" },
+        { "word": "επαινούσαν", "gloss": "praised" },
+        { "word": "ομολογώ", "gloss": "I admit" },
+        { "word": "με πόνεσε", "gloss": "it hurt me" },
+        { "word": "με συνέδεε", "gloss": "connected me" },
+        { "word": "εκδοχές", "gloss": "versions" },
+        { "word": "να ντρέπομαι", "gloss": "being ashamed" }
+      ]
+    },
+    {
+      "id": "el-b2-13",
+      "title": "Ο αγιογράφος της λίμνης",
+      "subtitle": "The icon painter by the lake",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Ο Ηλίας Ζαφειρίου ζωγραφίζει εικόνες στην Καστοριά εδώ και σαράντα χρόνια, σε ένα εργαστήριο δίπλα στη λίμνη. Δουλεύει με αυγοτέμπερα, όπως οι παλιοί τεχνίτες, και φτιάχνει μόνος του τα χρώματα από χώματα και πέτρες. Οι πελάτες του είναι κυρίως εκκλησίες και μοναστήρια, αλλά κάποιες φορές χτυπάει την πόρτα του κάποιος ιδιώτης με μια ασυνήθιστη παραγγελία.",
+        "Ένα φθινόπωρο μπήκε στο εργαστήριο ένας νέος από τη Θεσσαλονίκη. Ζήτησε έναν Άγιο Νικόλαο, τον προστάτη των ναυτικών, για το σπίτι της μητέρας του. Μετά από λίγο δισταγμό έβγαλε από την τσέπη του μια φωτογραφία: ο πατέρας του, καπετάνιος, που είχε χαθεί στη θάλασσα πριν από δύο χρόνια. «Θα ήθελα ο άγιος να του μοιάζει», είπε χαμηλόφωνα. Ο Ηλίας του εξήγησε ευγενικά ότι αυτό δεν γίνεται. Μια εικόνα, του είπε, δεν είναι πορτρέτο, και ο άγιος πρέπει να αναγνωρίζεται από όλους, όχι μόνο από μία οικογένεια.",
+        "Ο νέος έφυγε απογοητευμένος, αφού παρήγγειλε τελικά την εικόνα όπως ήθελε ο ζωγράφος. Ο Ηλίας όμως δεν μπορούσε να ξεχάσει τη φωτογραφία. Επί δύο μήνες δούλευε τα βράδια, ζωγραφίζοντας τον άγιο ακριβώς όπως ορίζει η παράδοση: το ψηλό μέτωπο, τα λευκά γένια, το ευαγγέλιο στο αριστερό χέρι. Μόνο σε ένα σημείο επέτρεψε στον εαυτό του μια μικρή ελευθερία.",
+        "Όταν η μητέρα του νέου είδε την εικόνα, δεν είπε τίποτα για αρκετή ώρα. Ύστερα άγγιξε απαλά το κάτω μέρος του ξύλου. Εκεί, στη θάλασσα κάτω από τα πόδια του αγίου, όπου συνήθως ζωγραφίζεται ένα ανώνυμο καράβι, ταξίδευε ένα μικρό φορτηγό πλοίο. Πάνω στην πλώρη του, με γράμματα τόσο μικρά που έπρεπε κανείς να σκύψει για να τα διαβάσει, ήταν γραμμένο το όνομα του πλοίου του άντρα της."
+      ],
+      "english": [
+        ["Ilias Zafeiriou has been painting icons in Kastoria for forty years, in a workshop beside the lake.", "He works in egg tempera, like the old craftsmen, and makes his own paints from earths and stones.", "His clients are mostly churches and monasteries, but now and then a private individual knocks on his door with an unusual commission."],
+        ["One autumn a young man from Thessaloniki walked into the workshop.", "He asked for a Saint Nicholas, the patron saint of sailors, for his mother's house.", "After a moment's hesitation he took a photograph out of his pocket: his father, a ship's captain, who had been lost at sea two years before.", "“I'd like the saint to look like him,” he said quietly.", "Ilias explained politely that this was not possible.", "An icon, he told him, is not a portrait, and the saint must be recognisable to everyone, not just to one family."],
+        ["The young man left disappointed, after finally ordering the icon the way the painter wanted.", "But Ilias couldn't forget the photograph.", "For two months he worked in the evenings, painting the saint exactly as tradition prescribes: the high forehead, the white beard, the Gospel in his left hand.", "In only one place did he allow himself a small liberty."],
+        ["When the young man's mother saw the icon, she said nothing for quite a while.", "Then she gently touched the bottom of the panel.", "There, in the sea beneath the saint's feet, where a nameless ship is usually painted, sailed a small cargo ship.", "On its bow, in letters so small that you had to bend down to read them, was written the name of her husband's ship."]
+      ],
+      "vocab": [
+        { "word": "εργαστήριο", "gloss": "workshop, studio" },
+        { "word": "αυγοτέμπερα", "gloss": "egg tempera" },
+        { "word": "τεχνίτες", "gloss": "craftsmen" },
+        { "word": "ιδιώτης", "gloss": "private individual" },
+        { "word": "ασυνήθιστη", "gloss": "unusual" },
+        { "word": "προστάτη", "gloss": "patron saint, protector" },
+        { "word": "δισταγμό", "gloss": "hesitation" },
+        { "word": "χαμηλόφωνα", "gloss": "quietly, in a low voice" },
+        { "word": "να αναγνωρίζεται", "gloss": "be recognisable" },
+        { "word": "ορίζει", "gloss": "prescribes" },
+        { "word": "πλώρη", "gloss": "bow (of a ship)" },
+        { "word": "να σκύψει", "gloss": "to bend down" }
+      ]
+    },
+    {
+      "id": "el-b2-14",
+      "title": "Η φωλιά στην πρώτη σειρά",
+      "subtitle": "The nest in the front row",
+      "topic": "Animals",
+      "symbol": "tortoise.fill",
+      "paragraphs": [
+        "Κάθε πρωί στις έξι η Σοφία, εθελόντρια σε μια περιβαλλοντική οργάνωση, περπατούσε την παραλία του Λαγανά στη Ζάκυνθο ψάχνοντας ίχνη. Τη νύχτα οι θαλάσσιες χελώνες καρέτα καρέτα βγαίνουν στην άμμο για να γεννήσουν τα αυγά τους, και τα ίχνη τους μοιάζουν με τα σημάδια που αφήνει ένα μικρό τρακτέρ. Όταν η Σοφία έβρισκε μια φωλιά, την περιέφραζε με ξύλινα πασσαλάκια και έβαζε μια ταμπέλα για να μην πατηθεί.",
+        "Ένα πρωί του Ιουλίου βρήκε φωλιά ακριβώς στο σημείο όπου ο κύριος Διονύσης, που νοίκιαζε ξαπλώστρες, έστηνε κάθε μέρα την πρώτη σειρά. Ο κύριος Διονύσης θύμωσε πολύ. Της είπε ότι πλήρωνε ενοίκιο στον δήμο για εκείνο το κομμάτι της παραλίας και ότι δεν θα έχανε μισό καλοκαίρι για μια χελώνα. Πρόσθεσε ότι οι εθελοντές έρχονται για δύο μήνες και φεύγουν, ενώ εκείνος ζει από την παραλία όλο τον χρόνο. Η Σοφία του απάντησε ότι ο νόμος ήταν σαφής και ότι η φωλιά θα έμενε εκεί που ήταν.",
+        "Για εβδομάδες δεν μιλούσαν. Ο κύριος Διονύσης έστηνε τις ξαπλώστρες του λίγα μέτρα πιο πίσω, κοιτάζοντας την περίφραξη σαν εχθρό. Κάποια στιγμή όμως η Σοφία πρόσεξε ότι κάθε απόγευμα, όταν έφευγαν οι λουόμενοι, εκείνος μάζευε τα σκουπίδια γύρω από τη φωλιά και έδιωχνε τους τουρίστες που πλησίαζαν πολύ με τα κινητά τους.",
+        "Η εκκόλαψη έγινε μια νύχτα στα τέλη Αυγούστου. Η Σοφία ήταν εκεί με έναν φακό με κόκκινο φως, για να μην μπερδέψει τα χελωνάκια. Ογδόντα δύο μικρές χελώνες βγήκαν από την άμμο και άρχισαν να σέρνονται προς τη θάλασσα. Δίπλα της, γονατισμένος στην άμμο, ο κύριος Διονύσης τις μετρούσε ψιθυριστά, μία μία. Όταν μπήκε στο νερό και η τελευταία, σκούπισε τα μάτια του και της είπε ότι του χρόνου θα της κρατούσε ο ίδιος ελεύθερο το σημείο."
+      ],
+      "english": [
+        ["Every morning at six Sofia, a volunteer with an environmental organisation, walked the beach at Laganas on Zakynthos looking for tracks.", "At night loggerhead sea turtles come up onto the sand to lay their eggs, and their tracks look like the marks left by a small tractor.", "Whenever Sofia found a nest, she fenced it off with little wooden stakes and put up a sign so that nobody would tread on it."],
+        ["One morning in July she found a nest exactly where Mr Dionysis, who rented out sunbeds, set up his front row every day.", "Mr Dionysis was furious.", "He told her he paid rent to the council for that stretch of beach and that he wasn't going to lose half the summer for a turtle.", "He added that volunteers come for two months and leave, whereas he makes his living from the beach all year round.", "Sofia replied that the law was clear and that the nest would stay where it was."],
+        ["For weeks they didn't speak.", "Mr Dionysis set up his sunbeds a few metres further back, eyeing the fence like an enemy.", "At some point, though, Sofia noticed that every afternoon, when the bathers had left, he picked up the litter around the nest and shooed away tourists who got too close with their phones."],
+        ["The hatching happened one night at the end of August.", "Sofia was there with a red-light torch, so as not to confuse the baby turtles.", "Eighty-two tiny turtles emerged from the sand and began to crawl towards the sea.", "Next to her, kneeling in the sand, Mr Dionysis counted them in a whisper, one by one.", "When the last one had reached the water, he wiped his eyes and told her that next year he would keep the spot free for her himself."]
+      ],
+      "vocab": [
+        { "word": "ίχνη", "gloss": "tracks" },
+        { "word": "να γεννήσουν", "gloss": "to lay (eggs)" },
+        { "word": "περιέφραζε", "gloss": "fenced off" },
+        { "word": "πασσαλάκια", "gloss": "little stakes" },
+        { "word": "να μην πατηθεί", "gloss": "so that it wouldn't be trodden on" },
+        { "word": "ξαπλώστρες", "gloss": "sunbeds" },
+        { "word": "σαφής", "gloss": "clear" },
+        { "word": "περίφραξη", "gloss": "fence, enclosure" },
+        { "word": "λουόμενοι", "gloss": "bathers" },
+        { "word": "εκκόλαψη", "gloss": "hatching" },
+        { "word": "να σέρνονται", "gloss": "to crawl" },
+        { "word": "ψιθυριστά", "gloss": "in a whisper" }
+      ]
+    },
+    {
+      "id": "el-b2-15",
+      "title": "Οδηγίες για έναν Αθηναίο",
+      "subtitle": "Instructions for an Athenian",
+      "topic": "Travel",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Αγαπητέ μου Φραγκίσκο, χάρηκα πολύ που αποφάσισες επιτέλους να έρθεις στη Θεσσαλονίκη. Επειδή ξέρω ότι, ως γνήσιος Αθηναίος, έρχεσαι με κάποιες προκαταλήψεις, σκέφτηκα να σου στείλω μερικές οδηγίες, ώστε να μην εκτεθείς από την πρώτη μέρα. Διάβασέ τες προσεκτικά. Η φιλία μας εξαρτάται από αυτές.",
+        "Πρώτον, η θάλασσα εδώ δεν είναι για κολύμπι, είναι για βόλτα. Θα περπατήσουμε στην παραλία από τον Λευκό Πύργο μέχρι τις Ομπρέλες, και αν σου πω «Κοίτα το ηλιοβασίλεμα», θα σταματήσεις και θα το κοιτάξεις, ό,τι κι αν κάνεις εκείνη τη στιγμή. Δεύτερον, η μπουγάτσα τρώγεται το πρωί, ζεστή, με κρέμα ή με τυρί, και όχι σε κουτί μέσα στο αυτοκίνητο, όπως φαντάζομαι ότι την τρώτε εσείς. Τρίτον, αν ακούσεις κάποιον να λέει «σε λέω» αντί για «σου λέω», μη διορθώσεις κανέναν. Εδώ το λέμε έτσι και το λέμε με περηφάνια.",
+        "Τέταρτον, και σημαντικότερο: όσο κι αν σου αρέσει η πόλη, απαγορεύεται αυστηρά να πεις ότι «μοιάζει με την Αθήνα, αλλά πιο ήσυχη». Εδώ αυτό θεωρείται προσβολή. Μπορείς να πεις ότι μοιάζει με τη Μασσαλία ή με την Κωνσταντινούπολη, ή, ακόμα καλύτερα, ότι δεν μοιάζει με καμία άλλη πόλη. Θα το εκτιμήσουν όλοι, και ειδικά η μητέρα μου, που θα σε φιλοξενήσει και θα σε ταΐσει μέχρι να σκάσεις.",
+        "Σε περιμένω την Παρασκευή στον σταθμό. Θα με αναγνωρίσεις εύκολα: θα είμαι αυτός που θα κρατάει δύο μπουγάτσες και θα έχει ένα αυστηρό ύφος. Ο φίλος σου, Νικηφόρος. Υστερόγραφο: Αν σου αρέσει τόσο που θελήσεις να μείνεις, ενημέρωσέ με νωρίς. Η μητέρα μου έχει ήδη αρχίσει να σου ψάχνει νύφη."
+      ],
+      "english": [
+        ["My dear Frangiskos, I was delighted that you've finally decided to come to Thessaloniki.", "Since I know that, as a true Athenian, you're coming with certain prejudices, I thought I'd send you a few instructions so that you don't embarrass yourself on the first day.", "Read them carefully.", "Our friendship depends on them."],
+        ["First, the sea here isn't for swimming, it's for strolling.", "We'll walk along the seafront from the White Tower to the Umbrellas, and if I say “Look at the sunset”, you will stop and look at it, whatever you're doing at that moment.", "Second, bougatsa is eaten in the morning, hot, with custard or with cheese, and not out of a box in the car, which is how I imagine you lot eat it.", "Third, if you hear someone say “se leo” instead of “sou leo”, don't correct anyone.", "That's how we say it here, and we say it with pride."],
+        ["Fourth, and most important: however much you like the city, you are strictly forbidden to say that it's “like Athens, only quieter”.", "Here that counts as an insult.", "You may say that it's like Marseille or Istanbul or, even better, that it's like no other city.", "Everyone will appreciate it, especially my mother, who will be putting you up and will feed you until you burst."],
+        ["I'll be waiting for you at the station on Friday.", "You'll recognise me easily: I'll be the one holding two bougatsas and wearing a stern expression.", "Your friend, Nikiforos.", "Postscript: If you like it so much that you want to stay, let me know early.", "My mother has already started looking for a bride for you."]
+      ],
+      "vocab": [
+        { "word": "γνήσιος", "gloss": "true, genuine" },
+        { "word": "προκαταλήψεις", "gloss": "prejudices" },
+        { "word": "να μην εκτεθείς", "gloss": "so that you don't embarrass yourself" },
+        { "word": "εξαρτάται", "gloss": "depends" },
+        { "word": "τρώγεται", "gloss": "is eaten" },
+        { "word": "περηφάνια", "gloss": "pride" },
+        { "word": "απαγορεύεται αυστηρά", "gloss": "it is strictly forbidden" },
+        { "word": "προσβολή", "gloss": "insult" },
+        { "word": "θα το εκτιμήσουν", "gloss": "they will appreciate it" },
+        { "word": "μέχρι να σκάσεις", "gloss": "until you burst" },
+        { "word": "ύφος", "gloss": "expression, air" },
+        { "word": "νύφη", "gloss": "bride" }
+      ]
+    }
+  ]
+}

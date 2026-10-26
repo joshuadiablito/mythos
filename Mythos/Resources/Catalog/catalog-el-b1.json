@@ -1,0 +1,449 @@
+{
+  "language": "el",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "el-b1-01",
+      "title": "Η τελευταία στάση",
+      "subtitle": "The last stop",
+      "topic": "Getting around",
+      "symbol": "bus.fill",
+      "paragraphs": [
+        "Η Αγγελική δουλεύει σε ένα βιβλιοπωλείο στο κέντρο της Θεσσαλονίκης και κάθε βράδυ γυρίζει σπίτι με το λεωφορείο. Εκείνη την Παρασκευή ήταν πολύ κουρασμένη. Κάθισε στο πίσω κάθισμα, έβαλε τα ακουστικά της και έκλεισε τα μάτια της για ένα λεπτό. Όταν τα άνοιξε, το λεωφορείο ήταν άδειο και έξω ήταν σκοτάδι.",
+        "«Κοπέλα μου, φτάσαμε στο αμαξοστάσιο», είπε ο οδηγός. Η Αγγελική σηκώθηκε γρήγορα και κοίταξε το κινητό της. Η μπαταρία είχε τελειώσει. «Πού βρισκόμαστε;» ρώτησε ανήσυχη. «Στο τέρμα της γραμμής, έξω από την πόλη. Δεν υπάρχει άλλο λεωφορείο απόψε», απάντησε εκείνος. Ύστερα την κοίταξε προσεκτικά. «Μια στιγμή… Εσύ δεν είσαι η Αγγελική από την Καλαμαριά; Η κόρη της κυρίας Σοφίας;»",
+        "Ήταν ο κύριος Παύλος, ο παλιός της γείτονας. Όταν ήταν μικρή, της έφτιαχνε το ποδήλατο και της έδινε καραμέλες. «Τελειώνει η βάρδια μου σε δέκα λεπτά», είπε χαμογελώντας. «Θα σε πάω εγώ σπίτι με το αυτοκίνητό μου. Αλλά με έναν όρο: θα πεις στη μητέρα σου να μου φτιάξει πάλι εκείνη την πορτοκαλόπιτα.» Η Αγγελική γέλασε. Την επόμενη Κυριακή η κυρία Σοφία έψησε δύο ταψιά, ένα για το σπίτι και ένα για το αμαξοστάσιο."
+      ],
+      "english": [
+        ["Angeliki works in a bookshop in the centre of Thessaloniki and every evening she goes home by bus.", "That Friday she was very tired.", "She sat in the back seat, put on her headphones and closed her eyes for a minute.", "When she opened them, the bus was empty and it was dark outside."],
+        ["“We've reached the depot, miss,” said the driver.", "Angeliki got up quickly and looked at her phone.", "The battery had run out.", "“Where are we?” she asked, worried.", "“At the end of the line, outside the city. There's no other bus tonight,” he replied.", "Then he looked at her carefully.", "“Hang on… Aren't you Angeliki from Kalamaria? Mrs Sofia's daughter?”"],
+        ["It was Mr Pavlos, her old neighbour.", "When she was little, he used to fix her bike and give her sweets.", "“My shift ends in ten minutes,” he said with a smile.", "“I'll drive you home myself. But on one condition: you'll ask your mother to make me that orange pie again.”", "Angeliki laughed.", "The following Sunday Mrs Sofia baked two trays, one for home and one for the depot."]
+      ],
+      "vocab": [
+        { "word": "κουρασμένη", "gloss": "tired" },
+        { "word": "ακουστικά", "gloss": "headphones" },
+        { "word": "αμαξοστάσιο", "gloss": "bus depot" },
+        { "word": "μπαταρία", "gloss": "battery" },
+        { "word": "ανήσυχη", "gloss": "worried" },
+        { "word": "τέρμα της γραμμής", "gloss": "end of the line" },
+        { "word": "βάρδια", "gloss": "shift" },
+        { "word": "όρο", "gloss": "condition" },
+        { "word": "πορτοκαλόπιτα", "gloss": "orange pie (a syrupy cake)" },
+        { "word": "ταψιά", "gloss": "baking trays" }
+      ]
+    },
+    {
+      "id": "el-b1-02",
+      "title": "Ο σκύλος με τα πέντε ονόματα",
+      "subtitle": "The dog with five names",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Στο ενετικό λιμάνι των Χανίων ζει ένας μεγάλος καφετής σκύλος. Κανείς δεν ξέρει από πού ήρθε. Το πρωί κοιμάται μπροστά στο ψαράδικο, το μεσημέρι κάθεται έξω από μια ταβέρνα και το βράδυ συνοδεύει τους τουρίστες μέχρι τον φάρο. Όλοι τον αγαπούν, αλλά ο καθένας τον φωνάζει με διαφορετικό όνομα.",
+        "Ο ψαράς τον λέει Καπετάνιο. Η σερβιτόρα της ταβέρνας τον λέει Μπόμπο. Τα παιδιά της γειτονιάς τον λένε Φάρο, και ο γέρος που πουλάει λαχεία τον λέει απλώς Φίλε. Μια μέρα ο σκύλος χτύπησε το πόδι του και χρειάστηκε κτηνίατρο. «Σε ποιον ανήκει;» ρώτησε η γιατρός. Πέντε άνθρωποι απάντησαν ταυτόχρονα: «Σε μένα!»",
+        "Πλήρωσαν τον λογαριασμό όλοι μαζί, ο καθένας από λίγο. Μετά κάθισαν στην ταβέρνα να αποφασίσουν ποιο θα είναι το πραγματικό του όνομα. Συζήτησαν μία ώρα, αλλά δεν συμφώνησαν. «Ξέρετε κάτι;» είπε τελικά η σερβιτόρα. «Έχει πέντε ονόματα γιατί έχει πέντε σπίτια.» Από τότε ο σκύλος φοράει ένα κόκκινο κολάρο με ένα μικρό μεταλλικό πλακάκι. Πάνω του δεν γράφει όνομα, μόνο: «Ανήκει στο λιμάνι»."
+      ],
+      "english": [
+        ["In the Venetian harbour of Chania lives a big brown dog.", "Nobody knows where he came from.", "In the morning he sleeps in front of the fishmonger's, at midday he sits outside a taverna and in the evening he walks the tourists out to the lighthouse.", "Everyone loves him, but each person calls him by a different name."],
+        ["The fisherman calls him Captain.", "The waitress at the taverna calls him Bobos.", "The neighbourhood children call him Lighthouse, and the old man who sells lottery tickets just calls him Friend.", "One day the dog hurt his leg and needed a vet.", "“Who does he belong to?” asked the vet.", "Five people answered at the same time: “Me!”"],
+        ["They all paid the bill together, each a little.", "Then they sat in the taverna to decide what his real name would be.", "They argued for an hour but didn't agree.", "“You know what?” the waitress said at last.", "“He has five names because he has five homes.”", "Since then the dog has worn a red collar with a small metal tag.", "It doesn't have a name on it, only: “Belongs to the harbour.”"]
+      ],
+      "vocab": [
+        { "word": "ενετικό", "gloss": "Venetian" },
+        { "word": "καφετής", "gloss": "brown" },
+        { "word": "συνοδεύει", "gloss": "accompanies" },
+        { "word": "λαχεία", "gloss": "lottery tickets" },
+        { "word": "κτηνίατρο", "gloss": "vet" },
+        { "word": "ανήκει", "gloss": "belongs" },
+        { "word": "ταυτόχρονα", "gloss": "at the same time" },
+        { "word": "λογαριασμό", "gloss": "bill" },
+        { "word": "κολάρο", "gloss": "collar" },
+        { "word": "πλακάκι", "gloss": "tag (small plate)" }
+      ]
+    },
+    {
+      "id": "el-b1-03",
+      "title": "Το μελτέμι",
+      "subtitle": "The meltemi",
+      "topic": "Weather",
+      "symbol": "wind",
+      "paragraphs": [
+        "Τον Αύγουστο ο Στέλιος και η Ρένα είχαν εισιτήρια για το πλοίο της επιστροφής από τη Νάξο στον Πειραιά. Τη Δευτέρα έπρεπε να είναι και οι δύο στη δουλειά. Όμως το πρωί της αναχώρησης φυσούσε τόσο δυνατός αέρας που οι ομπρέλες της παραλίας πετούσαν σαν πουλιά. Στο λιμάνι μια ανακοίνωση έλεγε: «Λόγω απαγορευτικού απόπλου, όλα τα δρομολόγια ακυρώνονται».",
+        "«Δεν μπορεί!» φώναξε ο Στέλιος. «Αν δεν γυρίσω αύριο, ο διευθυντής μου θα με σκοτώσει.» Η Ρένα, αντίθετα, χαμογελούσε. «Εγώ θα του τηλεφωνούσα και θα του έλεγα την αλήθεια», είπε. «Ο αέρας δεν ρωτάει κανέναν.» Ο Στέλιος πήρε τηλέφωνο με βαριά καρδιά. Ο διευθυντής του όμως δεν θύμωσε καθόλου. «Κι εγώ είμαι στην Πάρο», του είπε. «Ούτε εμένα με αφήνει το μελτέμι να φύγω.»",
+        "Έτσι έμειναν άλλες δύο μέρες. Επειδή η θάλασσα ήταν άγρια, δεν κολύμπησαν. Ανέβηκαν όμως στα ορεινά χωριά, στο Φιλότι και στην Απείρανθο, όπου δεν είχαν πάει ποτέ. Έφαγαν κατσικάκι, ήπιαν κίτρο και άκουσαν ιστορίες από έναν γέρο βοσκό. Όταν τελικά μπήκαν στο πλοίο, ο Στέλιος κοίταξε το νησί και είπε: «Ξέρεις; Θα ήθελα να φυσήξει ακόμα μία μέρα.»"
+      ],
+      "english": [
+        ["In August Stelios and Rena had tickets for the ferry back from Naxos to Piraeus.", "On Monday they both had to be at work.", "But on the morning they were due to leave, the wind was blowing so hard that the beach umbrellas were flying like birds.", "At the port a notice said: “Due to a sailing ban, all departures are cancelled.”"],
+        ["“It can't be!” shouted Stelios.", "“If I'm not back tomorrow, my boss will kill me.”", "Rena, on the other hand, was smiling.", "“I'd ring him and tell him the truth,” she said.", "“The wind doesn't ask anyone's permission.”", "Stelios phoned with a heavy heart.", "But his boss wasn't angry at all.", "“I'm on Paros myself,” he told him.", "“The meltemi won't let me leave either.”"],
+        ["So they stayed another two days.", "Because the sea was rough, they didn't swim.", "Instead they went up to the mountain villages, Filoti and Apeiranthos, where they had never been.", "They ate young goat, drank kitron and listened to stories from an old shepherd.", "When they finally boarded the ferry, Stelios looked at the island and said: “You know what? I wish it would blow for one more day.”"]
+      ],
+      "vocab": [
+        { "word": "αναχώρησης", "gloss": "departure" },
+        { "word": "φυσούσε", "gloss": "was blowing" },
+        { "word": "απαγορευτικού απόπλου", "gloss": "sailing ban (for bad weather)" },
+        { "word": "δρομολόγια", "gloss": "scheduled sailings" },
+        { "word": "ακυρώνονται", "gloss": "are cancelled" },
+        { "word": "αντίθετα", "gloss": "on the other hand" },
+        { "word": "θύμωσε", "gloss": "got angry" },
+        { "word": "άγρια", "gloss": "rough, wild" },
+        { "word": "ορεινά", "gloss": "mountain (adj.)" },
+        { "word": "κίτρο", "gloss": "kitron, a citron liqueur from Naxos" }
+      ]
+    },
+    {
+      "id": "el-b1-04",
+      "title": "Η γιαγιά στην οθόνη",
+      "subtitle": "Grandma on the screen",
+      "topic": "Family",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Ο Άρης σπουδάζει στην Αθήνα, αλλά η γιαγιά του, η κυρία Βασιλική, μένει μόνη της σε ένα χωριό κοντά στα Γιάννενα. Τα Χριστούγεννα της χάρισε ένα τάμπλετ και της έδειξε πώς να κάνει βιντεοκλήση. «Πατάς εδώ, στο πράσινο κουμπί, και με βλέπεις», της εξήγησε. Η γιαγιά τον κοίταξε με καχυποψία. «Και τι θα γίνει αν πατήσω το κόκκινο;» ρώτησε. «Τίποτα, γιαγιά. Δεν θα εκραγεί.»",
+        "Από τότε η γιαγιά τον έπαιρνε κάθε πρωί στις επτά ακριβώς. Ο Άρης απαντούσε μισοκοιμισμένος, ενώ εκείνη του έδειχνε τις κότες, τον καιρό και το φαγητό που μαγείρευε. Μερικές φορές έβλεπε μόνο το ταβάνι ή ένα κομμάτι από το αυτί της. «Γιαγιά, γύρισε το τάμπλετ!» της έλεγε. «Ποιο τάμπλετ; Εγώ σε ακούω μια χαρά», απαντούσε εκείνη.",
+        "Ένα πρωί του Μαρτίου το τάμπλετ δεν χτύπησε. Ο Άρης ξύπνησε στις εννιά και ανησύχησε αμέσως. Πήρε τηλέφωνο τη θεία του, αλλά δεν απαντούσε κανείς. Στο τέλος έλαβε ένα μήνυμα με μια φωτογραφία: η γιαγιά, με γυαλιά ηλίου, στο καράβι για την Κέρκυρα. Από κάτω είχε γράψει: «Έμαθα και τις φωτογραφίες. Θα σε πάρω αύριο. Μην ξυπνήσεις νωρίς.»"
+      ],
+      "english": [
+        ["Aris studies in Athens, but his grandmother, Mrs Vasiliki, lives alone in a village near Ioannina.", "At Christmas he gave her a tablet and showed her how to make a video call.", "“You press here, on the green button, and you can see me,” he explained.", "His grandmother looked at him suspiciously.", "“And what happens if I press the red one?” she asked.", "“Nothing, Grandma. It won't explode.”"],
+        ["From then on his grandmother called him every morning at seven on the dot.", "Aris answered half-asleep while she showed him the hens, the weather and the food she was cooking.", "Sometimes he could only see the ceiling or a bit of her ear.", "“Grandma, turn the tablet round!” he would tell her.", "“What tablet? I can hear you just fine,” she would reply."],
+        ["One morning in March the tablet didn't ring.", "Aris woke up at nine and was worried at once.", "He phoned his aunt, but nobody answered.", "In the end he received a message with a photo: his grandmother, in sunglasses, on the ferry to Corfu.", "Underneath she had written: “I've learned photos too. I'll call you tomorrow. Don't get up early.”"]
+      ],
+      "vocab": [
+        { "word": "χάρισε", "gloss": "gave as a present" },
+        { "word": "βιντεοκλήση", "gloss": "video call" },
+        { "word": "κουμπί", "gloss": "button" },
+        { "word": "καχυποψία", "gloss": "suspicion" },
+        { "word": "θα εκραγεί", "gloss": "will explode" },
+        { "word": "μισοκοιμισμένος", "gloss": "half-asleep" },
+        { "word": "ταβάνι", "gloss": "ceiling" },
+        { "word": "ανησύχησε", "gloss": "got worried" },
+        { "word": "έλαβε", "gloss": "received" },
+        { "word": "γυαλιά ηλίου", "gloss": "sunglasses" }
+      ]
+    },
+    {
+      "id": "el-b1-05",
+      "title": "Ο τελευταίος δρομέας",
+      "subtitle": "The last runner",
+      "topic": "Sport",
+      "symbol": "figure.run",
+      "paragraphs": [
+        "Ο κύριος Θανάσης είναι εξήντα οκτώ χρονών και πριν από δύο χρόνια δεν μπορούσε να ανέβει ούτε τις σκάλες της πολυκατοικίας του. Τότε ο γιατρός του είπε κάτι που δεν ξέχασε ποτέ: «Αν συνεχίσετε έτσι, δεν θα δείτε τα εγγόνια σας να μεγαλώνουν». Την επόμενη μέρα αγόρασε αθλητικά παπούτσια και άρχισε να περπατάει στο πάρκο. Μετά από έξι μήνες έτρεχε. Μετά από ένα χρόνο γράφτηκε στον Μαραθώνιο της Αθήνας.",
+        "Τη μέρα του αγώνα ξεκίνησε από τον Μαραθώνα μαζί με χιλιάδες δρομείς. Στο εικοστό χιλιόμετρο τον πονούσαν τα γόνατα. Στο τριακοστό σκέφτηκε να σταματήσει. «Τι κάνω εδώ;» αναρωτήθηκε. «Θα μπορούσα να πίνω τον καφέ μου στο μπαλκόνι.» Τότε όμως είδε μια ταμπέλα στην άκρη του δρόμου, γραμμένη με παιδικά γράμματα: «Τρέξε, παππού Θανάση!»",
+        "Έφτασε στο Παναθηναϊκό Στάδιο μετά από έξι ώρες και δώδεκα λεπτά. Ήταν από τους τελευταίους. Οι περισσότεροι θεατές είχαν φύγει, αλλά τρεις άνθρωποι φώναζαν και χειροκροτούσαν σαν να είχε κερδίσει χρυσό μετάλλιο: η κόρη του και τα δύο εγγόνια του. Ο μικρός εγγονός του τού έδωσε ένα μετάλλιο από χαρτόνι. «Αυτό είναι το αληθινό», του είπε. Ο κύριος Θανάσης το κρέμασε στον τοίχο του σαλονιού, δίπλα στο κανονικό."
+      ],
+      "english": [
+        ["Mr Thanasis is sixty-eight, and two years ago he couldn't even climb the stairs of his block of flats.", "Then his doctor told him something he never forgot: “If you carry on like this, you won't see your grandchildren grow up.”", "The next day he bought a pair of trainers and started walking in the park.", "After six months he was running.", "After a year he signed up for the Athens Marathon."],
+        ["On race day he set off from Marathon with thousands of runners.", "At the twentieth kilometre his knees were hurting.", "At the thirtieth he thought about stopping.", "“What am I doing here?” he wondered.", "“I could be drinking my coffee on the balcony.”", "But then he saw a sign at the side of the road, written in a child's handwriting: “Run, Grandpa Thanasis!”"],
+        ["He reached the Panathenaic Stadium after six hours and twelve minutes.", "He was one of the last.", "Most of the spectators had left, but three people were shouting and clapping as if he had won a gold medal: his daughter and his two grandchildren.", "His little grandson gave him a cardboard medal.", "“This is the real one,” he told him.", "Mr Thanasis hung it on the living-room wall, next to the official one."]
+      ],
+      "vocab": [
+        { "word": "πολυκατοικίας", "gloss": "block of flats" },
+        { "word": "αθλητικά παπούτσια", "gloss": "trainers" },
+        { "word": "γράφτηκε", "gloss": "signed up" },
+        { "word": "δρομείς", "gloss": "runners" },
+        { "word": "γόνατα", "gloss": "knees" },
+        { "word": "αναρωτήθηκε", "gloss": "wondered" },
+        { "word": "ταμπέλα", "gloss": "sign" },
+        { "word": "θεατές", "gloss": "spectators" },
+        { "word": "χειροκροτούσαν", "gloss": "were clapping" },
+        { "word": "χαρτόνι", "gloss": "cardboard" },
+        { "word": "κρέμασε", "gloss": "hung" }
+      ]
+    },
+    {
+      "id": "el-b1-06",
+      "title": "Η τρομπέτα του τρίτου ορόφου",
+      "subtitle": "The trumpet on the third floor",
+      "topic": "Neighbours",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Στην πολυκατοικία της Δήμητρας, στην Πάτρα, μετακόμισε τον Σεπτέμβριο ένας καινούργιος ένοικος. Ήταν ένας ψηλός νέος με γένια, που χαιρετούσε ευγενικά στο ασανσέρ. Το πρόβλημα ξεκινούσε κάθε βράδυ στις δέκα: από το διαμέρισμά του ακουγόταν μια τρομπέτα. Έπαιζε την ίδια μελωδία ξανά και ξανά, και πάντα έκανε λάθος στο ίδιο σημείο.",
+        "Μετά από δύο εβδομάδες η Δήμητρα δεν άντεχε άλλο. Ανέβηκε στον τρίτο όροφο και χτύπησε την πόρτα του. «Συγγνώμη, αλλά κάποιοι εδώ θέλουμε να κοιμηθούμε», του είπε. Ο νέος κοκκίνισε. «Έχετε δίκιο», απάντησε. «Παίζω στην μπάντα του καρναβαλιού και σε τρεις εβδομάδες είναι η μεγάλη παρέλαση. Αν δεν μάθω αυτό το κομμάτι, θα με διώξουν.»",
+        "Η Δήμητρα το σκέφτηκε λίγο. Ήταν δασκάλα μουσικής πριν βγει στη σύνταξη. «Ξέρεις κάτι;» του είπε. «Το λάθος σου δεν είναι στα δάχτυλα, είναι στην ανάσα. Έλα αύριο στις έξι το απόγευμα στο σπίτι μου.» Για τρεις εβδομάδες έκαναν μάθημα κάθε απόγευμα και τα βράδια η πολυκατοικία κοιμόταν ήσυχα. Την Κυριακή της παρέλασης η Δήμητρα στεκόταν στο πεζοδρόμιο. Όταν πέρασε η μπάντα, η μελωδία ακούστηκε τέλεια, χωρίς κανένα λάθος."
+      ],
+      "english": [
+        ["In September a new tenant moved into Dimitra's block of flats in Patras.", "He was a tall young man with a beard who said hello politely in the lift.", "The problem started every night at ten: a trumpet could be heard from his flat.", "He played the same tune over and over, and he always made a mistake at the same spot."],
+        ["After two weeks Dimitra couldn't stand it any longer.", "She went up to the third floor and knocked on his door.", "“Sorry, but some of us here want to sleep,” she told him.", "The young man blushed.", "“You're right,” he replied.", "“I play in the carnival band and the big parade is in three weeks. If I don't learn this piece, they'll throw me out.”"],
+        ["Dimitra thought about it for a moment.", "She had been a music teacher before she retired.", "“You know what?” she said to him.", "“Your mistake isn't in your fingers, it's in your breathing. Come to my flat tomorrow at six in the evening.”", "For three weeks they had a lesson every afternoon, and at night the building slept peacefully.", "On the Sunday of the parade Dimitra stood on the pavement.", "When the band went past, the tune sounded perfect, without a single mistake."]
+      ],
+      "vocab": [
+        { "word": "ένοικος", "gloss": "tenant" },
+        { "word": "γένια", "gloss": "beard" },
+        { "word": "ακουγόταν", "gloss": "could be heard" },
+        { "word": "σημείο", "gloss": "spot, point" },
+        { "word": "άντεχε", "gloss": "could stand" },
+        { "word": "κοκκίνισε", "gloss": "blushed" },
+        { "word": "παρέλαση", "gloss": "parade" },
+        { "word": "θα με διώξουν", "gloss": "they'll throw me out" },
+        { "word": "σύνταξη", "gloss": "retirement (pension)" },
+        { "word": "ανάσα", "gloss": "breath, breathing" },
+        { "word": "πεζοδρόμιο", "gloss": "pavement" }
+      ]
+    },
+    {
+      "id": "el-b1-07",
+      "title": "Το στοίχημα",
+      "subtitle": "The bet",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Ο Γιάννης κάπνιζε από τα δεκαεφτά του. Είχε προσπαθήσει να το κόψει πολλές φορές, αλλά πάντα έβρισκε μια δικαιολογία: το άγχος της δουλειάς, ο καφές του πρωινού, ένας γάμος, μια κηδεία. Ένα βράδυ στη Λάρισα η δεκάχρονη κόρη του, η Μυρτώ, έβαλε στο τραπέζι έναν κουμπαρά. «Μπαμπά, θα κάνουμε ένα στοίχημα», του είπε σοβαρά.",
+        "Το σχέδιό της ήταν απλό. Κάθε μέρα χωρίς τσιγάρο, ο Γιάννης θα έβαζε στον κουμπαρά τα λεφτά που θα ξόδευε για ένα πακέτο. Αν άντεχε τρεις μήνες, θα πήγαιναν όλοι μαζί ταξίδι με αυτά τα λεφτά. Αν κάπνιζε έστω και ένα τσιγάρο, τα λεφτά θα πήγαιναν στη Μυρτώ για ένα καινούργιο ποδήλατο. «Και πώς θα το μάθεις;» ρώτησε ο Γιάννης. «Θα το μυρίσω», απάντησε εκείνη.",
+        "Οι πρώτες εβδομάδες ήταν δύσκολες. Ο Γιάννης ήταν νευρικός, έτρωγε συνέχεια στραγάλια και δεν κοιμόταν καλά. Όμως ο κουμπαράς γέμιζε και τα ρούχα του δεν μύριζαν πια καπνό. Στο τέλος του τρίτου μήνα μέτρησαν τα λεφτά στο τραπέζι της κουζίνας: σχεδόν τετρακόσια ευρώ. Το καλοκαίρι πήγαν μια εβδομάδα στη Σκιάθο. Η Μυρτώ, πάντως, πήρε και το ποδήλατο, γιατί ο Γιάννης είπε ότι μια τόσο καλή προπονήτρια άξιζε δώρο."
+      ],
+      "english": [
+        ["Yannis had smoked since he was seventeen.", "He had tried to quit many times, but he always found an excuse: stress at work, his morning coffee, a wedding, a funeral.", "One evening in Larissa his ten-year-old daughter, Myrto, put a piggy bank on the table.", "“Dad, we're going to make a bet,” she told him seriously."],
+        ["Her plan was simple.", "For every day without a cigarette, Yannis would put the money he would have spent on a packet into the piggy bank.", "If he lasted three months, they would all go on a trip with that money.", "If he smoked even one cigarette, the money would go to Myrto for a new bike.", "“And how will you know?” asked Yannis.", "“I'll smell it,” she replied."],
+        ["The first weeks were hard.", "Yannis was irritable, kept eating roasted chickpeas and didn't sleep well.", "But the piggy bank was filling up and his clothes no longer smelled of smoke.", "At the end of the third month they counted the money on the kitchen table: almost four hundred euros.", "In the summer they went to Skiathos for a week.", "Myrto got the bike as well, though, because Yannis said such a good coach deserved a present."]
+      ],
+      "vocab": [
+        { "word": "κάπνιζε", "gloss": "smoked, used to smoke" },
+        { "word": "να το κόψει", "gloss": "to quit it" },
+        { "word": "δικαιολογία", "gloss": "excuse" },
+        { "word": "κηδεία", "gloss": "funeral" },
+        { "word": "κουμπαρά", "gloss": "piggy bank" },
+        { "word": "στοίχημα", "gloss": "bet" },
+        { "word": "θα ξόδευε", "gloss": "would spend" },
+        { "word": "θα το μυρίσω", "gloss": "I'll smell it" },
+        { "word": "νευρικός", "gloss": "irritable, on edge" },
+        { "word": "στραγάλια", "gloss": "roasted chickpeas" },
+        { "word": "προπονήτρια", "gloss": "coach (female)" }
+      ]
+    },
+    {
+      "id": "el-b1-08",
+      "title": "Το κινητό στο ταξί",
+      "subtitle": "The phone in the taxi",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "Η Χρυσταλλένη έφτασε στο αεροδρόμιο της Λάρνακας αργά το βράδυ, μετά από ένα επαγγελματικό ταξίδι στις Βρυξέλλες. Πήρε ταξί για τη Λευκωσία και, κουρασμένη όπως ήταν, άφησε το κινητό της στο πίσω κάθισμα. Το κατάλαβε μόνο όταν έφτασε στο διαμέρισμά της και ήθελε να στείλει μήνυμα στη μητέρα της. Δεν θυμόταν ούτε τον αριθμό του ταξί ούτε το όνομα του οδηγού.",
+        "Το επόμενο πρωί πήγε στην εταιρεία ταξί. «Πώς ήταν ο οδηγός;» τη ρώτησε η υπάλληλος. «Μεγάλος σε ηλικία, με μουστάκι, και άκουγε ποδόσφαιρο στο ραδιόφωνο», απάντησε η Χρυσταλλένη. Η υπάλληλος γέλασε. «Αυτοί είναι οι μισοί οδηγοί μας!» Η Χρυσταλλένη άφησε τα στοιχεία της και γύρισε σπίτι απογοητευμένη.",
+        "Το απόγευμα χτύπησε το κουδούνι. Στην πόρτα στεκόταν ο ταξιτζής με το μουστάκι, κρατώντας το κινητό της. «Πώς με βρήκατε;» ρώτησε έκπληκτη. «Χτυπούσε όλη τη νύχτα», εξήγησε εκείνος. «Το πρωί απάντησα και μια κυρία μού είπε ότι είναι η μάνα σας. Μου έδωσε τη διεύθυνση και μου είπε να σας πω να την πάρετε αμέσως τηλέφωνο, γιατί ανησυχεί.» Η Χρυσταλλένη ήθελε να του δώσει χρήματα, αλλά εκείνος αρνήθηκε. «Μόνο πάρτε τη μάνα σας», είπε και έφυγε."
+      ],
+      "english": [
+        ["Chrystalleni arrived at Larnaca airport late in the evening, after a business trip to Brussels.", "She took a taxi to Nicosia and, tired as she was, left her phone on the back seat.", "She only realised when she got to her flat and wanted to send a message to her mother.", "She couldn't remember either the taxi's number or the driver's name."],
+        ["The next morning she went to the taxi company.", "“What did the driver look like?” the clerk asked her.", "“Older, with a moustache, and he was listening to football on the radio,” Chrystalleni replied.", "The clerk laughed.", "“That's half our drivers!”", "Chrystalleni left her details and went home disappointed."],
+        ["In the afternoon the doorbell rang.", "Standing at the door was the taxi driver with the moustache, holding her phone.", "“How did you find me?” she asked in surprise.", "“It was ringing all night,” he explained.", "“In the morning I answered, and a lady told me she was your mum. She gave me the address and told me to tell you to call her straight away, because she's worried.”", "Chrystalleni wanted to give him some money, but he refused.", "“Just call your mum,” he said, and left."]
+      ],
+      "vocab": [
+        { "word": "επαγγελματικό", "gloss": "business (adj.)" },
+        { "word": "κάθισμα", "gloss": "seat" },
+        { "word": "το κατάλαβε", "gloss": "she realised it" },
+        { "word": "υπάλληλος", "gloss": "clerk, employee" },
+        { "word": "μουστάκι", "gloss": "moustache" },
+        { "word": "στοιχεία", "gloss": "(contact) details" },
+        { "word": "απογοητευμένη", "gloss": "disappointed" },
+        { "word": "κουδούνι", "gloss": "doorbell" },
+        { "word": "έκπληκτη", "gloss": "surprised" },
+        { "word": "αρνήθηκε", "gloss": "refused" }
+      ]
+    },
+    {
+      "id": "el-b1-09",
+      "title": "Τα λουλούδια στο παγκάκι",
+      "subtitle": "The flowers on the bench",
+      "topic": "Mystery",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "Κάθε Τρίτη το πρωί, όταν η Ελένη έτρεχε στη Σπιανάδα της Κέρκυρας, έβλεπε το ίδιο πράγμα: ένα μπουκέτο φρέσκα λουλούδια πάνω σε ένα παλιό παγκάκι κοντά στις καμάρες του Λιστόν. Δεν υπήρχε ποτέ κάρτα ούτε σημείωμα. Τα λουλούδια άλλαζαν κάθε εβδομάδα: τριαντάφυλλα, μαργαρίτες, γαρίφαλα. Η Ελένη άρχισε να φαντάζεται ιστορίες. Ίσως ήταν ένας ερωτευμένος που περίμενε κάποια. Ίσως ήταν μια χήρα που θυμόταν τον άντρα της.",
+        "Μια Τρίτη αποφάσισε να ξυπνήσει πιο νωρίς για να λύσει το μυστήριο. Στις έξι κάθισε σε ένα καφενείο απέναντι και περίμενε. Στις έξι και μισή εμφανίστηκε ένας άντρας με πράσινη στολή και ένα καρότσι. Άφησε τα λουλούδια στο παγκάκι, κάθισε δίπλα τους και άναψε ένα τσιγάρο. Η Ελένη πλησίασε. «Συγγνώμη, για ποιον είναι αυτά τα λουλούδια;» τον ρώτησε.",
+        "Ο άντρας ξαφνιάστηκε και μετά γέλασε. «Για κανέναν», είπε. «Είμαι κηπουρός του δήμου. Κάθε Τρίτη αλλάζουμε τα λουλούδια στα παρτέρια και κάποια περισσεύουν. Μου φαίνεται κρίμα να τα πετάξω.» Της εξήγησε ότι τα αφήνει στο παγκάκι γιατί εκεί περνάει πολύς κόσμος και κάποιος πάντα τα παίρνει. Η Ελένη ένιωσε λίγο απογοητευμένη. Η αλήθεια ήταν πιο απλή από τις ιστορίες της. Εκείνο το πρωί, όμως, γύρισε σπίτι με τρία τριαντάφυλλα και τα έβαλε σε ένα βάζο στην κουζίνα."
+      ],
+      "english": [
+        ["Every Tuesday morning, when Eleni went running on the Spianada in Corfu, she saw the same thing: a bouquet of fresh flowers on an old bench near the arches of the Liston.", "There was never a card or a note.", "The flowers changed every week: roses, daisies, carnations.", "Eleni began to imagine stories.", "Perhaps it was someone in love, waiting for a woman.", "Perhaps it was a widow remembering her husband."],
+        ["One Tuesday she decided to get up earlier to solve the mystery.", "At six she sat in a café opposite and waited.", "At half past six a man appeared in a green uniform with a cart.", "He left the flowers on the bench, sat down next to them and lit a cigarette.", "Eleni went up to him.", "“Excuse me, who are these flowers for?” she asked him."],
+        ["The man was startled and then laughed.", "“For no one,” he said.", "“I'm a gardener for the council. Every Tuesday we change the flowers in the flower beds and some are left over. It seems a shame to throw them away.”", "He explained that he leaves them on the bench because lots of people pass by there and somebody always takes them.", "Eleni felt a little disappointed.", "The truth was simpler than her stories.", "That morning, though, she went home with three roses and put them in a vase in the kitchen."]
+      ],
+      "vocab": [
+        { "word": "μπουκέτο", "gloss": "bouquet" },
+        { "word": "παγκάκι", "gloss": "bench" },
+        { "word": "σημείωμα", "gloss": "note" },
+        { "word": "ερωτευμένος", "gloss": "someone in love" },
+        { "word": "χήρα", "gloss": "widow" },
+        { "word": "στολή", "gloss": "uniform" },
+        { "word": "καρότσι", "gloss": "cart, barrow" },
+        { "word": "ξαφνιάστηκε", "gloss": "was startled" },
+        { "word": "κηπουρός", "gloss": "gardener" },
+        { "word": "παρτέρια", "gloss": "flower beds" },
+        { "word": "περισσεύουν", "gloss": "are left over" }
+      ]
+    },
+    {
+      "id": "el-b1-10",
+      "title": "Μαθήματα οδήγησης",
+      "subtitle": "Driving lessons",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Η Κατερίνα ήταν σαράντα πέντε χρονών και δεν είχε δίπλωμα οδήγησης. Για χρόνια την πήγαινε παντού ο άντρας της ή έπαιρνε το λεωφορείο. Όταν όμως η κόρη της έφυγε για σπουδές στη Θεσσαλονίκη, αποφάσισε ότι ήταν η ώρα. Πήγε σε μια σχολή οδηγών στο Ηράκλειο, παρόλο που φοβόταν πολύ.",
+        "Ο δάσκαλός της ήταν ένας υπομονετικός νεαρός, ο Μανώλης. Από το πρώτο μάθημα κάτι της φάνηκε γνωστό στο πρόσωπό του. «Συμπλέκτη, πρώτη, και αφήνετε σιγά σιγά», της έλεγε ήρεμα, ακόμα κι όταν το αυτοκίνητο έσβηνε για πέμπτη φορά στην ανηφόρα. Μια μέρα, σε ένα φανάρι, εκείνος γύρισε και της είπε: «Κυρία Κατερίνα, δεν με θυμάστε, ε; Ήμουν μαθητής σας στην τρίτη δημοτικού.»",
+        "Τότε θυμήθηκε. Ο μικρός Μανώλης δεν μπορούσε να μάθει την προπαίδεια και έκλαιγε κάθε φορά που τον σήκωνε στον πίνακα. Εκείνη έμενε μαζί του μετά το σχολείο και του εξηγούσε ξανά και ξανά. «Τώρα είναι η σειρά μου να κάνω το ίδιο για εσάς», είπε εκείνος γελώντας. Τον Ιούνιο η Κατερίνα πέρασε τις εξετάσεις με την πρώτη. Η πρώτη της διαδρομή ήταν μέχρι τη σχολή οδηγών, με ένα κουτί γλυκά για τον δάσκαλό της."
+      ],
+      "english": [
+        ["Katerina was forty-five and didn't have a driving licence.", "For years her husband had driven her everywhere, or she had taken the bus.", "But when her daughter left to study in Thessaloniki, she decided it was time.", "She went to a driving school in Heraklion, even though she was very scared."],
+        ["Her instructor was a patient young man, Manolis.", "From the first lesson something about his face seemed familiar to her.", "“Clutch, first gear, and let it out slowly,” he would tell her calmly, even when the car stalled for the fifth time on a hill.", "One day, at a traffic light, he turned and said to her: “Mrs Katerina, you don't remember me, do you? I was your pupil in Year Three.”"],
+        ["Then she remembered.", "Little Manolis couldn't learn his times tables and cried every time she called him up to the board.", "She would stay with him after school and explain it again and again.", "“Now it's my turn to do the same for you,” he said, laughing.", "In June Katerina passed the test first time.", "Her first drive was to the driving school, with a box of pastries for her instructor."]
+      ],
+      "vocab": [
+        { "word": "δίπλωμα οδήγησης", "gloss": "driving licence" },
+        { "word": "σχολή οδηγών", "gloss": "driving school" },
+        { "word": "υπομονετικός", "gloss": "patient" },
+        { "word": "συμπλέκτη", "gloss": "clutch" },
+        { "word": "έσβηνε", "gloss": "stalled (lit. went out)" },
+        { "word": "ανηφόρα", "gloss": "uphill slope" },
+        { "word": "φανάρι", "gloss": "traffic light" },
+        { "word": "προπαίδεια", "gloss": "times tables" },
+        { "word": "η σειρά μου", "gloss": "my turn" },
+        { "word": "με την πρώτη", "gloss": "first time, at the first attempt" },
+        { "word": "διαδρομή", "gloss": "drive, journey" }
+      ]
+    },
+    {
+      "id": "el-b1-11",
+      "title": "Πέντε αστέρια",
+      "subtitle": "Five stars",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Όταν η Νεφέλη έχασε τη δουλειά της στην Αθήνα, πήγε για ένα καλοκαίρι στην Ικαρία, στον θείο της τον Λευτέρη. Ο θείος είχε ογδόντα κυψέλες στα βουνά πάνω από το χωριό και έβγαζε το καλύτερο θυμαρίσιο μέλι του νησιού. Το πουλούσε όμως μόνο σε φίλους και σε ένα μικρό μαγαζί στο λιμάνι, σε τιμή που δεν κάλυπτε ούτε τα έξοδα.",
+        "«Θείε, γιατί δεν το πουλάμε στο ίντερνετ;» του πρότεινε ένα βράδυ. «Θα έφτιαχνα εγώ ένα ηλεκτρονικό κατάστημα. Θα έβγαζες τα διπλάσια.» Ο Λευτέρης κούνησε το κεφάλι του. «Το μέλι μου θέλω να το τρώνε άνθρωποι που ξέρω», είπε. «Όχι άγνωστοι που δεν θα έρθουν ποτέ να δουν τις μέλισσες.» Η Νεφέλη όμως επέμενε, και στο τέλος εκείνος συμφώνησε, αλλά μόνο για είκοσι βάζα.",
+        "Τα είκοσι βάζα πουλήθηκαν σε δύο μέρες. Οι πελάτες άφηναν σχόλια με πέντε αστέρια και κάποιοι έστελναν φωτογραφίες από τις κουζίνες τους στη Λυών, στο Μόναχο, στη Μελβούρνη. Η Νεφέλη τα διάβαζε δυνατά στον θείο της το βράδυ, στην αυλή. Εκείνος έκανε πως δεν τον ενδιέφερε. Μετά από μια εβδομάδα, όμως, την ώρα που έπιναν καφέ, ρώτησε σαν να μην ήθελε: «Λοιπόν; Πόσα αστέρια πήραμε σήμερα;»"
+      ],
+      "english": [
+        ["When Nefeli lost her job in Athens, she went to spend a summer on Ikaria with her uncle Lefteris.", "Her uncle had eighty beehives in the mountains above the village and produced the best thyme honey on the island.", "But he only sold it to friends and to a little shop at the harbour, at a price that didn't even cover his costs."],
+        ["“Uncle, why don't we sell it online?” she suggested one evening.", "“I'd make an online shop myself. You'd earn twice as much.”", "Lefteris shook his head.", "“I want my honey to be eaten by people I know,” he said.", "“Not strangers who will never come and see the bees.”", "But Nefeli insisted, and in the end he agreed, though only for twenty jars."],
+        ["The twenty jars sold in two days.", "Customers left five-star reviews and some sent photos from their kitchens in Lyon, Munich, Melbourne.", "Nefeli read them aloud to her uncle in the evening, in the yard.", "He pretended he wasn't interested.", "After a week, though, while they were having coffee, he asked, as if he didn't really care: “Well? How many stars did we get today?”"]
+      ],
+      "vocab": [
+        { "word": "κυψέλες", "gloss": "beehives" },
+        { "word": "θυμαρίσιο", "gloss": "thyme (adj.)" },
+        { "word": "κάλυπτε", "gloss": "covered" },
+        { "word": "έξοδα", "gloss": "costs, expenses" },
+        { "word": "πρότεινε", "gloss": "suggested" },
+        { "word": "ηλεκτρονικό κατάστημα", "gloss": "online shop" },
+        { "word": "τα διπλάσια", "gloss": "twice as much" },
+        { "word": "κούνησε", "gloss": "shook" },
+        { "word": "επέμενε", "gloss": "insisted" },
+        { "word": "πουλήθηκαν", "gloss": "were sold" },
+        { "word": "έκανε πως", "gloss": "pretended that" }
+      ]
+    },
+    {
+      "id": "el-b1-12",
+      "title": "Ο χορτοφάγος του Πάσχα",
+      "subtitle": "The Easter vegetarian",
+      "topic": "Celebrations",
+      "symbol": "flame.fill",
+      "paragraphs": [
+        "Κάθε Πάσχα όλη η οικογένεια μαζεύεται στο χωριό του παππού Σταύρου, κοντά στην Τρίπολη. Από τα χαράματα της Κυριακής ο παππούς γυρίζει το αρνί στη σούβλα, ενώ οι θείοι πίνουν τσίπουρο και τα παιδιά τσουγκρίζουν κόκκινα αυγά. Φέτος όμως ο εγγονός του, ο δεκαεφτάχρονος Ορέστης, είχε κάτι να ανακοινώσει.",
+        "«Παππού, έγινα χορτοφάγος», είπε μπροστά σε όλους. «Δεν θα φάω αρνί.» Για μια στιγμή κανείς δεν μίλησε. Η θεία Ρούλα σταυροκοπήθηκε. Ο παππούς σταμάτησε να γυρίζει τη σούβλα και κοίταξε τον εγγονό του για πολλή ώρα. «Καλά», είπε μόνο, και γύρισε πάλι στη φωτιά. Ο Ορέστης ήταν σίγουρος ότι τον είχε στενοχωρήσει.",
+        "Το μεσημέρι, όταν κάθισαν στο τραπέζι, ο παππούς έφερε ένα μεγάλο ταψί και το έβαλε μπροστά στον Ορέστη. Ήταν γεμιστά: ντομάτες και πιπεριές με ρύζι και μυρωδικά, ψημένα στον φούρνο του χωριού. «Τα έκανα από τις έξι το πρωί», είπε. «Η γιαγιά σου τα έφτιαχνε κάθε Πάσχα για μένα, όταν ήμουν νέος και δεν μου άρεσε το κρέας.» Όλοι τον κοίταξαν έκπληκτοι. Ο παππούς πήρε ένα πιρούνι, έκοψε μια πιπεριά από το ταψί του εγγονού του και του έκλεισε το μάτι."
+      ],
+      "english": [
+        ["Every Easter the whole family gathers in Grandpa Stavros's village, near Tripoli.", "From dawn on Sunday Grandpa turns the lamb on the spit, while the uncles drink tsipouro and the children crack red eggs.", "This year, though, his grandson, seventeen-year-old Orestis, had something to announce."],
+        ["“Grandpa, I've become a vegetarian,” he said in front of everyone.", "“I won't eat lamb.”", "For a moment nobody spoke.", "Aunt Roula crossed herself.", "Grandpa stopped turning the spit and looked at his grandson for a long time.", "“All right,” was all he said, and he turned back to the fire.", "Orestis was sure he had upset him."],
+        ["At midday, when they sat down at the table, Grandpa brought a big baking tray and put it in front of Orestis.", "It was gemista: tomatoes and peppers stuffed with rice and herbs, baked in the village oven.", "“I've been making them since six this morning,” he said.", "“Your grandmother used to make them for me every Easter, when I was young and didn't like meat.”", "Everyone looked at him in surprise.", "Grandpa picked up a fork, cut off a piece of pepper from his grandson's tray and winked at him."]
+      ],
+      "vocab": [
+        { "word": "χαράματα", "gloss": "dawn, daybreak" },
+        { "word": "σούβλα", "gloss": "spit (for roasting)" },
+        { "word": "τσουγκρίζουν", "gloss": "crack (eggs together, an Easter game)" },
+        { "word": "ανακοινώσει", "gloss": "announce" },
+        { "word": "χορτοφάγος", "gloss": "vegetarian" },
+        { "word": "σταυροκοπήθηκε", "gloss": "crossed herself" },
+        { "word": "στενοχωρήσει", "gloss": "upset" },
+        { "word": "γεμιστά", "gloss": "stuffed vegetables" },
+        { "word": "μυρωδικά", "gloss": "herbs" },
+        { "word": "έκλεισε το μάτι", "gloss": "winked" }
+      ]
+    },
+    {
+      "id": "el-b1-13",
+      "title": "Το κέρμα της Επιδαύρου",
+      "subtitle": "The coin at Epidaurus",
+      "topic": "Culture",
+      "symbol": "theatermasks.fill",
+      "paragraphs": [
+        "Ο Μάρκος είχε δει την Επίδαυρο μόνο σε φωτογραφίες. Ζούσε στη Λευκωσία και, όταν ο φίλος του ο Νίκος του πρότεινε να πάνε μαζί σε μια παράσταση εκεί, δέχτηκε αμέσως. Πήραν το αεροπλάνο για την Αθήνα, νοίκιασαν αυτοκίνητο και οδήγησαν δύο ώρες μέχρι την Αργολίδα. Τα εισιτήριά τους ήταν στις τελευταίες σειρές, ψηλά, εκεί που φτάνει πρώτο το βραδινό αεράκι.",
+        "«Από εδώ πάνω δεν θα ακούσουμε τίποτα», παραπονέθηκε ο Μάρκος. «Περίμενε», είπε ο Νίκος. Λίγο πριν αρχίσει η παράσταση, ένας ξεναγός κατέβηκε στο κέντρο της ορχήστρας και άφησε ένα κέρμα να πέσει στην πέτρα. Ο ήχος ανέβηκε καθαρός μέχρι την τελευταία σειρά, σαν να είχε πέσει δίπλα στα πόδια τους. Ο Μάρκος έμεινε με το στόμα ανοιχτό.",
+        "Το έργο ήταν μια αρχαία τραγωδία. Ο Μάρκος δεν καταλάβαινε όλες τις λέξεις, αλλά καταλάβαινε τα πάντα. Όταν ο πρωταγωνιστής ψιθύρισε τον τελευταίο του μονόλογο, χιλιάδες άνθρωποι κράτησαν την ανάσα τους. Στο τέλος κανείς δεν ήθελε να σηκωθεί. Στον δρόμο της επιστροφής ο Μάρκος ήταν σιωπηλός. «Τι έπαθες;» ρώτησε ο Νίκος. «Σκέφτομαι ότι αυτό το θέατρο είναι δύο χιλιάδες τριακόσια χρόνια παλιό», απάντησε. «Και ακούγεται καλύτερα από το κινητό μου.»"
+      ],
+      "english": [
+        ["Markos had only seen Epidaurus in photos.", "He lived in Nicosia and, when his friend Nikos suggested they go to a performance there together, he accepted at once.", "They flew to Athens, rented a car and drove for two hours to the Argolid.", "Their tickets were in the back rows, high up, where the evening breeze arrives first."],
+        ["“We won't hear a thing from up here,” Markos complained.", "“Wait,” said Nikos.", "Just before the performance began, a guide went down to the centre of the orchestra and let a coin drop onto the stone.", "The sound rose clearly all the way to the last row, as if it had fallen right by their feet.", "Markos was left open-mouthed."],
+        ["The play was an ancient tragedy.", "Markos didn't understand every word, but he understood everything.", "When the lead actor whispered his final monologue, thousands of people held their breath.", "At the end nobody wanted to get up.", "On the way back Markos was silent.", "“What's the matter with you?” asked Nikos.", "“I'm thinking that this theatre is two thousand three hundred years old,” he replied.", "“And it sounds better than my phone.”"]
+      ],
+      "vocab": [
+        { "word": "παράσταση", "gloss": "performance" },
+        { "word": "δέχτηκε", "gloss": "accepted" },
+        { "word": "σειρές", "gloss": "rows" },
+        { "word": "αεράκι", "gloss": "breeze" },
+        { "word": "παραπονέθηκε", "gloss": "complained" },
+        { "word": "ξεναγός", "gloss": "tour guide" },
+        { "word": "ορχήστρας", "gloss": "orchestra (the round stage of an ancient theatre)" },
+        { "word": "κέρμα", "gloss": "coin" },
+        { "word": "ψιθύρισε", "gloss": "whispered" },
+        { "word": "κράτησαν την ανάσα τους", "gloss": "held their breath" },
+        { "word": "σιωπηλός", "gloss": "silent" }
+      ]
+    },
+    {
+      "id": "el-b1-14",
+      "title": "Τα υπέρ και τα κατά",
+      "subtitle": "The pros and cons",
+      "topic": "Plans",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Ο Παναγιώτης και η Ιουλία ζούσαν δέκα χρόνια σε ένα διαμέρισμα στο Παγκράτι. Κάθε μέρα περνούσαν δύο ώρες στην κίνηση και κάθε βράδυ έλεγαν το ίδιο: «Κάποια μέρα θα φύγουμε από την Αθήνα». Τον Ιανουάριο η Ιουλία βρήκε μια αγγελία: ένα πέτρινο σπίτι με κήπο στην Καρδαμύλη, στη Μάνη, για ενοίκιο. Η εταιρεία της είχε μόλις αποφασίσει ότι οι υπάλληλοι μπορούσαν να δουλεύουν από το σπίτι.",
+        "Εκείνο το βράδυ κάθισαν στην κουζίνα με ένα χαρτί και ένα στυλό. Στη μία στήλη έγραψαν τα υπέρ και στην άλλη τα κατά. «Θα είχαμε θάλασσα και ησυχία», είπε η Ιουλία. «Και κανέναν φίλο σε απόσταση τριών ωρών», είπε ο Παναγιώτης. «Θα μπορούσες να καλλιεργείς ντομάτες, όπως λες πάντα», πρόσθεσε εκείνη. «Κι αν ο χειμώνας είναι πολύ μοναχικός;» ρώτησε εκείνος. Η λίστα μεγάλωνε, αλλά η απόφαση δεν ερχόταν.",
+        "Γύρω στα μεσάνυχτα ο Παναγιώτης έγραψε κάτι στο κάτω μέρος της σελίδας και έδωσε το χαρτί στην Ιουλία. Δεν ήταν ούτε υπέρ ούτε κατά. Έγραφε μόνο: «Αν δεν το δοκιμάσουμε, θα το συζητάμε για πάντα». Η Ιουλία γέλασε και υπέγραψε από κάτω. Συμφώνησαν να μείνουν έναν χρόνο και μετά να αποφασίσουν ξανά. Η λίστα είναι ακόμα κρεμασμένη στο ψυγείο τους στην Καρδαμύλη. Έχουν περάσει τρία χρόνια."
+      ],
+      "english": [
+        ["Panagiotis and Ioulia had lived for ten years in a flat in Pangrati.", "Every day they spent two hours in traffic and every evening they said the same thing: “One day we'll leave Athens.”", "In January Ioulia found an advert: a stone house with a garden in Kardamyli, in the Mani, for rent.", "Her company had just decided that employees could work from home."],
+        ["That evening they sat in the kitchen with a sheet of paper and a pen.", "In one column they wrote the pros and in the other the cons.", "“We'd have the sea and peace and quiet,” said Ioulia.", "“And not a single friend within three hours,” said Panagiotis.", "“You could grow tomatoes, like you always say,” she added.", "“And what if the winter is very lonely?” he asked.", "The list grew longer, but the decision didn't come."],
+        ["Around midnight Panagiotis wrote something at the bottom of the page and handed the paper to Ioulia.", "It was neither a pro nor a con.", "All it said was: “If we don't try it, we'll be talking about it forever.”", "Ioulia laughed and signed underneath.", "They agreed to stay for a year and then decide again.", "The list is still hanging on their fridge in Kardamyli.", "Three years have gone by."]
+      ],
+      "vocab": [
+        { "word": "κίνηση", "gloss": "traffic" },
+        { "word": "αγγελία", "gloss": "advert, listing" },
+        { "word": "πέτρινο", "gloss": "stone (adj.)" },
+        { "word": "ενοίκιο", "gloss": "rent" },
+        { "word": "στήλη", "gloss": "column" },
+        { "word": "τα υπέρ", "gloss": "the pros" },
+        { "word": "τα κατά", "gloss": "the cons" },
+        { "word": "καλλιεργείς", "gloss": "grow (crops)" },
+        { "word": "μοναχικός", "gloss": "lonely" },
+        { "word": "υπέγραψε", "gloss": "signed" },
+        { "word": "κρεμασμένη", "gloss": "hanging, pinned up" }
+      ]
+    },
+    {
+      "id": "el-b1-15",
+      "title": "Ισοπαλία",
+      "subtitle": "A draw",
+      "topic": "Friends",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "Ο κυρ Μιχάλης και ο κυρ Στράτος παίζουν τάβλι στο ίδιο καφενείο της Καλαμάτας κάθε απόγευμα εδώ και σαράντα χρόνια. Ο καφετζής τούς φέρνει τον καφέ τους χωρίς να ρωτήσει: έναν σκέτο και έναν μέτριο. Σε ένα παλιό τετράδιο με μπλε εξώφυλλο γράφουν το σκορ κάθε παρτίδας. Μαλώνουν συχνά, φωνάζουν ακόμα πιο συχνά, αλλά κανείς στη γειτονιά δεν τους έχει δει ποτέ χωριστά.",
+        "Τον Νοέμβριο ο κυρ Μιχάλης ανακοίνωσε ότι θα μετακομίσει στην Αθήνα, κοντά στον γιο του. «Τα πόδια μου δεν με κρατάνε πια», εξήγησε. «Ο γιος μου λέει ότι εκεί θα είμαι πιο ασφαλής.» Ο κυρ Στράτος δεν είπε τίποτα. Έριξε μόνο τα ζάρια πιο δυνατά από ό,τι συνήθως. Όλο εκείνο τον μήνα έπαιζαν πιο αργά, σαν να ήθελαν να κρατήσουν κάθε απόγευμα λίγο περισσότερο.",
+        "Την τελευταία μέρα άνοιξαν το τετράδιο για να μετρήσουν το σκορ. Μετά από σαράντα χρόνια, ο καθένας είχε ακριβώς τέσσερις χιλιάδες τριακόσιες δώδεκα νίκες. «Ισοπαλία», είπε ο καφετζής. «Αδύνατον», είπε ο κυρ Στράτος. «Κάποιος κλέβει.» Ο κυρ Μιχάλης χαμογέλασε και έβγαλε από την τσέπη του ένα καινούργιο κινητό, δώρο του εγγονού του. «Εντάξει, τότε συνεχίζουμε», είπε. «Λένε ότι υπάρχει και τάβλι στο ίντερνετ.»"
+      ],
+      "english": [
+        ["Mr Michalis and Mr Stratos have played backgammon in the same café in Kalamata every afternoon for forty years.", "The owner brings them their coffee without asking: one without sugar and one medium-sweet.", "In an old exercise book with a blue cover they write down the score of every game.", "They argue often and shout even more often, but nobody in the neighbourhood has ever seen them apart."],
+        ["In November Mr Michalis announced that he was moving to Athens, near his son.", "“My legs won't hold me up any more,” he explained.", "“My son says I'll be safer there.”", "Mr Stratos said nothing.", "He just threw the dice harder than usual.", "All that month they played more slowly, as if they wanted to make each afternoon last a little longer."],
+        ["On the last day they opened the exercise book to count up the score.", "After forty years, each of them had exactly four thousand three hundred and twelve wins.", "“A draw,” said the café owner.", "“Impossible,” said Mr Stratos.", "“Somebody's cheating.”", "Mr Michalis smiled and took out of his pocket a new mobile phone, a present from his grandson.", "“All right, then we carry on,” he said.", "“They say there's backgammon on the internet too.”"]
+      ],
+      "vocab": [
+        { "word": "τάβλι", "gloss": "backgammon" },
+        { "word": "σκέτο", "gloss": "(coffee) without sugar" },
+        { "word": "μέτριο", "gloss": "(coffee) medium-sweet" },
+        { "word": "εξώφυλλο", "gloss": "cover" },
+        { "word": "παρτίδας", "gloss": "game, round" },
+        { "word": "μαλώνουν", "gloss": "argue" },
+        { "word": "χωριστά", "gloss": "apart, separately" },
+        { "word": "ζάρια", "gloss": "dice" },
+        { "word": "ισοπαλία", "gloss": "draw, tie" },
+        { "word": "κλέβει", "gloss": "is cheating" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "language": "el",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "el-c1-01",
+      "title": "Τρεις χιλιάδες κουλούρια πριν ξημερώσει",
+      "subtitle": "Three thousand koulouria before dawn",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Στις τρεις τα ξημερώματα η οδός Αγίου Δημητρίου στη Θεσσαλονίκη είναι έρημη, με εξαίρεση ένα φωτισμένο παράθυρο στο ισόγειο μιας παλιάς πολυκατοικίας. Από μέσα βγαίνει μια μυρωδιά που κάνει τους λιγοστούς ταξιτζήδες να κόβουν ταχύτητα. Εδώ, σε έναν χώρο που δεν ξεπερνά τα σαράντα τετραγωνικά, ο Θεόδωρος Κεσίδης και οι δύο βοηθοί του φτιάχνουν κάθε νύχτα περίπου τρεις χιλιάδες κουλούρια. Τα περισσότερα θα έχουν εξαφανιστεί πριν από τις δέκα το πρωί.",
+        "«Το κουλούρι δεν συγχωρεί», λέει ο Θεόδωρος, χωρίς να σηκώσει τα μάτια από τον πάγκο. Τα χέρια του στρίβουν τη ζύμη με μια ταχύτητα που το μάτι δυσκολεύεται να παρακολουθήσει. «Αν η ζύμη ξεκουραστεί δέκα λεπτά παραπάνω, το καταλαβαίνεις. Αν το σουσάμι δεν είναι καλά καβουρδισμένο, το καταλαβαίνεις. Ο πελάτης δεν ξέρει να σου πει τι φταίει, αλλά το καταλαβαίνει κι αυτός.» Ο πατέρας του άνοιξε τον φούρνο το 1978, ερχόμενος από ένα χωριό της Δράμας με ένα δάνειο και μια συνταγή που δεν έχει αλλάξει ούτε κατά ένα γραμμάριο.",
+        "Η δουλειά όμως έχει αλλάξει ριζικά. Τη δεκαετία του '80 τα κουλούρια τα έπαιρναν οι πλανόδιοι πωλητές, που τα πέρναγαν σε ξύλινα κοντάρια και τα πουλούσαν στις στάσεις των λεωφορείων. Σήμερα οι πλανόδιοι έχουν σχεδόν εκλείψει, και μεγάλο μέρος της παραγωγής πηγαίνει σε περίπτερα, καφετέριες και, τελευταία, σε μια εφαρμογή παράδοσης φαγητού. «Ο εγγονός μου μού εξήγησε ότι έχουμε τέσσερα και μισό αστέρια», λέει ο Θεόδωρος με ένα ύφος ανάμεσα στην περηφάνια και την καχυποψία. «Δεν ξέρω ποιος μας έκοψε το μισό.»",
+        "Το μεγαλύτερο πρόβλημα δεν είναι ο ανταγωνισμός από τα σουπερμάρκετ, ούτε καν το κόστος του αλευριού. Είναι ότι κανείς νέος δεν θέλει να δουλεύει τη νύχτα. Ο γιος του σπούδασε μηχανικός και ζει στο Άμστερνταμ, ενώ οι δύο βοηθοί του έχουν περάσει τα πενήντα. «Μου λένε να βάλω μηχανήματα», λέει, και για πρώτη φορά σταματά να δουλεύει. «Μπορώ. Αλλά τότε θα φτιάχνω κάτι στρογγυλό με σουσάμι. Δεν θα φτιάχνω κουλούρι.» Στις πέντε και μισή ανοίγει η πόρτα και μπαίνει ο πρώτος πελάτης, ένας οδοκαθαριστής που παίρνει, όπως κάθε πρωί, δύο ζεστά και ένα για τον συνάδελφό του."
+      ],
+      "english": [
+        ["At three in the morning Agiou Dimitriou Street in Thessaloniki is deserted, except for one lit window on the ground floor of an old block of flats.", "From inside comes a smell that makes the few taxi drivers about slow down.", "Here, in a space no bigger than forty square metres, Theodoros Kesidis and his two assistants make around three thousand koulouria every night.", "Most of them will have vanished before ten in the morning."],
+        ["“A koulouri is unforgiving,” says Theodoros, without looking up from the counter.", "His hands twist the dough at a speed the eye struggles to follow.", "“If the dough rests ten minutes too long, you can tell. If the sesame isn't properly toasted, you can tell. The customer can't tell you what's wrong, but he can tell too.”", "His father opened the bakery in 1978, having come from a village near Drama with a loan and a recipe that hasn't changed by a single gram."],
+        ["The trade itself, though, has changed radically.", "In the eighties the koulouria were taken by street vendors, who threaded them onto wooden poles and sold them at bus stops.", "Today the street vendors have all but died out, and much of the output goes to kiosks, cafés and, lately, a food delivery app.", "“My grandson explained to me that we have four and a half stars,” says Theodoros, with a look somewhere between pride and suspicion.", "“I don't know who docked us the half.”"],
+        ["The biggest problem isn't competition from the supermarkets, or even the cost of flour.", "It's that no young person wants to work nights.", "His son studied engineering and lives in Amsterdam, while his two assistants are past fifty.", "“They tell me to bring in machines,” he says, and for the first time he stops working.", "“I could. But then I'd be making something round with sesame on it. I wouldn't be making koulouri.”", "At half past five the door opens and the first customer comes in, a street sweeper who takes, as he does every morning, two hot ones and one for his colleague."]
+      ],
+      "vocab": [
+        { "word": "λιγοστούς", "gloss": "few, scarce" },
+        { "word": "να κόβουν ταχύτητα", "gloss": "slow down" },
+        { "word": "δεν συγχωρεί", "gloss": "is unforgiving" },
+        { "word": "πάγκο", "gloss": "counter, workbench" },
+        { "word": "καβουρδισμένο", "gloss": "toasted" },
+        { "word": "τι φταίει", "gloss": "what's wrong, what's to blame" },
+        { "word": "ριζικά", "gloss": "radically" },
+        { "word": "πλανόδιοι", "gloss": "street vendors" },
+        { "word": "κοντάρια", "gloss": "poles" },
+        { "word": "εκλείψει", "gloss": "died out (έχουν εκλείψει: have died out)" },
+        { "word": "ανταγωνισμός", "gloss": "competition" },
+        { "word": "οδοκαθαριστής", "gloss": "street sweeper" }
+      ]
+    },
+    {
+      "id": "el-c1-02",
+      "title": "Υπεράσπιση της βαρεμάρας",
+      "subtitle": "In defence of boredom",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Θυμάμαι τα καλοκαίρια της παιδικής μου ηλικίας στο χωριό της γιαγιάς μου, στην Αρκαδία, ως μια ατελείωτη σειρά από άδεια απογεύματα. Από τις δύο ως τις πέντε επικρατούσε η ιερή ώρα της μεσημεριανής ανάπαυσης, όπου απαγορευόταν αυστηρά κάθε θόρυβος. Δεν υπήρχε τηλεόραση, τα βιβλία είχαν τελειώσει από την πρώτη εβδομάδα και οι φίλοι μου κοιμόντουσαν ή έκαναν πως κοιμόντουσαν. Βαριόμουν θανάσιμα. Και ήταν, όπως καταλαβαίνω τώρα, από τις πιο γόνιμες ώρες της ζωής μου.",
+        "Η βαρεμάρα έχει κακή φήμη, και όχι άδικα. Είναι δυσάρεστη, μοιάζει με σπατάλη χρόνου, και στις μέρες μας θεωρείται σχεδόν ένδειξη αποτυχίας: όποιος βαριέται, υποτίθεται, δεν έχει οργανώσει σωστά τη ζωή του. Έχουμε λοιπόν φροντίσει να την εξαλείψουμε. Στην ουρά της τράπεζας, στη στάση του λεωφορείου, ακόμα και στα δύο λεπτά που χρειάζεται ο καφές για να ψηθεί, το χέρι πηγαίνει μηχανικά στην τσέπη. Ποτέ άλλοτε στην ιστορία δεν ήταν τόσο εύκολο να μη βαριέται κανείς ούτε για ένα δευτερόλεπτο.",
+        "Τι χάνουμε όμως μ' αυτό; Όταν το μυαλό δεν έχει τίποτα να κάνει, δεν σβήνει: αρχίζει να περιπλανιέται. Ανακαλεί αναμνήσεις, συνδέει πράγματα που φαινομενικά δεν έχουν σχέση, πλάθει σενάρια και σχέδια. Σε εκείνα τα αρκαδικά απογεύματα εγώ επινόησα ολόκληρες χώρες με δικούς τους χάρτες, έμαθα να ξεχωρίζω τα πουλιά από το κελάηδημά τους και έγραψα, σε ένα τετράδιο που δυστυχώς έχει χαθεί, το πρώτο και τελευταίο μου μυθιστόρημα. Τίποτα από αυτά δεν θα είχε γίνει αν είχα στα χέρια μου μια οθόνη.",
+        "Δεν προτείνω να πετάξουμε τα κινητά μας στη θάλασσα· δεν θα το έκανα ούτε εγώ. Προτείνω κάτι πολύ πιο μετριοπαθές: να αφήνουμε, πού και πού, ένα κενό να μείνει κενό. Να περιμένουμε το λεωφορείο κοιτάζοντας τον δρόμο. Να καθίσουμε δέκα λεπτά στο μπαλκόνι χωρίς σκοπό. Στην αρχή θα είναι ανυπόφορο, σαν στέρηση. Μετά από λίγο, όμως, ίσως ακούσουμε κάτι που είχαμε καιρό να ακούσουμε: τον εαυτό μας, να μας προτείνει κάτι που δεν μας είχε προτείνει κανένας αλγόριθμος."
+      ],
+      "english": [
+        ["I remember the summers of my childhood in my grandmother's village in Arcadia as an endless series of empty afternoons.", "From two until five the sacred hour of the afternoon rest held sway, when all noise was strictly forbidden.", "There was no television, I had finished my books in the first week, and my friends were asleep or pretending to be.", "I was bored to death.", "And they were, as I now realise, some of the most fruitful hours of my life."],
+        ["Boredom has a bad reputation, and not unfairly.", "It is unpleasant, it feels like a waste of time, and nowadays it is seen almost as a sign of failure: whoever is bored, supposedly, hasn't organised their life properly.", "So we have made sure to stamp it out.", "In the queue at the bank, at the bus stop, even in the two minutes it takes for the coffee to brew, the hand goes mechanically to the pocket.", "Never before in history has it been so easy not to be bored for even a single second."],
+        ["But what do we lose by this?", "When the mind has nothing to do, it doesn't switch off: it starts to wander.", "It calls up memories, links things that seem to have nothing to do with each other, dreams up scenarios and plans.", "In those Arcadian afternoons I invented entire countries with their own maps, learned to tell birds apart by their song and wrote, in an exercise book that has sadly been lost, my first and last novel.", "None of this would have happened if I'd had a screen in my hands."],
+        ["I'm not suggesting we throw our phones into the sea; I wouldn't do it myself.", "I'm suggesting something far more modest: that now and then we let an empty space stay empty.", "That we wait for the bus looking at the street.", "That we sit on the balcony for ten minutes with no purpose.", "At first it will be unbearable, like withdrawal.", "After a while, though, we may hear something we haven't heard for a long time: ourselves, suggesting something no algorithm had suggested to us."]
+      ],
+      "vocab": [
+        { "word": "ατελείωτη", "gloss": "endless" },
+        { "word": "επικρατούσε", "gloss": "prevailed, held sway" },
+        { "word": "θανάσιμα", "gloss": "to death (lit. mortally)" },
+        { "word": "γόνιμες", "gloss": "fruitful" },
+        { "word": "ένδειξη", "gloss": "sign, indication" },
+        { "word": "να την εξαλείψουμε", "gloss": "to eliminate it" },
+        { "word": "μηχανικά", "gloss": "mechanically" },
+        { "word": "περιπλανιέται", "gloss": "wanders" },
+        { "word": "φαινομενικά", "gloss": "seemingly" },
+        { "word": "επινόησα", "gloss": "I invented" },
+        { "word": "κελάηδημά", "gloss": "birdsong" },
+        { "word": "μετριοπαθές", "gloss": "modest, moderate" },
+        { "word": "στέρηση", "gloss": "withdrawal, deprivation" }
+      ]
+    },
+    {
+      "id": "el-c1-03",
+      "title": "Η διερμηνέας",
+      "subtitle": "The interpreter",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Η Άντρη δούλευε δεκαπέντε χρόνια ως διερμηνέας ελληνικών και τουρκικών στη Λευκωσία. Είχε μεταφράσει διαπραγματεύσεις για το νερό και το ρεύμα, συσκέψεις τεχνικών επιτροπών, αμέτρητα δείπνα όπου οι ευγένειες ήταν πιο δύσκολες στη μετάφραση από τα τεχνικά θέματα. Είχε μάθει να εξαφανίζεται μέσα στη φωνή των άλλων, να μην αφήνει να φανεί ούτε μια σκιά από τη δική της γνώμη. Αυτό, έλεγε, ήταν όλο το μυστικό του επαγγέλματος.",
+        "Εκείνο το φθινόπωρο της ανατέθηκε μια ασυνήθιστη δουλειά. Μια δικοινοτική ομάδα που κατέγραφε προφορικές μαρτυρίες είχε κανονίσει μια συνάντηση ανάμεσα σε δύο ηλικιωμένους άντρες, γεννημένους στο ίδιο χωριό της Πάφου, που είχαν να βρεθούν από το 1974. Ο ένας ζούσε πλέον στη Λεμεσό, ο άλλος στην Κερύνεια. Η συνάντηση θα γινόταν σε ένα καφενείο μέσα στη νεκρή ζώνη, και η Άντρη θα καθόταν ανάμεσά τους.",
+        "Τα πρώτα λεπτά κύλησαν όπως τα είχε φανταστεί. Ο κύριος Ανδρέας μιλούσε, εκείνη απέδιδε τα λόγια του στα τουρκικά, ο κύριος Μεχμέτ απαντούσε, εκείνη απέδιδε την απάντηση στα ελληνικά. Οι δύο γέροι κοιτάζονταν με μια αμηχανία που η μετάφραση έκανε ακόμα πιο βαριά. Ώσπου ο κύριος Μεχμέτ, ακούγοντας τον Ανδρέα να αναφέρει μια συκιά δίπλα στη βρύση του χωριού, τον διέκοψε πριν προλάβει η Άντρη να ανοίξει το στόμα της. «Η συκιά του Κωστή!» είπε, σε άψογα κυπριακά. «Ακόμα ζει;»",
+        "Από εκείνη τη στιγμή η Άντρη δεν χρειάστηκε να πει ούτε λέξη. Οι δύο άντρες μιλούσαν στην κοινή τους διάλεκτο, με τις ίδιες εκφράσεις, τα ίδια αστεία, τα ίδια παρατσούκλια για ανθρώπους που είχαν πεθάνει εδώ και δεκαετίες. Κάποια στιγμή ο Μεχμέτ γύρισε προς το μέρος της, σχεδόν απολογητικά, και της είπε: «Συγχωρέστε μας, κυρία μου. Εμείς οι δύο μεγαλώσαμε στην ίδια αυλή.» Η Άντρη σηκώθηκε, πήγε σε ένα άλλο τραπέζι και παρήγγειλε έναν καφέ. Ήταν η πρώτη φορά στην καριέρα της που η καλύτερη μετάφραση ήταν να φύγει."
+      ],
+      "english": [
+        ["Andri had worked for fifteen years as a Greek–Turkish interpreter in Nicosia.", "She had interpreted negotiations over water and electricity, technical committee meetings, countless dinners where the pleasantries were harder to translate than the technical matters.", "She had learned to disappear inside other people's voices, never to let a shadow of her own opinion show.", "That, she used to say, was the whole secret of the profession."],
+        ["That autumn she was given an unusual assignment.", "A bicommunal group recording oral histories had arranged a meeting between two elderly men, born in the same village in the Paphos district, who hadn't seen each other since 1974.", "One now lived in Limassol, the other in Kyrenia.", "The meeting would take place in a café inside the buffer zone, and Andri would sit between them."],
+        ["The first few minutes went as she had imagined.", "Mr Andreas spoke, she rendered his words in Turkish, Mr Mehmet replied, she rendered the reply in Greek.", "The two old men looked at each other with an awkwardness that the translation made even heavier.", "Until Mr Mehmet, hearing Andreas mention a fig tree next to the village fountain, cut in before Andri had a chance to open her mouth.", "“Kostis's fig tree!” he said, in flawless Cypriot Greek.", "“Is it still alive?”"],
+        ["From that moment on Andri didn't need to say a word.", "The two men talked in their shared dialect, with the same expressions, the same jokes, the same nicknames for people who had been dead for decades.", "At one point Mehmet turned towards her, almost apologetically, and said: “Forgive us, madam. The two of us grew up in the same yard.”", "Andri got up, went to another table and ordered a coffee.", "It was the first time in her career that the best translation was to leave."]
+      ],
+      "vocab": [
+        { "word": "διερμηνέας", "gloss": "interpreter" },
+        { "word": "διαπραγματεύσεις", "gloss": "negotiations" },
+        { "word": "συσκέψεις", "gloss": "meetings, conferences" },
+        { "word": "ευγένειες", "gloss": "pleasantries, courtesies" },
+        { "word": "της ανατέθηκε", "gloss": "she was assigned" },
+        { "word": "δικοινοτική", "gloss": "bicommunal (Greek and Turkish Cypriot)" },
+        { "word": "προφορικές μαρτυρίες", "gloss": "oral testimonies, oral histories" },
+        { "word": "νεκρή ζώνη", "gloss": "buffer zone (lit. dead zone)" },
+        { "word": "απέδιδε", "gloss": "rendered, translated" },
+        { "word": "αμηχανία", "gloss": "awkwardness" },
+        { "word": "διέκοψε", "gloss": "interrupted" },
+        { "word": "παρατσούκλια", "gloss": "nicknames" },
+        { "word": "απολογητικά", "gloss": "apologetically" }
+      ]
+    },
+    {
+      "id": "el-c1-04",
+      "title": "Οι πελεκάνοι της Κερκίνης",
+      "subtitle": "The pelicans of Kerkini",
+      "topic": "Nature",
+      "symbol": "bird.fill",
+      "paragraphs": [
+        "Στις επτά το πρωί του Φεβρουαρίου η λίμνη Κερκίνη είναι τυλιγμένη σε μια ομίχλη τόσο πυκνή που η βάρκα μοιάζει να γλιστράει μέσα σε σύννεφο. Ο Βαγγέλης, ψαράς και ξεναγός, σβήνει τη μηχανή και μας κάνει νόημα να μη μιλάμε. Για λίγα δευτερόλεπτα ακούγεται μόνο το νερό. Ύστερα, σαν να σηκώνεται μια αυλαία, η ομίχλη ανοίγει και μπροστά μας εμφανίζονται εκατοντάδες αργυροπελεκάνοι, ακίνητοι πάνω στους πασσάλους, σαν κοινό που περιμένει την έναρξη της παράστασης.",
+        "Η Κερκίνη, κοντά στα σύνορα με τη Βουλγαρία, δεν είναι καν φυσική λίμνη. Δημιουργήθηκε τη δεκαετία του 1930 με ένα φράγμα στον Στρυμόνα, για να ελεγχθούν οι πλημμύρες και να ποτιστεί ο κάμπος των Σερρών. Κανείς τότε δεν θα μπορούσε να φανταστεί ότι ένα έργο μηχανικών θα εξελισσόταν σε έναν από τους σημαντικότερους υγροτόπους της Ευρώπης. Σήμερα εδώ έχουν καταγραφεί πάνω από τριακόσια είδη πουλιών, και κάθε χειμώνα έρχονται φωτογράφοι από όλο τον κόσμο με φακούς που κοστίζουν όσο ένα μικρό αυτοκίνητο.",
+        "Ο Βαγγέλης θυμάται εποχές που οι ψαράδες έβλεπαν τους πελεκάνους ως ανταγωνιστές. «Μας έτρωγαν τα ψάρια, έτσι λέγαμε», παραδέχεται. «Κάποιοι τους κυνηγούσαν κιόλας.» Η στροφή ήρθε σιγά σιγά, όταν άρχισαν να καταφθάνουν οι πρώτοι παρατηρητές πουλιών και οι ψαράδες ανακάλυψαν ότι ένας ζωντανός πελεκάνος αξίζει περισσότερο από ένα γεμάτο δίχτυ. Πολλοί από αυτούς έβγαλαν άδεια ξεναγού. Οι ίδιοι άνθρωποι που κάποτε έδιωχναν τα πουλιά σήμερα τα αναγνωρίζουν από το πέταγμά τους.",
+        "Η ισορροπία, ωστόσο, είναι εύθραυστη. Η στάθμη της λίμνης ανεβοκατεβαίνει απότομα ανάλογα με τις ανάγκες της άρδευσης, και τα δάση με τις ιτιές, όπου φωλιάζουν οι κορμοράνοι, πνίγονται σταδιακά. Οι επιστήμονες προειδοποιούν ότι, χωρίς ένα σχέδιο διαχείρισης που θα λαμβάνει υπόψη και τα πουλιά και τους αγρότες, η λίμνη κινδυνεύει να χάσει αυτό που την κάνει μοναδική. Ο Βαγγέλης γυρίζει τη βάρκα προς την ακτή. Πίσω μας, ένας πελεκάνος ανοίγει τα φτερά του, σχεδόν τρία μέτρα από άκρη σε άκρη, και για μια στιγμή κρύβει ολόκληρο τον ήλιο."
+      ],
+      "english": [
+        ["At seven on a February morning Lake Kerkini is wrapped in a mist so thick that the boat seems to glide through a cloud.", "Vangelis, a fisherman and guide, cuts the engine and signals to us not to speak.", "For a few seconds there is only the sound of the water.", "Then, as if a curtain were rising, the mist parts and in front of us appear hundreds of Dalmatian pelicans, motionless on the wooden posts, like an audience waiting for the show to begin."],
+        ["Kerkini, near the border with Bulgaria, isn't even a natural lake.", "It was created in the 1930s by a dam on the Strymonas river, to control flooding and irrigate the plain of Serres.", "Nobody at the time could have imagined that an engineering project would grow into one of the most important wetlands in Europe.", "Today more than three hundred bird species have been recorded here, and every winter photographers come from all over the world with lenses that cost as much as a small car."],
+        ["Vangelis remembers times when the fishermen saw the pelicans as competitors.", "“They were eating our fish, that's what we used to say,” he admits.", "“Some people even hunted them.”", "The turning point came gradually, when the first birdwatchers began to arrive and the fishermen discovered that a live pelican is worth more than a full net.", "Many of them got guide's licences.", "The same people who once chased the birds away can now identify them by the way they fly."],
+        ["The balance, however, is fragile.", "The level of the lake rises and falls sharply according to the needs of irrigation, and the willow woods where the cormorants nest are slowly drowning.", "Scientists warn that, without a management plan that takes account of both the birds and the farmers, the lake risks losing what makes it unique.", "Vangelis turns the boat towards the shore.", "Behind us a pelican spreads its wings, almost three metres from tip to tip, and for a moment hides the whole sun."]
+      ],
+      "vocab": [
+        { "word": "τυλιγμένη", "gloss": "wrapped" },
+        { "word": "μας κάνει νόημα", "gloss": "signals to us" },
+        { "word": "αυλαία", "gloss": "(stage) curtain" },
+        { "word": "αργυροπελεκάνοι", "gloss": "Dalmatian pelicans" },
+        { "word": "φράγμα", "gloss": "dam" },
+        { "word": "υγροτόπους", "gloss": "wetlands" },
+        { "word": "έχουν καταγραφεί", "gloss": "have been recorded" },
+        { "word": "να καταφθάνουν", "gloss": "to arrive (one after another)" },
+        { "word": "εύθραυστη", "gloss": "fragile" },
+        { "word": "στάθμη", "gloss": "(water) level" },
+        { "word": "άρδευσης", "gloss": "irrigation" },
+        { "word": "φωλιάζουν", "gloss": "nest" },
+        { "word": "διαχείρισης", "gloss": "management" }
+      ]
+    },
+    {
+      "id": "el-c1-05",
+      "title": "Δοθέν ιδιωτικώς",
+      "subtitle": "Paid privately",
+      "topic": "History",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "Η Μυρσίνη δούλευε έντεκα χρόνια στα Γενικά Αρχεία του Κράτους στο Ναύπλιο και είχε πάψει από καιρό να συγκινείται από τα παλιά χαρτιά. Οι περισσότεροι φάκελοι ήταν πληκτικοί: λογαριασμοί, διορισμοί, παράπονα για φόρους, γραμμένα σε μια γλώσσα τόσο στρυφνή που έπρεπε να διαβάσει κάθε πρόταση δύο φορές. Εκείνο το απόγευμα όμως, ψηφιοποιώντας έναν φάκελο αιτήσεων του 1831, σταμάτησε σε ένα φύλλο που δεν έμοιαζε με τα άλλα.",
+        "Ήταν μια αίτηση από μια χήρα του Άργους, την Ελένη Σκούρτη. Δεν την είχε γράψει η ίδια, ήταν φανερό, αλλά κάποιος γραφιάς που προσπαθούσε να μεταφέρει τα λόγια της στη γλώσσα της γραφειοκρατίας χωρίς να τα πνίξει εντελώς. Ζητούσε αποζημίωση για το σπίτι της, που είχε καεί το 1825, και εξηγούσε ότι ο άντρας της είχε σκοτωθεί στους Μύλους και ότι η ίδια ζούσε από τότε με τρία παιδιά «κατά την ευσπλαχνίαν των γειτόνων». Στο τέλος, σε μια φράση που ο γραφιάς προφανώς δεν τόλμησε να αλλάξει, έγραφε: «Δεν ζητώ χάρη. Ζητώ το σπίτι μου.»",
+        "Στο περιθώριο υπήρχε η αναμενόμενη σημείωση: «Απορρίπτεται ελλείψει πόρων». Κάτω από αυτήν όμως, με διαφορετικό μελάνι και βιαστικό γραφικό χαρακτήρα, κάποιος είχε προσθέσει δύο λέξεις και ένα μονόγραμμα: «Δοθέν ιδιωτικώς». Η Μυρσίνη έμεινε να κοιτάζει το μονόγραμμα για πολλή ώρα. Μπορούσε να ανήκει σε δεκάδες ανθρώπους. Μπορούσε, επίσης, να ανήκει σε κάποιον πολύ γνωστό, για τον οποίο λεγόταν ότι πλήρωνε συχνά από την τσέπη του όσα δεν μπορούσε να πληρώσει το άδειο ταμείο του κράτους.",
+        "Πέρασε τις επόμενες εβδομάδες συγκρίνοντας γραφικούς χαρακτήρες, ψάχνοντας σε κατάστιχα και αλληλογραφίες, χωρίς αποτέλεσμα. Ο προϊστάμενός της τής θύμισε, ευγενικά αλλά σταθερά, ότι η δουλειά της ήταν να ψηφιοποιεί και όχι να γράφει μυθιστορήματα. Τελικά η Μυρσίνη καταχώρισε το έγγραφο όπως όλα τα άλλα, με αριθμό, ημερομηνία και μια σύντομη περιγραφή. Στο πεδίο «Παρατηρήσεις», όμως, που δεν το διαβάζει ποτέ κανείς, πρόσθεσε μια γραμμή: «Η αιτούσα πήρε, φαίνεται, το σπίτι της». Από τότε, κάθε φορά που περνάει από το Άργος, κοιτάζει τα παλιά σπίτια και αναρωτιέται ποιο να ήταν."
+      ],
+      "english": [
+        ["Myrsini had worked for eleven years at the General State Archives in Nafplio and had long since stopped being moved by old papers.", "Most of the files were tedious: accounts, appointments, complaints about taxes, written in a language so convoluted that she had to read every sentence twice.", "That afternoon, though, while digitising a file of petitions from 1831, she stopped at a sheet that was unlike the others."],
+        ["It was a petition from a widow in Argos, Eleni Skourti.", "She hadn't written it herself, that much was obvious, but a scribe had, trying to carry her words over into the language of bureaucracy without smothering them completely.", "She was asking for compensation for her house, which had burned down in 1825, and explained that her husband had been killed at Myloi and that she had lived ever since with three children “at the mercy of the neighbours”.", "At the end, in a phrase the scribe clearly hadn't dared to change, it said: “I do not ask for a favour. I ask for my house.”"],
+        ["In the margin was the expected note: “Rejected for lack of funds.”", "Beneath it, however, in different ink and a hurried hand, someone had added two words and a monogram: “Paid privately.”", "Myrsini sat looking at the monogram for a long time.", "It could have belonged to dozens of people.", "It could also have belonged to someone very well known, who was said to pay often out of his own pocket for what the empty state treasury couldn't."],
+        ["She spent the following weeks comparing handwriting, searching through ledgers and correspondence, with no result.", "Her supervisor reminded her, kindly but firmly, that her job was to digitise, not to write novels.", "In the end Myrsini catalogued the document like all the others, with a number, a date and a short description.", "But in the “Remarks” field, which nobody ever reads, she added a line: “The petitioner, it seems, got her house.”", "Since then, whenever she passes through Argos, she looks at the old houses and wonders which one it might have been."]
+      ],
+      "vocab": [
+        { "word": "είχε πάψει", "gloss": "had stopped" },
+        { "word": "πληκτικοί", "gloss": "tedious, boring" },
+        { "word": "στρυφνή", "gloss": "convoluted, crabbed" },
+        { "word": "ψηφιοποιώντας", "gloss": "digitising" },
+        { "word": "γραφιάς", "gloss": "scribe, clerk" },
+        { "word": "αποζημίωση", "gloss": "compensation" },
+        { "word": "ευσπλαχνίαν", "gloss": "mercy (archaic form)" },
+        { "word": "περιθώριο", "gloss": "margin" },
+        { "word": "ελλείψει πόρων", "gloss": "for lack of funds (formal)" },
+        { "word": "μονόγραμμα", "gloss": "monogram, initials" },
+        { "word": "κατάστιχα", "gloss": "ledgers, registers" },
+        { "word": "καταχώρισε", "gloss": "catalogued, entered" },
+        { "word": "αιτούσα", "gloss": "petitioner (female)" }
+      ]
+    },
+    {
+      "id": "el-c1-06",
+      "title": "Κουδούνια χωρίς ονόματα",
+      "subtitle": "Doorbells without names",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Στην πολυκατοικία της οδού Δράκου, στο Κουκάκι, όπου η κυρία Ρούλα έχει περάσει σαράντα πέντε χρόνια, τα κουδούνια δεν έχουν πια ονόματα. Στη θέση τους υπάρχουν αριθμοί και μικρές μαύρες κλειδοθήκες με κωδικό, κρεμασμένες στα κάγκελα της εισόδου. «Από τα δώδεκα διαμερίσματα, μόνο σε τρία μένουν άνθρωποι», λέει. Διορθώνεται αμέσως: «Δηλαδή, άνθρωποι μένουν σε όλα. Αλλά μόνο σε τρία μένουν οι ίδιοι άνθρωποι πάνω από μια εβδομάδα.»",
+        "Η περίπτωση της οδού Δράκου δεν είναι εξαίρεση. Στις γειτονιές γύρω από την Ακρόπολη, ένα μεγάλο ποσοστό των κατοικιών έχει μετατραπεί τα τελευταία χρόνια σε καταλύματα βραχυχρόνιας μίσθωσης. Για πολλούς ιδιοκτήτες, που είδαν τα εισοδήματά τους να καταρρέουν στα χρόνια της κρίσης, αυτή η λύση ήταν σωσίβιο. Ένα διαμέρισμα που νοικιαζόταν κάποτε για τριακόσια ευρώ τον μήνα μπορεί σήμερα να αποφέρει τα διπλάσια μέσα σε μία εβδομάδα. Το ερώτημα είναι ποιος πληρώνει το κόστος.",
+        "Η απάντηση, σύμφωνα με όσους μένουν ακόμα εδώ, είναι προφανής. Τα ενοίκια για τους μόνιμους κατοίκους έχουν εκτοξευθεί, και νέα ζευγάρια, φοιτητές και συνταξιούχοι μετακομίζουν σε όλο και πιο απομακρυσμένες περιοχές. Ο μπακάλης της γωνίας έκλεισε και στη θέση του άνοιξε ένα μαγαζί με σουβενίρ. Ο φούρνος πουλάει πλέον περισσότερα κρουασάν από ό,τι κουλούρια. «Δεν είμαι εναντίον των τουριστών», επιμένει η κυρία Ρούλα. «Ευγενικά παιδιά είναι. Μόνο που δεν ξέρω πια σε ποιον να αφήσω το κλειδί μου όταν πάω στην αδερφή μου.»",
+        "Η πολιτεία έχει αρχίσει να παίρνει μέτρα, με περιορισμούς στις νέες άδειες σε ορισμένες περιοχές του κέντρου, αλλά οι επικριτές τα θεωρούν δειλά και καθυστερημένα. Οι ιδιοκτήτες, από την άλλη, υποστηρίζουν ότι τιμωρούνται για τις αποτυχίες της στεγαστικής πολιτικής. Ανάμεσά τους, η κυρία Ρούλα έχει βρει τη δική της λύση. Κάθε πρωί ποτίζει τις γλάστρες της εισόδου και καλημερίζει όποιον βγαίνει με βαλίτσα. «Αν δεν έχω πια γείτονες», λέει, «θα έχω τουλάχιστον πελατεία.» Την περασμένη εβδομάδα μια οικογένεια από τη Λισαβόνα τής άφησε στην πόρτα ένα βάζο σπιτική μαρμελάδα και ένα σημείωμα: «Για τη γειτόνισσά μας»."
+      ],
+      "english": [
+        ["In the block of flats on Drakou Street in Koukaki, where Mrs Roula has spent forty-five years, the doorbells no longer have names.", "In their place are numbers and small black key boxes with codes, hanging from the railings at the entrance.", "“Of the twelve flats, only three have people living in them,” she says.", "She corrects herself at once: “I mean, people live in all of them. But only in three do the same people live for more than a week.”"],
+        ["The case of Drakou Street is no exception.", "In the neighbourhoods around the Acropolis, a large share of homes has been turned into short-term rentals in recent years.", "For many owners, who saw their incomes collapse during the crisis years, this solution was a lifeline.", "A flat that once rented for three hundred euros a month can now bring in twice that in a single week.", "The question is who pays the cost."],
+        ["The answer, according to those still living here, is obvious.", "Rents for permanent residents have shot up, and young couples, students and pensioners are moving to ever more distant areas.", "The corner grocer closed and a souvenir shop opened in its place.", "The bakery now sells more croissants than koulouria.", "“I'm not against tourists,” Mrs Roula insists.", "“They're nice young people. It's just that I no longer know who to leave my key with when I go to my sister's.”"],
+        ["The state has begun to take measures, with limits on new licences in some central areas, but critics regard them as timid and belated.", "Owners, on the other hand, argue that they are being punished for the failures of housing policy.", "Caught in between, Mrs Roula has found her own solution.", "Every morning she waters the pots at the entrance and says good morning to anyone coming out with a suitcase.", "“If I don't have neighbours any more,” she says, “at least I'll have a clientele.”", "Last week a family from Lisbon left a jar of homemade jam at her door with a note: “For our neighbour.”"]
+      ],
+      "vocab": [
+        { "word": "κλειδοθήκες", "gloss": "key lockboxes" },
+        { "word": "διορθώνεται", "gloss": "corrects herself" },
+        { "word": "καταλύματα", "gloss": "lodgings, accommodation" },
+        { "word": "βραχυχρόνιας μίσθωσης", "gloss": "short-term rental" },
+        { "word": "να καταρρέουν", "gloss": "collapse" },
+        { "word": "σωσίβιο", "gloss": "lifeline (lit. life jacket)" },
+        { "word": "να αποφέρει", "gloss": "bring in, yield" },
+        { "word": "έχουν εκτοξευθεί", "gloss": "have shot up" },
+        { "word": "απομακρυσμένες", "gloss": "distant, outlying" },
+        { "word": "επικριτές", "gloss": "critics" },
+        { "word": "δειλά", "gloss": "timid" },
+        { "word": "στεγαστικής πολιτικής", "gloss": "housing policy" },
+        { "word": "καλημερίζει", "gloss": "says good morning to" }
+      ]
+    },
+    {
+      "id": "el-c1-07",
+      "title": "Η τέχνη της καθυστέρησης",
+      "subtitle": "The art of delay",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "Υπάρχει μια μικρή λέξη στις εφαρμογές ανταλλαγής μηνυμάτων που έχει αλλάξει τις σχέσεις μας περισσότερο από οποιαδήποτε επανάσταση: «Διαβάστηκε». Ή, ακόμα χειρότερα, τα δύο μπλε σημάδια που ανάβουν δίπλα σε κάθε μήνυμα σαν μάτια που σε κοιτάζουν επίμονα. Από τη στιγμή που ο άλλος ξέρει ότι διάβασες, το ρολόι αρχίζει να μετράει. Κάθε λεπτό σιωπής ερμηνεύεται: ως αδιαφορία, ως θυμός, ως προσβολή.",
+        "Δεν ήταν πάντα έτσι. Οι γιαγιάδες μας περίμεναν εβδομάδες για ένα γράμμα από την Αμερική ή την Αυστραλία, και καμία δεν θεωρούσε ότι ο αποστολέας την αγνοούσε. Ακόμα και στην εποχή του σταθερού τηλεφώνου, όταν κάποιος δεν απαντούσε, υποθέταμε απλώς ότι έλειπε. Η απουσία ήταν μια φυσική κατάσταση, όχι μια δήλωση. Σήμερα, που όλοι κουβαλάμε τη συσκευή μας στην τσέπη, η απουσία έχει πάψει να είναι πιστευτή. Αν δεν απαντάς, θεωρείται ότι επιλέγεις να μην απαντήσεις.",
+        "Το αποτέλεσμα είναι μια διαρκής, χαμηλής έντασης ενοχή. Απαντάμε σε συναδέλφους την ώρα του φαγητού, σε γονείς την ώρα της δουλειάς, σε ομαδικές συνομιλίες για τα γενέθλια κάποιου που δεν γνωρίζουμε καλά, με φατσούλες που δεν εκφράζουν τίποτα. Η ταχύτητα της απάντησης έχει γίνει μέτρο της αγάπης ή του επαγγελματισμού μας, λες και η αξία μιας σκέψης μετριέται σε δευτερόλεπτα. Και όσο πιο γρήγορα απαντάμε, τόσο περισσότερο αυτό γίνεται το αναμενόμενο.",
+        "Έχω αποφασίσει, λοιπόν, να ασκηθώ στην παλιά, ξεχασμένη τέχνη της καθυστέρησης. Απενεργοποίησα τις ειδοποιήσεις ανάγνωσης και κοιτάζω τα μηνύματά μου τρεις φορές τη μέρα, όπως ο ταχυδρόμος που περνούσε κάποτε από το χωριό. Οι φίλοι μου στην αρχή ανησύχησαν, μετά θύμωσαν και τελικά συνήθισαν. Ορισμένοι μάλιστα άρχισαν να μου γράφουν μεγαλύτερα και πιο προσεγμένα μηνύματα, σαν να ήξεραν ότι θα διαβαστούν με την ησυχία τους. Ένας μου έστειλε την περασμένη εβδομάδα κάτι που δεν είχα λάβει εδώ και χρόνια: ένα πραγματικό γράμμα. Του απάντησα τρεις μέρες αργότερα. Δεν παραπονέθηκε."
+      ],
+      "english": [
+        ["There is a little word in messaging apps that has changed our relationships more than any revolution: “Seen”.", "Or, even worse, the two blue ticks that light up beside every message like eyes staring at you.", "From the moment the other person knows you've read it, the clock starts ticking.", "Every minute of silence is interpreted: as indifference, as anger, as an insult."],
+        ["It wasn't always like this.", "Our grandmothers waited weeks for a letter from America or Australia, and none of them thought the sender was ignoring her.", "Even in the days of the landline, when someone didn't answer, we simply assumed they were out.", "Absence was a natural state, not a statement.", "Today, when we all carry our device in our pocket, absence is no longer believable.", "If you don't reply, it is assumed you are choosing not to."],
+        ["The result is a constant, low-level guilt.", "We reply to colleagues at lunchtime, to parents during work, to group chats about the birthday of someone we barely know, with emojis that express nothing.", "The speed of a reply has become the measure of our love or our professionalism, as if the worth of a thought were measured in seconds.", "And the faster we reply, the more that becomes what is expected."],
+        ["So I have decided to practise the old, forgotten art of delay.", "I turned off read receipts and I check my messages three times a day, like the postman who once came through the village.", "My friends were worried at first, then annoyed, and in the end they got used to it.", "Some of them have even started writing me longer, more carefully composed messages, as if they knew they would be read at leisure.", "Last week one of them sent me something I hadn't received in years: a real letter.", "I replied three days later.", "He didn't complain."]
+      ],
+      "vocab": [
+        { "word": "ανταλλαγής μηνυμάτων", "gloss": "messaging (lit. exchange of messages)" },
+        { "word": "ερμηνεύεται", "gloss": "is interpreted" },
+        { "word": "αδιαφορία", "gloss": "indifference" },
+        { "word": "αποστολέας", "gloss": "sender" },
+        { "word": "αγνοούσε", "gloss": "was ignoring" },
+        { "word": "σταθερού τηλεφώνου", "gloss": "landline" },
+        { "word": "πιστευτή", "gloss": "believable" },
+        { "word": "ενοχή", "gloss": "guilt" },
+        { "word": "φατσούλες", "gloss": "emojis (lit. little faces)" },
+        { "word": "να ασκηθώ", "gloss": "to practise, train myself" },
+        { "word": "απενεργοποίησα", "gloss": "I turned off, deactivated" },
+        { "word": "ειδοποιήσεις ανάγνωσης", "gloss": "read receipts" },
+        { "word": "προσεγμένα", "gloss": "carefully composed" }
+      ]
+    },
+    {
+      "id": "el-c1-08",
+      "title": "Το τρενάκι του Πηλίου",
+      "subtitle": "The little train of Pelion",
+      "topic": "Memory",
+      "symbol": "tram.fill",
+      "paragraphs": [
+        "Το τρενάκι του Πηλίου ξεκινάει από τις Άνω Λεχώνιες κάθε Σάββατο στις έντεκα, και η Μαριάνθη είχε κλείσει δύο θέσεις από τον Μάρτιο. Ο πατέρας της, ο κύριος Κλεάνθης, ήταν ογδόντα τεσσάρων χρονών και τα τελευταία δύο χρόνια η μνήμη του έσβηνε σαν παλιά φωτογραφία ξεχασμένη στον ήλιο. Κάποιες μέρες τη γνώριζε. Άλλες τη ρωτούσε ευγενικά αν ήταν η καινούργια νοσοκόμα. Η γιατρός είχε πει ότι οι παλιές αναμνήσεις είναι συνήθως οι τελευταίες που χάνονται, και η Μαριάνθη είχε πιαστεί από αυτή τη φράση σαν από σκοινί.",
+        "Μόλις το τρένο μπήκε στο δάσος με τα πλατάνια, κάτι άλλαξε στο πρόσωπο του πατέρα της. «Τώρα έρχεται η γέφυρα του Ντε Κίρικο», είπε, πριν φανεί η σιδερένια γέφυρα πάνω από το φαράγγι. «Την έφτιαξε ο πατέρας του ζωγράφου, ξέρεις. Ο Ιταλός.» Η Μαριάνθη τον κοίταξε άφωνη. Σε κάθε στροφή ήξερε τι ακολουθούσε: το τούνελ, την πηγή, το εκκλησάκι στο ύψωμα. Μιλούσε για τον μηχανοδηγό και τον θερμαστή σαν να τους είχε δει χθες, και περιέγραφε τη μυρωδιά του κάρβουνου με μια ακρίβεια που την έκανε να ανατριχιάσει.",
+        "Στη στάση των Μηλεών κάθισαν σε ένα καφενείο κάτω από έναν πλάτανο. Ο πατέρας της έπινε αργά ένα τσάι του βουνού, κοιτάζοντας τις ράγες. «Εδώ τη γνώρισα», είπε ξαφνικά. «Ήταν το 1958. Πουλούσε μήλα σε ένα καλάθι, στην αποβάθρα. Εγώ ήμουν φαντάρος και πήγαινα στον Βόλο με άδεια. Της αγόρασα όλο το καλάθι για να μου πει το όνομά της, και μετά δεν είχα πού να βάλω τόσα μήλα.» Γέλασε, και για μια στιγμή ήταν πάλι νέος. Η Μαριάνθη δεν είχε ακούσει ποτέ αυτή την ιστορία. Η μητέρα της είχε πεθάνει πριν από δώδεκα χρόνια χωρίς να της την πει.",
+        "Στον δρόμο της επιστροφής ο κύριος Κλεάνθης αποκοιμήθηκε με το κεφάλι ακουμπισμένο στο τζάμι. Όταν το τρένο σταμάτησε στις Λεχώνιες, άνοιξε τα μάτια, την κοίταξε για πολλή ώρα και χαμογέλασε με μια τρυφερότητα που η Μαριάνθη δεν είχε δει στο πρόσωπό του εδώ και χρόνια. «Πάμε σπίτι, Ευανθία», της είπε. Ήταν το όνομα της μητέρας της. Η Μαριάνθη άνοιξε το στόμα για να τον διορθώσει. Ύστερα το έκλεισε, του έπιασε το χέρι και τον βοήθησε να κατέβει στην αποβάθρα."
+      ],
+      "english": [
+        ["The little Pelion train leaves Ano Lechonia every Saturday at eleven, and Marianthi had booked two seats back in March.", "Her father, Mr Kleanthis, was eighty-four, and for the last two years his memory had been fading like an old photograph left out in the sun.", "Some days he knew her.", "On others he politely asked whether she was the new nurse.", "The doctor had said that old memories are usually the last to go, and Marianthi had clung to that sentence like a rope."],
+        ["As soon as the train entered the plane-tree forest, something changed in her father's face.", "“Now comes the De Chirico bridge,” he said, before the iron bridge over the gorge came into view.", "“It was built by the painter's father, you know. The Italian.”", "Marianthi looked at him, speechless.", "At every bend he knew what came next: the tunnel, the spring, the little chapel on the hilltop.", "He talked about the engine driver and the stoker as if he'd seen them yesterday, and described the smell of the coal with a precision that made her shiver."],
+        ["At the Milies stop they sat in a café under a plane tree.", "Her father slowly drank a mountain tea, looking at the rails.", "“This is where I met her,” he said suddenly.", "“It was 1958. She was selling apples from a basket on the platform. I was a young soldier going to Volos on leave. I bought the whole basket from her so that she'd tell me her name, and then I had nowhere to put all those apples.”", "He laughed, and for a moment he was young again.", "Marianthi had never heard this story.", "Her mother had died twelve years before without ever telling it to her."],
+        ["On the way back Mr Kleanthis dozed off with his head resting against the window.", "When the train stopped at Lechonia, he opened his eyes, looked at her for a long time and smiled with a tenderness Marianthi hadn't seen in his face for years.", "“Let's go home, Evanthia,” he said to her.", "It was her mother's name.", "Marianthi opened her mouth to correct him.", "Then she closed it, took his hand and helped him down onto the platform."]
+      ],
+      "vocab": [
+        { "word": "έσβηνε", "gloss": "was fading" },
+        { "word": "είχε πιαστεί", "gloss": "had clung" },
+        { "word": "φαράγγι", "gloss": "gorge" },
+        { "word": "άφωνη", "gloss": "speechless" },
+        { "word": "ύψωμα", "gloss": "hilltop, rise" },
+        { "word": "μηχανοδηγό", "gloss": "engine driver" },
+        { "word": "θερμαστή", "gloss": "stoker" },
+        { "word": "να ανατριχιάσει", "gloss": "to shiver, get goosebumps" },
+        { "word": "ράγες", "gloss": "rails" },
+        { "word": "αποβάθρα", "gloss": "platform" },
+        { "word": "φαντάρος", "gloss": "conscript soldier" },
+        { "word": "αποκοιμήθηκε", "gloss": "dozed off" },
+        { "word": "τρυφερότητα", "gloss": "tenderness" }
+      ]
+    },
+    {
+      "id": "el-c1-09",
+      "title": "Δευτέρα βράδυ στον Πειραιά",
+      "subtitle": "Monday night in Piraeus",
+      "topic": "Culture",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Τη Δευτέρα το βράδυ, όταν τα περισσότερα μαγαζιά του Πειραιά έχουν κατεβάσει ρολά, ένα μικρό ταβερνάκι σε ένα στενό κοντά στο λιμάνι γεμίζει ασφυκτικά. Δεν υπάρχει ταμπέλα έξω, ούτε σελίδα στο διαδίκτυο. Όποιος ξέρει, ξέρει. Στις δέκα, τρεις μουσικοί κάθονται σε ψάθινες καρέκλες στη μέση της αίθουσας, χωρίς σκηνή και χωρίς μικρόφωνα: ένα μπουζούκι, ένας μπαγλαμάς και μια κιθάρα. Ο πιο ηλικιωμένος σηκώνει το βλέμμα, κάνει ένα νεύμα, και η κουβέντα κόβεται μαχαίρι.",
+        "Τα ρεμπέτικα γεννήθηκαν σε τέτοιους χώρους, στις αρχές του εικοστού αιώνα, στα λιμάνια και στις φτωχογειτονιές, και για χρόνια θεωρούνταν μουσική του περιθωρίου. Μιλούσαν για φτώχεια, για ξενιτιά, για φυλακές και για έρωτες χωρίς αίσιο τέλος, και συχνά λογοκρίνονταν. Μετά τον ξεριζωμό του 1922, οι πρόσφυγες από τη Μικρά Ασία έφεραν μαζί τους δρόμους και ρυθμούς της Ανατολής, που άλλαξαν για πάντα τον ήχο τους. Σήμερα το ρεμπέτικο έχει αναγνωριστεί από την UNESCO ως άυλη πολιτιστική κληρονομιά, και κάποιοι φοβούνται ότι κινδυνεύει να γίνει μουσειακό είδος.",
+        "Εδώ πάντως δεν υπάρχει τίποτα μουσειακό. Η Στέλλα, φοιτήτρια μουσικολογίας, έρχεται κάθε Δευτέρα εδώ και τρία χρόνια. «Δεν έρχομαι για να ακούσω κάτι παλιό», εξηγεί. «Έρχομαι γιατί εδώ τα τραγούδια συμβαίνουν. Αν ο κόσμος είναι κουρασμένος, τα παίζουν πιο αργά. Αν κάποιος σηκωθεί να χορέψει, περιμένουν να τελειώσει τον χορό του.» Στο διπλανό τραπέζι, ένας εξηντάρης λιμενεργάτης σιγοτραγουδά κάθε στίχο με κλειστά μάτια, ενώ δύο τουρίστριες από τη Νορβηγία προσπαθούν να πιάσουν τον ρυθμό χτυπώντας τα δάχτυλα στο τραπέζι.",
+        "Λίγο μετά τα μεσάνυχτα, ο μπουζουξής πιάνει ένα αργό ζεϊμπέκικο. Ένας μεσήλικας με γραβάτα, που μέχρι εκείνη τη στιγμή έμοιαζε με λογιστή που μπήκε κατά λάθος, σηκώνεται. Χορεύει μόνος του, με το βλέμμα στο πάτωμα, κάνοντας κύκλους γύρω από κάτι αόρατο. Κανείς δεν χειροκροτεί, κανείς δεν βγάζει κινητό. Το ζεϊμπέκικο, μας εξηγεί αργότερα η Στέλλα, δεν είναι επίδειξη αλλά εξομολόγηση, και την εξομολόγηση δεν τη διακόπτεις. Όταν τελειώνει το τραγούδι, ο άντρας σφίγγει ξανά τη γραβάτα του, αφήνει ένα χαρτονόμισμα στο πιάτο των μουσικών και φεύγει χωρίς να πει λέξη."
+      ],
+      "english": [
+        ["On Monday night, when most of the shops in Piraeus have pulled down their shutters, a little taverna in a side street near the port fills up to bursting.", "There's no sign outside and no page on the internet.", "Those who know, know.", "At ten, three musicians sit down on wicker chairs in the middle of the room, with no stage and no microphones: a bouzouki, a baglamas and a guitar.", "The oldest raises his eyes, gives a nod, and the chatter stops dead."],
+        ["Rebetika were born in places like this, at the start of the twentieth century, in the ports and the poor neighbourhoods, and for years they were considered music of the underworld.", "They spoke of poverty, of exile, of prisons and of love affairs without happy endings, and they were often censored.", "After the uprooting of 1922, the refugees from Asia Minor brought with them the modes and rhythms of the East, which changed their sound for ever.", "Today rebetiko has been recognised by UNESCO as intangible cultural heritage, and some fear it is in danger of becoming a museum piece."],
+        ["Here, at any rate, there is nothing of the museum.", "Stella, a musicology student, has been coming every Monday for three years.", "“I don't come to hear something old,” she explains.", "“I come because here the songs happen. If people are tired, they play them slower. If someone gets up to dance, they wait for him to finish his dance.”", "At the next table a docker in his sixties softly sings along to every line with his eyes closed, while two tourists from Norway try to catch the rhythm by tapping their fingers on the table."],
+        ["Shortly after midnight the bouzouki player strikes up a slow zeibekiko.", "A middle-aged man in a tie, who until then had looked like an accountant who'd wandered in by mistake, gets up.", "He dances alone, his eyes on the floor, circling around something invisible.", "Nobody claps, nobody takes out a phone.", "The zeibekiko, Stella explains to us later, is not a display but a confession, and you don't interrupt a confession.", "When the song ends, the man tightens his tie again, leaves a banknote on the musicians' plate and leaves without a word."]
+      ],
+      "vocab": [
+        { "word": "έχουν κατεβάσει ρολά", "gloss": "have pulled down their shutters, closed" },
+        { "word": "ασφυκτικά", "gloss": "to bursting (lit. suffocatingly)" },
+        { "word": "ψάθινες", "gloss": "wicker, rush-seated" },
+        { "word": "νεύμα", "gloss": "nod" },
+        { "word": "κόβεται μαχαίρι", "gloss": "stops dead (lit. is cut as by a knife)" },
+        { "word": "περιθωρίου", "gloss": "the margins of society, underworld" },
+        { "word": "ξενιτιά", "gloss": "life far from home, exile" },
+        { "word": "αίσιο", "gloss": "happy (of an ending)" },
+        { "word": "λογοκρίνονταν", "gloss": "were censored" },
+        { "word": "ξεριζωμό", "gloss": "uprooting" },
+        { "word": "άυλη", "gloss": "intangible" },
+        { "word": "λιμενεργάτης", "gloss": "docker" },
+        { "word": "εξομολόγηση", "gloss": "confession" }
+      ]
+    },
+    {
+      "id": "el-c1-10",
+      "title": "Νυχτερινή βάρδια στο Θησείο",
+      "subtitle": "Night shift at Thiseio",
+      "topic": "Science",
+      "symbol": "globe.europe.africa.fill",
+      "paragraphs": [
+        "Η βάρδια της Ιφιγένειας στο Γεωδυναμικό Ινστιτούτο, στον Λόφο των Νυμφών στο Θησείο, ήταν συνήθως ήσυχη. Από τις έντεκα το βράδυ ως τις επτά το πρωί παρακολουθούσε τις οθόνες όπου έρρεαν τα σήματα από εκατοντάδες σεισμογράφους σε όλη τη χώρα, έπινε πράσινο τσάι και διάβαζε άρθρα που δεν προλάβαινε να διαβάσει τη μέρα. Η Ελλάδα κουνιέται σχεδόν διαρκώς, αλλά οι περισσότεροι σεισμοί είναι τόσο μικροί που δεν τους αισθάνεται κανείς εκτός από τα μηχανήματα.",
+        "Στις τρεις και δεκαεπτά, οι γραμμές σε όλες τις οθόνες άρχισαν ταυτόχρονα να χορεύουν. Μέσα σε λίγα λεπτά ο αυτόματος υπολογισμός έδωσε το πρώτο αποτέλεσμα: πέντε κόμμα τέσσερα της κλίμακας Ρίχτερ, θαλάσσια περιοχή νότια των Κυθήρων, εστιακό βάθος είκοσι χιλιόμετρα. Η Ιφιγένεια έκανε τους ελέγχους που προβλέπει το πρωτόκολλο, ενημέρωσε την Πολιτική Προστασία και ειδοποίησε τον διευθυντή, που απάντησε στο τηλέφωνο με τη φωνή ανθρώπου που δεν έχει καταλάβει ακόμα αν ξύπνησε.",
+        "Ύστερα άρχισαν τα τηλεφωνήματα των δημοσιογράφων. Όλοι ήθελαν να μάθουν το ίδιο πράγμα, διατυπωμένο με διαφορετικά λόγια: ήταν αυτός ο κύριος σεισμός ή θα ακολουθήσει μεγαλύτερος; Η Ιφιγένεια έδινε σε όλους την ίδια απάντηση, τη μόνη τίμια, που ήξερε ότι κανείς δεν ήθελε να ακούσει: ότι η επιστήμη δεν μπορεί να προβλέψει τους σεισμούς, παρά μόνο να εκτιμήσει πόσο πιθανό είναι, στατιστικά, να ακολουθήσει κάτι ισχυρότερο. Ένας ραδιοφωνικός παραγωγός τη ρώτησε εκνευρισμένος σε τι χρησιμεύουν τότε όλοι αυτοί οι σεισμογράφοι. «Σε αυτό ακριβώς», του απάντησε. «Στο να μη σας λέμε ψέματα.»",
+        "Λίγο πριν ξημερώσει, το κινητό της δόνησε. Ήταν ο παππούς της από τα Χανιά, που είχε νιώσει τον σεισμό και είχε βγει στην αυλή με τις πιτζάμες. «Να κοιμηθώ έξω, κορίτσι μου;» της έγραφε, με τα μισά γράμματα λάθος. Η Ιφιγένεια κοίταξε για λίγο τις οθόνες, όπου οι μετασεισμοί λιγόστευαν σταθερά, και σκέφτηκε όλα τα στατιστικά μοντέλα που είχε μάθει στο διδακτορικό της. Ύστερα απάντησε: «Κοιμήσου μέσα, παππού. Άφησε όμως τα παπούτσια σου δίπλα στο κρεβάτι.»"
+      ],
+      "english": [
+        ["Ifigeneia's shift at the Geodynamic Institute, on the Hill of the Nymphs in Thiseio, was usually quiet.", "From eleven at night until seven in the morning she watched the screens where signals streamed in from hundreds of seismographs all over the country, drank green tea and read papers she didn't have time to read during the day.", "Greece shakes almost constantly, but most earthquakes are so small that nobody feels them except the machines."],
+        ["At seventeen minutes past three, the lines on every screen began to dance at once.", "Within a few minutes the automatic calculation produced its first result: magnitude five point four on the Richter scale, at sea south of Kythera, focal depth twenty kilometres.", "Ifigeneia ran the checks the protocol requires, informed Civil Protection and alerted the director, who answered the phone in the voice of a man not yet sure whether he was awake."],
+        ["Then the journalists' calls began.", "They all wanted to know the same thing, phrased in different words: was this the main earthquake, or would a bigger one follow?", "Ifigeneia gave them all the same answer, the only honest one, which she knew nobody wanted to hear: that science cannot predict earthquakes, only estimate how likely it is, statistically, that something stronger will follow.", "An irritated radio producer asked her what all those seismographs were for, then.", "“For exactly that,” she replied.", "“For not telling you lies.”"],
+        ["Shortly before dawn her phone vibrated.", "It was her grandfather in Chania, who had felt the earthquake and gone out into the yard in his pyjamas.", "“Should I sleep outside, my girl?” he wrote, with half the letters wrong.", "Ifigeneia looked at the screens for a moment, where the aftershocks were steadily dying down, and thought of all the statistical models she had learned during her PhD.", "Then she replied: “Sleep inside, Grandpa. But leave your shoes next to the bed.”"]
+      ],
+      "vocab": [
+        { "word": "έρρεαν", "gloss": "streamed, flowed" },
+        { "word": "κουνιέται", "gloss": "shakes" },
+        { "word": "εστιακό βάθος", "gloss": "focal depth" },
+        { "word": "πρωτόκολλο", "gloss": "protocol" },
+        { "word": "Πολιτική Προστασία", "gloss": "Civil Protection (emergency agency)" },
+        { "word": "διατυπωμένο", "gloss": "phrased, worded" },
+        { "word": "τίμια", "gloss": "honest" },
+        { "word": "να εκτιμήσει", "gloss": "to estimate" },
+        { "word": "εκνευρισμένος", "gloss": "irritated" },
+        { "word": "χρησιμεύουν", "gloss": "are of use, serve" },
+        { "word": "δόνησε", "gloss": "vibrated" },
+        { "word": "μετασεισμοί", "gloss": "aftershocks" },
+        { "word": "λιγόστευαν", "gloss": "were dying down, decreasing" }
+      ]
+    },
+    {
+      "id": "el-c1-11",
+      "title": "Κάτω από το στρώμα",
+      "subtitle": "Under the mattress",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Η κυρία Αργυρώ δεν εμπιστευόταν τις τράπεζες. Το είχε διακηρύξει τόσες φορές στα κυριακάτικα τραπέζια, στο σπίτι της στο Αγρίνιο, που τα παιδιά και τα εγγόνια της είχαν πάψει να το ακούν. Όταν πέθανε, στα ενενήντα ένα της, η κόρη της και οι δύο εγγονοί της ήξεραν λοιπόν πού να ψάξουν. Με μια ανακούφιση που ντρέπονταν να ομολογήσουν, σήκωσαν το βαρύ μάλλινο στρώμα του κρεβατιού της.",
+        "Από κάτω βρήκαν ένα πάνινο σακούλι δεμένο με σπάγκο, και μέσα του δεσμίδες από χαρτονομίσματα, τυλιγμένες προσεκτικά σε εφημερίδες της δεκαετίας του '90. Ο Λευτέρης, ο μεγάλος εγγονός, άρχισε να μετράει με όλο και πιο αργές κινήσεις. Ήταν όλα σε δραχμές: πεντοχίλιαρα, δεκαχίλιαρα, μερικά τσαλακωμένα χιλιάρικα. Σύνολο: τρία εκατομμύρια διακόσιες χιλιάδες. Κάποτε θα έφταναν για ένα μικρό διαμέρισμα. Σήμερα, όπως διαπίστωσαν με ένα γρήγορο ψάξιμο στο κινητό, η προθεσμία για την ανταλλαγή τους είχε λήξει το 2012. Είχαν μπροστά τους μια περιουσία μηδενικής αξίας.",
+        "Για λίγα λεπτά κανείς δεν μίλησε. Ύστερα η κόρη της, η Βούλα, άρχισε να γελάει, ένα γέλιο που γρήγορα έγινε κλάμα και ξανά γέλιο. «Τόσα χρόνια μάς έλεγε ότι οι τράπεζες θα μας κλέψουν», είπε. «Και τελικά μας έκλεψε ο χρόνος.» Η μικρότερη εγγονή, η Ναταλία, ψαχούλευε στον πάτο του σακουλιού. Βρήκε έναν φάκελο με τον γνώριμο, στρογγυλό γραφικό χαρακτήρα της γιαγιάς της και τη φράση «Για όταν τα βρείτε».",
+        "Μέσα υπήρχε ένα σημείωμα και ένα βιβλιάριο καταθέσεων. Η κυρία Αργυρώ, φαίνεται, ήξερε για την αλλαγή του νομίσματος περισσότερα απ' όσα νόμιζαν. Είχε ανταλλάξει τα περισσότερα λεφτά της σε ευρώ το 2002, σε μια τράπεζα του Αγρινίου, και τα είχε καταθέσει σε έναν λογαριασμό στο όνομα των εγγονών της. Τις δραχμές τις κράτησε επίτηδες. «Ήθελα να δω τα μούτρα σας», έγραφε το σημείωμα. «Και να θυμάστε ότι η γιαγιά σας δεν ήταν τόσο αγράμματη όσο νομίζατε. Μην τα φάτε όλα σε καφέδες.» Ο Λευτέρης διάβασε το σημείωμα δύο φορές. Ύστερα άρχισε να γελάει κι εκείνος, ώσπου τον πήραν τα κλάματα."
+      ],
+      "english": [
+        ["Mrs Argyro did not trust banks.", "She had declared it so many times at Sunday lunches in her house in Agrinio that her children and grandchildren had stopped hearing it.", "So when she died, at ninety-one, her daughter and her two grandchildren knew where to look.", "With a relief they were ashamed to admit, they lifted the heavy woollen mattress off her bed."],
+        ["Underneath they found a cloth bag tied with string, and inside it bundles of banknotes, carefully wrapped in newspapers from the nineties.", "Lefteris, the elder grandson, began to count, his movements growing slower and slower.", "It was all in drachmas: five-thousand notes, ten-thousand notes, a few crumpled thousands.", "Total: three million two hundred thousand.", "Once it would have been enough for a small flat.", "Today, as they found out with a quick search on a phone, the deadline for exchanging them had expired in 2012.", "Before them lay a fortune worth exactly nothing."],
+        ["For a few minutes nobody spoke.", "Then her daughter, Voula, started to laugh, a laugh that soon turned into tears and then back into laughter.", "“All those years she told us the banks would rob us,” she said.", "“And in the end it was time that robbed us.”", "The younger granddaughter, Natalia, was rummaging at the bottom of the bag.", "She found an envelope in her grandmother's familiar, rounded handwriting, with the words “For when you find them”."],
+        ["Inside were a note and a savings passbook.", "Mrs Argyro, it seems, had known more about the change of currency than they thought.", "She had exchanged most of her money for euros in 2002, at a bank in Agrinio, and deposited it in an account in her grandchildren's names.", "She had kept the drachmas on purpose.", "“I wanted to see your faces,” said the note.", "“And remember that your grandmother wasn't as uneducated as you thought. Don't spend it all on coffees.”", "Lefteris read the note twice.", "Then he too started to laugh, until he burst into tears."]
+      ],
+      "vocab": [
+        { "word": "διακηρύξει", "gloss": "declared, proclaimed" },
+        { "word": "ανακούφιση", "gloss": "relief" },
+        { "word": "πάνινο", "gloss": "cloth (adj.)" },
+        { "word": "σπάγκο", "gloss": "string, twine" },
+        { "word": "δεσμίδες", "gloss": "bundles, wads" },
+        { "word": "τσαλακωμένα", "gloss": "crumpled" },
+        { "word": "διαπίστωσαν", "gloss": "found out, established" },
+        { "word": "προθεσμία", "gloss": "deadline" },
+        { "word": "είχε λήξει", "gloss": "had expired" },
+        { "word": "ψαχούλευε", "gloss": "was rummaging" },
+        { "word": "βιβλιάριο καταθέσεων", "gloss": "savings passbook" },
+        { "word": "επίτηδες", "gloss": "on purpose" },
+        { "word": "μούτρα", "gloss": "faces, mugs (colloquial)" }
+      ]
+    },
+    {
+      "id": "el-c1-12",
+      "title": "Το δέμα από τη Μελβούρνη",
+      "subtitle": "The parcel from Melbourne",
+      "topic": "Mystery",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Το δέμα έφτασε στη Δημοτική Βιβλιοθήκη των Χανίων ένα βροχερό πρωί του Νοεμβρίου, με σφραγίδα της Μελβούρνης και χωρίς αποστολέα. Η Κατερίνα, η βιβλιοθηκονόμος, το άνοιξε με την περιέργεια που προκαλούν πάντα τα δέματα χωρίς όνομα. Μέσα, τυλιγμένο σε μια πετσέτα κουζίνας, υπήρχε ένα βιβλίο με φθαρμένο πράσινο εξώφυλλο: μια ανθολογία ποίησης, με τη σφραγίδα της βιβλιοθήκης στην πρώτη σελίδα. Στο καρτελάκι δανεισμού, κολλημένο στο εσώφυλλο, η τελευταία ημερομηνία επιστροφής ήταν 14 Ιουνίου 1983.",
+        "Το όνομα του δανειζόμενου είχε σβηστεί από την υγρασία· διακρινόταν μόνο ένα αρχικό, ένα κεφαλαίο Μ, και ένας αριθμός μέλους. Τα αρχεία εκείνης της εποχής ήταν σε χαρτί και, όπως διαπίστωσε η Κατερίνα μετά από δύο μέρες ψαξίματος στο υπόγειο, είχαν καταστραφεί σε μια πλημμύρα τη δεκαετία του '90. Το ίδιο το βιβλίο, ωστόσο, μιλούσε. Στα περιθώρια υπήρχαν υπογραμμίσεις με μολύβι, πρώτα διστακτικές, εφηβικές, και αργότερα, με άλλο μελάνι, σημειώσεις ενός ώριμου ανθρώπου που απαντούσε σε όσα είχε γράψει ο νεότερος εαυτός του. Ανάμεσα στις σελίδες, ένα αποξηραμένο αγριοκυκλάμινο είχε αφήσει το αποτύπωμά του στο χαρτί.",
+        "Η Κατερίνα δημοσίευσε μια φωτογραφία του βιβλίου στη σελίδα της βιβλιοθήκης στα μέσα κοινωνικής δικτύωσης, ζητώντας από τον άγνωστο αναγνώστη να επικοινωνήσει. Η ανάρτηση κοινοποιήθηκε εκατοντάδες φορές, ιδιαίτερα από Κρητικούς της ομογένειας στην Αυστραλία. Πολλοί έγραψαν ότι μπορεί να ήταν ο θείος τους, ο γείτονάς τους, ο πατέρας τους. Κάποιοι αφηγήθηκαν ολόκληρες ιστορίες μετανάστευσης. Κανείς όμως δεν δήλωσε ότι ήταν ο ίδιος ο αναγνώστης.",
+        "Δύο εβδομάδες αργότερα έφτασε ένας δεύτερος φάκελος, πάλι από τη Μελβούρνη, πάλι χωρίς αποστολέα. Περιείχε ένα χαρτονόμισμα των πέντε ευρώ και ένα σημείωμα γραμμένο σε προσεγμένα, κάπως παλιομοδίτικα ελληνικά: «Για το πρόστιμο. Υπολόγισα τις δραχμές όσο καλύτερα μπορούσα. Συγγνώμη που το κράτησα τόσο. Μου κράτησε κι εκείνο συντροφιά.» Η Κατερίνα δεν έψαξε περισσότερο. Τοποθέτησε το βιβλίο σε μια γυάλινη προθήκη στην είσοδο, μαζί με το σημείωμα, και από τότε, όπως λέει, είναι το πιο πολυδιαβασμένο βιβλίο της βιβλιοθήκης, αν και δεν δανείζεται πια σε κανέναν."
+      ],
+      "english": [
+        ["The parcel arrived at the Municipal Library of Chania one rainy November morning, with a Melbourne postmark and no sender.", "Katerina, the librarian, opened it with the curiosity that parcels without a name always arouse.", "Inside, wrapped in a tea towel, was a book with a worn green cover: an anthology of poetry, with the library's stamp on the first page.", "On the loan slip stuck inside the cover, the last due date was 14 June 1983."],
+        ["The borrower's name had been wiped out by damp; all that could be made out was an initial, a capital M, and a membership number.", "The records from that period were on paper and, as Katerina discovered after two days of searching in the basement, they had been destroyed in a flood in the nineties.", "The book itself, however, spoke.", "In the margins there were pencil underlinings, at first hesitant and adolescent, and later, in different ink, the notes of a mature person replying to what his younger self had written.", "Between the pages, a dried wild cyclamen had left its imprint on the paper."],
+        ["Katerina posted a photo of the book on the library's social media page, asking the unknown reader to get in touch.", "The post was shared hundreds of times, especially by Cretans of the diaspora in Australia.", "Many wrote that it might have been their uncle, their neighbour, their father.", "Some told whole stories of emigration.", "But nobody claimed to be the reader himself."],
+        ["Two weeks later a second envelope arrived, again from Melbourne, again with no sender.", "It contained a five-euro note and a message written in careful, somewhat old-fashioned Greek: “For the fine. I worked out the drachmas as best I could. Sorry I kept it so long. It kept me company too.”", "Katerina didn't search any further.", "She placed the book in a glass display case at the entrance, along with the note, and since then, she says, it has been the most widely read book in the library, even though it is no longer lent to anyone."]
+      ],
+      "vocab": [
+        { "word": "δέμα", "gloss": "parcel" },
+        { "word": "βιβλιοθηκονόμος", "gloss": "librarian" },
+        { "word": "φθαρμένο", "gloss": "worn" },
+        { "word": "καρτελάκι δανεισμού", "gloss": "loan slip" },
+        { "word": "εσώφυλλο", "gloss": "inside cover" },
+        { "word": "διακρινόταν", "gloss": "could be made out" },
+        { "word": "υπογραμμίσεις", "gloss": "underlinings" },
+        { "word": "διστακτικές", "gloss": "hesitant" },
+        { "word": "αποτύπωμά", "gloss": "imprint" },
+        { "word": "ομογένειας", "gloss": "the Greek diaspora" },
+        { "word": "ανάρτηση", "gloss": "(social media) post" },
+        { "word": "πρόστιμο", "gloss": "fine" },
+        { "word": "προθήκη", "gloss": "display case" }
+      ]
+    },
+    {
+      "id": "el-c1-13",
+      "title": "Ο μουσακάς της διχόνοιας",
+      "subtitle": "The moussaka of discord",
+      "topic": "Cooking",
+      "symbol": "flame.fill",
+      "paragraphs": [
+        "Κάθε φορά που δημοσιεύεται μια συνταγή για μουσακά, ξεσπά στα σχόλια ένας μικρός εμφύλιος. Κάποιος θα γράψει ότι ο «σωστός» μουσακάς δεν έχει πατάτες. Κάποιος άλλος θα απαντήσει, σχεδόν προσβεβλημένος, ότι χωρίς πατάτες δεν είναι μουσακάς. Ένας τρίτος θα ορκιστεί στη μνήμη της γιαγιάς του ότι το μοσχοκάρυδο στη μπεσαμέλ είναι ιεροσυλία. Και όλοι, χωρίς εξαίρεση, θα επικαλεστούν την ίδια μαγική λέξη: την παράδοση.",
+        "Η ιστορία, όμως, είναι πιο ειρωνική απ' όσο θα ήθελαν οι υπερασπιστές της. Ο μουσακάς όπως τον ξέρουμε σήμερα, με την πλούσια κρούστα από μπεσαμέλ, οφείλει πολλά στον Νικόλαο Τσελεμεντέ, έναν μάγειρα του Μεσοπολέμου που είχε μαθητεύσει στη Βιέννη και ήθελε να «εξευρωπαΐσει» την ελληνική κουζίνα. Οι γιαγιάδες μας, με άλλα λόγια, έφτιαχναν μια συνταγή που οι δικές τους γιαγιάδες θα θεωρούσαν ξενόφερτη καινοτομία. Η παράδοση, όπως φαίνεται, είναι συχνά απλώς μια καινοτομία που είχε την τύχη να επιβιώσει.",
+        "Αυτό δεν σημαίνει ότι όλα επιτρέπονται ή ότι η ιστορία μιας συνταγής δεν έχει σημασία. Σημαίνει ότι η κουζίνα είναι ζωντανός οργανισμός και όχι μουσειακό έκθεμα. Κάθε σπίτι στην Ελλάδα και την Κύπρο έχει τη δική του εκδοχή για τα γεμιστά, τη φασολάδα ή τους κεφτέδες, και κάθε εκδοχή είναι, για όσους μεγάλωσαν μαζί της, η μόνη αληθινή. Η Κρήτη βάζει δυόσμο εκεί που άλλοι βάζουν μαϊντανό, η Κέρκυρα μπαχαρικά εκεί που η Μάνη αρκείται στο λάδι. Αν υπήρχε μία και μοναδική αυθεντική συνταγή, θα είχαμε χάσει όλες τις υπόλοιπες.",
+        "Ίσως, λοιπόν, όταν λέμε «αυθεντικό», εννοούμε κάτι άλλο: όχι τη συνταγή καθαυτή, αλλά τη σχέση μας μαζί της. Το φαγητό που μας συγκινεί δεν είναι απαραίτητα το πιο σωστό, αλλά εκείνο που μας θυμίζει ένα συγκεκριμένο τραπέζι, μια συγκεκριμένη κουζίνα, ένα χέρι που ανακάτευε την κατσαρόλα. Η μητέρα μου έβαζε στον μουσακά της κανέλα, πολύ περισσότερη απ' όση προβλέπει οποιοδήποτε βιβλίο μαγειρικής. Κανένας σεφ δεν θα το ενέκρινε. Για μένα, είναι η μόνη σωστή ποσότητα."
+      ],
+      "english": [
+        ["Every time a recipe for moussaka is published, a small civil war breaks out in the comments.", "Someone will write that “proper” moussaka has no potatoes.", "Someone else will reply, almost offended, that without potatoes it isn't moussaka.", "A third will swear on his grandmother's memory that nutmeg in the béchamel is sacrilege.", "And all of them, without exception, will invoke the same magic word: tradition."],
+        ["History, though, is more ironic than its defenders would like.", "Moussaka as we know it today, with its rich crust of béchamel, owes a great deal to Nikolaos Tselementes, an interwar cook who had trained in Vienna and wanted to “Europeanise” Greek cooking.", "Our grandmothers, in other words, were making a recipe that their own grandmothers would have considered a foreign novelty.", "Tradition, it seems, is often just an innovation that was lucky enough to survive."],
+        ["This doesn't mean that anything goes, or that the history of a recipe doesn't matter.", "It means that cooking is a living organism, not a museum exhibit.", "Every home in Greece and Cyprus has its own version of gemista, bean soup or meatballs, and every version is, for those who grew up with it, the only true one.", "Crete puts in mint where others put parsley, Corfu adds spices where the Mani makes do with oil.", "If there were one single authentic recipe, we would have lost all the others."],
+        ["So perhaps, when we say “authentic”, we mean something else: not the recipe itself, but our relationship with it.", "The food that moves us isn't necessarily the most correct, but the one that reminds us of a particular table, a particular kitchen, a hand stirring the pot.", "My mother put cinnamon in her moussaka, far more than any cookbook prescribes.", "No chef would have approved.", "For me, it is the only right amount."]
+      ],
+      "vocab": [
+        { "word": "ξεσπά", "gloss": "breaks out" },
+        { "word": "εμφύλιος", "gloss": "civil war" },
+        { "word": "προσβεβλημένος", "gloss": "offended" },
+        { "word": "μοσχοκάρυδο", "gloss": "nutmeg" },
+        { "word": "ιεροσυλία", "gloss": "sacrilege" },
+        { "word": "θα επικαλεστούν", "gloss": "will invoke" },
+        { "word": "Μεσοπολέμου", "gloss": "the interwar period" },
+        { "word": "ξενόφερτη", "gloss": "foreign, imported" },
+        { "word": "καινοτομία", "gloss": "innovation, novelty" },
+        { "word": "έκθεμα", "gloss": "exhibit" },
+        { "word": "αρκείται", "gloss": "makes do, is content with" },
+        { "word": "καθαυτή", "gloss": "as such, itself" },
+        { "word": "θα το ενέκρινε", "gloss": "would have approved it" }
+      ]
+    },
+    {
+      "id": "el-c1-14",
+      "title": "Αριστερά, όπως στην αυλή",
+      "subtitle": "Left, like in the yard",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Ο Σταύρος Γκόγκος ήταν σαράντα δύο χρονών, είχε δύο παιδιά, ένα κατάστημα με ηλεκτρικά είδη στην Άρτα και έναν πόνο στη μέση που δεν έλεγε να περάσει. Κάθε Κυριακή όμως φορούσε τα γάντια του και στεκόταν κάτω από τα δοκάρια του Αστέρα, μιας ερασιτεχνικής ομάδας που έπαιζε σε ένα γήπεδο με περισσότερη σκόνη από χορτάρι. Οι συμπαίκτες του τον έλεγαν «ο Παππούς», και εκείνος το είχε δεχτεί με την αξιοπρέπεια ανθρώπου που ξέρει ότι έχει χάσει τη μάχη με τα χρόνια, αλλά όχι ακόμα τον πόλεμο.",
+        "Εκείνη τη σεζόν ο Αστέρας έφτασε, για πρώτη φορά στην ιστορία του, στον τελικό του τοπικού κυπέλλου. Αντίπαλος ήταν μια ομάδα από την Πρέβεζα, γεμάτη εικοσάχρονους που έτρεχαν σαν να τους κυνηγούσαν. Ο προπονητής, ένας συνταξιούχος γυμναστής, είπε στον Σταύρο τη Δευτέρα ότι ίσως θα ήταν καλύτερα να ξεκινήσει ο νεαρός αναπληρωματικός, ο Μάριος. Ο Σταύρος δεν διαφώνησε. Ήξερε ότι ο Μάριος ήταν πιο γρήγορος. Ήξερε επίσης ότι ο Μάριος ήταν ο γιος του.",
+        "Ο τελικός ήταν αγωνιώδης. Ο Μάριος έπαιξε καλά αλλά νευρικά, και στο ογδοηκοστό λεπτό, με το σκορ ένα ένα, ζήτησε αλλαγή κρατώντας τον αστράγαλό του. Ο Σταύρος ζεστάθηκε βιαστικά και μπήκε στο γήπεδο, ενώ οι λίγες εκατοντάδες θεατές στις κερκίδες χειροκροτούσαν με εκείνη τη συμπάθεια που κρύβει πάντα λίγο οίκτο. Ο αγώνας κατέληξε στα πέναλτι. Ο Σταύρος δεν είχε πιάσει πέναλτι εδώ και τρία χρόνια.",
+        "Στο πέμπτο πέναλτι, με την ομάδα του να προηγείται κατά ένα, στάθηκε απέναντι σε έναν ψηλό επιθετικό, γεμάτο αυτοπεποίθηση. Από τον πάγκο, ο Μάριος, με πάγο στον αστράγαλο, φώναξε κάτι που μόνο ο πατέρας του κατάλαβε: «Αριστερά, όπως στην αυλή!» Ήταν το παιχνίδι τους όταν ο Μάριος ήταν επτά χρονών· ο μικρός σούταρε πάντα αριστερά και ο πατέρας του έκανε πάντα πως δεν το ήξερε. Ο Σταύρος βούτηξε αριστερά. Η μπάλα χτύπησε στα γάντια του και έφυγε κόρνερ. Στους πανηγυρισμούς που ακολούθησαν, κανείς δεν πρόσεξε ότι ο τραυματισμένος αναπληρωματικός έτρεχε προς τον τερματοφύλακα χωρίς να κουτσαίνει καθόλου."
+      ],
+      "english": [
+        ["Stavros Gkogkos was forty-two, with two children, an electrical goods shop in Arta and a pain in his lower back that refused to go away.", "But every Sunday he put on his gloves and stood between the posts for Asteras, an amateur team that played on a pitch with more dust than grass.", "His teammates called him “Grandpa”, and he had accepted it with the dignity of a man who knows he has lost the battle with the years, but not yet the war."],
+        ["That season Asteras reached the final of the local cup for the first time in its history.", "Their opponents were a team from Preveza, full of twenty-year-olds who ran as if they were being chased.", "On the Monday the coach, a retired PE teacher, told Stavros that it might be better for the young substitute, Marios, to start.", "Stavros didn't disagree.", "He knew Marios was quicker.", "He also knew that Marios was his son."],
+        ["The final was nerve-racking.", "Marios played well but nervously, and in the eightieth minute, with the score at one all, he asked to come off, clutching his ankle.", "Stavros warmed up hurriedly and went onto the pitch, while the few hundred spectators in the stands applauded with that sympathy which always hides a little pity.", "The match went to penalties.", "Stavros hadn't saved a penalty in three years."],
+        ["At the fifth penalty, with his team one ahead, he faced a tall striker brimming with confidence.", "From the bench Marios, with ice on his ankle, shouted something only his father understood: “Left, like in the yard!”", "It had been their game when Marios was seven; the little boy always shot to the left and his father always pretended not to know.", "Stavros dived left.", "The ball struck his gloves and went out for a corner.", "In the celebrations that followed, nobody noticed that the injured substitute was running towards the goalkeeper without the slightest limp."]
+      ],
+      "vocab": [
+        { "word": "μέση", "gloss": "lower back, waist" },
+        { "word": "δεν έλεγε να περάσει", "gloss": "refused to go away" },
+        { "word": "δοκάρια", "gloss": "goalposts" },
+        { "word": "ερασιτεχνικής", "gloss": "amateur" },
+        { "word": "αξιοπρέπεια", "gloss": "dignity" },
+        { "word": "αναπληρωματικός", "gloss": "substitute" },
+        { "word": "αγωνιώδης", "gloss": "nerve-racking, tense" },
+        { "word": "αστράγαλο", "gloss": "ankle" },
+        { "word": "κερκίδες", "gloss": "stands (in a stadium)" },
+        { "word": "οίκτο", "gloss": "pity" },
+        { "word": "προηγείται", "gloss": "is ahead, is leading" },
+        { "word": "βούτηξε", "gloss": "dived" },
+        { "word": "κουτσαίνει", "gloss": "limp" }
+      ]
+    },
+    {
+      "id": "el-c1-15",
+      "title": "Εγκώμιο της πολυκατοικίας",
+      "subtitle": "In praise of the block of flats",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Αν κοιτάξει κανείς την Αθήνα από τον Λυκαβηττό, βλέπει μια λευκή θάλασσα από τσιμέντο που απλώνεται μέχρι τα βουνά. Οι επισκέπτες συχνά τη βρίσκουν άσχημη, μονότονη, χαοτική. Κι όμως, αυτό το φαινομενικά άναρχο τοπίο αποτελείται σχεδόν εξ ολοκλήρου από ένα και μοναδικό κτίριο, επαναλαμβανόμενο δεκάδες χιλιάδες φορές με μικρές παραλλαγές: την πολυκατοικία των πέντε ή έξι ορόφων, με πιλοτή, ταράτσα και μακριά μπαλκόνια με τέντες.",
+        "Το μυστικό της εξάπλωσής της λέγεται αντιπαροχή. Στις δεκαετίες μετά τον πόλεμο, όταν εκατοντάδες χιλιάδες άνθρωποι μετακόμιζαν από την επαρχία στην πρωτεύουσα, ο ιδιοκτήτης μιας παλιάς μονοκατοικίας μπορούσε να δώσει το οικόπεδό του σε έναν εργολάβο χωρίς να πληρώσει τίποτα. Ο εργολάβος έχτιζε την πολυκατοικία, κρατούσε τα περισσότερα διαμερίσματα για να τα πουλήσει και έδινε στον ιδιοκτήτη δύο ή τρία. Το σύστημα ήταν απλό, ευέλικτο και, για καλό ή για κακό, έχτισε μια ολόκληρη πόλη σχεδόν χωρίς κρατικά χρήματα.",
+        "Οι επικριτές της έχουν πολλά επιχειρήματα: την έλλειψη πρασίνου, τα στενά πεζοδρόμια, τον θόρυβο, το γεγονός ότι τα παλιά νεοκλασικά σπίτια γκρεμίστηκαν το ένα μετά το άλλο. Λιγότερο συχνά αναφέρεται κάτι που οι κοινωνιολόγοι θεωρούν σχεδόν μοναδικό στην Ευρώπη. Στην ίδια πολυκατοικία έμεναν συχνά, και μένουν ακόμα, άνθρωποι πολύ διαφορετικών εισοδημάτων: ο ιδιοκτήτης του οικοπέδου στο ρετιρέ, ένας δικηγόρος στον τέταρτο, μια οικογένεια μεταναστών στο ημιυπόγειο. Η κοινωνική τάξη, θα μπορούσε να πει κανείς, μετριόταν σε ορόφους και όχι σε γειτονιές.",
+        "Μεγάλωσα σε μια τέτοια πολυκατοικία στα Πατήσια, στον τρίτο όροφο, ανάμεσα σε μια χήρα από τη Μυτιλήνη που μου έδινε γλυκά του κουταλιού και σε έναν ταξιτζή που άκουγε όπερα με ανοιχτά παράθυρα. Τα καλοκαίρια, όταν η ζέστη έκανε τα διαμερίσματα αφόρητα, ανεβαίναμε όλοι στην ταράτσα με στρώματα και κοιμόμασταν κάτω από τα αστέρια, ή μάλλον κάτω από την πορτοκαλιά λάμψη της πόλης που έκρυβε τα αστέρια. Δεν θα την έλεγα όμορφη, την πολυκατοικία μου. Θα έλεγα όμως ότι εκεί έμαθα τι σημαίνει να ζεις κοντά σε ανθρώπους που δεν διάλεξες."
+      ],
+      "english": [
+        ["If you look at Athens from Lycabettus, you see a white sea of concrete stretching all the way to the mountains.", "Visitors often find it ugly, monotonous, chaotic.", "And yet this seemingly unplanned landscape is made up almost entirely of one single building, repeated tens of thousands of times with minor variations: the block of flats of five or six storeys, with pilotis, a flat roof and long balconies with awnings."],
+        ["The secret of its spread is called antiparochi.", "In the decades after the war, when hundreds of thousands of people were moving from the provinces to the capital, the owner of an old house could hand over his plot to a builder without paying anything.", "The builder put up the block of flats, kept most of the apartments to sell and gave the owner two or three.", "The system was simple, flexible and, for better or worse, it built an entire city with almost no state money."],
+        ["Its critics have many arguments: the lack of greenery, the narrow pavements, the noise, the fact that the old neoclassical houses were demolished one after another.", "Less often mentioned is something sociologists consider almost unique in Europe.", "The same building often housed, and still houses, people with very different incomes: the owner of the plot in the penthouse, a lawyer on the fourth floor, a migrant family in the semi-basement.", "Social class, one might say, was measured in floors rather than in neighbourhoods."],
+        ["I grew up in a block like that in Patisia, on the third floor, between a widow from Mytilene who gave me spoon sweets and a taxi driver who listened to opera with the windows open.", "In summer, when the heat made the flats unbearable, we would all go up to the roof with mattresses and sleep under the stars, or rather under the orange glow of the city that hid the stars.", "I wouldn't call it beautiful, my block of flats.", "But I would say that it was there I learned what it means to live close to people you didn't choose."]
+      ],
+      "vocab": [
+        { "word": "απλώνεται", "gloss": "stretches, spreads" },
+        { "word": "άναρχο", "gloss": "unplanned, haphazard" },
+        { "word": "εξ ολοκλήρου", "gloss": "entirely" },
+        { "word": "παραλλαγές", "gloss": "variations" },
+        { "word": "πιλοτή", "gloss": "pilotis (open ground floor on columns)" },
+        { "word": "τέντες", "gloss": "awnings" },
+        { "word": "εξάπλωσής", "gloss": "spread" },
+        { "word": "αντιπαροχή", "gloss": "land-for-flats exchange between owner and builder" },
+        { "word": "οικόπεδό", "gloss": "plot of land" },
+        { "word": "εργολάβο", "gloss": "builder, contractor" },
+        { "word": "ρετιρέ", "gloss": "penthouse (top, set-back floor)" },
+        { "word": "ημιυπόγειο", "gloss": "semi-basement" },
+        { "word": "αφόρητα", "gloss": "unbearable" }
+      ]
+    }
+  ]
+}
