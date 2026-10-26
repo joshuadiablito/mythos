@@ -1,0 +1,811 @@
+{
+  "language": "pt",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "pt-c1-01",
+      "title": "Os rios que voam",
+      "subtitle": "The rivers that fly",
+      "topic": "Science",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Quem está numa fila de banco em São Paulo, num dia abafado de janeiro, dificilmente pensa na Amazônia. E, no entanto, parte da chuva que desaba sobre a cidade no fim da tarde nasceu a milhares de quilômetros dali, nas folhas de árvores que nenhum paulistano jamais verá. Os cientistas chamam o fenômeno de rios voadores, e a expressão, que parece saída de um poema, descreve com bastante precisão o que acontece.",
+        "Uma árvore grande da floresta pode bombear centenas de litros de água do solo por dia e devolvê-los ao ar na forma de vapor. Multiplicado por bilhões de árvores, esse suspiro coletivo forma massas de umidade que os ventos empurram para o oeste até esbarrarem na Cordilheira dos Andes. Barradas pela muralha de montanhas, elas fazem uma curva e descem rumo ao Centro-Oeste e ao Sudeste, onde se transformam em chuva. Estima-se que o volume transportado diariamente rivalize com o do próprio rio Amazonas.",
+        "A descoberta tem implicações que vão muito além da curiosidade científica. Se a floresta for derrubada em escala suficiente, o mecanismo pode simplesmente parar de funcionar, e os pesquisadores temem que já estejamos perto desse ponto de não retorno. Os prejudicados não seriam apenas os povos da floresta, mas também o agronegócio do Mato Grosso, as hidrelétricas do Paraná e as torneiras de milhões de moradores das grandes cidades. Não é à toa que alguns climatologistas descrevem a Amazônia como a caixa-d'água do continente.",
+        "Há uma ironia cruel nessa história. Boa parte do desmatamento é feita para abrir pastos e plantações que dependem justamente da chuva produzida pela floresta derrubada. É como serrar o galho em que se está sentado, só que em escala continental e em câmera lenta. Talvez, da próxima vez que a garoa paulistana nos pegar desprevenidos, valha a pena lembrar de onde ela veio e de quanto custaria ficar sem ela."
+      ],
+      "english": [
+        [
+          "Anyone standing in a bank queue in São Paulo, on a muggy January day, is unlikely to think about the Amazon.",
+          "And yet part of the rain that pours down on the city at the end of the afternoon was born thousands of kilometres away, in the leaves of trees that no São Paulo resident will ever see.",
+          "Scientists call the phenomenon flying rivers, and the expression, which sounds as if it came out of a poem, describes quite accurately what happens."
+        ],
+        [
+          "A large tree in the forest can pump hundreds of litres of water from the soil a day and return them to the air as vapour.",
+          "Multiplied by billions of trees, this collective sigh forms masses of moisture that the winds push westward until they come up against the Andes.",
+          "Blocked by the wall of mountains, they turn and head down towards the Centre-West and the Southeast, where they turn into rain.",
+          "It is estimated that the volume carried daily rivals that of the Amazon river itself."
+        ],
+        [
+          "The discovery has implications that go far beyond scientific curiosity.",
+          "If the forest is cut down on a sufficient scale, the mechanism may simply stop working, and researchers fear we may already be close to that point of no return.",
+          "Those harmed would not only be the forest peoples, but also the agribusiness of Mato Grosso, the hydroelectric plants of Paraná and the taps of millions of residents of the big cities.",
+          "It's no accident that some climatologists describe the Amazon as the continent's water tank."
+        ],
+        [
+          "There is a cruel irony in this story.",
+          "A good part of the deforestation is done to open up pastures and plantations that depend precisely on the rain produced by the felled forest.",
+          "It's like sawing off the branch you're sitting on, only on a continental scale and in slow motion.",
+          "Perhaps, the next time the São Paulo drizzle catches us off guard, it's worth remembering where it came from and how much it would cost to be without it."
+        ]
+      ],
+      "vocab": [
+        { "word": "abafado", "gloss": "muggy, close" },
+        { "word": "desaba", "gloss": "pours down" },
+        { "word": "bombear", "gloss": "pump" },
+        { "word": "esbarrarem", "gloss": "come up against" },
+        { "word": "Barradas", "gloss": "blocked" },
+        { "word": "rivalize", "gloss": "rivals" },
+        { "word": "derrubada", "gloss": "cut down, felled" },
+        { "word": "ponto de não retorno", "gloss": "point of no return" },
+        { "word": "prejudicados", "gloss": "those harmed" },
+        { "word": "Não é à toa", "gloss": "it's no accident" },
+        { "word": "desmatamento", "gloss": "deforestation" },
+        { "word": "serrar o galho em que se está sentado", "gloss": "saw off the branch you're sitting on" },
+        { "word": "desprevenidos", "gloss": "off guard" }
+      ]
+    },
+    {
+      "id": "pt-c1-02",
+      "title": "O elevador de serviço",
+      "subtitle": "The service lift",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Todo prédio de classe média no Brasil tem dois elevadores, e quase todo mundo sabe, sem que ninguém precise explicar, qual deles deve usar. O social, com espelho e piso de mármore, é para moradores e visitas. O de serviço, mais estreito e quase sempre mal iluminado, é para empregadas, entregadores, porteiros e, em alguns casos, para cachorros. A arquitetura, como se vê, também fala.",
+        "Os defensores do sistema costumam argumentar que se trata de mera questão prática. Ninguém quer dividir o espaço com um botijão de gás ou uma geladeira em mudança, dizem. O argumento faria sentido se as regras fossem aplicadas a objetos, e não a pessoas. Ou se, ao menos, valessem para todos da mesma maneira. Mas a diarista que sobe com as mãos vazias continua sendo mandada para o elevador dos fundos, enquanto o morador que volta da feira carregado de sacolas entra tranquilamente pela frente.",
+        "Várias cidades, entre elas São Paulo e Rio, aprovaram leis que proíbem a discriminação no uso dos elevadores. As placas, obrigatórias, estão afixadas em muitos halls, geralmente perto da porta, onde ninguém as lê. Na prática, a lei pegou pela metade: o que antes era norma explícita virou um constrangimento silencioso, um olhar do porteiro, um pigarro do síndico. Mudar o regulamento é fácil; difícil é mudar o hábito de achar que cada um tem o seu lugar. Muitos dos porteiros que fiscalizam essa fronteira invisível, aliás, moram em bairros distantes e passam três horas por dia em ônibus lotados para cumprir a tarefa.",
+        "Não se trata de exigir que os elevadores de serviço sejam demolidos, já que de fato são úteis em dias de mudança. Trata-se de perguntar por que tantos de nós ainda nos sentimos incomodados ao dividir dois metros quadrados com alguém que lava a nossa roupa. Enquanto essa pergunta não for respondida com honestidade, o país continuará subindo e descendo em elevadores separados, cada um olhando para o próprio reflexo."
+      ],
+      "english": [
+        [
+          "Every middle-class building in Brazil has two lifts, and almost everyone knows, without anyone having to explain, which of them they should use.",
+          "The main one, with a mirror and marble floor, is for residents and guests.",
+          "The service one, narrower and almost always badly lit, is for maids, delivery workers, doormen and, in some cases, dogs.",
+          "Architecture, as you can see, also speaks."
+        ],
+        [
+          "Defenders of the system tend to argue that it's merely a practical matter.",
+          "Nobody wants to share the space with a gas canister or a fridge being moved, they say.",
+          "The argument would make sense if the rules were applied to objects, and not to people.",
+          "Or if, at least, they applied to everyone in the same way.",
+          "But the cleaner who goes up empty-handed is still sent to the back lift, while the resident coming back from the market laden with bags walks calmly in through the front."
+        ],
+        [
+          "Several cities, among them São Paulo and Rio, have passed laws prohibiting discrimination in the use of lifts.",
+          "The signs, which are mandatory, are posted in many lobbies, usually near the door, where nobody reads them.",
+          "In practice, the law has only half caught on: what used to be an explicit rule has become a silent embarrassment, a look from the doorman, a cough from the building manager.",
+          "Changing the regulations is easy; the hard thing is changing the habit of thinking that everyone has their place.",
+          "Many of the doormen who police this invisible border, incidentally, live in distant neighbourhoods and spend three hours a day on crowded buses to do the job."
+        ],
+        [
+          "It isn't a question of demanding that service lifts be demolished, since they are in fact useful on moving days.",
+          "It's a question of asking why so many of us still feel uncomfortable sharing two square metres with someone who washes our clothes.",
+          "Until that question is answered honestly, the country will go on riding up and down in separate lifts, each person looking at their own reflection."
+        ]
+      ],
+      "vocab": [
+        { "word": "social", "gloss": "main (lift), for residents" },
+        { "word": "piso de mármore", "gloss": "marble floor" },
+        { "word": "entregadores", "gloss": "delivery workers" },
+        { "word": "mera", "gloss": "mere" },
+        { "word": "botijão de gás", "gloss": "gas canister" },
+        { "word": "diarista", "gloss": "daily cleaner" },
+        { "word": "dos fundos", "gloss": "at the back" },
+        { "word": "carregado de sacolas", "gloss": "laden with bags" },
+        { "word": "afixadas", "gloss": "posted, displayed" },
+        { "word": "a lei pegou pela metade", "gloss": "the law has only half caught on" },
+        { "word": "constrangimento", "gloss": "embarrassment" },
+        { "word": "pigarro", "gloss": "clearing of the throat" },
+        { "word": "síndico", "gloss": "building manager" }
+      ]
+    },
+    {
+      "id": "pt-c1-03",
+      "title": "O último datilógrafo",
+      "subtitle": "The last typist",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Na calçada em frente ao fórum, no centro de São Paulo, o seu Valter instalou a sua mesinha dobrável pela primeira vez em 1979. Naquela época, eram mais de vinte datilógrafos lado a lado, batendo requerimentos, procurações e cartas de amor para quem não sabia escrever ou não confiava na própria letra. O barulho das máquinas, dizia ele, era como chuva em telhado de zinco.",
+        "Um a um, os colegas foram desaparecendo. Uns se aposentaram, outros morreram, e a maioria simplesmente deixou de aparecer quando os computadores tomaram conta dos cartórios. O seu Valter ficou. Quando lhe perguntavam por quê, ele dava de ombros e dizia que alguém precisava apagar a luz. Os clientes rarearam, mas nunca sumiram por completo: havia sempre um senhor com um formulário teimoso, uma moça que queria uma carta de demissão que parecesse séria, um advogado nostálgico.",
+        "Numa tarde de março, um rapaz de uns vinte anos se sentou no banquinho à frente dele e, constrangido, tirou do bolso um papel dobrado. Era uma carta para a avó, que vivia num asilo em Campinas e tinha perdido quase toda a visão. Ela não conseguia ler a tela do celular, explicou, mas ainda reconhecia, pelo tato, o relevo das letras batidas à máquina. O avô lhe escrevia assim, cinquenta anos antes.",
+        "O seu Valter leu o rascunho, corrigiu duas vírgulas e bateu a carta devagar, apertando as teclas com mais força do que o necessário. Não quis cobrar. Desde então, o rapaz volta todo primeiro sábado do mês, e o seu Valter, que tinha prometido a si mesmo se aposentar naquele ano, foi adiando a decisão. — Enquanto a dona Cotinha estiver lendo, eu fico — diz ele, e volta a bater, como quem chove num telhado que ninguém mais tem."
+      ],
+      "english": [
+        [
+          "On the pavement opposite the courthouse, in the centre of São Paulo, Seu Valter set up his little folding table for the first time in 1979.",
+          "At that time, there were more than twenty typists side by side, typing out petitions, powers of attorney and love letters for those who couldn't write or didn't trust their own handwriting.",
+          "The noise of the machines, he used to say, was like rain on a tin roof."
+        ],
+        [
+          "One by one, his colleagues disappeared.",
+          "Some retired, others died, and most simply stopped turning up when computers took over the notary offices.",
+          "Seu Valter stayed.",
+          "When asked why, he would shrug and say that somebody had to turn off the lights.",
+          "Customers became scarce but never vanished completely: there was always an old man with a stubborn form, a young woman who wanted a resignation letter that looked serious, a nostalgic lawyer."
+        ],
+        [
+          "One March afternoon, a young man of about twenty sat on the stool in front of him and, embarrassed, took a folded piece of paper out of his pocket.",
+          "It was a letter to his grandmother, who lived in a care home in Campinas and had lost almost all her sight.",
+          "She couldn't read a phone screen, he explained, but she could still recognise, by touch, the raised letters made by a typewriter.",
+          "His grandfather used to write to her like that, fifty years earlier."
+        ],
+        [
+          "Seu Valter read the draft, corrected two commas and typed the letter slowly, pressing the keys harder than necessary.",
+          "He wouldn't take payment.",
+          "Since then, the young man has come back every first Saturday of the month, and Seu Valter, who had promised himself he would retire that year, has kept putting off the decision.",
+          "\"As long as Dona Cotinha is reading, I'm staying,\" he says, and goes back to typing, like someone raining on a roof that nobody has any more."
+        ]
+      ],
+      "vocab": [
+        { "word": "fórum", "gloss": "courthouse" },
+        { "word": "mesinha dobrável", "gloss": "little folding table" },
+        { "word": "datilógrafos", "gloss": "typists" },
+        { "word": "procurações", "gloss": "powers of attorney" },
+        { "word": "telhado de zinco", "gloss": "tin roof" },
+        { "word": "tomaram conta", "gloss": "took over" },
+        { "word": "cartórios", "gloss": "notary offices" },
+        { "word": "dava de ombros", "gloss": "would shrug" },
+        { "word": "rarearam", "gloss": "became scarce" },
+        { "word": "asilo", "gloss": "care home" },
+        { "word": "pelo tato", "gloss": "by touch" },
+        { "word": "rascunho", "gloss": "draft" },
+        { "word": "foi adiando", "gloss": "kept putting off" }
+      ]
+    },
+    {
+      "id": "pt-c1-04",
+      "title": "Quando chove na caatinga",
+      "subtitle": "When it rains in the caatinga",
+      "topic": "Nature",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Durante oito, às vezes dez meses por ano, a caatinga parece morta. Os galhos ficam cinzentos e retorcidos, o chão racha em placas como cerâmica quebrada, e o viajante desavisado que atravessa o sertão da Paraíba tem a impressão de passar por um cemitério de árvores. Não é à toa que os portugueses, ao chegarem, chamaram a região de sertão, palavra que carregava a ideia de lugar remoto e inóspito.",
+        "Mas a aparência engana. A caatinga é o único bioma exclusivamente brasileiro e abriga milhares de espécies que desenvolveram estratégias engenhosas para driblar a seca. O umbuzeiro guarda água em raízes inchadas, verdadeiras batatas subterrâneas que os vaqueiros aprenderam a cavar em tempos de aperto. Certas sementes passam anos adormecidas no solo, à espera do sinal certo. E muitas árvores perdem as folhas de propósito, como quem fecha a casa para atravessar o inverno.",
+        "O sinal, quando vem, costuma vir de uma vez. Basta uma noite de chuva forte para que, em menos de uma semana, a paisagem inteira mude de cor. Os galhos que pareciam lenha se cobrem de um verde quase fosforescente, flores amarelas brotam no meio das pedras e os sapos, que ninguém via havia meses, começam um concerto ensurdecedor. Os moradores mais velhos dizem que é nessa hora que o sertanejo, até então calado, começa a falar alto.",
+        "Esse renascimento, porém, está cada vez mais ameaçado. O desmatamento para a produção de lenha e carvão já atingiu quase metade do bioma, e algumas áreas correm o risco de virar deserto de verdade. Projetos de agricultores locais, que combinam cisternas, criação de abelhas nativas e replantio de espécies resistentes, mostram que é possível conviver com o semiárido em vez de combatê-lo. A caatinga não precisa ser salva da seca, que conhece há milênios. Precisa ser salva de nós."
+      ],
+      "english": [
+        [
+          "For eight, sometimes ten months a year, the caatinga looks dead.",
+          "The branches turn grey and twisted, the ground cracks into slabs like broken pottery, and the unwary traveller crossing the sertão of Paraíba has the impression of passing through a graveyard of trees.",
+          "It's no accident that the Portuguese, when they arrived, called the region sertão, a word that carried the idea of a remote and inhospitable place."
+        ],
+        [
+          "But appearances are deceptive.",
+          "The caatinga is the only exclusively Brazilian biome and is home to thousands of species that have developed ingenious strategies to get round the drought.",
+          "The umbu tree stores water in swollen roots, veritable underground potatoes that cowherds learned to dig up in hard times.",
+          "Certain seeds spend years dormant in the soil, waiting for the right signal.",
+          "And many trees shed their leaves on purpose, like someone closing up the house to get through winter."
+        ],
+        [
+          "The signal, when it comes, usually comes all at once.",
+          "One night of heavy rain is enough for the whole landscape to change colour in less than a week.",
+          "The branches that looked like firewood cover themselves in an almost fluorescent green, yellow flowers spring up among the stones and the frogs, which nobody had seen for months, begin a deafening concert.",
+          "The older residents say that it's at this moment that the people of the sertão, until then silent, start talking loudly."
+        ],
+        [
+          "This rebirth, however, is increasingly under threat.",
+          "Deforestation for firewood and charcoal production has already affected almost half of the biome, and some areas run the risk of becoming real desert.",
+          "Projects by local farmers, which combine cisterns, the rearing of native bees and the replanting of hardy species, show that it's possible to live alongside the semi-arid land instead of fighting it.",
+          "The caatinga doesn't need to be saved from drought, which it has known for millennia.",
+          "It needs to be saved from us."
+        ]
+      ],
+      "vocab": [
+        { "word": "retorcidos", "gloss": "twisted" },
+        { "word": "racha", "gloss": "cracks" },
+        { "word": "desavisado", "gloss": "unwary" },
+        { "word": "inóspito", "gloss": "inhospitable" },
+        { "word": "a aparência engana", "gloss": "appearances are deceptive" },
+        { "word": "driblar a seca", "gloss": "get round the drought" },
+        { "word": "em tempos de aperto", "gloss": "in hard times" },
+        { "word": "adormecidas", "gloss": "dormant" },
+        { "word": "de uma vez", "gloss": "all at once" },
+        { "word": "lenha", "gloss": "firewood" },
+        { "word": "brotam", "gloss": "spring up, sprout" },
+        { "word": "ensurdecedor", "gloss": "deafening" },
+        { "word": "conviver com", "gloss": "live alongside" }
+      ]
+    },
+    {
+      "id": "pt-c1-05",
+      "title": "A receita que ficou",
+      "subtitle": "The recipe that stayed",
+      "topic": "Memory",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "A primeira coisa que a dona Celeste esqueceu foi o nome do bairro onde morava havia quarenta anos, no Menino Deus, em Porto Alegre. Depois vieram os aniversários dos netos, o caminho da padaria, o rosto do falecido marido nas fotografias. A filha, a Teresa, foi anotando as perdas num caderno, como quem faz o inventário de uma casa que está sendo esvaziada aos poucos.",
+        "O médico explicou que o Alzheimer costuma apagar primeiro as lembranças recentes e poupar, por mais tempo, aquilo que foi gravado na infância ou repetido à exaustão. A Teresa não deu muita atenção ao comentário. Estava ocupada demais aprendendo a lidar com a mãe que a chamava de senhora e perguntava, educadamente, se ela trabalhava ali.",
+        "Num domingo chuvoso, sem saber o que fazer para distraí-la, a Teresa espalhou na mesa da cozinha farinha, ovos, banha e um pacote de fermento. A dona Celeste olhou para os ingredientes durante um longo minuto. Então, sem dizer palavra, arregaçou as mangas, pediu uma tigela de louça, e não de plástico, e começou a sovar a massa da cuca alemã que a mãe dela fazia em Santa Cruz do Sul. Media tudo a olho, corrigia a quantidade de açúcar com uma careta e cantarolava, em alemão, uma canção de que a filha nunca tinha ouvido falar.",
+        "A cuca ficou perfeita. Pela primeira vez em meses, a dona Celeste pareceu inteira, dona de si, mandando na cozinha como antes. Desde então, todo domingo é dia de cuca, e a Teresa, de caderno na mão, anota cada gesto da mãe, cada pitada, cada verso da canção. O caderno das perdas virou um livro de receitas. Ela sabe que um dia a mãe vai esquecer até isso, mas, quando esse dia chegar, a receita vai estar a salvo, escrita com a letra das duas."
+      ],
+      "english": [
+        [
+          "The first thing Dona Celeste forgot was the name of the neighbourhood where she had lived for forty years, Menino Deus, in Porto Alegre.",
+          "Then came the grandchildren's birthdays, the way to the bakery, her late husband's face in the photographs.",
+          "Her daughter, Teresa, kept noting the losses in a notebook, like someone taking an inventory of a house that is being emptied little by little."
+        ],
+        [
+          "The doctor explained that Alzheimer's usually erases recent memories first and spares, for longer, what was recorded in childhood or repeated over and over.",
+          "Teresa didn't pay much attention to the remark.",
+          "She was too busy learning to deal with a mother who addressed her formally and asked, politely, whether she worked there."
+        ],
+        [
+          "One rainy Sunday, not knowing what to do to keep her occupied, Teresa spread flour, eggs, lard and a packet of yeast on the kitchen table.",
+          "Dona Celeste looked at the ingredients for a long minute.",
+          "Then, without saying a word, she rolled up her sleeves, asked for a china bowl, not a plastic one, and started kneading the dough for the German crumb cake her own mother used to make in Santa Cruz do Sul.",
+          "She measured everything by eye, corrected the amount of sugar with a grimace and hummed, in German, a song the daughter had never heard of."
+        ],
+        [
+          "The cake turned out perfect.",
+          "For the first time in months, Dona Celeste seemed whole, in command of herself, running the kitchen as before.",
+          "Since then, every Sunday has been cake day, and Teresa, notebook in hand, writes down every gesture of her mother's, every pinch, every line of the song.",
+          "The notebook of losses has become a recipe book.",
+          "She knows that one day her mother will forget even this, but when that day comes the recipe will be safe, written in both their handwriting."
+        ]
+      ],
+      "vocab": [
+        { "word": "falecido", "gloss": "late (deceased)" },
+        { "word": "inventário", "gloss": "inventory" },
+        { "word": "poupar", "gloss": "spare" },
+        { "word": "à exaustão", "gloss": "over and over, to exhaustion" },
+        { "word": "lidar com", "gloss": "deal with" },
+        { "word": "banha", "gloss": "lard" },
+        { "word": "arregaçou as mangas", "gloss": "rolled up (her) sleeves" },
+        { "word": "sovar", "gloss": "knead" },
+        { "word": "a olho", "gloss": "by eye" },
+        { "word": "careta", "gloss": "grimace" },
+        { "word": "cantarolava", "gloss": "hummed" },
+        { "word": "dona de si", "gloss": "in command of herself" },
+        { "word": "a salvo", "gloss": "safe" }
+      ]
+    },
+    {
+      "id": "pt-c1-06",
+      "title": "Elogio do “tipo assim”",
+      "subtitle": "In praise of \"tipo assim\"",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Poucas expressões irritam tanto os professores de português quanto o “tipo assim”. Ela se infiltra nas frases dos adolescentes como água em parede velha: “Eu tava, tipo assim, super cansada”, “Foi tipo assim um negócio estranho”. Para os puristas, é a prova definitiva de que a língua está indo ladeira abaixo, de que os jovens não sabem mais terminar um pensamento.",
+        "Gostaria de fazer uma defesa, ainda que modesta, desse pequeno vício. Os linguistas chamam palavras assim de marcadores discursivos, e eles existem em todas as línguas e em todas as épocas. Os nossos avós diziam “pois é”, “sabe como é” e “olha”, e ninguém acusou a geração deles de destruir o idioma. Os portugueses de Lisboa dizem “pronto”, os americanos dizem “like”, e as duas palavras despertam, nos seus respectivos países, exatamente a mesma irritação. Esses marcadores não carregam significado no sentido tradicional, mas cumprem funções importantes: dão tempo para quem fala organizar as ideias, suavizam afirmações e sinalizam ao ouvinte que vem aí uma aproximação, e não uma descrição exata.",
+        "Repare como o “tipo assim” é, no fundo, uma expressão de honestidade. Quem diz que estava “tipo assim, desesperado” está admitindo que a palavra “desesperado” não traduz perfeitamente o que sentiu, que é apenas a mais próxima disponível. Há nisso uma consciência quase filosófica dos limites da linguagem, que muitos discursos solenes, cheios de certezas, estão longe de ter.",
+        "Isso não quer dizer, evidentemente, que o “tipo assim” caiba em qualquer lugar. Numa redação de vestibular ou numa entrevista de emprego, ele soa tão deslocado quanto chinelo em casamento. Saber trocar de registro conforme a situação é, aliás, uma das marcas de quem domina de fato uma língua. O problema nunca foi o marcador em si, mas a incapacidade de abrir mão dele quando necessário. Dito isso, confesso que escrevi este texto, tipo assim, em uma tarde."
+      ],
+      "english": [
+        [
+          "Few expressions irritate Portuguese teachers as much as \"tipo assim\" (\"like, kind of\").",
+          "It seeps into teenagers' sentences like water into an old wall: \"I was, like, super tired\", \"It was, like, a weird thing\".",
+          "For the purists, it is the definitive proof that the language is going downhill, that young people no longer know how to finish a thought."
+        ],
+        [
+          "I would like to make a defence, albeit a modest one, of this little habit.",
+          "Linguists call words like this discourse markers, and they exist in every language and in every era.",
+          "Our grandparents said \"pois é\", \"sabe como é\" and \"olha\", and nobody accused their generation of destroying the language.",
+          "The Portuguese in Lisbon say \"pronto\", Americans say \"like\", and the two words provoke, in their respective countries, exactly the same irritation.",
+          "These markers don't carry meaning in the traditional sense, but they perform important functions: they give the speaker time to organise their ideas, soften statements and signal to the listener that an approximation is coming, not an exact description."
+        ],
+        [
+          "Notice how \"tipo assim\" is, at heart, an expression of honesty.",
+          "Someone who says they were \"like, desperate\" is admitting that the word \"desperate\" doesn't perfectly convey what they felt, that it's only the closest one available.",
+          "There is in this an almost philosophical awareness of the limits of language, which many solemn speeches, full of certainties, are far from having."
+        ],
+        [
+          "That doesn't mean, of course, that \"tipo assim\" fits everywhere.",
+          "In a university entrance essay or a job interview, it sounds as out of place as flip-flops at a wedding.",
+          "Knowing how to switch register according to the situation is, in fact, one of the marks of someone who truly masters a language.",
+          "The problem was never the marker itself, but the inability to give it up when necessary.",
+          "That said, I confess I wrote this piece in, like, one afternoon."
+        ]
+      ],
+      "vocab": [
+        { "word": "se infiltra", "gloss": "seeps in" },
+        { "word": "ladeira abaixo", "gloss": "downhill" },
+        { "word": "ainda que", "gloss": "albeit, even if" },
+        { "word": "vício", "gloss": "bad habit, verbal tic" },
+        { "word": "marcadores discursivos", "gloss": "discourse markers" },
+        { "word": "cumprem funções", "gloss": "perform functions" },
+        { "word": "suavizam", "gloss": "soften" },
+        { "word": "Repare", "gloss": "notice" },
+        { "word": "solenes", "gloss": "solemn" },
+        { "word": "redação de vestibular", "gloss": "university entrance essay" },
+        { "word": "deslocado", "gloss": "out of place" },
+        { "word": "trocar de registro", "gloss": "switch register" },
+        { "word": "abrir mão", "gloss": "give up" }
+      ]
+    },
+    {
+      "id": "pt-c1-07",
+      "title": "Cinco estrelas",
+      "subtitle": "Five stars",
+      "topic": "Technology",
+      "symbol": "cpu",
+      "paragraphs": [
+        "O Wellington fazia entregas de bicicleta por aplicativo em São Paulo havia três anos e tinha uma obsessão: a sua nota. Quatro vírgula noventa e oito. Bastava cair para quatro vírgula oito, diziam os colegas no ponto de encontro da avenida Paulista, para que o algoritmo começasse a mandar as piores corridas, as mais longas e mais mal pagas. Ninguém sabia se aquilo era verdade, mas ninguém se arriscava a descobrir.",
+        "Por isso, ele pedalava como se a vida dependesse disso, subia escadas de prédio sem elevador com a mochila térmica nas costas e sorria para todos os clientes, mesmo para os que não abriam a porta além de um palmo. Num sábado à noite, debaixo de um temporal, ele levou uma pizza a um apartamento nos Jardins. A cliente, uma senhora de roupão, demorou quinze minutos para descer, abriu a caixa na frente dele e reclamou que a pizza estava fria. Ele pediu desculpas, embora a culpa não fosse dele.",
+        "A nota caiu para quatro vírgula noventa e um naquela mesma noite. O Wellington passou a madrugada sem dormir, fazendo contas no celular, tentando adivinhar quantas avaliações perfeitas seriam necessárias para compensar uma única estrela. Quando escreveu para o suporte do aplicativo, recebeu uma resposta automática agradecendo pelo contato e lembrando que o algoritmo era imparcial.",
+        "No dia seguinte, ele fez algo que nunca tinha feito. Abriu a página da cliente no aplicativo e, no campo destinado aos entregadores, deu uma estrela a ela, com o comentário: “Demorou para descer. Pizza esfriou esperando.” Sabia perfeitamente que ninguém leria aquilo e que a avaliação não teria efeito nenhum. Mesmo assim, guardou um print da tela no celular e, quando a nota o tira do sério, abre a imagem e ri sozinho, parado no semáforo, como quem tem um segredo."
+      ],
+      "english": [
+        [
+          "Wellington had been doing app deliveries by bicycle in São Paulo for three years and had an obsession: his rating.",
+          "Four point nine eight.",
+          "All it took was for it to drop to four point eight, said his colleagues at the meeting point on Avenida Paulista, for the algorithm to start sending the worst jobs, the longest and the worst paid.",
+          "Nobody knew whether it was true, but nobody dared find out."
+        ],
+        [
+          "So he pedalled as if his life depended on it, climbed the stairs of buildings without lifts with the thermal backpack on his back and smiled at every customer, even those who wouldn't open the door more than a few inches.",
+          "On a Saturday night, in a downpour, he took a pizza to a flat in Jardins.",
+          "The customer, a lady in a dressing gown, took fifteen minutes to come down, opened the box in front of him and complained that the pizza was cold.",
+          "He apologised, even though it wasn't his fault."
+        ],
+        [
+          "His rating dropped to four point nine one that same night.",
+          "Wellington spent the early hours without sleep, doing sums on his phone, trying to work out how many perfect reviews it would take to make up for a single star.",
+          "When he wrote to the app's support team, he received an automatic reply thanking him for getting in touch and reminding him that the algorithm was impartial."
+        ],
+        [
+          "The next day, he did something he had never done before.",
+          "He opened the customer's page in the app and, in the field reserved for delivery workers, gave her one star, with the comment: \"Took ages to come down. Pizza got cold waiting.\"",
+          "He knew perfectly well that nobody would read it and that the review would have no effect at all.",
+          "Even so, he kept a screenshot on his phone and, when his rating drives him mad, he opens the image and laughs to himself, stopped at the lights, like someone with a secret."
+        ]
+      ],
+      "vocab": [
+        { "word": "fazia entregas", "gloss": "did deliveries" },
+        { "word": "nota", "gloss": "rating, score" },
+        { "word": "corridas", "gloss": "jobs, rides" },
+        { "word": "se arriscava", "gloss": "dared, took the risk" },
+        { "word": "um palmo", "gloss": "a hand's breadth" },
+        { "word": "roupão", "gloss": "dressing gown" },
+        { "word": "a culpa não fosse dele", "gloss": "it wasn't his fault" },
+        { "word": "madrugada", "gloss": "early hours" },
+        { "word": "compensar", "gloss": "make up for" },
+        { "word": "imparcial", "gloss": "impartial" },
+        { "word": "destinado", "gloss": "reserved, intended" },
+        { "word": "print da tela", "gloss": "screenshot" },
+        { "word": "o tira do sério", "gloss": "drives him mad" }
+      ]
+    },
+    {
+      "id": "pt-c1-08",
+      "title": "Chá na Liberdade",
+      "subtitle": "Tea in Liberdade",
+      "topic": "History",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "Aos cento e dois anos, a dona Haru Takeda ainda prepara o chá todas as tardes, às quatro em ponto, no sobrado da rua Galvão Bueno onde mora desde 1952. O bairro da Liberdade, em São Paulo, mudou tanto nesse tempo que ela às vezes diz, sem ironia, que é a única coisa ali que continua igual. Os luminosos vermelhos, as lojas de mangá e as filas de turistas para comer lámen chegaram depois dela.",
+        "Ela nasceu num cafezal no interior do estado, filha de imigrantes que tinham atravessado o oceano num navio apinhado, com a promessa de enriquecer em poucos anos e voltar ao Japão. A promessa, como tantas outras feitas aos imigrantes, não se cumpriu. O trabalho era duro, o pagamento era irrisório e as dívidas com o patrão nunca terminavam. — Meu pai guardava a mala pronta debaixo da cama — conta ela. — Morreu com ela ali, ainda esperando a hora de voltar.",
+        "Durante a Segunda Guerra, quando o Brasil rompeu com o Japão, a família viveu anos de medo. Era proibido falar japonês em público, e os livros e as cartas da família foram enterrados no quintal para não serem confiscados. A dona Haru, então com vinte anos, aprendeu a baixar a voz e a responder em português, mesmo quando a pergunta vinha em japonês. Até hoje, diz ela, sonha em português e reza em japonês.",
+        "Quando lhe pergunto se ela se sente mais brasileira ou mais japonesa, a dona Haru demora a responder e serve mais chá, como quem ganha tempo. Depois aponta para a xícara, de porcelana japonesa, e para o pão de queijo no prato ao lado. — Por que eu teria que escolher? A pergunta fica no ar, e ela não parece esperar resposta. Às cinco, pontualmente, ela me acompanha até a porta."
+      ],
+      "english": [
+        [
+          "At a hundred and two, Dona Haru Takeda still makes tea every afternoon, at four on the dot, in the two-storey house on Rua Galvão Bueno where she has lived since 1952.",
+          "The Liberdade neighbourhood, in São Paulo, has changed so much in that time that she sometimes says, without irony, that she is the only thing there that has stayed the same.",
+          "The red lanterns, the manga shops and the tourist queues for ramen all arrived after her."
+        ],
+        [
+          "She was born on a coffee plantation in the interior of the state, the daughter of immigrants who had crossed the ocean on a crowded ship, with the promise of getting rich in a few years and returning to Japan.",
+          "The promise, like so many others made to immigrants, was not kept.",
+          "The work was hard, the pay was derisory and the debts to the landowner never ended.",
+          "\"My father kept his suitcase packed under the bed,\" she says.",
+          "\"He died with it there, still waiting for the time to go back.\""
+        ],
+        [
+          "During the Second World War, when Brazil broke with Japan, the family lived through years of fear.",
+          "Speaking Japanese in public was forbidden, and the family's books and letters were buried in the garden so they wouldn't be confiscated.",
+          "Dona Haru, then twenty, learned to lower her voice and answer in Portuguese, even when the question came in Japanese.",
+          "To this day, she says, she dreams in Portuguese and prays in Japanese."
+        ],
+        [
+          "When I ask her whether she feels more Brazilian or more Japanese, Dona Haru takes a while to answer and pours more tea, like someone playing for time.",
+          "Then she points at the cup, made of Japanese porcelain, and at the cheese bread on the plate next to it.",
+          "\"Why should I have to choose?\"",
+          "The question hangs in the air, and she doesn't seem to expect an answer.",
+          "At five, punctually, she sees me to the door."
+        ]
+      ],
+      "vocab": [
+        { "word": "sobrado", "gloss": "two-storey house" },
+        { "word": "luminosos", "gloss": "illuminated signs, lanterns" },
+        { "word": "cafezal", "gloss": "coffee plantation" },
+        { "word": "apinhado", "gloss": "crowded, packed" },
+        { "word": "não se cumpriu", "gloss": "was not kept, fulfilled" },
+        { "word": "irrisório", "gloss": "derisory" },
+        { "word": "patrão", "gloss": "boss, landowner" },
+        { "word": "rompeu com", "gloss": "broke off relations with" },
+        { "word": "confiscados", "gloss": "confiscated" },
+        { "word": "baixar a voz", "gloss": "lower (her) voice" },
+        { "word": "ganha tempo", "gloss": "plays for time" },
+        { "word": "fica no ar", "gloss": "hangs in the air" }
+      ]
+    },
+    {
+      "id": "pt-c1-09",
+      "title": "A morte do locutor",
+      "subtitle": "The death of the radio presenter",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "Durante trinta anos, a voz grave do Zé Nilton acordou a cidade de Sousa, no sertão da Paraíba, às cinco da manhã. O programa dele na rádio comunitária misturava notícias, previsão do tempo, recados de amor e anúncios de bodegas, e não havia casa, oficina ou feira em que não estivesse ligado. Quando alguém dizia que tinha ouvido algo “no rádio”, todos sabiam que era no rádio do Zé Nilton.",
+        "Numa segunda-feira, a notícia se espalhou pelo grupo de mensagens da cidade antes do café da manhã: o Zé Nilton tinha morrido de enfarte durante a noite. Ninguém sabia quem tinha mandado a primeira mensagem, mas em uma hora ela já tinha sido compartilhada centenas de vezes, acompanhada de fotos antigas, orações e emojis de vela. A igreja preparou a missa, a prefeitura decretou luto oficial e uma floricultura vendeu todas as coroas do estoque.",
+        "O único detalhe é que o Zé Nilton estava vivíssimo, pescando num açude a quarenta quilômetros dali, sem sinal de celular. Tinha pedido a um sobrinho que o substituísse no programa, e o rapaz, nervoso, esqueceu de dizer no ar que o titular estava de folga. O silêncio do locutor, somado a uma vizinha que viu uma ambulância na rua dele, foi o suficiente para matá-lo.",
+        "Quando voltou, à tarde, com um balde de tilápias e a pele queimada de sol, o Zé Nilton encontrou a porta de casa coberta de flores. No dia seguinte, abriu o programa com uma frase que a cidade ainda repete: “Bom dia, Sousa. Fala com vocês um defunto bem-disposto.” Depois passou duas horas lendo, um por um, os elogios que tinham sido escritos para ele, e confessou ao vivo que era a primeira vez que alguém ouvia o próprio velório e achava que tinha sido bom. Desde então, toda notícia que chega pelo celular é recebida em Sousa com a mesma pergunta: “Já deu no rádio?”"
+      ],
+      "english": [
+        [
+          "For thirty years, Zé Nilton's deep voice woke up the town of Sousa, in the sertão of Paraíba, at five in the morning.",
+          "His programme on the community radio mixed news, weather forecasts, love messages and adverts for local shops, and there was no house, workshop or market where it wasn't on.",
+          "When someone said they had heard something \"on the radio\", everyone knew it was on Zé Nilton's radio."
+        ],
+        [
+          "On a Monday, the news spread through the town's messaging group before breakfast: Zé Nilton had died of a heart attack during the night.",
+          "Nobody knew who had sent the first message, but within an hour it had been shared hundreds of times, along with old photos, prayers and candle emojis.",
+          "The church prepared the mass, the town council declared official mourning and a florist sold every wreath in stock."
+        ],
+        [
+          "The only detail is that Zé Nilton was very much alive, fishing at a reservoir forty kilometres away, with no phone signal.",
+          "He had asked a nephew to stand in for him on the show, and the young man, nervous, forgot to say on air that the regular presenter was on a day off.",
+          "The presenter's silence, together with a neighbour who saw an ambulance in his street, was enough to kill him off."
+        ],
+        [
+          "When he came back in the afternoon, with a bucket of tilapia and sunburnt skin, Zé Nilton found his front door covered in flowers.",
+          "The next day, he opened the show with a sentence the town still repeats: \"Good morning, Sousa. This is a cheerful corpse speaking.\"",
+          "Then he spent two hours reading, one by one, the tributes that had been written for him, and confessed live on air that it was the first time anyone had heard their own funeral and thought it had gone well.",
+          "Since then, every piece of news that arrives by phone is greeted in Sousa with the same question: \"Has it been on the radio yet?\""
+        ]
+      ],
+      "vocab": [
+        { "word": "voz grave", "gloss": "deep voice" },
+        { "word": "recados", "gloss": "messages" },
+        { "word": "bodegas", "gloss": "small local shops" },
+        { "word": "se espalhou", "gloss": "spread" },
+        { "word": "enfarte", "gloss": "heart attack" },
+        { "word": "decretou luto", "gloss": "declared mourning" },
+        { "word": "coroas", "gloss": "wreaths" },
+        { "word": "açude", "gloss": "reservoir" },
+        { "word": "titular", "gloss": "regular holder (of a post)" },
+        { "word": "de folga", "gloss": "on a day off" },
+        { "word": "defunto", "gloss": "dead man, corpse" },
+        { "word": "bem-disposto", "gloss": "cheerful, in good shape" },
+        { "word": "velório", "gloss": "wake, funeral" }
+      ]
+    },
+    {
+      "id": "pt-c1-10",
+      "title": "A corda",
+      "subtitle": "The rope",
+      "topic": "Celebrations",
+      "symbol": "sparkles",
+      "paragraphs": [
+        "No segundo domingo de outubro, Belém amanhece mais cedo. Antes do sol, as ruas do centro já estão tomadas por uma multidão que pode passar de dois milhões de pessoas, vestidas de branco e amarelo, à espera da imagem de Nossa Senhora de Nazaré. O Círio, como se chama a procissão, é ao mesmo tempo festa religiosa, reencontro de famílias e, para muitos paraenses, uma espécie de segundo Natal.",
+        "Nenhum elemento do Círio é tão disputado quanto a corda. São centenas de metros de corda grossa, presa à berlinda que carrega a santa, e milhares de promesseiros se espremem para segurá-la durante as horas que dura o percurso. Muitos caminham descalços, sob um calor de mais de trinta graus, pagando promessas feitas em momentos de desespero: uma cura, um emprego, um filho que voltou para casa. Há quem desmaie, há quem chore, e há quem saia da corda com as mãos em carne viva e um sorriso no rosto.",
+        "A Socorro, enfermeira de cinquenta e seis anos, segura a corda desde 1994. Ela conta que fez a promessa quando o filho, ainda bebê, foi internado com uma pneumonia grave. O menino sobreviveu, cresceu e hoje é médico, mas ela nunca deixou de ir. — No começo era dívida — diz. — Agora é saudade de mim mesma, daquela mãe desesperada que eu fui. Neste ano, pela primeira vez, o filho vai segurar a corda ao lado dela.",
+        "Depois da procissão, a cidade se recolhe para o almoço do Círio, que tem cardápio quase obrigatório: pato no tucupi e maniçoba, um prato feito com folhas de mandioca que precisam ser cozidas durante sete dias. Quem não é de Belém ganha um prato e um lugar à mesa de qualquer família, e não precisa ser devoto para isso. Para quem vê de fora, é difícil separar a fé da festa. Para quem é de dentro, talvez essa separação nunca tenha existido."
+      ],
+      "english": [
+        [
+          "On the second Sunday of October, Belém wakes up earlier.",
+          "Before sunrise, the streets of the centre are already filled by a crowd that can exceed two million people, dressed in white and yellow, waiting for the image of Our Lady of Nazaré.",
+          "The Círio, as the procession is called, is at once a religious festival, a family reunion and, for many people from Pará, a sort of second Christmas."
+        ],
+        [
+          "No element of the Círio is as fought over as the rope.",
+          "It is hundreds of metres of thick rope, attached to the carriage that bears the saint, and thousands of pilgrims squeeze together to hold it during the hours the route takes.",
+          "Many walk barefoot, in heat of over thirty degrees, fulfilling vows made in moments of desperation: a cure, a job, a son who came back home.",
+          "Some faint, some cry, and some leave the rope with their hands rubbed raw and a smile on their face."
+        ],
+        [
+          "Socorro, a fifty-six-year-old nurse, has held the rope since 1994.",
+          "She says she made the vow when her son, still a baby, was hospitalised with severe pneumonia.",
+          "The boy survived, grew up and is now a doctor, but she has never stopped going.",
+          "\"At first it was a debt,\" she says.",
+          "\"Now it's a longing for my old self, for that desperate mother I once was.\"",
+          "This year, for the first time, her son is going to hold the rope beside her."
+        ],
+        [
+          "After the procession, the city withdraws for the Círio lunch, which has an almost obligatory menu: duck in tucupi and maniçoba, a dish made with cassava leaves that have to be cooked for seven days.",
+          "Whoever isn't from Belém is given a plate and a place at any family's table, and doesn't need to be a believer for that.",
+          "For an outsider, it's hard to separate the faith from the festivities.",
+          "For an insider, perhaps that separation has never existed."
+        ]
+      ],
+      "vocab": [
+        { "word": "amanhece", "gloss": "wakes up, dawns" },
+        { "word": "tomadas", "gloss": "filled, taken over" },
+        { "word": "reencontro", "gloss": "reunion" },
+        { "word": "disputado", "gloss": "fought over" },
+        { "word": "berlinda", "gloss": "carriage (bearing the saint)" },
+        { "word": "promesseiros", "gloss": "pilgrims fulfilling a vow" },
+        { "word": "se espremem", "gloss": "squeeze together" },
+        { "word": "descalços", "gloss": "barefoot" },
+        { "word": "pagando promessas", "gloss": "fulfilling vows" },
+        { "word": "em carne viva", "gloss": "rubbed raw" },
+        { "word": "internado", "gloss": "hospitalised" },
+        { "word": "se recolhe", "gloss": "withdraws, goes indoors" },
+        { "word": "devoto", "gloss": "believer, devout" }
+      ]
+    },
+    {
+      "id": "pt-c1-11",
+      "title": "Elogio da rede",
+      "subtitle": "In praise of the hammock",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Quem viaja de barco pelos rios da Amazônia logo descobre que a passagem mais barata não inclui cama, cadeira nem cabine, apenas dois ganchos no teto do convés. O resto é por conta do passageiro, que deve trazer a própria rede. Em poucas horas, o convés vira uma colmeia colorida de redes penduradas a centímetros umas das outras, onde centenas de desconhecidos dormem, conversam, comem e se balançam juntos durante dias.",
+        "A rede é uma invenção indígena, anterior à chegada dos europeus, que a acharam ao mesmo tempo engenhosa e preguiçosa. Esse duplo julgamento a acompanha até hoje. No Sudeste, ela costuma ser associada ao ócio, às férias, ao homem que não quer saber de trabalho. No Norte e no Nordeste, porém, a rede é objeto cotidiano, quase um órgão a mais: é nela que se nasce, que se amamenta, que se faz a sesta e, em muitos lugares do sertão, que se é enterrado.",
+        "Há, nesse objeto simples, uma pequena filosofia. A cama é estática e presume um chão firme, um quarto, uma propriedade. A rede, ao contrário, pode ser amarrada em qualquer lugar onde haja dois pontos de apoio, e cabe dobrada numa sacola. É a mobília de quem está sempre de passagem, de quem aprendeu que o mundo não é feito de paredes, mas de distâncias entre árvores. E o seu balanço, que a ciência já associou a um sono mais profundo, lembra que o descanso não precisa ser imobilidade.",
+        "Não pretendo, evidentemente, propor que o país troque as camas por redes. Mas talvez valesse a pena aprender alguma coisa com aquele convés lotado do rio Solimões, onde ninguém tem espaço próprio e, mesmo assim, todo mundo dá um jeito. Quando a rede do vizinho bate na nossa, a regra tácita é não reclamar, apenas deixar que as duas balancem no mesmo ritmo. Há sociedades inteiras que ainda não aprenderam isso."
+      ],
+      "english": [
+        [
+          "Anyone who travels by boat on the rivers of the Amazon soon discovers that the cheapest ticket includes no bed, chair or cabin, just two hooks in the deck ceiling.",
+          "The rest is up to the passenger, who must bring their own hammock.",
+          "In a few hours, the deck becomes a colourful beehive of hammocks hung centimetres apart, where hundreds of strangers sleep, talk, eat and sway together for days."
+        ],
+        [
+          "The hammock is an Indigenous invention, predating the arrival of the Europeans, who found it at once ingenious and lazy.",
+          "That double judgement has followed it to this day.",
+          "In the Southeast, it tends to be associated with idleness, with holidays, with the man who wants nothing to do with work.",
+          "In the North and Northeast, however, the hammock is an everyday object, almost an extra organ: it's in it that you are born, breastfed, take your siesta and, in many places in the sertão, are buried."
+        ],
+        [
+          "There is, in this simple object, a small philosophy.",
+          "The bed is static and presupposes firm ground, a room, a property.",
+          "The hammock, on the other hand, can be tied anywhere there are two points of support, and fits folded into a bag.",
+          "It's the furniture of those always passing through, of those who have learned that the world is made not of walls but of distances between trees.",
+          "And its swaying, which science has already linked to deeper sleep, reminds us that rest need not mean immobility."
+        ],
+        [
+          "I don't intend, of course, to propose that the country swap its beds for hammocks.",
+          "But perhaps it would be worth learning something from that crowded deck on the Solimões river, where nobody has their own space and, even so, everybody manages.",
+          "When the neighbour's hammock bumps into ours, the unspoken rule is not to complain, just to let the two swing in the same rhythm.",
+          "There are whole societies that still haven't learned this."
+        ]
+      ],
+      "vocab": [
+        { "word": "ganchos", "gloss": "hooks" },
+        { "word": "convés", "gloss": "deck" },
+        { "word": "por conta do", "gloss": "up to, at the expense of" },
+        { "word": "colmeia", "gloss": "beehive" },
+        { "word": "anterior à", "gloss": "predating" },
+        { "word": "ócio", "gloss": "idleness" },
+        { "word": "cotidiano", "gloss": "everyday" },
+        { "word": "se amamenta", "gloss": "is breastfed" },
+        { "word": "presume", "gloss": "presupposes" },
+        { "word": "pontos de apoio", "gloss": "points of support" },
+        { "word": "de passagem", "gloss": "passing through" },
+        { "word": "dá um jeito", "gloss": "manages, finds a way" },
+        { "word": "tácita", "gloss": "tacit, unspoken" }
+      ]
+    },
+    {
+      "id": "pt-c1-12",
+      "title": "O baile de quinta",
+      "subtitle": "The Thursday dance",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "O baile da terceira idade do clube, em Copacabana, começa às três da tarde de quinta-feira, e às duas e meia a dona Lúcia já está sentada na terceira mesa à esquerda, de batom vermelho e sapato de salto baixo. Viúva há doze anos, ela diz que não vai ao baile para arranjar namorado, e sim para não enferrujar. Suas amigas, que a conhecem bem, fingem acreditar.",
+        "O seu Ernesto apareceu num dia de chuva, em agosto, com um terno grande demais e a expressão de quem tinha sido arrastado até ali pela filha. Passou a primeira hora encostado no balcão, segurando um guaraná sem tomar. Quando a orquestra começou um bolero, ele atravessou o salão, parou diante da dona Lúcia e, em vez de convidá-la para dançar, perguntou se ela sabia onde ficava a saída. Ela riu tanto que ele acabou ficando. Mais tarde, ele confessaria que a pergunta tinha sido a única coisa que lhe ocorreu, porque estava nervoso demais para lembrar o nome de qualquer dança.",
+        "Ele dançava mal, pisava no pé dela e se desculpava a cada compasso, mas tinha um senso de humor seco que a pegou desprevenida. Nas semanas seguintes, os dois passaram a dividir a terceira mesa à esquerda. Falavam dos filhos, dos remédios, dos falecidos, com a franqueza de quem não tem mais tempo a perder com rodeios. As amigas da dona Lúcia acompanhavam tudo de longe, cochichando como adolescentes.",
+        "Em dezembro, no baile de fim de ano, o seu Ernesto chegou com um terno novo, finalmente do tamanho certo. Atravessou o salão como da primeira vez e parou diante dela. — A senhora ainda sabe onde fica a saída? — Sei — respondeu ela. — Mas resolvi não contar para o senhor. Dizem as amigas que, naquela tarde, ele não pisou no pé dela nenhuma vez."
+      ],
+      "english": [
+        [
+          "The senior citizens' dance at the club, in Copacabana, starts at three o'clock on Thursday afternoon, and at half past two Dona Lúcia is already sitting at the third table on the left, in red lipstick and low-heeled shoes.",
+          "A widow for twelve years, she says she doesn't go to the dance to find a boyfriend, but so as not to get rusty.",
+          "Her friends, who know her well, pretend to believe her."
+        ],
+        [
+          "Seu Ernesto appeared on a rainy day in August, in a suit that was too big for him and with the look of someone who had been dragged there by his daughter.",
+          "He spent the first hour leaning against the bar, holding a guaraná without drinking it.",
+          "When the band started a bolero, he crossed the hall, stopped in front of Dona Lúcia and, instead of asking her to dance, asked whether she knew where the exit was.",
+          "She laughed so much that he ended up staying.",
+          "Later, he would confess that the question had been the only thing that occurred to him, because he was too nervous to remember the name of any dance."
+        ],
+        [
+          "He danced badly, stepped on her foot and apologised at every bar, but he had a dry sense of humour that caught her off guard.",
+          "In the following weeks, the two of them began to share the third table on the left.",
+          "They talked about their children, their medicines, their late spouses, with the frankness of people who no longer have time to waste beating about the bush.",
+          "Dona Lúcia's friends followed everything from a distance, whispering like teenagers."
+        ],
+        [
+          "In December, at the end-of-year dance, Seu Ernesto arrived in a new suit, finally the right size.",
+          "He crossed the hall as he had the first time and stopped in front of her.",
+          "\"Do you still know where the exit is?\"",
+          "\"I do,\" she replied.",
+          "\"But I've decided not to tell you.\"",
+          "Her friends say that, that afternoon, he didn't step on her foot once."
+        ]
+      ],
+      "vocab": [
+        { "word": "terceira idade", "gloss": "old age, senior citizens" },
+        { "word": "arranjar namorado", "gloss": "find a boyfriend" },
+        { "word": "enferrujar", "gloss": "get rusty" },
+        { "word": "arrastado", "gloss": "dragged" },
+        { "word": "balcão", "gloss": "counter, bar" },
+        { "word": "salão", "gloss": "hall, ballroom" },
+        { "word": "pisava no pé", "gloss": "stepped on (her) foot" },
+        { "word": "compasso", "gloss": "bar (of music)" },
+        { "word": "pegou desprevenida", "gloss": "caught off guard" },
+        { "word": "franqueza", "gloss": "frankness" },
+        { "word": "rodeios", "gloss": "beating about the bush" },
+        { "word": "cochichando", "gloss": "whispering" }
+      ]
+    },
+    {
+      "id": "pt-c1-13",
+      "title": "A guerra da moqueca",
+      "subtitle": "The moqueca war",
+      "topic": "Cooking",
+      "symbol": "frying.pan.fill",
+      "paragraphs": [
+        "Poucas rivalidades brasileiras são tão apaixonadas, e tão saborosas, quanto a que opõe baianos e capixabas em torno da moqueca. Os dois estados reivindicam a paternidade do prato, um ensopado de peixe cozido lentamente com tomate, cebola e coentro. A diferença, que para um estrangeiro pode parecer detalhe, é motivo de discussões acaloradas em mesas de bar, programas de televisão e até em câmaras municipais.",
+        "A moqueca baiana leva azeite de dendê e leite de coco, o que lhe dá uma cor alaranjada intensa e um sabor encorpado, herança direta da culinária africana trazida pelos escravizados. A capixaba dispensa os dois ingredientes e usa urucum para colorir e azeite de oliva para refogar. Mas o verdadeiro orgulho do Espírito Santo é a panela de barro, moldada à mão por artesãs de Goiabeiras, em Vitória, segundo uma técnica de origem indígena que foi reconhecida como patrimônio cultural do país. Os capixabas têm um bordão que resume a disputa: “Moqueca é capixaba, o resto é peixada.”",
+        "Os baianos, naturalmente, não engolem a provocação. Argumentam que a moqueca capixaba é uma versão sem graça, sem tempero e sem alma, um peixe ensopado que esqueceu de chegar à festa. Um chef de Salvador me disse, sem sorrir, que comer moqueca sem dendê é como ouvir samba sem pandeiro: até dá, mas para quê?",
+        "Os historiadores tendem a pôr panos quentes na briga. A palavra moqueca, explicam, vem de uma língua africana ou indígena, conforme a versão, e designava uma técnica de cozinhar peixe embrulhado em folhas, praticada muito antes de existirem Bahia ou Espírito Santo. Nesse sentido, ambos os estados teriam razão, e nenhum dos dois seria dono do prato. É uma conclusão sensata, conciliadora e, como tudo o que é sensato, perfeitamente inútil à mesa. Afinal, o melhor da guerra da moqueca é que ela nunca termine, porque cada nova batalha exige, evidentemente, uma nova panela."
+      ],
+      "english": [
+        [
+          "Few Brazilian rivalries are as passionate, and as tasty, as the one that pits people from Bahia against people from Espírito Santo over moqueca.",
+          "Both states claim to be the birthplace of the dish, a fish stew cooked slowly with tomato, onion and coriander.",
+          "The difference, which to a foreigner might seem a detail, is the cause of heated arguments at bar tables, on television programmes and even in town councils."
+        ],
+        [
+          "The Bahian moqueca includes palm oil and coconut milk, which gives it an intense orange colour and a full-bodied flavour, a direct legacy of the African cuisine brought by enslaved people.",
+          "The Espírito Santo version does without both ingredients and uses annatto for colour and olive oil for frying.",
+          "But the real pride of Espírito Santo is the clay pot, shaped by hand by craftswomen in Goiabeiras, in Vitória, using a technique of Indigenous origin that has been recognised as national cultural heritage.",
+          "People from Espírito Santo have a catchphrase that sums up the dispute: \"Moqueca is from Espírito Santo, the rest is fish stew.\""
+        ],
+        [
+          "People from Bahia, naturally, don't swallow the provocation.",
+          "They argue that the Espírito Santo moqueca is a bland version, unseasoned and soulless, a stewed fish that forgot to turn up to the party.",
+          "A chef from Salvador told me, without smiling, that eating moqueca without palm oil is like listening to samba without a tambourine: you can, but why would you?"
+        ],
+        [
+          "Historians tend to smooth the quarrel over.",
+          "The word moqueca, they explain, comes from an African or an Indigenous language, depending on the version, and referred to a technique of cooking fish wrapped in leaves, practised long before Bahia or Espírito Santo existed.",
+          "In that sense, both states would be right, and neither of them would own the dish.",
+          "It's a sensible, conciliatory conclusion and, like everything sensible, perfectly useless at the table.",
+          "After all, the best thing about the moqueca war is that it never ends, because every new battle requires, of course, a new pot."
+        ]
+      ],
+      "vocab": [
+        { "word": "opõe", "gloss": "pits against each other" },
+        { "word": "reivindicam", "gloss": "claim" },
+        { "word": "ensopado", "gloss": "stew" },
+        { "word": "acaloradas", "gloss": "heated" },
+        { "word": "encorpado", "gloss": "full-bodied" },
+        { "word": "dispensa", "gloss": "does without" },
+        { "word": "refogar", "gloss": "sauté, fry lightly" },
+        { "word": "bordão", "gloss": "catchphrase" },
+        { "word": "não engolem", "gloss": "don't swallow, won't accept" },
+        { "word": "sem graça", "gloss": "bland, dull" },
+        { "word": "pôr panos quentes", "gloss": "smooth things over" },
+        { "word": "embrulhado", "gloss": "wrapped" },
+        { "word": "conciliadora", "gloss": "conciliatory" }
+      ]
+    },
+    {
+      "id": "pt-c1-14",
+      "title": "O faroleiro",
+      "subtitle": "The lighthouse keeper",
+      "topic": "Mystery",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "O farol de Santa Marta, no litoral sul de Santa Catarina, funciona automaticamente há décadas, mas o Anselmo continuou subindo os seus degraus todas as noites, por força do hábito e por falta de coisa melhor para fazer. Aposentado da Marinha, viúvo e de poucas palavras, ele passava horas olhando o mar escuro com um velho binóculo, contando os barcos de pesca que voltavam para a enseada.",
+        "Foi numa dessas noites, em pleno inverno, que ele viu a luz pela primeira vez. Vinha de um ponto no horizonte onde não deveria haver nada, nem ilha nem rota de navio, e piscava num ritmo irregular, ora curto, ora longo. Levou alguns minutos para o Anselmo perceber que conhecia aquele ritmo. Era código Morse, que ele tinha aprendido na Marinha e jurava ter esquecido. Pegou um lápis e, com a mão trêmula, começou a anotar os pontos e os traços na margem de um jornal velho.",
+        "A mensagem se repetia a cada quinze minutos, sempre igual: três letras, um intervalo, e mais três. Quando conseguiu decifrá-la, o Anselmo precisou se sentar no chão de ferro do farol. Eram as iniciais da mulher dele, seguidas das dele, exatamente como ela costumava assinar os bilhetes que deixava na geladeira. Na manhã seguinte, ele não contou nada a ninguém, com medo de que o achassem caduco.",
+        "A luz voltou nas três noites seguintes e depois sumiu. Semanas mais tarde, o Anselmo soube por um pescador que um veleiro de pesquisa tinha ficado ancorado em alto-mar naquela época, testando equipamentos de sinalização, e que a tripulação usava sequências aleatórias de letras. Era uma explicação perfeitamente razoável, e ele a aceitou com um aceno de cabeça. Mas, desde então, toda noite, antes de descer, o velho faroleiro acende uma lanterna e pisca seis letras para o horizonte, só por via das dúvidas."
+      ],
+      "english": [
+        [
+          "The Santa Marta lighthouse, on the southern coast of Santa Catarina, has worked automatically for decades, but Anselmo kept climbing its steps every night, out of habit and for lack of anything better to do.",
+          "Retired from the Navy, widowed and a man of few words, he spent hours looking at the dark sea with an old pair of binoculars, counting the fishing boats returning to the cove."
+        ],
+        [
+          "It was on one of those nights, in the depths of winter, that he saw the light for the first time.",
+          "It came from a point on the horizon where there should have been nothing, neither island nor shipping lane, and it blinked in an irregular rhythm, now short, now long.",
+          "It took Anselmo a few minutes to realise that he knew that rhythm.",
+          "It was Morse code, which he had learned in the Navy and swore he had forgotten.",
+          "He took a pencil and, with a trembling hand, began to note down the dots and dashes in the margin of an old newspaper."
+        ],
+        [
+          "The message repeated every fifteen minutes, always the same: three letters, a pause, and three more.",
+          "When he managed to decipher it, Anselmo had to sit down on the iron floor of the lighthouse.",
+          "They were his wife's initials, followed by his own, exactly the way she used to sign the notes she left on the fridge.",
+          "The next morning, he told no one, for fear they'd think he was senile."
+        ],
+        [
+          "The light came back on the next three nights and then vanished.",
+          "Weeks later, Anselmo learned from a fisherman that a research sailing boat had been anchored offshore at that time, testing signalling equipment, and that the crew used random sequences of letters.",
+          "It was a perfectly reasonable explanation, and he accepted it with a nod.",
+          "But since then, every night, before going down, the old lighthouse keeper switches on a torch and flashes six letters at the horizon, just in case."
+        ]
+      ],
+      "vocab": [
+        { "word": "degraus", "gloss": "steps" },
+        { "word": "por força do hábito", "gloss": "out of habit" },
+        { "word": "de poucas palavras", "gloss": "of few words" },
+        { "word": "enseada", "gloss": "cove" },
+        { "word": "em pleno inverno", "gloss": "in the depths of winter" },
+        { "word": "piscava", "gloss": "blinked, flashed" },
+        { "word": "ora curto, ora longo", "gloss": "now short, now long" },
+        { "word": "decifrá-la", "gloss": "decipher it" },
+        { "word": "caduco", "gloss": "senile, gaga" },
+        { "word": "veleiro", "gloss": "sailing boat" },
+        { "word": "em alto-mar", "gloss": "offshore, on the high seas" },
+        { "word": "aceno de cabeça", "gloss": "nod" },
+        { "word": "por via das dúvidas", "gloss": "just in case" }
+      ]
+    },
+    {
+      "id": "pt-c1-15",
+      "title": "A roda",
+      "subtitle": "The circle",
+      "topic": "Sport",
+      "symbol": "figure.run",
+      "paragraphs": [
+        "Toda tarde de sábado, numa sala sem janelas no Pelourinho, em Salvador, o mestre Bira, de setenta e quatro anos, abre a roda de capoeira angola com o mesmo ritual. Ele afina o berimbau sem pressa, olha cada aluno nos olhos e só então canta a primeira ladainha, uma espécie de lamento que conta histórias de antigos capoeiristas, de valentia e de injustiça. Ninguém entra na roda antes de ele terminar.",
+        "Para quem só conhece a capoeira das apresentações para turistas, cheia de saltos e piruetas, a angola pode parecer lenta, quase sonolenta. Os jogadores se movem perto do chão, se esquivam em vez de atacar e trocam sorrisos que ninguém sabe se são de cumplicidade ou de ameaça. O mestre Bira diz que a malícia, essa capacidade de enganar o adversário sem que ele perceba, é o verdadeiro coração da arte. — Quem tem pressa de bater ainda não entendeu nada — repete ele aos alunos mais afoitos.",
+        "A história da capoeira é, em grande parte, uma história de resistência. Desenvolvida por africanos escravizados e seus descendentes, ela foi proibida por lei no fim do século dezenove e perseguida pela polícia durante décadas. Disfarçada de dança, a luta sobreviveu nos becos e nas festas de largo, transmitida de mestre para aluno, sem livros nem diplomas. O próprio mestre Bira aprendeu assim, ainda menino, observando os mais velhos no cais do porto.",
+        "Hoje, a roda de capoeira é reconhecida como patrimônio cultural da humanidade, e há grupos em dezenas de países. Entre os alunos do mestre Bira, há uma engenheira japonesa, um padeiro do bairro e dois irmãos que ele tirou da rua há quinze anos e que agora dão aulas. Perguntado se tem medo de que a capoeira perca a alma ao se espalhar pelo mundo, o mestre ri e responde com outra pergunta, como manda a malícia. — A água do mar perde o sal quando chega a outra praia?"
+      ],
+      "english": [
+        [
+          "Every Saturday afternoon, in a windowless room in the Pelourinho, in Salvador, Mestre Bira, seventy-four, opens the capoeira angola circle with the same ritual.",
+          "He tunes the berimbau unhurriedly, looks each student in the eye and only then sings the first ladainha, a kind of lament that tells stories of old capoeira players, of courage and of injustice.",
+          "Nobody enters the circle before he has finished."
+        ],
+        [
+          "To those who only know the capoeira of tourist shows, full of leaps and somersaults, angola can seem slow, almost sleepy.",
+          "The players move close to the ground, dodge instead of attacking and exchange smiles that nobody can tell are complicity or threat.",
+          "Mestre Bira says that malícia, that ability to trick your opponent without them noticing, is the true heart of the art.",
+          "\"Whoever is in a hurry to strike still hasn't understood a thing,\" he tells his most impetuous students."
+        ],
+        [
+          "The history of capoeira is, to a large extent, a history of resistance.",
+          "Developed by enslaved Africans and their descendants, it was outlawed in the late nineteenth century and persecuted by the police for decades.",
+          "Disguised as a dance, the fight survived in back alleys and at street festivals, passed on from master to student, without books or diplomas.",
+          "Mestre Bira himself learned that way, as a boy, watching the older men on the docks."
+        ],
+        [
+          "Today, the capoeira circle is recognised as part of humanity's cultural heritage, and there are groups in dozens of countries.",
+          "Among Mestre Bira's students, there is a Japanese engineer, a local baker and two brothers he got off the streets fifteen years ago who now teach classes themselves.",
+          "Asked whether he fears capoeira will lose its soul as it spreads around the world, the master laughs and answers with another question, as malícia dictates.",
+          "\"Does seawater lose its salt when it reaches another beach?\""
+        ]
+      ],
+      "vocab": [
+        { "word": "afina", "gloss": "tunes" },
+        { "word": "sem pressa", "gloss": "unhurriedly" },
+        { "word": "lamento", "gloss": "lament" },
+        { "word": "valentia", "gloss": "courage, bravery" },
+        { "word": "piruetas", "gloss": "somersaults, pirouettes" },
+        { "word": "se esquivam", "gloss": "dodge" },
+        { "word": "cumplicidade", "gloss": "complicity" },
+        { "word": "afoitos", "gloss": "impetuous, overeager" },
+        { "word": "perseguida", "gloss": "persecuted" },
+        { "word": "Disfarçada", "gloss": "disguised" },
+        { "word": "becos", "gloss": "back alleys" },
+        { "word": "cais do porto", "gloss": "docks" },
+        { "word": "como manda", "gloss": "as ... dictates" }
+      ]
+    }
+  ]
+}

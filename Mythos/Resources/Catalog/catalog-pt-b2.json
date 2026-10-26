@@ -1,0 +1,799 @@
+{
+  "language": "pt",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "pt-b2-01",
+      "title": "Carta ao prefeito",
+      "subtitle": "A letter to the mayor",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Prezado senhor prefeito, escrevo esta carta em nome dos moradores de uma pequena rua do bairro Bom Fim, em Porto Alegre. Na semana passada, fomos informados de que as doze tipuanas da nossa calçada serão cortadas para que a rua seja alargada. Segundo a prefeitura, as árvores atrapalham o trânsito e suas raízes estão danificando o asfalto.",
+        "Não duvido de que o trânsito seja um problema sério. No entanto, peço que o senhor considere alguns fatos antes de assinar a ordem. Essas árvores foram plantadas pelos nossos avós há mais de setenta anos. No verão, quando a temperatura passa dos quarenta graus, a nossa rua é a única do bairro onde se pode caminhar à sombra. Além disso, os galhos abrigam centenas de pássaros, e as crianças da escola vizinha vêm aqui todo ano estudá-los.",
+        "Sugerimos uma alternativa: que o trânsito seja desviado para a avenida paralela, que é mais larga, e que as raízes sejam tratadas por especialistas. Já conversamos com uma engenheira florestal, que se ofereceu para fazer o estudo de graça. Também reunimos mais de três mil assinaturas, que seguem anexadas a esta carta.",
+        "Convidamos o senhor a visitar a rua num sábado à tarde, sem compromisso. Caso venha, garanto que será recebido com chimarrão e com a sombra mais fresca da cidade. Tenho certeza de que, depois de uma tarde aqui, o senhor entenderá por que não queremos que essas árvores desapareçam. Atenciosamente, Cláudia Ramos, moradora e professora aposentada."
+      ],
+      "english": [
+        [
+          "Dear Mr Mayor, I am writing this letter on behalf of the residents of a small street in the Bom Fim neighbourhood, in Porto Alegre.",
+          "Last week we were informed that the twelve tipuana trees on our pavement will be cut down so that the street can be widened.",
+          "According to the city council, the trees get in the way of traffic and their roots are damaging the tarmac."
+        ],
+        [
+          "I don't doubt that traffic is a serious problem.",
+          "However, I ask you to consider a few facts before signing the order.",
+          "These trees were planted by our grandparents more than seventy years ago.",
+          "In summer, when the temperature goes above forty degrees, our street is the only one in the neighbourhood where you can walk in the shade.",
+          "Moreover, the branches shelter hundreds of birds, and the children from the school next door come here every year to study them."
+        ],
+        [
+          "We suggest an alternative: that the traffic be diverted to the parallel avenue, which is wider, and that the roots be treated by specialists.",
+          "We have already spoken to a forestry engineer, who has offered to carry out the study free of charge.",
+          "We have also gathered more than three thousand signatures, which are attached to this letter."
+        ],
+        [
+          "We invite you to visit the street on a Saturday afternoon, with no obligation.",
+          "Should you come, I promise you will be welcomed with chimarrão and the coolest shade in the city.",
+          "I am sure that, after an afternoon here, you will understand why we don't want these trees to disappear.",
+          "Yours sincerely, Cláudia Ramos, resident and retired teacher."
+        ]
+      ],
+      "vocab": [
+        { "word": "em nome dos", "gloss": "on behalf of the" },
+        { "word": "fomos informados", "gloss": "we were informed" },
+        { "word": "alargada", "gloss": "widened" },
+        { "word": "atrapalham", "gloss": "get in the way of" },
+        { "word": "raízes", "gloss": "roots" },
+        { "word": "galhos", "gloss": "branches" },
+        { "word": "abrigam", "gloss": "shelter" },
+        { "word": "desviado", "gloss": "diverted" },
+        { "word": "de graça", "gloss": "free of charge" },
+        { "word": "assinaturas", "gloss": "signatures" },
+        { "word": "anexadas", "gloss": "attached" },
+        { "word": "Caso venha", "gloss": "should you come" }
+      ]
+    },
+    {
+      "id": "pt-b2-02",
+      "title": "A voz por trás da tela",
+      "subtitle": "The voice behind the screen",
+      "topic": "Media",
+      "symbol": "film.fill",
+      "paragraphs": [
+        "Há vinte e cinco anos, a paulistana Denise Moura empresta a voz a princesas, vilãs e até a uma vaca falante. Embora milhões de brasileiros a ouçam todos os dias, quase ninguém a reconhece na rua. Conversamos com ela no estúdio de dublagem onde trabalha, na Vila Mariana.",
+        "P: Como você começou na dublagem? R: Por acaso, na verdade. Eu era atriz de teatro e acompanhei uma amiga num teste. O diretor pediu que eu lesse uma fala só para ajudar, e no fim quem foi contratada fui eu. A minha amiga levou anos para me perdoar!",
+        "P: Qual é a parte mais difícil do trabalho? R: Fazer com que a emoção pareça natural. O ator original já fez tudo: chorou, gritou, riu. Eu preciso fazer o mesmo, em português, no tempo exato da boca dele, num estúdio fechado, às dez da manhã, depois de um café. Às vezes, gravo a mesma frase quarenta vezes até o diretor ficar satisfeito. É como se eu tivesse que me apaixonar em trinta segundos.",
+        "P: Você não sente falta de aparecer? R: Às vezes sim, mas o anonimato tem as suas vantagens. Outro dia, no supermercado, uma menina ouviu a minha voz e ficou pálida. Ela puxou a mãe e disse que a bruxa do desenho estava comprando banana. Eu não sabia se ria ou se pedia desculpas. No fim, gravei um áudio para ela com a voz da bruxa, desejando feliz aniversário, e acho que ganhei uma fã para a vida toda."
+      ],
+      "english": [
+        [
+          "For twenty-five years, São Paulo native Denise Moura has been lending her voice to princesses, villains and even a talking cow.",
+          "Although millions of Brazilians hear her every day, almost nobody recognises her in the street.",
+          "We talked to her at the dubbing studio where she works, in Vila Mariana."
+        ],
+        [
+          "Q: How did you get started in dubbing?",
+          "A: By chance, actually.",
+          "I was a stage actress and went along with a friend to an audition.",
+          "The director asked me to read a line just to help, and in the end I was the one who got hired.",
+          "My friend took years to forgive me!"
+        ],
+        [
+          "Q: What's the hardest part of the job?",
+          "A: Making the emotion seem natural.",
+          "The original actor has already done everything: cried, shouted, laughed.",
+          "I need to do the same, in Portuguese, in time with his mouth, in a closed studio, at ten in the morning, after a coffee.",
+          "Sometimes I record the same sentence forty times until the director is satisfied.",
+          "It's as if I had to fall in love in thirty seconds."
+        ],
+        [
+          "Q: Don't you miss being seen?",
+          "A: Sometimes, yes, but anonymity has its advantages.",
+          "The other day, at the supermarket, a little girl heard my voice and went pale.",
+          "She tugged at her mother and said that the witch from the cartoon was buying bananas.",
+          "I didn't know whether to laugh or apologise.",
+          "In the end, I recorded a voice message for her in the witch's voice, wishing her a happy birthday, and I think I won a fan for life."
+        ]
+      ],
+      "vocab": [
+        { "word": "empresta a voz", "gloss": "lends (her) voice" },
+        { "word": "vilãs", "gloss": "villains (female)" },
+        { "word": "Embora", "gloss": "although" },
+        { "word": "dublagem", "gloss": "dubbing" },
+        { "word": "Por acaso", "gloss": "by chance" },
+        { "word": "teste", "gloss": "audition" },
+        { "word": "fala", "gloss": "line (of dialogue)" },
+        { "word": "contratada", "gloss": "hired" },
+        { "word": "perdoar", "gloss": "forgive" },
+        { "word": "sente falta", "gloss": "miss" },
+        { "word": "anonimato", "gloss": "anonymity" },
+        { "word": "puxou", "gloss": "tugged at" }
+      ]
+    },
+    {
+      "id": "pt-b2-03",
+      "title": "Em defesa do atraso",
+      "subtitle": "In defence of lateness",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Todo estrangeiro que mora no Brasil tem uma história sobre atrasos. O alemão que chegou a uma festa às oito em ponto e encontrou a dona da casa ainda de toalha na cabeça. A japonesa que esperou uma hora por uma reunião que, segundo lhe disseram depois, nunca tinha sido realmente marcada. Rimos dessas histórias, mas no fundo temos um pouco de vergonha delas.",
+        "Quero propor outra leitura. É claro que, numa consulta médica ou num voo, o atraso é falta de respeito. Mas, quando se trata de um churrasco num domingo, talvez o horário seja menos uma regra do que uma sugestão. Quem convida para as duas sabe que a carne só vai estar pronta às quatro, e quem chega às três sabe que o anfitrião sabe. Não é desorganização: é um acordo silencioso.",
+        "Além disso, numa cidade como São Paulo ou Recife, ninguém controla o próprio tempo. Um alagamento, um acidente na marginal ou um ônibus que simplesmente não passa podem transformar vinte minutos em duas horas. Diante disso, a tolerância com o atraso não é preguiça; é uma forma de gentileza. Eu desculpo você hoje para que você me desculpe amanhã.",
+        "Não estou dizendo que devamos nos orgulhar disso. Estou dizendo apenas que, antes de pedir que o Brasil se torne pontual como a Suíça, talvez valha a pena perguntar o que perderíamos. Confesso, aliás, que comecei esta coluna com duas horas de atraso. O meu editor, que é brasileiro, nem reclamou."
+      ],
+      "english": [
+        [
+          "Every foreigner who lives in Brazil has a story about lateness.",
+          "The German who arrived at a party at eight on the dot and found the hostess still with a towel on her head.",
+          "The Japanese woman who waited an hour for a meeting that, as she was told later, had never really been arranged.",
+          "We laugh at these stories, but deep down we're a little ashamed of them."
+        ],
+        [
+          "I want to suggest another reading.",
+          "Of course, at a doctor's appointment or for a flight, lateness is a lack of respect.",
+          "But when it comes to a barbecue on a Sunday, perhaps the time is less a rule than a suggestion.",
+          "Whoever invites people for two knows that the meat will only be ready at four, and whoever arrives at three knows that the host knows.",
+          "It isn't disorganisation: it's a silent agreement."
+        ],
+        [
+          "Besides, in a city like São Paulo or Recife, nobody controls their own time.",
+          "A flood, an accident on the ring road or a bus that simply doesn't come can turn twenty minutes into two hours.",
+          "Given this, tolerance for lateness isn't laziness; it's a form of kindness.",
+          "I forgive you today so that you'll forgive me tomorrow."
+        ],
+        [
+          "I'm not saying that we should be proud of it.",
+          "I'm only saying that, before asking Brazil to become as punctual as Switzerland, it might be worth asking what we would lose.",
+          "I confess, by the way, that I started this column two hours late.",
+          "My editor, who is Brazilian, didn't even complain."
+        ]
+      ],
+      "vocab": [
+        { "word": "estrangeiro", "gloss": "foreigner" },
+        { "word": "de toalha na cabeça", "gloss": "with a towel on (her) head" },
+        { "word": "no fundo", "gloss": "deep down" },
+        { "word": "quando se trata de", "gloss": "when it comes to" },
+        { "word": "anfitrião", "gloss": "host" },
+        { "word": "acordo", "gloss": "agreement" },
+        { "word": "alagamento", "gloss": "flood (in a street)" },
+        { "word": "marginal", "gloss": "riverside expressway, ring road" },
+        { "word": "Diante disso", "gloss": "given this" },
+        { "word": "gentileza", "gloss": "kindness" },
+        { "word": "valha a pena", "gloss": "be worth it" },
+        { "word": "aliás", "gloss": "by the way" }
+      ]
+    },
+    {
+      "id": "pt-b2-04",
+      "title": "Domingo no Minhocão",
+      "subtitle": "Sunday on the Minhocão",
+      "topic": "City",
+      "symbol": "figure.walk",
+      "paragraphs": [
+        "Durante a semana, o Minhocão é um dos lugares mais feios de São Paulo: um viaduto de concreto cinza, cheio de carros, que passa a poucos metros das janelas dos prédios. Mas, aos domingos, ele é fechado para os veículos e entregue aos pedestres. Foi lá que a Aline, recém-chegada de Goiânia, passou o seu primeiro domingo na cidade, sem conhecer ninguém.",
+        "Ela tinha sido avisada de que São Paulo era fria e solitária. O que encontrou, porém, foi uma festa. Havia crianças de patins, um senhor tocando saxofone, uma aula de ioga gratuita e um grupo de idosos dançando forró ao lado de um caminhão de pastel. Das janelas, os moradores penduravam faixas e conversavam com quem passava lá embaixo.",
+        "Uma moradora do terceiro andar, a dona Neide, perguntou se a Aline queria um café. Ela achou que fosse brincadeira, até que viu uma cestinha descendo por uma corda com uma xícara dentro. — Devolve a xícara depois, viu? — gritou a senhora, rindo. As duas conversaram por meio de gritos durante quase uma hora. Quando a Aline foi embora, a dona Neide pediu que ela voltasse no domingo seguinte e trouxesse um bolo.",
+        "Hoje, dois anos depois, a Aline mora no prédio da dona Neide, dois andares acima. Aos domingos, é ela quem desce a cestinha para os desconhecidos. Se alguém lhe pergunta se São Paulo é uma cidade fria, ela responde que depende do dia da semana."
+      ],
+      "english": [
+        [
+          "During the week, the Minhocão is one of the ugliest places in São Paulo: a grey concrete flyover, full of cars, that passes a few metres from the windows of the buildings.",
+          "But on Sundays it is closed to vehicles and handed over to pedestrians.",
+          "That's where Aline, newly arrived from Goiânia, spent her first Sunday in the city, without knowing anyone."
+        ],
+        [
+          "She had been warned that São Paulo was cold and lonely.",
+          "What she found, however, was a party.",
+          "There were children on roller skates, an old man playing the saxophone, a free yoga class and a group of elderly people dancing forró next to a pastel van.",
+          "From the windows, residents hung banners and chatted with those passing below."
+        ],
+        [
+          "A resident on the third floor, Dona Neide, asked if Aline wanted a coffee.",
+          "She thought it was a joke, until she saw a little basket coming down on a rope with a cup inside.",
+          "\"Send the cup back afterwards, okay?\" the lady shouted, laughing.",
+          "The two of them talked by shouting for almost an hour.",
+          "When Aline left, Dona Neide asked her to come back the following Sunday and bring a cake."
+        ],
+        [
+          "Today, two years later, Aline lives in Dona Neide's building, two floors above.",
+          "On Sundays, she is the one who lowers the basket for strangers.",
+          "If anyone asks her whether São Paulo is a cold city, she replies that it depends on the day of the week."
+        ]
+      ],
+      "vocab": [
+        { "word": "viaduto", "gloss": "flyover" },
+        { "word": "entregue", "gloss": "handed over" },
+        { "word": "pedestres", "gloss": "pedestrians" },
+        { "word": "recém-chegada", "gloss": "newly arrived" },
+        { "word": "tinha sido avisada", "gloss": "had been warned" },
+        { "word": "solitária", "gloss": "lonely" },
+        { "word": "patins", "gloss": "roller skates" },
+        { "word": "idosos", "gloss": "elderly people" },
+        { "word": "penduravam", "gloss": "hung" },
+        { "word": "faixas", "gloss": "banners" },
+        { "word": "cestinha", "gloss": "little basket" },
+        { "word": "desconhecidos", "gloss": "strangers" }
+      ]
+    },
+    {
+      "id": "pt-b2-05",
+      "title": "O guia de Ouro Preto",
+      "subtitle": "The guide from Ouro Preto",
+      "topic": "History",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "O Felipe era guia turístico em Ouro Preto havia dez anos e sabia de cor a história de cada igreja da cidade. Naquela manhã, ele levava um grupo pela ladeira até a Igreja de São Francisco de Assis, contando como o ouro tinha sido extraído pelos escravizados nas minas da região. Uma senhora negra, de cabelos brancos, ouvia tudo em silêncio, no fim do grupo.",
+        "Quando ele terminou de falar das esculturas de Aleijadinho, a senhora levantou a mão. — O senhor esqueceu de mencionar o Chico — disse ela. O Felipe pediu que ela explicasse. Ela contou que, segundo a família dela, um dos carpinteiros que trabalharam naquela igreja tinha sido um homem escravizado chamado Francisco, que comprara a própria liberdade com o dinheiro de anos de trabalho extra. — Ele era meu tataravô — acrescentou.",
+        "O grupo ficou em silêncio. O Felipe confessou que nunca tinha ouvido aquele nome nos livros. — Nos livros, não — respondeu a senhora. — Mas na minha casa ele é falado há cento e cinquenta anos.",
+        "Depois do passeio, os dois tomaram um café e conversaram até a noite. Nos meses seguintes, o Felipe pesquisou em arquivos e encontrou um recibo antigo com o nome de Francisco. Hoje, sempre que leva um grupo até a igreja, ele pede que os turistas olhem para as portas de madeira e diz que elas também têm autor."
+      ],
+      "english": [
+        [
+          "Felipe had been a tour guide in Ouro Preto for ten years and knew the history of every church in the town by heart.",
+          "That morning, he was leading a group up the steep street to the Church of São Francisco de Assis, telling them how the gold had been extracted by enslaved people in the region's mines.",
+          "A Black woman with white hair was listening to everything in silence at the back of the group."
+        ],
+        [
+          "When he finished talking about Aleijadinho's sculptures, the woman raised her hand.",
+          "\"You forgot to mention Chico,\" she said.",
+          "Felipe asked her to explain.",
+          "She said that, according to her family, one of the carpenters who worked on that church had been an enslaved man called Francisco, who had bought his own freedom with the money from years of extra work.",
+          "\"He was my great-great-grandfather,\" she added."
+        ],
+        [
+          "The group fell silent.",
+          "Felipe confessed that he had never heard that name in the books.",
+          "\"Not in the books, no,\" the woman replied.",
+          "\"But in my house he has been talked about for a hundred and fifty years.\""
+        ],
+        [
+          "After the tour, the two of them had a coffee and talked until nightfall.",
+          "In the following months, Felipe researched in archives and found an old receipt with Francisco's name on it.",
+          "Today, whenever he takes a group to the church, he asks the tourists to look at the wooden doors and says that they too have an author."
+        ]
+      ],
+      "vocab": [
+        { "word": "de cor", "gloss": "by heart" },
+        { "word": "ladeira", "gloss": "steep street" },
+        { "word": "tinha sido extraído", "gloss": "had been extracted" },
+        { "word": "escravizados", "gloss": "enslaved people" },
+        { "word": "esculturas", "gloss": "sculptures" },
+        { "word": "carpinteiros", "gloss": "carpenters" },
+        { "word": "comprara", "gloss": "had bought" },
+        { "word": "liberdade", "gloss": "freedom" },
+        { "word": "tataravô", "gloss": "great-great-grandfather" },
+        { "word": "é falado", "gloss": "is talked about" },
+        { "word": "arquivos", "gloss": "archives" },
+        { "word": "recibo", "gloss": "receipt" }
+      ]
+    },
+    {
+      "id": "pt-b2-06",
+      "title": "O Pix errado",
+      "subtitle": "The wrong Pix",
+      "topic": "Money",
+      "symbol": "creditcard.fill",
+      "paragraphs": [
+        "Numa quinta-feira à noite, o celular do Leandro vibrou com uma notificação do banco: ele tinha recebido um Pix de quatro mil e duzentos reais. O Leandro, que era motoboy em Recife e estava com o aluguel atrasado, olhou para a tela sem acreditar. O nome de quem enviou era desconhecido: Maria das Graças Lima.",
+        "Por uma hora, ele imaginou tudo o que poderia fazer com aquele dinheiro. Pagaria o aluguel, consertaria a moto e talvez ainda sobrasse para comprar um fogão novo para a mãe. Mas a mãe, quando soube, foi categórica. — Dinheiro que não é seu não traz sorte, meu filho. Devolve amanhã cedo.",
+        "No dia seguinte, ele ligou para o banco e pediu que o valor fosse devolvido. O atendente ficou tão surpreso que repetiu a pergunta duas vezes, como se não acreditasse. Uma semana depois, recebeu uma mensagem de áudio de uma senhora chorando. Era a dona Maria das Graças, que tinha errado um número ao pagar a cirurgia do marido. Ela disse que tinha rezado para que o dinheiro caísse nas mãos de uma pessoa honesta e queria agradecer pessoalmente.",
+        "O Leandro foi visitá-la em Olinda, achando que ganharia, no máximo, um bolo. Ganhou o bolo e também uma surpresa: o marido da dona Maria tinha uma oficina de motos e precisava de alguém de confiança. Hoje o Leandro é sócio da oficina. A mãe dele, claro, diz que sempre soube."
+      ],
+      "english": [
+        [
+          "On a Thursday night, Leandro's phone buzzed with a notification from the bank: he had received a Pix transfer of four thousand two hundred reais.",
+          "Leandro, who was a motorbike courier in Recife and was behind on his rent, stared at the screen in disbelief.",
+          "The sender's name was unknown to him: Maria das Graças Lima."
+        ],
+        [
+          "For an hour, he imagined everything he could do with that money.",
+          "He would pay the rent, fix the motorbike and maybe there would still be some left over to buy his mother a new cooker.",
+          "But his mother, when she found out, was adamant.",
+          "\"Money that isn't yours doesn't bring luck, son.\"",
+          "Give it back first thing tomorrow."
+        ],
+        [
+          "The next day, he called the bank and asked for the amount to be returned.",
+          "The bank clerk was so surprised that he repeated the question twice, as if he didn't believe it.",
+          "A week later, he received a voice message from an old lady crying.",
+          "It was Dona Maria das Graças, who had got a digit wrong when paying for her husband's operation.",
+          "She said she had prayed that the money would fall into the hands of an honest person and wanted to thank him in person."
+        ],
+        [
+          "Leandro went to visit her in Olinda, thinking he would get, at most, a cake.",
+          "He got the cake and a surprise as well: Dona Maria's husband had a motorbike workshop and needed someone trustworthy.",
+          "Today Leandro is a partner in the workshop.",
+          "His mother, of course, says she always knew."
+        ]
+      ],
+      "vocab": [
+        { "word": "vibrou", "gloss": "buzzed, vibrated" },
+        { "word": "motoboy", "gloss": "motorbike courier" },
+        { "word": "aluguel atrasado", "gloss": "overdue rent" },
+        { "word": "sobrasse", "gloss": "there was left over" },
+        { "word": "fogão", "gloss": "cooker, stove" },
+        { "word": "categórica", "gloss": "adamant" },
+        { "word": "Devolve", "gloss": "give it back" },
+        { "word": "pediu que o valor fosse devolvido", "gloss": "asked for the amount to be returned" },
+        { "word": "errado um número", "gloss": "got a digit wrong" },
+        { "word": "rezado", "gloss": "prayed" },
+        { "word": "oficina", "gloss": "workshop, garage" },
+        { "word": "sócio", "gloss": "partner, co-owner" }
+      ]
+    },
+    {
+      "id": "pt-b2-07",
+      "title": "A pedra do seu Joaquim",
+      "subtitle": "Seu Joaquim's stone",
+      "topic": "Science",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Por mais de quarenta anos, o seu Joaquim usou uma pedra preta e pesada para segurar a porta do galinheiro, num sítio perto de Uberaba, em Minas Gerais. A pedra tinha sido encontrada pelo pai dele, que contava que ela tinha caído do céu numa noite de tempestade. Ninguém na família acreditava muito nessa história.",
+        "Tudo mudou quando a bisneta, a Lívia, estudante de geologia, foi passar as férias no sítio. Ao ver a pedra, ela se ajoelhou e passou um ímã por cima. O ímã grudou imediatamente. — Vô, isso pode ser um meteorito — disse ela, com a voz trêmula. O seu Joaquim riu e disse que, se fosse, as galinhas eram as mais chiques de Minas.",
+        "A Lívia levou um pedacinho da pedra para a universidade, onde foi analisado por uma equipe de especialistas. O resultado confirmou a suspeita: era um meteorito metálico, provavelmente formado há mais de quatro bilhões de anos, antes mesmo de a Terra existir. Os pesquisadores disseram que poucos exemplares como aquele tinham sido encontrados no Brasil.",
+        "Vários colecionadores ofereceram fortunas pela pedra, mas o seu Joaquim recusou todas as propostas. Ele decidiu doá-la ao museu da universidade, com uma condição: que a placa contasse que ela tinha sido encontrada pelo pai dele. — Ele passou a vida inteira sendo chamado de mentiroso — explicou. No galinheiro, hoje, a porta é segurada por um tijolo comum."
+      ],
+      "english": [
+        [
+          "For more than forty years, Seu Joaquim used a heavy black stone to hold open the door of the chicken coop, on a smallholding near Uberaba, in Minas Gerais.",
+          "The stone had been found by his father, who used to say that it had fallen from the sky on a stormy night.",
+          "Nobody in the family really believed that story."
+        ],
+        [
+          "Everything changed when his great-granddaughter, Lívia, a geology student, went to spend the holidays on the smallholding.",
+          "When she saw the stone, she knelt down and ran a magnet over it.",
+          "The magnet stuck immediately.",
+          "\"Grandpa, this could be a meteorite,\" she said, her voice trembling.",
+          "Seu Joaquim laughed and said that, if it was, his chickens were the poshest in Minas."
+        ],
+        [
+          "Lívia took a small piece of the stone to the university, where it was analysed by a team of specialists.",
+          "The result confirmed the suspicion: it was an iron meteorite, probably formed more than four billion years ago, before the Earth even existed.",
+          "The researchers said that few specimens like that one had been found in Brazil."
+        ],
+        [
+          "Several collectors offered fortunes for the stone, but Seu Joaquim turned down every offer.",
+          "He decided to donate it to the university museum, on one condition: that the plaque would say it had been found by his father.",
+          "\"He spent his whole life being called a liar,\" he explained.",
+          "In the chicken coop, today, the door is held open by an ordinary brick."
+        ]
+      ],
+      "vocab": [
+        { "word": "galinheiro", "gloss": "chicken coop" },
+        { "word": "sítio", "gloss": "smallholding, small farm" },
+        { "word": "bisneta", "gloss": "great-granddaughter" },
+        { "word": "se ajoelhou", "gloss": "knelt down" },
+        { "word": "ímã", "gloss": "magnet" },
+        { "word": "grudou", "gloss": "stuck" },
+        { "word": "trêmula", "gloss": "trembling" },
+        { "word": "foi analisado", "gloss": "was analysed" },
+        { "word": "exemplares", "gloss": "specimens" },
+        { "word": "doá-la", "gloss": "to donate it" },
+        { "word": "mentiroso", "gloss": "liar" },
+        { "word": "tijolo", "gloss": "brick" }
+      ]
+    },
+    {
+      "id": "pt-b2-08",
+      "title": "A fita cassete",
+      "subtitle": "The cassette tape",
+      "topic": "Memory",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Quando a Paula esvaziou o apartamento da mãe, em Recife, encontrou uma caixa de fitas cassete com etiquetas escritas à mão. A maioria tinha nomes de cantores de frevo e de forró, mas uma delas dizia apenas: “Carnaval 1989 — não gravar por cima.” Ela não tinha mais nenhum aparelho que tocasse fitas, e a caixa ficou meses no armário.",
+        "Foi o filho dela, o Artur, de quinze anos, quem resolveu o problema. Ele achou um toca-fitas velho numa loja de usados na rua da Aurora e pagou trinta reais por ele, achando que estava fazendo um ótimo negócio. Naquela noite, os dois se sentaram na sala e apertaram o play.",
+        "Primeiro, houve só um chiado. Depois, ouviram uma orquestra de frevo, gritos, risadas e, de repente, uma voz de homem muito perto do microfone. — Paulinha, você está dormindo no meu ombro no meio do carnaval de Olinda! Isso é para você ouvir quando crescer. A Paula levou a mão à boca. Era o pai dela, que tinha morrido quando ela tinha quatro anos e de quem ela não guardava nenhuma lembrança.",
+        "A fita tinha dezoito minutos. Eles a ouviram três vezes seguidas, em silêncio. No dia seguinte, o Artur passou o áudio para o computador e fez cópias para toda a família, por medo de que a fita se estragasse. A Paula diz que agora, quando escuta, consegue quase sentir o cheiro de suor e de confete daquela tarde."
+      ],
+      "english": [
+        [
+          "When Paula cleared out her mother's flat in Recife, she found a box of cassette tapes with handwritten labels.",
+          "Most of them had the names of frevo and forró singers, but one of them just said: \"Carnival 1989 — do not record over.\"",
+          "She no longer had any machine that played tapes, and the box stayed in the cupboard for months."
+        ],
+        [
+          "It was her son, Artur, fifteen, who solved the problem.",
+          "He found an old tape player in a second-hand shop on Rua da Aurora and paid thirty reais for it, thinking he was getting a great deal.",
+          "That night, the two of them sat down in the living room and pressed play."
+        ],
+        [
+          "At first there was just hissing.",
+          "Then they heard a frevo band, shouts, laughter and, suddenly, a man's voice very close to the microphone.",
+          "\"Paulinha, you're asleep on my shoulder in the middle of the Olinda carnival!\"",
+          "This is for you to listen to when you grow up.",
+          "Paula put her hand to her mouth.",
+          "It was her father, who had died when she was four and of whom she had no memory at all."
+        ],
+        [
+          "The tape was eighteen minutes long.",
+          "They listened to it three times in a row, in silence.",
+          "The next day, Artur transferred the audio to the computer and made copies for the whole family, for fear the tape would get damaged.",
+          "Paula says that now, when she listens, she can almost smell the sweat and confetti of that afternoon."
+        ]
+      ],
+      "vocab": [
+        { "word": "esvaziou", "gloss": "cleared out, emptied" },
+        { "word": "etiquetas", "gloss": "labels" },
+        { "word": "gravar por cima", "gloss": "record over" },
+        { "word": "aparelho", "gloss": "device, machine" },
+        { "word": "toca-fitas", "gloss": "tape player" },
+        { "word": "loja de usados", "gloss": "second-hand shop" },
+        { "word": "chiado", "gloss": "hiss" },
+        { "word": "risadas", "gloss": "laughter" },
+        { "word": "ombro", "gloss": "shoulder" },
+        { "word": "lembrança", "gloss": "memory" },
+        { "word": "seguidas", "gloss": "in a row" },
+        { "word": "se estragasse", "gloss": "would get damaged" }
+      ]
+    },
+    {
+      "id": "pt-b2-09",
+      "title": "Troca-se apartamento",
+      "subtitle": "Flat to swap",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "O anúncio apareceu num grupo de moradores na internet: “Troco apartamento de dois quartos em Copacabana, com vista para o mar, por casa com quintal em qualquer cidade do interior. Motivo: cansei do barulho.” Dezenas de pessoas responderam, mas só uma mensagem chamou a atenção do Otávio, o dono do apartamento. Alguns ofereciam fazendas inteiras; outros, só queriam saber o preço do condomínio.",
+        "Era de uma tal de Rosângela, de Tiradentes, em Minas. Ela escreveu que tinha uma casa de pedra com um quintal enorme, um pé de jabuticaba e galinhas. Disse que tinha morado ali a vida toda e que, se não visse o mar antes dos sessenta, ia morrer de desgosto. Pediu que ele mandasse fotos da janela, e não da sala.",
+        "Durante um mês, eles trocaram mensagens sobre canos, vizinhos e impostos. Aos poucos, porém, as conversas foram mudando. O Otávio contava como o mar mudava de cor às seis da manhã, e a Rosângela descrevia o silêncio das noites de inverno, quando só se ouviam os grilos. Combinaram de fazer uma visita antes de assinar qualquer papel. Quando o Otávio desceu do ônibus em Tiradentes, a Rosângela estava esperando na rodoviária com um bolo de fubá e uma placa com o nome dele escrito errado.",
+        "A troca nunca aconteceu. Seis meses depois, os dois se casaram numa igrejinha de Tiradentes e decidiram ficar com as duas casas: o verão no Rio e o inverno em Minas. O anúncio ainda está no grupo, com um último comentário do Otávio: “Não troco mais. Juntei.”"
+      ],
+      "english": [
+        [
+          "The ad appeared in an online residents' group: \"Will swap two-bedroom flat in Copacabana, with sea view, for house with garden in any town in the interior. Reason: I'm tired of the noise.\"",
+          "Dozens of people replied, but only one message caught the attention of Otávio, the owner of the flat.",
+          "Some offered whole farms; others just wanted to know the price of the building fees."
+        ],
+        [
+          "It was from a certain Rosângela, from Tiradentes, in Minas.",
+          "She wrote that she had a stone house with a huge garden, a jabuticaba tree and chickens.",
+          "She said she had lived there all her life and that, if she didn't see the sea before she turned sixty, she would die of sorrow.",
+          "She asked him to send photos of the window, not the living room."
+        ],
+        [
+          "For a month, they exchanged messages about pipes, neighbours and taxes.",
+          "Little by little, however, the conversations began to change.",
+          "Otávio described how the sea changed colour at six in the morning, and Rosângela described the silence of winter nights, when only the crickets could be heard.",
+          "They agreed to visit before signing any paperwork.",
+          "When Otávio got off the bus in Tiradentes, Rosângela was waiting at the bus station with a cornmeal cake and a sign with his name spelled wrong."
+        ],
+        [
+          "The swap never happened.",
+          "Six months later, the two of them got married in a little church in Tiradentes and decided to keep both houses: summer in Rio and winter in Minas.",
+          "The ad is still in the group, with a last comment from Otávio: \"No longer swapping. Combined instead.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "anúncio", "gloss": "advert" },
+        { "word": "quintal", "gloss": "garden, backyard" },
+        { "word": "cansei", "gloss": "I'm tired, I've had enough" },
+        { "word": "chamou a atenção", "gloss": "caught the attention" },
+        { "word": "uma tal de", "gloss": "a certain (woman called)" },
+        { "word": "pé de jabuticaba", "gloss": "jabuticaba tree" },
+        { "word": "desgosto", "gloss": "sorrow, grief" },
+        { "word": "canos", "gloss": "pipes" },
+        { "word": "impostos", "gloss": "taxes" },
+        { "word": "grilos", "gloss": "crickets" },
+        { "word": "Combinaram", "gloss": "they agreed, arranged" },
+        { "word": "Juntei", "gloss": "I put them together, combined" }
+      ]
+    },
+    {
+      "id": "pt-b2-10",
+      "title": "Aipim, mandioca ou macaxeira?",
+      "subtitle": "Aipim, mandioca or macaxeira?",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Quando o gaúcho Eduardo foi transferido para uma filial da empresa em Recife, achou que a língua seria o menor dos seus problemas. Afinal, todos falavam português. No primeiro almoço com os colegas, ele pediu mandioca frita, e o garçom o corrigiu com toda a educação: aqui se dizia macaxeira.",
+        "Essa foi só a primeira de muitas surpresas. Quando ele disse que estava “faceiro” com o novo emprego, ninguém entendeu que ele estava feliz. Quando uma colega disse que ia “dar um rolê”, ele achou que fosse uma receita. E, quando lhe disseram que alguém era “arretado”, ele não soube se era um elogio ou um insulto.",
+        "Em vez de se irritar, o Eduardo resolveu transformar a confusão num jogo. Toda sexta-feira, ele trazia uma palavra gaúcha para o escritório, e os colegas tinham que adivinhar o significado. Em troca, eles lhe ensinavam uma palavra pernambucana. O quadro branco da sala de reuniões virou um dicionário, dividido em duas colunas. O chefe, que no começo achou a brincadeira uma perda de tempo, acabou participando mais do que todos.",
+        "Dois anos depois, quando ele foi transferido de volta para Porto Alegre, os colegas lhe deram uma camiseta com a frase “Macaxeira, aipim ou mandioca: tudo é raiz”. Hoje, ele é quem corrige os colegas gaúchos, explicando que existe um Brasil inteiro além do Rio Grande do Sul. Eles, naturalmente, acham que ele ficou arretado demais."
+      ],
+      "english": [
+        [
+          "When Eduardo, from Rio Grande do Sul, was transferred to his company's branch in Recife, he thought the language would be the least of his problems.",
+          "After all, everyone spoke Portuguese.",
+          "At his first lunch with his colleagues, he ordered fried cassava, and the waiter corrected him very politely: here they said macaxeira."
+        ],
+        [
+          "That was only the first of many surprises.",
+          "When he said he was \"faceiro\" about the new job, nobody understood that he was happy.",
+          "When a colleague said she was going to \"dar um rolê\", he thought it was a recipe.",
+          "And when they told him that someone was \"arretado\", he didn't know whether it was a compliment or an insult."
+        ],
+        [
+          "Instead of getting annoyed, Eduardo decided to turn the confusion into a game.",
+          "Every Friday, he brought a gaúcho word to the office, and his colleagues had to guess its meaning.",
+          "In return, they taught him a Pernambuco word.",
+          "The whiteboard in the meeting room turned into a dictionary, divided into two columns.",
+          "The boss, who at first thought the game was a waste of time, ended up taking part more than anyone."
+        ],
+        [
+          "Two years later, when he was transferred back to Porto Alegre, his colleagues gave him a T-shirt with the phrase \"Macaxeira, aipim or mandioca: it's all root\".",
+          "Today, he is the one who corrects his colleagues in Rio Grande do Sul, explaining that there's a whole Brazil beyond their state.",
+          "They, naturally, think he's become far too arretado."
+        ]
+      ],
+      "vocab": [
+        { "word": "transferido", "gloss": "transferred" },
+        { "word": "filial", "gloss": "branch (of a company)" },
+        { "word": "o menor dos seus problemas", "gloss": "the least of his problems" },
+        { "word": "com toda a educação", "gloss": "very politely" },
+        { "word": "elogio", "gloss": "compliment" },
+        { "word": "se irritar", "gloss": "getting annoyed" },
+        { "word": "adivinhar", "gloss": "guess" },
+        { "word": "Em troca", "gloss": "in return" },
+        { "word": "quadro branco", "gloss": "whiteboard" },
+        { "word": "raiz", "gloss": "root" },
+        { "word": "além do", "gloss": "beyond" }
+      ]
+    },
+    {
+      "id": "pt-b2-11",
+      "title": "Vinte anos depois",
+      "subtitle": "Twenty years later",
+      "topic": "Friends",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "Foi a Tati quem teve a ideia de reunir a antiga turma da faculdade de jornalismo vinte anos depois da formatura. Ela criou um grupo no celular, alugou uma casa na Lagoa da Conceição, em Florianópolis, e insistiu para que todos viessem, sem desculpas. Das trinta pessoas da turma, nove confirmaram.",
+        "No início, o clima foi estranho. Todos fingiam que não tinham reparado nos cabelos brancos e nas barrigas dos outros. O Marcelo, que tinha sido o mais engraçado da turma, agora era juiz e quase não falava. A Carol, que todos achavam que seria correspondente internacional, tinha largado o jornalismo para fazer cerveja artesanal. A própria Tati, que sonhava em morar em Paris, nunca tinha saído de Santa Catarina.",
+        "Na segunda noite, alguém encontrou um jornalzinho que a turma fazia em 2004. Eles leram as previsões que cada um tinha escrito sobre o próprio futuro e riram até chorar. O Marcelo tinha escrito que seria vocalista de uma banda de rock. Para provar que ainda era capaz, ele pegou um violão e cantou tão mal que os vizinhos reclamaram.",
+        "No último dia, a Tati propôs que escrevessem novas previsões, desta vez para daqui a vinte anos. Os papéis foram guardados numa garrafa da cerveja da Carol, que foi enterrada no quintal da casa, com autorização do dono. Ninguém revelou o que escreveu. Mas o Marcelo, na despedida, disse que tinha repetido a mesma previsão de antes, só que agora estava falando sério."
+      ],
+      "english": [
+        [
+          "It was Tati who had the idea of getting the old journalism class back together twenty years after graduation.",
+          "She created a group chat, rented a house on Lagoa da Conceição, in Florianópolis, and insisted that everyone come, no excuses.",
+          "Of the thirty people in the class, nine confirmed."
+        ],
+        [
+          "At first, the atmosphere was strange.",
+          "Everyone pretended they hadn't noticed the others' grey hair and bellies.",
+          "Marcelo, who had been the funniest in the class, was now a judge and hardly spoke.",
+          "Carol, who everyone had thought would be a foreign correspondent, had given up journalism to make craft beer.",
+          "Tati herself, who dreamed of living in Paris, had never left Santa Catarina."
+        ],
+        [
+          "On the second night, somebody found a little newspaper the class used to produce in 2004.",
+          "They read the predictions each of them had written about their own future and laughed until they cried.",
+          "Marcelo had written that he would be the singer in a rock band.",
+          "To prove he was still capable, he picked up a guitar and sang so badly that the neighbours complained."
+        ],
+        [
+          "On the last day, Tati suggested they write new predictions, this time for twenty years from now.",
+          "The papers were kept in a bottle of Carol's beer, which was buried in the garden of the house, with the owner's permission.",
+          "Nobody revealed what they wrote.",
+          "But Marcelo, as they said goodbye, said he had repeated the same prediction as before, only now he meant it."
+        ]
+      ],
+      "vocab": [
+        { "word": "reunir", "gloss": "bring together" },
+        { "word": "formatura", "gloss": "graduation" },
+        { "word": "insistiu", "gloss": "insisted" },
+        { "word": "clima", "gloss": "atmosphere" },
+        { "word": "reparado", "gloss": "noticed" },
+        { "word": "barrigas", "gloss": "bellies" },
+        { "word": "juiz", "gloss": "judge" },
+        { "word": "largado", "gloss": "given up" },
+        { "word": "previsões", "gloss": "predictions" },
+        { "word": "foram guardados", "gloss": "were kept" },
+        { "word": "enterrada", "gloss": "buried" },
+        { "word": "despedida", "gloss": "farewell" }
+      ]
+    },
+    {
+      "id": "pt-b2-12",
+      "title": "O muro do Rio Vermelho",
+      "subtitle": "The wall in Rio Vermelho",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Numa segunda-feira de manhã, os moradores do Rio Vermelho, em Salvador, acordaram com uma surpresa. O muro cinza de uma garagem abandonada tinha sido coberto, durante a noite, por um enorme mural colorido. Ele mostrava uma baiana de acarajé voando sobre o mar, com uma panela de dendê nas mãos. Não havia assinatura.",
+        "Em poucos dias, o mural ficou famoso. Turistas tiravam fotos, jornais faziam reportagens e todos queriam saber quem era o artista misterioso. Alguns diziam que se tratava de um grafiteiro famoso de São Paulo; outros, de um coletivo de estudantes de belas-artes. A prefeitura anunciou que o mural seria preservado e que o autor seria convidado para pintar outros muros da cidade.",
+        "Uma jornalista do bairro, a Ivone, resolveu investigar. Ela notou que a baiana do mural tinha uma pinta no queixo, igualzinha à da dona Dete, que vendia acarajé na esquina havia trinta anos. Quando a Ivone perguntou se ela conhecia o artista, a dona Dete deu uma gargalhada e chamou o marido.",
+        "O autor do mural era o seu Valdir, um motorista de ônibus aposentado de setenta anos que nunca tinha estudado arte. Ele explicou que tinha passado a vida desenhando em guardanapos durante os intervalos e que quis dar um presente de aniversário à esposa. Perguntado sobre o convite da prefeitura, ele disse que aceitaria, contanto que pudesse continuar trabalhando de noite. — De dia, eu tenho vergonha — confessou."
+      ],
+      "english": [
+        [
+          "One Monday morning, the residents of Rio Vermelho, in Salvador, woke up to a surprise.",
+          "The grey wall of an abandoned garage had been covered, during the night, by a huge colourful mural.",
+          "It showed an acarajé seller flying over the sea, with a pan of palm oil in her hands.",
+          "There was no signature."
+        ],
+        [
+          "Within a few days, the mural became famous.",
+          "Tourists took photos, newspapers ran stories and everyone wanted to know who the mysterious artist was.",
+          "Some said it was a famous graffiti artist from São Paulo; others, a collective of fine-arts students.",
+          "The city council announced that the mural would be preserved and that its author would be invited to paint other walls in the city."
+        ],
+        [
+          "A journalist from the neighbourhood, Ivone, decided to investigate.",
+          "She noticed that the acarajé seller in the mural had a mole on her chin, exactly like the one Dona Dete had, who had been selling acarajé on the corner for thirty years.",
+          "When Ivone asked her if she knew the artist, Dona Dete burst out laughing and called her husband."
+        ],
+        [
+          "The author of the mural was Seu Valdir, a seventy-year-old retired bus driver who had never studied art.",
+          "He explained that he had spent his life drawing on napkins during his breaks and that he had wanted to give his wife a birthday present.",
+          "Asked about the council's invitation, he said he would accept, as long as he could carry on working at night.",
+          "\"In the daytime, I'm too shy,\" he confessed."
+        ]
+      ],
+      "vocab": [
+        { "word": "tinha sido coberto", "gloss": "had been covered" },
+        { "word": "baiana de acarajé", "gloss": "acarajé seller (in traditional Bahian dress)" },
+        { "word": "dendê", "gloss": "palm oil" },
+        { "word": "se tratava de", "gloss": "it was (a case of)" },
+        { "word": "belas-artes", "gloss": "fine arts" },
+        { "word": "seria preservado", "gloss": "would be preserved" },
+        { "word": "pinta", "gloss": "mole, beauty spot" },
+        { "word": "queixo", "gloss": "chin" },
+        { "word": "deu uma gargalhada", "gloss": "burst out laughing" },
+        { "word": "guardanapos", "gloss": "napkins" },
+        { "word": "intervalos", "gloss": "breaks" },
+        { "word": "contanto que", "gloss": "as long as" }
+      ]
+    },
+    {
+      "id": "pt-b2-13",
+      "title": "A lista dos trinta",
+      "subtitle": "The thirty list",
+      "topic": "Plans",
+      "symbol": "calendar",
+      "paragraphs": [
+        "No dia em que fez vinte e cinco anos, a Mariana escreveu, num caderno, uma lista de dez coisas que queria fazer antes dos trinta. Morar sozinha, aprender a nadar, conhecer a Amazônia, correr uma maratona, pedir demissão de um emprego chato. Ela mostrou a lista à melhor amiga, a Jéssica, que lhe disse que metade daquilo era impossível para quem morava com os pais em Belo Horizonte e ganhava pouco.",
+        "Durante quatro anos, o caderno ficou esquecido numa gaveta. Quando a Mariana o encontrou, faltavam só onze meses para o aniversário de trinta. Ela tinha feito apenas um item: morar sozinha. Em vez de desanimar, ela se sentou à mesa da cozinha e fez um plano detalhado para cada mês, como se fosse um projeto de trabalho.",
+        "Nem tudo deu certo. Algumas metas, ela percebeu, tinham sido escritas para impressionar os outros, e não porque ela realmente as desejasse. A maratona foi trocada por uma corrida de dez quilômetros, que ela terminou caminhando. A viagem à Amazônia teve que ser adiada por causa de dinheiro. Mas ela aprendeu a nadar numa piscina pública, às seis da manhã, ao lado de senhoras de oitenta anos que a incentivavam. E, no mês nove, pediu demissão.",
+        "No aniversário de trinta, a Jéssica lhe deu um caderno novo de presente. Na primeira página, tinha escrito: “Lista dos quarenta. Desta vez, eu vou junto.” A Mariana disse que aceitava a companhia com uma condição: que a amiga começasse aprendendo a nadar."
+      ],
+      "english": [
+        [
+          "On the day she turned twenty-five, Mariana wrote, in a notebook, a list of ten things she wanted to do before she was thirty.",
+          "Live alone, learn to swim, visit the Amazon, run a marathon, quit a boring job.",
+          "She showed the list to her best friend, Jéssica, who told her that half of it was impossible for someone who lived with her parents in Belo Horizonte and earned little."
+        ],
+        [
+          "For four years, the notebook lay forgotten in a drawer.",
+          "When Mariana found it, there were only eleven months left until her thirtieth birthday.",
+          "She had done only one item: living alone.",
+          "Instead of losing heart, she sat down at the kitchen table and made a detailed plan for each month, as if it were a work project."
+        ],
+        [
+          "Not everything worked out.",
+          "Some goals, she realised, had been written to impress other people, and not because she really wanted them.",
+          "The marathon was swapped for a ten-kilometre race, which she finished walking.",
+          "The trip to the Amazon had to be postponed because of money.",
+          "But she learned to swim in a public pool, at six in the morning, alongside eighty-year-old ladies who encouraged her.",
+          "And, in month nine, she quit her job."
+        ],
+        [
+          "On her thirtieth birthday, Jéssica gave her a new notebook as a present.",
+          "On the first page, she had written: \"The forty list. This time, I'm coming along.\"",
+          "Mariana said she accepted the company on one condition: that her friend start by learning to swim."
+        ]
+      ],
+      "vocab": [
+        { "word": "pedir demissão", "gloss": "quit (a job)" },
+        { "word": "chato", "gloss": "boring" },
+        { "word": "gaveta", "gloss": "drawer" },
+        { "word": "faltavam", "gloss": "there were ... left" },
+        { "word": "desanimar", "gloss": "losing heart" },
+        { "word": "detalhado", "gloss": "detailed" },
+        { "word": "deu certo", "gloss": "worked out" },
+        { "word": "foi trocada", "gloss": "was swapped" },
+        { "word": "adiada", "gloss": "postponed" },
+        { "word": "incentivavam", "gloss": "encouraged" },
+        { "word": "companhia", "gloss": "company" }
+      ]
+    },
+    {
+      "id": "pt-b2-14",
+      "title": "Crítica: o melhor tacacá de Belém",
+      "subtitle": "Review: the best tacacá in Belém",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Confesso que fui ao Tacacá da Dona Iracema com a intenção de escrever uma crítica negativa. Um leitor tinha me mandado um e-mail furioso, dizendo que eu só elogiava restaurantes caros e que nunca tinha comido nada de verdade. Ele sugeriu que eu provasse a barraca de uma senhora na praça Batista Campos, e eu, por puro orgulho, fui disposto a não gostar.",
+        "A barraca não tem mesa nem cardápio. Há um banquinho de madeira, uma panela fumegante e a própria dona Iracema, que serve o tacacá numa cuia, como manda a tradição. O tucupi, aquele caldo amarelo feito da mandioca, é ácido na medida certa. O camarão é seco, salgado e abundante. E há o jambu, a folha que faz a boca tremer de leve, como se a língua estivesse recebendo uma pequena descarga elétrica.",
+        "Tentei encontrar defeitos. Talvez a goma estivesse um pouco grossa demais. Talvez a cuia estivesse quente demais para as mãos. Mas, quando percebi, já tinha pedido a segunda. A dona Iracema me olhou de cima a baixo e perguntou se eu era o crítico de jornal. Diante da minha resposta, ela apenas disse que o leitor era neto dela.",
+        "Nota: cinco estrelas, a primeira que dou neste ano. Preço: menos do que um café num shopping de São Paulo. Recomendação: chegue cedo, porque às seis da tarde já não sobra nada. E, ao neto da dona Iracema, peço publicamente desculpas. Ele tinha razão."
+      ],
+      "english": [
+        [
+          "I confess that I went to Dona Iracema's Tacacá with the intention of writing a negative review.",
+          "A reader had sent me a furious email, saying that I only praised expensive restaurants and had never eaten anything real.",
+          "He suggested I try a stall run by a lady in Batista Campos square, and I, out of pure pride, went determined not to like it."
+        ],
+        [
+          "The stall has neither tables nor a menu.",
+          "There is a little wooden stool, a steaming pot and Dona Iracema herself, who serves the tacacá in a gourd bowl, as tradition dictates.",
+          "The tucupi, that yellow broth made from cassava, is just acidic enough.",
+          "The prawns are dried, salty and plentiful.",
+          "And there is jambu, the leaf that makes your mouth tingle slightly, as if your tongue were receiving a small electric shock."
+        ],
+        [
+          "I tried to find faults.",
+          "Perhaps the tapioca starch was a little too thick.",
+          "Perhaps the gourd was too hot for the hands.",
+          "But before I knew it, I had already ordered a second one.",
+          "Dona Iracema looked me up and down and asked whether I was the newspaper critic.",
+          "When I answered, she simply said that the reader was her grandson."
+        ],
+        [
+          "Rating: five stars, the first I have given this year.",
+          "Price: less than a coffee in a São Paulo shopping centre.",
+          "Recommendation: get there early, because by six in the evening there's nothing left.",
+          "And, to Dona Iracema's grandson, I publicly apologise.",
+          "He was right."
+        ]
+      ],
+      "vocab": [
+        { "word": "crítica", "gloss": "review" },
+        { "word": "elogiava", "gloss": "praised" },
+        { "word": "provasse", "gloss": "try, taste" },
+        { "word": "disposto a", "gloss": "determined to, ready to" },
+        { "word": "fumegante", "gloss": "steaming" },
+        { "word": "cuia", "gloss": "gourd bowl" },
+        { "word": "caldo", "gloss": "broth" },
+        { "word": "na medida certa", "gloss": "just right" },
+        { "word": "de leve", "gloss": "slightly" },
+        { "word": "defeitos", "gloss": "faults, flaws" },
+        { "word": "de cima a baixo", "gloss": "up and down" },
+        { "word": "Ele tinha razão", "gloss": "he was right" }
+      ]
+    },
+    {
+      "id": "pt-b2-15",
+      "title": "A travessia",
+      "subtitle": "The crossing",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "A travessia do Vale do Pati, na Chapada Diamantina, leva quatro dias e é considerada uma das mais bonitas do Brasil. O grupo do guia Zé Carlos tinha seis pessoas: um casal de São Paulo, dois irmãos de Brasília, uma médica de Recife e o Bruno, um rapaz calado que não tinha trazido nem bota de trilha. Todos acharam que ele seria o primeiro a desistir.",
+        "No primeiro dia, foi justamente o contrário. O Bruno subia as pedras de tênis velho, sem reclamar, enquanto os irmãos de Brasília paravam a cada vinte minutos. À noite, na casa de um morador do vale onde dormiram, ele ajudou a cozinhar e conhecia o nome de todas as plantas. A médica perguntou se ele já tinha feito aquela trilha, e ele respondeu apenas que não daquele jeito.",
+        "No terceiro dia, uma chuva forte fez o rio subir, e a passagem ficou perigosa. O Zé Carlos queria voltar, mas o Bruno sugeriu um caminho alternativo, pela encosta, que não aparecia em nenhum mapa. Depois de hesitar, o guia aceitou, e o grupo chegou em segurança ao outro lado.",
+        "Na última noite, o Bruno finalmente contou a sua história. Ele tinha nascido no vale, numa das casas onde eles tinham dormido, e saíra de lá aos doze anos, quando a família se mudou para Salvador. Era a primeira vez que voltava, e quis chegar como turista para ver se alguém o reconheceria. A dona da casa o reconheceu na hora, pelo jeito de rir, e chorou a noite inteira."
+      ],
+      "english": [
+        [
+          "The Vale do Pati trek, in the Chapada Diamantina, takes four days and is considered one of the most beautiful in Brazil.",
+          "Guide Zé Carlos's group had six people: a couple from São Paulo, two brothers from Brasília, a doctor from Recife and Bruno, a quiet young man who hadn't even brought hiking boots.",
+          "Everyone thought he would be the first to give up."
+        ],
+        [
+          "On the first day, it was exactly the opposite.",
+          "Bruno climbed the rocks in old trainers, without complaining, while the brothers from Brasília stopped every twenty minutes.",
+          "At night, in the house of a valley resident where they slept, he helped with the cooking and knew the name of every plant.",
+          "The doctor asked if he had done that trail before, and he only replied that he hadn't done it that way."
+        ],
+        [
+          "On the third day, heavy rain made the river rise, and the crossing became dangerous.",
+          "Zé Carlos wanted to turn back, but Bruno suggested an alternative route, along the hillside, that didn't appear on any map.",
+          "After hesitating, the guide agreed, and the group got safely to the other side."
+        ],
+        [
+          "On the last night, Bruno finally told his story.",
+          "He had been born in the valley, in one of the houses where they had slept, and had left at twelve, when his family moved to Salvador.",
+          "It was the first time he had come back, and he wanted to arrive as a tourist to see if anyone would recognise him.",
+          "The lady of the house recognised him straight away, by the way he laughed, and cried all night."
+        ]
+      ],
+      "vocab": [
+        { "word": "travessia", "gloss": "crossing, trek" },
+        { "word": "é considerada", "gloss": "is considered" },
+        { "word": "calado", "gloss": "quiet" },
+        { "word": "bota de trilha", "gloss": "hiking boot" },
+        { "word": "justamente o contrário", "gloss": "exactly the opposite" },
+        { "word": "daquele jeito", "gloss": "that way" },
+        { "word": "subir", "gloss": "rise" },
+        { "word": "encosta", "gloss": "hillside, slope" },
+        { "word": "hesitar", "gloss": "hesitating" },
+        { "word": "em segurança", "gloss": "safely" },
+        { "word": "saíra", "gloss": "had left" },
+        { "word": "reconheceria", "gloss": "would recognise" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "language": "pt",
+  "level": "C2",
+  "stories": [
+    {
+      "id": "pt-c2-01",
+      "title": "Manual do síndico exemplar",
+      "subtitle": "The model building manager's handbook",
+      "topic": "Neighbours",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Você foi eleito síndico. Não se iluda: ninguém votou em você por mérito, e sim porque você cometeu o erro fatal de chegar à assembleia na hora marcada e foi o único que não conseguiu inventar uma desculpa a tempo. Parabéns. A partir de hoje, você é o homem mais poderoso e mais odiado de um universo de quarenta e oito apartamentos, duas vagas de garagem disputadas a tapa e um salão de festas que ninguém usa, mas todos defendem. Este manual pretende ajudá-lo a sobreviver ao mandato com a sanidade relativamente intacta.",
+        "Regra número um: jamais responda ao grupo de mensagens do condomínio depois das dez da noite. É nesse horário que desabrocham as grandes questões da humanidade, como o cheiro de fritura que sobe misteriosamente pelo poço de ventilação ou a identidade do monstro que deixa a porta da garagem aberta. Qualquer resposta sua será interpretada como confissão de culpa, e qualquer silêncio, como cumplicidade. Recomenda-se, portanto, o silêncio, que ao menos é mais barato.",
+        "Regra número dois: toda obra é um ato de guerra. O morador do 704, que resolveu derrubar uma parede para ampliar a cozinha, jurará que a furadeira só funciona das nove às cinco, em dias úteis. A aposentada do 604, que mora embaixo dele, jurará ter ouvido marteladas às seis da manhã de um domingo de Páscoa. Ambos estarão dizendo a verdade, cada um à sua maneira, e ambos exigirão que você tome providências imediatas, de preferência contra o outro.",
+        "Regra número três: o porteiro sabe tudo. Sabe quem chega tarde, quem chega acompanhado, quem não paga o condomínio há meses e quem pede comida todas as noites porque não sabe fritar um ovo. Trate-o com a reverência devida a um chefe de Estado, pois ele detém mais informação do que qualquer serviço secreto e, ao contrário destes, é discreto. Se um dia ele resolver escrever as memórias, metade do prédio terá de se mudar.",
+        "Por fim, lembre-se de que o mandato dura dois anos e de que a próxima assembleia, quando chegar, terá exatamente o mesmo número de presentes que a anterior: você, o porteiro e uma senhora que veio por engano, achando que era o bingo. Chegue atrasado. É a sua única chance de liberdade."
+      ],
+      "english": [
+        [
+          "You have been elected building manager.",
+          "Don't fool yourself: nobody voted for you on merit, but because you made the fatal mistake of arriving at the meeting on time and were the only one who couldn't come up with an excuse quickly enough.",
+          "Congratulations.",
+          "From today, you are the most powerful and most hated man in a universe of forty-eight flats, two parking spaces fought over tooth and nail and a function room that nobody uses but everyone defends.",
+          "This handbook aims to help you survive your term of office with your sanity relatively intact."
+        ],
+        [
+          "Rule number one: never reply to the building's messaging group after ten at night.",
+          "It is at that hour that humanity's great questions blossom, such as the smell of frying that mysteriously rises up the ventilation shaft or the identity of the monster who leaves the garage door open.",
+          "Any reply from you will be interpreted as a confession of guilt, and any silence as complicity.",
+          "Silence is therefore recommended, since it is at least cheaper."
+        ],
+        [
+          "Rule number two: all building work is an act of war.",
+          "The resident of 704, who decided to knock down a wall to enlarge his kitchen, will swear that the drill only runs from nine to five, on weekdays.",
+          "The retired lady in 604, who lives below him, will swear she heard hammering at six in the morning on Easter Sunday.",
+          "Both will be telling the truth, each in their own way, and both will demand that you take immediate action, preferably against the other."
+        ],
+        [
+          "Rule number three: the doorman knows everything.",
+          "He knows who comes home late, who comes home with company, who hasn't paid the service charge for months and who orders food every night because they can't fry an egg.",
+          "Treat him with the reverence due to a head of state, for he holds more information than any secret service and, unlike them, is discreet.",
+          "If he ever decides to write his memoirs, half the building will have to move out."
+        ],
+        [
+          "Finally, remember that your term lasts two years and that the next meeting, when it comes, will have exactly the same attendance as the previous one: you, the doorman and an old lady who came by mistake, thinking it was bingo.",
+          "Arrive late.",
+          "It's your only chance of freedom."
+        ]
+      ],
+      "vocab": [
+        { "word": "Não se iluda", "gloss": "don't fool yourself" },
+        { "word": "assembleia", "gloss": "residents' meeting" },
+        { "word": "disputadas a tapa", "gloss": "fought over tooth and nail" },
+        { "word": "mandato", "gloss": "term of office" },
+        { "word": "desabrocham", "gloss": "blossom" },
+        { "word": "poço de ventilação", "gloss": "ventilation shaft" },
+        { "word": "cumplicidade", "gloss": "complicity" },
+        { "word": "obra", "gloss": "building work" },
+        { "word": "furadeira", "gloss": "drill" },
+        { "word": "dias úteis", "gloss": "weekdays, working days" },
+        { "word": "marteladas", "gloss": "hammering" },
+        { "word": "tome providências", "gloss": "take action" },
+        { "word": "condomínio", "gloss": "service charge (also: building)" },
+        { "word": "detém", "gloss": "holds" },
+        { "word": "por engano", "gloss": "by mistake" }
+      ]
+    },
+    {
+      "id": "pt-c2-02",
+      "title": "Em doze vezes sem juros",
+      "subtitle": "In twelve interest-free instalments",
+      "topic": "Money",
+      "symbol": "creditcard.fill",
+      "paragraphs": [
+        "O brasileiro não compra coisas: compra parcelas. Pergunte a um conhecido quanto custou a televisão nova e ele dificilmente dirá um número; dirá, com uma ponta de orgulho, que saiu por dez vezes de cento e noventa e nove, sem juros, no cartão. O preço total é uma abstração, uma entidade metafísica sobre a qual não convém especular. O que importa é que a parcela caiba no bolso, ainda que o bolso já esteja dividido em fatias mais finas que mortadela de padaria.",
+        "Há quem enxergue nisso um sintoma de irresponsabilidade financeira. Eu prefiro ver uma forma refinada de otimismo. Não o otimismo ingênuo de quem acredita que tudo vai dar certo, mas o otimismo calejado de quem já viu tudo dar errado e, mesmo assim, insiste em assinar o carnê. Quem parcela uma geladeira em dezoito meses está declarando, com uma fé que faria inveja a muitos teólogos, que estará vivo, empregado e solvente daqui a um ano e meio. Num país onde a moeda mudou de nome seis vezes em meio século, isso não é imprudência: é heroísmo.",
+        "O comércio, evidentemente, entendeu o espírito da coisa muito antes dos economistas. Hoje é possível parcelar o material escolar, a passagem de ônibus para o interior, o churrasco de aniversário e, em certos estabelecimentos mais ousados, o próprio cafezinho. Conheço uma senhora que pagou o enterro do marido em vinte e quatro vezes e que, segundo ela, ainda sente a presença dele todo dia dez, quando chega a fatura. Há casais que se separam antes de terminar de pagar a lua de mel e passam meses, depois do divórcio, quitando juntos a lembrança de Porto Seguro.",
+        "O problema, claro, é que as parcelas têm o hábito desagradável de se encontrar. A da televisão esbarra na da geladeira, que tropeça na do celular, que se engalfinha com a do enterro, até que todas, juntas, formam um coral desafinado que canta, no começo de cada mês, a mesma ladainha melancólica. Nessa hora, o otimista vira devedor, e o heroísmo se transforma em renegociação.",
+        "Escrevo esta coluna num computador novo, comprado em doze vezes sem juros. Estou na terceira parcela. Se o texto parecer otimista demais, peço ao leitor que tenha paciência e volte a lê-lo em nove meses, quando terei, enfim, quitado as minhas convicções."
+      ],
+      "english": [
+        [
+          "Brazilians don't buy things: they buy instalments.",
+          "Ask an acquaintance how much their new television cost and they will hardly ever tell you a number; they will say, with a hint of pride, that it came to ten instalments of a hundred and ninety-nine, interest-free, on the card.",
+          "The total price is an abstraction, a metaphysical entity about which it is unwise to speculate.",
+          "What matters is that the instalment fits in your pocket, even if your pocket is already sliced thinner than bakery mortadella."
+        ],
+        [
+          "Some see this as a symptom of financial irresponsibility.",
+          "I prefer to see in it a refined form of optimism.",
+          "Not the naive optimism of those who believe everything will turn out fine, but the hardened optimism of those who have seen everything go wrong and, even so, insist on signing the payment book.",
+          "Whoever pays for a fridge in eighteen months is declaring, with a faith that many theologians would envy, that they will be alive, employed and solvent a year and a half from now.",
+          "In a country where the currency changed its name six times in half a century, that isn't recklessness: it's heroism."
+        ],
+        [
+          "Retail, of course, grasped the spirit of the thing long before the economists.",
+          "Today you can pay in instalments for school supplies, the bus ticket to the countryside, the birthday barbecue and, in certain more daring establishments, the coffee itself.",
+          "I know a lady who paid for her husband's funeral in twenty-four instalments and who, she says, still feels his presence on the tenth of every month, when the bill arrives.",
+          "There are couples who split up before they've finished paying for their honeymoon and spend months after the divorce paying off the memory of Porto Seguro together."
+        ],
+        [
+          "The problem, of course, is that instalments have the unpleasant habit of meeting up.",
+          "The television's bumps into the fridge's, which trips over the phone's, which grapples with the funeral's, until all of them together form an out-of-tune choir that sings, at the start of each month, the same melancholy litany.",
+          "At that point, the optimist becomes a debtor, and heroism turns into renegotiation."
+        ],
+        [
+          "I am writing this column on a new computer, bought in twelve interest-free instalments.",
+          "I'm on the third instalment.",
+          "If the piece seems too optimistic, I ask the reader to be patient and read it again in nine months, when I will at last have paid off my convictions."
+        ]
+      ],
+      "vocab": [
+        { "word": "parcelas", "gloss": "instalments" },
+        { "word": "com uma ponta de", "gloss": "with a hint of" },
+        { "word": "não convém", "gloss": "it is unwise" },
+        { "word": "fatias", "gloss": "slices" },
+        { "word": "enxergue", "gloss": "sees" },
+        { "word": "parcela", "gloss": "pays in instalments" },
+        { "word": "faria inveja", "gloss": "would make envious" },
+        { "word": "solvente", "gloss": "solvent" },
+        { "word": "ousados", "gloss": "daring" },
+        { "word": "fatura", "gloss": "(card) bill" },
+        { "word": "esbarra", "gloss": "bumps into" },
+        { "word": "se engalfinha", "gloss": "grapples, comes to blows" },
+        { "word": "desafinado", "gloss": "out of tune" },
+        { "word": "ladainha", "gloss": "litany" },
+        { "word": "quitado", "gloss": "paid off" }
+      ]
+    },
+    {
+      "id": "pt-c2-03",
+      "title": "São Paulo, quatro da manhã",
+      "subtitle": "São Paulo, four in the morning",
+      "topic": "City",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Às quatro da manhã, São Paulo finge que dorme. Não acredite. A cidade apenas baixa a voz, como um bêbado que descobre de repente que está numa igreja. Os semáforos continuam piscando para ninguém, verde, amarelo, vermelho, com a teimosia dos funcionários públicos que cumprem horário mesmo quando não há público.",
+        "Na avenida São João, um homem varre uma calçada que ninguém vai sujar antes das seis. Varre com método, de cabeça baixa, como quem reza. No ponto de ônibus, uma enfermeira de uniforme branco cochila em pé, e o seu corpo, sabiamente, decidiu que sono é coisa que se toma em goles curtos, como café de padaria. Um caminhão de lixo passa rugindo, e por um momento a cidade inteira cheira ao que comeu no dia anterior. Um motoboy corta a avenida Paulista vazia a uma velocidade que, de dia, seria pura ficção, e por alguns segundos parece o dono do mundo.",
+        "Nos prédios, as janelas acesas são poucas e cada uma conta uma história que não vou conhecer. Um estudante relê pela décima vez a mesma página. Um casal discute em voz baixa para não acordar as crianças, o que torna a discussão mais cruel. Um velho escuta, no rádio de pilha, um jogo de futebol reprisado cujo resultado conhece de cor. Uma senhora, que não dorme desde que enviuvou, rega as plantas da varanda com uma xícara, porque o regador era dele.",
+        "Lá embaixo, na padaria da esquina, o padeiro já está de pé há duas horas. É ele, e não o sol, quem de fato inaugura o dia. Quando a primeira fornada de pão francês sai do forno, o cheiro atravessa a rua, sobe pelas frestas e alcança até os insones mais empedernidos, que se rendem, enfim, à evidência de que o mundo vai continuar.",
+        "Daqui a pouco, a cidade vai acordar de vez, rouca, apressada, mal-humorada, buzinando para si mesma. Vai esquecer o varredor, a enfermeira, a senhora da xícara. Mas, por uma hora, às quatro da manhã, São Paulo é uma cidade pequena, quase tímida, que cabe inteira no intervalo entre dois sinais vermelhos. É nessa hora que eu gosto dela. É nessa hora que ela não sabe que alguém está olhando."
+      ],
+      "english": [
+        [
+          "At four in the morning, São Paulo pretends to be asleep.",
+          "Don't believe it.",
+          "The city merely lowers its voice, like a drunk who suddenly realises he's in a church.",
+          "The traffic lights keep blinking for no one, green, amber, red, with the stubbornness of civil servants who keep their hours even when there's no public."
+        ],
+        [
+          "On Avenida São João, a man sweeps a pavement that nobody will dirty before six.",
+          "He sweeps methodically, head bowed, like someone praying.",
+          "At the bus stop, a nurse in a white uniform dozes standing up, and her body has wisely decided that sleep is something taken in short sips, like bakery coffee.",
+          "A rubbish lorry passes roaring by, and for a moment the whole city smells of what it ate the day before.",
+          "A motorbike courier tears down the empty Avenida Paulista at a speed that, by day, would be pure fiction, and for a few seconds he seems to own the world."
+        ],
+        [
+          "In the buildings, the lit windows are few and each tells a story I will never know.",
+          "A student rereads the same page for the tenth time.",
+          "A couple argue in low voices so as not to wake the children, which makes the argument crueller.",
+          "An old man listens, on a battery radio, to a rerun of a football match whose result he knows by heart.",
+          "An old lady, who hasn't slept since she was widowed, waters the plants on the balcony with a cup, because the watering can was his."
+        ],
+        [
+          "Down below, at the bakery on the corner, the baker has already been up for two hours.",
+          "It is he, and not the sun, who really opens the day.",
+          "When the first batch of French bread comes out of the oven, the smell crosses the street, rises through the cracks and reaches even the most hardened insomniacs, who finally surrender to the evidence that the world is going to go on."
+        ],
+        [
+          "Soon the city will wake up for good, hoarse, hurried, bad-tempered, honking at itself.",
+          "It will forget the sweeper, the nurse, the lady with the cup.",
+          "But for one hour, at four in the morning, São Paulo is a small city, almost shy, that fits entirely in the gap between two red lights.",
+          "That's the hour when I love it.",
+          "That's the hour when it doesn't know anyone is watching."
+        ]
+      ],
+      "vocab": [
+        { "word": "baixa a voz", "gloss": "lowers (its) voice" },
+        { "word": "teimosia", "gloss": "stubbornness" },
+        { "word": "cumprem horário", "gloss": "keep (their) hours" },
+        { "word": "varre", "gloss": "sweeps" },
+        { "word": "cochila", "gloss": "dozes" },
+        { "word": "em goles curtos", "gloss": "in short sips" },
+        { "word": "rugindo", "gloss": "roaring" },
+        { "word": "enviuvou", "gloss": "was widowed" },
+        { "word": "regador", "gloss": "watering can" },
+        { "word": "fornada", "gloss": "batch (from the oven)" },
+        { "word": "frestas", "gloss": "cracks, chinks" },
+        { "word": "insones", "gloss": "insomniacs" },
+        { "word": "empedernidos", "gloss": "hardened" },
+        { "word": "se rendem", "gloss": "surrender" },
+        { "word": "rouca", "gloss": "hoarse" }
+      ]
+    },
+    {
+      "id": "pt-c2-04",
+      "title": "O minuano",
+      "subtitle": "The minuano wind",
+      "topic": "Weather",
+      "symbol": "wind",
+      "paragraphs": [
+        "O minuano chegou numa terça-feira de junho, sem pedir licença, como chegam os parentes que ninguém convidou e todo mundo esperava. Veio do sudoeste, varrendo a campanha gaúcha com aquele assobio fino que os velhos da estância diziam ser a voz dos mortos da Revolução Farroupilha, ainda discutindo entre si. Em poucas horas, a temperatura despencou para perto de zero, e a geada cobriu os campos de uma brancura de lençol recém-lavado.",
+        "O velho Teodoro não se levantou para recebê-lo. Ficou junto ao fogão a lenha, de poncho e bombacha, a cuia de chimarrão esquecida na mão, olhando pela janela embaçada as coxilhas que o vento penteava. Fazia setenta anos que ele via o minuano chegar, e em todos esses anos tinha aprendido apenas uma coisa: o vento não se enfrenta, se espera.",
+        "A neta, que tinha vindo de Porto Alegre para passar as férias de inverno, não compartilhava dessa paciência. Andava de um lado para o outro da sala, enrolada em dois cobertores, levantando o celular em direção ao teto à procura de um sinal que o minuano parecia ter levado consigo. — Vô, como é que o senhor aguenta isso? — perguntou, exasperada. O velho demorou a responder. Encheu a cuia outra vez, sorveu devagar e estendeu-a para ela, num gesto que, na fronteira, vale mais do que qualquer discurso.",
+        "— A gente não aguenta, minha filha — disse ele por fim. — A gente conversa. Ela achou que fosse mais uma das manias do avô e, por educação, aceitou o mate. Mas, como não havia mais nada a fazer, sentou-se ao lado dele, e os dois ficaram ali, passando a cuia de mão em mão, enquanto o vento uivava lá fora. Ele contou histórias que ela nunca tinha ouvido: da avó que ela não conheceu, de um cavalo chamado Pampeiro, de um inverno em que o açude congelou e os peões patinaram de bota.",
+        "O minuano foi embora três dias depois, tão abruptamente quanto tinha chegado. O sinal do celular voltou, e com ele as dezenas de mensagens acumuladas que a neta leu sem pressa, quase com desinteresse. No ano seguinte, ela voltou à estância em junho, e não em janeiro. Quando a mãe quis saber por quê, ela respondeu que tinha uma conversa pendente com o vento."
+      ],
+      "english": [
+        [
+          "The minuano arrived on a Tuesday in June, without asking permission, the way relatives arrive whom nobody invited and everyone was expecting.",
+          "It came from the southwest, sweeping across the gaúcho plains with that thin whistle that the old men on the ranch said was the voice of the dead of the Ragamuffin War, still arguing among themselves.",
+          "Within hours, the temperature plummeted to near zero, and the frost covered the fields with the whiteness of a freshly washed sheet."
+        ],
+        [
+          "Old Teodoro didn't get up to greet it.",
+          "He stayed by the wood stove, in poncho and bombachas, the gourd of chimarrão forgotten in his hand, looking through the steamed-up window at the rolling hills the wind was combing.",
+          "He had been watching the minuano arrive for seventy years, and in all those years had learned only one thing: you don't fight the wind, you wait for it."
+        ],
+        [
+          "His granddaughter, who had come from Porto Alegre to spend the winter holidays, did not share that patience.",
+          "She paced back and forth across the room, wrapped in two blankets, holding her phone up towards the ceiling in search of a signal the minuano seemed to have taken with it.",
+          "\"Grandpa, how do you put up with this?\" she asked, exasperated.",
+          "The old man took his time answering.",
+          "He filled the gourd again, sipped slowly and held it out to her, a gesture that, out on the border, is worth more than any speech."
+        ],
+        [
+          "\"We don't put up with it, girl,\" he said at last.",
+          "\"We talk.\"",
+          "She thought it was another of her grandfather's quirks and, out of politeness, accepted the mate.",
+          "But, as there was nothing else to do, she sat down beside him, and the two of them stayed there, passing the gourd from hand to hand, while the wind howled outside.",
+          "He told stories she had never heard: of the grandmother she never knew, of a horse called Pampeiro, of a winter when the dam froze and the ranch hands skated in their boots."
+        ],
+        [
+          "The minuano left three days later, as abruptly as it had come.",
+          "The phone signal came back, and with it the dozens of accumulated messages that the granddaughter read unhurriedly, almost uninterestedly.",
+          "The following year, she came back to the ranch in June, not in January.",
+          "When her mother wanted to know why, she replied that she had an unfinished conversation with the wind."
+        ]
+      ],
+      "vocab": [
+        { "word": "sem pedir licença", "gloss": "without asking permission" },
+        { "word": "campanha", "gloss": "plains (of southern Brazil)" },
+        { "word": "assobio", "gloss": "whistle" },
+        { "word": "despencou", "gloss": "plummeted" },
+        { "word": "geada", "gloss": "frost" },
+        { "word": "fogão a lenha", "gloss": "wood stove" },
+        { "word": "bombacha", "gloss": "baggy gaucho trousers" },
+        { "word": "embaçada", "gloss": "steamed up" },
+        { "word": "coxilhas", "gloss": "rolling hills" },
+        { "word": "penteava", "gloss": "was combing" },
+        { "word": "sorveu", "gloss": "sipped" },
+        { "word": "manias", "gloss": "quirks" },
+        { "word": "uivava", "gloss": "howled" },
+        { "word": "peões", "gloss": "ranch hands" },
+        { "word": "pendente", "gloss": "unfinished, pending" }
+      ]
+    },
+    {
+      "id": "pt-c2-05",
+      "title": "O falsário de Olinda",
+      "subtitle": "The forger of Olinda",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Durante trinta anos, o Severino Batista pintou quadros alheios. Não no sentido figurado, mas no mais literal possível: no seu ateliê de janelas azuis, numa ladeira de Olinda, ele produzia, com uma mão que não tremia nunca, telas que eram vendidas em galerias de São Paulo e de Paris como obras de mestres da pintura popular nordestina já falecidos. Os compradores, encantados com a autenticidade das peças, nunca desconfiaram de que a ingenuidade que tanto admiravam era cuidadosamente calculada.",
+        "O Severino não se considerava um criminoso. Considerava-se, antes, um médium. Antes de começar cada quadro, estudava durante semanas a vida do pintor que ia imitar, comia o que ele comia, ouvia as músicas que ele ouvia, chegava a dormir na mesma posição em que, segundo os biógrafos, o artista costumava dormir. Só então pegava o pincel. Dizia que não falsificava as obras, apenas as terminava, já que os mortos, por motivos óbvios, tinham deixado tanta coisa por fazer.",
+        "A queda veio, como quase sempre, de uma vaidade. Num leilão no Recife, o Severino viu um dos seus quadros ser arrematado por uma fortuna e não resistiu à tentação de levantar a mão para cobrir o lance. Queria, explicou depois à polícia, saber quanto valia de verdade. O leiloeiro, que o conhecia de outros carnavais, achou estranho que um pintor de fachadas tivesse tanto dinheiro, e a investigação fez o resto.",
+        "O julgamento foi um pequeno acontecimento cultural. Peritos, críticos e herdeiros desfilaram diante do juiz, e nenhum deles conseguiu distinguir, sem recorrer a análises químicas, os quadros verdadeiros dos falsos. Um famoso crítico de arte, que anos antes tinha escrito um ensaio exaltando a alma inconfundível de um dos mestres imitados, passou a tarde inteira olhando para o chão. Havia escolhido, como exemplo máximo dessa alma, uma tela pintada pelo réu.",
+        "O Severino cumpriu a pena e voltou para Olinda, onde hoje vende, numa barraquinha perto do Alto da Sé, quadros assinados com o próprio nome. Custam cinquenta reais e, segundo os turistas, são bonitinhos. Ninguém mais os confunde com obras-primas. Quando lhe perguntam se sente falta da antiga glória, ele sorri com a melancolia dos que conhecem um segredo inconfessável: os seus melhores quadros ainda estão pendurados nos museus, e ele é o único que pode visitá-los sem pagar entrada."
+      ],
+      "english": [
+        [
+          "For thirty years, Severino Batista painted other people's pictures.",
+          "Not in a figurative sense, but in the most literal one possible: in his studio with blue windows, on a steep street in Olinda, he produced, with a hand that never trembled, canvases that were sold in galleries in São Paulo and Paris as works by deceased masters of northeastern folk painting.",
+          "The buyers, delighted with the authenticity of the pieces, never suspected that the naivety they so admired was carefully calculated."
+        ],
+        [
+          "Severino didn't consider himself a criminal.",
+          "He considered himself, rather, a medium.",
+          "Before starting each picture, he spent weeks studying the life of the painter he was going to imitate, ate what he ate, listened to the music he listened to, even slept in the same position in which, according to the biographers, the artist used to sleep.",
+          "Only then did he pick up the brush.",
+          "He used to say that he didn't forge the works, he only finished them, since the dead, for obvious reasons, had left so much undone."
+        ],
+        [
+          "His downfall came, as it almost always does, from a vanity.",
+          "At an auction in Recife, Severino saw one of his pictures go for a fortune and couldn't resist the temptation of raising his hand to outbid.",
+          "He wanted, he later explained to the police, to know how much it was really worth.",
+          "The auctioneer, who knew him from way back, found it strange that a house painter should have so much money, and the investigation did the rest."
+        ],
+        [
+          "The trial was a minor cultural event.",
+          "Experts, critics and heirs paraded before the judge, and none of them could tell the real paintings from the fakes without resorting to chemical analysis.",
+          "A famous art critic, who years before had written an essay extolling the unmistakable soul of one of the imitated masters, spent the whole afternoon staring at the floor.",
+          "He had chosen, as the supreme example of that soul, a canvas painted by the defendant."
+        ],
+        [
+          "Severino served his sentence and returned to Olinda, where today he sells, at a little stall near the Alto da Sé, pictures signed with his own name.",
+          "They cost fifty reais and, according to the tourists, are rather sweet.",
+          "Nobody mistakes them for masterpieces any more.",
+          "When asked whether he misses his former glory, he smiles with the melancholy of those who know an unspeakable secret: his best paintings still hang in museums, and he is the only one who can visit them without paying for a ticket."
+        ]
+      ],
+      "vocab": [
+        { "word": "alheios", "gloss": "belonging to others" },
+        { "word": "ateliê", "gloss": "studio" },
+        { "word": "desconfiaram", "gloss": "suspected" },
+        { "word": "ingenuidade", "gloss": "naivety" },
+        { "word": "antes", "gloss": "rather" },
+        { "word": "falsificava", "gloss": "forged" },
+        { "word": "A queda", "gloss": "the downfall" },
+        { "word": "arrematado", "gloss": "bought (at auction), knocked down" },
+        { "word": "cobrir o lance", "gloss": "outbid" },
+        { "word": "de outros carnavais", "gloss": "from way back" },
+        { "word": "Peritos", "gloss": "experts" },
+        { "word": "herdeiros", "gloss": "heirs" },
+        { "word": "exaltando", "gloss": "extolling" },
+        { "word": "o réu", "gloss": "the defendant" },
+        { "word": "inconfessável", "gloss": "unspeakable, that cannot be confessed" }
+      ]
+    },
+    {
+      "id": "pt-c2-06",
+      "title": "A palavra mais intraduzível do mundo",
+      "subtitle": "The most untranslatable word in the world",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Todo brasileiro que já morou no exterior conhece o ritual. Numa conversa qualquer, alguém pergunta qual é a palavra mais bonita da nossa língua, e o brasileiro, com a solenidade de quem revela um segredo de Estado, responde: saudade. Em seguida, informa que se trata de uma palavra intraduzível, que só existe em português e que nenhum estrangeiro jamais será capaz de entender de verdade. O interlocutor faz cara de assombro, e a honra nacional está salva.",
+        "Lamento ser eu a estragar a festa, mas a tese tem mais buracos que estrada de terra em época de chuva. Os galegos, nossos primos, também têm saudade, com outra grafia e o mesmo suspiro. Os romenos têm o seu dor, os galeses o seu hiraeth, os alemães a sua Sehnsucht, e cada um desses povos jura, com idêntica convicção, que a sua palavra é a mais intraduzível do mundo. Se todas são únicas, nenhuma é.",
+        "Mais interessante do que perguntar se a saudade é traduzível é perguntar por que fazemos tanta questão de que não seja. Suspeito que a resposta tenha a ver com uma necessidade muito humana de possuir algo que os outros não possuem, ainda que esse algo seja apenas uma forma de sofrer. Não temos a maior economia nem o exército mais temido, mas temos, ao que parece, o monopólio mundial da melancolia doce. É um patrimônio modesto, porém inesgotável, e não paga imposto.",
+        "Na verdade, toda palavra é, em algum grau, intraduzível. O nosso cafuné não tem equivalente exato em muitas línguas, e o nosso “jeitinho” daria uma tese de doutorado em cada uma delas. Mesmo palavras banais como “casa” ou “pão” carregam, para cada falante, cheiros e memórias que nenhum dicionário alcança. Traduzir nunca foi transportar um significado intacto de uma margem para a outra; é atravessar o rio sabendo que alguma coisa vai cair da canoa.",
+        "Isso não diminui a saudade em nada. Apenas a põe no seu devido lugar: uma palavra linda entre muitas palavras lindas, sentida por gente do mundo inteiro, ainda que batizada por nós. Quanto ao ritual, confesso que, morando fora há dez anos, já o pratiquei várias vezes. Funciona sempre. Afinal, quem é que tem coragem de contestar um brasileiro com saudade?"
+      ],
+      "english": [
+        [
+          "Every Brazilian who has lived abroad knows the ritual.",
+          "In some conversation, someone asks what the most beautiful word in our language is, and the Brazilian, with the solemnity of someone revealing a state secret, answers: saudade.",
+          "Then he announces that it is an untranslatable word, that it exists only in Portuguese and that no foreigner will ever be able to truly understand it.",
+          "The other person looks amazed, and national honour is saved."
+        ],
+        [
+          "I'm sorry to be the one to spoil the party, but the theory has more holes than a dirt road in the rainy season.",
+          "The Galicians, our cousins, also have saudade, with another spelling and the same sigh.",
+          "Romanians have their dor, the Welsh their hiraeth, the Germans their Sehnsucht, and each of these peoples swears, with identical conviction, that their word is the most untranslatable in the world.",
+          "If all of them are unique, none of them is."
+        ],
+        [
+          "More interesting than asking whether saudade is translatable is asking why we are so keen that it shouldn't be.",
+          "I suspect the answer has to do with a very human need to possess something others don't, even if that something is merely a way of suffering.",
+          "We don't have the biggest economy or the most feared army, but we have, it seems, the world monopoly on sweet melancholy.",
+          "It's a modest heritage, but an inexhaustible one, and it pays no tax."
+        ],
+        [
+          "In truth, every word is, to some degree, untranslatable.",
+          "Our cafuné has no exact equivalent in many languages, and our \"jeitinho\" would make a doctoral thesis in each of them.",
+          "Even ordinary words like \"casa\" or \"pão\" carry, for each speaker, smells and memories that no dictionary can reach.",
+          "Translating has never been about carrying a meaning intact from one bank to the other; it's crossing the river knowing that something is going to fall out of the canoe."
+        ],
+        [
+          "That doesn't diminish saudade in the least.",
+          "It merely puts it in its proper place: a beautiful word among many beautiful words, felt by people all over the world, even if it was named by us.",
+          "As for the ritual, I confess that, having lived abroad for ten years, I have performed it several times.",
+          "It always works.",
+          "After all, who has the heart to contradict a Brazilian with saudade?"
+        ]
+      ],
+      "vocab": [
+        { "word": "solenidade", "gloss": "solemnity" },
+        { "word": "interlocutor", "gloss": "the other person (in a conversation)" },
+        { "word": "assombro", "gloss": "amazement" },
+        { "word": "estragar a festa", "gloss": "spoil the party" },
+        { "word": "grafia", "gloss": "spelling" },
+        { "word": "fazemos tanta questão", "gloss": "we are so keen, insist so much" },
+        { "word": "ao que parece", "gloss": "it seems" },
+        { "word": "inesgotável", "gloss": "inexhaustible" },
+        { "word": "cafuné", "gloss": "stroking someone's hair affectionately" },
+        { "word": "banais", "gloss": "ordinary, banal" },
+        { "word": "margem", "gloss": "bank (of a river)" },
+        { "word": "no seu devido lugar", "gloss": "in its proper place" },
+        { "word": "batizada", "gloss": "named, christened" },
+        { "word": "contestar", "gloss": "contradict, challenge" }
+      ]
+    },
+    {
+      "id": "pt-c2-07",
+      "title": "Nota oficial",
+      "subtitle": "Official statement",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "A Secretaria Municipal de Esclarecimentos vem, por meio desta nota, esclarecer os fatos amplamente divulgados pela imprensa nos últimos dias a respeito do buraco localizado na esquina da rua Sete de Setembro com a avenida Joana Angélica. Em primeiro lugar, a Secretaria repudia veementemente o uso do termo “cratera”, que, além de tecnicamente impreciso, contribui para um clima de alarmismo incompatível com a realidade. Trata-se, conforme laudo técnico, de uma depressão viária de grandes proporções.",
+        "Em segundo lugar, a Secretaria esclarece que a depressão não surgiu, como afirmam alguns veículos de comunicação, há onze meses. Segundo levantamento interno, ela foi identificada há apenas dez meses e meio, tendo sido devidamente registrada no sistema e encaminhada ao setor competente, onde aguarda análise de acordo com a ordem cronológica de prioridades. Informamos ainda que a fila é longa porque a cidade é grande, e não por qualquer falha de gestão. A Secretaria lembra, a propósito, que a paciência é uma virtude cívica.",
+        "Quanto ao ônibus que caiu na depressão na última quinta-feira, a Secretaria lamenta o ocorrido e reitera que não houve feridos, apenas sustos. Cumpre destacar que o veículo pertencia a uma empresa privada e que a depressão, por sua vez, estava devidamente sinalizada por um cone, posteriormente furtado por terceiros não identificados. A Secretaria não pode se responsabilizar pela conduta de cones nem de terceiros. Um novo cone já foi solicitado e deverá ser entregue após a conclusão do devido processo licitatório.",
+        "Por fim, a Secretaria vê com bons olhos a iniciativa dos moradores que, no último fim de semana, instalaram na depressão uma placa com os dizeres “Lago Municipal”, além de patinhos de borracha e uma pequena feira de artesanato. Entendemos que a ocupação criativa do espaço público é um direito do cidadão e estudamos, inclusive, a possibilidade de incluir o local no roteiro turístico oficial da cidade. Uma equipe técnica foi designada para avaliar a viabilidade do projeto, com prazo estimado de onze meses.",
+        "A Secretaria reafirma o seu compromisso inabalável com a transparência e coloca-se à disposição para eventuais esclarecimentos sobre esta nota de esclarecimento. Os pedidos devem ser encaminhados por escrito, em três vias, ao setor competente, onde aguardarão análise de acordo com a ordem cronológica de prioridades."
+      ],
+      "english": [
+        [
+          "The Municipal Department of Clarifications hereby wishes to clarify the facts widely reported by the press in recent days regarding the hole located on the corner of Rua Sete de Setembro and Avenida Joana Angélica.",
+          "First of all, the Department vehemently rejects the use of the term \"crater\", which, besides being technically inaccurate, contributes to a climate of alarmism incompatible with reality.",
+          "It is, according to a technical report, a road depression of large proportions."
+        ],
+        [
+          "Secondly, the Department wishes to clarify that the depression did not appear, as some media outlets claim, eleven months ago.",
+          "According to an internal survey, it was identified only ten and a half months ago, having been duly logged in the system and forwarded to the relevant department, where it is awaiting analysis in accordance with the chronological order of priorities.",
+          "We further inform the public that the queue is long because the city is large, and not because of any management failure.",
+          "The Department would point out, incidentally, that patience is a civic virtue."
+        ],
+        [
+          "As for the bus that fell into the depression last Thursday, the Department regrets the incident and reiterates that there were no injuries, only frights.",
+          "It should be stressed that the vehicle belonged to a private company and that the depression, for its part, was duly marked by a cone, subsequently stolen by unidentified third parties.",
+          "The Department cannot take responsibility for the conduct of cones or third parties.",
+          "A new cone has already been requested and should be delivered on completion of the due tendering process."
+        ],
+        [
+          "Finally, the Department looks favourably on the initiative of the residents who, last weekend, installed in the depression a sign reading \"Municipal Lake\", as well as rubber ducks and a small craft fair.",
+          "We understand that the creative occupation of public space is a citizen's right and are even studying the possibility of including the site in the city's official tourist itinerary.",
+          "A technical team has been appointed to assess the feasibility of the project, with an estimated timeframe of eleven months."
+        ],
+        [
+          "The Department reaffirms its unwavering commitment to transparency and remains available for any clarifications about this statement of clarification.",
+          "Requests must be submitted in writing, in triplicate, to the relevant department, where they will await analysis in accordance with the chronological order of priorities."
+        ]
+      ],
+      "vocab": [
+        { "word": "por meio desta nota", "gloss": "hereby, by means of this statement" },
+        { "word": "repudia veementemente", "gloss": "vehemently rejects" },
+        { "word": "laudo técnico", "gloss": "technical report" },
+        { "word": "depressão viária", "gloss": "road depression" },
+        { "word": "veículos de comunicação", "gloss": "media outlets" },
+        { "word": "levantamento", "gloss": "survey" },
+        { "word": "encaminhada", "gloss": "forwarded" },
+        { "word": "setor competente", "gloss": "relevant department" },
+        { "word": "reitera", "gloss": "reiterates" },
+        { "word": "Cumpre destacar", "gloss": "it should be stressed" },
+        { "word": "furtado", "gloss": "stolen" },
+        { "word": "terceiros", "gloss": "third parties" },
+        { "word": "vê com bons olhos", "gloss": "looks favourably on" },
+        { "word": "inabalável", "gloss": "unwavering" },
+        { "word": "em três vias", "gloss": "in triplicate" }
+      ]
+    },
+    {
+      "id": "pt-c2-08",
+      "title": "A casa da rua do Rosário",
+      "subtitle": "The house on Rua do Rosário",
+      "topic": "Memory",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Soube pela minha irmã, numa mensagem de três linhas, que a casa da rua do Rosário, em Diamantina, ia ser demolida. Os novos donos, uma construtora de Belo Horizonte, pretendiam erguer no terreno uma pousada de charme, com piscina aquecida e o nome da antiga família pintado na fachada, em letras douradas. A ironia não me escapou: iam vender aos turistas, por diária, a memória que nós tínhamos vendido a eles por atacado.",
+        "Fui até lá numa sexta-feira de maio, sem avisar ninguém. Parei o carro na porta como fazia o meu pai, com duas rodas na calçada, por um costume que eu nem sabia ter herdado. A porta da frente estava escorada por um tijolo, e o assoalho, que a minha avó mandava encerar todo sábado, gemia sob os meus pés com uma intimidade constrangedora, como se me reconhecesse e me cobrasse a ausência. Na sala, onde antes reinava o piano, só restava a marca retangular que ele deixara na parede, um fantasma mais claro na pintura desbotada.",
+        "Percorri os cômodos devagar, à procura de não sei bem o quê. No quarto que fora meu durante as férias da infância, encontrei, atrás da porta, os riscos de lápis com que o meu avô media a nossa altura todo mês de janeiro. Ao lado de cada risco, um nome e um ano, na caligrafia inclinada de quem aprendeu a escrever com pena e tinteiro. O último risco com o meu nome era de 1987. Depois disso, imagino, fiquei grande demais para ser medido, ou ocupado demais para voltar.",
+        "Pensei em arrancar o pedaço de batente com um canivete e levá-lo comigo, como quem resgata uma relíquia. Desisti. A madeira estava podre, e eu desconfiei de que, longe da casa, aqueles riscos não passariam de rabiscos sem sentido num pedaço de pau. Memórias, ao contrário de móveis, não se transportam: ou ficam onde nasceram, ou viram outra coisa no caminho.",
+        "Antes de sair, fiz o que nunca tinha feito. Encostei as costas no batente, pus a mão espalmada sobre a cabeça e, com a caneta que trazia no bolso, tracei um último risco, alguns centímetros acima do de 1987. Escrevi o meu nome e o ano. Os pedreiros chegam na segunda-feira. Até lá, pelo menos, a casa sabe que eu cresci."
+      ],
+      "english": [
+        [
+          "I learned from my sister, in a three-line message, that the house on Rua do Rosário, in Diamantina, was going to be demolished.",
+          "The new owners, a construction company from Belo Horizonte, intended to put up a boutique inn on the plot, with a heated pool and the old family's name painted on the façade in gold letters.",
+          "The irony was not lost on me: they were going to sell to tourists, by the night, the memory that we had sold to them wholesale."
+        ],
+        [
+          "I went there on a Friday in May, without telling anyone.",
+          "I parked the car by the door the way my father used to, with two wheels on the pavement, out of a habit I didn't even know I had inherited.",
+          "The front door was propped open with a brick, and the floorboards, which my grandmother had waxed every Saturday, groaned under my feet with embarrassing intimacy, as if they recognised me and were reproaching me for my absence.",
+          "In the living room, where the piano once reigned, all that remained was the rectangular mark it had left on the wall, a paler ghost in the faded paint."
+        ],
+        [
+          "I walked slowly through the rooms, looking for I'm not quite sure what.",
+          "In the room that had been mine during the holidays of my childhood, I found, behind the door, the pencil marks my grandfather used to measure our height every January.",
+          "Beside each mark, a name and a year, in the slanting handwriting of someone who learned to write with pen and inkwell.",
+          "The last mark with my name was from 1987.",
+          "After that, I suppose, I grew too big to be measured, or too busy to come back."
+        ],
+        [
+          "I thought of prising off the piece of door frame with a penknife and taking it with me, like someone rescuing a relic.",
+          "I gave up the idea.",
+          "The wood was rotten, and I suspected that, away from the house, those marks would be nothing more than meaningless scribbles on a piece of wood.",
+          "Memories, unlike furniture, can't be moved: either they stay where they were born, or they turn into something else on the way."
+        ],
+        [
+          "Before leaving, I did what I had never done.",
+          "I leaned my back against the door frame, laid my hand flat on top of my head and, with the pen I had in my pocket, drew one last mark, a few centimetres above the 1987 one.",
+          "I wrote my name and the year.",
+          "The builders arrive on Monday.",
+          "Until then, at least, the house knows that I grew up."
+        ]
+      ],
+      "vocab": [
+        { "word": "erguer", "gloss": "put up, erect" },
+        { "word": "pousada de charme", "gloss": "boutique inn" },
+        { "word": "por atacado", "gloss": "wholesale" },
+        { "word": "escorada", "gloss": "propped open" },
+        { "word": "assoalho", "gloss": "floorboards" },
+        { "word": "encerar", "gloss": "wax, polish" },
+        { "word": "me cobrasse", "gloss": "were reproaching me" },
+        { "word": "desbotada", "gloss": "faded" },
+        { "word": "cômodos", "gloss": "rooms" },
+        { "word": "riscos", "gloss": "marks, lines" },
+        { "word": "batente", "gloss": "door frame" },
+        { "word": "canivete", "gloss": "penknife" },
+        { "word": "rabiscos", "gloss": "scribbles" },
+        { "word": "espalmada", "gloss": "flat, open (hand)" },
+        { "word": "pedreiros", "gloss": "builders, bricklayers" }
+      ]
+    },
+    {
+      "id": "pt-c2-09",
+      "title": "Carta do Tietê",
+      "subtitle": "A letter from the Tietê",
+      "topic": "Environment",
+      "symbol": "water.waves",
+      "paragraphs": [
+        "Prezados paulistanos, quem lhes escreve é o rio que vocês não veem. Sei que soa estranho, pois passo ao lado de vocês todos os dias, espremido entre duas pistas de uma marginal que leva o meu nome sem me pedir licença. Mas ver, convenhamos, é outra coisa. Vocês me atravessam de carro, de ônibus, de trem, e quando por acaso olham na minha direção, é para reclamar do cheiro ou para torcer para que eu não transborde.",
+        "Nem sempre fui assim, e nem sempre fomos assim. Houve um tempo, que os mais velhos ainda guardam na lembrança, em que os seus avós nadavam nas minhas águas, faziam regatas aos domingos e pescavam lambaris na beira. Fui caminho dos bandeirantes, que subiram por mim rumo ao interior em busca de ouro e de gente para escravizar, coisa de que eu, aliás, não me orgulho. Depois, fui retificado, canalizado, concretado. Tiraram as minhas curvas, como quem alisa o cabelo de uma criança à força, e me ensinaram a correr em linha reta, depressa, sem atrapalhar ninguém.",
+        "Não escrevo para culpar ninguém. Rios não guardam rancor; não temos memória para isso, só correnteza. Escrevo porque, de vez em quando, chegam notícias de que alguém quer me despoluir. Já perdi a conta dos projetos anunciados com pompa, das maquetes, das promessas feitas em ano de eleição. Em alguns trechos, confesso, a água melhorou, e outro dia um biguá pousou numa pedra perto da ponte das Bandeiras, olhou para mim com desconfiança e foi embora sem pescar nada. Considero isso um avanço.",
+        "Peço apenas uma coisa: não me prometam mais nada. Rios e cidades se entendem melhor com gestos do que com discursos. Cada esgoto tratado, cada margem replantada, cada criança que um dia puder molhar os pés em mim sem precisar de vacina vale mais do que mil inaugurações. Não tenho pressa. A paciência, afinal, é o único luxo que nunca me tiraram. Corro há milhões de anos e pretendo continuar correndo muito depois de a última placa com o meu nome ter enferrujado. Atenciosamente, o Tietê, que, contra todas as evidências, ainda corre para o interior, de costas para o mar, como quem insiste em voltar para casa."
+      ],
+      "english": [
+        [
+          "Dear people of São Paulo, the one writing to you is the river you don't see.",
+          "I know it sounds strange, since I pass beside you every day, squeezed between two carriageways of an expressway that bears my name without asking my permission.",
+          "But seeing, let's face it, is something else.",
+          "You cross me by car, by bus, by train, and when by chance you look my way, it's to complain about the smell or to hope I don't overflow."
+        ],
+        [
+          "I wasn't always like this, and we weren't always like this.",
+          "There was a time, which the oldest still remember, when your grandparents swam in my waters, held regattas on Sundays and fished for lambari on my banks.",
+          "I was the route of the bandeirantes, who travelled up me towards the interior in search of gold and of people to enslave, something I, incidentally, am not proud of.",
+          "Later, I was straightened, channelled, concreted over.",
+          "They took away my bends, like someone forcibly straightening a child's hair, and taught me to run in a straight line, quickly, without getting in anyone's way."
+        ],
+        [
+          "I'm not writing to blame anyone.",
+          "Rivers don't hold grudges; we have no memory for that, only current.",
+          "I write because, from time to time, news arrives that someone wants to clean me up.",
+          "I've lost count of the projects announced with great fanfare, the scale models, the promises made in election years.",
+          "In some stretches, I admit, the water has improved, and the other day a cormorant landed on a rock near the Bandeiras bridge, looked at me suspiciously and left without catching anything.",
+          "I consider that progress."
+        ],
+        [
+          "I ask just one thing: don't promise me anything else.",
+          "Rivers and cities understand each other better through gestures than speeches.",
+          "Every sewer treated, every bank replanted, every child who one day can dip their feet in me without needing a vaccine is worth more than a thousand inaugurations.",
+          "I'm in no hurry.",
+          "Patience, after all, is the only luxury they never took from me.",
+          "I've been flowing for millions of years and intend to keep flowing long after the last sign bearing my name has rusted.",
+          "Yours faithfully, the Tietê, who, against all evidence, still flows inland, with his back to the sea, like someone who insists on going home."
+        ]
+      ],
+      "vocab": [
+        { "word": "espremido", "gloss": "squeezed" },
+        { "word": "pistas", "gloss": "carriageways, lanes" },
+        { "word": "convenhamos", "gloss": "let's face it" },
+        { "word": "transborde", "gloss": "overflow" },
+        { "word": "regatas", "gloss": "regattas" },
+        { "word": "lambaris", "gloss": "lambari (small river fish)" },
+        { "word": "bandeirantes", "gloss": "colonial-era explorers and slave raiders" },
+        { "word": "retificado", "gloss": "straightened" },
+        { "word": "rancor", "gloss": "grudge, resentment" },
+        { "word": "correnteza", "gloss": "current" },
+        { "word": "despoluir", "gloss": "clean up, depollute" },
+        { "word": "com pompa", "gloss": "with great fanfare" },
+        { "word": "maquetes", "gloss": "scale models" },
+        { "word": "biguá", "gloss": "cormorant" },
+        { "word": "esgoto", "gloss": "sewer, sewage" }
+      ]
+    },
+    {
+      "id": "pt-c2-10",
+      "title": "Breve tratado sobre o jeitinho",
+      "subtitle": "A short treatise on the jeitinho",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Nenhum conceito explica tanto o Brasil, e nenhum é tão mal explicado, quanto o jeitinho. Para os estrangeiros, a palavra costuma ser traduzida como uma forma branda de corrupção, o que é ao mesmo tempo verdadeiro e injusto. Para os brasileiros, é motivo simultâneo de orgulho e de vergonha, a depender de quem dá o jeito e de quem o recebe. Tentarei aqui, sem a pretensão de esgotar o tema, propor algumas distinções.",
+        "O jeitinho nasce, quase sempre, de uma regra que não cabe na vida. O guichê fecha às quatro, mas o senhor chegou às quatro e cinco porque o ônibus quebrou; o formulário exige um comprovante de residência, mas a moça mora numa ocupação onde não chegam contas. Diante do impasse, o funcionário pode cumprir a norma à risca ou pode, com um suspiro, dar um jeitinho. Nesse sentido, o jeitinho é uma espécie de equidade informal, uma correção humana da rigidez burocrática, e tem algo de generoso.",
+        "O problema é que a fronteira entre a flexibilidade e o privilégio é porosa como um coador de pano. O mesmo gesto que abre a porta para o senhor do ônibus quebrado pode abri-la para o sobrinho do deputado, que chegou atrasado por pura displicência e sabe que nada lhe acontecerá. O jeitinho, então, deixa de ser compaixão e passa a ser hierarquia disfarçada: a regra vale para os que não conhecem ninguém. Não por acaso, a pergunta mais temida da vida pública brasileira continua sendo “você sabe com quem está falando?”.",
+        "Há, por fim, uma terceira dimensão, menos discutida e talvez mais interessante: o jeitinho como arte da improvisação. É o mecânico que conserta o motor com um arame e um elástico de cabelo, a costureira que transforma uma cortina num vestido de formatura, o músico que tira samba de uma caixa de fósforos. Aqui, o jeitinho não burla regra alguma; apenas recusa a ideia de que a falta de recursos seja uma sentença definitiva.",
+        "Um país que soubesse preservar esta última dimensão, abolindo a segunda e institucionalizando a primeira, talvez fosse o lugar mais habitável do mundo. Mas institucionalizar o jeitinho seria, evidentemente, matá-lo, porque ele só existe onde a regra fracassa. Eis o paradoxo, que nenhum tratado, breve ou longo, conseguirá resolver. A não ser, é claro, que alguém dê um jeito."
+      ],
+      "english": [
+        [
+          "No concept explains Brazil so much, and none is so poorly explained, as the jeitinho.",
+          "For foreigners, the word is usually translated as a mild form of corruption, which is at once true and unfair.",
+          "For Brazilians, it is a source of both pride and shame, depending on who works the jeitinho and who receives it.",
+          "I shall try here, without the pretension of exhausting the subject, to propose a few distinctions."
+        ],
+        [
+          "The jeitinho is born, almost always, of a rule that doesn't fit life.",
+          "The counter closes at four, but the man arrived at five past because the bus broke down; the form requires proof of address, but the young woman lives in a squat where no bills arrive.",
+          "Faced with the impasse, the clerk can apply the rule to the letter or can, with a sigh, work a jeitinho.",
+          "In this sense, the jeitinho is a kind of informal equity, a human correction of bureaucratic rigidity, and there is something generous about it."
+        ],
+        [
+          "The problem is that the boundary between flexibility and privilege is as porous as a cloth coffee filter.",
+          "The same gesture that opens the door for the man with the broken-down bus can open it for the congressman's nephew, who arrived late out of sheer carelessness and knows nothing will happen to him.",
+          "The jeitinho then ceases to be compassion and becomes disguised hierarchy: the rule applies to those who know nobody.",
+          "It's no coincidence that the most dreaded question in Brazilian public life remains \"do you know who you're talking to?\"."
+        ],
+        [
+          "There is, finally, a third dimension, less discussed and perhaps more interesting: the jeitinho as the art of improvisation.",
+          "It's the mechanic who fixes the engine with a piece of wire and a hair tie, the seamstress who turns a curtain into a graduation dress, the musician who gets samba out of a matchbox.",
+          "Here, the jeitinho gets round no rule at all; it simply refuses the idea that a lack of resources is a final sentence."
+        ],
+        [
+          "A country that knew how to preserve this last dimension, abolishing the second and institutionalising the first, might be the most liveable place in the world.",
+          "But institutionalising the jeitinho would, of course, kill it, because it only exists where the rule fails.",
+          "Therein lies the paradox, which no treatise, short or long, will manage to resolve.",
+          "Unless, of course, somebody finds a way."
+        ]
+      ],
+      "vocab": [
+        { "word": "branda", "gloss": "mild" },
+        { "word": "a depender de", "gloss": "depending on" },
+        { "word": "esgotar o tema", "gloss": "exhaust the subject" },
+        { "word": "guichê", "gloss": "counter, window (in an office)" },
+        { "word": "comprovante de residência", "gloss": "proof of address" },
+        { "word": "à risca", "gloss": "to the letter" },
+        { "word": "equidade", "gloss": "equity, fairness" },
+        { "word": "porosa", "gloss": "porous" },
+        { "word": "coador de pano", "gloss": "cloth coffee filter" },
+        { "word": "displicência", "gloss": "carelessness, nonchalance" },
+        { "word": "disfarçada", "gloss": "disguised" },
+        { "word": "arame", "gloss": "wire" },
+        { "word": "burla", "gloss": "gets round, evades" },
+        { "word": "Eis", "gloss": "here is, therein lies" }
+      ]
+    },
+    {
+      "id": "pt-c2-11",
+      "title": "O almoço de domingo",
+      "subtitle": "Sunday lunch",
+      "topic": "Family",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Na família Cavalcanti, o almoço de domingo era uma instituição mais sólida do que a própria República. Sobrevivera a dois golpes, a cinco moedas, a uma enchente que inundou o Recife e a incontáveis brigas por herança, política e futebol. Às doze e meia, invariavelmente, a matriarca, dona Graça, tocava um sininho de prata, e todos se sentavam em torno da mesa de jacarandá, cada um no lugar que lhe fora atribuído havia décadas, segundo uma lógica que ninguém ousava questionar.",
+        "Naquele domingo, havia uma cadeira a mais. O neto caçula, o Miguel, avisara por mensagem que traria alguém, sem dar mais detalhes, e a notícia correu pelos grupos da família com a velocidade de um boletim de guerra. As tias especulavam sobre a profissão da moça, os primos apostavam na cor do cabelo e o tio Fernando, que se considerava o último guardião dos bons costumes, já tinha preparado um interrogatório discreto.",
+        "O Miguel chegou às doze e vinte e oito, de mãos dadas com um rapaz alto, de barba, que segurava uma travessa de bolo de rolo como quem segura um escudo. O silêncio que se seguiu foi tão denso que se ouvia o ventilador de teto girando na cozinha. O tio Fernando abriu a boca, fechou-a e abriu de novo, como um peixe fora d'água. As tias se entreolharam, cada uma esperando que a outra dissesse alguma coisa para poder discordar.",
+        "Foi a dona Graça quem rompeu o impasse. Levantou-se com dificuldade, apoiada na bengala, examinou o bolo de rolo com olho de especialista e perguntou ao rapaz quem o tinha feito. Ele respondeu que tinha sido ele mesmo, com a receita da avó, de Caruaru. Ela cortou uma fatia fina, provou, mastigou por um tempo que pareceu interminável e, por fim, decretou que as camadas estavam mais finas do que as dela. Na boca de dona Graça, aquilo equivalia a uma bênção papal.",
+        "Em seguida, tocou o sininho e apontou para a cadeira ao seu lado, a que pertencera ao falecido marido e que ninguém ocupava havia nove anos. — Senta aqui, meu filho — disse ao rapaz. — Quero saber o segredo dessa massa. O tio Fernando, sem saber o que fazer com o interrogatório, passou o resto do almoço discutindo futebol com uma veemência inédita. A República, como de costume, sobreviveu."
+      ],
+      "english": [
+        [
+          "In the Cavalcanti family, Sunday lunch was an institution more solid than the Republic itself.",
+          "It had survived two coups, five currencies, a flood that inundated Recife and countless quarrels over inheritance, politics and football.",
+          "At half past twelve, invariably, the matriarch, Dona Graça, rang a little silver bell, and everyone sat down around the rosewood table, each in the place assigned to them decades earlier, according to a logic nobody dared question."
+        ],
+        [
+          "That Sunday, there was an extra chair.",
+          "The youngest grandson, Miguel, had announced by message that he would bring someone, without giving further details, and the news ran through the family groups with the speed of a war bulletin.",
+          "The aunts speculated about the girl's profession, the cousins bet on the colour of her hair and Uncle Fernando, who considered himself the last guardian of good manners, had already prepared a discreet interrogation."
+        ],
+        [
+          "Miguel arrived at twelve twenty-eight, holding hands with a tall, bearded young man, who was holding a dish of bolo de rolo the way one holds a shield.",
+          "The silence that followed was so thick that you could hear the ceiling fan turning in the kitchen.",
+          "Uncle Fernando opened his mouth, closed it and opened it again, like a fish out of water.",
+          "The aunts exchanged glances, each waiting for the other to say something so she could disagree."
+        ],
+        [
+          "It was Dona Graça who broke the deadlock.",
+          "She got up with difficulty, leaning on her cane, examined the bolo de rolo with an expert eye and asked the young man who had made it.",
+          "He replied that he had made it himself, with his grandmother's recipe, from Caruaru.",
+          "She cut a thin slice, tasted it, chewed for what seemed an endless time and, finally, declared that the layers were thinner than hers.",
+          "In Dona Graça's mouth, that was equivalent to a papal blessing."
+        ],
+        [
+          "Then she rang the little bell and pointed to the chair beside her, the one that had belonged to her late husband and that nobody had occupied for nine years.",
+          "\"Sit here, son,\" she said to the young man.",
+          "\"I want to know the secret of this batter.\"",
+          "Uncle Fernando, not knowing what to do with his interrogation, spent the rest of lunch arguing about football with unprecedented vehemence.",
+          "The Republic, as usual, survived."
+        ]
+      ],
+      "vocab": [
+        { "word": "golpes", "gloss": "coups" },
+        { "word": "enchente", "gloss": "flood" },
+        { "word": "matriarca", "gloss": "matriarch" },
+        { "word": "jacarandá", "gloss": "rosewood" },
+        { "word": "ousava", "gloss": "dared" },
+        { "word": "caçula", "gloss": "youngest (child)" },
+        { "word": "boletim", "gloss": "bulletin" },
+        { "word": "guardião", "gloss": "guardian" },
+        { "word": "travessa", "gloss": "serving dish" },
+        { "word": "escudo", "gloss": "shield" },
+        { "word": "se entreolharam", "gloss": "exchanged glances" },
+        { "word": "rompeu o impasse", "gloss": "broke the deadlock" },
+        { "word": "bengala", "gloss": "walking stick, cane" },
+        { "word": "bênção", "gloss": "blessing" },
+        { "word": "veemência inédita", "gloss": "unprecedented vehemence" }
+      ]
+    },
+    {
+      "id": "pt-c2-12",
+      "title": "A ferrovia do diabo",
+      "subtitle": "The devil's railway",
+      "topic": "Travel",
+      "symbol": "train.side.front.car",
+      "paragraphs": [
+        "Em Porto Velho, à beira do rio Madeira, há um pátio onde locomotivas centenárias apodrecem ao sol com a dignidade cansada de velhos generais aposentados. São o que restou da Estrada de Ferro Madeira-Mamoré, construída no início do século vinte para escoar a borracha boliviana através da selva, contornando as cachoeiras que tornavam o rio impraticável. Fui até lá atrás de uma história e encontrei, como quase sempre acontece, outra.",
+        "A história que eu buscava era a oficial, a das placas do museu. Ela fala de engenheiros americanos, de trabalhadores vindos de dezenas de países, de febres, de mosquitos e de uma mortandade tão grande que a obra ganhou o apelido de ferrovia do diabo. Diz a lenda, que os guias repetem com prazer mórbido, que cada dormente custou uma vida. É provável que seja exagero, mas é desses exageros que acertam no essencial.",
+        "A ironia final, contam as placas, veio pouco depois da inauguração, quando o preço da borracha despencou no mercado internacional, porque os ingleses tinham levado sementes da seringueira para plantar na Ásia. A ferrovia, que tinha custado milhares de mortos, ficou praticamente inútil antes mesmo de ser paga. Funcionou aos trancos e barrancos durante décadas e foi desativada de vez na época da ditadura, substituída por uma rodovia.",
+        "A outra história, a que eu não buscava, me foi contada por um senhor que vendia picolé de cupuaçu na entrada do pátio. Chamava-se Antenor e era neto de um foguista barbadiano que viera trabalhar na ferrovia e nunca mais voltara para a sua ilha. O avô, disse ele, falava inglês com os chefes, português com a mulher e uma língua de que ninguém mais se lembra com os companheiros de caldeira. — Ele cantava à noite, olhando para o rio — contou o seu Antenor. — Eu era pequeno e não entendia nada, mas sabia que era saudade.",
+        "Perguntei se ele se lembrava de alguma canção. Ele pensou um pouco, abriu a caixa de isopor, me entregou um picolé e cantarolou três versos numa melodia lenta, com palavras que não pertenciam a nenhuma língua que eu conhecesse. Depois riu, envergonhado, e disse que provavelmente estava inventando tudo. Talvez estivesse. Mas ali, entre as locomotivas mortas, aquela era a única coisa que ainda parecia ir a algum lugar."
+      ],
+      "english": [
+        [
+          "In Porto Velho, on the banks of the Madeira river, there is a yard where century-old locomotives rot in the sun with the weary dignity of old retired generals.",
+          "They are what remains of the Madeira-Mamoré Railway, built at the start of the twentieth century to carry Bolivian rubber out through the jungle, bypassing the waterfalls that made the river unnavigable.",
+          "I went there in search of one story and found, as almost always happens, another."
+        ],
+        [
+          "The story I was looking for was the official one, the one on the museum plaques.",
+          "It speaks of American engineers, of workers who came from dozens of countries, of fevers, of mosquitoes and of a death toll so high that the project earned the nickname of the devil's railway.",
+          "Legend has it, as the guides repeat with morbid pleasure, that every sleeper cost a life.",
+          "It's probably an exaggeration, but one of those exaggerations that gets to the heart of the matter."
+        ],
+        [
+          "The final irony, the plaques tell us, came shortly after the inauguration, when the price of rubber collapsed on the international market, because the English had taken rubber-tree seeds to plant in Asia.",
+          "The railway, which had cost thousands of lives, became practically useless before it had even been paid for.",
+          "It ran in fits and starts for decades and was finally shut down during the dictatorship, replaced by a highway."
+        ],
+        [
+          "The other story, the one I wasn't looking for, was told to me by an old man who sold cupuaçu ice lollies at the entrance to the yard.",
+          "His name was Antenor and he was the grandson of a Barbadian stoker who had come to work on the railway and never went back to his island.",
+          "His grandfather, he said, spoke English with the bosses, Portuguese with his wife and a language nobody remembers any more with his fellow boilermen.",
+          "\"He used to sing at night, looking at the river,\" Seu Antenor said.",
+          "\"I was little and didn't understand a thing, but I knew it was longing.\""
+        ],
+        [
+          "I asked if he remembered any of the songs.",
+          "He thought for a moment, opened the polystyrene box, handed me an ice lolly and hummed three lines to a slow melody, with words that belonged to no language I knew.",
+          "Then he laughed, embarrassed, and said he was probably making it all up.",
+          "Perhaps he was.",
+          "But there, among the dead locomotives, it was the only thing that still seemed to be going somewhere."
+        ]
+      ],
+      "vocab": [
+        { "word": "pátio", "gloss": "yard" },
+        { "word": "apodrecem", "gloss": "rot" },
+        { "word": "escoar", "gloss": "carry out, drain away" },
+        { "word": "contornando", "gloss": "bypassing" },
+        { "word": "mortandade", "gloss": "death toll" },
+        { "word": "mórbido", "gloss": "morbid" },
+        { "word": "dormente", "gloss": "(railway) sleeper" },
+        { "word": "acertam no essencial", "gloss": "get to the heart of the matter" },
+        { "word": "seringueira", "gloss": "rubber tree" },
+        { "word": "aos trancos e barrancos", "gloss": "in fits and starts" },
+        { "word": "desativada", "gloss": "shut down, decommissioned" },
+        { "word": "foguista", "gloss": "stoker" },
+        { "word": "caldeira", "gloss": "boiler" },
+        { "word": "isopor", "gloss": "polystyrene" }
+      ]
+    },
+    {
+      "id": "pt-c2-13",
+      "title": "O vendedor de silêncios",
+      "subtitle": "The seller of silences",
+      "topic": "Mystery",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Ninguém sabe ao certo quando o vendedor de silêncios apareceu na Rocinha. Uns dizem que chegou numa madrugada de carnaval, quando o barulho era tanto que ninguém reparou nele; outros juram que sempre esteve ali, num cômodo sem janela no alto do morro, esperando que alguém precisasse dele. O fato é que, num belo dia, surgiu na porta do cômodo uma placa de papelão escrita à mão: “Vendem-se silêncios. Preço a combinar.”",
+        "Os primeiros clientes foram, como é de se esperar, os céticos. Entravam rindo, pagavam uns trocados e saíam calados, com uma expressão que nenhum vizinho conseguia decifrar. Uma costureira contou depois que ganhara dez minutos de silêncio absoluto, sem funk, sem moto, sem cachorro, sem o vizinho brigando com a televisão, e que nesses dez minutos ouvira, pela primeira vez em vinte anos, o próprio coração. Achou-o mais lento do que imaginava.",
+        "A fama se espalhou depressa, e logo havia fila na viela. O vendedor, um homem magro de idade indefinível, atendia a todos com a mesma cortesia lacônica. Vendia silêncios de vários tamanhos e qualidades: o silêncio curto das salas de espera, o silêncio espesso das igrejas vazias, o silêncio raro de uma casa onde todos dormem em paz. Recusava-se apenas a vender um tipo: o silêncio de quem sabe de algo e não conta. Esse, dizia, já estava em falta no mundo inteiro, e o pouco que restava custava caro demais.",
+        "Um dia, um jornalista subiu o morro para entrevistá-lo. Esperou três horas na fila, entrou com o gravador ligado e saiu quarenta minutos depois, sem dizer uma palavra. A gravação, que ele ouviu naquela noite em casa, continha apenas o barulho distante de uma chuva que não caiu na cidade naquele dia. Ele nunca publicou a matéria. Quando os colegas perguntavam o que tinha acontecido lá dentro, ele apenas sorria e mudava de assunto.",
+        "O vendedor desapareceu como tinha chegado, numa madrugada qualquer. A placa de papelão ficou na porta durante semanas, até que a chuva a desmanchou. Hoje, quando alguém na Rocinha fica muito tempo calado, olhando para o nada no meio do barulho, os vizinhos baixam a voz e comentam, com uma pontinha de inveja, que aquele ali ainda deve ter algum troco."
+      ],
+      "english": [
+        [
+          "Nobody knows for sure when the seller of silences turned up in Rocinha.",
+          "Some say he arrived in the early hours during carnival, when the noise was so great that nobody noticed him; others swear he had always been there, in a windowless room at the top of the hill, waiting for someone to need him.",
+          "The fact is that, one fine day, a handwritten cardboard sign appeared on the door of the room: \"Silences for sale. Price negotiable.\""
+        ],
+        [
+          "The first customers were, as is to be expected, the sceptics.",
+          "They went in laughing, paid a few coins and came out silent, with an expression that no neighbour could decipher.",
+          "A seamstress said afterwards that she had been given ten minutes of absolute silence, no funk music, no motorbikes, no dogs, no neighbour arguing with the television, and that in those ten minutes she had heard, for the first time in twenty years, her own heart.",
+          "She found it slower than she had imagined."
+        ],
+        [
+          "His fame spread quickly, and soon there was a queue in the alleyway.",
+          "The seller, a thin man of indeterminate age, served everyone with the same laconic courtesy.",
+          "He sold silences of various sizes and qualities: the short silence of waiting rooms, the thick silence of empty churches, the rare silence of a house where everyone sleeps in peace.",
+          "He refused to sell only one kind: the silence of someone who knows something and doesn't tell.",
+          "That one, he said, was already in short supply all over the world, and what little was left was far too expensive."
+        ],
+        [
+          "One day, a journalist climbed the hill to interview him.",
+          "He waited three hours in the queue, went in with his recorder on and came out forty minutes later, without saying a word.",
+          "The recording, which he listened to that night at home, contained only the distant sound of a rain that had not fallen on the city that day.",
+          "He never published the story.",
+          "When his colleagues asked what had happened in there, he just smiled and changed the subject."
+        ],
+        [
+          "The seller disappeared just as he had arrived, in the early hours of an ordinary night.",
+          "The cardboard sign stayed on the door for weeks, until the rain dissolved it.",
+          "Today, when someone in Rocinha goes quiet for a long time, staring into space in the middle of the noise, the neighbours lower their voices and remark, with a touch of envy, that that one must still have some change left."
+        ]
+      ],
+      "vocab": [
+        { "word": "ao certo", "gloss": "for sure" },
+        { "word": "morro", "gloss": "hill (often a favela)" },
+        { "word": "papelão", "gloss": "cardboard" },
+        { "word": "Preço a combinar", "gloss": "price negotiable" },
+        { "word": "céticos", "gloss": "sceptics" },
+        { "word": "uns trocados", "gloss": "a few coins" },
+        { "word": "viela", "gloss": "alleyway" },
+        { "word": "indefinível", "gloss": "indeterminate" },
+        { "word": "lacônica", "gloss": "laconic" },
+        { "word": "espesso", "gloss": "thick" },
+        { "word": "em falta", "gloss": "in short supply" },
+        { "word": "gravador", "gloss": "recorder" },
+        { "word": "matéria", "gloss": "(news) story, article" },
+        { "word": "desmanchou", "gloss": "dissolved" },
+        { "word": "troco", "gloss": "change (money); also a pun on what was left over" }
+      ]
+    },
+    {
+      "id": "pt-c2-14",
+      "title": "Elegia para o Caramelo",
+      "subtitle": "Elegy for Caramelo",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "O Caramelo não tinha dono, e talvez por isso pertencesse a todos. Durante onze anos, foi visto deitado na porta da farmácia da rua Chile, em Salvador, ocupando com a serenidade de um monarca o único quadrado de sombra disponível às duas da tarde. Era um vira-lata de pelo cor de doce de leite, orelha esquerda dobrada, rabo em permanente estado de otimismo. Os turistas o fotografavam achando que era uma atração local, e não estavam de todo errados.",
+        "Cada morador da rua tinha com ele um acordo particular. O dono do restaurante deixava-lhe, ao fim do expediente, as sobras do frango; a vendedora de acarajé, um bolinho sem pimenta; o segurança do banco, conversas longas sobre o Bahia, que o Caramelo ouvia com a paciência de quem também já sofreu por futebol. Ninguém sabia o nome verdadeiro dele, se é que existia um. Caramelo foi o que pegou, por consenso tácito, como pegam os apelidos que ninguém inventa sozinho.",
+        "Ao longo dos anos, a rua mudou mais do que ele. Lojas fecharam, prédios foram restaurados e depois abandonados de novo, prefeitos prometeram revitalizar o centro histórico e foram embora sem cumprir a promessa. O Caramelo, imperturbável, continuou no seu posto, como uma espécie de patrimônio imaterial com quatro patas, mais confiável do que qualquer instituição pública.",
+        "Morreu numa quarta-feira de setembro, dormindo, no seu quadrado de sombra. A farmacêutica foi a primeira a perceber, porque ele não levantou a cabeça quando ela abriu a porta. Em meia hora, a notícia tinha percorrido a rua inteira, e o segurança do banco, que todos consideravam o homem mais duro do centro, foi visto chorando atrás de um pilar. Os comerciantes fizeram uma vaquinha e pagaram o enterro num cemitério de animais em Lauro de Freitas, com direito a lápide e a uma coroa de flores do Bahia.",
+        "Hoje, na porta da farmácia, há uma pequena placa de bronze, colocada sem autorização de ninguém, com os dizeres: “Aqui descansava o Caramelo, que não era de ninguém e era de todos.” A prefeitura ameaçou retirá-la, mas desistiu diante da reação popular. Às duas da tarde, o quadrado de sombra continua vazio. Os moradores dizem que nenhum cachorro novo teve coragem de ocupá-lo, e os mais sentimentais acrescentam, em voz baixa, que nenhum mereceria."
+      ],
+      "english": [
+        [
+          "Caramelo had no owner, and perhaps that is why he belonged to everyone.",
+          "For eleven years, he could be seen lying in the doorway of the pharmacy on Rua Chile, in Salvador, occupying with the serenity of a monarch the only square of shade available at two in the afternoon.",
+          "He was a mongrel with fur the colour of dulce de leche, left ear folded, tail in a permanent state of optimism.",
+          "Tourists photographed him thinking he was a local attraction, and they weren't entirely wrong."
+        ],
+        [
+          "Each resident of the street had a private arrangement with him.",
+          "The restaurant owner left him the chicken leftovers at the end of the day; the acarajé seller, a fritter without chilli; the bank's security guard, long conversations about Bahia football club, which Caramelo listened to with the patience of someone who had also suffered over football.",
+          "Nobody knew his real name, if indeed there was one.",
+          "Caramelo was the one that stuck, by tacit consensus, the way nicknames stick that nobody invents alone."
+        ],
+        [
+          "Over the years, the street changed more than he did.",
+          "Shops closed, buildings were restored and then abandoned again, mayors promised to revitalise the historic centre and left without keeping their promise.",
+          "Caramelo, imperturbable, stayed at his post, like a sort of intangible heritage on four legs, more reliable than any public institution."
+        ],
+        [
+          "He died on a Wednesday in September, asleep, in his square of shade.",
+          "The pharmacist was the first to notice, because he didn't raise his head when she opened the door.",
+          "Within half an hour the news had run the length of the street, and the bank's security guard, whom everyone considered the toughest man in the centre, was seen crying behind a pillar.",
+          "The shopkeepers had a whip-round and paid for his burial in a pet cemetery in Lauro de Freitas, complete with a headstone and a wreath from Bahia football club."
+        ],
+        [
+          "Today, at the pharmacy door, there is a small bronze plaque, put up without anyone's permission, reading: \"Here rested Caramelo, who belonged to no one and to everyone.\"",
+          "The council threatened to remove it, but backed down in the face of public reaction.",
+          "At two in the afternoon, the square of shade is still empty.",
+          "The residents say that no new dog has had the nerve to take it, and the more sentimental ones add, in a low voice, that none would deserve it."
+        ]
+      ],
+      "vocab": [
+        { "word": "vira-lata", "gloss": "mongrel" },
+        { "word": "de todo", "gloss": "entirely" },
+        { "word": "expediente", "gloss": "working day" },
+        { "word": "sobras", "gloss": "leftovers" },
+        { "word": "se é que", "gloss": "if indeed" },
+        { "word": "pegou", "gloss": "stuck, caught on" },
+        { "word": "imperturbável", "gloss": "imperturbable" },
+        { "word": "posto", "gloss": "post" },
+        { "word": "patrimônio imaterial", "gloss": "intangible heritage" },
+        { "word": "farmacêutica", "gloss": "pharmacist" },
+        { "word": "pilar", "gloss": "pillar" },
+        { "word": "vaquinha", "gloss": "whip-round, collection" },
+        { "word": "lápide", "gloss": "headstone" },
+        { "word": "retirá-la", "gloss": "remove it" },
+        { "word": "desistiu", "gloss": "backed down, gave up" }
+      ]
+    },
+    {
+      "id": "pt-c2-15",
+      "title": "Reunião de alinhamento",
+      "subtitle": "Alignment meeting",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Às nove da manhã de segunda-feira, num escritório envidraçado da avenida Faria Lima, doze profissionais altamente qualificados se reuniram para alinhar expectativas. Ninguém sabia exatamente quais expectativas estavam desalinhadas, nem desde quando, mas o convite, enviado na sexta à noite, era claro quanto à importância do encontro: tinha três pontos de exclamação no assunto e a palavra “urgente” em letras maiúsculas.",
+        "A reunião começou com quinze minutos de atraso, dedicados a resolver por que o projetor não reconhecia o notebook de ninguém. Superado o obstáculo, o gerente de projetos apresentou um slide com quarenta e sete tópicos, em fonte tamanho oito, sob o título “Visão geral”. Explicou que o objetivo era gerar sinergia entre as áreas, empoderar os times e entregar valor ao cliente de forma disruptiva. Todos concordaram com a cabeça, com a gravidade de quem acaba de ouvir uma verdade profunda, embora nenhum deles pudesse dizer, se interrogado sob juramento, o que aquilo significava.",
+        "Seguiu-se uma rodada de contribuições. O diretor de marketing sugeriu que era preciso pensar fora da caixa. A diretora financeira lembrou que a caixa, no caso, era o orçamento, e que fora dela não havia nada. O analista júnior, que estava na empresa havia três semanas e ainda não aprendera a ficar calado, perguntou timidamente qual era, afinal, o problema a ser resolvido. A pergunta caiu na mesa como uma barata num casamento.",
+        "Depois de um silêncio constrangido, decidiu-se, por unanimidade, que a questão levantada pelo colega era extremamente pertinente e merecia ser aprofundada numa reunião específica, a ser agendada oportunamente. Foram definidos responsáveis, prazos e próximos passos. O principal próximo passo consistia em marcar a reunião seguinte. O segundo, ligeiramente menos importante, consistia em enviar a todos um resumo da reunião, que seria redigido por quem tivesse falado menos.",
+        "Às onze e quarenta, com vinte minutos de antecedência sobre o horário previsto, a reunião foi encerrada com a sensação geral de dever cumprido. O analista júnior voltou à sua mesa, abriu o e-mail e encontrou um convite para uma nova reunião de alinhamento, marcada para a segunda seguinte, às nove. O assunto tinha quatro pontos de exclamação. Ele ainda não sabe, mas acaba de ser promovido. A partir de agora, a pauta é dele."
+      ],
+      "english": [
+        [
+          "At nine on Monday morning, in a glass-walled office on Avenida Faria Lima, twelve highly qualified professionals met to align expectations.",
+          "Nobody knew exactly which expectations were misaligned, or since when, but the invitation, sent on Friday night, was clear about the importance of the meeting: it had three exclamation marks in the subject line and the word \"urgent\" in capital letters."
+        ],
+        [
+          "The meeting started fifteen minutes late, time devoted to working out why the projector didn't recognise anyone's laptop.",
+          "Once the obstacle was overcome, the project manager presented a slide with forty-seven bullet points, in size-eight font, under the title \"Overview\".",
+          "He explained that the aim was to generate synergy between departments, empower the teams and deliver value to the customer in a disruptive way.",
+          "Everyone nodded, with the gravity of those who have just heard a profound truth, although none of them could have said, if questioned under oath, what it meant."
+        ],
+        [
+          "A round of contributions followed.",
+          "The marketing director suggested it was necessary to think outside the box.",
+          "The finance director pointed out that the box, in this case, was the budget, and that outside it there was nothing.",
+          "The junior analyst, who had been at the company for three weeks and hadn't yet learned to keep quiet, asked timidly what, in the end, the problem to be solved actually was.",
+          "The question landed on the table like a cockroach at a wedding."
+        ],
+        [
+          "After an awkward silence, it was decided, unanimously, that the question raised by their colleague was extremely pertinent and deserved to be looked into in a dedicated meeting, to be scheduled in due course.",
+          "Owners, deadlines and next steps were assigned.",
+          "The main next step consisted of scheduling the following meeting.",
+          "The second, slightly less important, consisted of sending everyone a summary of the meeting, to be drafted by whoever had spoken least."
+        ],
+        [
+          "At eleven forty, twenty minutes ahead of schedule, the meeting was closed with a general sense of a job well done.",
+          "The junior analyst went back to his desk, opened his email and found an invitation to a new alignment meeting, set for the following Monday at nine.",
+          "The subject line had four exclamation marks.",
+          "He doesn't know it yet, but he has just been promoted.",
+          "From now on, the agenda is his."
+        ]
+      ],
+      "vocab": [
+        { "word": "envidraçado", "gloss": "glass-walled" },
+        { "word": "alinhar expectativas", "gloss": "align expectations" },
+        { "word": "assunto", "gloss": "subject line" },
+        { "word": "Superado o obstáculo", "gloss": "once the obstacle was overcome" },
+        { "word": "tópicos", "gloss": "bullet points" },
+        { "word": "empoderar", "gloss": "empower" },
+        { "word": "sob juramento", "gloss": "under oath" },
+        { "word": "rodada", "gloss": "round" },
+        { "word": "orçamento", "gloss": "budget" },
+        { "word": "caiu na mesa como uma barata num casamento", "gloss": "landed like a cockroach at a wedding" },
+        { "word": "constrangido", "gloss": "awkward, embarrassed" },
+        { "word": "aprofundada", "gloss": "looked into in depth" },
+        { "word": "oportunamente", "gloss": "in due course" },
+        { "word": "dever cumprido", "gloss": "a job well done" },
+        { "word": "pauta", "gloss": "agenda" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "language": "pt",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "pt-b1-01",
+      "title": "A balsa das sete",
+      "subtitle": "The seven o'clock ferry",
+      "topic": "Getting around",
+      "symbol": "ferry.fill",
+      "paragraphs": [
+        "O Caio tinha uma entrevista de emprego às nove horas em Itaparica, do outro lado da baía. Ele saiu de casa cedo, mas o trânsito de Salvador estava parado, e ele chegou ao terminal correndo. Quando passou pela catraca, a balsa das sete já estava saindo. — Espera! — gritou ele, mas ninguém ouviu.",
+        "Um senhor de chapéu de palha estava sentado num banco, comendo um acarajé. — Perdeu a balsa, meu filho? — perguntou ele, rindo. O Caio explicou tudo: a entrevista, a empresa de turismo, o emprego que ele queria tanto. O senhor ouviu com atenção e depois disse que conhecia um pescador com uma lancha. — Se a gente for agora, você chega antes da balsa — disse ele.",
+        "A lancha era pequena e balançava muito, e o Caio chegou ao outro lado com a camisa molhada. Mesmo assim, ele entrou no escritório às nove em ponto. Meia hora depois, a porta se abriu, e o senhor de chapéu de palha entrou, tranquilo. — Desculpem o atraso — disse ele aos funcionários. Era o dono da empresa. — Você não desiste fácil — disse ele ao Caio, sorrindo. — Começa segunda-feira?"
+      ],
+      "english": [
+        [
+          "Caio had a job interview at nine o'clock on Itaparica, on the other side of the bay.",
+          "He left home early, but the Salvador traffic was at a standstill, and he arrived at the terminal running.",
+          "When he went through the turnstile, the seven o'clock ferry was already leaving.",
+          "\"Wait!\" he shouted, but nobody heard."
+        ],
+        [
+          "An old man in a straw hat was sitting on a bench, eating an acarajé.",
+          "\"Missed the ferry, son?\" he asked, laughing.",
+          "Caio explained everything: the interview, the tourism company, the job he wanted so much.",
+          "The man listened carefully and then said he knew a fisherman with a motorboat.",
+          "\"If we go now, you'll get there before the ferry,\" he said."
+        ],
+        [
+          "The motorboat was small and rocked a lot, and Caio reached the other side with a wet shirt.",
+          "Even so, he walked into the office at nine on the dot.",
+          "Half an hour later, the door opened, and the man in the straw hat came in, calm.",
+          "\"Sorry I'm late,\" he said to the staff.",
+          "He was the owner of the company.",
+          "\"You don't give up easily,\" he said to Caio, smiling.",
+          "\"Can you start on Monday?\""
+        ]
+      ],
+      "vocab": [
+        { "word": "entrevista de emprego", "gloss": "job interview" },
+        { "word": "baía", "gloss": "bay" },
+        { "word": "trânsito", "gloss": "traffic" },
+        { "word": "catraca", "gloss": "turnstile" },
+        { "word": "chapéu de palha", "gloss": "straw hat" },
+        { "word": "meu filho", "gloss": "son (friendly form of address)" },
+        { "word": "lancha", "gloss": "motorboat" },
+        { "word": "balançava", "gloss": "rocked, swayed" },
+        { "word": "em ponto", "gloss": "on the dot" },
+        { "word": "o atraso", "gloss": "the delay, being late" },
+        { "word": "desiste", "gloss": "give up" }
+      ]
+    },
+    {
+      "id": "pt-b1-02",
+      "title": "O primeiro plantão",
+      "subtitle": "The first night shift",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "A Juliana tinha terminado a faculdade de enfermagem havia dois meses. Naquela sexta-feira, ela ia fazer o seu primeiro plantão noturno num hospital público de São Paulo. Antes de sair de casa, a mãe dela preparou uma marmita e disse: “Se ficar com medo, respira fundo.”",
+        "A noite foi longa. Às duas da manhã, chegou um senhor com dor no peito, e a Juliana sentiu as mãos tremerem. A enfermeira-chefe, uma mulher baixinha chamada dona Cida, ficou do lado dela o tempo todo. — Calma, você sabe fazer isso — dizia ela. E era verdade: a Juliana sabia. Ela mediu a pressão, chamou o médico e ficou conversando com o paciente até ele dormir.",
+        "Às sete horas, quando o sol nasceu sobre os prédios, as duas tomaram um café ruim da máquina. — Sabe qual foi o meu primeiro paciente, trinta anos atrás? — perguntou dona Cida. — Não faço ideia. — Um senhor com dor no peito, igualzinho ao de hoje. Eu chorei no banheiro depois. — Eu também chorei — confessou a Juliana. Dona Cida riu e disse que isso era sinal de que ela ia ser uma ótima enfermeira."
+      ],
+      "english": [
+        [
+          "Juliana had finished her nursing degree two months earlier.",
+          "That Friday, she was going to work her first night shift at a public hospital in São Paulo.",
+          "Before she left home, her mother packed her a lunch box and said: \"If you get scared, take a deep breath.\""
+        ],
+        [
+          "The night was long.",
+          "At two in the morning, a man arrived with chest pain, and Juliana felt her hands shaking.",
+          "The head nurse, a short woman called Dona Cida, stayed beside her the whole time.",
+          "\"Calm down, you know how to do this,\" she kept saying.",
+          "And it was true: Juliana did know.",
+          "She took his blood pressure, called the doctor and kept talking to the patient until he fell asleep."
+        ],
+        [
+          "At seven o'clock, when the sun rose over the buildings, the two of them drank a bad coffee from the machine.",
+          "\"Do you know who my first patient was, thirty years ago?\" asked Dona Cida.",
+          "\"I have no idea.\"",
+          "\"A man with chest pain, just like today's.\"",
+          "I cried in the bathroom afterwards.",
+          "\"I cried too,\" Juliana confessed.",
+          "Dona Cida laughed and said that this was a sign she was going to be a great nurse."
+        ]
+      ],
+      "vocab": [
+        { "word": "plantão noturno", "gloss": "night shift" },
+        { "word": "enfermagem", "gloss": "nursing" },
+        { "word": "marmita", "gloss": "packed lunch box" },
+        { "word": "respira fundo", "gloss": "take a deep breath" },
+        { "word": "dor no peito", "gloss": "chest pain" },
+        { "word": "tremerem", "gloss": "shaking" },
+        { "word": "enfermeira-chefe", "gloss": "head nurse" },
+        { "word": "mediu a pressão", "gloss": "took (his) blood pressure" },
+        { "word": "igualzinho", "gloss": "exactly like" },
+        { "word": "confessou", "gloss": "confessed" }
+      ]
+    },
+    {
+      "id": "pt-b1-03",
+      "title": "Depois da chuva",
+      "subtitle": "After the rain",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Quando o Rodrigo se mudou de Curitiba para Belém, ele achou estranho um costume dos colegas de trabalho. Ninguém marcava nada para as três da tarde. — A gente se encontra depois da chuva — diziam todos, como se a chuva fosse um compromisso.",
+        "O Rodrigo não acreditava nisso. Numa terça-feira de sol forte, ele marcou uma reunião com um cliente no outro lado da cidade às três em ponto. — Hoje não vai chover, olha esse céu azul — disse ele à colega Luana. Ela só levantou as sobrancelhas e emprestou um guarda-chuva para ele. Ele recusou, claro.",
+        "Às duas e cinquenta, o céu ficou escuro de repente. Às três, caiu um temporal tão forte que as ruas viraram rios em poucos minutos. O Rodrigo chegou à reunião encharcado, com os sapatos cheios de água. O cliente, um senhor simpático, olhou para ele e começou a rir. — Você não é daqui, né? Desde aquele dia, o Rodrigo sempre carrega um guarda-chuva na mochila e marca todas as reuniões para depois da chuva."
+      ],
+      "english": [
+        [
+          "When Rodrigo moved from Curitiba to Belém, he found one of his colleagues' habits strange.",
+          "Nobody arranged anything for three in the afternoon.",
+          "\"We'll meet after the rain,\" they all said, as if the rain were an appointment."
+        ],
+        [
+          "Rodrigo didn't believe in this.",
+          "On a Tuesday of bright sunshine, he set up a meeting with a client on the other side of town at three on the dot.",
+          "\"It's not going to rain today, look at that blue sky,\" he said to his colleague Luana.",
+          "She just raised her eyebrows and lent him an umbrella.",
+          "He refused, of course."
+        ],
+        [
+          "At ten to three, the sky suddenly went dark.",
+          "At three, such a heavy downpour fell that the streets turned into rivers in a few minutes.",
+          "Rodrigo arrived at the meeting soaked, with his shoes full of water.",
+          "The client, a friendly older man, looked at him and started laughing.",
+          "\"You're not from around here, are you?\"",
+          "Since that day, Rodrigo always carries an umbrella in his backpack and sets all his meetings for after the rain."
+        ]
+      ],
+      "vocab": [
+        { "word": "se mudou", "gloss": "moved (house)" },
+        { "word": "costume", "gloss": "habit, custom" },
+        { "word": "marcava", "gloss": "arranged, scheduled" },
+        { "word": "compromisso", "gloss": "appointment" },
+        { "word": "sobrancelhas", "gloss": "eyebrows" },
+        { "word": "emprestou", "gloss": "lent" },
+        { "word": "recusou", "gloss": "refused" },
+        { "word": "temporal", "gloss": "downpour, storm" },
+        { "word": "viraram", "gloss": "turned into" },
+        { "word": "encharcado", "gloss": "soaked" },
+        { "word": "carrega", "gloss": "carries" }
+      ]
+    },
+    {
+      "id": "pt-b1-04",
+      "title": "O boto cor-de-rosa",
+      "subtitle": "The pink river dolphin",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "A Bia tinha dez anos e morava numa comunidade às margens do rio Negro, a duas horas de barco de Manaus. Todas as manhãs, ela ia para a escola numa canoa com o irmão mais velho, o Davi. O Davi adorava contar histórias de assombração, e a favorita dele era a do boto. — À noite, o boto vira um homem bonito de chapéu branco e vai às festas — dizia ele.",
+        "A Bia fingia que não tinha medo, mas nunca olhava para a água escura. Um dia, a canoa parou no meio do rio porque o motor falhou. Enquanto o Davi tentava consertar o motor, uma coisa rosa apareceu bem perto do barco. Depois apareceu outra, e mais outra. Eram três botos, brincando e soltando ar pelo nariz com um barulho engraçado.",
+        "A Bia ficou parada, sem respirar. Os botos nadaram em volta da canoa por alguns minutos e depois desapareceram no rio. Quando o motor voltou a funcionar, ela percebeu que o irmão estava pálido. — Você está com medo? — perguntou ela, surpresa. — Eu? Imagina! Mas naquela noite, quando houve festa na comunidade, o Davi não tirou os olhos de um rapaz de chapéu branco."
+      ],
+      "english": [
+        [
+          "Bia was ten and lived in a community on the banks of the Rio Negro, two hours by boat from Manaus.",
+          "Every morning, she went to school in a canoe with her older brother, Davi.",
+          "Davi loved telling ghost stories, and his favourite was the one about the river dolphin.",
+          "\"At night, the dolphin turns into a handsome man in a white hat and goes to parties,\" he would say."
+        ],
+        [
+          "Bia pretended she wasn't afraid, but she never looked at the dark water.",
+          "One day, the canoe stopped in the middle of the river because the engine failed.",
+          "While Davi was trying to fix the engine, something pink appeared right next to the boat.",
+          "Then another one appeared, and another.",
+          "They were three river dolphins, playing and blowing air out of their noses with a funny noise."
+        ],
+        [
+          "Bia stayed still, without breathing.",
+          "The dolphins swam around the canoe for a few minutes and then disappeared into the river.",
+          "When the engine started working again, she noticed that her brother was pale.",
+          "\"Are you scared?\" she asked, surprised.",
+          "\"Me?\"",
+          "Of course not!",
+          "But that night, when there was a party in the community, Davi didn't take his eyes off a young man in a white hat."
+        ]
+      ],
+      "vocab": [
+        { "word": "às margens", "gloss": "on the banks" },
+        { "word": "assombração", "gloss": "ghost, haunting" },
+        { "word": "vira", "gloss": "turns into" },
+        { "word": "fingia", "gloss": "pretended" },
+        { "word": "falhou", "gloss": "failed" },
+        { "word": "consertar", "gloss": "fix, repair" },
+        { "word": "soltando", "gloss": "letting out" },
+        { "word": "em volta", "gloss": "around" },
+        { "word": "pálido", "gloss": "pale" },
+        { "word": "Imagina!", "gloss": "Of course not! / Don't be silly!" }
+      ]
+    },
+    {
+      "id": "pt-b1-05",
+      "title": "A pelada de quarta",
+      "subtitle": "The Wednesday kickabout",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Toda quarta-feira à noite, um grupo de senhores aposentados jogava futebol numa quadra de bairro em Porto Alegre. Eles jogavam juntos havia vinte anos, e cada um tinha o seu apelido: o Tanque, o Professor, o Bigode. Naquela quarta, faltou um jogador, e o time do Bigode ia perder sem jogar.",
+        "— Eu posso jogar — disse uma voz atrás do alambrado. Era a Laura, a neta do Professor, que tinha vindo buscar o avô. Os senhores se olharam, desconfiados. — Bah, guria, aqui o jogo é pesado — avisou o Tanque. Ela só amarrou os tênis e entrou na quadra.",
+        "Em dez minutos, a Laura já tinha feito dois gols. Ela driblava o Tanque como se ele estivesse parado, e o Bigode gritava de alegria a cada jogada. No fim, o time dela ganhou de sete a dois. — Por que você nunca me contou que a sua neta jogava assim? — perguntou o Tanque ao Professor. — Você nunca perguntou — respondeu ele, orgulhoso. Na quarta seguinte, a Laura voltou, e ninguém mais falou em jogo pesado."
+      ],
+      "english": [
+        [
+          "Every Wednesday evening, a group of retired men played football on a neighbourhood pitch in Porto Alegre.",
+          "They had been playing together for twenty years, and each had his nickname: the Tank, the Professor, the Moustache.",
+          "That Wednesday, one player was missing, and the Moustache's team was going to lose without playing."
+        ],
+        [
+          "\"I can play,\" said a voice behind the wire fence.",
+          "It was Laura, the Professor's granddaughter, who had come to pick up her grandfather.",
+          "The old men looked at each other, suspicious.",
+          "\"Hey, girl, the game's rough here,\" the Tank warned.",
+          "She just tied her trainers and walked onto the pitch."
+        ],
+        [
+          "In ten minutes, Laura had already scored two goals.",
+          "She dribbled past the Tank as if he were standing still, and the Moustache shouted with joy at every move.",
+          "In the end, her team won seven–two.",
+          "\"Why did you never tell me your granddaughter played like that?\" the Tank asked the Professor.",
+          "\"You never asked,\" he replied proudly.",
+          "The following Wednesday, Laura came back, and nobody mentioned a rough game again."
+        ]
+      ],
+      "vocab": [
+        { "word": "aposentados", "gloss": "retired" },
+        { "word": "quadra", "gloss": "court, small pitch" },
+        { "word": "apelido", "gloss": "nickname" },
+        { "word": "faltou", "gloss": "was missing" },
+        { "word": "alambrado", "gloss": "wire fence" },
+        { "word": "desconfiados", "gloss": "suspicious" },
+        { "word": "guria", "gloss": "girl (southern Brazil)" },
+        { "word": "amarrou", "gloss": "tied" },
+        { "word": "driblava", "gloss": "dribbled past" },
+        { "word": "jogada", "gloss": "move, piece of play" },
+        { "word": "orgulhoso", "gloss": "proud" }
+      ]
+    },
+    {
+      "id": "pt-b1-06",
+      "title": "A avó no celular",
+      "subtitle": "Grandma on the phone",
+      "topic": "Technology",
+      "symbol": "phone.fill",
+      "paragraphs": [
+        "A dona Zilda tinha setenta e oito anos e morava sozinha numa cidadezinha de Minas Gerais. Os netos moravam longe, em Belo Horizonte e em Lisboa, e ligavam pouco. No Natal, o neto Pedro deu um celular novo para ela e passou a tarde inteira explicando como fazer chamadas de vídeo. — Vó, é só apertar aqui, no botão verde — repetia ele.",
+        "Nas primeiras semanas, a dona Zilda ligava sem querer para pessoas estranhas e aparecia na tela só com metade do rosto. Mas ela era teimosa. Todas as tardes, depois do café com pão de queijo, ela treinava um pouco. Logo, ela aprendeu a mandar fotos, áudios e até figurinhas.",
+        "Em março, o Pedro ligou e estranhou o barulho de fundo. Na tela, apareceu a sala da avó cheia de senhoras com celulares na mão. — Vó, o que está acontecendo aí? — Agora eu dou aula, meu filho — disse ela, ajeitando os óculos. A turma tinha onze alunas, e todas já sabiam fazer chamada de vídeo. Desde então, quem liga menos é o Pedro, porque a avó está sempre ocupada."
+      ],
+      "english": [
+        [
+          "Dona Zilda was seventy-eight and lived alone in a small town in Minas Gerais.",
+          "Her grandchildren lived far away, in Belo Horizonte and Lisbon, and rarely called.",
+          "At Christmas, her grandson Pedro gave her a new mobile phone and spent the whole afternoon explaining how to make video calls.",
+          "\"Grandma, you just press here, on the green button,\" he kept repeating."
+        ],
+        [
+          "In the first few weeks, Dona Zilda accidentally called strangers and appeared on the screen with only half her face.",
+          "But she was stubborn.",
+          "Every afternoon, after coffee and cheese bread, she practised a little.",
+          "Soon she learned to send photos, voice messages and even stickers."
+        ],
+        [
+          "In March, Pedro called and was puzzled by the background noise.",
+          "On the screen appeared his grandmother's living room, full of old ladies with phones in their hands.",
+          "\"Grandma, what's going on there?\"",
+          "\"I give lessons now, son,\" she said, adjusting her glasses.",
+          "The class had eleven students, and all of them could already make a video call.",
+          "Since then, the one who calls less is Pedro, because his grandmother is always busy."
+        ]
+      ],
+      "vocab": [
+        { "word": "cidadezinha", "gloss": "small town" },
+        { "word": "netos", "gloss": "grandchildren" },
+        { "word": "apertar", "gloss": "press" },
+        { "word": "sem querer", "gloss": "accidentally" },
+        { "word": "teimosa", "gloss": "stubborn" },
+        { "word": "treinava", "gloss": "practised" },
+        { "word": "figurinhas", "gloss": "stickers (in messaging apps)" },
+        { "word": "estranhou", "gloss": "found strange" },
+        { "word": "barulho de fundo", "gloss": "background noise" },
+        { "word": "ajeitando", "gloss": "adjusting" },
+        { "word": "turma", "gloss": "class, group" }
+      ]
+    },
+    {
+      "id": "pt-b1-07",
+      "title": "O barulho do 302",
+      "subtitle": "The noise from 302",
+      "topic": "Neighbours",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "A Marta morava num prédio antigo em Botafogo, no Rio de Janeiro, e adorava o silêncio das noites. Até que, em janeiro, alguém começou a fazer barulho no apartamento de cima, o 302. Era um tum-tum-tum forte, todas as noites, das oito às dez.",
+        "Depois de uma semana, a Marta subiu a escada, decidida a reclamar. Quem abriu a porta foi o seu Arnaldo, um viúvo de oitenta anos que quase nunca saía de casa. Ele estava segurando um surdo, aquele tambor grande das escolas de samba. — Desculpa, minha filha — disse ele, envergonhado. — É que eu entrei num bloco de carnaval e preciso treinar. Minha mulher sempre quis que eu fizesse isso.",
+        "A Marta não teve coragem de reclamar. Em vez disso, ela perguntou se o bloco precisava de mais gente. O seu Arnaldo sorriu pela primeira vez e disse que faltava alguém no chocalho. Durante um mês, os dois treinaram juntos no 302, e os outros vizinhos, em vez de reclamar, começaram a aparecer com instrumentos. No carnaval, o prédio inteiro desfilou atrás do seu Arnaldo, que tocava o surdo com os olhos cheios de lágrimas."
+      ],
+      "english": [
+        [
+          "Marta lived in an old building in Botafogo, in Rio de Janeiro, and loved the quiet of the nights.",
+          "Until, in January, somebody started making noise in the flat above, 302.",
+          "It was a loud thump-thump-thump, every night, from eight to ten."
+        ],
+        [
+          "After a week, Marta went up the stairs, determined to complain.",
+          "The person who opened the door was Seu Arnaldo, an eighty-year-old widower who hardly ever left home.",
+          "He was holding a surdo, that big drum used by samba schools.",
+          "\"Sorry, dear,\" he said, embarrassed.",
+          "\"It's just that I've joined a carnival street band and I need to practise.\"",
+          "My wife always wanted me to do this."
+        ],
+        [
+          "Marta didn't have the heart to complain.",
+          "Instead, she asked whether the band needed more people.",
+          "Seu Arnaldo smiled for the first time and said they were missing someone on the shaker.",
+          "For a month, the two of them practised together in 302, and the other neighbours, instead of complaining, began to turn up with instruments.",
+          "At carnival, the whole building paraded behind Seu Arnaldo, who played the surdo with his eyes full of tears."
+        ]
+      ],
+      "vocab": [
+        { "word": "de cima", "gloss": "upstairs, above" },
+        { "word": "decidida", "gloss": "determined" },
+        { "word": "reclamar", "gloss": "complain" },
+        { "word": "viúvo", "gloss": "widower" },
+        { "word": "tambor", "gloss": "drum" },
+        { "word": "envergonhado", "gloss": "embarrassed" },
+        { "word": "bloco de carnaval", "gloss": "carnival street band" },
+        { "word": "não teve coragem", "gloss": "didn't have the heart" },
+        { "word": "chocalho", "gloss": "shaker (percussion)" },
+        { "word": "desfilou", "gloss": "paraded" },
+        { "word": "lágrimas", "gloss": "tears" }
+      ]
+    },
+    {
+      "id": "pt-b1-08",
+      "title": "Os bilhetes da biblioteca",
+      "subtitle": "The library notes",
+      "topic": "Mystery",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "O Tiago trabalhava numa biblioteca pública do Recife, num casarão antigo perto do rio Capibaribe. Um dia, ao arrumar uma estante, ele encontrou um bilhete dentro de um livro de poesia. Estava escrito à mão, com uma letra bonita: “Página 43. Você vai gostar.”",
+        "Ele abriu na página 43 e encontrou um poema sobre o mar de Olinda. No dia seguinte, apareceu outro bilhete, num romance: “Capítulo cinco, para quando estiver triste.” Durante semanas, os bilhetes continuaram aparecendo, sempre em livros diferentes. O Tiago começou a ler todas as recomendações e a ficar curioso. Quem estava fazendo aquilo? E para quem eram os bilhetes?",
+        "Numa manhã de sábado, ele chegou mais cedo e se escondeu atrás de uma estante. Às oito e meia, entrou a dona Lourdes, a faxineira, que trabalhava ali havia trinta anos. Ela tirou um papel do bolso e o colocou num livro de contos. — Fui eu que deixei todos — disse ela, quando o viu. — Ninguém lê nada aqui, então eu pensei: vou dar uma ajudinha. Hoje os dois deixam bilhetes juntos, e a biblioteca tem fila na porta aos sábados."
+      ],
+      "english": [
+        [
+          "Tiago worked in a public library in Recife, in an old mansion near the Capibaribe river.",
+          "One day, while tidying a bookcase, he found a note inside a book of poetry.",
+          "It was handwritten, in beautiful handwriting: \"Page 43. You'll like it.\""
+        ],
+        [
+          "He opened it at page 43 and found a poem about the sea at Olinda.",
+          "The next day, another note appeared, in a novel: \"Chapter five, for when you're sad.\"",
+          "For weeks, the notes kept appearing, always in different books.",
+          "Tiago started reading all the recommendations and getting curious.",
+          "Who was doing it?",
+          "And who were the notes for?"
+        ],
+        [
+          "One Saturday morning, he arrived earlier and hid behind a bookcase.",
+          "At half past eight, in came Dona Lourdes, the cleaner, who had worked there for thirty years.",
+          "She took a piece of paper out of her pocket and put it in a book of short stories.",
+          "\"I'm the one who left them all,\" she said when she saw him.",
+          "\"Nobody reads anything here, so I thought: I'll give them a little help.\"",
+          "Today the two of them leave notes together, and the library has a queue at the door on Saturdays."
+        ]
+      ],
+      "vocab": [
+        { "word": "casarão", "gloss": "large old house, mansion" },
+        { "word": "arrumar", "gloss": "tidy" },
+        { "word": "estante", "gloss": "bookcase" },
+        { "word": "bilhete", "gloss": "note" },
+        { "word": "escrito à mão", "gloss": "handwritten" },
+        { "word": "romance", "gloss": "novel" },
+        { "word": "se escondeu", "gloss": "hid" },
+        { "word": "faxineira", "gloss": "cleaner" },
+        { "word": "contos", "gloss": "short stories" },
+        { "word": "uma ajudinha", "gloss": "a little help" },
+        { "word": "fila", "gloss": "queue" }
+      ]
+    },
+    {
+      "id": "pt-b1-09",
+      "title": "Pneu furado no sertão",
+      "subtitle": "A flat tyre in the sertão",
+      "topic": "Travel",
+      "symbol": "sun.max.fill",
+      "paragraphs": [
+        "A família Andrade estava viajando de carro de Fortaleza para Juazeiro do Norte, na época mais quente do ano. O pai dirigia, a mãe cuidava do mapa, e os dois filhos reclamavam do calor no banco de trás. No meio do sertão, longe de qualquer cidade, ouviram um estouro. — Pneu furado — disse o pai, suspirando.",
+        "O pior veio depois: o estepe também estava vazio. Não havia sinal de celular, e a estrada estava deserta. Depois de meia hora, apareceu um senhor numa moto velha, com uma menina na garupa. Ele olhou o pneu, coçou a cabeça e disse que a casa dele ficava perto. — Vocês vão almoçar com a gente enquanto o meu genro conserta isso — anunciou ele.",
+        "A casa era simples, de barro, com um pé de umbu na frente. A esposa do senhor serviu baião de dois, carne de sol e queijo coalho, e ninguém deixou a família pagar nada. Os meninos brincaram com as cabras a tarde toda e esqueceram o calor. No caminho de volta, uma semana depois, o pai parou na mesma casa com um presente para cada um. — Essa foi a melhor parte da viagem — disse o filho mais novo, e ninguém discordou."
+      ],
+      "english": [
+        [
+          "The Andrade family were travelling by car from Fortaleza to Juazeiro do Norte, in the hottest time of the year.",
+          "The father was driving, the mother was in charge of the map, and the two children complained about the heat in the back seat.",
+          "In the middle of the sertão, far from any town, they heard a bang.",
+          "\"Flat tyre,\" said the father, sighing."
+        ],
+        [
+          "The worst came next: the spare tyre was flat too.",
+          "There was no phone signal, and the road was deserted.",
+          "After half an hour, an old man appeared on an old motorbike, with a girl riding pillion.",
+          "He looked at the tyre, scratched his head and said his house was close by.",
+          "\"You'll have lunch with us while my son-in-law fixes this,\" he announced."
+        ],
+        [
+          "The house was simple, made of clay, with an umbu tree in front.",
+          "The man's wife served baião de dois, sun-dried beef and coalho cheese, and nobody let the family pay anything.",
+          "The kids played with the goats all afternoon and forgot about the heat.",
+          "On the way back, a week later, the father stopped at the same house with a present for each of them.",
+          "\"That was the best part of the trip,\" said the younger son, and nobody disagreed."
+        ]
+      ],
+      "vocab": [
+        { "word": "estouro", "gloss": "bang, blowout" },
+        { "word": "suspirando", "gloss": "sighing" },
+        { "word": "estepe", "gloss": "spare tyre" },
+        { "word": "deserta", "gloss": "deserted" },
+        { "word": "na garupa", "gloss": "riding pillion" },
+        { "word": "coçou", "gloss": "scratched" },
+        { "word": "genro", "gloss": "son-in-law" },
+        { "word": "barro", "gloss": "clay, mud" },
+        { "word": "carne de sol", "gloss": "sun-dried salted beef" },
+        { "word": "cabras", "gloss": "goats" },
+        { "word": "discordou", "gloss": "disagreed" }
+      ]
+    },
+    {
+      "id": "pt-b1-10",
+      "title": "O guarda-chuva amarelo",
+      "subtitle": "The yellow umbrella",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Toda manhã, a Helena pegava o metrô na estação Consolação, em São Paulo, às sete e quinze. Num dia de garoa, ela esqueceu o guarda-chuva no vagão. Era amarelo, velho e feio, mas tinha sido da avó dela, e ela ficou arrasada.",
+        "Na semana seguinte, viu um cartaz colado na parede da estação: “Achei um guarda-chuva amarelo. Se for seu, estarei aqui sexta-feira, às sete e quinze.” A Helena leu o cartaz três vezes. Na sexta, ela chegou às sete em ponto, nervosa sem saber por quê.",
+        "Um rapaz alto estava encostado na parede, com o guarda-chuva amarelo debaixo do braço. — É seu? — perguntou ele. — É, sim! — respondeu ela. — Muito obrigada, mas por que você fez um cartaz para um guarda-chuva tão feio? O rapaz ficou vermelho. — Porque eu vejo você todo dia neste metrô há seis meses e nunca tive coragem de falar com você. A Helena riu, e os dois perderam o trem das sete e quinze conversando na plataforma. Dois anos depois, o guarda-chuva amarelo apareceu nas fotos do casamento."
+      ],
+      "english": [
+        [
+          "Every morning, Helena caught the metro at Consolação station, in São Paulo, at a quarter past seven.",
+          "One drizzly day, she left her umbrella in the carriage.",
+          "It was yellow, old and ugly, but it had belonged to her grandmother, and she was devastated."
+        ],
+        [
+          "The following week, she saw a poster stuck on the station wall: \"Found a yellow umbrella. If it's yours, I'll be here on Friday at a quarter past seven.\"",
+          "Helena read the poster three times.",
+          "On Friday, she arrived at seven on the dot, nervous without knowing why."
+        ],
+        [
+          "A tall young man was leaning against the wall, with the yellow umbrella under his arm.",
+          "\"Is it yours?\" he asked.",
+          "\"Yes, it is!\" she replied.",
+          "\"Thank you so much, but why did you make a poster for such an ugly umbrella?\"",
+          "The young man went red.",
+          "\"Because I've seen you on this metro every day for six months and I never had the courage to talk to you.\"",
+          "Helena laughed, and the two of them missed the quarter-past-seven train, talking on the platform.",
+          "Two years later, the yellow umbrella appeared in the wedding photos."
+        ]
+      ],
+      "vocab": [
+        { "word": "garoa", "gloss": "drizzle" },
+        { "word": "vagão", "gloss": "carriage" },
+        { "word": "arrasada", "gloss": "devastated" },
+        { "word": "cartaz", "gloss": "poster" },
+        { "word": "colado", "gloss": "stuck" },
+        { "word": "encostado", "gloss": "leaning" },
+        { "word": "debaixo do braço", "gloss": "under (his) arm" },
+        { "word": "ficou vermelho", "gloss": "went red, blushed" },
+        { "word": "coragem", "gloss": "courage" },
+        { "word": "perderam", "gloss": "missed" }
+      ]
+    },
+    {
+      "id": "pt-b1-11",
+      "title": "A prova de direção",
+      "subtitle": "The driving test",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "O Gustavo tinha quarenta e cinco anos e nunca tinha aprendido a dirigir. Em Curitiba, ele ia para todo lugar de ônibus ou de bicicleta, e sempre dizia que carro era coisa desnecessária. Mas quando a filha dele, a Sofia, fez dezoito anos, ela tirou a carteira de motorista na primeira tentativa. — Pai, agora é a sua vez — disse ela, com um sorriso perigoso.",
+        "As aulas foram um desastre. O Gustavo confundia o freio com a embreagem, deixava o carro morrer em todas as subidas e pedia desculpas aos outros motoristas. O instrutor, um rapaz paciente, dizia que nunca tinha visto ninguém tão educado e tão ruim ao mesmo tempo. Ele reprovou na primeira prova e também na segunda.",
+        "Na terceira vez, a Sofia foi junto e ficou esperando do lado de fora. Quando o pai voltou, estava sério. — E aí? — perguntou ela, ansiosa. Ele tirou um papel do bolso devagar. — Aprovado — disse ele, e os dois começaram a pular no meio da calçada. No dia seguinte, o Gustavo foi trabalhar de bicicleta, como sempre. — Eu só queria provar que conseguia — explicou ele."
+      ],
+      "english": [
+        [
+          "Gustavo was forty-five and had never learned to drive.",
+          "In Curitiba, he went everywhere by bus or by bike, and always said that cars were unnecessary.",
+          "But when his daughter, Sofia, turned eighteen, she got her driving licence on the first attempt.",
+          "\"Dad, now it's your turn,\" she said, with a dangerous smile."
+        ],
+        [
+          "The lessons were a disaster.",
+          "Gustavo confused the brake with the clutch, stalled the car on every hill and apologised to the other drivers.",
+          "The instructor, a patient young man, said he had never seen anyone so polite and so bad at the same time.",
+          "He failed the first test and the second too."
+        ],
+        [
+          "The third time, Sofia went with him and waited outside.",
+          "When her father came back, he looked serious.",
+          "\"So?\" she asked anxiously.",
+          "He slowly took a piece of paper out of his pocket.",
+          "\"Passed,\" he said, and the two of them started jumping up and down in the middle of the pavement.",
+          "The next day, Gustavo cycled to work, as always.",
+          "\"I just wanted to prove I could,\" he explained."
+        ]
+      ],
+      "vocab": [
+        { "word": "dirigir", "gloss": "drive" },
+        { "word": "carteira de motorista", "gloss": "driving licence" },
+        { "word": "tentativa", "gloss": "attempt" },
+        { "word": "freio", "gloss": "brake" },
+        { "word": "embreagem", "gloss": "clutch" },
+        { "word": "deixava o carro morrer", "gloss": "stalled the car" },
+        { "word": "subidas", "gloss": "uphill slopes" },
+        { "word": "reprovou", "gloss": "failed (a test)" },
+        { "word": "ansiosa", "gloss": "anxious" },
+        { "word": "Aprovado", "gloss": "Passed" },
+        { "word": "calçada", "gloss": "pavement" }
+      ]
+    },
+    {
+      "id": "pt-b1-12",
+      "title": "Uma noite no Pantanal",
+      "subtitle": "A night in the Pantanal",
+      "topic": "Nature",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "A Camila era fotógrafa e tinha uma missão difícil: fotografar uma onça-pintada no Pantanal. Durante cinco dias, ela e o guia, seu Benedito, saíram de barco antes do amanhecer. Viram jacarés, capivaras, araras-azuis e milhares de pássaros, mas nenhuma onça. — A onça é que escolhe quem vai ver ela — dizia o seu Benedito, tranquilo.",
+        "Na última noite, a Camila estava desanimada. Ela se sentou na varanda da pousada com a câmera no colo e ficou olhando as estrelas. No Pantanal, sem luz elétrica por perto, o céu parecia cheio de açúcar. Ela decidiu que, se não visse a onça, pelo menos ia levar uma foto bonita do céu.",
+        "Ela ficou ali duas horas, tirando fotos das estrelas. De manhã, no barco de volta, ela olhou as fotos no visor da câmera. De repente, parou e deu um grito. Numa das fotos, no canto escuro, perto da varanda, havia dois olhos amarelos brilhando. — Ela estava lá o tempo todo, olhando para mim! — disse a Camila. O seu Benedito só sorriu. — Eu falei que era ela que escolhia."
+      ],
+      "english": [
+        [
+          "Camila was a photographer and had a difficult mission: to photograph a jaguar in the Pantanal.",
+          "For five days, she and the guide, Seu Benedito, went out by boat before dawn.",
+          "They saw caimans, capybaras, hyacinth macaws and thousands of birds, but no jaguar.",
+          "\"It's the jaguar that chooses who gets to see her,\" Seu Benedito would say calmly."
+        ],
+        [
+          "On the last night, Camila was discouraged.",
+          "She sat on the veranda of the guesthouse with the camera on her lap and stared at the stars.",
+          "In the Pantanal, with no electric light nearby, the sky seemed full of sugar.",
+          "She decided that, if she didn't see the jaguar, at least she would take home a beautiful photo of the sky."
+        ],
+        [
+          "She stayed there two hours, taking photos of the stars.",
+          "In the morning, on the boat back, she looked at the photos on the camera's screen.",
+          "Suddenly, she stopped and let out a cry.",
+          "In one of the photos, in the dark corner, near the veranda, there were two yellow eyes shining.",
+          "\"She was there the whole time, looking at me!\" said Camila.",
+          "Seu Benedito just smiled.",
+          "\"I told you it was her who chose.\""
+        ]
+      ],
+      "vocab": [
+        { "word": "onça-pintada", "gloss": "jaguar" },
+        { "word": "amanhecer", "gloss": "dawn" },
+        { "word": "jacarés", "gloss": "caimans" },
+        { "word": "araras-azuis", "gloss": "hyacinth macaws" },
+        { "word": "desanimada", "gloss": "discouraged" },
+        { "word": "pousada", "gloss": "guesthouse, inn" },
+        { "word": "no colo", "gloss": "on (her) lap" },
+        { "word": "por perto", "gloss": "nearby" },
+        { "word": "visor", "gloss": "(camera) screen" },
+        { "word": "deu um grito", "gloss": "let out a cry" },
+        { "word": "brilhando", "gloss": "shining" }
+      ]
+    },
+    {
+      "id": "pt-b1-13",
+      "title": "O nome do avô",
+      "subtitle": "Grandfather's name",
+      "topic": "Family",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Quando o avô Antônio morreu, aos noventa e dois anos, a neta Renata ficou encarregada de organizar os papéis dele. Numa caixa de sapatos, no fundo do armário, ela achou uma certidão de nascimento antiga, de 1931, de uma cidade do interior da Bahia. O nome na certidão não era Antônio. Era Severino.",
+        "A família inteira ficou espantada. Ninguém sabia que o avô tinha nascido na Bahia; ele sempre dizia que era paulista. A Renata decidiu viajar até a cidade da certidão para descobrir a verdade. Lá, na igreja, um padre velho a ajudou a procurar nos livros de batismo. — Severino... eu conheço esse sobrenome — disse ele. — Tem uma senhora aqui com o mesmo.",
+        "A senhora se chamava Maria, tinha oitenta e nove anos e era irmã do avô. Ela contou que o irmão tinha ido para São Paulo aos dezesseis anos, trabalhar em obras, e tinha mudado de nome para começar uma vida nova. — Ele mandava dinheiro todo mês, mas nunca voltou — disse ela, com a voz baixa. A Renata mostrou fotos do avô no celular, e a dona Maria passou os dedos pela tela, devagar. No ano seguinte, a família inteira foi à Bahia para o aniversário de noventa anos da tia-avó."
+      ],
+      "english": [
+        [
+          "When Grandpa Antônio died, aged ninety-two, his granddaughter Renata was put in charge of sorting out his papers.",
+          "In a shoebox at the back of the wardrobe, she found an old birth certificate, from 1931, from a town in the interior of Bahia.",
+          "The name on the certificate wasn't Antônio.",
+          "It was Severino."
+        ],
+        [
+          "The whole family was astonished.",
+          "Nobody knew that their grandfather had been born in Bahia; he always said he was from São Paulo.",
+          "Renata decided to travel to the town on the certificate to find out the truth.",
+          "There, at the church, an old priest helped her search in the baptism registers.",
+          "\"Severino... I know that surname,\" he said.",
+          "\"There's a lady here with the same one.\""
+        ],
+        [
+          "The lady was called Maria, she was eighty-nine and she was the grandfather's sister.",
+          "She told her that her brother had gone to São Paulo at sixteen to work on building sites, and had changed his name to start a new life.",
+          "\"He sent money every month, but he never came back,\" she said in a low voice.",
+          "Renata showed photos of her grandfather on her phone, and Dona Maria ran her fingers slowly over the screen.",
+          "The following year, the whole family went to Bahia for their great-aunt's ninetieth birthday."
+        ]
+      ],
+      "vocab": [
+        { "word": "encarregada", "gloss": "put in charge" },
+        { "word": "caixa de sapatos", "gloss": "shoebox" },
+        { "word": "certidão de nascimento", "gloss": "birth certificate" },
+        { "word": "interior", "gloss": "interior, countryside" },
+        { "word": "espantada", "gloss": "astonished" },
+        { "word": "paulista", "gloss": "from São Paulo state" },
+        { "word": "batismo", "gloss": "baptism" },
+        { "word": "sobrenome", "gloss": "surname" },
+        { "word": "obras", "gloss": "building sites" },
+        { "word": "tia-avó", "gloss": "great-aunt" }
+      ]
+    },
+    {
+      "id": "pt-b1-14",
+      "title": "O quiosque da Praia do Futuro",
+      "subtitle": "The kiosk on Praia do Futuro",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Depois de perder o emprego num banco, a Rita resolveu abrir um quiosque na Praia do Futuro, em Fortaleza. Ela ia vender tapioca, suco de caju e água de coco. O marido achou a ideia uma loucura. — Você nunca cozinhou para ninguém além da família — disse ele. — Então vou aprender — respondeu ela.",
+        "O primeiro mês foi duro. A Rita acordava às quatro, carregava caixas pesadas e voltava para casa com os pés queimados de areia. Às vezes, ela vendia só cinco tapiocas no dia inteiro. Mas ela anotava tudo num caderno: o que os clientes pediam, o que reclamavam, a que horas a praia enchia.",
+        "Aos poucos, ela mudou o cardápio. Criou uma tapioca de carne de sol com queijo que ninguém mais vendia, e os turistas começaram a fazer fila. Um dia, um blogueiro de comida postou uma foto, e no fim de semana seguinte a fila chegou até a areia molhada. Agora, o marido também trabalha no quiosque, cuidando do caixa. — Quem diria — diz ele aos clientes, orgulhoso. — A ideia louca foi minha, né? — brinca a Rita."
+      ],
+      "english": [
+        [
+          "After losing her job at a bank, Rita decided to open a kiosk on Praia do Futuro, in Fortaleza.",
+          "She was going to sell tapioca, cashew juice and coconut water.",
+          "Her husband thought the idea was crazy.",
+          "\"You've never cooked for anyone outside the family,\" he said.",
+          "\"Then I'll learn,\" she replied."
+        ],
+        [
+          "The first month was hard.",
+          "Rita got up at four, carried heavy boxes and came home with her feet burnt by the sand.",
+          "Sometimes she sold only five tapiocas in a whole day.",
+          "But she noted everything down in a notebook: what the customers asked for, what they complained about, what time the beach filled up."
+        ],
+        [
+          "Little by little, she changed the menu.",
+          "She created a sun-dried beef and cheese tapioca that nobody else sold, and the tourists started queuing up.",
+          "One day, a food blogger posted a photo, and the following weekend the queue reached the wet sand.",
+          "Now her husband works at the kiosk too, looking after the till.",
+          "\"Who'd have thought it,\" he tells the customers proudly.",
+          "\"The crazy idea was mine, right?\" Rita jokes."
+        ]
+      ],
+      "vocab": [
+        { "word": "resolveu", "gloss": "decided" },
+        { "word": "caju", "gloss": "cashew fruit" },
+        { "word": "loucura", "gloss": "madness, crazy idea" },
+        { "word": "duro", "gloss": "hard" },
+        { "word": "queimados", "gloss": "burnt" },
+        { "word": "anotava", "gloss": "noted down" },
+        { "word": "enchia", "gloss": "filled up" },
+        { "word": "Aos poucos", "gloss": "little by little" },
+        { "word": "cardápio", "gloss": "menu" },
+        { "word": "caixa", "gloss": "till, cash register" },
+        { "word": "Quem diria", "gloss": "who'd have thought it" }
+      ]
+    },
+    {
+      "id": "pt-b1-15",
+      "title": "O menino e o boi",
+      "subtitle": "The boy and the ox",
+      "topic": "Culture",
+      "symbol": "theatermasks.fill",
+      "paragraphs": [
+        "Em São Luís do Maranhão, junho é o mês do bumba meu boi. Os grupos dançam a noite toda nas ruas, com roupas cheias de brilho e um boi enorme de pano bordado. O Mateus tinha doze anos e sonhava em ser o miolo do boi, a pessoa que dança escondida dentro dele.",
+        "O problema era que o miolo do grupo do bairro era o seu Raimundo, que fazia aquilo havia quarenta anos. — Um dia vai ser você, menino — dizia ele, mas esse dia nunca chegava. Enquanto isso, o Mateus ajudava a bordar o boi, carregava os tambores e aprendia todos os passos.",
+        "Na noite de São João, pouco antes da apresentação, o seu Raimundo torceu o tornozelo. Todos olharam para o Mateus. — Você sabe os passos? — perguntou o mestre do grupo. Ele sabia, claro. Debaixo do boi, no escuro e no calor, o Mateus dançou como nunca, girando e pulando ao som das matracas. O público gritava, e ninguém sabia quem estava ali dentro. No fim, o seu Raimundo, sentado numa cadeira com o pé enfaixado, chamou o menino. — Eu disse que um dia ia ser você — falou ele, com os olhos molhados."
+      ],
+      "english": [
+        [
+          "In São Luís do Maranhão, June is the month of bumba meu boi.",
+          "The groups dance all night in the streets, with costumes full of sparkle and a huge ox made of embroidered cloth.",
+          "Mateus was twelve and dreamed of being the miolo, the person who dances hidden inside the ox."
+        ],
+        [
+          "The problem was that the miolo of the neighbourhood group was Seu Raimundo, who had been doing it for forty years.",
+          "\"One day it'll be you, boy,\" he would say, but that day never came.",
+          "Meanwhile, Mateus helped embroider the ox, carried the drums and learned all the steps."
+        ],
+        [
+          "On the night of São João, shortly before the performance, Seu Raimundo twisted his ankle.",
+          "Everyone looked at Mateus.",
+          "\"Do you know the steps?\" asked the group's master.",
+          "He did, of course.",
+          "Under the ox, in the dark and the heat, Mateus danced like never before, spinning and jumping to the sound of the matracas.",
+          "The crowd was shouting, and nobody knew who was inside.",
+          "At the end, Seu Raimundo, sitting on a chair with his foot bandaged, called the boy over.",
+          "\"I told you one day it would be you,\" he said, with wet eyes."
+        ]
+      ],
+      "vocab": [
+        { "word": "brilho", "gloss": "sparkle, shine" },
+        { "word": "pano bordado", "gloss": "embroidered cloth" },
+        { "word": "sonhava", "gloss": "dreamed" },
+        { "word": "escondida", "gloss": "hidden" },
+        { "word": "Enquanto isso", "gloss": "meanwhile" },
+        { "word": "passos", "gloss": "steps" },
+        { "word": "torceu o tornozelo", "gloss": "twisted (his) ankle" },
+        { "word": "apresentação", "gloss": "performance" },
+        { "word": "girando", "gloss": "spinning" },
+        { "word": "matracas", "gloss": "wooden clappers" },
+        { "word": "enfaixado", "gloss": "bandaged" }
+      ]
+    }
+  ]
+}
