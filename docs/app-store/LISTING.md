@@ -19,13 +19,15 @@ within Apple's limits. Primary language: **English (U.K.)**.
 ### Promotional text (170)
 
 ```
-A new story arrives every day in the language you're learning, at your level. Tap any word to see who's doing it, what it means and every form it takes.
+A new story every day in the language you're learning. No account, no ads, no tracking and nothing to pay: your progress never leaves your phone.
 ```
 
 ### Description (4000)
 
 ```
-Learn a language one short story at a time.
+Learn a language one short story at a time, privately.
+
+Mythos has no account, no ads, no analytics and no subscription, and there is no Mythos server. The stories, translations, read-aloud and your progress all live on your phone.
 
 Every day Mythos gives you a new story, written for your level, in the language you're learning. It takes a minute or two to read. Tap any word you don't know and Mythos tells you what it means in the story, who is doing it, and every form it takes.
 
@@ -50,8 +52,11 @@ Choose a time for each language and Mythos lets you know when its story arrives.
 SAVE WORDS, REVIEW THEM AS FLASHCARDS
 Save new words from any story and review them later, turning each card over to see who's doing it and what it means.
 
-PRIVATE BY DESIGN
-No account, no ads, no tracking. Your progress stays on your phone.
+WHAT MYTHOS DOESN'T DO
+• No account or sign-up
+• No ads, analytics or tracking
+• No subscriptions or in-app purchases
+• No Mythos server. The only thing that leaves your phone is a word you look up, sent to the free Wiktionary dictionary at kaikki.org.
 
 Dictionary data comes from Wiktionary through kaikki.org (CC BY-SA 4.0). Looking a word up needs an internet connection the first time.
 ```
@@ -63,7 +68,14 @@ french,spanish,german,italian,portuguese,greek,vocabulary,reading,flashcards,con
 ```
 
 Words already in the name and subtitle (language, stories, daily) count
-anyway, so they're left out.
+anyway, so they're left out. So is "free": Apple rejects prices in the name,
+subtitle, keywords and screenshots (guideline 2.3.7). The description and
+promotional text can say it.
+
+### Pricing and availability
+
+Price: **Free** (USD 0.00), all countries and regions. No in-app purchases,
+so leave that section empty.
 
 ### URLs
 
@@ -80,7 +92,7 @@ branch → `main`, `/docs`**. The pages are `docs/index.html`,
 ### Copyright
 
 ```
-2026 Joshua Diablito
+2026 Joshua Anderson
 ```
 
 ### Screenshots
@@ -111,7 +123,8 @@ messaging, advertising, web access or parental controls. The result is
 
 ## App Privacy
 
-**Data Not Collected.** Mythos has no account, analytics, ads or server.
+**Data Not Collected.** The listing then shows Apple's "Data Not Collected"
+label, the strongest sign of the app's privacy. Mythos has no account, analytics, ads or server.
 Settings and progress stay on the device. Looking a word up fetches that
 word's public dictionary page from kaikki.org, with nothing that identifies
 the user, so it doesn't count as collection under Apple's definitions.
