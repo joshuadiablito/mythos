@@ -54,6 +54,10 @@ struct TodayView: View {
         }
         .task(id: settings.notificationsEnabled) {
             notificationStatus = await NotificationScheduler.authorizationStatus()
+            #if DEBUG
+            // `-notificationsAllowed YES` hides the permission banner. For screenshots.
+            if UserDefaults.standard.bool(forKey: "notificationsAllowed") { notificationStatus = .authorized }
+            #endif
         }
         .onChange(of: router.pendingStoryID, initial: true) { _, id in
             guard let id, let story = catalog.story(id: id) else { return }
