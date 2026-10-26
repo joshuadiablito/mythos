@@ -1,0 +1,1169 @@
+{
+  "language": "es",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "es-b1-01",
+      "title": "La combi equivocada",
+      "subtitle": "The wrong minibus",
+      "topic": "Getting around",
+      "symbol": "tram.fill",
+      "paragraphs": [
+        "Cuando Valeria llegó a Lima para estudiar, nadie le explicó cómo funcionaban las combis. Eran furgonetas pequeñas, pintadas de colores, y un cobrador gritaba los destinos desde la puerta a toda velocidad. El primer lunes, Valeria oyó algo parecido a «Miraflores» y subió sin pensarlo. Media hora después, la combi corría por una avenida que ella no conocía, lejos del mar.",
+        "«Disculpe, ¿falta mucho para Miraflores?», preguntó al cobrador. El chico se rio. «Señorita, esta va a Comas, al otro lado de la ciudad.» Valeria se puso roja. Una señora mayor, sentada a su lado con una bolsa llena de mangos, le tocó el brazo. «No se preocupe, hija. Yo bajo en el paradero siguiente y le enseño dónde tomar la buena.»",
+        "La señora se llamaba Rosa, y no solo la acompañó al paradero: le regaló dos mangos y le escribió en un papel los nombres de las líneas más útiles. Valeria llegó tarde a clase, pero contenta. Hoy, tres años después, conoce todas las rutas de memoria. Aun así, algunos domingos toma a propósito la combi de Comas, porque Rosa la espera con un almuerzo y siempre le pregunta si ya se ha perdido otra vez."
+      ],
+      "english": [
+        [
+          "When Valeria arrived in Lima to study, nobody explained to her how the combis worked.",
+          "They were small vans, painted in bright colours, and a conductor shouted the destinations from the door at top speed.",
+          "The first Monday, Valeria heard something like \"Miraflores\" and got on without thinking.",
+          "Half an hour later, the minibus was racing along an avenue she didn't know, far from the sea."
+        ],
+        [
+          "\"Excuse me, is it much further to Miraflores?\" she asked the conductor.",
+          "The boy laughed.",
+          "\"Miss, this one goes to Comas, on the other side of the city.\"",
+          "Valeria went red.",
+          "An older woman, sitting next to her with a bag full of mangoes, touched her arm.",
+          "\"Don't worry, love. I get off at the next stop and I'll show you where to catch the right one.\""
+        ],
+        [
+          "The woman was called Rosa, and she didn't just walk her to the stop: she gave her two mangoes and wrote the names of the most useful lines on a piece of paper.",
+          "Valeria arrived late for class, but happy.",
+          "Today, three years later, she knows all the routes by heart.",
+          "Even so, on some Sundays she takes the Comas minibus on purpose, because Rosa is waiting for her with lunch and always asks if she has got lost again."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "furgonetas",
+          "gloss": "vans"
+        },
+        {
+          "word": "cobrador",
+          "gloss": "conductor (who collects fares)"
+        },
+        {
+          "word": "a toda velocidad",
+          "gloss": "at top speed"
+        },
+        {
+          "word": "se puso roja",
+          "gloss": "went red, blushed"
+        },
+        {
+          "word": "paradero",
+          "gloss": "(bus) stop (in Peru)"
+        },
+        {
+          "word": "le regaló",
+          "gloss": "gave her (as a present)"
+        },
+        {
+          "word": "de memoria",
+          "gloss": "by heart"
+        },
+        {
+          "word": "aun así",
+          "gloss": "even so"
+        },
+        {
+          "word": "a propósito",
+          "gloss": "on purpose"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-02",
+      "title": "La entrevista",
+      "subtitle": "The interview",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Lucía tenía la entrevista a las nueve en un edificio de la Castellana, en Madrid. Había preparado cada respuesta delante del espejo. A las ocho y media, en la salida del metro, un hombre con traje gris tropezó y una bolsa de naranjas rodó por la escalera. Todo el mundo pasaba deprisa a su lado. Lucía miró el reloj, suspiró y se agachó para ayudarlo.",
+        "Recogieron las naranjas entre los dos mientras charlaban. «¿Vas a una reunión importante?», preguntó él. «A una entrevista de trabajo, y voy a llegar tarde», contestó ella. «Pues si te preguntan por qué, diles la verdad», dijo el hombre con una sonrisa. Lucía llegó a las nueve y diez, sin aliento, convencida de que había perdido su oportunidad.",
+        "La recepcionista la llevó a una sala donde esperaban dos personas. Una era la directora de recursos humanos. El otro era el hombre de las naranjas, que ahora llevaba la corbata en su sitio. «Ya sé por qué llega tarde», dijo él. «Para este puesto buscamos a alguien que sepa trabajar en equipo, y creo que ya lo hemos comprobado.» Lucía se rio por fin. El lunes siguiente empezó a trabajar allí."
+      ],
+      "english": [
+        [
+          "Lucía had the interview at nine in a building on the Castellana, in Madrid.",
+          "She had prepared every answer in front of the mirror.",
+          "At half past eight, at the metro exit, a man in a grey suit tripped and a bag of oranges rolled down the stairs.",
+          "Everyone hurried past him.",
+          "Lucía looked at her watch, sighed and bent down to help him."
+        ],
+        [
+          "The two of them picked up the oranges together while they chatted.",
+          "\"Are you going to an important meeting?\" he asked.",
+          "\"To a job interview, and I'm going to be late,\" she replied.",
+          "\"Well, if they ask you why, tell them the truth,\" the man said with a smile.",
+          "Lucía arrived at ten past nine, out of breath, convinced she had lost her chance."
+        ],
+        [
+          "The receptionist took her to a room where two people were waiting.",
+          "One was the head of human resources.",
+          "The other was the man with the oranges, who now had his tie in place.",
+          "\"I already know why you're late,\" he said.",
+          "\"For this job we're looking for someone who can work in a team, and I think we've already checked that.\"",
+          "Lucía finally laughed.",
+          "The following Monday she started working there."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tropezó",
+          "gloss": "tripped"
+        },
+        {
+          "word": "rodó",
+          "gloss": "rolled"
+        },
+        {
+          "word": "deprisa",
+          "gloss": "quickly, in a hurry"
+        },
+        {
+          "word": "se agachó",
+          "gloss": "bent down"
+        },
+        {
+          "word": "recogieron",
+          "gloss": "picked up"
+        },
+        {
+          "word": "sin aliento",
+          "gloss": "out of breath"
+        },
+        {
+          "word": "convencida",
+          "gloss": "convinced"
+        },
+        {
+          "word": "recursos humanos",
+          "gloss": "human resources"
+        },
+        {
+          "word": "puesto",
+          "gloss": "job, position"
+        },
+        {
+          "word": "comprobado",
+          "gloss": "checked, confirmed"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-03",
+      "title": "Videollamada a Berlín",
+      "subtitle": "A video call to Berlin",
+      "topic": "Family",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Desde que su hija Carmen se fue a vivir a Berlín, Manolo esperaba sus llamadas los domingos al lado del teléfono fijo, en su piso de Triana. Pero Carmen siempre decía lo mismo: «Papá, tienes que aprender a hacer videollamadas. Quiero que veas a la niña.» Manolo tenía setenta y cuatro años y pensaba que los móviles eran cosa de jóvenes.",
+        "Un día, su vecina Inma, una estudiante de diecinueve años, lo encontró en la escalera mirando un móvil nuevo como si fuera una bomba. «¿Le ayudo, Manolo?», le preguntó. Durante tres semanas, cada tarde, ella subía a su casa con un café y le enseñaba algo: cómo encender la cámara, cómo contestar, cómo no taparse la cara con el dedo. A cambio, él le explicaba la historia de cada rincón del barrio.",
+        "El domingo siguiente, el móvil de Carmen sonó en Berlín. Era una videollamada de su padre. En la pantalla apareció Manolo, muy serio, con su mejor camisa y el río Guadalquivir detrás. «¿Me veis? ¿Me oís bien?», preguntó. Carmen no pudo contestar enseguida, porque estaba llorando. La niña, en cambio, se rio y tocó la pantalla con la mano."
+      ],
+      "english": [
+        [
+          "Ever since his daughter Carmen went to live in Berlin, Manolo waited for her calls on Sundays beside the landline, in his flat in Triana.",
+          "But Carmen always said the same thing: \"Dad, you have to learn to make video calls. I want you to see the baby.\"",
+          "Manolo was seventy-four and thought mobile phones were for young people."
+        ],
+        [
+          "One day, his neighbour Inma, a nineteen-year-old student, found him on the stairs looking at a new mobile as if it were a bomb.",
+          "\"Shall I help you, Manolo?\" she asked him.",
+          "For three weeks, every afternoon, she came up to his flat with a coffee and taught him something: how to turn on the camera, how to answer, how not to cover his face with his finger.",
+          "In return, he told her the history of every corner of the neighbourhood."
+        ],
+        [
+          "The following Sunday, Carmen's phone rang in Berlin.",
+          "It was a video call from her father.",
+          "Manolo appeared on the screen, very serious, in his best shirt and with the Guadalquivir river behind him.",
+          "\"Can you see me? Can you hear me all right?\" he asked.",
+          "Carmen couldn't answer straight away, because she was crying.",
+          "The baby, on the other hand, laughed and touched the screen with her hand."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "teléfono fijo",
+          "gloss": "landline"
+        },
+        {
+          "word": "videollamadas",
+          "gloss": "video calls"
+        },
+        {
+          "word": "como si fuera",
+          "gloss": "as if it were"
+        },
+        {
+          "word": "encender",
+          "gloss": "to turn on"
+        },
+        {
+          "word": "taparse",
+          "gloss": "to cover (one's own)"
+        },
+        {
+          "word": "a cambio",
+          "gloss": "in return"
+        },
+        {
+          "word": "rincón",
+          "gloss": "corner"
+        },
+        {
+          "word": "pantalla",
+          "gloss": "screen"
+        },
+        {
+          "word": "en cambio",
+          "gloss": "on the other hand"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-04",
+      "title": "El perro del faro",
+      "subtitle": "The lighthouse dog",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Cuando Xoán empezó a trabajar en el faro de Fisterra, en Galicia, le avisaron de que el trabajo era tranquilo y solitario. Lo que nadie le dijo fue lo del perro. Cada tarde, a la misma hora, un perro grande y gris subía el camino desde el pueblo, se sentaba junto a la puerta del faro y miraba el mar hasta que se encendía la luz. Después, bajaba otra vez.",
+        "Xoán preguntó en el bar del puerto. El camarero se secó las manos y le contó la historia. «Ese es Trasno. Era del antiguo farero, don Ramón. Todas las tardes subían juntos a encender la luz. Don Ramón murió el invierno pasado, pero el perro sigue subiendo.» Ahora vivía con la sobrina de Ramón, que lo dejaba salir porque nunca conseguía retenerlo en casa.",
+        "Al día siguiente, Xoán esperó a Trasno en la puerta con un trozo de pan y un cuenco de agua. El perro lo miró con desconfianza, pero bebió. Una semana más tarde, entró por primera vez en el faro y subió con él la escalera de caracol. Desde entonces suben juntos. La sobrina de Ramón dice que ya no vale la pena buscarlo por las tardes: todo el pueblo sabe dónde está."
+      ],
+      "english": [
+        [
+          "When Xoán started working at the Fisterra lighthouse, in Galicia, they warned him that the job was quiet and lonely.",
+          "What nobody told him about was the dog.",
+          "Every evening, at the same time, a big grey dog came up the path from the village, sat down by the lighthouse door and watched the sea until the light came on.",
+          "Then it went back down again."
+        ],
+        [
+          "Xoán asked at the bar by the harbour.",
+          "The waiter dried his hands and told him the story.",
+          "\"That's Trasno. He belonged to the old lighthouse keeper, Don Ramón. Every evening they went up together to switch on the light. Don Ramón died last winter, but the dog still goes up.\"",
+          "Now he lived with Ramón's niece, who let him out because she never managed to keep him at home."
+        ],
+        [
+          "The next day, Xoán waited for Trasno at the door with a piece of bread and a bowl of water.",
+          "The dog looked at him suspiciously, but it drank.",
+          "A week later, it came into the lighthouse for the first time and went up the spiral staircase with him.",
+          "Since then they have gone up together.",
+          "Ramón's niece says it's no longer worth looking for him in the evenings: the whole village knows where he is."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "faro",
+          "gloss": "lighthouse"
+        },
+        {
+          "word": "le avisaron",
+          "gloss": "they warned him"
+        },
+        {
+          "word": "solitario",
+          "gloss": "lonely, solitary"
+        },
+        {
+          "word": "farero",
+          "gloss": "lighthouse keeper"
+        },
+        {
+          "word": "sigue subiendo",
+          "gloss": "keeps going up"
+        },
+        {
+          "word": "conseguía",
+          "gloss": "managed"
+        },
+        {
+          "word": "cuenco",
+          "gloss": "bowl"
+        },
+        {
+          "word": "con desconfianza",
+          "gloss": "suspiciously"
+        },
+        {
+          "word": "escalera de caracol",
+          "gloss": "spiral staircase"
+        },
+        {
+          "word": "vale la pena",
+          "gloss": "it's worth it"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-05",
+      "title": "Cuatro estaciones en un día",
+      "subtitle": "Four seasons in one day",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Tom llegó a Bogotá un martes por la mañana con una maleta llena de camisetas y pantalones cortos. «Colombia, país tropical», pensó. En el hotel, la recepcionista miró su ropa y le dijo amablemente: «Le recomiendo que lleve una chaqueta y un paraguas. Aquí tenemos las cuatro estaciones en un solo día.» Tom sonrió y salió en camiseta. Hacía sol y el cielo estaba completamente azul.",
+        "A mediodía, en la Candelaria, empezó a soplar un viento frío que bajaba de los cerros. A las dos, una nube negra tapó el sol y cayó un aguacero tan fuerte que las calles se convirtieron en ríos. Tom se refugió en una cafetería, temblando. Una hora después, cayó granizo. Y a las cinco, como si nada, volvió a salir el sol.",
+        "El dueño de la cafetería, don Hernando, le sirvió un chocolate caliente con queso. «¿Queso dentro del chocolate?», preguntó Tom, sorprendido. «Pruébelo, mijo. Es lo que necesita un día así», contestó él. A Tom le pareció raro, pero delicioso. Esa noche se compró una chaqueta de lana. Ahora, cuando sus amigos le preguntan qué tiempo hace en Bogotá, siempre responde: «Depende de la hora.»"
+      ],
+      "english": [
+        [
+          "Tom arrived in Bogotá on a Tuesday morning with a suitcase full of T-shirts and shorts.",
+          "\"Colombia, a tropical country,\" he thought.",
+          "At the hotel, the receptionist looked at his clothes and told him kindly: \"I recommend you take a jacket and an umbrella. Here we have all four seasons in a single day.\"",
+          "Tom smiled and went out in a T-shirt.",
+          "It was sunny and the sky was completely blue."
+        ],
+        [
+          "At midday, in La Candelaria, a cold wind began to blow down from the hills.",
+          "At two, a black cloud covered the sun and such a heavy downpour fell that the streets turned into rivers.",
+          "Tom took shelter in a café, shivering.",
+          "An hour later, it hailed.",
+          "And at five, as if nothing had happened, the sun came out again."
+        ],
+        [
+          "The café owner, Don Hernando, served him a hot chocolate with cheese.",
+          "\"Cheese in the chocolate?\" Tom asked, surprised.",
+          "\"Try it, son. It's what you need on a day like this,\" he replied.",
+          "Tom thought it was strange, but delicious.",
+          "That night he bought himself a wool jacket.",
+          "Now, when his friends ask him what the weather is like in Bogotá, he always answers: \"It depends on the time of day.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "amablemente",
+          "gloss": "kindly"
+        },
+        {
+          "word": "soplar",
+          "gloss": "to blow"
+        },
+        {
+          "word": "cerros",
+          "gloss": "hills"
+        },
+        {
+          "word": "tapó",
+          "gloss": "covered"
+        },
+        {
+          "word": "aguacero",
+          "gloss": "downpour"
+        },
+        {
+          "word": "se refugió",
+          "gloss": "took shelter"
+        },
+        {
+          "word": "temblando",
+          "gloss": "shivering"
+        },
+        {
+          "word": "granizo",
+          "gloss": "hail"
+        },
+        {
+          "word": "como si nada",
+          "gloss": "as if nothing had happened"
+        },
+        {
+          "word": "lana",
+          "gloss": "wool"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-06",
+      "title": "El piano del quinto",
+      "subtitle": "The piano on the fifth floor",
+      "topic": "Neighbours",
+      "symbol": "music.note",
+      "paragraphs": [
+        "En el edificio de la calle Corrientes, en Buenos Aires, todos los vecinos se quejaban del piano del quinto. Cada noche, a las diez en punto, alguien tocaba la misma canción, siempre con los mismos errores. «Che, ¿vos sabés quién vive ahí?», le preguntó Martín a la portera. «Un señor mayor, el señor Funes. Casi no sale», contestó ella.",
+        "Martín decidió subir a hablar con él. Preparó un discurso educado pero firme. Cuando el señor Funes abrió la puerta, sin embargo, Martín olvidó todo lo que iba a decir. El hombre tenía más de ochenta años y unas manos que temblaban un poco. «Ya sé que toco mal», dijo antes de que Martín abriera la boca. «Mi nieta se casa en un mes y le prometí tocar el vals en la fiesta. Nunca aprendí de joven.»",
+        "Martín bajó y escribió un mensaje en el grupo de los vecinos. Al día siguiente, la vecina del tercero, que era profesora de música jubilada, subió con unas partituras. Durante un mes, los errores fueron desapareciendo. El día de la boda, varios vecinos fueron a la fiesta como invitados de honor. Cuando el señor Funes terminó el vals sin un solo error, los aplausos más fuertes fueron los del quinto, el cuarto y el tercero."
+      ],
+      "english": [
+        [
+          "In the building on Corrientes Street, in Buenos Aires, all the neighbours complained about the piano on the fifth floor.",
+          "Every night, at ten o'clock sharp, someone played the same song, always with the same mistakes.",
+          "\"Hey, do you know who lives there?\" Martín asked the concierge.",
+          "\"An old gentleman, Señor Funes. He hardly ever goes out,\" she replied."
+        ],
+        [
+          "Martín decided to go up and talk to him.",
+          "He prepared a polite but firm speech.",
+          "When Señor Funes opened the door, however, Martín forgot everything he had been going to say.",
+          "The man was over eighty and had hands that trembled slightly.",
+          "\"I know I play badly,\" he said before Martín could open his mouth.",
+          "\"My granddaughter is getting married in a month and I promised to play the waltz at the party. I never learned when I was young.\""
+        ],
+        [
+          "Martín went down and wrote a message in the neighbours' group.",
+          "The next day, the neighbour on the third floor, who was a retired music teacher, went up with some sheet music.",
+          "Over a month, the mistakes gradually disappeared.",
+          "On the wedding day, several neighbours went to the party as guests of honour.",
+          "When Señor Funes finished the waltz without a single mistake, the loudest applause came from the fifth, fourth and third floors."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "se quejaban",
+          "gloss": "complained"
+        },
+        {
+          "word": "en punto",
+          "gloss": "sharp, on the dot"
+        },
+        {
+          "word": "portera",
+          "gloss": "concierge, doorkeeper"
+        },
+        {
+          "word": "discurso",
+          "gloss": "speech"
+        },
+        {
+          "word": "firme",
+          "gloss": "firm"
+        },
+        {
+          "word": "temblaban",
+          "gloss": "trembled"
+        },
+        {
+          "word": "le prometí",
+          "gloss": "I promised her"
+        },
+        {
+          "word": "jubilada",
+          "gloss": "retired"
+        },
+        {
+          "word": "partituras",
+          "gloss": "sheet music"
+        },
+        {
+          "word": "fueron desapareciendo",
+          "gloss": "gradually disappeared"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-07",
+      "title": "El crítico de los tacos",
+      "subtitle": "The taco critic",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Doña Chela llevaba treinta años vendiendo tacos de canasta en una esquina de la colonia Roma, en la Ciudad de México. Su clientela era fiel: oficinistas, estudiantes, taxistas. Un jueves, su nieto Diego llegó corriendo con el móvil en la mano. «Abuela, dicen en internet que un crítico gastronómico famoso está visitando puestos de la calle sin decir quién es. ¡Puede venir aquí!»",
+        "Durante una semana, Diego sospechó de todo el mundo. Un señor con sombrero y cuaderno resultó ser un inspector de agua. Una mujer que hacía fotos de cada taco era solo una turista japonesa. Doña Chela, mientras tanto, seguía igual: los mismos tacos de frijol, chicharrón y papa, la misma salsa verde y el mismo «¿qué le sirvo, joven?» para todos.",
+        "Al final, el artículo salió en un periódico nacional. El crítico había comido en el puesto de doña Chela, pero ninguno de los dos lo había reconocido. «Lo mejor no fueron los tacos, aunque eran excelentes», escribió. «Lo mejor fue que me trataron igual que al taxista de al lado.» Al día siguiente, había cola en la esquina. Doña Chela no cambió nada, salvo una cosa: subió el precio de los refrescos."
+      ],
+      "english": [
+        [
+          "Doña Chela had been selling basket tacos on a corner in the Roma neighbourhood, in Mexico City, for thirty years.",
+          "Her customers were loyal: office workers, students, taxi drivers.",
+          "One Thursday, her grandson Diego came running with his phone in his hand.",
+          "\"Grandma, they're saying online that a famous food critic is visiting street stalls without saying who he is. He might come here!\""
+        ],
+        [
+          "For a week, Diego suspected everyone.",
+          "A man with a hat and a notebook turned out to be a water inspector.",
+          "A woman who took photos of every taco was just a Japanese tourist.",
+          "Doña Chela, meanwhile, carried on as usual: the same bean, pork crackling and potato tacos, the same green salsa and the same \"What can I get you, young man?\" for everyone."
+        ],
+        [
+          "In the end, the article came out in a national newspaper.",
+          "The critic had eaten at Doña Chela's stall, but neither of them had recognised him.",
+          "\"The best thing wasn't the tacos, although they were excellent,\" he wrote.",
+          "\"The best thing was that they treated me the same as the taxi driver next to me.\"",
+          "The next day, there was a queue on the corner.",
+          "Doña Chela didn't change anything, except for one thing: she put up the price of the soft drinks."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "clientela",
+          "gloss": "customers, clientele"
+        },
+        {
+          "word": "fiel",
+          "gloss": "loyal"
+        },
+        {
+          "word": "crítico gastronómico",
+          "gloss": "food critic"
+        },
+        {
+          "word": "puestos",
+          "gloss": "stalls"
+        },
+        {
+          "word": "sospechó",
+          "gloss": "suspected"
+        },
+        {
+          "word": "resultó ser",
+          "gloss": "turned out to be"
+        },
+        {
+          "word": "mientras tanto",
+          "gloss": "meanwhile"
+        },
+        {
+          "word": "reconocido",
+          "gloss": "recognised"
+        },
+        {
+          "word": "cola",
+          "gloss": "queue"
+        },
+        {
+          "word": "salvo",
+          "gloss": "except"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-08",
+      "title": "El guante del abuelo",
+      "subtitle": "Grandfather's glove",
+      "topic": "Sport",
+      "symbol": "figure.run",
+      "paragraphs": [
+        "En La Habana, Yandel tenía doce años y un sueño: jugar en el equipo de béisbol del barrio. El problema era que no tenía guante. Su abuelo Orestes, que había sido receptor en un equipo de Matanzas, buscó en un armario viejo y sacó un guante de cuero marrón, duro como una piedra. «Tiene cuarenta años», le dijo. «Pero si lo cuidas, te va a cuidar.»",
+        "Durante dos semanas, el abuelo le enseñó a ablandarlo con aceite y a dormir con una pelota dentro, atada con un cordón. Por las tardes practicaban en la calle, entre los carros antiguos y los niños que jugaban al dominó en la acera. Los otros chicos se reían del guante. «¡Ese es del tiempo de los dinosaurios!», le gritaban.",
+        "El día de la prueba, el entrenador puso a Yandel en el jardín central. En la última entrada, un bateador golpeó la pelota muy alto, hacia la pared. Yandel corrió, saltó y la atrapó con el guante viejo. Nadie se rio más. Esa noche, cuando llegó a casa con la gorra del equipo, el abuelo no dijo nada. Solo tomó el guante, lo olió y sonrió como si tuviera doce años otra vez."
+      ],
+      "english": [
+        [
+          "In Havana, Yandel was twelve and had a dream: to play on the neighbourhood baseball team.",
+          "The problem was that he didn't have a glove.",
+          "His grandfather Orestes, who had been a catcher on a team in Matanzas, searched in an old wardrobe and took out a brown leather glove, as hard as a stone.",
+          "\"It's forty years old,\" he told him.",
+          "\"But if you look after it, it'll look after you.\""
+        ],
+        [
+          "For two weeks, his grandfather taught him to soften it with oil and to sleep with a ball inside, tied with a lace.",
+          "In the afternoons they practised in the street, between the old cars and the children playing dominoes on the pavement.",
+          "The other boys laughed at the glove.",
+          "\"That one's from the time of the dinosaurs!\" they shouted at him."
+        ],
+        [
+          "On the day of the trial, the coach put Yandel in centre field.",
+          "In the last inning, a batter hit the ball very high, towards the wall.",
+          "Yandel ran, jumped and caught it with the old glove.",
+          "Nobody laughed any more.",
+          "That night, when he got home with the team cap, his grandfather didn't say anything.",
+          "He just took the glove, smelled it and smiled as if he were twelve again."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "receptor",
+          "gloss": "catcher"
+        },
+        {
+          "word": "cuero",
+          "gloss": "leather"
+        },
+        {
+          "word": "ablandarlo",
+          "gloss": "to soften it"
+        },
+        {
+          "word": "atada",
+          "gloss": "tied"
+        },
+        {
+          "word": "acera",
+          "gloss": "pavement"
+        },
+        {
+          "word": "prueba",
+          "gloss": "trial, try-out"
+        },
+        {
+          "word": "entrenador",
+          "gloss": "coach"
+        },
+        {
+          "word": "entrada",
+          "gloss": "inning"
+        },
+        {
+          "word": "atrapó",
+          "gloss": "caught"
+        },
+        {
+          "word": "lo olió",
+          "gloss": "smelled it"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-09",
+      "title": "A la tercera va la vencida",
+      "subtitle": "Third time lucky",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Nuria había suspendido el examen práctico de conducir dos veces en Valencia. La primera vez, se olvidó de mirar el retrovisor. La segunda, se puso tan nerviosa en una rotonda que dio tres vueltas completas antes de salir. Sus amigos le decían: «Tranquila, a la tercera va la vencida.» Pero ella ya no estaba tan segura.",
+        "Su profesor de autoescuela, Paco, tenía una idea. «El problema no es cómo conduces, es cómo respiras», le dijo. Durante la semana anterior al examen, practicaron sin hablar de normas. Paco le pedía que cantara mientras conducía, que contara los coches rojos, que describiera las nubes. «¿Para qué sirve esto?», protestaba Nuria. «Ya lo verás», respondía él.",
+        "El día del examen, el examinador era un hombre serio que no sonrió ni una vez. Al llegar a la famosa rotonda, Nuria sintió las manos frías. Entonces, sin darse cuenta, empezó a contar coches rojos en voz baja. Uno, dos, tres. Salió por la segunda salida, perfecta. Al final, el examinador escribió algo y dijo: «Apta.» Nuria salió del coche y llamó a Paco. «¡Había once coches rojos!», gritó."
+      ],
+      "english": [
+        [
+          "Nuria had failed the practical driving test twice in Valencia.",
+          "The first time, she forgot to look in the rear-view mirror.",
+          "The second, she got so nervous on a roundabout that she went round it three full times before coming off.",
+          "Her friends told her: \"Relax, third time lucky.\"",
+          "But she wasn't so sure any more."
+        ],
+        [
+          "Her driving instructor, Paco, had an idea.",
+          "\"The problem isn't how you drive, it's how you breathe,\" he told her.",
+          "During the week before the test, they practised without talking about rules.",
+          "Paco asked her to sing while she drove, to count the red cars, to describe the clouds.",
+          "\"What's the point of this?\" Nuria protested.",
+          "\"You'll see,\" he answered."
+        ],
+        [
+          "On the day of the test, the examiner was a serious man who didn't smile once.",
+          "When she reached the famous roundabout, Nuria felt her hands go cold.",
+          "Then, without realising it, she began counting red cars under her breath.",
+          "One, two, three.",
+          "She left by the second exit, perfectly.",
+          "At the end, the examiner wrote something and said: \"Pass.\"",
+          "Nuria got out of the car and called Paco.",
+          "\"There were eleven red cars!\" she shouted."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "había suspendido",
+          "gloss": "had failed"
+        },
+        {
+          "word": "retrovisor",
+          "gloss": "rear-view mirror"
+        },
+        {
+          "word": "rotonda",
+          "gloss": "roundabout"
+        },
+        {
+          "word": "a la tercera va la vencida",
+          "gloss": "third time lucky"
+        },
+        {
+          "word": "autoescuela",
+          "gloss": "driving school"
+        },
+        {
+          "word": "respiras",
+          "gloss": "you breathe"
+        },
+        {
+          "word": "normas",
+          "gloss": "rules"
+        },
+        {
+          "word": "sin darse cuenta",
+          "gloss": "without realising"
+        },
+        {
+          "word": "en voz baja",
+          "gloss": "under her breath, quietly"
+        },
+        {
+          "word": "apta",
+          "gloss": "pass (passed, fit)"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-10",
+      "title": "Los últimos cien kilómetros",
+      "subtitle": "The last hundred kilometres",
+      "topic": "Travel",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Ana empezó el Camino de Santiago en Sarria, a cien kilómetros de la catedral, porque era lo mínimo para conseguir la Compostela. No era religiosa ni muy deportista. Lo hacía por una apuesta con su hermano, que decía que ella no aguantaría ni dos días sin wifi. El primer día llovió sin parar y le salieron dos ampollas en el pie derecho.",
+        "En el albergue de Portomarín conoció a Helmut, un alemán de setenta años que caminaba desde Francia. Llevaba más de un mes en el camino. «¿Por qué lo haces?», le preguntó Ana. «Mi mujer y yo íbamos a hacerlo juntos cuando nos jubiláramos», contestó él. «Ella ya no está, así que camino por los dos.» Ana no supo qué decir. Le ofreció la mitad de su empanada.",
+        "Caminaron juntos los cuatro días siguientes, despacio, por bosques de eucaliptos y pueblos de piedra. Ana dejó de mirar el móvil. Cuando por fin llegaron a la plaza del Obradoiro, Helmut se quitó el sombrero y se quedó en silencio un buen rato. Esa noche, Ana llamó a su hermano. «Has ganado la apuesta», le dijo él, riéndose. «No», contestó ella. «Creo que he ganado algo mejor.»"
+      ],
+      "english": [
+        [
+          "Ana began the Camino de Santiago in Sarria, a hundred kilometres from the cathedral, because that was the minimum to get the Compostela.",
+          "She wasn't religious or very sporty.",
+          "She was doing it because of a bet with her brother, who said she wouldn't last even two days without wifi.",
+          "On the first day it rained non-stop and she got two blisters on her right foot."
+        ],
+        [
+          "At the hostel in Portomarín she met Helmut, a seventy-year-old German who had been walking since France.",
+          "He had been on the camino for more than a month.",
+          "\"Why are you doing it?\" Ana asked him.",
+          "\"My wife and I were going to do it together when we retired,\" he replied.",
+          "\"She's not here any more, so I'm walking for both of us.\"",
+          "Ana didn't know what to say.",
+          "She offered him half of her empanada."
+        ],
+        [
+          "They walked together for the next four days, slowly, through eucalyptus woods and stone villages.",
+          "Ana stopped looking at her phone.",
+          "When they finally reached the Plaza del Obradoiro, Helmut took off his hat and stood in silence for a good while.",
+          "That night, Ana called her brother.",
+          "\"You've won the bet,\" he said, laughing.",
+          "\"No,\" she replied.",
+          "\"I think I've won something better.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "lo mínimo",
+          "gloss": "the minimum"
+        },
+        {
+          "word": "apuesta",
+          "gloss": "bet"
+        },
+        {
+          "word": "aguantaría",
+          "gloss": "would last, would put up with it"
+        },
+        {
+          "word": "sin parar",
+          "gloss": "non-stop"
+        },
+        {
+          "word": "ampollas",
+          "gloss": "blisters"
+        },
+        {
+          "word": "albergue",
+          "gloss": "(pilgrims') hostel"
+        },
+        {
+          "word": "nos jubiláramos",
+          "gloss": "we retired"
+        },
+        {
+          "word": "la mitad",
+          "gloss": "half"
+        },
+        {
+          "word": "despacio",
+          "gloss": "slowly"
+        },
+        {
+          "word": "un buen rato",
+          "gloss": "a good while"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-11",
+      "title": "Mal de altura",
+      "subtitle": "Altitude sickness",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Gabriel había planeado el viaje durante meses. Volaría de Lima a Cusco por la mañana y por la tarde ya estaría visitando ruinas. Su prima Milagros, que vivía en Cusco, se lo había advertido por teléfono: «Primo, el primer día no hagas nada. Descansa, toma mate de coca y camina despacio. El soroche no es broma.» Gabriel se rio. Corría diez kilómetros todos los días en el malecón de Lima.",
+        "Al bajar del avión, se sentía perfectamente. Dejó la mochila en el hostal y subió corriendo las escaleras hacia el barrio de San Blas. A mitad de camino, el corazón le empezó a latir muy fuerte y le dolía la cabeza como si alguien le apretara la frente. Se sentó en un escalón, mareado, sin poder respirar bien.",
+        "Una vendedora de tejidos le dio agua y llamó a Milagros, cuyo número estaba en el móvil de Gabriel. Su prima llegó en un taxi veinte minutos después, con un termo de mate de coca y una expresión que lo decía todo. «¿Qué te dije?», preguntó. Gabriel pasó los dos días siguientes en la cama, avergonzado. Al tercer día, caminando muy despacio, llegó a Sacsayhuamán. Fue el último en llegar del grupo, pero llegó."
+      ],
+      "english": [
+        [
+          "Gabriel had planned the trip for months.",
+          "He would fly from Lima to Cusco in the morning and by the afternoon he would already be visiting ruins.",
+          "His cousin Milagros, who lived in Cusco, had warned him on the phone: \"Cousin, don't do anything on the first day. Rest, drink coca tea and walk slowly. Altitude sickness is no joke.\"",
+          "Gabriel laughed.",
+          "He ran ten kilometres every day along the seafront in Lima."
+        ],
+        [
+          "When he got off the plane, he felt perfectly fine.",
+          "He left his rucksack at the guesthouse and ran up the steps towards the San Blas neighbourhood.",
+          "Halfway up, his heart started pounding and his head hurt as if someone were squeezing his forehead.",
+          "He sat down on a step, dizzy, unable to breathe properly."
+        ],
+        [
+          "A woman selling woven textiles gave him water and called Milagros, whose number was in Gabriel's phone.",
+          "His cousin arrived in a taxi twenty minutes later, with a flask of coca tea and an expression that said it all.",
+          "\"What did I tell you?\" she asked.",
+          "Gabriel spent the next two days in bed, embarrassed.",
+          "On the third day, walking very slowly, he reached Sacsayhuamán.",
+          "He was the last of the group to arrive, but he got there."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "se lo había advertido",
+          "gloss": "had warned him"
+        },
+        {
+          "word": "soroche",
+          "gloss": "altitude sickness (Andes)"
+        },
+        {
+          "word": "no es broma",
+          "gloss": "is no joke"
+        },
+        {
+          "word": "mochila",
+          "gloss": "rucksack, backpack"
+        },
+        {
+          "word": "latir",
+          "gloss": "to beat"
+        },
+        {
+          "word": "le apretara",
+          "gloss": "were squeezing"
+        },
+        {
+          "word": "escalón",
+          "gloss": "step"
+        },
+        {
+          "word": "mareado",
+          "gloss": "dizzy"
+        },
+        {
+          "word": "tejidos",
+          "gloss": "woven textiles"
+        },
+        {
+          "word": "termo",
+          "gloss": "flask, thermos"
+        },
+        {
+          "word": "avergonzado",
+          "gloss": "embarrassed"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-12",
+      "title": "Un altar para Margaret",
+      "subtitle": "An altar for Margaret",
+      "topic": "Celebrations",
+      "symbol": "flame.fill",
+      "paragraphs": [
+        "Hannah llegó a Oaxaca en octubre para enseñar inglés. A finales de mes, su casera, doña Lupe, empezó a llenar el salón de flores de cempasúchil naranjas, velas y fotos. «Estamos preparando el altar para el Día de Muertos», explicó. «¿Tú no pones altar en tu país?» Hannah dijo que no. En Inglaterra, la muerte era un tema del que casi nadie hablaba.",
+        "Doña Lupe le contó que en el altar se ponía la comida y la bebida favoritas de los difuntos, para que su espíritu volviera a visitar a la familia por una noche. Entonces Hannah pensó en su abuela Margaret, que había muerto el año anterior y a quien no había podido despedir porque estaba lejos. «¿Puedo poner una foto de mi abuela?», preguntó. «Claro, mija. Aquí cabe todo el mundo», contestó doña Lupe.",
+        "Esa noche, entre el pan de muerto, el mole y el mezcal del abuelo de Lupe, Hannah colocó la foto de Margaret y, al lado, una taza de té con leche y unas galletas de jengibre, sus favoritas. Los vecinos llegaron, comieron, cantaron y contaron anécdotas de sus muertos. Hannah también contó una de su abuela. Por primera vez en un año, pudo hablar de ella sin llorar. Incluso se rio."
+      ],
+      "english": [
+        [
+          "Hannah arrived in Oaxaca in October to teach English.",
+          "At the end of the month, her landlady, Doña Lupe, began to fill the living room with orange marigolds, candles and photos.",
+          "\"We're preparing the altar for the Day of the Dead,\" she explained.",
+          "\"Don't you put up an altar in your country?\"",
+          "Hannah said no.",
+          "In England, death was a subject hardly anyone talked about."
+        ],
+        [
+          "Doña Lupe told her that on the altar you put the dead person's favourite food and drink, so that their spirit would come back to visit the family for one night.",
+          "Then Hannah thought of her grandmother Margaret, who had died the year before and whom she had not been able to say goodbye to because she was far away.",
+          "\"Can I put up a photo of my grandmother?\" she asked.",
+          "\"Of course, love. There's room for everyone here,\" Doña Lupe answered."
+        ],
+        [
+          "That night, among the bread of the dead, the mole and Lupe's grandfather's mezcal, Hannah placed the photo of Margaret and, beside it, a cup of tea with milk and some ginger biscuits, her favourites.",
+          "The neighbours arrived, ate, sang and told stories about their dead.",
+          "Hannah told one about her grandmother too.",
+          "For the first time in a year, she was able to talk about her without crying.",
+          "She even laughed."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "casera",
+          "gloss": "landlady"
+        },
+        {
+          "word": "cempasúchil",
+          "gloss": "Mexican marigold"
+        },
+        {
+          "word": "velas",
+          "gloss": "candles"
+        },
+        {
+          "word": "difuntos",
+          "gloss": "the dead, the deceased"
+        },
+        {
+          "word": "espíritu",
+          "gloss": "spirit"
+        },
+        {
+          "word": "despedir",
+          "gloss": "to say goodbye to"
+        },
+        {
+          "word": "cabe",
+          "gloss": "fits, there's room for"
+        },
+        {
+          "word": "colocó",
+          "gloss": "placed"
+        },
+        {
+          "word": "jengibre",
+          "gloss": "ginger"
+        },
+        {
+          "word": "anécdotas",
+          "gloss": "anecdotes, stories"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-13",
+      "title": "La bicicleta azul",
+      "subtitle": "The blue bicycle",
+      "topic": "Mystery",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Todas las mañanas, cuando Pablo salía de casa en Salamanca para ir a la facultad, veía la misma bicicleta azul atada a una farola de la plaza. Era antigua, con una cesta de mimbre delante. Y cada día, en la cesta, había algo diferente: una naranja, un libro de poesía, un ramo de lavanda. Por la tarde, cuando volvía, la bicicleta ya no estaba.",
+        "Pablo empezó a imaginar historias. ¿Era un mensaje secreto? ¿Una señal para alguien? Un día vio una nota en la cesta: «Para quien tenga curiosidad.» Debajo, la llave del candado. Pablo miró a su alrededor. La plaza estaba vacía. Pensó en dejarlo, pero no pudo. Abrió el candado y, en el asiento, encontró otra nota con una dirección: calle de la Rúa, número doce.",
+        "En el número doce había una librería pequeña que Pablo nunca había visto. Una mujer mayor lo esperaba en la puerta. «Llevo dos meses dejando la bicicleta», dijo. «Quería ver quién era lo bastante curioso para venir. Necesito a alguien que me ayude con la tienda los sábados.» Pablo se rio. Hoy trabaja allí los fines de semana y, cada mañana, es él quien deja algo en la cesta."
+      ],
+      "english": [
+        [
+          "Every morning, when Pablo left his house in Salamanca to go to the faculty, he saw the same blue bicycle tied to a lamppost in the square.",
+          "It was old, with a wicker basket at the front.",
+          "And every day, in the basket, there was something different: an orange, a book of poetry, a bunch of lavender.",
+          "In the afternoon, when he came back, the bicycle was gone."
+        ],
+        [
+          "Pablo began to imagine stories.",
+          "Was it a secret message?",
+          "A signal for someone?",
+          "One day he saw a note in the basket: \"For whoever is curious.\"",
+          "Underneath, the key to the lock.",
+          "Pablo looked around him.",
+          "The square was empty.",
+          "He thought about leaving it, but he couldn't.",
+          "He opened the lock and, on the seat, found another note with an address: Calle de la Rúa, number twelve."
+        ],
+        [
+          "At number twelve there was a small bookshop that Pablo had never seen.",
+          "An elderly woman was waiting for him at the door.",
+          "\"I've been leaving the bicycle for two months,\" she said.",
+          "\"I wanted to see who was curious enough to come. I need someone to help me with the shop on Saturdays.\"",
+          "Pablo laughed.",
+          "Today he works there at weekends and, every morning, he is the one who leaves something in the basket."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "facultad",
+          "gloss": "faculty, university"
+        },
+        {
+          "word": "farola",
+          "gloss": "lamppost"
+        },
+        {
+          "word": "cesta de mimbre",
+          "gloss": "wicker basket"
+        },
+        {
+          "word": "ramo",
+          "gloss": "bunch"
+        },
+        {
+          "word": "señal",
+          "gloss": "signal"
+        },
+        {
+          "word": "candado",
+          "gloss": "padlock"
+        },
+        {
+          "word": "a su alrededor",
+          "gloss": "around him"
+        },
+        {
+          "word": "asiento",
+          "gloss": "seat"
+        },
+        {
+          "word": "lo bastante",
+          "gloss": "enough"
+        },
+        {
+          "word": "librería",
+          "gloss": "bookshop"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-14",
+      "title": "La abuela y el altavoz",
+      "subtitle": "Grandma and the smart speaker",
+      "topic": "Technology",
+      "symbol": "cpu",
+      "paragraphs": [
+        "Para su cumpleaños, los nietos le regalaron a la abuela Elvira un altavoz inteligente. Lo instalaron en la cocina de su casa en Montevideo y le explicaron que podía pedirle cualquier cosa: música, el pronóstico del tiempo, recetas. «¿Y me va a entender?», preguntó ella, desconfiada. «Claro, abuela. Vos hablale normal», dijo Facundo, el mayor.",
+        "Pero el altavoz no entendía su forma de hablar. Cuando ella pedía tangos, ponía rock. Cuando preguntaba si iba a llover, le contaba la historia de la lluvia. Una tarde, harta, la abuela le dijo: «Mirá, querido, no sé quién te enseñó, pero sos un desastre.» El altavoz contestó: «Lo siento, no he entendido.» La abuela se rio tanto que casi se le cae el mate.",
+        "Desde entonces, el altavoz se convirtió en su compañía favorita. Ya no le pedía nada útil: le hablaba. Le contaba lo que había cocinado, le leía las noticias en voz alta y le discutía las respuestas. Cuando los nietos fueron a visitarla un mes después, se sorprendieron. «Abuela, ¿no te molesta que no te entienda?», preguntó Facundo. «Para nada», dijo ella. «Es como hablar con tu abuelo. Nunca me entendió y lo quise cincuenta años.»"
+      ],
+      "english": [
+        [
+          "For her birthday, her grandchildren gave Grandma Elvira a smart speaker.",
+          "They set it up in the kitchen of her house in Montevideo and explained that she could ask it for anything: music, the weather forecast, recipes.",
+          "\"And is it going to understand me?\" she asked, suspicious.",
+          "\"Of course, Grandma. You just talk to it normally,\" said Facundo, the eldest."
+        ],
+        [
+          "But the speaker didn't understand her way of speaking.",
+          "When she asked for tangos, it played rock.",
+          "When she asked if it was going to rain, it told her the history of rain.",
+          "One afternoon, fed up, Grandma said to it: \"Look, dear, I don't know who taught you, but you're a disaster.\"",
+          "The speaker replied: \"Sorry, I didn't understand.\"",
+          "Grandma laughed so much that she almost dropped her mate."
+        ],
+        [
+          "From then on, the speaker became her favourite company.",
+          "She no longer asked it for anything useful: she talked to it.",
+          "She told it what she had cooked, read it the news aloud and argued with its answers.",
+          "When her grandchildren went to visit her a month later, they were surprised.",
+          "\"Grandma, doesn't it bother you that it doesn't understand you?\" Facundo asked.",
+          "\"Not at all,\" she said.",
+          "\"It's like talking to your grandfather. He never understood me and I loved him for fifty years.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "altavoz inteligente",
+          "gloss": "smart speaker"
+        },
+        {
+          "word": "pronóstico del tiempo",
+          "gloss": "weather forecast"
+        },
+        {
+          "word": "desconfiada",
+          "gloss": "suspicious, wary"
+        },
+        {
+          "word": "hablale",
+          "gloss": "talk to it (voseo)"
+        },
+        {
+          "word": "harta",
+          "gloss": "fed up"
+        },
+        {
+          "word": "sos",
+          "gloss": "you are (voseo)"
+        },
+        {
+          "word": "se le cae",
+          "gloss": "(she) drops"
+        },
+        {
+          "word": "compañía",
+          "gloss": "company"
+        },
+        {
+          "word": "le discutía",
+          "gloss": "argued with"
+        },
+        {
+          "word": "para nada",
+          "gloss": "not at all"
+        }
+      ]
+    },
+    {
+      "id": "es-b1-15",
+      "title": "La cámara de Valparaíso",
+      "subtitle": "The camera from Valparaíso",
+      "topic": "Shopping",
+      "symbol": "camera.fill",
+      "paragraphs": [
+        "Ignacio paseaba por los cerros de Valparaíso un sábado por la mañana cuando entró en una tienda de antigüedades. Entre lámparas viejas y discos de vinilo, encontró una cámara de fotos de los años sesenta. El vendedor le pidió veinte mil pesos. Ignacio regateó un poco, pagó quince y salió feliz con su compra.",
+        "En casa, al abrirla, descubrió que todavía tenía un carrete dentro. Lo llevó a revelar a un laboratorio del centro, uno de los pocos que quedaban. Una semana después, recogió las fotos. Eran doce, en blanco y negro: una pareja joven en el muelle, una boda sencilla, un bebé en brazos de su madre, una casa amarilla en el cerro Alegre. En la última, la pareja ya era mayor y sonreía delante de la misma casa.",
+        "Ignacio subió al cerro Alegre con las fotos y buscó la casa amarilla. Todavía existía. Le abrió una mujer de unos cincuenta años. Cuando vio las fotos, se tapó la boca con la mano. «Ese bebé soy yo», dijo. «Mis padres murieron el año pasado y vendimos sus cosas sin mirar mucho.» Le ofreció dinero por las fotos, pero Ignacio no lo aceptó. Solo le pidió una cosa: que le dejara hacerle una foto delante de la casa, con la cámara de su padre."
+      ],
+      "english": [
+        [
+          "Ignacio was walking around the hills of Valparaíso one Saturday morning when he went into an antique shop.",
+          "Among old lamps and vinyl records, he found a camera from the sixties.",
+          "The seller asked him for twenty thousand pesos.",
+          "Ignacio haggled a bit, paid fifteen and left happy with his purchase."
+        ],
+        [
+          "At home, when he opened it, he discovered that it still had a roll of film inside.",
+          "He took it to be developed at a lab in the centre, one of the few that were left.",
+          "A week later, he picked up the photos.",
+          "There were twelve, in black and white: a young couple on the pier, a simple wedding, a baby in its mother's arms, a yellow house on Cerro Alegre.",
+          "In the last one, the couple was older and smiling in front of the same house."
+        ],
+        [
+          "Ignacio went up Cerro Alegre with the photos and looked for the yellow house.",
+          "It still existed.",
+          "A woman of about fifty opened the door.",
+          "When she saw the photos, she covered her mouth with her hand.",
+          "\"That baby is me,\" she said.",
+          "\"My parents died last year and we sold their things without looking very carefully.\"",
+          "She offered him money for the photos, but Ignacio didn't accept it.",
+          "He only asked her for one thing: to let him take a photo of her in front of the house, with her father's camera."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tienda de antigüedades",
+          "gloss": "antique shop"
+        },
+        {
+          "word": "discos de vinilo",
+          "gloss": "vinyl records"
+        },
+        {
+          "word": "regateó",
+          "gloss": "haggled"
+        },
+        {
+          "word": "compra",
+          "gloss": "purchase"
+        },
+        {
+          "word": "carrete",
+          "gloss": "roll of film"
+        },
+        {
+          "word": "revelar",
+          "gloss": "to develop (film)"
+        },
+        {
+          "word": "muelle",
+          "gloss": "pier"
+        },
+        {
+          "word": "sencilla",
+          "gloss": "simple"
+        },
+        {
+          "word": "en brazos",
+          "gloss": "in (someone's) arms"
+        },
+        {
+          "word": "se tapó",
+          "gloss": "covered"
+        }
+      ]
+    }
+  ]
+}

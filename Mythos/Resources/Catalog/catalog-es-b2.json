@@ -1,0 +1,1298 @@
+{
+  "language": "es",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "es-b2-01",
+      "title": "Carta a la alcaldesa",
+      "subtitle": "A letter to the mayor",
+      "topic": "Environment",
+      "symbol": "tree.fill",
+      "paragraphs": [
+        "Estimada señora alcaldesa: Le escribo en nombre de los vecinos de la plaza de la Trinidad, en Granada, porque hace dos semanas se colocó en el tronco de nuestra morera un cartel que anunciaba que el árbol sería talado «por motivos de seguridad». Nadie nos ha consultado, y nos parece injusto que una decisión así se tome sin escuchar a quienes vivimos aquí.",
+        "Comprendo que el Ayuntamiento tenga que proteger a los ciudadanos. Sin embargo, le pido que tenga en cuenta algunos datos. Esa morera fue plantada hace más de cien años. En verano, su sombra baja la temperatura de la plaza varios grados, y es el único lugar donde los mayores del barrio pueden sentarse por la tarde. Además, un ingeniero forestal que vive en el tercero la examinó la semana pasada y nos aseguró que, aunque necesita una poda, el tronco está sano.",
+        "No le escribo solo para quejarme. Los vecinos hemos reunido trescientas firmas y nos ofrecemos a pagar parte de la poda si fuera necesario. También proponemos que se haga un estudio independiente antes de que se tome una decisión definitiva. Si el estudio demuestra que el árbol es peligroso, lo aceptaremos, aunque nos duela.",
+        "Mi abuela me contaba que se declaró a mi abuelo debajo de esa morera, en 1958. No le pido que la salve por eso, sino porque una ciudad sin sombra es una ciudad que se olvida de su gente. Quedo a la espera de su respuesta. Atentamente, Pilar Morales Ortega."
+      ],
+      "english": [
+        [
+          "Dear Madam Mayor: I am writing to you on behalf of the residents of the Plaza de la Trinidad, in Granada, because two weeks ago a sign was put up on the trunk of our mulberry tree announcing that the tree would be cut down \"for safety reasons\".",
+          "Nobody has consulted us, and we think it unfair that such a decision should be taken without listening to those of us who live here."
+        ],
+        [
+          "I understand that the City Council has to protect its citizens.",
+          "However, I ask you to take some facts into account.",
+          "That mulberry was planted more than a hundred years ago.",
+          "In summer, its shade lowers the temperature of the square by several degrees, and it is the only place where the elderly people of the neighbourhood can sit in the afternoon.",
+          "Moreover, a forestry engineer who lives on the third floor examined it last week and assured us that, although it needs pruning, the trunk is healthy."
+        ],
+        [
+          "I am not writing just to complain.",
+          "We residents have collected three hundred signatures and we offer to pay for part of the pruning if it were necessary.",
+          "We also propose that an independent study be carried out before a final decision is made.",
+          "If the study shows that the tree is dangerous, we will accept it, even if it hurts."
+        ],
+        [
+          "My grandmother used to tell me that she proposed to my grandfather under that mulberry tree, in 1958.",
+          "I am not asking you to save it for that reason, but because a city without shade is a city that forgets its people.",
+          "I look forward to your reply.",
+          "Yours sincerely, Pilar Morales Ortega."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "en nombre de",
+          "gloss": "on behalf of"
+        },
+        {
+          "word": "tronco",
+          "gloss": "trunk"
+        },
+        {
+          "word": "morera",
+          "gloss": "mulberry tree"
+        },
+        {
+          "word": "talado",
+          "gloss": "cut down, felled"
+        },
+        {
+          "word": "Ayuntamiento",
+          "gloss": "City Council"
+        },
+        {
+          "word": "tenga en cuenta",
+          "gloss": "take into account"
+        },
+        {
+          "word": "poda",
+          "gloss": "pruning"
+        },
+        {
+          "word": "firmas",
+          "gloss": "signatures"
+        },
+        {
+          "word": "definitiva",
+          "gloss": "final"
+        },
+        {
+          "word": "aunque nos duela",
+          "gloss": "even if it hurts us"
+        },
+        {
+          "word": "se declaró",
+          "gloss": "declared her love, proposed"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-02",
+      "title": "El último sereno",
+      "subtitle": "The last night watchman",
+      "topic": "Work",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "Durante más de un siglo, los serenos vigilaron las calles de Madrid por la noche con un enorme manojo de llaves. Si un vecino volvía tarde sin llave, daba unas palmadas y gritaba «¡Sereno!», y el sereno acudía a abrirle el portal. La profesión desapareció en los años setenta, pero hace unos años algunos barrios recuperaron la figura. Hablamos con Julián Herrero, de sesenta y un años, que patrulla cada noche las calles de Chamberí.",
+        "¿Cómo llegó a ser sereno? «Por casualidad», cuenta. «Trabajé treinta años en una imprenta que cerró. Un día vi un anuncio de la asociación de comerciantes, que buscaba a alguien para vigilar la zona de noche, y pensé que mi abuelo, que había sido sereno, se habría reído mucho.» Hoy ya no lleva llaves de los portales, sino un móvil y una linterna, pero asegura que el trabajo no ha cambiado tanto.",
+        "Según Julián, la mayoría de las noches no pasa nada grave. Acompaña a casa a mujeres que salen tarde del trabajo, avisa a los dueños de bares cuando hay demasiado ruido y, a veces, encuentra a personas mayores desorientadas. «Lo importante no es que yo atrape a nadie», explica. «Es que la gente sepa que hay alguien despierto.»",
+        "Le preguntamos si alguna vez alguien le ha gritado «¡Sereno!» como antes. Se ríe. «Una vez. Era una señora de noventa años que me vio desde el balcón. Bajé, le di las buenas noches y me dijo que había esperado cincuenta años para volver a hacerlo.»"
+      ],
+      "english": [
+        [
+          "For more than a century, night watchmen patrolled the streets of Madrid at night with an enormous bunch of keys.",
+          "If a resident came home late without a key, they clapped their hands and shouted \"Watchman!\", and the watchman came to open the street door for them.",
+          "The profession disappeared in the seventies, but a few years ago some neighbourhoods brought the role back.",
+          "We spoke to Julián Herrero, sixty-one, who patrols the streets of Chamberí every night."
+        ],
+        [
+          "How did he come to be a watchman?",
+          "\"By chance,\" he says.",
+          "\"I worked for thirty years in a printing works that closed. One day I saw an ad from the shopkeepers' association, which was looking for someone to watch over the area at night, and I thought that my grandfather, who had been a watchman, would have laughed a lot.\"",
+          "Today he no longer carries keys to the street doors, but a mobile phone and a torch, but he insists that the job hasn't changed that much."
+        ],
+        [
+          "According to Julián, most nights nothing serious happens.",
+          "He walks women who leave work late back home, warns bar owners when there is too much noise and sometimes finds disoriented elderly people.",
+          "\"The important thing isn't that I catch anyone,\" he explains.",
+          "\"It's that people know someone is awake.\""
+        ],
+        [
+          "We ask him whether anyone has ever shouted \"Watchman!\" at him like in the old days.",
+          "He laughs.",
+          "\"Once. It was a ninety-year-old lady who saw me from her balcony. I went down, wished her good night and she told me she had waited fifty years to do it again.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "vigilaron",
+          "gloss": "watched over, patrolled"
+        },
+        {
+          "word": "manojo de llaves",
+          "gloss": "bunch of keys"
+        },
+        {
+          "word": "palmadas",
+          "gloss": "claps"
+        },
+        {
+          "word": "acudía",
+          "gloss": "came (when called)"
+        },
+        {
+          "word": "portal",
+          "gloss": "street door, entrance"
+        },
+        {
+          "word": "patrulla",
+          "gloss": "patrols"
+        },
+        {
+          "word": "imprenta",
+          "gloss": "printing works"
+        },
+        {
+          "word": "linterna",
+          "gloss": "torch, flashlight"
+        },
+        {
+          "word": "desorientadas",
+          "gloss": "disoriented"
+        },
+        {
+          "word": "atrape",
+          "gloss": "catch"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-03",
+      "title": "En defensa del «ahorita»",
+      "subtitle": "In defence of \"ahorita\"",
+      "topic": "Language",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Cada vez que un amigo extranjero viene a visitarme a México, tarde o temprano me hace la misma pregunta, con una mezcla de cariño y desesperación: «¿Cuánto tiempo es \"ahorita\"?» Y cada vez tengo que admitir la verdad: depende. Puede significar dentro de cinco segundos, dentro de cinco horas o, para ser honestos, nunca.",
+        "Los críticos dicen que esta palabra demuestra que los mexicanos no respetamos el tiempo. Yo creo que es injusto. Es cierto que, si le pides algo a un fontanero y te contesta que viene «ahorita», es mejor que no canceles tus planes del día. Pero también es cierto que «ahorita» es una palabra profundamente amable. Sirve para no decir «no» de forma brusca, para dar esperanza sin prometer nada, para suavizar un mundo que exige respuestas exactas.",
+        "Además, la entonación lo cambia todo. Un «¡ahorita!» corto y enérgico quiere decir que ya estás en camino. Un «ahoriiita» largo, con la vista en el suelo, significa que no deberías esperar sentado. Y un «ahorita, ahorita» repetido es casi una promesa solemne. Cualquier mexicano lo distingue sin pensarlo, como quien distingue las nubes que traen lluvia.",
+        "Por eso propongo que dejemos de pedir perdón por nuestro «ahorita». En lugar de traducirlo, deberíamos exportarlo. Imaginen un mundo en el que todos tuviéramos derecho a una palabra que no obliga a nada. Ahorita escribo la segunda parte de esta columna. Ustedes ya saben lo que eso significa."
+      ],
+      "english": [
+        [
+          "Every time a foreign friend comes to visit me in Mexico, sooner or later they ask me the same question, with a mixture of affection and despair: \"How long is 'ahorita'?\"",
+          "And every time I have to admit the truth: it depends.",
+          "It can mean in five seconds, in five hours or, to be honest, never."
+        ],
+        [
+          "Critics say that this word proves that we Mexicans don't respect time.",
+          "I think that is unfair.",
+          "It's true that, if you ask a plumber for something and he answers that he's coming \"ahorita\", you'd better not cancel your plans for the day.",
+          "But it's also true that \"ahorita\" is a deeply kind word.",
+          "It serves to avoid saying \"no\" abruptly, to give hope without promising anything, to soften a world that demands exact answers."
+        ],
+        [
+          "What's more, intonation changes everything.",
+          "A short, energetic \"ahorita!\" means you're already on your way.",
+          "A long \"ahoriiita\", with your eyes on the floor, means you shouldn't hold your breath.",
+          "And a repeated \"ahorita, ahorita\" is almost a solemn promise.",
+          "Any Mexican can tell them apart without thinking, like someone who can tell which clouds bring rain."
+        ],
+        [
+          "That's why I propose that we stop apologising for our \"ahorita\".",
+          "Instead of translating it, we should export it.",
+          "Imagine a world in which we all had the right to a word that commits you to nothing.",
+          "I'll write the second part of this column \"ahorita\".",
+          "You already know what that means."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tarde o temprano",
+          "gloss": "sooner or later"
+        },
+        {
+          "word": "desesperación",
+          "gloss": "despair"
+        },
+        {
+          "word": "fontanero",
+          "gloss": "plumber"
+        },
+        {
+          "word": "brusca",
+          "gloss": "abrupt, blunt"
+        },
+        {
+          "word": "suavizar",
+          "gloss": "to soften"
+        },
+        {
+          "word": "exige",
+          "gloss": "demands"
+        },
+        {
+          "word": "entonación",
+          "gloss": "intonation"
+        },
+        {
+          "word": "no deberías esperar sentado",
+          "gloss": "you shouldn't hold your breath"
+        },
+        {
+          "word": "solemne",
+          "gloss": "solemn"
+        },
+        {
+          "word": "lo distingue",
+          "gloss": "tells it apart"
+        },
+        {
+          "word": "no obliga a nada",
+          "gloss": "commits you to nothing"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-04",
+      "title": "La maleta de Vigo",
+      "subtitle": "The suitcase from Vigo",
+      "topic": "Memory",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Cuando murió su abuela, a Irene le tocó vaciar la casa de Vigo. En el desván, debajo de unas mantas, encontró una maleta de cartón atada con una cuerda. Dentro había decenas de cartas, todas con sellos argentinos y todas dirigidas a su abuela, Maruxa. Las firmaba un tal Anselmo, desde Buenos Aires, entre 1951 y 1953.",
+        "Irene no conocía ese nombre. Su abuelo se llamaba Manuel y nunca había salido de Galicia. Leyó las cartas esa misma noche. Anselmo contaba que trabajaba en el puerto, que ahorraba cada peso y que pronto tendría dinero para pagarle el pasaje a Maruxa. En la última carta, le pedía que le contestara, porque llevaba meses sin noticias suyas y temía que lo hubiera olvidado.",
+        "Al día siguiente, Irene llamó a su tía Carmen y le preguntó si sabía algo. Hubo un silencio largo. Después, su tía le contó que la abuela le había confesado la historia poco antes de morir. Sus padres no querían que emigrara, y su madre escondía las cartas antes de que ella las viera. Maruxa solo las encontró años después, cuando ya estaba casada con Manuel y tenía dos hijas. «Nunca se lo perdonó a su madre», dijo Carmen, «pero tampoco se arrepintió de su vida.»",
+        "Irene guardó las cartas en la maleta y la llevó a su piso. A veces piensa en aquel hombre esperando en un puerto lejano. Otras veces piensa que, si su bisabuela no hubiera escondido aquellas cartas, ella no existiría."
+      ],
+      "english": [
+        [
+          "When her grandmother died, it fell to Irene to empty the house in Vigo.",
+          "In the attic, under some blankets, she found a cardboard suitcase tied with a rope.",
+          "Inside were dozens of letters, all with Argentine stamps and all addressed to her grandmother, Maruxa.",
+          "They were signed by a certain Anselmo, from Buenos Aires, between 1951 and 1953."
+        ],
+        [
+          "Irene didn't know that name.",
+          "Her grandfather was called Manuel and had never left Galicia.",
+          "She read the letters that same night.",
+          "Anselmo wrote that he worked at the port, that he was saving every peso and that he would soon have the money to pay for Maruxa's passage.",
+          "In the last letter, he asked her to write back, because he had gone months without news from her and feared she had forgotten him."
+        ],
+        [
+          "The next day, Irene called her aunt Carmen and asked her if she knew anything.",
+          "There was a long silence.",
+          "Then her aunt told her that Grandma had confessed the story to her shortly before she died.",
+          "Her parents didn't want her to emigrate, and her mother hid the letters before she could see them.",
+          "Maruxa only found them years later, when she was already married to Manuel and had two daughters.",
+          "\"She never forgave her mother for it,\" said Carmen, \"but she didn't regret her life either.\""
+        ],
+        [
+          "Irene put the letters back in the suitcase and took it to her flat.",
+          "Sometimes she thinks about that man waiting in a distant port.",
+          "At other times she thinks that, if her great-grandmother hadn't hidden those letters, she wouldn't exist."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "le tocó",
+          "gloss": "it fell to her"
+        },
+        {
+          "word": "desván",
+          "gloss": "attic"
+        },
+        {
+          "word": "cartón",
+          "gloss": "cardboard"
+        },
+        {
+          "word": "un tal",
+          "gloss": "a certain"
+        },
+        {
+          "word": "ahorraba",
+          "gloss": "was saving"
+        },
+        {
+          "word": "pasaje",
+          "gloss": "passage, ticket"
+        },
+        {
+          "word": "temía",
+          "gloss": "feared"
+        },
+        {
+          "word": "escondía",
+          "gloss": "hid"
+        },
+        {
+          "word": "perdonó",
+          "gloss": "forgave"
+        },
+        {
+          "word": "se arrepintió",
+          "gloss": "regretted"
+        },
+        {
+          "word": "bisabuela",
+          "gloss": "great-grandmother"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-05",
+      "title": "El rostro bajo el mural",
+      "subtitle": "The face beneath the mural",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "A Ximena la contrataron para restaurar un mural de los años cuarenta en la escalera de una antigua escuela de Coyoacán, en la Ciudad de México. El mural representaba a campesinos trabajando la tierra y estaba muy dañado por la humedad. Su jefe le advirtió que el trabajo tenía que terminarse antes de que el edificio se convirtiera en biblioteca, en solo tres meses.",
+        "Una mañana, al limpiar una esquina, Ximena notó que debajo de la pintura había otra capa. Con mucho cuidado, retiró unos centímetros y apareció un ojo. Luego una ceja, una mejilla, una trenza negra. Era el rostro de una niña, pintado con una técnica distinta, mucho más delicada que la del resto del mural. Alguien lo había cubierto a propósito.",
+        "Ximena investigó en los archivos de la escuela. Descubrió que el mural había sido pintado por dos artistas: un pintor conocido y su ayudante, una joven llamada Rosario Lara, de la que no se sabía casi nada. Según una carta de la época, el pintor había exigido que se borrara la figura de la niña porque «no correspondía al tema». En la misma carta se decía que Rosario había abandonado el proyecto al día siguiente.",
+        "Ximena tuvo que decidir. Su jefe opinaba que debía restaurarse el mural tal como se conocía. Ella defendió que la niña también formaba parte de la obra. Al final, se llegó a un acuerdo: el rostro quedaría visible, protegido por un cristal, con una pequeña placa. Hoy, los lectores de la biblioteca suben la escalera y la niña los mira. La placa dice: «Rosario Lara, pintora»."
+      ],
+      "english": [
+        [
+          "Ximena was hired to restore a mural from the forties on the staircase of an old school in Coyoacán, in Mexico City.",
+          "The mural depicted peasants working the land and was badly damaged by damp.",
+          "Her boss warned her that the work had to be finished before the building was turned into a library, in only three months."
+        ],
+        [
+          "One morning, while cleaning a corner, Ximena noticed that under the paint there was another layer.",
+          "Very carefully, she removed a few centimetres and an eye appeared.",
+          "Then an eyebrow, a cheek, a black plait.",
+          "It was the face of a girl, painted with a different technique, much more delicate than that of the rest of the mural.",
+          "Someone had covered it on purpose."
+        ],
+        [
+          "Ximena researched in the school's archives.",
+          "She discovered that the mural had been painted by two artists: a well-known painter and his assistant, a young woman called Rosario Lara, about whom almost nothing was known.",
+          "According to a letter from the period, the painter had demanded that the figure of the girl be erased because \"it didn't fit the theme\".",
+          "The same letter said that Rosario had left the project the next day."
+        ],
+        [
+          "Ximena had to decide.",
+          "Her boss believed that the mural should be restored as it was known.",
+          "She argued that the girl was also part of the work.",
+          "In the end, an agreement was reached: the face would remain visible, protected by glass, with a small plaque.",
+          "Today, the library's readers climb the stairs and the girl looks at them.",
+          "The plaque says: \"Rosario Lara, painter\"."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "restaurar",
+          "gloss": "to restore"
+        },
+        {
+          "word": "campesinos",
+          "gloss": "peasants, farm workers"
+        },
+        {
+          "word": "humedad",
+          "gloss": "damp"
+        },
+        {
+          "word": "capa",
+          "gloss": "layer"
+        },
+        {
+          "word": "retiró",
+          "gloss": "removed"
+        },
+        {
+          "word": "ceja",
+          "gloss": "eyebrow"
+        },
+        {
+          "word": "trenza",
+          "gloss": "plait, braid"
+        },
+        {
+          "word": "ayudante",
+          "gloss": "assistant"
+        },
+        {
+          "word": "se borrara",
+          "gloss": "be erased"
+        },
+        {
+          "word": "se llegó a un acuerdo",
+          "gloss": "an agreement was reached"
+        },
+        {
+          "word": "placa",
+          "gloss": "plaque"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-06",
+      "title": "Las escaleras de la Comuna 13",
+      "subtitle": "The escalators of Comuna 13",
+      "topic": "City",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Hace veinte años, nadie habría imaginado que la Comuna 13 de Medellín se convertiría en un lugar turístico. Era uno de los barrios más peligrosos de Colombia, construido sobre una ladera tan empinada que subir a casa con las bolsas de la compra podía llevar media hora. Hoy, unas escaleras mecánicas al aire libre recorren la montaña, y las paredes están cubiertas de grafitis.",
+        "Brayan tiene veintitrés años y es guía. Nació en la Comuna y recuerda bien los años difíciles. «Cuando yo era pequeño, mi mamá no nos dejaba salir después de las seis», cuenta a un grupo de turistas alemanes. «Ahora vienen visitantes de todo el mundo y nosotros les contamos nuestra historia.» Los turistas hacen fotos, compran helado de mango biche y bailan con los chicos que hacen breakdance en las terrazas.",
+        "Sin embargo, Brayan no quiere que su barrio se convierta en un decorado. Le preocupa que los alquileres suban y que las familias de siempre tengan que irse. Por eso, al final de cada visita, lleva a los grupos a la casa de doña Gladys, una vecina que vende empanadas desde hace treinta años, y les pide que compren allí y no en los puestos nuevos. «Si el turismo no deja algo a la gente de aquí», dice, «es solo otra forma de pasar por encima de nosotros.»",
+        "Uno de los turistas le pregunta si es optimista. Brayan mira las escaleras, que siguen subiendo. «Aquí aprendimos a no responder a esa pregunta», contesta. «Preferimos responder con lo que hacemos.»"
+      ],
+      "english": [
+        [
+          "Twenty years ago, nobody would have imagined that Comuna 13 in Medellín would become a tourist spot.",
+          "It was one of the most dangerous neighbourhoods in Colombia, built on a hillside so steep that climbing home with your shopping bags could take half an hour.",
+          "Today, open-air escalators run up the mountain, and the walls are covered in graffiti."
+        ],
+        [
+          "Brayan is twenty-three and works as a guide.",
+          "He was born in the Comuna and remembers the hard years well.",
+          "\"When I was little, my mum didn't let us go out after six,\" he tells a group of German tourists.",
+          "\"Now visitors come from all over the world and we tell them our story.\"",
+          "The tourists take photos, buy green-mango ice cream and dance with the boys doing breakdance on the terraces."
+        ],
+        [
+          "However, Brayan doesn't want his neighbourhood to become a stage set.",
+          "He worries that rents will go up and that the families who have always lived there will have to leave.",
+          "That's why, at the end of every tour, he takes the groups to the house of Doña Gladys, a neighbour who has been selling empanadas for thirty years, and asks them to buy there and not at the new stalls.",
+          "\"If tourism doesn't leave something for the people here,\" he says, \"it's just another way of walking all over us.\""
+        ],
+        [
+          "One of the tourists asks him if he is optimistic.",
+          "Brayan looks at the escalators, which keep going up.",
+          "\"Here we learned not to answer that question,\" he replies.",
+          "\"We'd rather answer with what we do.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "ladera",
+          "gloss": "hillside, slope"
+        },
+        {
+          "word": "empinada",
+          "gloss": "steep"
+        },
+        {
+          "word": "escaleras mecánicas",
+          "gloss": "escalators"
+        },
+        {
+          "word": "al aire libre",
+          "gloss": "open-air"
+        },
+        {
+          "word": "recorren",
+          "gloss": "run along, cover"
+        },
+        {
+          "word": "mango biche",
+          "gloss": "unripe green mango"
+        },
+        {
+          "word": "decorado",
+          "gloss": "stage set"
+        },
+        {
+          "word": "alquileres",
+          "gloss": "rents"
+        },
+        {
+          "word": "de siempre",
+          "gloss": "long-standing, who have always been there"
+        },
+        {
+          "word": "pasar por encima de",
+          "gloss": "to walk all over"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-07",
+      "title": "La libreta de don Raúl",
+      "subtitle": "Don Raúl's notebook",
+      "topic": "Money",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "Don Raúl tiene un almacén en el barrio de Boedo, en Buenos Aires, desde 1985. Detrás del mostrador guarda una pila de libretas escolares, una por año, donde ha anotado a mano el precio del pan, la leche y la yerba cada lunes durante casi cuarenta años. Su hija le dice que es una manía. Él responde que es la única forma de saber en qué país vive.",
+        "Un día entró en el almacén una estudiante de economía, Florencia, a comprar galletitas. Vio las libretas y preguntó qué eran. Cuando don Raúl se lo explicó, ella abrió los ojos como platos. «¿Usted sabe lo que tiene acá? ¡Esto vale oro para mi tesis!», exclamó. Don Raúl se rio. «Lo único que vale oro en este país es el oro, nena, y a veces ni eso.»",
+        "Durante seis meses, Florencia fue todos los sábados a pasar las cifras a la computadora. Mientras tanto, don Raúl le contaba qué había pasado detrás de cada número: el año en que los clientes pagaban con bonos, la semana en que cambió los precios tres veces en un día, el invierno en que fiaba a medio barrio. Florencia empezó a anotar también esas historias, porque se dio cuenta de que explicaban lo que los gráficos no podían.",
+        "La tesis obtuvo la nota máxima. En la primera página, debajo del título, Florencia escribió una dedicatoria: «A don Raúl, que midió la inflación con un lápiz y la sobrevivió con humor.» Él la tiene enmarcada detrás del mostrador, al lado de la libreta de este año."
+      ],
+      "english": [
+        [
+          "Don Raúl has had a corner shop in the Boedo neighbourhood of Buenos Aires since 1985.",
+          "Behind the counter he keeps a pile of school exercise books, one per year, in which he has written down by hand the price of bread, milk and yerba mate every Monday for almost forty years.",
+          "His daughter tells him it's an obsession.",
+          "He replies that it's the only way to know what country he lives in."
+        ],
+        [
+          "One day an economics student, Florencia, came into the shop to buy biscuits.",
+          "She saw the notebooks and asked what they were.",
+          "When Don Raúl explained, her eyes opened wide.",
+          "\"Do you know what you have here? This is worth its weight in gold for my thesis!\" she exclaimed.",
+          "Don Raúl laughed.",
+          "\"The only thing worth its weight in gold in this country is gold, love, and sometimes not even that.\""
+        ],
+        [
+          "For six months, Florencia went every Saturday to type the figures into the computer.",
+          "Meanwhile, Don Raúl told her what had happened behind each number: the year when customers paid with bonds, the week when he changed his prices three times in one day, the winter when he gave credit to half the neighbourhood.",
+          "Florencia began writing down those stories too, because she realised that they explained what the graphs couldn't."
+        ],
+        [
+          "The thesis got the highest mark.",
+          "On the first page, under the title, Florencia wrote a dedication: \"To Don Raúl, who measured inflation with a pencil and survived it with humour.\"",
+          "He has it framed behind the counter, next to this year's notebook."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "almacén",
+          "gloss": "corner shop, grocery (Argentina)"
+        },
+        {
+          "word": "mostrador",
+          "gloss": "counter"
+        },
+        {
+          "word": "anotado",
+          "gloss": "written down"
+        },
+        {
+          "word": "manía",
+          "gloss": "obsession, quirk"
+        },
+        {
+          "word": "abrió los ojos como platos",
+          "gloss": "her eyes opened wide"
+        },
+        {
+          "word": "vale oro",
+          "gloss": "is worth its weight in gold"
+        },
+        {
+          "word": "cifras",
+          "gloss": "figures"
+        },
+        {
+          "word": "bonos",
+          "gloss": "bonds, vouchers"
+        },
+        {
+          "word": "fiaba",
+          "gloss": "gave credit"
+        },
+        {
+          "word": "dedicatoria",
+          "gloss": "dedication"
+        },
+        {
+          "word": "enmarcada",
+          "gloss": "framed"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-08",
+      "title": "Carta desde el desierto",
+      "subtitle": "A letter from the desert",
+      "topic": "Science",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Querida Martina: Te escribo desde el observatorio, en pleno desierto de Atacama. Ya sé que preferirías que te mandara un audio, pero aquí la conexión es muy mala, y además quiero que tengas esta carta cuando seas mayor. Hoy cumples diez años y es la primera vez que no estoy contigo en tu cumpleaños. Lo siento mucho, de verdad.",
+        "Me preguntaste por teléfono por qué los telescopios tienen que estar tan lejos de todo. Te lo explico. Aquí casi nunca llueve, el aire es muy seco y no hay luces de ciudades cerca, así que el cielo es tan oscuro que se pueden ver estrellas que en Santiago no existirían para nosotras. Por la noche, la Vía Láctea parece una nube de harina que alguien ha tirado sobre una mesa negra.",
+        "Esta semana estamos estudiando una estrella que está a punto de morir. Bueno, «a punto» para una estrella significa unos cuantos miles de años. Lo curioso es que su luz tarda tanto en llegar hasta aquí que, en realidad, la estamos viendo como era hace mucho tiempo. Puede que ya no exista. Mirar el cielo, Martina, es siempre mirar el pasado.",
+        "Antes de dormir, te pido que salgas al balcón y busques la Cruz del Sur. Yo la buscaré a la misma hora. Aunque no podamos vernos, la estaremos mirando juntas. Vuelvo el viernes con una piedra del desierto para ti. Te quiere, mamá."
+      ],
+      "english": [
+        [
+          "Dear Martina: I'm writing to you from the observatory, right in the middle of the Atacama Desert.",
+          "I know you'd rather I sent you a voice message, but the connection here is very bad, and besides, I want you to have this letter when you're older.",
+          "Today you turn ten and it's the first time I haven't been with you on your birthday.",
+          "I'm really sorry, I truly am."
+        ],
+        [
+          "You asked me on the phone why telescopes have to be so far from everything.",
+          "I'll explain.",
+          "Here it hardly ever rains, the air is very dry and there are no city lights nearby, so the sky is so dark that you can see stars that wouldn't exist for us in Santiago.",
+          "At night, the Milky Way looks like a cloud of flour that someone has thrown over a black table."
+        ],
+        [
+          "This week we're studying a star that is about to die.",
+          "Well, \"about to\" for a star means a few thousand years.",
+          "The curious thing is that its light takes so long to reach us that we are actually seeing it as it was a long time ago.",
+          "It may not exist any more.",
+          "Looking at the sky, Martina, is always looking at the past."
+        ],
+        [
+          "Before you go to sleep, I'd like you to go out onto the balcony and look for the Southern Cross.",
+          "I'll look for it at the same time.",
+          "Even though we can't see each other, we'll be looking at it together.",
+          "I'm back on Friday with a stone from the desert for you.",
+          "Love, Mum."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "en pleno",
+          "gloss": "right in the middle of"
+        },
+        {
+          "word": "preferirías",
+          "gloss": "you would prefer"
+        },
+        {
+          "word": "un audio",
+          "gloss": "a voice message"
+        },
+        {
+          "word": "seco",
+          "gloss": "dry"
+        },
+        {
+          "word": "Vía Láctea",
+          "gloss": "Milky Way"
+        },
+        {
+          "word": "harina",
+          "gloss": "flour"
+        },
+        {
+          "word": "a punto de",
+          "gloss": "about to"
+        },
+        {
+          "word": "unos cuantos",
+          "gloss": "a few"
+        },
+        {
+          "word": "tarda",
+          "gloss": "takes (time)"
+        },
+        {
+          "word": "puede que",
+          "gloss": "it may be that"
+        },
+        {
+          "word": "Cruz del Sur",
+          "gloss": "Southern Cross"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-09",
+      "title": "Bolero para una desconocida",
+      "subtitle": "A bolero for a stranger",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Cada miércoles a las nueve de la noche, una emisora de radio de La Habana dedicaba media hora a las canciones que pedían los oyentes. Una noche de marzo, el locutor leyó un mensaje extraño: «Para la muchacha del vestido verde que se bajó de la guagua en la parada del Vedado el lunes. Usted me devolvió el libro que se me cayó y no me dio tiempo a darle las gracias. Le dedico este bolero.»",
+        "Lo firmaba un tal Ernesto. Al día siguiente, medio barrio comentaba el mensaje. La semana siguiente, la emisora recibió una respuesta: «Para Ernesto, el del libro. No era un vestido verde, era azul, pero con esa luz cualquiera se equivoca. Si quiere darme las gracias, sepa que los lunes tomo la misma guagua.» No tenía firma.",
+        "El locutor, que ya se había enamorado de la historia, pidió a los oyentes que contaran qué pasaba. Durante semanas, la gente llamó para decir que había visto a un muchacho nervioso esperando en la parada del Vedado con un libro debajo del brazo. Algunos aseguraban que la muchacha no apareció. Otros decían que apareció, pero que él no se atrevió a hablarle.",
+        "Un año después, la emisora recibió una última petición: el mismo bolero, «para celebrar que mañana nos casamos». La firmaban Ernesto y Dulce. Al final del mensaje había una posdata: «El libro era de poemas. Todavía no lo hemos terminado.»"
+      ],
+      "english": [
+        [
+          "Every Wednesday at nine at night, a radio station in Havana devoted half an hour to songs requested by listeners.",
+          "One night in March, the presenter read out a strange message: \"For the girl in the green dress who got off the bus at the Vedado stop on Monday. You gave me back the book I dropped and I didn't have time to thank you. I dedicate this bolero to you.\""
+        ],
+        [
+          "It was signed by a certain Ernesto.",
+          "The next day, half the neighbourhood was talking about the message.",
+          "The following week, the station received a reply: \"For Ernesto, the one with the book. It wasn't a green dress, it was blue, but in that light anyone can make a mistake. If you want to thank me, you should know that on Mondays I take the same bus.\"",
+          "It wasn't signed."
+        ],
+        [
+          "The presenter, who had already fallen in love with the story, asked the listeners to tell him what happened.",
+          "For weeks, people called to say that they had seen a nervous young man waiting at the Vedado stop with a book under his arm.",
+          "Some claimed that the girl didn't turn up.",
+          "Others said that she turned up, but that he didn't dare speak to her."
+        ],
+        [
+          "A year later, the station received one last request: the same bolero, \"to celebrate that tomorrow we are getting married\".",
+          "It was signed by Ernesto and Dulce.",
+          "At the end of the message there was a postscript: \"The book was poetry. We still haven't finished it.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "emisora",
+          "gloss": "radio station"
+        },
+        {
+          "word": "oyentes",
+          "gloss": "listeners"
+        },
+        {
+          "word": "locutor",
+          "gloss": "presenter, announcer"
+        },
+        {
+          "word": "guagua",
+          "gloss": "bus (Cuba, Canaries)"
+        },
+        {
+          "word": "se me cayó",
+          "gloss": "I dropped"
+        },
+        {
+          "word": "sepa que",
+          "gloss": "you should know that"
+        },
+        {
+          "word": "se había enamorado",
+          "gloss": "had fallen in love"
+        },
+        {
+          "word": "aseguraban",
+          "gloss": "claimed"
+        },
+        {
+          "word": "no se atrevió",
+          "gloss": "didn't dare"
+        },
+        {
+          "word": "petición",
+          "gloss": "request"
+        },
+        {
+          "word": "posdata",
+          "gloss": "postscript"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-10",
+      "title": "El último quiosco",
+      "subtitle": "The last kiosk",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "En la calle Uría de Oviedo hubo una vez seis quioscos de prensa. Hoy solo queda el de Amparo, que lleva cuarenta y dos años abriendo a las seis y media de la mañana, llueva o haga sol. Vende cada vez menos periódicos: según sus cuentas, unos treinta al día, cuando en los noventa vendía más de cuatrocientos.",
+        "«La gente me pregunta por qué no cierro», dice mientras ordena las revistas. «Y yo les digo que el quiosco no es un negocio, es un servicio.» Amparo sabe quién compra cada periódico y lo que piensa cada cliente sobre la política, el fútbol y el tiempo. Guarda la prensa de los vecinos que están enfermos y se la lleva a casa por la tarde. Si un cliente fijo no aparece dos días, llama a su familia.",
+        "El año pasado, el Ayuntamiento anunció que los quioscos sin actividad suficiente serían retirados. Se dijo que el de Amparo sería el primero. Pero entonces ocurrió algo inesperado: un grupo de clientes, la mayoría jubilados, organizó una protesta delante del quiosco con pancartas hechas a mano. La noticia fue publicada en los mismos periódicos que Amparo vendía, y ese día se agotaron por primera vez en años.",
+        "El quiosco sigue abierto. Amparo ha añadido una pequeña estantería donde los vecinos dejan libros para intercambiar. «Quizás el papel desaparezca algún día», reconoce. «Pero mientras alguien quiera hablar del tiempo a las siete de la mañana, aquí estaré.»"
+      ],
+      "english": [
+        [
+          "Calle Uría in Oviedo once had six newspaper kiosks.",
+          "Today only Amparo's remains, and she has been opening at half past six in the morning for forty-two years, rain or shine.",
+          "She sells fewer and fewer newspapers: by her reckoning, about thirty a day, when in the nineties she sold more than four hundred."
+        ],
+        [
+          "\"People ask me why I don't close,\" she says as she tidies the magazines.",
+          "\"And I tell them that the kiosk isn't a business, it's a service.\"",
+          "Amparo knows who buys each newspaper and what each customer thinks about politics, football and the weather.",
+          "She keeps the papers for neighbours who are ill and takes them to their homes in the afternoon.",
+          "If a regular customer doesn't turn up for two days, she calls their family."
+        ],
+        [
+          "Last year, the City Council announced that kiosks without enough activity would be removed.",
+          "It was said that Amparo's would be the first.",
+          "But then something unexpected happened: a group of customers, most of them retired, organised a protest in front of the kiosk with handmade placards.",
+          "The news was published in the very newspapers Amparo sold, and that day they sold out for the first time in years."
+        ],
+        [
+          "The kiosk is still open.",
+          "Amparo has added a small shelf where neighbours leave books to swap.",
+          "\"Maybe paper will disappear one day,\" she admits.",
+          "\"But as long as someone wants to talk about the weather at seven in the morning, I'll be here.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "quioscos de prensa",
+          "gloss": "newspaper kiosks"
+        },
+        {
+          "word": "llueva o haga sol",
+          "gloss": "rain or shine"
+        },
+        {
+          "word": "según sus cuentas",
+          "gloss": "by her reckoning"
+        },
+        {
+          "word": "ordena",
+          "gloss": "tidies, arranges"
+        },
+        {
+          "word": "cliente fijo",
+          "gloss": "regular customer"
+        },
+        {
+          "word": "serían retirados",
+          "gloss": "would be removed"
+        },
+        {
+          "word": "inesperado",
+          "gloss": "unexpected"
+        },
+        {
+          "word": "pancartas",
+          "gloss": "placards, banners"
+        },
+        {
+          "word": "se agotaron",
+          "gloss": "sold out"
+        },
+        {
+          "word": "estantería",
+          "gloss": "shelf"
+        },
+        {
+          "word": "intercambiar",
+          "gloss": "to swap"
+        },
+        {
+          "word": "reconoce",
+          "gloss": "admits"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-11",
+      "title": "Compañera de piso",
+      "subtitle": "Flatmate",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Cuando Adrián llegó a Madrid para hacer un máster, descubrió que no podía pagar ni una habitación en un piso compartido. Un amigo le habló de un programa de la universidad que ponía en contacto a estudiantes con personas mayores que vivían solas. A cambio de compañía y ayuda en casa, el estudiante no pagaba alquiler. Así fue como conoció a Remedios, de ochenta y tres años, viuda y con un carácter muy fuerte.",
+        "Las primeras semanas fueron difíciles. Remedios exigía que Adrián estuviera en casa a las once, que no dejara los platos en el fregadero y que comiera lentejas los lunes, aunque no le gustaran. Él le pedía que no entrara en su habitación sin llamar y que bajara el volumen de la tele por las noches. Más de una vez, Adrián pensó en dejarlo.",
+        "Todo cambió una noche de enero en que Remedios se cayó en el pasillo. Adrián la oyó, llamó a una ambulancia y pasó la noche con ella en urgencias. Mientras esperaban, ella le contó que había sido maestra durante cuarenta años y que todavía soñaba con sus alumnos. Él le confesó que tenía miedo de no terminar el máster. Al amanecer, ya no eran dos desconocidos que compartían un piso.",
+        "Adrián terminó el máster con matrícula de honor; Remedios le corrigió todas las faltas de ortografía. Ahora trabaja en Valencia, pero cada domingo la llama por videollamada. Ella sigue diciéndole que coma lentejas. Él, por fin, ha empezado a hacerle caso."
+      ],
+      "english": [
+        [
+          "When Adrián arrived in Madrid to do a master's, he discovered that he couldn't even afford a room in a shared flat.",
+          "A friend told him about a university programme that put students in touch with elderly people who lived alone.",
+          "In exchange for company and help around the house, the student paid no rent.",
+          "That was how he met Remedios, eighty-three, a widow with a very strong personality."
+        ],
+        [
+          "The first few weeks were difficult.",
+          "Remedios insisted that Adrián be home by eleven, that he not leave the dishes in the sink and that he eat lentils on Mondays, even though he didn't like them.",
+          "He asked her not to come into his room without knocking and to turn down the TV volume at night.",
+          "More than once, Adrián thought about giving up."
+        ],
+        [
+          "Everything changed one night in January when Remedios fell in the hallway.",
+          "Adrián heard her, called an ambulance and spent the night with her in A&E.",
+          "While they waited, she told him she had been a schoolteacher for forty years and still dreamed about her pupils.",
+          "He confessed to her that he was afraid of not finishing his master's.",
+          "By dawn, they were no longer two strangers sharing a flat."
+        ],
+        [
+          "Adrián finished his master's with distinction; Remedios corrected all his spelling mistakes.",
+          "Now he works in Valencia, but every Sunday he video-calls her.",
+          "She still tells him to eat lentils.",
+          "He has finally started to listen to her."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "piso compartido",
+          "gloss": "shared flat"
+        },
+        {
+          "word": "ponía en contacto",
+          "gloss": "put in touch"
+        },
+        {
+          "word": "viuda",
+          "gloss": "widow"
+        },
+        {
+          "word": "carácter",
+          "gloss": "personality, temper"
+        },
+        {
+          "word": "fregadero",
+          "gloss": "sink"
+        },
+        {
+          "word": "dejarlo",
+          "gloss": "to give it up"
+        },
+        {
+          "word": "pasillo",
+          "gloss": "hallway, corridor"
+        },
+        {
+          "word": "urgencias",
+          "gloss": "A&E, emergency room"
+        },
+        {
+          "word": "al amanecer",
+          "gloss": "at dawn"
+        },
+        {
+          "word": "matrícula de honor",
+          "gloss": "distinction, highest honours"
+        },
+        {
+          "word": "faltas de ortografía",
+          "gloss": "spelling mistakes"
+        },
+        {
+          "word": "hacerle caso",
+          "gloss": "to listen to her, pay attention to her"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-12",
+      "title": "Diario de Puerto Pirámides",
+      "subtitle": "The Puerto Pirámides diary",
+      "topic": "Nature",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "3 de septiembre. Llegué ayer a Puerto Pirámides, en la península Valdés, para hacer las prácticas de biología marina. El pueblo tiene apenas quinientos habitantes y, en esta época, el mismo número de ballenas francas en la bahía. Mi tutora, la doctora Ibáñez, me dijo que mi trabajo sería fotografiar las aletas y las callosidades de la cabeza, que son como huellas dactilares. No me imaginaba que sería tan emocionante.",
+        "10 de septiembre. Hoy hemos identificado a una hembra que fue fotografiada por primera vez en 1987. Si se confirma, tendría más de cuarenta años. Viene con una cría nueva, que no se separa de ella ni un segundo. La doctora Ibáñez dice que, gracias a los registros, se sabe que esta ballena ha tenido al menos ocho crías, y que todas nacieron en esta misma bahía.",
+        "18 de septiembre. Hoy la cría se acercó a la lancha. Estaba tan cerca que pude oír su respiración, un sonido profundo, como el de un fuelle enorme. La madre la vigilaba a pocos metros, tranquila. Me pidieron que no hiciera fotos y que me quedara quieta. Nunca había sentido algo así: que un animal tan grande decidiera, simplemente, confiar en nosotros.",
+        "30 de septiembre. Último día. En el informe he escrito todos los datos que me pidieron. Lo que no he escrito es que, cuando la cría se alejó, la doctora Ibáñez, que lleva treinta años haciendo esto, también estaba llorando."
+      ],
+      "english": [
+        [
+          "3 September.",
+          "I arrived yesterday in Puerto Pirámides, on the Valdés Peninsula, to do my marine biology placement.",
+          "The village has barely five hundred inhabitants and, at this time of year, the same number of southern right whales in the bay.",
+          "My supervisor, Doctor Ibáñez, told me that my job would be to photograph the fins and the callosities on their heads, which are like fingerprints.",
+          "I had no idea it would be so exciting."
+        ],
+        [
+          "10 September.",
+          "Today we identified a female who was first photographed in 1987.",
+          "If it is confirmed, she would be more than forty years old.",
+          "She has come with a new calf, which doesn't leave her side for a second.",
+          "Doctor Ibáñez says that, thanks to the records, it is known that this whale has had at least eight calves, and that they were all born in this same bay."
+        ],
+        [
+          "18 September.",
+          "Today the calf came up to the boat.",
+          "It was so close that I could hear its breathing, a deep sound, like that of an enormous bellows.",
+          "The mother watched over it a few metres away, calm.",
+          "They asked me not to take photos and to stay still.",
+          "I had never felt anything like it: that such a huge animal should simply decide to trust us."
+        ],
+        [
+          "30 September.",
+          "Last day.",
+          "In the report I have written all the data they asked me for.",
+          "What I haven't written is that, when the calf swam away, Doctor Ibáñez, who has been doing this for thirty years, was crying too."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "prácticas",
+          "gloss": "placement, internship"
+        },
+        {
+          "word": "apenas",
+          "gloss": "barely"
+        },
+        {
+          "word": "ballenas francas",
+          "gloss": "southern right whales"
+        },
+        {
+          "word": "aletas",
+          "gloss": "fins"
+        },
+        {
+          "word": "huellas dactilares",
+          "gloss": "fingerprints"
+        },
+        {
+          "word": "hembra",
+          "gloss": "female"
+        },
+        {
+          "word": "cría",
+          "gloss": "calf, young"
+        },
+        {
+          "word": "registros",
+          "gloss": "records"
+        },
+        {
+          "word": "lancha",
+          "gloss": "(small) boat"
+        },
+        {
+          "word": "fuelle",
+          "gloss": "bellows"
+        },
+        {
+          "word": "quieta",
+          "gloss": "still"
+        },
+        {
+          "word": "se alejó",
+          "gloss": "moved away"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-13",
+      "title": "Elogio de la siesta",
+      "subtitle": "In praise of the siesta",
+      "topic": "Health",
+      "symbol": "sun.max.fill",
+      "paragraphs": [
+        "Pocas costumbres españolas han sido tan malinterpretadas como la siesta. En el extranjero se piensa que los españoles nos pasamos la tarde durmiendo mientras el resto del mundo trabaja. La realidad es muy distinta: según varias encuestas, la mayoría de los españoles no duerme la siesta nunca, y muchos lo lamentamos profundamente.",
+        "Yo defiendo la siesta no por tradición, sino por salud. Diversos estudios han demostrado que una siesta corta, de veinte minutos como máximo, mejora la memoria, la concentración y el estado de ánimo. Algunas empresas tecnológicas, que nadie acusaría de perezosas, ya han instalado salas de descanso para sus empleados. Resulta irónico que el mundo descubra ahora lo que nuestros abuelos sabían sin necesidad de estudios.",
+        "El problema es que nuestros horarios no lo permiten. Con jornadas partidas que terminan a las ocho y trayectos de una hora en transporte público, ¿quién tiene tiempo para tumbarse después de comer? Habría que preguntarse si el enemigo es la siesta o un modelo de trabajo que nos obliga a estar presentes muchas horas, aunque no seamos productivos.",
+        "No pido que se cierren las oficinas a las tres. Pido algo más modesto: que dejemos de avergonzarnos de descansar. Que un empleado que cierra los ojos quince minutos no sea visto como un vago, sino como alguien que se cuida. Y, mientras tanto, si me disculpan, son las cuatro menos cuarto. Hasta luego."
+      ],
+      "english": [
+        [
+          "Few Spanish customs have been as misunderstood as the siesta.",
+          "Abroad, people think that we Spaniards spend the afternoon sleeping while the rest of the world works.",
+          "The reality is very different: according to several surveys, most Spaniards never have a siesta, and many of us deeply regret it."
+        ],
+        [
+          "I defend the siesta not out of tradition, but for health reasons.",
+          "Various studies have shown that a short siesta, of twenty minutes at most, improves memory, concentration and mood.",
+          "Some tech companies, which nobody would accuse of being lazy, have already installed rest rooms for their employees.",
+          "It is ironic that the world should discover now what our grandparents knew without any need for studies."
+        ],
+        [
+          "The problem is that our working hours don't allow it.",
+          "With split shifts that end at eight and hour-long journeys on public transport, who has time to lie down after lunch?",
+          "We should ask ourselves whether the enemy is the siesta or a work model that forces us to be present for many hours, even if we are not productive."
+        ],
+        [
+          "I'm not asking for offices to close at three.",
+          "I'm asking for something more modest: that we stop being ashamed of resting.",
+          "That an employee who closes their eyes for fifteen minutes should not be seen as a slacker, but as someone who looks after themselves.",
+          "And, in the meantime, if you'll excuse me, it's a quarter to four.",
+          "See you later."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "costumbres",
+          "gloss": "customs"
+        },
+        {
+          "word": "malinterpretadas",
+          "gloss": "misunderstood"
+        },
+        {
+          "word": "encuestas",
+          "gloss": "surveys"
+        },
+        {
+          "word": "lo lamentamos",
+          "gloss": "we regret it"
+        },
+        {
+          "word": "estado de ánimo",
+          "gloss": "mood"
+        },
+        {
+          "word": "perezosas",
+          "gloss": "lazy"
+        },
+        {
+          "word": "jornadas partidas",
+          "gloss": "split shifts"
+        },
+        {
+          "word": "trayectos",
+          "gloss": "journeys, commutes"
+        },
+        {
+          "word": "tumbarse",
+          "gloss": "to lie down"
+        },
+        {
+          "word": "avergonzarnos",
+          "gloss": "to be ashamed"
+        },
+        {
+          "word": "vago",
+          "gloss": "slacker, lazy person"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-14",
+      "title": "El secreto del ceviche",
+      "subtitle": "The secret of the ceviche",
+      "topic": "Cooking",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "El concurso de ceviche del barrio de Chorrillos, en Lima, se celebraba cada junio, y desde hacía nueve años lo ganaba la misma persona: don Teodoro, un pescador jubilado de manos enormes y pocas palabras. Su sobrina Kiara, que estudiaba cocina, estaba decidida a descubrir su secreto. Le preguntó cien veces qué ponía en su leche de tigre, y cien veces él le respondió que solo limón, ají, sal y cebolla.",
+        "Kiara no le creía. Probó todas las combinaciones posibles en la escuela: jengibre, apio, un poco de leche de coco. Sus profesores le decían que su ceviche era excelente, pero cuando lo comparaba con el de su tío, sentía que le faltaba algo. Un día decidió seguirlo desde muy temprano para ver qué hacía.",
+        "A las cinco de la mañana, don Teodoro bajó al muelle de pescadores. Esperó a que llegaran las barcas, habló con cada pescador y eligió el pescado mirándole los ojos, uno por uno. Luego volvió a casa, cortó el pescado, lo mezcló con los demás ingredientes y lo sirvió en menos de diez minutos. Kiara estaba confundida. Le dijo que había visto todo y que no había ningún secreto.",
+        "Don Teodoro se rio por primera vez en mucho tiempo. Le explicó que el secreto no estaba en la receta, sino en el reloj: el pescado tenía que haber estado en el mar esa misma mañana, y el ceviche tenía que comerse en cuanto estaba hecho. Ese junio, Kiara se levantó a las cuatro. Quedó segunda. Su tío dijo que el año siguiente se retiraría."
+      ],
+      "english": [
+        [
+          "The ceviche competition in the Chorrillos neighbourhood of Lima was held every June, and for nine years it had been won by the same person: Don Teodoro, a retired fisherman with enormous hands and few words.",
+          "His niece Kiara, who was studying cookery, was determined to discover his secret.",
+          "She asked him a hundred times what he put in his tiger's milk, and a hundred times he answered that it was only lime, chilli, salt and onion."
+        ],
+        [
+          "Kiara didn't believe him.",
+          "She tried every possible combination at school: ginger, celery, a little coconut milk.",
+          "Her teachers told her that her ceviche was excellent, but when she compared it with her uncle's, she felt that something was missing.",
+          "One day she decided to follow him from very early in the morning to see what he did."
+        ],
+        [
+          "At five in the morning, Don Teodoro went down to the fishermen's wharf.",
+          "He waited for the boats to come in, talked to each fisherman and chose the fish by looking it in the eyes, one by one.",
+          "Then he went back home, cut the fish, mixed it with the other ingredients and served it in less than ten minutes.",
+          "Kiara was confused.",
+          "She told him that she had seen everything and that there was no secret."
+        ],
+        [
+          "Don Teodoro laughed for the first time in a long while.",
+          "He explained to her that the secret wasn't in the recipe, but in the clock: the fish had to have been in the sea that very morning, and the ceviche had to be eaten as soon as it was made.",
+          "That June, Kiara got up at four.",
+          "She came second.",
+          "Her uncle said that the following year he would retire."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "concurso",
+          "gloss": "competition, contest"
+        },
+        {
+          "word": "pescador",
+          "gloss": "fisherman"
+        },
+        {
+          "word": "decidida",
+          "gloss": "determined"
+        },
+        {
+          "word": "leche de tigre",
+          "gloss": "tiger's milk (ceviche marinade)"
+        },
+        {
+          "word": "ají",
+          "gloss": "chilli pepper"
+        },
+        {
+          "word": "apio",
+          "gloss": "celery"
+        },
+        {
+          "word": "le faltaba algo",
+          "gloss": "something was missing"
+        },
+        {
+          "word": "barcas",
+          "gloss": "boats"
+        },
+        {
+          "word": "eligió",
+          "gloss": "chose"
+        },
+        {
+          "word": "en cuanto",
+          "gloss": "as soon as"
+        },
+        {
+          "word": "se retiraría",
+          "gloss": "would retire"
+        }
+      ]
+    },
+    {
+      "id": "es-b2-15",
+      "title": "Una moneda en Mérida",
+      "subtitle": "A coin in Mérida",
+      "topic": "History",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Mérida, en Extremadura, es una de las ciudades con más restos romanos de España, y en ella es casi imposible hacer una obra sin encontrar algo. Lo sabe bien Teresa Galán, arqueóloga municipal desde hace veinticinco años. Hablamos con ella sobre su trabajo y sobre el hallazgo más curioso de su carrera.",
+        "Teresa explica que, cada vez que alguien quiere reformar un sótano o construir un aparcamiento, un equipo de arqueólogos tiene que revisar el terreno antes. «Muchos vecinos lo viven como un castigo, porque las obras se retrasan meses», reconoce. «Pero la ciudad que se ve es solo la mitad de Mérida. La otra mitad está debajo.» Según ella, en los últimos años se han descubierto casas, calles y hasta un pequeño templo bajo edificios modernos.",
+        "¿Y el hallazgo más curioso? Teresa sonríe. Hace unos años, un niño de ocho años llamado Hugo llegó a su oficina con su madre y una moneda en la mano. La había encontrado en el patio del colegio, después de una tormenta. Era un denario de plata del emperador Trajano, que, por cierto, nació muy cerca de aquí. «Le dije que era un tesoro, pero que tenía que dárnoslo, y se puso a llorar», recuerda.",
+        "Al final, se llegó a una solución: la moneda está expuesta en el museo con una etiqueta que dice «Hallada por Hugo, 8 años». Hugo tiene ahora dieciséis y ha decidido que estudiará Historia. «Ese es el verdadero hallazgo», dice Teresa. «La moneda llevaba dos mil años esperando. Hugo es quien la va a seguir contando.»"
+      ],
+      "english": [
+        [
+          "Mérida, in Extremadura, is one of the cities with the most Roman remains in Spain, and it is almost impossible to carry out building work there without finding something.",
+          "Teresa Galán, the city archaeologist for twenty-five years, knows this well.",
+          "We spoke to her about her work and about the most curious find of her career."
+        ],
+        [
+          "Teresa explains that, every time someone wants to renovate a basement or build a car park, a team of archaeologists has to examine the ground first.",
+          "\"A lot of residents experience it as a punishment, because the building work is delayed for months,\" she admits.",
+          "\"But the city you can see is only half of Mérida. The other half is underneath.\"",
+          "According to her, in recent years houses, streets and even a small temple have been discovered beneath modern buildings."
+        ],
+        [
+          "And the most curious find?",
+          "Teresa smiles.",
+          "A few years ago, an eight-year-old boy called Hugo came to her office with his mother and a coin in his hand.",
+          "He had found it in the school playground, after a storm.",
+          "It was a silver denarius of the emperor Trajan, who, incidentally, was born very near here.",
+          "\"I told him that it was a treasure, but that he had to give it to us, and he started crying,\" she recalls."
+        ],
+        [
+          "In the end, a solution was found: the coin is on display in the museum with a label that says \"Found by Hugo, aged 8\".",
+          "Hugo is now sixteen and has decided that he will study History.",
+          "\"That's the real find,\" says Teresa.",
+          "\"The coin had been waiting for two thousand years. Hugo is the one who is going to carry on telling its story.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "restos",
+          "gloss": "remains"
+        },
+        {
+          "word": "hacer una obra",
+          "gloss": "to carry out building work"
+        },
+        {
+          "word": "hallazgo",
+          "gloss": "find, discovery"
+        },
+        {
+          "word": "reformar",
+          "gloss": "to renovate"
+        },
+        {
+          "word": "sótano",
+          "gloss": "basement"
+        },
+        {
+          "word": "castigo",
+          "gloss": "punishment"
+        },
+        {
+          "word": "se retrasan",
+          "gloss": "are delayed"
+        },
+        {
+          "word": "templo",
+          "gloss": "temple"
+        },
+        {
+          "word": "por cierto",
+          "gloss": "incidentally, by the way"
+        },
+        {
+          "word": "tesoro",
+          "gloss": "treasure"
+        },
+        {
+          "word": "expuesta",
+          "gloss": "on display"
+        },
+        {
+          "word": "hallada",
+          "gloss": "found"
+        }
+      ]
+    }
+  ]
+}

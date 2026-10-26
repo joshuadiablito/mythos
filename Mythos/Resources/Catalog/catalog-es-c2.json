@@ -1,0 +1,1625 @@
+{
+  "language": "es",
+  "level": "C2",
+  "stories": [
+    {
+      "id": "es-c2-01",
+      "title": "Manual del tertuliano",
+      "subtitle": "The pundit's handbook",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "Querido aspirante a tertuliano: si has llegado hasta aquí, es porque has comprendido que en este país saber de algo es un obstáculo innecesario para opinar de todo. Enhorabuena. Te esperan platós iluminados, sueldos generosos y la inestimable sensación de que millones de personas te escuchan mientras pelan patatas. Solo tienes que seguir unas sencillas reglas que, con mucho gusto y ninguna modestia, me dispongo a compartir.",
+        "Primera regla: nunca digas «no lo sé». Es una frase que ha arruinado más carreras televisivas que cualquier escándalo. Si te preguntan por la política monetaria del Banco Central Europeo, por la reproducción del lince ibérico o por un conflicto en un país cuyo nombre no sabrías situar en un mapa, frunce el ceño, haz una pausa dramática y empieza con un rotundo «mire usted». Lo que venga detrás es lo de menos. Y si alguien te pide datos, recuerda que un dato bien escogido vale más que cien estudios, sobre todo si te lo has inventado tú.",
+        "Segunda regla: interrumpe. La televisión aborrece el silencio y, sobre todo, aborrece los argumentos completos. Un tertuliano que deja terminar una frase a su adversario es un tertuliano que ha dejado de cobrar. Si además consigues alzar la voz justo cuando el otro está a punto de demostrar algo, el público te recordará como el ganador del debate, aunque nadie, ni siquiera tú, recuerde de qué iba.",
+        "Tercera regla, quizá la más sutil: cambia de opinión con aplomo. Lo que el lunes era una vergüenza nacional puede ser el jueves una muestra de sentido de Estado, siempre que lo digas con la misma indignación. La coherencia es una virtud de provincias; la contundencia, en cambio, cotiza al alza. Nadie revisa las hemerotecas, y quien lo hace es, evidentemente, un resentido. Si alguien te recuerda lo que dijiste hace un mes, acúsale de vivir en el pasado.",
+        "Por último, y esto es fundamental, no leas columnas como esta. Podrían sembrar en ti la peligrosa sospecha de que el oficio consiste en algo más que en hablar alto. Si aun así has llegado al final, me temo que ya es tarde: tienes madera de oyente, que es lo contrario de un tertuliano. Te deseo, sinceramente, una vida tranquila y bien informada."
+      ],
+      "english": [
+        [
+          "Dear aspiring pundit: if you have got this far, it is because you have understood that in this country knowing about something is an unnecessary obstacle to having an opinion on everything.",
+          "Congratulations.",
+          "Lit-up studios, generous salaries and the invaluable feeling that millions of people are listening to you while they peel potatoes await you.",
+          "You need only follow a few simple rules which, with great pleasure and no modesty whatsoever, I am about to share."
+        ],
+        [
+          "Rule one: never say \"I don't know\".",
+          "It is a phrase that has ruined more television careers than any scandal.",
+          "If they ask you about the European Central Bank's monetary policy, the breeding of the Iberian lynx or a conflict in a country whose name you couldn't place on a map, frown, make a dramatic pause and begin with an emphatic \"look here\".",
+          "Whatever comes after is neither here nor there.",
+          "And if someone asks you for figures, remember that one well-chosen figure is worth more than a hundred studies, especially if you made it up yourself."
+        ],
+        [
+          "Rule two: interrupt.",
+          "Television abhors silence and, above all, it abhors complete arguments.",
+          "A pundit who lets his opponent finish a sentence is a pundit who has stopped getting paid.",
+          "If on top of that you manage to raise your voice just when the other is about to prove something, the audience will remember you as the winner of the debate, even though nobody, not even you, remembers what it was about."
+        ],
+        [
+          "Rule three, perhaps the subtlest: change your mind with aplomb.",
+          "What on Monday was a national disgrace may by Thursday be a display of statesmanship, as long as you say it with the same indignation.",
+          "Consistency is a provincial virtue; forcefulness, on the other hand, is rising in value.",
+          "Nobody checks the newspaper archives, and anyone who does is, obviously, a bitter crank.",
+          "If someone reminds you of what you said a month ago, accuse them of living in the past."
+        ],
+        [
+          "Finally, and this is crucial, don't read columns like this one.",
+          "They might sow in you the dangerous suspicion that the job consists of something more than talking loudly.",
+          "If you have nevertheless reached the end, I fear it is already too late: you have the makings of a listener, which is the opposite of a pundit.",
+          "I sincerely wish you a quiet, well-informed life."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tertuliano",
+          "gloss": "(TV/radio) pundit"
+        },
+        {
+          "word": "platós",
+          "gloss": "(TV) studios, sets"
+        },
+        {
+          "word": "inestimable",
+          "gloss": "invaluable"
+        },
+        {
+          "word": "me dispongo a",
+          "gloss": "I am about to"
+        },
+        {
+          "word": "frunce el ceño",
+          "gloss": "frown"
+        },
+        {
+          "word": "rotundo",
+          "gloss": "emphatic"
+        },
+        {
+          "word": "es lo de menos",
+          "gloss": "is neither here nor there"
+        },
+        {
+          "word": "aborrece",
+          "gloss": "abhors"
+        },
+        {
+          "word": "de qué iba",
+          "gloss": "what it was about"
+        },
+        {
+          "word": "aplomo",
+          "gloss": "aplomb, composure"
+        },
+        {
+          "word": "sentido de Estado",
+          "gloss": "statesmanship"
+        },
+        {
+          "word": "contundencia",
+          "gloss": "forcefulness"
+        },
+        {
+          "word": "cotiza al alza",
+          "gloss": "is rising in value"
+        },
+        {
+          "word": "hemerotecas",
+          "gloss": "newspaper archives"
+        },
+        {
+          "word": "tienes madera de",
+          "gloss": "you have the makings of"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-02",
+      "title": "La casa de la marea",
+      "subtitle": "The house of the tide",
+      "topic": "Memory",
+      "symbol": "sailboat.fill",
+      "paragraphs": [
+        "Mi abuela Dolores ha olvidado casi todo. Ha olvidado el nombre de sus tres hijos, el año en que se murió el abuelo, la receta de la empanada de zamburiñas que durante medio siglo fue el orgullo de Cambados. Ha olvidado incluso que ha olvidado, y quizá por eso vive en una calma que a los demás nos resulta insoportable. Pero hay una cosa que no se le ha borrado: la hora exacta de la marea.",
+        "Cada mañana, antes de que nadie le pregunte, se asoma a la ventana de la residencia, que da a un aparcamiento, y anuncia: «Hoy baja a las once y veinte.» Las enfermeras sonríen con esa ternura profesional que se reserva a los locos y a los niños. Un día, por curiosidad, consulté la tabla de mareas de la ría de Arousa. Las once y diecinueve. Desde entonces lo compruebo cada vez, con una especie de fervor supersticioso, y nunca se ha equivocado por más de cinco minutos.",
+        "Dolores fue mariscadora durante cuarenta años. Se levantaba a oscuras, se calzaba las botas de goma y bajaba a la playa con un rastrillo y un cubo, con el agua a la altura de las rodillas y el frío metido en los huesos. Su vida entera estuvo gobernada por la luna, que es quien manda en el mar. Supongo que el cuerpo, cuando la memoria lo abandona, se aferra a lo que aprendió sin palabras: no a los nombres, sino a los ritmos. Las manos saben lo que la cabeza ya no recuerda.",
+        "El domingo pasado la llevé a la playa de A Lanzada. No la había visto tan despierta en meses. Se quitó los zapatos, se remangó la falda y se metió en el agua hasta los tobillos, ante el pánico de la cuidadora. Se agachó, hundió las manos en la arena y sacó, al primer intento, una almeja enorme. Me la dio sin mirarme, como quien entrega una prueba irrefutable. «Ves», me dijo. «El mar no se olvida de nadie.»",
+        "No sé si se refería a ella o a mí. Esa tarde, de vuelta en la residencia, me llamó por el nombre de mi madre. No la corregí. Hay mareas que es mejor no contradecir."
+      ],
+      "english": [
+        [
+          "My grandmother Dolores has forgotten almost everything.",
+          "She has forgotten the names of her three children, the year Grandad died, the recipe for the queen scallop empanada that for half a century was the pride of Cambados.",
+          "She has even forgotten that she has forgotten, and perhaps that is why she lives in a calm that the rest of us find unbearable.",
+          "But there is one thing that hasn't been erased: the exact time of the tide."
+        ],
+        [
+          "Every morning, before anyone asks her, she looks out of the window of the care home, which overlooks a car park, and announces: \"Today it goes out at twenty past eleven.\"",
+          "The nurses smile with that professional tenderness reserved for madmen and children.",
+          "One day, out of curiosity, I looked up the tide table for the Ría de Arousa.",
+          "Eleven nineteen.",
+          "Since then I have checked it every time, with a kind of superstitious fervour, and she has never been out by more than five minutes."
+        ],
+        [
+          "Dolores was a shellfish gatherer for forty years.",
+          "She would get up in the dark, put on her rubber boots and go down to the beach with a rake and a bucket, with the water up to her knees and the cold deep in her bones.",
+          "Her whole life was governed by the moon, which is what rules the sea.",
+          "I suppose that the body, when memory abandons it, clings to what it learned without words: not to names, but to rhythms.",
+          "Her hands know what her head no longer remembers."
+        ],
+        [
+          "Last Sunday I took her to the beach at A Lanzada.",
+          "I hadn't seen her so alert in months.",
+          "She took off her shoes, hitched up her skirt and went into the water up to her ankles, to the panic of her carer.",
+          "She bent down, sank her hands into the sand and pulled out, at the first attempt, an enormous clam.",
+          "She handed it to me without looking at me, like someone handing over irrefutable proof.",
+          "\"You see,\" she told me.",
+          "\"The sea doesn't forget anyone.\""
+        ],
+        [
+          "I don't know if she meant herself or me.",
+          "That evening, back at the care home, she called me by my mother's name.",
+          "I didn't correct her.",
+          "There are tides it is better not to contradict."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "zamburiñas",
+          "gloss": "queen scallops"
+        },
+        {
+          "word": "insoportable",
+          "gloss": "unbearable"
+        },
+        {
+          "word": "se asoma",
+          "gloss": "looks out"
+        },
+        {
+          "word": "residencia",
+          "gloss": "care home"
+        },
+        {
+          "word": "ternura",
+          "gloss": "tenderness"
+        },
+        {
+          "word": "ría",
+          "gloss": "estuary, ria"
+        },
+        {
+          "word": "mariscadora",
+          "gloss": "shellfish gatherer"
+        },
+        {
+          "word": "se calzaba",
+          "gloss": "put on (shoes, boots)"
+        },
+        {
+          "word": "rastrillo",
+          "gloss": "rake"
+        },
+        {
+          "word": "se aferra",
+          "gloss": "clings"
+        },
+        {
+          "word": "se remangó",
+          "gloss": "hitched up, rolled up"
+        },
+        {
+          "word": "tobillos",
+          "gloss": "ankles"
+        },
+        {
+          "word": "cuidadora",
+          "gloss": "carer"
+        },
+        {
+          "word": "almeja",
+          "gloss": "clam"
+        },
+        {
+          "word": "irrefutable",
+          "gloss": "irrefutable"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-03",
+      "title": "La ciudad que tiembla",
+      "subtitle": "The city that trembles",
+      "topic": "City",
+      "symbol": "building.columns.fill",
+      "paragraphs": [
+        "Esta ciudad fue un lago y no lo ha olvidado. Bajo el asfalto, bajo las catedrales que se inclinan como borrachos solemnes, bajo los once millones de pasos que la cruzan cada día, el barro antiguo sigue esperando. Por eso, cuando la tierra se despereza, la Ciudad de México no tiembla: ondula, como el agua que fue. Los edificios se balancean, las lámparas dibujan círculos en el aire y el agua de las fuentes se derrama como si alguien hubiera empujado la ciudad desde abajo.",
+        "Aquí los niños aprenden antes a reconocer el aullido de la alerta sísmica que a atarse los zapatos. Saben que hay sesenta segundos, a veces menos, entre la sirena y la sacudida. Saben bajar la escalera sin correr, no usar el ascensor, alejarse de las ventanas. Y saben algo más que no figura en ningún protocolo: que después del temblor uno sale a la calle y busca, antes que nada, una cara conocida. Y que, mientras no aparezca, el temblor no ha terminado del todo.",
+        "El diecinueve de septiembre es una fecha maldita que esta ciudad ha recibido dos veces, en 1985 y en 2017, como una burla del calendario. Las dos veces cayeron edificios; las dos veces, antes de que llegaran los uniformes, llegaron los vecinos. Hileras de desconocidos pasándose cubos de escombros de mano en mano. Puños en alto para pedir silencio y escuchar, entre las ruinas, una voz. Nadie les enseñó a hacerlo. Lo sabían, como se saben las cosas que no se aprenden.",
+        "Hay quien dice que una ciudad así no debería existir, que construir una metrópoli sobre un lecho de lago en una zona sísmica es un acto de soberbia o de locura. Puede ser. Pero toda ciudad es una apuesta contra algo: contra el mar, contra el desierto, contra el olvido. Esta apostó contra el suelo, que es lo más incierto de todo, y lleva siglos perdiendo y levantándose, perdiendo y levantándose, con una terquedad que a veces se confunde con la esperanza.",
+        "Esta noche la ciudad duerme. Los semáforos parpadean para nadie, un perro cruza la avenida con la dignidad de un obispo, alguien fríe tortillas en un puesto que nunca cierra. Abajo, muy abajo, el lago respira. Y arriba, sin saberlo, once millones de personas respiran con él."
+      ],
+      "english": [
+        [
+          "This city was a lake and it hasn't forgotten.",
+          "Beneath the asphalt, beneath the cathedrals that lean like solemn drunks, beneath the eleven million footsteps that cross it every day, the ancient mud is still waiting.",
+          "That is why, when the earth stretches, Mexico City doesn't tremble: it ripples, like the water it once was.",
+          "Buildings sway, lamps draw circles in the air and the water in the fountains spills over as if someone had pushed the city from below."
+        ],
+        [
+          "Here children learn to recognise the howl of the earthquake alarm before they learn to tie their shoes.",
+          "They know there are sixty seconds, sometimes less, between the siren and the shaking.",
+          "They know how to go down the stairs without running, not to use the lift, to move away from the windows.",
+          "And they know something else that doesn't appear in any protocol: that after the tremor you go out into the street and look, first of all, for a familiar face.",
+          "And that, until it appears, the tremor isn't entirely over."
+        ],
+        [
+          "The nineteenth of September is a cursed date that this city has received twice, in 1985 and in 2017, like a mockery of the calendar.",
+          "Both times buildings fell; both times, before the uniforms arrived, the neighbours arrived.",
+          "Lines of strangers passing buckets of rubble from hand to hand.",
+          "Fists raised to ask for silence and to listen, among the ruins, for a voice.",
+          "Nobody taught them to do it.",
+          "They knew it, the way you know the things that aren't learned."
+        ],
+        [
+          "There are those who say that a city like this shouldn't exist, that building a metropolis on a lake bed in an earthquake zone is an act of arrogance or madness.",
+          "Maybe so.",
+          "But every city is a bet against something: against the sea, against the desert, against oblivion.",
+          "This one bet against the ground, which is the most uncertain thing of all, and it has spent centuries losing and getting back up, losing and getting back up, with a stubbornness that is sometimes mistaken for hope."
+        ],
+        [
+          "Tonight the city is sleeping.",
+          "The traffic lights blink for nobody, a dog crosses the avenue with the dignity of a bishop, someone fries tortillas at a stall that never closes.",
+          "Below, far below, the lake breathes.",
+          "And above, without knowing it, eleven million people breathe with it."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "se despereza",
+          "gloss": "stretches (on waking)"
+        },
+        {
+          "word": "ondula",
+          "gloss": "ripples, undulates"
+        },
+        {
+          "word": "aullido",
+          "gloss": "howl"
+        },
+        {
+          "word": "sacudida",
+          "gloss": "jolt, shaking"
+        },
+        {
+          "word": "maldita",
+          "gloss": "cursed"
+        },
+        {
+          "word": "burla",
+          "gloss": "mockery"
+        },
+        {
+          "word": "hileras",
+          "gloss": "lines, rows"
+        },
+        {
+          "word": "escombros",
+          "gloss": "rubble"
+        },
+        {
+          "word": "puños",
+          "gloss": "fists"
+        },
+        {
+          "word": "lecho",
+          "gloss": "bed (of a lake or river)"
+        },
+        {
+          "word": "soberbia",
+          "gloss": "arrogance, pride"
+        },
+        {
+          "word": "terquedad",
+          "gloss": "stubbornness"
+        },
+        {
+          "word": "parpadean",
+          "gloss": "blink, flash"
+        },
+        {
+          "word": "obispo",
+          "gloss": "bishop"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-04",
+      "title": "Breve tratado sobre el dólar",
+      "subtitle": "A short treatise on the dollar",
+      "topic": "Money",
+      "symbol": "dollarsign.circle.fill",
+      "paragraphs": [
+        "Un extranjero que llega a Buenos Aires suele cometer el error de preguntar cuánto vale el dólar. Es una pregunta ingenua, casi tierna, como preguntar cuántos dioses hay en la India. El argentino medio, antes de contestar, le devolverá otra pregunta con una sonrisa de catedrático: «¿Cuál de todos?» Porque aquí el dólar no es una moneda, es una familia numerosa, con sus primos lejanos y sus parientes políticos, y cada uno tiene su precio, su temperamento y su horario. Preguntar por el dólar, en definitiva, es como preguntar por el clima: la respuesta depende de a quién se lo preguntes y de la hora.",
+        "Está el dólar oficial, que es como ese tío que todos nombran en las sobremesas y nadie ha visto en persona. Está el blue, que se compra en cuevas de la calle Florida a hombres que susurran «cambio, cambio» con la discreción de un confesor. Y luego hay una constelación de dólares con apellido, inventados por sucesivos ministros con la imaginación de un poeta y la puntería de un ciego, que aparecen y desaparecen según la estación.",
+        "Esta multiplicidad ha producido un tipo humano singular: el ahorrista argentino, mitad economista, mitad acróbata. No sabe quién ganó el Oscar, pero sabe la cotización del día con dos decimales. Desconfía de los bancos con una sabiduría que le costó tres crisis y guarda sus billetes verdes en el colchón, en el congelador o dentro de un libro de Sarmiento, convencido de que ningún ladrón lo abriría. Sus abuelos ahorraban para comprar una casa; él ahorra para no perder lo que tiene, que es una ambición más modesta y mucho más agotadora.",
+        "Los economistas extranjeros vienen a estudiarnos como quien visita un volcán activo: con fascinación científica y la reconfortante certeza de que se volverán a casa. Escriben artículos sesudos sobre la inflación crónica, la fuga de capitales y la memoria colectiva del corralito. Pocas veces se detienen en lo esencial, que es lo mucho que nos reímos de todo esto. Porque en un país donde el dinero cambia de valor entre el desayuno y la cena, el humor es la única moneda que no se devalúa.",
+        "Si después de leer esto todavía querés saber cuánto vale el dólar, te doy un consejo: preguntá mañana. Hoy ya es tarde."
+      ],
+      "english": [
+        [
+          "A foreigner arriving in Buenos Aires tends to make the mistake of asking how much the dollar is worth.",
+          "It is a naive, almost touching question, like asking how many gods there are in India.",
+          "The average Argentine, before answering, will reply with another question and a professorial smile: \"Which one?\"",
+          "Because here the dollar isn't a currency, it's a large family, with its distant cousins and its in-laws, and each one has its own price, its own temperament and its own opening hours.",
+          "Asking about the dollar, in short, is like asking about the weather: the answer depends on who you ask and what time it is."
+        ],
+        [
+          "There's the official dollar, which is like that uncle everyone mentions over long family lunches and nobody has ever seen in person.",
+          "There's the blue, which is bought in back-room exchange dens on Calle Florida from men who whisper \"change, change\" with the discretion of a confessor.",
+          "And then there's a constellation of dollars with surnames, invented by successive ministers with the imagination of a poet and the aim of a blind man, which appear and disappear according to the season."
+        ],
+        [
+          "This multiplicity has produced a singular human type: the Argentine saver, half economist, half acrobat.",
+          "He doesn't know who won the Oscar, but he knows the day's exchange rate to two decimal places.",
+          "He distrusts banks with a wisdom that cost him three crises and keeps his greenbacks in the mattress, in the freezer or inside a book by Sarmiento, convinced that no thief would ever open it.",
+          "His grandparents saved to buy a house; he saves so as not to lose what he has, which is a more modest and far more exhausting ambition."
+        ],
+        [
+          "Foreign economists come to study us the way one visits an active volcano: with scientific fascination and the comforting certainty that they will be going home.",
+          "They write weighty articles about chronic inflation, capital flight and the collective memory of the corralito.",
+          "They rarely dwell on the essential point, which is how much we laugh at all this.",
+          "Because in a country where money changes value between breakfast and dinner, humour is the only currency that doesn't lose its value."
+        ],
+        [
+          "If after reading this you still want to know how much the dollar is worth, I'll give you some advice: ask tomorrow.",
+          "Today it's already too late."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tierna",
+          "gloss": "touching, tender"
+        },
+        {
+          "word": "catedrático",
+          "gloss": "professor"
+        },
+        {
+          "word": "parientes políticos",
+          "gloss": "in-laws"
+        },
+        {
+          "word": "cuevas",
+          "gloss": "(illegal) exchange dens (lit. caves)"
+        },
+        {
+          "word": "susurran",
+          "gloss": "whisper"
+        },
+        {
+          "word": "puntería",
+          "gloss": "aim"
+        },
+        {
+          "word": "ahorrista",
+          "gloss": "saver"
+        },
+        {
+          "word": "cotización",
+          "gloss": "exchange rate, price"
+        },
+        {
+          "word": "colchón",
+          "gloss": "mattress"
+        },
+        {
+          "word": "agotadora",
+          "gloss": "exhausting"
+        },
+        {
+          "word": "reconfortante",
+          "gloss": "comforting"
+        },
+        {
+          "word": "sesudos",
+          "gloss": "weighty, earnest"
+        },
+        {
+          "word": "fuga de capitales",
+          "gloss": "capital flight"
+        },
+        {
+          "word": "corralito",
+          "gloss": "2001 freeze on bank withdrawals in Argentina"
+        },
+        {
+          "word": "se devalúa",
+          "gloss": "loses value, is devalued"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-05",
+      "title": "Elogio de la eñe",
+      "subtitle": "In praise of the ñ",
+      "topic": "Language",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "De todas las letras del alfabeto, la eñe es la única que lleva sombrero. Un sombrerito ondulado, un poco ladeado, que le da un aire de jornalero endomingado o de bailarina que se ha dejado el velo puesto. No es un adorno: es una cicatriz. Nació de la pereza de los copistas medievales, que, para ahorrar pergamino y tinta, escribían una pequeña ene encima de otra cuando la palabra pedía dos. Con los siglos, la ene de arriba se fue aplanando hasta convertirse en esa virgulilla que hoy nos distingue.",
+        "Es curioso que una letra nacida del ahorro se haya convertido en un lujo. Las máquinas de escribir extranjeras no la tenían, los primeros ordenadores la ignoraban y, durante años, los hispanohablantes en el extranjero tuvimos que resignarnos a firmar como «Nunez» o «Ibanez», amputados del sombrero, como reyes en el exilio. Hubo incluso un momento, a principios de los noventa, en que ciertos burócratas sugirieron que la eñe estorbaba al mercado común. La respuesta fue tan airada que todavía hoy se recuerda como una pequeña guerra de independencia ortográfica.",
+        "Y es que la eñe no es negociable, porque sin ella el idioma se vuelve un campo de minas. Basta con quitarle el sombrero para que el año se convierta en algo mucho menos presentable, para que el sueño se quede sin dueño y para que una niña muy pequeña se convierta, por arte de magia, en una nina sin sentido. Pocas letras tienen tanto poder para separar lo sublime de lo ridículo con un solo trazo.",
+        "Me gusta pensar que la eñe es una metáfora del propio idioma: algo que nació de una necesidad práctica, que se fue deformando por el uso, que alguna vez estuvo a punto de desaparecer y que sobrevivió por pura testarudez de sus hablantes. Una letra mestiza, pequeña y orgullosa, que se pasea por los teclados del mundo con su sombrero torcido, sabiendo que, aunque no la entiendan, tendrán que hacerle sitio.",
+        "Por eso, cuando alguien me pregunta qué es lo que más me gusta del español, no le hablo de Cervantes ni del subjuntivo. Le escribo una eñe en una servilleta y le digo: esto. Lo demás es contexto."
+      ],
+      "english": [
+        [
+          "Of all the letters of the alphabet, the ñ is the only one that wears a hat.",
+          "A little wavy hat, slightly tilted, which gives it the air of a farmhand in his Sunday best or of a dancer who has left her veil on.",
+          "It is not an ornament: it is a scar.",
+          "It was born of the laziness of medieval copyists who, to save parchment and ink, wrote a small n above another when the word called for two.",
+          "Over the centuries, the n on top gradually flattened until it became the little squiggle that sets us apart today."
+        ],
+        [
+          "It is curious that a letter born of thrift should have become a luxury.",
+          "Foreign typewriters didn't have it, the first computers ignored it and, for years, Spanish speakers abroad had to resign ourselves to signing as \"Nunez\" or \"Ibanez\", our hats amputated, like kings in exile.",
+          "There was even a moment, in the early nineties, when certain bureaucrats suggested that the ñ was an obstacle to the common market.",
+          "The response was so furious that even today it is remembered as a small orthographic war of independence."
+        ],
+        [
+          "The thing is that the ñ is non-negotiable, because without it the language becomes a minefield.",
+          "You only have to take its hat off for año, \"year\", to turn into something far less presentable, for sueño, \"dream\", to be left without dueño, \"owner\", and for a very small niña, \"girl\", to turn, as if by magic, into a meaningless nina.",
+          "Few letters have so much power to separate the sublime from the ridiculous with a single stroke."
+        ],
+        [
+          "I like to think that the ñ is a metaphor for the language itself: something born of a practical need, which became deformed through use, which at one point was about to disappear and which survived through the sheer stubbornness of its speakers.",
+          "A mixed-race letter, small and proud, which strolls across the keyboards of the world with its crooked hat, knowing that, even if they don't understand it, they will have to make room for it."
+        ],
+        [
+          "That's why, when someone asks me what I like most about Spanish, I don't tell them about Cervantes or the subjunctive.",
+          "I write an ñ on a napkin and say: this.",
+          "The rest is context."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "ladeado",
+          "gloss": "tilted"
+        },
+        {
+          "word": "jornalero",
+          "gloss": "day labourer, farmhand"
+        },
+        {
+          "word": "endomingado",
+          "gloss": "in his Sunday best"
+        },
+        {
+          "word": "cicatriz",
+          "gloss": "scar"
+        },
+        {
+          "word": "copistas",
+          "gloss": "copyists, scribes"
+        },
+        {
+          "word": "pergamino",
+          "gloss": "parchment"
+        },
+        {
+          "word": "se fue aplanando",
+          "gloss": "gradually flattened"
+        },
+        {
+          "word": "virgulilla",
+          "gloss": "small squiggle, tilde"
+        },
+        {
+          "word": "estorbaba",
+          "gloss": "got in the way, was an obstacle"
+        },
+        {
+          "word": "airada",
+          "gloss": "furious, irate"
+        },
+        {
+          "word": "campo de minas",
+          "gloss": "minefield"
+        },
+        {
+          "word": "por arte de magia",
+          "gloss": "as if by magic"
+        },
+        {
+          "word": "trazo",
+          "gloss": "stroke"
+        },
+        {
+          "word": "testarudez",
+          "gloss": "stubbornness"
+        },
+        {
+          "word": "torcido",
+          "gloss": "crooked"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-06",
+      "title": "El hombre que esperaba en el Malecón",
+      "subtitle": "The man who waited on the Malecón",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Ismael se sentaba en el muro del Malecón todas las tardes a las seis, con el mismo pantalón de dril planchado y una flor de mar pacífico en el bolsillo de la camisa. Los pescadores que lanzaban sus cordeles a pocos metros llevaban años viéndolo y habían construido a su alrededor una leyenda: que esperaba a una mujer que se fue a Miami en los ochenta, que le prometió volver, que él le juró que la esperaría en ese mismo sitio aunque se secara el mar.",
+        "La leyenda tenía todos los ingredientes que a los habaneros les gustan: un amor imposible, un estrecho de noventa millas y un hombre lo bastante terco como para desafiar a la geografía. Los turistas le hacían fotos. Una televisión extranjera quiso entrevistarlo, pero él se negó con un gesto amable y definitivo. Las vecinas suspiraban al verlo pasar y los maridos, por si acaso, se volvían más atentos durante una temporada.",
+        "Yo lo conocí el verano en que volví a Cuba después de veinte años fuera. Me senté a su lado sin pedir permiso, como se hace en el Malecón, y le pregunté, con la torpeza del que ya no es de aquí, si era verdad lo que se contaba. Ismael se rio con una risa larga, sin dientes, que acabó en un ataque de tos. Cuando se recuperó, me miró con una lástima casi paternal.",
+        "«Muchacho, yo me casé con la mujer más brava de Centro Habana y estuve cuarenta y dos años con ella», me dijo. «Se murió hace seis. Lo que pasa es que a esta hora era cuando ella me mandaba a la calle porque no me soportaba en la casa mientras cocinaba.» Hizo una pausa y miró hacia el horizonte, donde el sol empezaba a hundirse. «Sigo saliendo por costumbre. Y la flor es porque ella decía que, ya que salía, por lo menos que me vieran decente.»",
+        "No le conté a nadie la verdad. Me pareció que la leyenda le hacía más falta a la ciudad que a él, y que la suya, más modesta, era también una historia de amor, aunque de las que no salen en las postales. Ismael murió dos inviernos después. Los pescadores dicen que, a las seis, todavía hay alguien que deja una flor roja en el muro."
+      ],
+      "english": [
+        [
+          "Ismael sat on the wall of the Malecón every afternoon at six, in the same pair of pressed drill trousers and with a hibiscus flower in his shirt pocket.",
+          "The fishermen who cast their lines a few metres away had been watching him for years and had built a legend around him: that he was waiting for a woman who left for Miami in the eighties, who promised to come back, and that he swore to her he would wait for her in that same spot even if the sea dried up."
+        ],
+        [
+          "The legend had all the ingredients that people in Havana like: an impossible love, a ninety-mile strait and a man stubborn enough to defy geography.",
+          "Tourists took photos of him.",
+          "A foreign television channel wanted to interview him, but he refused with a kind, final gesture.",
+          "The women of the neighbourhood sighed when they saw him go by and their husbands, just in case, became more attentive for a while."
+        ],
+        [
+          "I met him the summer I returned to Cuba after twenty years away.",
+          "I sat down next to him without asking permission, as you do on the Malecón, and asked him, with the clumsiness of someone who no longer belongs here, if what people said was true.",
+          "Ismael laughed a long, toothless laugh, which ended in a coughing fit.",
+          "When he recovered, he looked at me with an almost fatherly pity."
+        ],
+        [
+          "\"Young man, I married the fiercest woman in Centro Habana and I was with her for forty-two years,\" he told me.",
+          "\"She died six years ago. The thing is, this was the time of day when she would send me out into the street because she couldn't stand me in the house while she was cooking.\"",
+          "He paused and looked towards the horizon, where the sun was beginning to sink.",
+          "\"I still go out out of habit. And the flower is because she used to say that, since I was going out, people should at least see me looking decent.\""
+        ],
+        [
+          "I didn't tell anyone the truth.",
+          "It seemed to me that the city needed the legend more than he did, and that his own story, more modest, was also a love story, though one of those that don't appear on postcards.",
+          "Ismael died two winters later.",
+          "The fishermen say that, at six o'clock, there is still someone who leaves a red flower on the wall."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "dril",
+          "gloss": "drill (cotton fabric)"
+        },
+        {
+          "word": "mar pacífico",
+          "gloss": "hibiscus (Cuba)"
+        },
+        {
+          "word": "cordeles",
+          "gloss": "fishing lines"
+        },
+        {
+          "word": "le juró",
+          "gloss": "swore to her"
+        },
+        {
+          "word": "estrecho",
+          "gloss": "strait"
+        },
+        {
+          "word": "terco",
+          "gloss": "stubborn"
+        },
+        {
+          "word": "desafiar",
+          "gloss": "to defy"
+        },
+        {
+          "word": "por si acaso",
+          "gloss": "just in case"
+        },
+        {
+          "word": "torpeza",
+          "gloss": "clumsiness"
+        },
+        {
+          "word": "ataque de tos",
+          "gloss": "coughing fit"
+        },
+        {
+          "word": "lástima",
+          "gloss": "pity"
+        },
+        {
+          "word": "brava",
+          "gloss": "fierce, bad-tempered (Caribbean)"
+        },
+        {
+          "word": "no me soportaba",
+          "gloss": "couldn't stand me"
+        },
+        {
+          "word": "le hacía más falta",
+          "gloss": "needed more"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-07",
+      "title": "La pintora del herbario",
+      "subtitle": "The herbarium painter",
+      "topic": "Science",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "En 1790, la Real Expedición Botánica del Nuevo Reino de Granada llevaba ya siete años catalogando plantas en los alrededores de Santa Fe de Bogotá. Decenas de pintores trabajaban en un taller de techos altos, reproduciendo con una precisión obsesiva cada hoja, cada estambre, cada tonalidad de verde, para que los sabios de Madrid pudieran conocer la flora americana sin cruzar el océano. Los nombres de aquellos pintores se conservan en los archivos. El de Josefa Caicedo, no.",
+        "Josefa era hija de uno de los pintores del taller, un hombre de pulso tembloroso a quien la bebida había empezado a robarle el oficio. Ella, que desde niña molía los pigmentos y lavaba los pinceles, aprendió a pintar mirando por encima de su hombro. Cuando las manos del padre dejaron de obedecerle, fue ella quien, de noche y a la luz de una vela, terminaba sus láminas. Por la mañana, él las entregaba como propias, y nadie notó la diferencia, salvo, quizás, en que habían mejorado.",
+        "Ninguna ley prohibía expresamente que una mujer pintara para la Expedición; simplemente, a nadie se le había pasado por la cabeza. Josefa lo sabía, y sabía también que la verdad, si salía a la luz, costaría a su familia el único sustento que tenía. Así que pintó en silencio durante once años: orquídeas que nadie había descrito, quinas de corteza rojiza, pasifloras de una complejidad casi insolente. Su único gesto de rebeldía fue diminuto y casi invisible.",
+        "Hace unos años, una restauradora del Real Jardín Botánico de Madrid, donde hoy se guardan las láminas, examinaba con lupa una acuarela de una begonia. En la base del tallo, oculta entre las raíces, distinguió una pequeña jota entrelazada con una ce, trazada con un pincel de un solo pelo. Intrigada, revisó otras láminas atribuidas al mismo pintor. La firma secreta aparecía en más de doscientas, siempre escondida: en el envés de una hoja, en el ala de un insecto, en la sombra de un pétalo.",
+        "La historia de Josefa es, por supuesto, una invención; las de tantas como ella, probablemente no. La ciencia ha sido escrita durante siglos por manos que no firmaban, y quizá por eso conviene mirar los viejos herbarios con lupa. Nunca se sabe qué nombre se esconde entre las raíces."
+      ],
+      "english": [
+        [
+          "In 1790, the Royal Botanical Expedition to the New Kingdom of Granada had been cataloguing plants around Santa Fe de Bogotá for seven years.",
+          "Dozens of painters worked in a high-ceilinged workshop, reproducing with obsessive precision every leaf, every stamen, every shade of green, so that the scholars in Madrid could get to know American flora without crossing the ocean.",
+          "The names of those painters are preserved in the archives.",
+          "Josefa Caicedo's is not."
+        ],
+        [
+          "Josefa was the daughter of one of the workshop's painters, a man with an unsteady hand whose trade drink had begun to steal from him.",
+          "She, who since childhood had ground the pigments and washed the brushes, learned to paint by looking over his shoulder.",
+          "When her father's hands stopped obeying him, it was she who, at night and by candlelight, finished his plates.",
+          "In the morning, he handed them in as his own, and nobody noticed the difference, except, perhaps, that they had improved."
+        ],
+        [
+          "No law expressly forbade a woman from painting for the Expedition; it simply hadn't occurred to anyone.",
+          "Josefa knew this, and she also knew that the truth, if it came to light, would cost her family the only livelihood it had.",
+          "So she painted in silence for eleven years: orchids nobody had described, cinchona trees with reddish bark, passionflowers of an almost insolent complexity.",
+          "Her only act of rebellion was tiny and almost invisible."
+        ],
+        [
+          "A few years ago, a restorer at the Royal Botanical Garden in Madrid, where the plates are kept today, was examining a watercolour of a begonia with a magnifying glass.",
+          "At the base of the stem, hidden among the roots, she made out a small J intertwined with a C, drawn with a single-hair brush.",
+          "Intrigued, she went through other plates attributed to the same painter.",
+          "The secret signature appeared on more than two hundred of them, always hidden: on the underside of a leaf, on an insect's wing, in the shadow of a petal."
+        ],
+        [
+          "Josefa's story is, of course, an invention; those of so many women like her probably are not.",
+          "Science has been written for centuries by hands that didn't sign, and perhaps that is why it is worth looking at old herbaria with a magnifying glass.",
+          "You never know what name is hiding among the roots."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "estambre",
+          "gloss": "stamen"
+        },
+        {
+          "word": "sabios",
+          "gloss": "scholars, learned men"
+        },
+        {
+          "word": "pulso tembloroso",
+          "gloss": "unsteady hand"
+        },
+        {
+          "word": "molía",
+          "gloss": "ground"
+        },
+        {
+          "word": "láminas",
+          "gloss": "plates (illustrations)"
+        },
+        {
+          "word": "a nadie se le había pasado por la cabeza",
+          "gloss": "it hadn't occurred to anyone"
+        },
+        {
+          "word": "sustento",
+          "gloss": "livelihood"
+        },
+        {
+          "word": "quinas",
+          "gloss": "cinchona trees"
+        },
+        {
+          "word": "corteza",
+          "gloss": "bark"
+        },
+        {
+          "word": "diminuto",
+          "gloss": "tiny"
+        },
+        {
+          "word": "lupa",
+          "gloss": "magnifying glass"
+        },
+        {
+          "word": "tallo",
+          "gloss": "stem"
+        },
+        {
+          "word": "entrelazada",
+          "gloss": "intertwined"
+        },
+        {
+          "word": "envés",
+          "gloss": "underside (of a leaf)"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-08",
+      "title": "Sinergias",
+      "subtitle": "Synergies",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Tengo un amigo que trabaja en una gran empresa de Madrid y que, desde hace unos años, ha dejado de hablar español. No es que haya emigrado ni que se haya pasado al inglés, que sería más honesto. Simplemente, habla una lengua nueva, compuesta de palabras españolas, inglesas y de procedencia incierta, que solo entienden los que, como él, se pasan el día en reuniones sobre otras reuniones.",
+        "En esa lengua, nadie tiene problemas, sino retos. Nadie se equivoca: aprende. Nadie habla con nadie, sino que alinea expectativas, y los planes no se hacen, se implementan, a ser posible de forma transversal. Si una idea es mala, se dice que hay que darle una vuelta. Si es pésima, se aparca. Y cuando alguien es despedido, la empresa no lo despide: lo libera para que explore nuevas oportunidades, como quien suelta un pájaro en el campo con una mezcla de ternura y alivio.",
+        "La semana pasada le pregunté qué había hecho el lunes. Me contestó, sin pestañear, que había tenido un día muy intenso de sinergias, que había estado poniendo en valor el talento de su equipo y que, al final de la tarde, habían conseguido aterrizar varios entregables. Le pedí que me lo tradujera. Se quedó en silencio un buen rato, como un hombre que busca las llaves en un bolsillo vacío, y al final admitió que había estado preparando una presentación sobre otra presentación.",
+        "Uno podría pensar que esta jerga es inofensiva, un simple tic de oficina. Yo no estoy tan seguro. Las palabras no son solo envoltorios: dan forma a lo que pensamos. Un idioma diseñado para que nada suene mal es también un idioma en el que es muy difícil decir que algo va mal. Y una empresa en la que nadie puede decir que algo va mal acaba, tarde o temprano, descubriéndolo de la peor manera.",
+        "Mi amigo, por cierto, me escribió ayer. Su departamento ha sido reestructurado en el marco de una estrategia de optimización de recursos. Lo leí tres veces antes de entenderlo. Lo han echado. Le he invitado a cenar, y le he pedido una sola cosa: que durante la cena hable en cristiano."
+      ],
+      "english": [
+        [
+          "I have a friend who works at a big company in Madrid and who, for a few years now, has stopped speaking Spanish.",
+          "It's not that he has emigrated or switched to English, which would be more honest.",
+          "He simply speaks a new language, made up of Spanish words, English words and words of uncertain origin, which only those who, like him, spend all day in meetings about other meetings can understand."
+        ],
+        [
+          "In that language, nobody has problems, only challenges.",
+          "Nobody makes mistakes: they learn.",
+          "Nobody talks to anybody; instead they align expectations, and plans aren't made, they are implemented, cross-functionally if possible.",
+          "If an idea is bad, you say it needs another look.",
+          "If it's dreadful, it gets parked.",
+          "And when someone is fired, the company doesn't fire him: it frees him to explore new opportunities, like someone releasing a bird in the countryside with a mixture of tenderness and relief."
+        ],
+        [
+          "Last week I asked him what he had done on Monday.",
+          "He answered, without batting an eyelid, that he'd had a very intense day of synergies, that he had been leveraging his team's talent and that, at the end of the afternoon, they had managed to land several deliverables.",
+          "I asked him to translate it for me.",
+          "He was silent for a good while, like a man looking for his keys in an empty pocket, and in the end he admitted that he had been preparing a presentation about another presentation."
+        ],
+        [
+          "One might think this jargon is harmless, a simple office tic.",
+          "I'm not so sure.",
+          "Words are not just wrappings: they shape what we think.",
+          "A language designed so that nothing sounds bad is also a language in which it is very hard to say that something is going badly.",
+          "And a company in which nobody can say that something is going badly ends up, sooner or later, finding out the hard way."
+        ],
+        [
+          "My friend, incidentally, wrote to me yesterday.",
+          "His department has been restructured within the framework of a resource optimisation strategy.",
+          "I read it three times before I understood it.",
+          "They've sacked him.",
+          "I've invited him to dinner, and I've asked him for just one thing: that during dinner he speak plain Spanish."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "de procedencia incierta",
+          "gloss": "of uncertain origin"
+        },
+        {
+          "word": "retos",
+          "gloss": "challenges"
+        },
+        {
+          "word": "alinea",
+          "gloss": "aligns"
+        },
+        {
+          "word": "darle una vuelta",
+          "gloss": "to give it another look, rethink it"
+        },
+        {
+          "word": "pésima",
+          "gloss": "dreadful"
+        },
+        {
+          "word": "se aparca",
+          "gloss": "is parked, shelved"
+        },
+        {
+          "word": "alivio",
+          "gloss": "relief"
+        },
+        {
+          "word": "sin pestañear",
+          "gloss": "without batting an eyelid"
+        },
+        {
+          "word": "poniendo en valor",
+          "gloss": "leveraging, showcasing"
+        },
+        {
+          "word": "entregables",
+          "gloss": "deliverables"
+        },
+        {
+          "word": "jerga",
+          "gloss": "jargon"
+        },
+        {
+          "word": "inofensiva",
+          "gloss": "harmless"
+        },
+        {
+          "word": "envoltorios",
+          "gloss": "wrappings"
+        },
+        {
+          "word": "en el marco de",
+          "gloss": "within the framework of"
+        },
+        {
+          "word": "hable en cristiano",
+          "gloss": "speak plainly (in plain Spanish)"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-09",
+      "title": "El río sin orillas",
+      "subtitle": "The river without banks",
+      "topic": "Nature",
+      "symbol": "drop.fill",
+      "paragraphs": [
+        "En Iquitos, el río no es un río. Es una estación del año, un vecino caprichoso, un dios con mal genio y buena memoria. Entre diciembre y mayo crece hasta diez metros, se traga las playas, entra en las casas sin llamar y convierte la selva en un laberinto de agua por el que se navega entre las copas de los árboles. Los mapas, aquí, son una cortesía: el río los corrige cada año.",
+        "En el barrio de Belén, las casas flotan sobre troncos de balsa y suben y bajan con el agua como barcos anclados. Los niños aprenden a remar antes que a montar en bicicleta. Las gallinas viven en jaulas colgadas de los aleros. En temporada de creciente, el mercado se hace desde las canoas: una mujer vende plátanos asomada a su ventana, otra le paga con pescado, y la transacción concluye sin que ninguna de las dos haya pisado tierra firme. Hasta el cura del barrio, dicen, ha bendecido alguna boda desde una barca, con los novios en otra y los invitados repartidos en una docena de canoas.",
+        "Hay una palabra que los forasteros repiten mucho al llegar: inundación. Los ribereños la usan poco. Para ellos, que el río suba no es una catástrofe, sino una respiración. La selva inundada es una despensa: los peces entran en el bosque a comer frutos caídos, y con ellos llegan los delfines rosados, que nadan entre los troncos como fantasmas curiosos. Lo extraño, lo alarmante, sería que un año el agua no viniera.",
+        "Y sin embargo, eso empieza a ocurrir. Los viejos pescadores hablan de estiajes cada vez más largos, de bancos de arena que aparecen donde antes había canales profundos, de lluvias que llegan tarde o no llegan. Hablan con la misma calma con que se habla de un pariente enfermo: sin dramatismo, pero con una preocupación que se adivina en los silencios. El río, dicen, está cansado. No saben de quién es la culpa, aunque lo sospechan.",
+        "Al anochecer, cuando el sol se hunde en el agua color de té y el aire se llena de insectos y de radios lejanas, cuesta imaginar que algo tan inmenso pueda ser frágil. Pero así es como se pierden las cosas grandes: no de golpe, sino un metro cada año, mientras miramos hacia otro lado."
+      ],
+      "english": [
+        [
+          "In Iquitos, the river is not a river.",
+          "It is a season of the year, a capricious neighbour, a god with a bad temper and a good memory.",
+          "Between December and May it rises by up to ten metres, swallows the beaches, enters houses without knocking and turns the jungle into a labyrinth of water where you sail among the treetops.",
+          "Maps, here, are a courtesy: the river corrects them every year."
+        ],
+        [
+          "In the Belén neighbourhood, the houses float on balsa logs and rise and fall with the water like anchored boats.",
+          "Children learn to row before they learn to ride a bicycle.",
+          "Hens live in cages hanging from the eaves.",
+          "In the high-water season, the market is held from canoes: a woman sells plantains leaning out of her window, another pays her with fish, and the transaction is concluded without either of them having set foot on dry land.",
+          "Even the local priest, they say, has blessed the odd wedding from a boat, with the bride and groom in another and the guests spread across a dozen canoes."
+        ],
+        [
+          "There is a word that outsiders repeat a lot when they arrive: flood.",
+          "The people who live along the river rarely use it.",
+          "For them, the river rising is not a catastrophe, but a breath.",
+          "The flooded forest is a larder: fish swim into the woods to eat fallen fruit, and with them come the pink dolphins, which swim among the trunks like curious ghosts.",
+          "What would be strange, what would be alarming, is for the water not to come one year."
+        ],
+        [
+          "And yet that is beginning to happen.",
+          "The old fishermen talk of ever longer dry seasons, of sandbanks appearing where once there were deep channels, of rains that arrive late or don't arrive at all.",
+          "They talk about it with the same calm with which you talk about a sick relative: without melodrama, but with a concern you can sense in their silences.",
+          "The river, they say, is tired.",
+          "They don't know whose fault it is, although they suspect."
+        ],
+        [
+          "At nightfall, when the sun sinks into the tea-coloured water and the air fills with insects and distant radios, it is hard to imagine that something so immense could be fragile.",
+          "But that is how big things are lost: not all at once, but a metre every year, while we look the other way."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "caprichoso",
+          "gloss": "capricious, unpredictable"
+        },
+        {
+          "word": "mal genio",
+          "gloss": "bad temper"
+        },
+        {
+          "word": "copas",
+          "gloss": "treetops, crowns"
+        },
+        {
+          "word": "anclados",
+          "gloss": "anchored"
+        },
+        {
+          "word": "remar",
+          "gloss": "to row"
+        },
+        {
+          "word": "aleros",
+          "gloss": "eaves"
+        },
+        {
+          "word": "creciente",
+          "gloss": "rising water, flood season"
+        },
+        {
+          "word": "forasteros",
+          "gloss": "outsiders, strangers"
+        },
+        {
+          "word": "ribereños",
+          "gloss": "river dwellers"
+        },
+        {
+          "word": "despensa",
+          "gloss": "larder, pantry"
+        },
+        {
+          "word": "estiajes",
+          "gloss": "low-water periods, dry seasons"
+        },
+        {
+          "word": "bancos de arena",
+          "gloss": "sandbanks"
+        },
+        {
+          "word": "se adivina",
+          "gloss": "can be sensed"
+        },
+        {
+          "word": "de golpe",
+          "gloss": "all at once"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-10",
+      "title": "El tonelero de Triana",
+      "subtitle": "The cooper of Triana",
+      "topic": "History",
+      "symbol": "sailboat.fill",
+      "paragraphs": [
+        "En el verano de 1519, Sevilla olía a brea, a vino agrio y a ambición. En los muelles del Guadalquivir, cinco naos esperaban a que un portugués de mirada dura, al que los sevillanos llamaban Magallanes con una mezcla de respeto y recelo, terminara de reunir víveres para un viaje cuyo destino nadie se atrevía a nombrar en voz alta. Diego Huete, tonelero de Triana, había recibido el encargo de fabricar cuatrocientos barriles. Era el mayor pedido de su vida. Lo había conseguido, según las malas lenguas del barrio, gracias a un cuñado que trabajaba en la Casa de la Contratación y a un precio que no dejaba margen para errores.",
+        "Trabajó durante meses con sus dos hijos y un aprendiz morisco que apenas hablaba. Escogió las duelas de roble una a una, las curvó al fuego, las ciñó con aros de hierro y comprobó cada barril llenándolo de agua y dejándolo una noche entera al sol. Sabía, como saben los artesanos, que de su oficio dependían vidas que nunca conocería. Un barril que rezuma en el muelle es una molestia; en mitad del océano, es una sentencia.",
+        "La víspera de la partida, Diego subió a bordo de la Victoria para entregar el último lote. Un grumete de unos catorce años lo ayudó a estibarlos en la bodega. Le preguntó, con la desfachatez de su edad, si de verdad aquellos toneles aguantarían hasta el fin del mundo. Diego, que nunca había navegado más allá de Sanlúcar, le contestó que sus barriles aguantarían lo que aguantaran los hombres, y que eso, en su experiencia, era mucho más de lo que los propios hombres creían.",
+        "Tres años después, en septiembre de 1522, una sola nave regresó a Sevilla. Era la Victoria. De los casi doscientos cincuenta hombres que habían partido volvían dieciocho, tan flacos y desharrapados que los vecinos no los reconocían. Habían dado la vuelta al mundo. Diego, ya viejo, bajó al muelle entre la multitud. No buscaba gloria; buscaba barriles. Encontró uno, ennegrecido y deforme, en la cubierta, y reconoció en la madera la marca de su taller.",
+        "Los libros de historia no mencionan a ningún tonelero. Tampoco al grumete, que, según esta historia que me acabo de inventar, era uno de los dieciocho y se acercó a Diego para decirle que tenía razón."
+      ],
+      "english": [
+        [
+          "In the summer of 1519, Seville smelled of tar, of sour wine and of ambition.",
+          "On the quays of the Guadalquivir, five ships were waiting for a hard-eyed Portuguese man, whom the Sevillians called Magellan with a mixture of respect and suspicion, to finish gathering provisions for a voyage whose destination nobody dared name out loud.",
+          "Diego Huete, a cooper from Triana, had been commissioned to make four hundred barrels.",
+          "It was the biggest order of his life.",
+          "He had got it, according to the neighbourhood gossips, thanks to a brother-in-law who worked at the Casa de la Contratación and at a price that left no margin for error."
+        ],
+        [
+          "He worked for months with his two sons and a Morisco apprentice who barely spoke.",
+          "He chose the oak staves one by one, bent them over the fire, bound them with iron hoops and tested each barrel by filling it with water and leaving it out in the sun for a whole night.",
+          "He knew, as craftsmen know, that lives he would never know depended on his trade.",
+          "A barrel that seeps on the quay is a nuisance; in the middle of the ocean, it is a death sentence."
+        ],
+        [
+          "On the eve of departure, Diego went aboard the Victoria to deliver the last batch.",
+          "A ship's boy of about fourteen helped him stow them in the hold.",
+          "He asked him, with the cheek of his age, whether those casks would really last until the end of the world.",
+          "Diego, who had never sailed further than Sanlúcar, answered that his barrels would last as long as the men lasted, and that this, in his experience, was much more than the men themselves believed."
+        ],
+        [
+          "Three years later, in September 1522, a single ship returned to Seville.",
+          "It was the Victoria.",
+          "Of the almost two hundred and fifty men who had set out, eighteen returned, so thin and ragged that the locals didn't recognise them.",
+          "They had sailed around the world.",
+          "Diego, now an old man, went down to the quay among the crowd.",
+          "He wasn't looking for glory; he was looking for barrels.",
+          "He found one, blackened and misshapen, on the deck, and recognised his workshop's mark on the wood."
+        ],
+        [
+          "The history books don't mention any cooper.",
+          "Nor the ship's boy, who, according to this story I have just made up, was one of the eighteen and came up to Diego to tell him that he had been right."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "brea",
+          "gloss": "tar, pitch"
+        },
+        {
+          "word": "naos",
+          "gloss": "carracks, ships"
+        },
+        {
+          "word": "recelo",
+          "gloss": "suspicion, mistrust"
+        },
+        {
+          "word": "víveres",
+          "gloss": "provisions"
+        },
+        {
+          "word": "tonelero",
+          "gloss": "cooper, barrel maker"
+        },
+        {
+          "word": "duelas",
+          "gloss": "staves"
+        },
+        {
+          "word": "ciñó",
+          "gloss": "bound, girded"
+        },
+        {
+          "word": "rezuma",
+          "gloss": "seeps, oozes"
+        },
+        {
+          "word": "víspera",
+          "gloss": "eve"
+        },
+        {
+          "word": "grumete",
+          "gloss": "ship's boy, cabin boy"
+        },
+        {
+          "word": "estibarlos",
+          "gloss": "to stow them"
+        },
+        {
+          "word": "desfachatez",
+          "gloss": "cheek, nerve"
+        },
+        {
+          "word": "desharrapados",
+          "gloss": "ragged"
+        },
+        {
+          "word": "ennegrecido",
+          "gloss": "blackened"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-11",
+      "title": "El lago dividido",
+      "subtitle": "The divided lake",
+      "topic": "Travel",
+      "symbol": "ferry.fill",
+      "paragraphs": [
+        "En el estrecho de Tiquina, el lago Titicaca se angosta hasta casi tocarse a sí mismo, y los autobuses que van de Puno a La Paz tienen que cruzarlo en unas barcazas de madera que parecen sacadas de otro siglo. Los pasajeros bajan del autobús y cruzan en una lancha aparte; el vehículo, vacío, viaja solo sobre una plataforma que se balancea de un modo que desaconseja mirar. Durante diez minutos, el autobús y sus ocupantes navegan por separado, como un matrimonio que necesita un respiro.",
+        "Unos kilómetros antes, en Kasani, el viajero ha atravesado una frontera. Ha hecho cola delante de una ventanilla, ha recibido un sello en el pasaporte y ha caminado unos metros bajo un arco que anuncia, con letras pintadas, el comienzo de otro país. Lo curioso es que nada ha cambiado. Las mujeres llevan las mismas polleras de colores y los mismos sombreros bombín, los campos tienen las mismas terrazas incas, el viento tiene el mismo filo, y la gente habla, a ambos lados, la misma lengua aimara.",
+        "Las fronteras, vistas de cerca, tienen algo de ficción compartida. Son líneas que alguien trazó en un despacho, muchas veces sin haber pisado el terreno, y que luego millones de personas acordamos tomarnos en serio. El lago, que existía antes que los países, las ignora con una indiferencia majestuosa. Los peces cruzan sin pasaporte. Las nubes llegan de Bolivia y descargan en Perú sin pedir permiso a ninguna aduana.",
+        "Y sin embargo, sería ingenuo creer que las fronteras no importan solo porque sean inventadas. También lo son el dinero, las leyes y los idiomas, y ninguno de ellos es menos real por eso. Una señora aimara que viajaba a mi lado me lo explicó sin teoría alguna: en un lado del arco cobra su pensión, en el otro vive su hija. Para ella, la frontera no es una línea, sino un trayecto que hace dos veces al mes con una bolsa de quinua y una paciencia infinita.",
+        "Al otro lado del estrecho, el autobús nos esperaba, intacto, como un perro fiel. Volvimos a subir. Nadie comentó nada. El lago siguió a nuestra izquierda durante horas, azul e indiferente, perteneciendo a dos países y a ninguno."
+      ],
+      "english": [
+        [
+          "At the Strait of Tiquina, Lake Titicaca narrows until it almost touches itself, and the buses going from Puno to La Paz have to cross it on wooden barges that look as though they come from another century.",
+          "The passengers get off the bus and cross in a separate launch; the vehicle, empty, travels alone on a platform that sways in a way that makes it inadvisable to watch.",
+          "For ten minutes, the bus and its occupants sail separately, like a married couple in need of a break."
+        ],
+        [
+          "A few kilometres earlier, at Kasani, the traveller has crossed a border.",
+          "He has queued in front of a window, received a stamp in his passport and walked a few metres under an arch that announces, in painted letters, the beginning of another country.",
+          "The curious thing is that nothing has changed.",
+          "The women wear the same colourful layered skirts and the same bowler hats, the fields have the same Inca terraces, the wind has the same edge, and people speak, on both sides, the same Aymara language."
+        ],
+        [
+          "Borders, seen up close, have something of a shared fiction about them.",
+          "They are lines that someone drew in an office, often without ever having set foot on the ground, and that millions of us then agreed to take seriously.",
+          "The lake, which existed before the countries, ignores them with majestic indifference.",
+          "The fish cross without passports.",
+          "The clouds come from Bolivia and unload their rain on Peru without asking permission from any customs post."
+        ],
+        [
+          "And yet it would be naive to believe that borders don't matter just because they are invented.",
+          "So are money, laws and languages, and none of them is any less real for that.",
+          "An Aymara woman travelling next to me explained it to me without any theory at all: on one side of the arch she collects her pension, on the other her daughter lives.",
+          "For her, the border is not a line, but a journey she makes twice a month with a bag of quinoa and infinite patience."
+        ],
+        [
+          "On the other side of the strait, the bus was waiting for us, intact, like a faithful dog.",
+          "We got back on.",
+          "Nobody said anything.",
+          "The lake stayed on our left for hours, blue and indifferent, belonging to two countries and to none."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "se angosta",
+          "gloss": "narrows"
+        },
+        {
+          "word": "barcazas",
+          "gloss": "barges"
+        },
+        {
+          "word": "se balancea",
+          "gloss": "sways"
+        },
+        {
+          "word": "desaconseja",
+          "gloss": "makes inadvisable"
+        },
+        {
+          "word": "un respiro",
+          "gloss": "a break, breathing space"
+        },
+        {
+          "word": "ventanilla",
+          "gloss": "(service) window"
+        },
+        {
+          "word": "polleras",
+          "gloss": "full layered skirts (Andes)"
+        },
+        {
+          "word": "sombreros bombín",
+          "gloss": "bowler hats"
+        },
+        {
+          "word": "filo",
+          "gloss": "edge"
+        },
+        {
+          "word": "trazó",
+          "gloss": "drew, traced"
+        },
+        {
+          "word": "majestuosa",
+          "gloss": "majestic"
+        },
+        {
+          "word": "aduana",
+          "gloss": "customs"
+        },
+        {
+          "word": "ingenuo",
+          "gloss": "naive"
+        },
+        {
+          "word": "cobra",
+          "gloss": "collects (money)"
+        },
+        {
+          "word": "fiel",
+          "gloss": "faithful"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-12",
+      "title": "La rana de la fachada",
+      "subtitle": "The frog on the façade",
+      "topic": "Mystery",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "Dicen en Salamanca que el estudiante que encuentra la rana en la fachada de la universidad aprobará todos sus exámenes, y que el que no la encuentra tendrá que conformarse con estudiar. La rana, esculpida en piedra sobre una calavera, se esconde entre cientos de figuras: medallones, escudos, grutescos, santos, monstruos y querubines que se apiñan en el muro plateresco como pasajeros en un metro en hora punta. Encontrarla sin ayuda es, según la tradición, una prueba de agudeza. Con ayuda, es simplemente turismo.",
+        "Herminio Sastre, catedrático de Paleografía jubilado, llevaba cincuenta y tres años sin encontrarla. No por falta de oportunidades: había pasado delante de la fachada casi a diario desde 1971. Se había negado siempre, con una dignidad que rozaba la obstinación, a que nadie se la señalara. Los guías turísticos de la plaza lo conocían y, cada vez que lo veían plantado con la cabeza hacia atrás, le gritaban con sorna: «¿Qué, don Herminio, este año sí?» Él respondía siempre lo mismo, sin apartar la vista de la piedra: «Paciencia, que la rana no se va a mover.»",
+        "Una tarde de noviembre, mientras la niebla del Tormes empezaba a subir por las calles, Herminio la vio. No sobre la calavera, sino en otro lugar, mucho más arriba, en el borde de un medallón, diminuta, casi borrada por cinco siglos de lluvia. Se le aceleró el corazón. Sacó los prismáticos, comprobó, volvió a comprobar. Era una rana, sin duda alguna. Pero no era la rana. Era otra.",
+        "Durante semanas consultó planos, grabados antiguos y tesis doctorales. Ninguno mencionaba una segunda rana. Escribió un artículo minucioso, con fotografías ampliadas, y se lo envió a una revista especializada. Se lo rechazaron con una cortesía glacial: la figura, según los expertos, era una hoja de acanto deteriorada que solo un ojo predispuesto podía confundir con un batracio. Herminio no discutió. Guardó el artículo en un cajón y sonrió por primera vez en mucho tiempo.",
+        "Hoy sigue paseando cada tarde por la plaza. Cuando los guías le preguntan si ya ha encontrado la rana, contesta que no, con la misma dignidad de siempre. Es verdad, en cierto modo. Nunca encontró la que buscaba. Encontró la suya, y no piensa enseñársela a nadie. A veces, al pasar, la saluda con un leve movimiento de cabeza, como quien saluda a un viejo cómplice."
+      ],
+      "english": [
+        [
+          "In Salamanca they say that the student who finds the frog on the university's façade will pass all his exams, and that the one who doesn't find it will have to make do with studying.",
+          "The frog, carved in stone on top of a skull, hides among hundreds of figures: medallions, coats of arms, grotesques, saints, monsters and cherubs that crowd together on the Plateresque wall like passengers on the metro at rush hour.",
+          "Finding it without help is, according to tradition, a test of sharpness.",
+          "With help, it is simply tourism."
+        ],
+        [
+          "Herminio Sastre, a retired professor of Palaeography, had gone fifty-three years without finding it.",
+          "Not for lack of opportunities: he had walked past the façade almost daily since 1971.",
+          "He had always refused, with a dignity that bordered on obstinacy, to let anyone point it out to him.",
+          "The tour guides in the square knew him and, every time they saw him standing there with his head tilted back, they would shout at him mockingly: \"Well, Don Herminio, is this the year?\"",
+          "He always gave the same answer, without taking his eyes off the stone: \"Patience, the frog isn't going anywhere.\""
+        ],
+        [
+          "One November afternoon, as the mist from the Tormes began to creep up through the streets, Herminio saw it.",
+          "Not on the skull, but somewhere else, much higher up, on the edge of a medallion, tiny, almost worn away by five centuries of rain.",
+          "His heart began to race.",
+          "He took out his binoculars, checked, checked again.",
+          "It was a frog, without any doubt.",
+          "But it wasn't the frog.",
+          "It was another one."
+        ],
+        [
+          "For weeks he consulted plans, old engravings and doctoral theses.",
+          "None of them mentioned a second frog.",
+          "He wrote a meticulous article, with enlarged photographs, and sent it to a specialist journal.",
+          "They rejected it with glacial courtesy: the figure, according to the experts, was a weathered acanthus leaf that only a predisposed eye could mistake for an amphibian.",
+          "Herminio didn't argue.",
+          "He put the article in a drawer and smiled for the first time in a long while."
+        ],
+        [
+          "Today he still walks through the square every afternoon.",
+          "When the guides ask him if he has found the frog yet, he answers no, with the same dignity as ever.",
+          "It's true, in a way.",
+          "He never found the one he was looking for.",
+          "He found his own, and he has no intention of showing it to anyone.",
+          "Sometimes, as he passes, he greets it with a slight nod, like someone greeting an old accomplice."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "conformarse con",
+          "gloss": "to make do with"
+        },
+        {
+          "word": "calavera",
+          "gloss": "skull"
+        },
+        {
+          "word": "escudos",
+          "gloss": "coats of arms"
+        },
+        {
+          "word": "querubines",
+          "gloss": "cherubs"
+        },
+        {
+          "word": "agudeza",
+          "gloss": "sharpness, wit"
+        },
+        {
+          "word": "rozaba",
+          "gloss": "bordered on"
+        },
+        {
+          "word": "con sorna",
+          "gloss": "mockingly"
+        },
+        {
+          "word": "prismáticos",
+          "gloss": "binoculars"
+        },
+        {
+          "word": "grabados",
+          "gloss": "engravings"
+        },
+        {
+          "word": "minucioso",
+          "gloss": "meticulous"
+        },
+        {
+          "word": "acanto",
+          "gloss": "acanthus"
+        },
+        {
+          "word": "predispuesto",
+          "gloss": "predisposed"
+        },
+        {
+          "word": "batracio",
+          "gloss": "amphibian"
+        },
+        {
+          "word": "cajón",
+          "gloss": "drawer"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-13",
+      "title": "El molcajete",
+      "subtitle": "The mortar and pestle",
+      "topic": "Family",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Cuando murió la abuela Refugio, sus seis hijos se reunieron en la casa de Coyoacán para repartir la herencia con la solemnidad de un consejo de ministros y la cordialidad de una pelea de gallos. No había gran cosa que repartir: una casa con goteras, unos muebles de pino, una vajilla de Talavera incompleta y una cuenta de ahorros que no alcanzaba ni para el funeral. Pero había también el molcajete, y ahí empezó la guerra. Nadie lo había usado desde que la abuela dejó de cocinar, pero bastó con que alguien lo mencionara para que seis adultos se convirtieran en seis niños.",
+        "Era un molcajete de piedra volcánica, negro, pesado como un remordimiento, con tres patas cortas y una cabeza de cerdo tallada en el borde. La abuela lo había heredado de su madre, y esta de la suya, y según la leyenda familiar, había molido salsas para tres generaciones, dos revoluciones y una cantidad indeterminada de bodas, bautizos y velorios. Ninguno de los hermanos sabía cocinar especialmente bien. Todos lo querían.",
+        "Se dijeron cosas que llevaban cuarenta años guardadas. Que si tú eras la consentida, que si tú nunca venías a verla, que si tú te llevaste el anillo de la tía Chayo en 1987. El mayor alegó derechos de primogenitura; la menor, que había cuidado a la abuela los últimos años, alegó derechos de sacrificio. Hubo lágrimas, portazos y al menos una amenaza de abogado. El molcajete, ajeno a todo, presidía la mesa con su cara de cerdo impasible.",
+        "Fue Lucero, la nieta de quince años, quien encontró el sobre. Estaba debajo del molcajete, pegado con cinta adhesiva amarillenta, y llevaba escrito con la letra temblorosa de la abuela: «Para el que lo levante primero.» Dentro había una nota breve. La abuela explicaba que el molcajete solo servía para una cosa: para obligar a la familia a sentarse alrededor de una mesa mientras alguien preparaba la salsa. Pedía que se quedara en la casa, y que la casa no se vendiera mientras alguno de ellos supiera hacer una salsa decente.",
+        "Hubo un silencio largo. Después, el mayor se levantó, fue al mercado y volvió con jitomates, chiles y ajo. Esa noche, por primera vez en años, cenaron juntos. La salsa, todos lo reconocieron, era malísima. Se la comieron entera."
+      ],
+      "english": [
+        [
+          "When Grandma Refugio died, her six children gathered in the house in Coyoacán to divide up the inheritance with the solemnity of a cabinet meeting and the cordiality of a cockfight.",
+          "There wasn't much to divide: a house with leaks, some pine furniture, an incomplete set of Talavera crockery and a savings account that didn't even stretch to the funeral.",
+          "But there was also the molcajete, and that was where the war began.",
+          "Nobody had used it since Grandma stopped cooking, but it only took someone to mention it for six adults to turn into six children."
+        ],
+        [
+          "It was a mortar of volcanic stone, black, heavy as remorse, with three short legs and a pig's head carved on the rim.",
+          "Grandma had inherited it from her mother, and she from hers, and according to family legend it had ground sauces for three generations, two revolutions and an indeterminate number of weddings, baptisms and wakes.",
+          "None of the siblings could cook particularly well.",
+          "They all wanted it."
+        ],
+        [
+          "Things were said that had been stored up for forty years.",
+          "That you were the favourite, that you never came to see her, that you took Aunt Chayo's ring in 1987.",
+          "The eldest claimed the rights of the firstborn; the youngest, who had looked after Grandma in her last years, claimed the rights of sacrifice.",
+          "There were tears, slammed doors and at least one threat of lawyers.",
+          "The molcajete, oblivious to everything, presided over the table with its impassive pig's face."
+        ],
+        [
+          "It was Lucero, the fifteen-year-old granddaughter, who found the envelope.",
+          "It was underneath the molcajete, stuck down with yellowed sticky tape, and had written on it in Grandma's shaky handwriting: \"For whoever lifts it first.\"",
+          "Inside was a short note.",
+          "Grandma explained that the molcajete was only good for one thing: for making the family sit round a table while someone prepared the salsa.",
+          "She asked for it to stay in the house, and for the house not to be sold as long as any of them knew how to make a decent salsa."
+        ],
+        [
+          "There was a long silence.",
+          "Then the eldest got up, went to the market and came back with tomatoes, chillies and garlic.",
+          "That night, for the first time in years, they had dinner together.",
+          "The salsa, they all admitted, was terrible.",
+          "They ate every last bit of it."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "herencia",
+          "gloss": "inheritance"
+        },
+        {
+          "word": "pelea de gallos",
+          "gloss": "cockfight"
+        },
+        {
+          "word": "goteras",
+          "gloss": "leaks"
+        },
+        {
+          "word": "vajilla",
+          "gloss": "crockery, dinner service"
+        },
+        {
+          "word": "remordimiento",
+          "gloss": "remorse"
+        },
+        {
+          "word": "tallada",
+          "gloss": "carved"
+        },
+        {
+          "word": "velorios",
+          "gloss": "wakes"
+        },
+        {
+          "word": "la consentida",
+          "gloss": "the spoilt one, the favourite"
+        },
+        {
+          "word": "alegó",
+          "gloss": "claimed, argued"
+        },
+        {
+          "word": "primogenitura",
+          "gloss": "birthright of the firstborn"
+        },
+        {
+          "word": "portazos",
+          "gloss": "slammed doors"
+        },
+        {
+          "word": "ajeno a",
+          "gloss": "oblivious to"
+        },
+        {
+          "word": "impasible",
+          "gloss": "impassive"
+        },
+        {
+          "word": "cinta adhesiva",
+          "gloss": "sticky tape"
+        },
+        {
+          "word": "jitomates",
+          "gloss": "tomatoes (Mexico)"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-14",
+      "title": "Elogio de la garúa",
+      "subtitle": "In praise of the drizzle",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "En Lima no llueve. Lo dicen los manuales de geografía, lo repiten los guías turísticos y lo confirman los techos de las casas, planos como mesas, sin canaletas, que delatan una ciudad que nunca ha temido al cielo. Y, sin embargo, entre junio y octubre, los limeños salen a la calle con la ropa húmeda, el pelo encrespado y los anteojos empañados. No llueve, es cierto. Garúa.",
+        "La garúa no cae: flota. Es una lluvia que se ha quedado a medio camino, demasiado tímida para ser lluvia, demasiado empeñada para ser niebla. No se oye ni moja de golpe; se posa sobre las cosas con la paciencia de un rumor. Uno sale de casa seco y llega empapado sin haber visto caer una sola gota, como quien se enamora sin darse cuenta. Los paraguas, aquí, son un gesto inútil, casi una provocación.",
+        "Con la garúa llega la panza de burro, ese techo de nubes grises que cubre la ciudad durante meses como una tapa sobre una olla. Los forasteros la odian. Dicen que deprime, que Lima es la ciudad más triste del mundo, que vivir sin sol tanto tiempo es una forma de castigo. Los limeños, que tienen fama de quejarse de todo, rara vez se quejan de esto. Tal vez porque la conocen desde siempre. O tal vez porque han aprendido a ver en ese gris una variedad de matices que el visitante no alcanza a distinguir.",
+        "Porque el gris de Lima no es uno solo. Está el gris perla de las mañanas en Barranco, el gris plomo que se aplasta sobre el Callao, el gris lechoso que a veces se rasga sobre el mar y deja pasar, durante unos minutos, un rayo de luz tan inesperado que la gente se detiene en la calle a mirarlo. Hay que vivir mucho bajo la garúa para entender que esos minutos valen más que un verano entero de sol.",
+        "Hoy ha amanecido gris, como ayer y como mañana. Salgo a caminar sin paraguas. La garúa me encuentra en la esquina y me acompaña, discreta, hasta el malecón. No llueve. Pero vuelvo a casa mojado, y contento, y sin saber muy bien por qué."
+      ],
+      "english": [
+        [
+          "In Lima it doesn't rain.",
+          "The geography textbooks say so, the tour guides repeat it and the roofs of the houses confirm it, flat as tables, without gutters, betraying a city that has never feared the sky.",
+          "And yet, between June and October, the people of Lima go out into the street with damp clothes, frizzy hair and misted-up glasses.",
+          "It doesn't rain, that's true.",
+          "It drizzles."
+        ],
+        [
+          "The drizzle doesn't fall: it floats.",
+          "It is a rain that has stopped halfway, too shy to be rain, too persistent to be fog.",
+          "It can't be heard and it doesn't soak you all at once; it settles on things with the patience of a rumour.",
+          "You leave home dry and arrive drenched without having seen a single drop fall, like someone who falls in love without realising it.",
+          "Umbrellas, here, are a useless gesture, almost a provocation."
+        ],
+        [
+          "With the drizzle comes the \"donkey's belly\", that ceiling of grey clouds that covers the city for months like a lid on a pot.",
+          "Outsiders hate it.",
+          "They say it's depressing, that Lima is the saddest city in the world, that living without sun for so long is a form of punishment.",
+          "The people of Lima, who have a reputation for complaining about everything, rarely complain about this.",
+          "Perhaps because they have known it forever.",
+          "Or perhaps because they have learned to see in that grey a variety of shades that the visitor can't manage to make out."
+        ],
+        [
+          "Because Lima's grey is not just one.",
+          "There is the pearl grey of the mornings in Barranco, the lead grey that presses down on Callao, the milky grey that sometimes tears open over the sea and lets through, for a few minutes, a ray of light so unexpected that people stop in the street to look at it.",
+          "You have to live a long time under the drizzle to understand that those minutes are worth more than a whole summer of sunshine."
+        ],
+        [
+          "Today has dawned grey, like yesterday and like tomorrow.",
+          "I go out for a walk without an umbrella.",
+          "The drizzle finds me on the corner and keeps me company, discreetly, as far as the seafront.",
+          "It isn't raining.",
+          "But I come home wet, and happy, and without quite knowing why."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "canaletas",
+          "gloss": "gutters"
+        },
+        {
+          "word": "encrespado",
+          "gloss": "frizzy"
+        },
+        {
+          "word": "empañados",
+          "gloss": "misted up"
+        },
+        {
+          "word": "garúa",
+          "gloss": "fine drizzle (Peru)"
+        },
+        {
+          "word": "a medio camino",
+          "gloss": "halfway"
+        },
+        {
+          "word": "empeñada",
+          "gloss": "persistent, determined"
+        },
+        {
+          "word": "se posa",
+          "gloss": "settles"
+        },
+        {
+          "word": "panza de burro",
+          "gloss": "\"donkey's belly\" (Lima's grey winter sky)"
+        },
+        {
+          "word": "tapa",
+          "gloss": "lid"
+        },
+        {
+          "word": "olla",
+          "gloss": "pot"
+        },
+        {
+          "word": "matices",
+          "gloss": "shades, nuances"
+        },
+        {
+          "word": "plomo",
+          "gloss": "lead"
+        },
+        {
+          "word": "lechoso",
+          "gloss": "milky"
+        },
+        {
+          "word": "se rasga",
+          "gloss": "tears"
+        }
+      ]
+    },
+    {
+      "id": "es-c2-15",
+      "title": "Diagnóstico en línea",
+      "subtitle": "Online diagnosis",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Me desperté el martes con un leve dolor de cabeza y, antes de que el café estuviera listo, ya sabía que me quedaban tres semanas de vida. Lo había descubierto en internet, ese oráculo infatigable que, a diferencia del de Delfos, no se anda con ambigüedades. Bastó con escribir «dolor de cabeza por la mañana» para que el buscador me ofreciera, en ese orden, un tumor cerebral, una enfermedad tropical que no se ve en Europa desde el siglo dieciocho y, en la séptima página, la posibilidad de que hubiera dormido mal.",
+        "Los hipocondríacos de antes lo teníamos difícil. Había que leer enciclopedias, consultar a la vecina, esperar a la consulta del médico de cabecera para que nos negara, con desesperante tranquilidad, cualquier síntoma interesante. Hoy, en cambio, disponemos de foros donde miles de desconocidos comparten sus peores pronósticos con generosidad desinteresada, aplicaciones que miden nuestro pulso mientras dormimos y relojes que nos felicitan por haber andado diez mil pasos como si hubiéramos ganado una maratón. Nunca habíamos tenido tantas herramientas para preocuparnos con precisión.",
+        "Pasé el martes redactando mentalmente mi testamento y el miércoles despidiéndome de las plantas. El jueves, con la serenidad de los condenados, pedí cita en el centro de salud. La doctora, una mujer joven con cara de haber dormido cuatro horas, me escuchó durante dos minutos, me tomó la tensión y me preguntó cuánto café bebía. Le dije que unos cinco o seis al día. Me miró por encima de las gafas con una mezcla de pena y aburrimiento. Supe, antes de que abriera la boca, que mi tumor tropical estaba a punto de desaparecer.",
+        "El diagnóstico fue humillante: exceso de cafeína y, añadió con una sonrisa casi imperceptible, exceso de internet. Me recetó agua, paseos y una semana sin buscar síntomas en el móvil. Salí de la consulta aliviado y, debo confesarlo, un poco decepcionado. Uno se prepara para una tragedia y le dan una comedia de enredo. Ni siquiera me dio un nombre en latín que contar a mis amigos.",
+        "Ya llevo cuatro días sin consultar al oráculo. Me encuentro estupendamente. He dormido como un niño y he redescubierto el placer de no saber nada sobre mi propio hígado. Esta mañana, eso sí, me ha dolido un poco la rodilla izquierda. No pienso buscarlo. Aunque, ahora que lo pienso, tampoco pasaría nada por echar un vistazo rápido."
+      ],
+      "english": [
+        [
+          "I woke up on Tuesday with a slight headache and, before the coffee was ready, I already knew I had three weeks to live.",
+          "I had found it out on the internet, that tireless oracle which, unlike the one at Delphi, doesn't deal in ambiguities.",
+          "All it took was typing \"headache in the morning\" for the search engine to offer me, in this order, a brain tumour, a tropical disease not seen in Europe since the eighteenth century and, on the seventh page, the possibility that I had slept badly."
+        ],
+        [
+          "We hypochondriacs of old had it hard.",
+          "You had to read encyclopaedias, consult the neighbour, wait for an appointment with the GP so that he could deny us, with exasperating calm, any interesting symptom.",
+          "Today, on the other hand, we have forums where thousands of strangers share their worst prognoses with selfless generosity, apps that measure our pulse while we sleep and watches that congratulate us on having walked ten thousand steps as if we had won a marathon.",
+          "We have never had so many tools for worrying with precision."
+        ],
+        [
+          "I spent Tuesday mentally drafting my will and Wednesday saying goodbye to my plants.",
+          "On Thursday, with the serenity of the condemned, I made an appointment at the health centre.",
+          "The doctor, a young woman who looked as though she had slept four hours, listened to me for two minutes, took my blood pressure and asked me how much coffee I drank.",
+          "I told her about five or six a day.",
+          "She looked at me over her glasses with a mixture of pity and boredom.",
+          "I knew, before she opened her mouth, that my tropical tumour was about to disappear."
+        ],
+        [
+          "The diagnosis was humiliating: too much caffeine and, she added with an almost imperceptible smile, too much internet.",
+          "She prescribed water, walks and a week without looking up symptoms on my phone.",
+          "I left the surgery relieved and, I must confess, a little disappointed.",
+          "You prepare yourself for a tragedy and they give you a farce.",
+          "She didn't even give me a Latin name to tell my friends."
+        ],
+        [
+          "I've now gone four days without consulting the oracle.",
+          "I feel great.",
+          "I've slept like a baby and rediscovered the pleasure of knowing nothing about my own liver.",
+          "This morning, admittedly, my left knee hurt a little.",
+          "I have no intention of looking it up.",
+          "Although, now that I think about it, there'd be no harm in having a quick look."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "leve",
+          "gloss": "slight"
+        },
+        {
+          "word": "infatigable",
+          "gloss": "tireless"
+        },
+        {
+          "word": "buscador",
+          "gloss": "search engine"
+        },
+        {
+          "word": "hipocondríacos",
+          "gloss": "hypochondriacs"
+        },
+        {
+          "word": "médico de cabecera",
+          "gloss": "GP, family doctor"
+        },
+        {
+          "word": "pronósticos",
+          "gloss": "prognoses"
+        },
+        {
+          "word": "desinteresada",
+          "gloss": "selfless"
+        },
+        {
+          "word": "testamento",
+          "gloss": "will"
+        },
+        {
+          "word": "condenados",
+          "gloss": "the condemned"
+        },
+        {
+          "word": "tensión",
+          "gloss": "blood pressure"
+        },
+        {
+          "word": "imperceptible",
+          "gloss": "imperceptible"
+        },
+        {
+          "word": "me recetó",
+          "gloss": "prescribed me"
+        },
+        {
+          "word": "decepcionado",
+          "gloss": "disappointed"
+        },
+        {
+          "word": "comedia de enredo",
+          "gloss": "farce, comedy of errors"
+        },
+        {
+          "word": "echar un vistazo",
+          "gloss": "to have a look"
+        }
+      ]
+    }
+  ]
+}

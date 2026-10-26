@@ -1,0 +1,1416 @@
+{
+  "language": "es",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "es-c1-01",
+      "title": "Se buscan vecinos",
+      "subtitle": "Neighbours wanted",
+      "topic": "Society",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "El anuncio apareció en internet en pleno invierno y se hizo viral en cuestión de horas: «Pueblo de Soria ofrece casa, trabajo y escuela a familias con hijos. Abstenerse quienes busquen una segunda residencia.» Lo había redactado Elena Marín, alcaldesa de Valdecastro, un municipio de cuarenta y tres habitantes cuya media de edad supera los setenta años. «O hacíamos algo o en diez años aquí no quedaba ni el apuntador», resume sin rodeos.",
+        "Valdecastro es uno de los cientos de pueblos de lo que se ha dado en llamar la España vaciada: un territorio enorme del interior peninsular que, desde los años sesenta, ha ido perdiendo población a medida que los jóvenes emigraban a las ciudades. La provincia de Soria tiene una densidad de población comparable a la de Laponia. Las consecuencias son conocidas: escuelas que cierran, consultorios médicos que abren un día a la semana, autobuses que dejan de pasar.",
+        "En pocas semanas, el Ayuntamiento recibió más de dos mil solicitudes, procedentes de lugares tan dispares como Madrid, Caracas o Rosario. La selección no fue fácil. Elena y un pequeño comité de vecinos entrevistaron a decenas de candidatos por videollamada. «Buscábamos gente que supiera dónde se metía», explica. «Aquí el invierno es largo, el supermercado está a treinta kilómetros y no hay cine. Si vienes con una idea romántica del campo, a los tres meses te vas por donde has venido.»",
+        "Finalmente se instalaron cuatro familias: dos españolas, una venezolana y una argentina. Entre todas suman nueve niños, suficientes para que la escuela, cerrada desde 2009, haya vuelto a abrir sus puertas. Los primeros meses no estuvieron exentos de roces, sobre todo por el ruido y las costumbres. Pero este verano, en las fiestas del pueblo, la orquesta tocó cumbia por primera vez en su historia. Y, según cuentan, el más entusiasta en la pista fue Aurelio, de ochenta y nueve años, que no había bailado desde que murió su mujer."
+      ],
+      "english": [
+        [
+          "The ad appeared online in the middle of winter and went viral in a matter of hours: \"Village in Soria offers a house, work and a school to families with children. People looking for a second home need not apply.\"",
+          "It had been written by Elena Marín, mayor of Valdecastro, a municipality of forty-three inhabitants whose average age is over seventy.",
+          "\"Either we did something or in ten years there wouldn't be a soul left here,\" she sums up bluntly."
+        ],
+        [
+          "Valdecastro is one of the hundreds of villages in what has come to be called \"emptied Spain\": an enormous area of the peninsula's interior which, since the sixties, has gradually been losing population as young people emigrated to the cities.",
+          "The province of Soria has a population density comparable to that of Lapland.",
+          "The consequences are well known: schools that close, doctor's surgeries that open one day a week, buses that stop running."
+        ],
+        [
+          "In a few weeks, the Council received more than two thousand applications, from places as different as Madrid, Caracas and Rosario.",
+          "The selection wasn't easy.",
+          "Elena and a small committee of residents interviewed dozens of candidates by video call.",
+          "\"We were looking for people who knew what they were getting into,\" she explains.",
+          "\"Here the winter is long, the supermarket is thirty kilometres away and there's no cinema. If you come with a romantic idea of the countryside, after three months you'll go back the way you came.\""
+        ],
+        [
+          "In the end four families settled there: two Spanish, one Venezuelan and one Argentine.",
+          "Between them they have nine children, enough for the school, closed since 2009, to have reopened its doors.",
+          "The first months were not free of friction, above all over noise and customs.",
+          "But this summer, at the village fiesta, the band played cumbia for the first time in its history.",
+          "And, so they say, the most enthusiastic person on the dance floor was Aurelio, eighty-nine, who hadn't danced since his wife died."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "en cuestión de horas",
+          "gloss": "in a matter of hours"
+        },
+        {
+          "word": "abstenerse",
+          "gloss": "need not apply (lit. refrain)"
+        },
+        {
+          "word": "redactado",
+          "gloss": "written, drafted"
+        },
+        {
+          "word": "no quedaba ni el apuntador",
+          "gloss": "there wouldn't be a soul left"
+        },
+        {
+          "word": "sin rodeos",
+          "gloss": "bluntly, without beating about the bush"
+        },
+        {
+          "word": "se ha dado en llamar",
+          "gloss": "has come to be called"
+        },
+        {
+          "word": "a medida que",
+          "gloss": "as"
+        },
+        {
+          "word": "consultorios",
+          "gloss": "doctor's surgeries"
+        },
+        {
+          "word": "dispares",
+          "gloss": "disparate, very different"
+        },
+        {
+          "word": "dónde se metía",
+          "gloss": "what they were getting into"
+        },
+        {
+          "word": "por donde has venido",
+          "gloss": "the way you came"
+        },
+        {
+          "word": "exentos de",
+          "gloss": "free of"
+        },
+        {
+          "word": "roces",
+          "gloss": "friction"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-02",
+      "title": "Nostalgia de lo no vivido",
+      "subtitle": "Nostalgia for what we never lived",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Hay una forma de nostalgia que me resulta especialmente curiosa: la que sentimos por épocas que nunca conocimos. Basta con ver la cantidad de jóvenes que compran tocadiscos, revelan fotos analógicas o escuchan boleros de los años cincuenta para comprobar que el fenómeno está muy extendido. Ninguno de ellos vivió aquellos tiempos y, sin embargo, los echan de menos con una intensidad que a veces supera a la de quienes sí los vivieron.",
+        "A primera vista, podría parecer una simple moda, alimentada por el mercado y por las redes sociales. Algo de eso hay, sin duda. Pero creo que la explicación va más allá. El pasado que idealizamos tiene una ventaja indiscutible sobre el presente: ya está terminado. Sabemos cómo acabó, no nos exige decisiones y, sobre todo, lo vemos filtrado por lo que ha sobrevivido, que suele ser lo más bello. Nadie siente nostalgia de las colas del racionamiento ni de las cartas que tardaban un mes en llegar.",
+        "Mi abuela, que vivió la posguerra en un pueblo de Jaén, se reía cuando le contaba que mis amigas buscaban vestidos de su época en tiendas de segunda mano. «Si supierais el frío que pasábamos con esos vestidos», decía. Para ella, el pasado no era una estética, sino una lista de cosas que, por fin, no tenía que volver a soportar. Tal vez por eso la nostalgia de lo no vivido sea, en el fondo, un lujo de quienes nunca han pasado verdadera necesidad.",
+        "Y, sin embargo, no me atrevo a despreciarla del todo. Quizás lo que añoramos no son los tocadiscos, sino la lentitud que imponían: tener que levantarse a dar la vuelta al disco, esperar a que se revelaran las fotos, escribir una carta sabiendo que no habría respuesta inmediata. Si es así, la nostalgia no mira hacia atrás, sino que nos señala algo que echamos en falta aquí y ahora. Y eso, más que un capricho, es una pista."
+      ],
+      "english": [
+        [
+          "There is one form of nostalgia that I find particularly curious: the kind we feel for eras we never knew.",
+          "You only have to look at the number of young people who buy record players, develop analogue photos or listen to boleros from the fifties to see that the phenomenon is very widespread.",
+          "None of them lived through those times and yet they miss them with an intensity that sometimes exceeds that of those who actually did."
+        ],
+        [
+          "At first sight, it might seem a mere fashion, fuelled by the market and by social media.",
+          "There is some of that, no doubt.",
+          "But I think the explanation goes further.",
+          "The past we idealise has one indisputable advantage over the present: it is already over.",
+          "We know how it ended, it demands no decisions from us and, above all, we see it filtered through what has survived, which tends to be the most beautiful part.",
+          "Nobody feels nostalgic about ration queues or letters that took a month to arrive."
+        ],
+        [
+          "My grandmother, who lived through the post-war years in a village in Jaén, used to laugh when I told her that my friends were looking for dresses from her era in second-hand shops.",
+          "\"If only you knew how cold we were in those dresses,\" she used to say.",
+          "For her, the past was not an aesthetic, but a list of things that, at last, she didn't have to put up with again.",
+          "Perhaps that's why nostalgia for what we never lived is, deep down, a luxury of those who have never known real hardship."
+        ],
+        [
+          "And yet I don't dare dismiss it entirely.",
+          "Perhaps what we long for isn't the record players, but the slowness they imposed: having to get up to turn the record over, waiting for the photos to be developed, writing a letter knowing there would be no immediate reply.",
+          "If so, nostalgia doesn't look backwards, but points to something we are missing here and now.",
+          "And that, more than a whim, is a clue."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tocadiscos",
+          "gloss": "record players"
+        },
+        {
+          "word": "echan de menos",
+          "gloss": "miss"
+        },
+        {
+          "word": "alimentada",
+          "gloss": "fuelled"
+        },
+        {
+          "word": "algo de eso hay",
+          "gloss": "there's some truth in that"
+        },
+        {
+          "word": "indiscutible",
+          "gloss": "indisputable"
+        },
+        {
+          "word": "racionamiento",
+          "gloss": "rationing"
+        },
+        {
+          "word": "posguerra",
+          "gloss": "post-war period"
+        },
+        {
+          "word": "soportar",
+          "gloss": "to put up with"
+        },
+        {
+          "word": "en el fondo",
+          "gloss": "deep down"
+        },
+        {
+          "word": "pasado verdadera necesidad",
+          "gloss": "known real hardship"
+        },
+        {
+          "word": "despreciarla",
+          "gloss": "to dismiss it, look down on it"
+        },
+        {
+          "word": "añoramos",
+          "gloss": "we long for"
+        },
+        {
+          "word": "echamos en falta",
+          "gloss": "we miss"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-03",
+      "title": "Erratas",
+      "subtitle": "Misprints",
+      "topic": "Mystery",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Laura trabajaba como correctora para una editorial pequeña de Buenos Aires desde hacía quince años y tenía fama de no dejar pasar ni una coma. Por eso le llamó la atención la novela de Tomás Ferrer, un autor joven que nadie conocía. El texto era impecable, casi perfecto, salvo por unas erratas tan extrañas que parecían deliberadas: una letra de más aquí, una mayúscula sin sentido allá, siempre en la página trece de cada capítulo.",
+        "Al principio las corrigió sin pensar. Pero en el cuarto capítulo se detuvo y, por pura curiosidad, copió en un papel las letras sobrantes. Formaban una palabra: «LAURA». Sintió un escalofrío. Revisó los capítulos siguientes. Las letras decían, en orden: «LAURA, ¿TE ACORDÁS DEL LIBRO DE TAPAS VERDES?» Dejó caer el lápiz. Recordaba perfectamente aquel libro: lo había perdido a los once años en un tren a Mar del Plata, con una dedicatoria de su padre en la primera página.",
+        "Pidió a la editorial el teléfono del autor, pero le dijeron que solo se comunicaba por correo electrónico. Le escribió esa misma noche, sin rodeos: «¿Quién sos y qué sabés de mí?» La respuesta llegó al amanecer. Tomás le contó que su madre había encontrado un libro de tapas verdes en un tren hacía treinta años y que él había crecido leyéndolo. En la dedicatoria decía: «Para Laura, que corrige hasta mis cuentos. Papá.» Cuando la editorial que había aceptado su novela le dio el nombre de la correctora, no pudo resistir la tentación de comprobar si era la misma Laura.",
+        "Una semana después, se encontraron en un café de Palermo. Él le devolvió el libro, con las tapas gastadas y la dedicatoria intacta. Ella le devolvió las pruebas de su novela, con todas las erratas corregidas menos una. «Esa dejala», le dijo. «Es la mejor del libro.»"
+      ],
+      "english": [
+        [
+          "Laura had worked as a proofreader for a small publishing house in Buenos Aires for fifteen years and was known for not letting a single comma slip past.",
+          "That's why Tomás Ferrer's novel caught her attention; he was a young author nobody knew.",
+          "The text was impeccable, almost perfect, except for some misprints so strange that they seemed deliberate: an extra letter here, a meaningless capital there, always on page thirteen of each chapter."
+        ],
+        [
+          "At first she corrected them without thinking.",
+          "But in the fourth chapter she stopped and, out of pure curiosity, copied the leftover letters onto a piece of paper.",
+          "They formed a word: \"LAURA\".",
+          "She felt a shiver.",
+          "She checked the following chapters.",
+          "The letters said, in order: \"LAURA, DO YOU REMEMBER THE BOOK WITH THE GREEN COVERS?\"",
+          "She dropped her pencil.",
+          "She remembered that book perfectly: she had lost it at the age of eleven on a train to Mar del Plata, with a dedication from her father on the first page."
+        ],
+        [
+          "She asked the publisher for the author's phone number, but they told her he only communicated by email.",
+          "She wrote to him that same night, bluntly: \"Who are you and what do you know about me?\"",
+          "The reply arrived at dawn.",
+          "Tomás told her that his mother had found a book with green covers on a train thirty years before and that he had grown up reading it.",
+          "The dedication said: \"For Laura, who even corrects my stories. Dad.\"",
+          "When the publisher that had accepted his novel gave him the proofreader's name, he couldn't resist the temptation to check whether it was the same Laura."
+        ],
+        [
+          "A week later, they met in a café in Palermo.",
+          "He gave her back the book, its covers worn and the dedication intact.",
+          "She gave him back the proofs of his novel, with all the misprints corrected except one.",
+          "\"Leave that one,\" she told him.",
+          "\"It's the best one in the book.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "correctora",
+          "gloss": "proofreader"
+        },
+        {
+          "word": "editorial",
+          "gloss": "publishing house"
+        },
+        {
+          "word": "no dejar pasar ni una coma",
+          "gloss": "not letting a single comma slip past"
+        },
+        {
+          "word": "le llamó la atención",
+          "gloss": "caught her attention"
+        },
+        {
+          "word": "impecable",
+          "gloss": "impeccable"
+        },
+        {
+          "word": "erratas",
+          "gloss": "misprints"
+        },
+        {
+          "word": "sobrantes",
+          "gloss": "leftover"
+        },
+        {
+          "word": "escalofrío",
+          "gloss": "shiver"
+        },
+        {
+          "word": "tapas",
+          "gloss": "covers (of a book)"
+        },
+        {
+          "word": "gastadas",
+          "gloss": "worn"
+        },
+        {
+          "word": "pruebas",
+          "gloss": "proofs"
+        },
+        {
+          "word": "dejala",
+          "gloss": "leave it (voseo)"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-04",
+      "title": "La bailaora de Osaka",
+      "subtitle": "The flamenco dancer from Osaka",
+      "topic": "Culture",
+      "symbol": "theatermasks.fill",
+      "paragraphs": [
+        "Cuando Keiko Tanaka pisó por primera vez un tablao de Jerez de la Frontera, hace casi veinte años, el público la miró con una mezcla de curiosidad y escepticismo. Una japonesa bailando por bulerías en la cuna del flamenco sonaba, como poco, a atrevimiento. Hoy dirige una de las academias más prestigiosas de la ciudad, y entre sus alumnos hay gitanos jerezanos cuyos abuelos ya bailaban en las fiestas del barrio de Santiago.",
+        "Japón es, después de España, el país con más academias de flamenco del mundo, un dato que suele sorprender a quien lo oye por primera vez. Keiko descubrió este arte a los quince años, en una actuación en Osaka, y asegura que fue como reconocer una lengua que ya hablaba sin saberlo. «En Japón nos educan para contener las emociones», explica. «El flamenco me dio permiso para sacarlas. Al principio me daba vergüenza; luego ya no hubo quien me parara.»",
+        "Su llegada a Jerez no fue un camino de rosas. Durante años trabajó de camarera mientras tomaba clases con maestras que no le regalaban nada. Una de ellas, ya fallecida, le dijo un día delante de toda la clase que bailaba «como un reloj suizo: perfecta y sin alma». Keiko pasó la noche llorando. A la mañana siguiente volvió a clase, y siguió volviendo durante seis años más, hasta que la misma maestra, al final de un ensayo, se limitó a decirle: «Ahora sí.»",
+        "Cuando se le pregunta si una extranjera puede llegar a sentir el flamenco como alguien nacido en Jerez, Keiko no se anda con rodeos. «Esa pregunta me la han hecho mil veces», contesta, con un acento andaluz que delata dos décadas en la ciudad. «El flamenco nació de gente que lo había perdido todo y que tenía que expresar su dolor. El dolor no tiene pasaporte. Lo que sí tiene son horas de trabajo, y esas no se heredan: se sudan.»"
+      ],
+      "english": [
+        [
+          "When Keiko Tanaka first set foot on the stage of a flamenco venue in Jerez de la Frontera, almost twenty years ago, the audience looked at her with a mixture of curiosity and scepticism.",
+          "A Japanese woman dancing bulerías in the cradle of flamenco seemed, to say the least, rather daring.",
+          "Today she runs one of the most prestigious academies in the city, and among her students are Roma from Jerez whose grandparents were already dancing at the parties of the Santiago neighbourhood."
+        ],
+        [
+          "Japan is, after Spain, the country with the most flamenco academies in the world, a fact that tends to surprise people hearing it for the first time.",
+          "Keiko discovered this art at fifteen, at a performance in Osaka, and says it was like recognising a language she already spoke without knowing it.",
+          "\"In Japan we are brought up to hold back our emotions,\" she explains.",
+          "\"Flamenco gave me permission to let them out. At first I was embarrassed; after that, there was no stopping me.\""
+        ],
+        [
+          "Her arrival in Jerez was no bed of roses.",
+          "For years she worked as a waitress while taking classes with teachers who didn't give her anything for free.",
+          "One of them, now deceased, told her one day in front of the whole class that she danced \"like a Swiss watch: perfect and soulless\".",
+          "Keiko spent the night crying.",
+          "The next morning she went back to class, and kept going back for six more years, until the same teacher, at the end of a rehearsal, simply said to her: \"Now you've got it.\""
+        ],
+        [
+          "When she is asked whether a foreigner can come to feel flamenco like someone born in Jerez, Keiko doesn't beat about the bush.",
+          "\"I've been asked that question a thousand times,\" she answers, with an Andalusian accent that gives away two decades in the city.",
+          "\"Flamenco was born of people who had lost everything and had to express their pain. Pain doesn't have a passport. What it does have is hours of work, and you don't inherit those: you sweat for them.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "pisó",
+          "gloss": "set foot on"
+        },
+        {
+          "word": "tablao",
+          "gloss": "flamenco venue"
+        },
+        {
+          "word": "cuna",
+          "gloss": "cradle, birthplace"
+        },
+        {
+          "word": "como poco",
+          "gloss": "to say the least"
+        },
+        {
+          "word": "atrevimiento",
+          "gloss": "daring, audacity"
+        },
+        {
+          "word": "no hubo quien me parara",
+          "gloss": "there was no stopping me"
+        },
+        {
+          "word": "un camino de rosas",
+          "gloss": "a bed of roses"
+        },
+        {
+          "word": "no le regalaban nada",
+          "gloss": "didn't give her anything for free"
+        },
+        {
+          "word": "fallecida",
+          "gloss": "deceased"
+        },
+        {
+          "word": "se limitó a",
+          "gloss": "simply, merely"
+        },
+        {
+          "word": "no se anda con rodeos",
+          "gloss": "doesn't beat about the bush"
+        },
+        {
+          "word": "delata",
+          "gloss": "gives away, betrays"
+        },
+        {
+          "word": "se sudan",
+          "gloss": "you sweat for them"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-05",
+      "title": "La ficha que faltaba",
+      "subtitle": "The missing domino",
+      "topic": "Friends",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Durante treinta años, Ramiro, Pancho, Chucho y Ovidio jugaron al dominó todas las tardes en el mismo portal de Centro Habana, en una mesa plegable que Ovidio sacaba de su casa a las cinco en punto. Jugaban por parejas, con un rigor de notarios y una capacidad para discutir que asombraba a los vecinos. Hasta que, en 1994, Pancho se fue en una balsa una madrugada sin despedirse de nadie.",
+        "Los otros tres siguieron jugando, pero ya nada era igual. Buscaron sustitutos: un primo de Chucho, un profesor jubilado, el hijo del bodeguero. Ninguno duró. No es que jugaran mal, decía Ramiro, es que no sabían perder con elegancia ni ganar con mala leche, que era lo que había hecho Pancho toda la vida. Con los años, la partida se convirtió en un juego para tres, con una silla vacía que nadie se atrevía a retirar.",
+        "Pasaron casi tres décadas. Ovidio enfermó, Chucho se quedó medio ciego y Ramiro tuvo que operarse de la cadera. Hasta que una tarde de febrero, un hombre muy flaco, con gorra de los Marlins de Miami y una maleta de ruedas, se detuvo delante de la mesa. Los tres viejos levantaron la vista. Nadie dijo nada. El recién llegado se sentó en la silla vacía, sacó del bolsillo una ficha de dominó amarillenta, el doble seis, y la puso sobre la mesa.",
+        "Ovidio fue el primero en hablar. «Así que eras tú, desgraciado», murmuró. «Treinta años jugando con un juego incompleto.» Pancho se encogió de hombros: se la había llevado como recuerdo y no se atrevió a mandarla por correo, por si se perdía. Esa tarde jugaron hasta que se fue la luz, como en los viejos tiempos. Perdieron Pancho y Chucho. Discutieron igual que siempre. Y, por primera vez en treinta años, ninguno tuvo prisa por recoger la mesa."
+      ],
+      "english": [
+        [
+          "For thirty years, Ramiro, Pancho, Chucho and Ovidio played dominoes every afternoon in the same doorway in Centro Habana, on a folding table that Ovidio brought out of his house at five o'clock sharp.",
+          "They played in pairs, with the rigour of notaries and a capacity for arguing that amazed the neighbours.",
+          "Until, in 1994, Pancho left on a raft one early morning without saying goodbye to anyone."
+        ],
+        [
+          "The other three carried on playing, but nothing was the same any more.",
+          "They looked for substitutes: a cousin of Chucho's, a retired teacher, the grocer's son.",
+          "None of them lasted.",
+          "It wasn't that they played badly, Ramiro said, it was that they didn't know how to lose gracefully or win spitefully, which was what Pancho had done all his life.",
+          "Over the years, the game became a game for three, with an empty chair that nobody dared take away."
+        ],
+        [
+          "Almost three decades went by.",
+          "Ovidio fell ill, Chucho went half blind and Ramiro had to have a hip operation.",
+          "Until one afternoon in February, a very thin man, in a Miami Marlins cap and with a wheeled suitcase, stopped in front of the table.",
+          "The three old men looked up.",
+          "Nobody said anything.",
+          "The newcomer sat down in the empty chair, took a yellowed domino out of his pocket, the double six, and put it on the table."
+        ],
+        [
+          "Ovidio was the first to speak.",
+          "\"So it was you, you wretch,\" he muttered.",
+          "\"Thirty years playing with an incomplete set.\"",
+          "Pancho shrugged: he had taken it as a keepsake and hadn't dared send it by post, in case it got lost.",
+          "That afternoon they played until the power went off, like in the old days.",
+          "Pancho and Chucho lost.",
+          "They argued the same as ever.",
+          "And, for the first time in thirty years, none of them was in a hurry to clear the table."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "plegable",
+          "gloss": "folding"
+        },
+        {
+          "word": "rigor",
+          "gloss": "rigour"
+        },
+        {
+          "word": "asombraba",
+          "gloss": "amazed"
+        },
+        {
+          "word": "balsa",
+          "gloss": "raft"
+        },
+        {
+          "word": "bodeguero",
+          "gloss": "grocer, shopkeeper"
+        },
+        {
+          "word": "con mala leche",
+          "gloss": "spitefully, with bad grace"
+        },
+        {
+          "word": "cadera",
+          "gloss": "hip"
+        },
+        {
+          "word": "flaco",
+          "gloss": "thin"
+        },
+        {
+          "word": "amarillenta",
+          "gloss": "yellowed"
+        },
+        {
+          "word": "desgraciado",
+          "gloss": "wretch"
+        },
+        {
+          "word": "se encogió de hombros",
+          "gloss": "shrugged"
+        },
+        {
+          "word": "se fue la luz",
+          "gloss": "the power went off"
+        },
+        {
+          "word": "recoger",
+          "gloss": "to clear (away)"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-06",
+      "title": "La voz que ya no era suya",
+      "subtitle": "The voice that was no longer hers",
+      "topic": "Technology",
+      "symbol": "cpu",
+      "paragraphs": [
+        "Durante veinticinco años, la voz de Marta Iglesias fue una de las más conocidas de España, aunque casi nadie supiera cómo era su cara. Había doblado a decenas de actrices de Hollywood, a una princesa de dibujos animados y, durante una temporada, a la voz que anunciaba las estaciones en el metro de Madrid. Su timbre, cálido y ligeramente ronco, era su herramienta de trabajo y, en cierto modo, su identidad.",
+        "Una noche, su hija le enseñó en el móvil un anuncio de una marca de seguros. La voz que hablaba era la suya: las mismas pausas, la misma forma de alargar las vocales al final de las frases. Pero Marta nunca había grabado ese anuncio. Tardó varios días en averiguar lo que había pasado. Una empresa había entrenado un programa de inteligencia artificial con horas de sus doblajes, sin pedirle permiso, y vendía su voz clonada a quien quisiera pagarla.",
+        "Lo que más le dolió no fue el dinero, sino la sensación de haber sido despojada de algo íntimo. «Es como si alguien se pusiera tu ropa, entrara en tu casa y saludara a tus vecinos haciéndose pasar por ti», explica. Los abogados le advirtieron que la ley iba muy por detrás de la tecnología y que el proceso podía durar años. Aun así, Marta decidió dar la batalla, y pronto se le unieron otros dobladores que habían descubierto casos parecidos.",
+        "Dos años después, un juzgado de Madrid le dio la razón en una sentencia pionera que reconoce la voz como parte de la imagen de una persona. La empresa tuvo que retirar los anuncios y pagar una indemnización. Marta sigue doblando, pero ahora incluye en todos sus contratos una cláusula que prohíbe usar sus grabaciones para entrenar máquinas. «Me pueden copiar el sonido», dice, «pero no lo que pienso cuando hablo. Eso, de momento, sigue siendo mío.»"
+      ],
+      "english": [
+        [
+          "For twenty-five years, Marta Iglesias's voice was one of the best known in Spain, even though hardly anyone knew what her face looked like.",
+          "She had dubbed dozens of Hollywood actresses, a cartoon princess and, for a while, the voice that announced the stations on the Madrid metro.",
+          "Her timbre, warm and slightly husky, was the tool of her trade and, in a way, her identity."
+        ],
+        [
+          "One night, her daughter showed her an advert for an insurance brand on her phone.",
+          "The voice speaking was hers: the same pauses, the same way of drawing out the vowels at the end of sentences.",
+          "But Marta had never recorded that advert.",
+          "It took her several days to find out what had happened.",
+          "A company had trained an artificial intelligence program on hours of her dubbing, without asking her permission, and was selling her cloned voice to anyone willing to pay for it."
+        ],
+        [
+          "What hurt her most wasn't the money, but the feeling of having been stripped of something intimate.",
+          "\"It's as if someone put on your clothes, walked into your house and greeted your neighbours pretending to be you,\" she explains.",
+          "The lawyers warned her that the law lagged far behind the technology and that the process could take years.",
+          "Even so, Marta decided to put up a fight, and she was soon joined by other dubbing actors who had discovered similar cases."
+        ],
+        [
+          "Two years later, a court in Madrid ruled in her favour in a groundbreaking judgment that recognises the voice as part of a person's image.",
+          "The company had to withdraw the adverts and pay compensation.",
+          "Marta still does dubbing, but now she includes in all her contracts a clause that forbids using her recordings to train machines.",
+          "\"They can copy the sound,\" she says, \"but not what I'm thinking when I speak. That, for now, is still mine.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "doblado",
+          "gloss": "dubbed"
+        },
+        {
+          "word": "timbre",
+          "gloss": "timbre (quality of a voice)"
+        },
+        {
+          "word": "ronco",
+          "gloss": "husky, hoarse"
+        },
+        {
+          "word": "en cierto modo",
+          "gloss": "in a way"
+        },
+        {
+          "word": "alargar",
+          "gloss": "to draw out, lengthen"
+        },
+        {
+          "word": "averiguar",
+          "gloss": "to find out"
+        },
+        {
+          "word": "despojada",
+          "gloss": "stripped, deprived"
+        },
+        {
+          "word": "haciéndose pasar por",
+          "gloss": "pretending to be"
+        },
+        {
+          "word": "iba muy por detrás de",
+          "gloss": "lagged far behind"
+        },
+        {
+          "word": "dar la batalla",
+          "gloss": "to put up a fight"
+        },
+        {
+          "word": "le dio la razón",
+          "gloss": "ruled in her favour"
+        },
+        {
+          "word": "pionera",
+          "gloss": "groundbreaking"
+        },
+        {
+          "word": "indemnización",
+          "gloss": "compensation"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-07",
+      "title": "El coro de los desafinados",
+      "subtitle": "The out-of-tune choir",
+      "topic": "Free time",
+      "symbol": "music.note",
+      "paragraphs": [
+        "El cartel que Begoña colgó en el centro cívico de su barrio, en Zaragoza, no dejaba lugar a dudas: «Se busca gente para un coro. Imprescindible cantar mal.» Begoña, profesora de música en un instituto, estaba harta de que tantos adultos le confesaran que nunca cantaban en público porque, de pequeños, alguien les había dicho que desafinaban. Quería demostrar que la voz, como cualquier músculo, se puede entrenar a cualquier edad.",
+        "A la primera reunión acudieron diecisiete personas, entre ellas un taxista que solo había cantado en la ducha, una jueza jubilada y un chaval de diecinueve años con más vergüenza que voz. Durante los primeros ensayos, el resultado fue, por decirlo con suavidad, desconcertante. Algunos se reían de nervios; otros se quedaban en silencio, moviendo los labios sin emitir sonido. Begoña no perdió la paciencia ni una sola vez. Empezaron por respirar, después por tararear y, solo al cabo de un mes, por cantar una canción sencilla.",
+        "Lo que más sorprendió a Begoña no fue el progreso musical, que llegó poco a poco, sino lo que ocurrió entre ellos. El taxista empezó a llevar a la jueza a casa después de los ensayos. El chaval, que apenas hablaba, resultó tener un oído extraordinario y acabó ayudando a los demás a encontrar la nota. Los martes por la noche se convirtieron, para muchos, en el mejor momento de la semana, ese rato en el que podían equivocarse sin que nadie los juzgara.",
+        "Al cabo de un año, el coro dio su primer concierto en la plaza del barrio, durante las fiestas del Pilar. No fue perfecto: hubo una entrada a destiempo y un agudo que no llegó a ninguna parte. Pero el público, compuesto en buena parte por familiares, aplaudió de pie. Al terminar, una mujer se acercó a Begoña y le preguntó si todavía podía apuntarse. «¿Canta usted mal?», le preguntó ella. «Fatal», respondió la mujer. «Entonces bienvenida.»"
+      ],
+      "english": [
+        [
+          "The poster Begoña put up in the community centre of her neighbourhood, in Zaragoza, left no room for doubt: \"People wanted for a choir. Singing badly essential.\"",
+          "Begoña, a music teacher at a secondary school, was fed up with so many adults confessing to her that they never sang in public because, as children, someone had told them they sang out of tune.",
+          "She wanted to prove that the voice, like any muscle, can be trained at any age."
+        ],
+        [
+          "Seventeen people came to the first meeting, among them a taxi driver who had only ever sung in the shower, a retired judge and a nineteen-year-old lad with more shyness than voice.",
+          "During the first rehearsals, the result was, to put it mildly, disconcerting.",
+          "Some laughed out of nerves; others stayed silent, moving their lips without making a sound.",
+          "Begoña didn't lose her patience a single time.",
+          "They began by breathing, then by humming and, only after a month, by singing a simple song."
+        ],
+        [
+          "What surprised Begoña most wasn't the musical progress, which came little by little, but what happened between them.",
+          "The taxi driver began to drive the judge home after rehearsals.",
+          "The lad, who barely spoke, turned out to have an extraordinary ear and ended up helping the others find the note.",
+          "Tuesday nights became, for many, the best moment of the week, that time when they could get things wrong without anyone judging them."
+        ],
+        [
+          "After a year, the choir gave its first concert in the neighbourhood square, during the Pilar festivities.",
+          "It wasn't perfect: there was one late entry and a high note that went nowhere.",
+          "But the audience, made up largely of relatives, gave a standing ovation.",
+          "When it was over, a woman came up to Begoña and asked if she could still sign up.",
+          "\"Do you sing badly?\" Begoña asked her.",
+          "\"Terribly,\" the woman replied.",
+          "\"Then welcome.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "no dejaba lugar a dudas",
+          "gloss": "left no room for doubt"
+        },
+        {
+          "word": "imprescindible",
+          "gloss": "essential"
+        },
+        {
+          "word": "desafinaban",
+          "gloss": "sang out of tune"
+        },
+        {
+          "word": "chaval",
+          "gloss": "lad, kid"
+        },
+        {
+          "word": "por decirlo con suavidad",
+          "gloss": "to put it mildly"
+        },
+        {
+          "word": "desconcertante",
+          "gloss": "disconcerting"
+        },
+        {
+          "word": "tararear",
+          "gloss": "to hum"
+        },
+        {
+          "word": "al cabo de",
+          "gloss": "after"
+        },
+        {
+          "word": "oído",
+          "gloss": "ear (for music)"
+        },
+        {
+          "word": "a destiempo",
+          "gloss": "at the wrong moment, late"
+        },
+        {
+          "word": "agudo",
+          "gloss": "high note"
+        },
+        {
+          "word": "aplaudió de pie",
+          "gloss": "gave a standing ovation"
+        },
+        {
+          "word": "apuntarse",
+          "gloss": "to sign up"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-08",
+      "title": "Una laguna con derechos",
+      "subtitle": "A lagoon with rights",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Paco Sáez lleva cincuenta años pescando en el Mar Menor, la gran laguna salada de la costa de Murcia, y recuerda cuando el agua era tan transparente que se veían los caballitos de mar desde la barca. En 2019, una mañana de octubre, se encontró la orilla cubierta de miles de peces muertos. «Aquello no era una playa, era un cementerio», dice todavía con la voz quebrada.",
+        "Los científicos llevaban años dando la voz de alarma. Los fertilizantes de la agricultura intensiva de los alrededores llegaban a la laguna y provocaban un crecimiento descontrolado de algas que acababa dejando el agua sin oxígeno. Las sucesivas administraciones, sin embargo, habían hecho poco más que prometer estudios. Mientras tanto, el turismo, la construcción y los regadíos seguían creciendo a un ritmo que nadie parecía dispuesto a frenar.",
+        "Fue entonces cuando surgió una idea que a muchos les pareció descabellada: reconocer a la laguna como persona jurídica, con derechos propios, igual que una empresa o una asociación. La propuesta, impulsada por una profesora de filosofía del derecho, reunió más de medio millón de firmas y, en 2022, se convirtió en ley. Fue la primera vez en Europa que un ecosistema obtenía ese estatus. Desde entonces, cualquier ciudadano puede acudir a los tribunales en nombre del Mar Menor.",
+        "Los escépticos sostienen que una ley no limpia el agua y que el cambio real depende de decisiones políticas que siguen sin tomarse. Paco no les quita la razón del todo. Pero cree que algo ha cambiado en la forma de mirar la laguna. «Antes era un sitio del que sacábamos cosas», reflexiona mientras repara una red. «Ahora, por lo menos sobre el papel, es alguien. Y a alguien no se le puede tratar de cualquier manera.»"
+      ],
+      "english": [
+        [
+          "Paco Sáez has been fishing in the Mar Menor, the great saltwater lagoon on the coast of Murcia, for fifty years, and he remembers when the water was so clear you could see the seahorses from the boat.",
+          "In 2019, one October morning, he found the shore covered with thousands of dead fish.",
+          "\"That wasn't a beach, it was a cemetery,\" he says, his voice still breaking."
+        ],
+        [
+          "Scientists had been sounding the alarm for years.",
+          "Fertilisers from the intensive farming in the surrounding area were reaching the lagoon and causing an uncontrolled growth of algae which ended up leaving the water without oxygen.",
+          "Successive administrations, however, had done little more than promise studies.",
+          "Meanwhile, tourism, construction and irrigated farming kept growing at a pace that nobody seemed willing to slow down."
+        ],
+        [
+          "It was then that an idea arose which many people found absurd: to recognise the lagoon as a legal person, with its own rights, just like a company or an association.",
+          "The proposal, promoted by a professor of legal philosophy, gathered more than half a million signatures and, in 2022, became law.",
+          "It was the first time in Europe that an ecosystem had obtained that status.",
+          "Since then, any citizen can go to court on behalf of the Mar Menor."
+        ],
+        [
+          "Sceptics maintain that a law doesn't clean the water and that real change depends on political decisions that still haven't been taken.",
+          "Paco doesn't entirely disagree with them.",
+          "But he believes that something has changed in the way people look at the lagoon.",
+          "\"Before, it was a place we took things from,\" he reflects as he mends a net.",
+          "\"Now, at least on paper, it's someone. And you can't treat someone any old how.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "laguna salada",
+          "gloss": "saltwater lagoon"
+        },
+        {
+          "word": "caballitos de mar",
+          "gloss": "seahorses"
+        },
+        {
+          "word": "orilla",
+          "gloss": "shore"
+        },
+        {
+          "word": "quebrada",
+          "gloss": "breaking (voice)"
+        },
+        {
+          "word": "dando la voz de alarma",
+          "gloss": "sounding the alarm"
+        },
+        {
+          "word": "algas",
+          "gloss": "algae"
+        },
+        {
+          "word": "regadíos",
+          "gloss": "irrigated farming"
+        },
+        {
+          "word": "frenar",
+          "gloss": "to slow down, curb"
+        },
+        {
+          "word": "descabellada",
+          "gloss": "absurd, crazy"
+        },
+        {
+          "word": "persona jurídica",
+          "gloss": "legal person"
+        },
+        {
+          "word": "no les quita la razón del todo",
+          "gloss": "doesn't entirely disagree with them"
+        },
+        {
+          "word": "red",
+          "gloss": "net"
+        },
+        {
+          "word": "de cualquier manera",
+          "gloss": "any old how"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-09",
+      "title": "El viaje que siempre íbamos a hacer",
+      "subtitle": "The trip we were always going to take",
+      "topic": "Plans",
+      "symbol": "map.fill",
+      "paragraphs": [
+        "Desde que se casaron, en 1989, Elsa y Gerardo tenían un plan: recorrer en coche toda la costa de Uruguay, desde Colonia hasta el Chuy, sin prisa, parando en cada pueblo que les gustara. Lo hablaban en las sobremesas, lo dibujaban en servilletas, lo usaban como recompensa imaginaria cuando la vida se ponía cuesta arriba. «Cuando los chicos sean grandes», decía Elsa. «Cuando terminemos de pagar la casa», respondía Gerardo.",
+        "Los chicos crecieron y se fueron, la casa se terminó de pagar, y siempre surgía algo: una operación, un nieto, la crisis de 2002, que se llevó por delante los ahorros de media generación. El viaje se fue convirtiendo en una broma privada. Cada vez que alguno de los dos decía «el año que viene», el otro contestaba «sí, claro, el año que viene», con un guiño que ya no prometía nada.",
+        "El día que Gerardo cumplió setenta años, Elsa le dio un sobre. Dentro había un mapa dibujado a mano, con la ruta completa, y las llaves de un coche alquilado. «Salimos mañana a las ocho», le dijo. «Ya está todo arreglado. Y si me decís que el año que viene, me voy sola.» Gerardo se quedó mirándola un buen rato, sin saber si reír o llorar, y terminó haciendo las dos cosas a la vez.",
+        "Tardaron tres semanas en un trayecto que se puede hacer en un día. Comieron chivitos en Piriápolis, vieron lobos marinos en Cabo Polonio, se perdieron dos veces y discutieron por los mapas como cuando eran novios. En la última noche, en una playa casi desierta de Rocha, Gerardo le preguntó por qué habían esperado tanto. Elsa se encogió de hombros. «Porque teníamos miedo de que no fuera tan lindo como lo habíamos imaginado», dijo. «Y fue mejor.»"
+      ],
+      "english": [
+        [
+          "Ever since they married, in 1989, Elsa and Gerardo had had a plan: to drive along the whole coast of Uruguay, from Colonia to Chuy, without hurrying, stopping in every town they liked.",
+          "They talked about it over long after-dinner chats, drew it on napkins, used it as an imaginary reward when life became an uphill struggle.",
+          "\"When the kids are grown up,\" Elsa would say.",
+          "\"When we finish paying off the house,\" Gerardo would reply."
+        ],
+        [
+          "The kids grew up and left, the house was paid off, and something always came up: an operation, a grandchild, the 2002 crisis, which swept away the savings of half a generation.",
+          "The trip gradually turned into a private joke.",
+          "Every time one of them said \"next year\", the other would answer \"yes, sure, next year\", with a wink that no longer promised anything."
+        ],
+        [
+          "On the day Gerardo turned seventy, Elsa gave him an envelope.",
+          "Inside was a hand-drawn map, with the complete route, and the keys to a hire car.",
+          "\"We leave tomorrow at eight,\" she told him.",
+          "\"It's all arranged. And if you tell me next year, I'm going on my own.\"",
+          "Gerardo stood looking at her for a good while, not knowing whether to laugh or cry, and ended up doing both at once."
+        ],
+        [
+          "They took three weeks over a journey that can be done in a day.",
+          "They ate chivitos in Piriápolis, saw sea lions at Cabo Polonio, got lost twice and argued over maps like when they were going out together.",
+          "On the last night, on an almost deserted beach in Rocha, Gerardo asked her why they had waited so long.",
+          "Elsa shrugged.",
+          "\"Because we were afraid it wouldn't be as lovely as we'd imagined,\" she said.",
+          "\"And it was better.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "sobremesas",
+          "gloss": "after-meal conversations at the table"
+        },
+        {
+          "word": "recompensa",
+          "gloss": "reward"
+        },
+        {
+          "word": "cuesta arriba",
+          "gloss": "uphill, hard going"
+        },
+        {
+          "word": "surgía",
+          "gloss": "came up, arose"
+        },
+        {
+          "word": "se llevó por delante",
+          "gloss": "swept away"
+        },
+        {
+          "word": "ahorros",
+          "gloss": "savings"
+        },
+        {
+          "word": "guiño",
+          "gloss": "wink"
+        },
+        {
+          "word": "arreglado",
+          "gloss": "arranged, sorted"
+        },
+        {
+          "word": "decís",
+          "gloss": "you say (voseo)"
+        },
+        {
+          "word": "a la vez",
+          "gloss": "at once, at the same time"
+        },
+        {
+          "word": "lobos marinos",
+          "gloss": "sea lions"
+        },
+        {
+          "word": "lindo",
+          "gloss": "lovely, nice (Americas)"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-10",
+      "title": "La hora del vermú",
+      "subtitle": "Vermouth time",
+      "topic": "Food & drink",
+      "symbol": "wineglass.fill",
+      "paragraphs": [
+        "Son las doce y media de un domingo en el barrio de La Latina, en Madrid, y no cabe un alfiler en la barra de la bodega de los hermanos Ruiz. Los clientes, de todas las edades, se apiñan delante de unos grifos de los que sale un líquido oscuro, ligeramente amargo, que se sirve con hielo, una rodaja de naranja y una aceituna. Es la hora del vermú, un ritual que hace apenas quince años parecía condenado a desaparecer y que hoy vive una segunda juventud.",
+        "El vermú llegó a España a finales del siglo diecinueve desde Italia y, durante décadas, fue la bebida del aperitivo por excelencia, sobre todo en Madrid, Barcelona y Reus. «Mi abuelo lo hacía en el sótano, en barricas de roble, con una receta que no le contó nunca a nadie», cuenta Andrés Ruiz, que regenta el local con su hermano. En los años ochenta, sin embargo, la cerveza y los refrescos lo desbancaron, y el vermú quedó relegado a cosa de abuelos.",
+        "Su regreso se explica, en parte, por la búsqueda de lo auténtico que caracteriza a una generación harta de franquicias. Pero Andrés tiene su propia teoría. «El vermú no es una bebida, es una excusa», dice mientras rellena un vaso. «Es la excusa para quedar con los amigos antes de comer, para charlar sin prisas, para que el domingo dure un poco más.» Las bodegas tradicionales han sabido aprovechar el tirón, y hoy son muchos los productores que elaboran vermús artesanales con hierbas locales.",
+        "Por cierto, ¿y la receta del abuelo? Andrés sonríe y señala una libreta que cuelga de un clavo detrás de la barra. Cuando la abro, solo encuentro una frase escrita con letra temblorosa: «Lo importante no es lo que se echa en la barrica, sino con quién se bebe.» Andrés se encoge de hombros. «Nos pasamos años buscando la receta», confiesa. «Y resulta que era esto.»"
+      ],
+      "english": [
+        [
+          "It's half past twelve on a Sunday in the La Latina neighbourhood, in Madrid, and the bar of the Ruiz brothers' wine shop is packed to the rafters.",
+          "Customers of all ages crowd in front of taps from which flows a dark, slightly bitter liquid, served with ice, a slice of orange and an olive.",
+          "It's vermouth time, a ritual which barely fifteen years ago seemed doomed to disappear and which today is enjoying a second youth."
+        ],
+        [
+          "Vermouth came to Spain from Italy at the end of the nineteenth century and, for decades, was the aperitif drink par excellence, especially in Madrid, Barcelona and Reus.",
+          "\"My grandfather made it in the basement, in oak barrels, with a recipe he never told anyone,\" says Andrés Ruiz, who runs the place with his brother.",
+          "In the eighties, however, beer and soft drinks pushed it aside, and vermouth was relegated to being something for grandparents."
+        ],
+        [
+          "Its return can be explained, in part, by the search for authenticity that characterises a generation fed up with chains.",
+          "But Andrés has his own theory.",
+          "\"Vermouth isn't a drink, it's an excuse,\" he says as he refills a glass.",
+          "\"It's the excuse to meet up with friends before lunch, to chat without hurrying, to make Sunday last a bit longer.\"",
+          "Traditional wine bars have managed to take advantage of the trend, and today there are many producers who make craft vermouths with local herbs."
+        ],
+        [
+          "By the way, what about the grandfather's recipe?",
+          "Andrés smiles and points to a notebook hanging from a nail behind the bar.",
+          "When I open it, I find only one sentence written in shaky handwriting: \"What matters is not what you put in the barrel, but who you drink it with.\"",
+          "Andrés shrugs.",
+          "\"We spent years looking for the recipe,\" he confesses.",
+          "\"And it turns out it was this.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "no cabe un alfiler",
+          "gloss": "it's packed (lit. not a pin would fit)"
+        },
+        {
+          "word": "se apiñan",
+          "gloss": "crowd together"
+        },
+        {
+          "word": "rodaja",
+          "gloss": "slice"
+        },
+        {
+          "word": "condenado",
+          "gloss": "doomed"
+        },
+        {
+          "word": "por excelencia",
+          "gloss": "par excellence"
+        },
+        {
+          "word": "barricas de roble",
+          "gloss": "oak barrels"
+        },
+        {
+          "word": "regenta",
+          "gloss": "runs, manages"
+        },
+        {
+          "word": "desbancaron",
+          "gloss": "displaced, pushed aside"
+        },
+        {
+          "word": "relegado",
+          "gloss": "relegated"
+        },
+        {
+          "word": "franquicias",
+          "gloss": "franchises, chains"
+        },
+        {
+          "word": "el tirón",
+          "gloss": "the pull, the trend"
+        },
+        {
+          "word": "artesanales",
+          "gloss": "craft, artisanal"
+        },
+        {
+          "word": "clavo",
+          "gloss": "nail"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-11",
+      "title": "El refugio",
+      "subtitle": "The mountain hut",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Cuando el cielo se cerró sobre el valle de Ordesa, en el Pirineo de Huesca, Íñigo llevaba seis horas caminando y le quedaban dos para llegar al refugio. Había leído el parte meteorológico, por supuesto, pero había decidido arriesgarse: la tormenta no estaba prevista hasta la noche. A las cuatro de la tarde, sin embargo, empezaron a caer los primeros granizos, y la niebla se tragó el sendero en cuestión de minutos.",
+        "Íñigo era un montañero experimentado y sabía que lo peor que podía hacer era dejarse llevar por el pánico. Se puso el chubasquero, sacó la brújula y trató de seguir el rumbo. Pero al cabo de media hora tuvo que reconocer que no sabía dónde estaba. Hacía un frío que pelaba, el móvil no tenía cobertura y los truenos sonaban cada vez más cerca. Por primera vez en veinte años de montaña, sintió miedo de verdad.",
+        "Entonces oyó un sonido que no encajaba con la tormenta: un cencerro. Siguió el ruido, tropezando entre las rocas, hasta que de la niebla surgió una vaca enorme, empapada y completamente tranquila. Detrás apareció un hombre mayor con boina y un bastón de avellano. «¿Vas al refugio?», le preguntó, como quien pregunta la hora. «Sígueme, que con esta niebla te vas a matar.» Caminaron juntos en silencio durante cuarenta minutos, la vaca abriendo la marcha.",
+        "Al llegar al refugio, Íñigo se volvió para darle las gracias, pero el hombre ya se alejaba hacia la niebla. Dentro, empapado y temblando, le contó lo ocurrido a la guarda del refugio. Ella sonrió sin sorprenderse. «Ese es Anselmo, el pastor de Torla», dijo. «Sube a buscar a sus vacas cada vez que hay tormenta. Lleva cuarenta años encontrando montañeros perdidos por el camino. Dice que son más fáciles de encontrar que las vacas, pero bastante más tontos.»"
+      ],
+      "english": [
+        [
+          "When the sky closed in over the Ordesa valley, in the Pyrenees of Huesca, Íñigo had been walking for six hours and had two to go before reaching the mountain hut.",
+          "He had read the weather forecast, of course, but had decided to take the risk: the storm wasn't expected until the night.",
+          "At four in the afternoon, however, the first hailstones began to fall, and the fog swallowed the path in a matter of minutes."
+        ],
+        [
+          "Íñigo was an experienced mountaineer and knew that the worst thing he could do was give in to panic.",
+          "He put on his rain jacket, took out his compass and tried to stay on course.",
+          "But after half an hour he had to admit that he didn't know where he was.",
+          "It was bitterly cold, his phone had no signal and the thunder sounded closer and closer.",
+          "For the first time in twenty years of mountaineering, he felt real fear."
+        ],
+        [
+          "Then he heard a sound that didn't fit with the storm: a cowbell.",
+          "He followed the noise, stumbling among the rocks, until out of the fog emerged an enormous cow, soaking wet and completely calm.",
+          "Behind it appeared an old man in a beret, with a hazel walking stick.",
+          "\"Are you going to the hut?\" he asked, as if he were asking the time.",
+          "\"Follow me, because in this fog you'll get yourself killed.\"",
+          "They walked together in silence for forty minutes, with the cow leading the way."
+        ],
+        [
+          "When they reached the hut, Íñigo turned round to thank him, but the man was already moving away into the fog.",
+          "Inside, soaking and shivering, he told the hut warden what had happened.",
+          "She smiled without surprise.",
+          "\"That's Anselmo, the shepherd from Torla,\" she said.",
+          "\"He comes up to look for his cows every time there's a storm. He's been finding lost mountaineers along the way for forty years. He says they're easier to find than cows, but a good deal more stupid.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "refugio",
+          "gloss": "mountain hut"
+        },
+        {
+          "word": "parte meteorológico",
+          "gloss": "weather forecast"
+        },
+        {
+          "word": "arriesgarse",
+          "gloss": "to take the risk"
+        },
+        {
+          "word": "se tragó",
+          "gloss": "swallowed"
+        },
+        {
+          "word": "dejarse llevar por el pánico",
+          "gloss": "to give in to panic"
+        },
+        {
+          "word": "chubasquero",
+          "gloss": "rain jacket"
+        },
+        {
+          "word": "brújula",
+          "gloss": "compass"
+        },
+        {
+          "word": "hacía un frío que pelaba",
+          "gloss": "it was bitterly cold"
+        },
+        {
+          "word": "cobertura",
+          "gloss": "(phone) signal"
+        },
+        {
+          "word": "encajaba",
+          "gloss": "fitted"
+        },
+        {
+          "word": "cencerro",
+          "gloss": "cowbell"
+        },
+        {
+          "word": "empapada",
+          "gloss": "soaking wet"
+        },
+        {
+          "word": "abriendo la marcha",
+          "gloss": "leading the way"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-12",
+      "title": "Coplas contra el poder",
+      "subtitle": "Verses against the powerful",
+      "topic": "Celebrations",
+      "symbol": "theatermasks.fill",
+      "paragraphs": [
+        "Durante diez días cada febrero, Cádiz se ríe de todo: de los políticos, de los reyes, de la crisis, del tiempo y, sobre todo, de sí misma. Su carnaval no se parece al de Río ni al de Venecia. Aquí lo que importa no son las plumas ni las máscaras, sino la palabra. Las protagonistas son las agrupaciones, grupos de vecinos que se pasan el año entero ensayando canciones satíricas para un concurso que se sigue en toda Andalucía con la pasión de una final de fútbol.",
+        "De todas las modalidades, la más querida es la chirigota: un grupo de cantantes disfrazados, normalmente de algo absurdo, que interpretan coplas llenas de ironía y dobles sentidos. Este año, la chirigota del barrio de La Viña se ha disfrazado de semáforos averiados. «Representamos a los políticos», explica su autor, Juanma Pérez, que es fontanero de profesión. «Llevamos cuatro años en rojo, nadie sabe cuándo nos vamos a poner en verde, y de vez en cuando nos da por parpadear en ámbar sin motivo.»",
+        "Lo que hace único al carnaval de Cádiz es que nadie se libra. Los alcaldes de turno, sean del partido que sean, saben que serán el blanco de las burlas, y la mayoría lo aceptan con deportividad, aunque alguno haya acabado cantando las coplas que se escribieron contra él. Los historiadores remontan esta tradición a siglos atrás, cuando el puerto abierto al mundo convirtió a la ciudad en un lugar de mezcla, desconfiado ante cualquier autoridad que se tomara demasiado en serio.",
+        "A las tres de la madrugada, después de la actuación, los semáforos de La Viña celebran en la calle con vino de Chiclana y tortillitas de camarones. Han quedado en un discreto cuarto puesto. A Juanma no parece importarle. «Aquí no se canta para ganar», dice, mientras un vecino le pide que repita la copla del alcalde. «Se canta para que el poder sepa que lo estamos mirando. Y, si de paso nos reímos, mejor.»"
+      ],
+      "english": [
+        [
+          "For ten days every February, Cádiz laughs at everything: at politicians, at kings, at the economic crisis, at the weather and, above all, at itself.",
+          "Its carnival is nothing like Rio's or Venice's.",
+          "Here what matters isn't feathers or masks, but words.",
+          "The stars are the agrupaciones, groups of locals who spend the whole year rehearsing satirical songs for a competition followed throughout Andalusia with the passion of a football final."
+        ],
+        [
+          "Of all the categories, the best loved is the chirigota: a group of singers in costume, usually as something absurd, who perform verses full of irony and double meanings.",
+          "This year, the chirigota from the La Viña neighbourhood has dressed up as broken traffic lights.",
+          "\"We represent the politicians,\" explains its writer, Juanma Pérez, who is a plumber by trade.",
+          "\"We've been on red for four years, nobody knows when we're going to turn green, and every now and then we take it into our heads to flash amber for no reason.\""
+        ],
+        [
+          "What makes the Cádiz carnival unique is that nobody is spared.",
+          "The mayors of the day, whatever party they belong to, know that they will be the target of mockery, and most accept it with good sportsmanship, even though one or two have ended up singing the verses that were written against them.",
+          "Historians trace this tradition back centuries, to when the port, open to the world, made the city a melting pot, wary of any authority that took itself too seriously."
+        ],
+        [
+          "At three in the morning, after the performance, the traffic lights of La Viña celebrate in the street with wine from Chiclana and shrimp fritters.",
+          "They came a modest fourth.",
+          "Juanma doesn't seem to mind.",
+          "\"Here you don't sing to win,\" he says, while a neighbour asks him to repeat the verse about the mayor.",
+          "\"You sing so that those in power know we're watching them. And if we have a laugh while we're at it, all the better.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "agrupaciones",
+          "gloss": "carnival groups"
+        },
+        {
+          "word": "modalidades",
+          "gloss": "categories"
+        },
+        {
+          "word": "disfrazados",
+          "gloss": "in costume, dressed up"
+        },
+        {
+          "word": "coplas",
+          "gloss": "verses, popular songs"
+        },
+        {
+          "word": "dobles sentidos",
+          "gloss": "double meanings"
+        },
+        {
+          "word": "averiados",
+          "gloss": "broken down, out of order"
+        },
+        {
+          "word": "nos da por",
+          "gloss": "we take it into our heads to"
+        },
+        {
+          "word": "nadie se libra",
+          "gloss": "nobody is spared"
+        },
+        {
+          "word": "de turno",
+          "gloss": "of the day, current"
+        },
+        {
+          "word": "el blanco de las burlas",
+          "gloss": "the target of mockery"
+        },
+        {
+          "word": "con deportividad",
+          "gloss": "with good sportsmanship"
+        },
+        {
+          "word": "remontan",
+          "gloss": "trace back"
+        },
+        {
+          "word": "de paso",
+          "gloss": "while we're at it"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-13",
+      "title": "Pan de madrugada",
+      "subtitle": "Bread before dawn",
+      "topic": "Routine",
+      "symbol": "flame.fill",
+      "paragraphs": [
+        "El despertador de Wilmer suena a las dos y cuarto de la madrugada, cuando en Barranco, el barrio bohemio de Lima, todavía quedan jóvenes saliendo de los bares. Se lava la cara con agua fría, se pone el mandil y cruza el patio hasta la panadería que fundó su abuelo, un migrante de Cajamarca que llegó a la capital con lo puesto en los años sesenta. A esa hora, el único ruido es el del mar, que se oye a lo lejos, al pie del acantilado.",
+        "La rutina no ha cambiado en sesenta años. Primero, la masa madre, que Wilmer alimenta cada noche como si fuera una mascota; luego, los panes franceses, los chapanas de yuca y, los domingos, los famosos panes de piso que su abuelo aprendió a hacer en la sierra. Todo se hace a mano. Wilmer ha rechazado varias veces la oferta de comprar una máquina amasadora. «Las máquinas no saben cuándo la masa está cansada», dice, medio en broma, medio en serio.",
+        "Hay algo de la noche que, según él, no entiende quien no la ha trabajado. A las cuatro, cuando el horno ya está caliente, Wilmer conoce a los que pasan por la calle: el taxista que se toma un café antes de su turno, la enfermera que sale del hospital, el borracho que pide un pan y promete pagarlo mañana, cosa que, para sorpresa de todos, siempre cumple. Durante unas horas, la panadería es un pequeño mundo aparte, iluminado y con olor a levadura, en medio de una ciudad dormida.",
+        "A las seis y media, cuando sube la persiana y aparecen los primeros clientes de día, el encanto se rompe. Wilmer despacha durante dos horas y después se va a dormir, justo cuando el resto de Lima se despierta. Sus amigos le preguntan si no echa de menos una vida normal. Él lo piensa un segundo. «Mi vida es normal», responde. «Lo que pasa es que la vivo al revés.»"
+      ],
+      "english": [
+        [
+          "Wilmer's alarm goes off at a quarter past two in the morning, when in Barranco, Lima's bohemian neighbourhood, there are still young people leaving the bars.",
+          "He washes his face with cold water, puts on his apron and crosses the yard to the bakery founded by his grandfather, a migrant from Cajamarca who came to the capital with nothing but the clothes on his back in the sixties.",
+          "At that hour, the only sound is that of the sea, which can be heard in the distance, at the foot of the cliff."
+        ],
+        [
+          "The routine hasn't changed in sixty years.",
+          "First, the sourdough starter, which Wilmer feeds every night as if it were a pet; then the French rolls, the cassava chapanas and, on Sundays, the famous flatbreads his grandfather learned to make in the highlands.",
+          "Everything is done by hand.",
+          "Wilmer has turned down the offer to buy a kneading machine several times.",
+          "\"Machines don't know when the dough is tired,\" he says, half joking, half serious."
+        ],
+        [
+          "There is something about the night that, according to him, nobody who hasn't worked it can understand.",
+          "At four, when the oven is already hot, Wilmer gets to know the people passing in the street: the taxi driver who has a coffee before his shift, the nurse coming off duty at the hospital, the drunk who asks for a roll and promises to pay for it tomorrow, a promise which, to everyone's surprise, he always keeps.",
+          "For a few hours, the bakery is a small world apart, lit up and smelling of yeast, in the middle of a sleeping city."
+        ],
+        [
+          "At half past six, when the shutter goes up and the first daytime customers appear, the spell is broken.",
+          "Wilmer serves for two hours and then goes to sleep, just as the rest of Lima is waking up.",
+          "His friends ask him whether he misses a normal life.",
+          "He thinks about it for a second.",
+          "\"My life is normal,\" he answers.",
+          "\"It's just that I live it the other way round.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "madrugada",
+          "gloss": "the early hours"
+        },
+        {
+          "word": "mandil",
+          "gloss": "apron"
+        },
+        {
+          "word": "con lo puesto",
+          "gloss": "with nothing but the clothes on his back"
+        },
+        {
+          "word": "acantilado",
+          "gloss": "cliff"
+        },
+        {
+          "word": "masa madre",
+          "gloss": "sourdough starter"
+        },
+        {
+          "word": "rechazado",
+          "gloss": "turned down"
+        },
+        {
+          "word": "amasadora",
+          "gloss": "kneading machine"
+        },
+        {
+          "word": "medio en broma",
+          "gloss": "half joking"
+        },
+        {
+          "word": "cumple",
+          "gloss": "keeps (a promise)"
+        },
+        {
+          "word": "levadura",
+          "gloss": "yeast"
+        },
+        {
+          "word": "persiana",
+          "gloss": "shutter"
+        },
+        {
+          "word": "despacha",
+          "gloss": "serves (customers)"
+        },
+        {
+          "word": "al revés",
+          "gloss": "the other way round"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-14",
+      "title": "La rapa de Sabucedo",
+      "subtitle": "The horse round-up in Sabucedo",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "En los montes que rodean la aldea de Sabucedo, en Pontevedra, viven en semilibertad cientos de caballos salvajes. Durante casi todo el año nadie los molesta: pastan, se reproducen y sobreviven a los inviernos gallegos sin ayuda humana. Pero cada mes de julio, los vecinos suben al monte, los reúnen y los bajan hasta el pueblo para celebrar la Rapa das Bestas, una fiesta cuyo origen se remonta, según la tradición, a hace más de cuatrocientos años.",
+        "El momento culminante tiene lugar en el curro, un recinto circular de piedra donde los caballos quedan encerrados. Allí, los aloitadores, hombres y mujeres que se enfrentan a los animales sin más ayuda que sus manos, los inmovilizan uno a uno para cortarles las crines, desparasitarlos y marcarlos. Es un espectáculo brutal y hermoso a la vez, que atrae cada año a miles de visitantes y que deja a más de uno con moratones y alguna costilla rota.",
+        "La fiesta no está exenta de polémica. Algunas asociaciones animalistas consideran que someter a los caballos a ese estrés es injustificable y reclaman que se prohíba. Los vecinos, por su parte, defienden que sin la rapa los caballos no recibirían ningún cuidado veterinario y que, de hecho, la tradición es lo único que mantiene viva a una especie cada vez más amenazada por los lobos, las carreteras y el abandono del campo.",
+        "Uxía tiene veintiocho años y es aloitadora desde los dieciocho, como lo fueron su padre y su abuela. Reconoce que el debate le parece legítimo y que la fiesta ha cambiado mucho para reducir el sufrimiento de los animales. «Pero quien habla desde la ciudad no ve lo que pasa en el monte el resto del año», añade. «Nosotros no somos sus dueños. Somos los únicos que todavía nos acordamos de que existen.» Y, dicho esto, salta al curro."
+      ],
+      "english": [
+        [
+          "In the hills around the hamlet of Sabucedo, in Pontevedra, hundreds of wild horses live in semi-freedom.",
+          "For almost the whole year nobody bothers them: they graze, breed and survive the Galician winters without human help.",
+          "But every July, the locals go up into the hills, round them up and bring them down to the village to celebrate the Rapa das Bestas, a festival whose origin goes back, according to tradition, more than four hundred years."
+        ],
+        [
+          "The climax takes place in the curro, a circular stone enclosure where the horses are shut in.",
+          "There, the aloitadores, men and women who take on the animals with nothing but their hands, immobilise them one by one to cut their manes, deworm them and mark them.",
+          "It is a spectacle that is brutal and beautiful at the same time, which attracts thousands of visitors every year and leaves more than one person with bruises and the odd broken rib."
+        ],
+        [
+          "The festival is not free of controversy.",
+          "Some animal rights groups consider that subjecting the horses to that stress is unjustifiable and call for it to be banned.",
+          "The locals, for their part, argue that without the rapa the horses would receive no veterinary care and that, in fact, the tradition is the only thing keeping alive a breed increasingly threatened by wolves, roads and the abandonment of the countryside."
+        ],
+        [
+          "Uxía is twenty-eight and has been an aloitadora since she was eighteen, as her father and grandmother were.",
+          "She admits that she thinks the debate is legitimate and that the festival has changed a lot to reduce the animals' suffering.",
+          "\"But people speaking from the city don't see what happens in the hills the rest of the year,\" she adds.",
+          "\"We are not their owners. We are the only ones who still remember that they exist.\"",
+          "And, having said that, she jumps into the curro."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "aldea",
+          "gloss": "hamlet, village"
+        },
+        {
+          "word": "semilibertad",
+          "gloss": "semi-freedom"
+        },
+        {
+          "word": "pastan",
+          "gloss": "graze"
+        },
+        {
+          "word": "se remonta",
+          "gloss": "goes back"
+        },
+        {
+          "word": "momento culminante",
+          "gloss": "climax"
+        },
+        {
+          "word": "recinto",
+          "gloss": "enclosure"
+        },
+        {
+          "word": "se enfrentan a",
+          "gloss": "take on, confront"
+        },
+        {
+          "word": "crines",
+          "gloss": "manes"
+        },
+        {
+          "word": "moratones",
+          "gloss": "bruises"
+        },
+        {
+          "word": "costilla",
+          "gloss": "rib"
+        },
+        {
+          "word": "polémica",
+          "gloss": "controversy"
+        },
+        {
+          "word": "reclaman",
+          "gloss": "call for, demand"
+        },
+        {
+          "word": "abandono",
+          "gloss": "abandonment"
+        }
+      ]
+    },
+    {
+      "id": "es-c1-15",
+      "title": "Objetos perdidos",
+      "subtitle": "Lost property",
+      "topic": "Everyday life",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "En un edificio discreto del centro de Madrid, a pocos metros del paseo del Prado, se acumulan cada año decenas de miles de objetos que alguien, en algún momento, dejó olvidados en un autobús, en un taxi o en un banco del Retiro. La Oficina de Objetos Perdidos es un almacén de despistes: paraguas por centenares, carteras, móviles, gafas, llaves que ya no abren ninguna puerta conocida. Pero entre las estanterías también hay sorpresas que harían sonrojar al más imaginativo de los novelistas.",
+        "Rosa Lozano trabaja aquí desde hace veintidós años y ha visto de todo. Una dentadura postiza, una urna con cenizas, un traje de novia con el ramo incluido, una tuba, un cuadro firmado que resultó no ser falso. «La gente pierde de todo», dice encogiéndose de hombros. «Lo que más me sorprende no es lo que pierde, sino lo que no viene a buscar.» Según sus cálculos, menos de la mitad de los objetos se recuperan. Pasado un tiempo, los que nadie reclama se subastan o se donan.",
+        "Rosa tiene una teoría: los objetos perdidos cuentan la historia de una ciudad mejor que cualquier estadística. En invierno llegan guantes desparejados; en primavera, libros de texto abandonados por estudiantes que celebran el final de los exámenes; después de las grandes fiestas, zapatos de tacón sueltos, sin su pareja. «Si quieres saber cómo vive Madrid», asegura, «no mires las encuestas. Ven aquí un lunes por la mañana.»",
+        "Su caso favorito ocurrió hace unos años. Un anciano se presentó en el mostrador preguntando por una carta que había perdido en un autobús en 1971. Rosa, por supuesto, le dijo que era imposible. Él insistió con tanta amabilidad que ella acabó bajando al archivo histórico, sin ninguna esperanza. Tardó tres horas, pero la encontró, amarillenta, dentro de una caja olvidada. Era una carta de amor que él nunca llegó a entregar. «Me dijo que ya era tarde para dársela a ella», recuerda Rosa, «pero no para leerla él.»"
+      ],
+      "english": [
+        [
+          "In an unassuming building in central Madrid, a few metres from the Paseo del Prado, tens of thousands of objects pile up each year that someone, at some point, left behind on a bus, in a taxi or on a bench in the Retiro.",
+          "The Lost Property Office is a warehouse of absent-mindedness: umbrellas by the hundred, wallets, mobile phones, glasses, keys that no longer open any known door.",
+          "But among the shelves there are also surprises that would put the most imaginative of novelists to shame."
+        ],
+        [
+          "Rosa Lozano has worked here for twenty-two years and has seen it all.",
+          "A set of false teeth, an urn with ashes, a wedding dress with the bouquet included, a tuba, a signed painting that turned out not to be a fake.",
+          "\"People lose everything,\" she says with a shrug.",
+          "\"What surprises me most isn't what they lose, but what they don't come to collect.\"",
+          "According to her calculations, fewer than half of the objects are recovered.",
+          "After a certain time, those nobody claims are auctioned or donated."
+        ],
+        [
+          "Rosa has a theory: lost objects tell the story of a city better than any statistics.",
+          "In winter odd gloves come in; in spring, textbooks abandoned by students celebrating the end of exams; after the big festivals, single high-heeled shoes, without their partner.",
+          "\"If you want to know how Madrid lives,\" she says, \"don't look at the surveys. Come here on a Monday morning.\""
+        ],
+        [
+          "Her favourite case happened a few years ago.",
+          "An old man came to the counter asking about a letter he had lost on a bus in 1971.",
+          "Rosa, of course, told him that it was impossible.",
+          "He insisted so kindly that she ended up going down to the historical archive, without any hope.",
+          "It took her three hours, but she found it, yellowed, inside a forgotten box.",
+          "It was a love letter that he had never managed to deliver.",
+          "\"He told me it was too late to give it to her,\" Rosa recalls, \"but not too late for him to read it.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "discreto",
+          "gloss": "unassuming, discreet"
+        },
+        {
+          "word": "se acumulan",
+          "gloss": "pile up"
+        },
+        {
+          "word": "despistes",
+          "gloss": "absent-mindedness, slips"
+        },
+        {
+          "word": "centenares",
+          "gloss": "hundreds"
+        },
+        {
+          "word": "carteras",
+          "gloss": "wallets"
+        },
+        {
+          "word": "sonrojar",
+          "gloss": "to make (someone) blush"
+        },
+        {
+          "word": "dentadura postiza",
+          "gloss": "false teeth"
+        },
+        {
+          "word": "urna",
+          "gloss": "urn"
+        },
+        {
+          "word": "reclama",
+          "gloss": "claims"
+        },
+        {
+          "word": "se subastan",
+          "gloss": "are auctioned"
+        },
+        {
+          "word": "desparejados",
+          "gloss": "odd, unmatched"
+        },
+        {
+          "word": "zapatos de tacón",
+          "gloss": "high-heeled shoes"
+        },
+        {
+          "word": "entregar",
+          "gloss": "to deliver"
+        }
+      ]
+    }
+  ]
+}
