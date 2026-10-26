@@ -48,6 +48,17 @@ final class DictionaryClient {
             entries = try await fetch(candidate, language: language.dictionaryName)
             if !entries.isEmpty { break }
         }
+        // Wiktionary has no page for most phrases ("se despierta", "a eu peur"):
+        // try their words, longest first, and keep the phrase as the query.
+        if entries.isEmpty {
+            for word in LookupCandidates.mainWords(of: text) {
+                for candidate in LookupCandidates.candidates(for: word) {
+                    entries = try await fetch(candidate, language: language.dictionaryName)
+                    if !entries.isEmpty { break }
+                }
+                if !entries.isEmpty { break }
+            }
+        }
         let own = Set(entries.map(\.word))
         var lemmaWords: [String] = []
         for lemma in entries.flatMap(\.formOf).map(\.lemma) where !own.contains(lemma) && !lemmaWords.contains(lemma) {

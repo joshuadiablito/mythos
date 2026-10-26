@@ -65,3 +65,68 @@ struct EnglishVerbTests {
         #expect(phrases.contains("he/she was eating"))
     }
 }
+
+@Suite("Who is doing it")
+struct WhoIsDoingItTests {
+    private func despierta() -> LookupResult {
+        let form = Entry(word: "despierta", pos: "verb", head: nil, ipa: nil, audioURL: nil, senses: [], forms: [],
+                         formOf: [FormOf(lemma: "despertar", description: "third-person singular present indicative",
+                                         tags: ["third-person", "singular", "present", "indicative"])])
+        let lemma = Entry(word: "despertar", pos: "verb", head: nil, ipa: nil, audioURL: nil,
+                          senses: [Sense(gloss: "to wake up", tags: [], example: nil)], forms: [], formOf: [])
+        return LookupResult(query: "se despierta", entries: [form], lemmas: [lemma])
+    }
+
+    @Test func aPhraseIsLookedUpByItsMainWord() {
+        #expect(LookupCandidates.mainWords(of: "se despierta") == ["despierta"])
+        #expect(LookupCandidates.mainWords(of: "a eu peur") == ["peur"])
+        #expect(LookupCandidates.mainWords(of: "zieht sich an") == ["zieht", "sich"])
+        #expect(LookupCandidates.mainWords(of: "despierta").isEmpty)
+    }
+
+    @Test func theReadingKeepsTheWholePhraseAndSaysWho() {
+        let lines = despierta().whoLines(language: .spanish)
+        #expect(lines == [WhoLine(subject: "él/ella/usted se despierta", english: "he/she wakes up")])
+    }
+
+    @Test func anInfinitiveReadsAsOne() {
+        let lemma = Entry(word: "despertar", pos: "verb", head: nil, ipa: nil, audioURL: nil,
+                          senses: [Sense(gloss: "to wake up", tags: [], example: nil)], forms: [], formOf: [])
+        let lines = LookupResult(query: "despertar", entries: [lemma], lemmas: []).whoLines(language: .spanish)
+        #expect(lines == [WhoLine(subject: "", english: "to wake up")])
+    }
+}
+
+@Suite("Choosing the English verb")
+struct EnglishVerbChoiceTests {
+    private func despertar(_ gloss: String) -> Entry {
+        Entry(word: "despertar", pos: "verb", head: nil, ipa: nil, audioURL: nil,
+              senses: [Sense(gloss: gloss, tags: [], example: nil)], forms: [], formOf: [])
+    }
+
+    @Test func theStoryGlossPicksTheAlternative() throws {
+        #expect(EnglishVerb.alternatives(inGloss: "to wake, wake up").map(\.rest) == ["", "up"])
+        #expect(try #require(EnglishVerb(entry: despertar("to wake, wake up"), hint: "wakes up")).rest == "up")
+        // Without a hint, or with one that doesn't fit, the first meaning stands.
+        #expect(try #require(EnglishVerb(entry: despertar("to wake, wake up"))).rest == "")
+        #expect(try #require(EnglishVerb(entry: despertar("to wake, wake up"), hint: "rouses")).rest == "")
+        // Wiktionary often gives each meaning its own sense.
+        let senses = Entry(word: "despertar", pos: "verb", head: nil, ipa: nil, audioURL: nil,
+                           senses: ["to awaken", "to wake up", "to wake"].map { Sense(gloss: $0, tags: [], example: nil) }, forms: [], formOf: [])
+        #expect(try #require(EnglishVerb(entry: senses, hint: "wakes up")).rest == "up")
+        #expect(try #require(EnglishVerb(entry: senses)).base == "awaken")
+    }
+
+    @Test func aPronounBeforeTheVerbRulesOutACommand() {
+        let form = Entry(word: "despierta", pos: "verb", head: nil, ipa: nil, audioURL: nil, senses: [], forms: [], formOf: [
+            FormOf(lemma: "despertar", description: "third-person singular present indicative", tags: ["third-person", "singular", "present", "indicative"]),
+            FormOf(lemma: "despertar", description: "second-person singular imperative", tags: ["second-person", "singular", "imperative"]),
+        ])
+        let phrase = LookupResult(query: "se despierta", entries: [form], lemmas: [despertar("to wake, wake up")])
+        #expect(phrase.whoLines(language: .spanish, hint: "wakes up")
+                == [WhoLine(subject: "él/ella/usted se despierta", english: "he/she wakes up")])
+        // On its own, "despierta" can be a command.
+        let word = LookupResult(query: "despierta", entries: [form], lemmas: [despertar("to wake, wake up")])
+        #expect(word.whoLines(language: .spanish).contains(WhoLine(subject: "despierta", english: "wake!")))
+    }
+}

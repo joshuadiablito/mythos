@@ -50,7 +50,7 @@ private struct LookupPage: View {
                     if result.isEmpty {
                         notFound
                     } else {
-                        DictionaryContent(result: result, language: lookup.language)
+                        DictionaryContent(result: result, language: lookup.language, hint: lookup.gloss)
                     }
                 } else if let error {
                     ContentUnavailableView {
@@ -183,10 +183,17 @@ private struct LoadingRows: View {
 private struct DictionaryContent: View {
     let result: LookupResult
     let language: Language
+    /// The word's gloss in its story, to pick the English verb that matches it.
+    var hint: String?
 
     private var formOf: [FormOf] {
         var seen = Set<String>()
-        return result.entries.flatMap(\.formOf).filter { seen.insert("\($0.lemma)|\($0.description)").inserted }
+        // As on flashcards: a phrase with a pronoun before the verb ("se despierta") isn't a command.
+        let firstWord = result.query.split(whereSeparator: \.isWhitespace).first.map { $0.lowercased() }
+        let preceded = result.query.contains(" ") && result.entries.contains { $0.word.lowercased() != firstWord }
+        return result.entries.flatMap(\.formOf)
+            .filter { !(preceded && $0.tags.contains("imperative")) }
+            .filter { seen.insert("\($0.lemma)|\($0.description)").inserted }
     }
 
     private var withMeanings: [Entry] { result.all.filter { !$0.senses.isEmpty } }
@@ -207,7 +214,7 @@ private struct DictionaryContent: View {
                     ForEach(formOf.prefix(4), id: \.self) { f in
                         NavigationLink(value: WordLookup(word: f.lemma, language: language)) {
                             FormOfCard(formOf: f, query: result.query, language: language,
-                                       english: result.lemmas.first { $0.word == f.lemma }.flatMap(EnglishVerb.init(entry:)))
+                                       english: result.lemmas.first { $0.word == f.lemma }.flatMap { EnglishVerb(entry: $0, hint: hint) })
                         }
                         .buttonStyle(.plain)
                     }
@@ -245,18 +252,8 @@ private struct FormOfCard: View {
     let english: EnglishVerb?
 
     /// One line per subject the form can have: "je" and "il/elle" for "mange".
-    private var lines: [(subject: String, english: String)] {
-        guard let english, let tense = EnglishVerb.tense(for: formOf.tags) else {
-            if let phrase = english?.phrase(forFormLabel: formOf.description) { return [("", phrase)] }
-            return []
-        }
-        return EnglishVerb.subjects(for: formOf.tags).compactMap { person, number in
-            guard let phrase = english.phrase(person: person, number: number, tense: tense) else { return nil }
-            let pronoun = tense == .imperative ? nil
-                : InflectionBuilder.pronounFor(language, row: person, column: number, form: query)
-            let subject = pronoun.map { $0.hasSuffix("’") ? $0 + query.lowercased() : "\($0) \(query.lowercased())" } ?? query.lowercased()
-            return (subject, phrase)
-        }
+    private var lines: [WhoLine] {
+        EnglishVerb.whoLines(for: formOf, form: query, language: language, verb: english)
     }
 
     var body: some View {

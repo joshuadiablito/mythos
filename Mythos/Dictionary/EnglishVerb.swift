@@ -21,10 +21,41 @@ nonisolated struct EnglishVerb: Hashable, Sendable {
         rest = words.dropFirst(2).joined(separator: " ")
     }
 
+    private init(base: String, rest: String) {
+        self.base = base
+        self.rest = rest
+    }
+
+    /// Every verb a gloss offers: "to wake, wake up" → wake, wake up.
+    static func alternatives(inGloss gloss: String) -> [EnglishVerb] {
+        guard let first = EnglishVerb(gloss: gloss) else { return [] }
+        let cleaned = gloss.replacingOccurrences(of: "\\([^)]*\\)", with: "", options: .regularExpression)
+        var verbs = [first]
+        for part in cleaned.components(separatedBy: CharacterSet(charactersIn: ",;")).dropFirst() {
+            var words = part.split(whereSeparator: \.isWhitespace).map(String.init)
+            if words.first?.lowercased() == "to" { words.removeFirst() }
+            guard let head = words.first, head.allSatisfy(\.isLetter) else { continue }
+            let verb = EnglishVerb(base: head.lowercased(), rest: words.dropFirst().joined(separator: " "))
+            if !verbs.contains(verb) { verbs.append(verb) }
+        }
+        return verbs
+    }
+
     /// The English for a verb entry: its first meaning that is an infinitive.
-    init?(entry: Entry) {
-        guard entry.pos == "verb", let verb = entry.senses.lazy.compactMap({ EnglishVerb(gloss: $0.gloss) }).first else { return nil }
-        self = verb
+    /// With a `hint` (the story's gloss, "wakes up"), the meaning that
+    /// matches it, from any sense: "wake up" rather than "wake".
+    init?(entry: Entry, hint: String? = nil) {
+        var verbs: [EnglishVerb] = []
+        for verb in entry.senses.flatMap({ EnglishVerb.alternatives(inGloss: $0.gloss) }) where !verbs.contains(verb) {
+            verbs.append(verb)
+        }
+        guard entry.pos == "verb", !verbs.isEmpty else { return nil }
+        let hintWords = Set((hint ?? "").lowercased().split(whereSeparator: { !$0.isLetter }).map(String.init))
+        let fits = verbs.filter { verb in
+            !verb.rest.isEmpty && verb.rest.lowercased().split(separator: " ").allSatisfy { hintWords.contains(String($0)) }
+                && hintWords.contains { $0.hasPrefix(String(verb.base.prefix(3))) }
+        }
+        self = fits.max { $0.rest.count < $1.rest.count } ?? verbs[0]
     }
 
     // MARK: Who and when

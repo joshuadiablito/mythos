@@ -62,8 +62,10 @@ struct WordsView: View {
             .onAppear {
                 // `-review el` saves a story's words if there are none, then opens the review. For screenshots.
                 guard let code = UserDefaults.standard.string(forKey: "review"), let language = Language(rawValue: code) else { return }
+                // `-reviewStory es-a1-02` picks the story whose words to seed.
+                let seed = UserDefaults.standard.string(forKey: "reviewStory").flatMap(Catalog.shared.story(id:))
                 if !progress.savedWords.contains(where: { $0.language == language }),
-                   let story = Catalog.shared.stories(language, .a1).first {
+                   let story = seed ?? Catalog.shared.stories(language, .a1).first {
                     progress.saveAll(story.vocab, in: language, storyTitle: story.title)
                 }
                 if UserDefaults.standard.bool(forKey: "reviewOpen") { reviewing = language }
@@ -137,6 +139,30 @@ private struct WordRow: View {
 
 // MARK: - Flashcards
 
+/// "él/ella se despierta → he/she wakes up", a line for each reading of the word.
+private struct WhoIsDoingIt: View {
+    let lines: [WhoLine]
+
+    var body: some View {
+        VStack(spacing: 10) {
+            ForEach(lines.prefix(3), id: \.self) { line in
+                VStack(spacing: 2) {
+                    if !line.subject.isEmpty {
+                        Text(line.subject)
+                            .font(.system(.title3, design: .serif))
+                            .foregroundStyle(.secondary)
+                    }
+                    Text(line.english)
+                        .font(.system(size: lines.count > 1 ? 24 : 30, weight: .semibold))
+                        .multilineTextAlignment(.center)
+                        .minimumScaleFactor(0.5)
+                }
+            }
+        }
+        .accessibilityElement(children: .combine)
+    }
+}
+
 /// Saved words one at a time: the word, then a tap turns the card over for
 /// its meaning. "Again" sends it to the back of the pile; "Got it" puts it away.
 private struct FlashcardReview: View {
@@ -148,8 +174,16 @@ private struct FlashcardReview: View {
     @State private var known = 0
     @State private var total: Int
     @State private var drag: CGSize = .zero
+    /// Who does what in each word, from the dictionary: "él/ella se despierta → he/she wakes up".
+    @State private var readings: [SavedWord.ID: [WhoLine]] = [:]
 
     init(words: [SavedWord], language: Language) {
+        // In screenshots, `-reviewStory` puts that story's first glossary word on top.
+        #if DEBUG
+        let first = UserDefaults.standard.string(forKey: "reviewStory").flatMap(Catalog.shared.story(id:))?.vocab.first?.word
+        let words = words.sorted { a, _ in a.word == first }
+        _flipped = State(initialValue: UserDefaults.standard.bool(forKey: "reviewFlipped"))
+        #endif
         _words = State(initialValue: words)
         _total = State(initialValue: words.count)
         self.language = language
@@ -237,6 +271,16 @@ private struct FlashcardReview: View {
             .ignoresSafeArea()
         }
         .sensoryFeedback(.impact(weight: .light), trigger: flipped)
+        .task {
+            // Look every word up as the review opens (from the disk cache when it can),
+            // so turning a card over never waits. A word the dictionary can't read
+            // keeps its story gloss.
+            for word in words where readings[word.id] == nil {
+                if let result = try? await DictionaryClient.shared.lookUp(word.word, in: word.language) {
+                    readings[word.id] = result.whoLines(language: word.language, hint: word.meaning)
+                }
+            }
+        }
         .animation(.spring(duration: 0.45, bounce: 0.25), value: words.first?.id)
     }
 
@@ -260,15 +304,25 @@ private struct FlashcardReview: View {
             }
             .opacity(flipped ? 0 : 1)
 
-            // Back: its meaning, upside-down until the card turns.
+            // Back: who is doing it and what it means, upside-down until the card turns.
             VStack(spacing: 14) {
-                Text(word.word)
-                    .font(.system(.title2, design: .serif, weight: .semibold))
-                    .foregroundStyle(.secondary)
-                Text(word.meaning ?? "No meaning saved")
-                    .font(.system(size: 30, weight: .semibold))
-                    .multilineTextAlignment(.center)
-                    .minimumScaleFactor(0.5)
+                if let lines = readings[word.id], !lines.isEmpty {
+                    WhoIsDoingIt(lines: lines)
+                    if let meaning = word.meaning {
+                        Text("In the story: \(meaning)")
+                            .font(.subheadline)
+                            .foregroundStyle(.secondary)
+                            .multilineTextAlignment(.center)
+                    }
+                } else {
+                    Text(word.word)
+                        .font(.system(.title2, design: .serif, weight: .semibold))
+                        .foregroundStyle(.secondary)
+                    Text(word.meaning ?? "No meaning saved")
+                        .font(.system(size: 30, weight: .semibold))
+                        .multilineTextAlignment(.center)
+                        .minimumScaleFactor(0.5)
+                }
                 ListenButton(text: word.word, language: word.language)
             }
             .opacity(flipped ? 1 : 0)

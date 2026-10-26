@@ -24,4 +24,14 @@ nonisolated enum LookupCandidates {
         var seen = Set<String>()
         return out.filter { seen.insert($0).inserted }
     }
+
+    /// A phrase's words, longest first, for looking it up by its main word:
+    /// "se despierta" → "despierta", "se". Single words have none.
+    static func mainWords(of text: String) -> [String] {
+        let all = text.split(whereSeparator: { $0.isWhitespace }).map { $0.trimmingCharacters(in: .punctuationCharacters) }
+        guard all.count > 1 else { return [] }
+        // Clitics and articles ("se", "le", "a") are never the word to look up.
+        let words = all.filter { $0.count > 2 }
+        return words.enumerated().sorted { ($1.element.count, $0.offset) < ($0.element.count, $1.offset) }.map(\.element)
+    }
 }
