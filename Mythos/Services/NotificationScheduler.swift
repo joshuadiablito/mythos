@@ -7,7 +7,9 @@ import UserNotifications
 /// notifications; we keep 60 days queued and top up whenever the app opens.
 enum NotificationScheduler {
     nonisolated static let storyIDKey = "storyID"
-    private static let daysAhead = 60
+    /// iOS keeps at most 64 pending notifications; this many are shared between
+    /// the languages, one a day each, leaving room for a preview.
+    private static let budget = 60
     private static let idPrefix = "daily-"
 
     static func authorizationStatus() async -> UNAuthorizationStatus {
@@ -41,18 +43,26 @@ enum NotificationScheduler {
         let calendar = Calendar.current
         let plan = DailyPlan(catalog: catalog, calendar: calendar)
         let today = calendar.startOfDay(for: now)
+        // One notification a day per language, each at that language's time:
+        // 60 days ahead for one language, 30 for two, and so on.
+        let courses = settings.courses.filter { catalog.hasStories($0.language, $0.level) }
+        guard !courses.isEmpty else { return }
+        let daysAhead = max(7, budget / courses.count)
         for offset in 0..<daysAhead {
-            guard let day = calendar.date(byAdding: .day, value: offset, to: today),
-                  let fireDate = calendar.date(bySettingHour: settings.hour, minute: settings.minute, second: 0, of: day),
-                  fireDate > now,
-                  let story = plan.featured(in: settings.courses, on: day) else { continue }
-
-            let components = calendar.dateComponents([.year, .month, .day, .hour, .minute], from: fireDate)
-            let request = UNNotificationRequest(
-                identifier: idPrefix + ISO8601DateFormatter.string(from: day, timeZone: calendar.timeZone, formatOptions: [.withFullDate]),
-                content: content(for: story),
-                trigger: UNCalendarNotificationTrigger(dateMatching: components, repeats: false))
-            try? await center.add(request)
+            guard let day = calendar.date(byAdding: .day, value: offset, to: today) else { continue }
+            for course in courses {
+                let time = settings.time(for: course)
+                guard let fireDate = calendar.date(bySettingHour: time.hour, minute: time.minute, second: 0, of: day),
+                      fireDate > now,
+                      let story = plan.story(for: course, on: day) else { continue }
+                let components = calendar.dateComponents([.year, .month, .day, .hour, .minute], from: fireDate)
+                let date = ISO8601DateFormatter.string(from: day, timeZone: calendar.timeZone, formatOptions: [.withFullDate])
+                let request = UNNotificationRequest(
+                    identifier: "\(idPrefix)\(course.language.rawValue)-\(date)",
+                    content: content(for: story),
+                    trigger: UNCalendarNotificationTrigger(dateMatching: components, repeats: false))
+                try? await center.add(request)
+            }
         }
     }
 

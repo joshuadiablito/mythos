@@ -50,7 +50,7 @@ struct LibraryView: View {
                                 }
                             }
                             if search.isEmpty {
-                                LockedTile(remaining: plan.remaining(for: course, by: .now), time: settings.deliveryTime)
+                                LockedTile(remaining: plan.remaining(for: course, by: .now), time: settings.deliveryTime(for: course.language))
                             }
                         }
                         .padding(.horizontal, 20)

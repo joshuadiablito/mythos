@@ -7,6 +7,10 @@ struct Course: Codable, Hashable, Identifiable {
     var language: Language
     var level: Level
     var startedOn: Date
+    /// When this language's story arrives, if not at the shared default time:
+    /// Spanish at 7:00 and Greek at 8:00. Optional, so older settings decode.
+    var hour: Int?
+    var minute: Int?
 
     var id: Language { language }
 }
@@ -103,6 +107,35 @@ final class AppSettings {
     }
 
     func course(for language: Language) -> Course? { courses.first { $0.language == language } }
+
+    /// When a course's story arrives: its own time, or the shared one.
+    func time(for course: Course) -> (hour: Int, minute: Int) {
+        (course.hour ?? hour, course.minute ?? minute)
+    }
+
+    /// A course's delivery time as a date today, for DatePicker.
+    func deliveryTime(for language: Language) -> Date {
+        let t = course(for: language).map(time(for:)) ?? (hour: hour, minute: minute)
+        return Calendar.current.date(bySettingHour: t.hour, minute: t.minute, second: 0, of: .now) ?? .now
+    }
+
+    /// Gives one language its own delivery time.
+    func setDeliveryTime(_ date: Date, for language: Language) {
+        guard let i = courses.firstIndex(where: { $0.language == language }) else { return }
+        let c = Calendar.current.dateComponents([.hour, .minute], from: date)
+        courses[i].hour = c.hour
+        courses[i].minute = c.minute
+    }
+
+    /// Whether a language arrives at a time of its own rather than the shared one.
+    func hasOwnTime(_ language: Language) -> Bool { course(for: language)?.hour != nil }
+
+    /// Puts a language back on the shared time.
+    func useSharedTime(for language: Language) {
+        guard let i = courses.firstIndex(where: { $0.language == language }) else { return }
+        courses[i].hour = nil
+        courses[i].minute = nil
+    }
 
     func toggle(_ language: Language) {
         if let i = courses.firstIndex(where: { $0.language == language }) {

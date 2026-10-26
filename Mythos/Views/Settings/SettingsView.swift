@@ -50,7 +50,13 @@ struct SettingsView: View {
                         SlotPicker()
                             .listRowBackground(Color.clear)
                             .listRowInsets(EdgeInsets())
-                        DatePicker("Time", selection: $settings.deliveryTime, displayedComponents: .hourAndMinute)
+                        DatePicker(settings.courses.count > 1 ? "Default time" : "Time",
+                                   selection: $settings.deliveryTime, displayedComponents: .hourAndMinute)
+                        if settings.courses.count > 1 {
+                            ForEach(settings.courses) { course in
+                                LanguageTimeRow(language: course.language)
+                            }
+                        }
                         Button(previewSent ? "Arriving in 5 seconds…" : "Send a preview", systemImage: "bell.badge") {
                             Task {
                                 switch await NotificationScheduler.sendPreview(settings: settings) {
@@ -73,7 +79,7 @@ struct SettingsView: View {
                 } header: {
                     Text("Daily story")
                 } footer: {
-                    Text("Notifications are scheduled on this iPhone, 60 days ahead, and topped up each time you open Mythos. With more than one language, they take turns.")
+                    Text("Each language's story arrives at its own time: swipe a language to put it back on the default. Notifications are scheduled on this iPhone, weeks ahead, and topped up each time you open Mythos.")
                 }
                 .listRowBackground(Theme.card)
 
@@ -140,6 +146,36 @@ struct SettingsView: View {
 
     private func reschedule() {
         Task { await NotificationScheduler.reschedule(settings: settings) }
+    }
+}
+
+/// One language's delivery time: the default until it's changed, then its own.
+private struct LanguageTimeRow: View {
+    let language: Language
+    @Environment(AppSettings.self) private var settings
+
+    var body: some View {
+        let own = settings.hasOwnTime(language)
+        DatePicker(selection: Binding(get: { settings.deliveryTime(for: language) },
+                                      set: { settings.setDeliveryTime($0, for: language) }),
+                   displayedComponents: .hourAndMinute) {
+            HStack(spacing: 10) {
+                LanguageBadge(language: language, size: 28)
+                VStack(alignment: .leading, spacing: 1) {
+                    Text(language.endonym)
+                    Text(own ? "Its own time" : "Same as default")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+        }
+        .swipeActions {
+            if own {
+                Button("Use default", systemImage: "arrow.uturn.backward") { settings.useSharedTime(for: language) }
+                    .tint(Theme.accent)
+            }
+        }
+        .accessibilityHint("Sets when the \(language.name) story arrives")
     }
 }
 

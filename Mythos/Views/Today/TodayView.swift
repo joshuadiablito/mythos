@@ -339,7 +339,7 @@ private struct Tomorrow: View {
                     Text("A story about \(story.topic.lowercased())")
                         .font(.system(.title3, design: .serif, weight: .semibold))
                         .foregroundStyle(Theme.ink)
-                    Text("\(story.language.endonym) · arrives at \(settings.deliveryTime.formatted(date: .omitted, time: .shortened))")
+                    Text("\(story.language.endonym) · arrives at \(settings.deliveryTime(for: story.language).formatted(date: .omitted, time: .shortened))")
                         .font(.caption)
                         .foregroundStyle(.secondary)
                 }
