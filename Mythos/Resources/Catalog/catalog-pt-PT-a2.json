@@ -1,0 +1,682 @@
+{
+  "language": "pt-PT",
+  "level": "A2",
+  "stories": [
+    {
+      "id": "pt-PT-a2-01",
+      "title": "O mapa no guardanapo",
+      "subtitle": "The map on the napkin",
+      "topic": "Travel",
+      "symbol": "tram.fill",
+      "paragraphs": [
+        "No mês passado, a Inês foi ao Porto pela primeira vez. Comprou um bilhete para o Alfa Pendular, o comboio rápido, e saiu de Lisboa às oito da manhã. Levava um livro, uma sandes de queijo e muita vontade de conhecer a cidade.",
+        "Na viagem, sentou-se ao lado de um senhor idoso. Ele contou-lhe histórias do Porto: as pontes, o vinho, os barcos no rio Douro. A Inês ouviu tudo com atenção e não abriu o livro. O senhor desenhou um mapa num guardanapo, com os restaurantes e os miradouros preferidos dele.",
+        "Em Campanhã, a Inês agradeceu e despediu-se. Passou três dias no Porto e seguiu o mapa do guardanapo. Foi a melhor viagem da vida dela. Ainda hoje tem o guardanapo, guardado dentro do livro que nunca leu."
+      ],
+      "english": [
+        [
+          "Last month, Inês went to Porto for the first time.",
+          "She bought a ticket for the Alfa Pendular, the fast train, and left Lisbon at eight in the morning.",
+          "She took a book, a cheese sandwich and a great desire to get to know the city."
+        ],
+        [
+          "On the journey, she sat down next to an elderly man.",
+          "He told her stories about Porto: the bridges, the wine, the boats on the river Douro.",
+          "Inês listened carefully to everything and didn't open her book.",
+          "The man drew a map on a napkin, with his favourite restaurants and viewpoints."
+        ],
+        [
+          "At Campanhã, Inês thanked him and said goodbye.",
+          "She spent three days in Porto and followed the map on the napkin.",
+          "It was the best trip of her life.",
+          "She still has the napkin today, kept inside the book she never read."
+        ]
+      ],
+      "vocab": [
+        { "word": "mês passado", "gloss": "last month" },
+        { "word": "bilhete", "gloss": "ticket" },
+        { "word": "vontade", "gloss": "desire, wish" },
+        { "word": "sentou-se", "gloss": "she sat down" },
+        { "word": "idoso", "gloss": "elderly" },
+        { "word": "contou-lhe", "gloss": "told her" },
+        { "word": "desenhou", "gloss": "drew" },
+        { "word": "guardanapo", "gloss": "napkin" },
+        { "word": "despediu-se", "gloss": "said goodbye" },
+        { "word": "guardado", "gloss": "kept, put away" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-02",
+      "title": "Fumo na escada",
+      "subtitle": "Smoke on the stairs",
+      "topic": "Neighbours",
+      "symbol": "flame.fill",
+      "paragraphs": [
+        "Era um sábado de novembro, em Lisboa. A Clara estava a ler no sofá quando sentiu um cheiro estranho. Era cheiro a fumo! Abriu a porta do apartamento e viu fumo na escada do prédio.",
+        "Ficou muito nervosa. Pegou no telemóvel para ligar aos bombeiros, mas primeiro subiu ao terceiro andar. O fumo vinha de lá. Bateu à porta com força. Abriu um senhor de avental, com um sorriso enorme.",
+        "— Boa tarde, vizinha! — disse ele. — Desculpe o fumo. Estou a assar castanhas e a janela da cozinha não abre. Era o senhor Abel, o vizinho do terceiro andar. A Clara riu-se, aliviada. Nessa tarde, comeram castanhas quentes juntos e ficaram amigos."
+      ],
+      "english": [
+        [
+          "It was a Saturday in November, in Lisbon.",
+          "Clara was reading on the sofa when she noticed a strange smell.",
+          "It smelled of smoke!",
+          "She opened the door of her flat and saw smoke on the stairs of the building."
+        ],
+        [
+          "She got very nervous.",
+          "She picked up her phone to call the fire brigade, but first she went up to the third floor.",
+          "The smoke was coming from there.",
+          "She knocked hard on the door.",
+          "A man in an apron opened it, with an enormous smile."
+        ],
+        [
+          "“Good afternoon, neighbour!” he said.",
+          "“Sorry about the smoke.",
+          "I'm roasting chestnuts and the kitchen window doesn't open.”",
+          "It was Senhor Abel, the neighbour on the third floor.",
+          "Clara laughed, relieved.",
+          "That afternoon, they ate hot chestnuts together and became friends."
+        ]
+      ],
+      "vocab": [
+        { "word": "cheiro", "gloss": "smell" },
+        { "word": "fumo", "gloss": "smoke" },
+        { "word": "prédio", "gloss": "block of flats, building" },
+        { "word": "bombeiros", "gloss": "firefighters, fire brigade" },
+        { "word": "andar", "gloss": "floor, storey" },
+        { "word": "bateu à porta", "gloss": "knocked on the door" },
+        { "word": "avental", "gloss": "apron" },
+        { "word": "assar castanhas", "gloss": "roasting chestnuts" },
+        { "word": "aliviada", "gloss": "relieved" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-03",
+      "title": "Os verões na aldeia",
+      "subtitle": "Summers in the village",
+      "topic": "Memory",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Quando eu era pequeno, passava todos os verões na aldeia dos meus avós, em Trás-os-Montes. A aldeia ficava no alto de um monte e tinha só trinta habitantes. Não havia internet nem televisão a cores.",
+        "Os dias eram todos iguais, e eram perfeitos. De manhã, eu ia com o meu avô buscar as vacas. À tarde, tomava banho no rio com os outros miúdos. À noite, a minha avó fazia caldo verde e contava histórias de lobos. Eu tinha medo, mas pedia sempre mais uma.",
+        "No ano passado, voltei à aldeia com a minha filha. A casa dos meus avós está fechada e já só moram lá oito pessoas. Mas o rio ainda lá está. A minha filha tomou banho nele e disse: «Pai, este é o melhor sítio do mundo.» Eu concordei."
+      ],
+      "english": [
+        [
+          "When I was little, I used to spend every summer in my grandparents' village, in Trás-os-Montes.",
+          "The village was at the top of a hill and had only thirty inhabitants.",
+          "There was no internet and no colour television."
+        ],
+        [
+          "The days were all the same, and they were perfect.",
+          "In the morning, I went with my grandfather to fetch the cows.",
+          "In the afternoon, I swam in the river with the other kids.",
+          "In the evening, my grandmother made caldo verde and told stories about wolves.",
+          "I was scared, but I always asked for one more."
+        ],
+        [
+          "Last year, I went back to the village with my daughter.",
+          "My grandparents' house is shut up and only eight people live there now.",
+          "But the river is still there.",
+          "My daughter swam in it and said: “Dad, this is the best place in the world.”",
+          "I agreed."
+        ]
+      ],
+      "vocab": [
+        { "word": "passava", "gloss": "I used to spend" },
+        { "word": "aldeia", "gloss": "village" },
+        { "word": "habitantes", "gloss": "inhabitants" },
+        { "word": "buscar", "gloss": "to fetch" },
+        { "word": "miúdos", "gloss": "kids" },
+        { "word": "caldo verde", "gloss": "kale and potato soup" },
+        { "word": "lobos", "gloss": "wolves" },
+        { "word": "voltei", "gloss": "I went back" },
+        { "word": "sítio", "gloss": "place" },
+        { "word": "concordei", "gloss": "I agreed" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-04",
+      "title": "O bolo que não cresceu",
+      "subtitle": "The cake that didn't rise",
+      "topic": "Cooking",
+      "symbol": "oven.fill",
+      "paragraphs": [
+        "No domingo passado, a Teresa convidou a família do namorado para almoçar em Coimbra. Era a primeira vez que os conhecia. Para a sobremesa, decidiu fazer um pão de ló, o bolo preferido da mãe dele.",
+        "Bateu os ovos com o açúcar durante muito tempo, juntou a farinha e pôs o bolo no forno. Mas estava nervosa e abriu a porta do forno três vezes. O bolo não cresceu. Ficou baixo e mole por dentro. A Teresa quase chorou.",
+        "Mesmo assim, levou o bolo para a mesa. A mãe do namorado provou, fechou os olhos e sorriu. «É igual ao pão de ló de Ovar, da minha infância! Lá, ele é mole por dentro. Quem te deu a receita?» A Teresa olhou para o namorado e não disse nada."
+      ],
+      "english": [
+        [
+          "Last Sunday, Teresa invited her boyfriend's family to lunch in Coimbra.",
+          "It was the first time she was meeting them.",
+          "For dessert, she decided to make a pão de ló, his mother's favourite cake."
+        ],
+        [
+          "She beat the eggs with the sugar for a long time, added the flour and put the cake in the oven.",
+          "But she was nervous and opened the oven door three times.",
+          "The cake didn't rise.",
+          "It came out flat and runny inside.",
+          "Teresa nearly cried."
+        ],
+        [
+          "Even so, she took the cake to the table.",
+          "Her boyfriend's mother tasted it, closed her eyes and smiled.",
+          "“It's just like the pão de ló from Ovar, from my childhood! There, it's runny inside. Who gave you the recipe?”",
+          "Teresa looked at her boyfriend and said nothing."
+        ]
+      ],
+      "vocab": [
+        { "word": "convidou", "gloss": "invited" },
+        { "word": "sobremesa", "gloss": "dessert" },
+        { "word": "pão de ló", "gloss": "a light Portuguese sponge cake" },
+        { "word": "bateu", "gloss": "beat (eggs)" },
+        { "word": "farinha", "gloss": "flour" },
+        { "word": "forno", "gloss": "oven" },
+        { "word": "cresceu", "gloss": "rose, grew" },
+        { "word": "mole", "gloss": "soft, runny" },
+        { "word": "mesmo assim", "gloss": "even so" },
+        { "word": "infância", "gloss": "childhood" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-05",
+      "title": "Sempre a subir",
+      "subtitle": "Uphill all the way",
+      "topic": "City",
+      "symbol": "building.2.fill",
+      "paragraphs": [
+        "No sábado, o Rui, que é de Bragança, foi visitar Lisboa. Queria ver o Castelo de São Jorge, mas não tinha mapa e o telemóvel estava sem bateria. Então perguntou o caminho a uma senhora na Baixa.",
+        "— É sempre a subir — respondeu ela. Ele subiu uma rua, depois umas escadas. Perguntou a um rapaz. — É sempre a subir! — disse o rapaz. Mais escadas, mais ruas estreitas. Perguntou a um senhor num café. — Sempre a subir, meu amigo.",
+        "Uma hora depois, cansado e cheio de calor, o Rui chegou ao castelo. Lá de cima, viu a cidade inteira, o rio Tejo e a ponte. Percebeu uma coisa importante: em Lisboa, ninguém precisa de mapa. Para chegar a qualquer sítio bonito, é sempre a subir."
+      ],
+      "english": [
+        [
+          "On Saturday, Rui, who is from Bragança, went to visit Lisbon.",
+          "He wanted to see São Jorge Castle, but he didn't have a map and his phone's battery was dead.",
+          "So he asked a woman in the Baixa the way."
+        ],
+        [
+          "“It's uphill all the way,” she answered.",
+          "He went up a street, then some steps.",
+          "He asked a young man.",
+          "“It's uphill all the way!” said the young man.",
+          "More steps, more narrow streets.",
+          "He asked a man in a café.",
+          "“Uphill all the way, my friend.”"
+        ],
+        [
+          "An hour later, tired and very hot, Rui reached the castle.",
+          "From up there, he saw the whole city, the river Tagus and the bridge.",
+          "He realised something important: in Lisbon, nobody needs a map.",
+          "To get to any beautiful place, it's uphill all the way."
+        ]
+      ],
+      "vocab": [
+        { "word": "sem bateria", "gloss": "with a dead battery" },
+        { "word": "caminho", "gloss": "way, route" },
+        { "word": "a subir", "gloss": "going up, uphill" },
+        { "word": "escadas", "gloss": "steps, stairs" },
+        { "word": "rapaz", "gloss": "boy, young man" },
+        { "word": "inteira", "gloss": "whole, entire" },
+        { "word": "ponte", "gloss": "bridge" },
+        { "word": "percebeu", "gloss": "realised, understood" },
+        { "word": "qualquer", "gloss": "any" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-06",
+      "title": "O regresso do Farrusco",
+      "subtitle": "Farrusco comes home",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "O Farrusco é o cão da família Mendes, que vive num monte perto de Beja. Numa noite de tempestade, em março, o Farrusco fugiu. Teve medo dos trovões e saltou o muro.",
+        "A família procurou-o durante uma semana. O filho, o Gonçalo, pôs cartazes nas aldeias. A mãe ligou para todos os vizinhos. Ninguém o viu. O Gonçalo já não queria comer e chorava à noite.",
+        "No oitavo dia, de manhã cedo, ouviram ladrar lá fora. Era o Farrusco, sujo e magro, mas feliz. E não estava sozinho: atrás dele vinha uma cadela branca com três cachorrinhos. O pai olhou para eles e suspirou. — Bem, agora somos uma família maior."
+      ],
+      "english": [
+        [
+          "Farrusco is the Mendes family's dog, and they live on a farm near Beja.",
+          "One stormy night in March, Farrusco ran away.",
+          "He was scared of the thunder and jumped over the wall."
+        ],
+        [
+          "The family looked for him for a week.",
+          "Their son, Gonçalo, put up posters in the villages.",
+          "His mother rang all the neighbours.",
+          "Nobody had seen him.",
+          "Gonçalo didn't want to eat any more and cried at night."
+        ],
+        [
+          "On the eighth day, early in the morning, they heard barking outside.",
+          "It was Farrusco, dirty and thin, but happy.",
+          "And he wasn't alone: behind him came a white dog with three puppies.",
+          "The father looked at them and sighed.",
+          "“Well, now we're a bigger family.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "monte", "gloss": "farm, farmhouse (in the Alentejo)" },
+        { "word": "tempestade", "gloss": "storm" },
+        { "word": "fugiu", "gloss": "ran away" },
+        { "word": "trovões", "gloss": "thunder (claps of)" },
+        { "word": "procurou-o", "gloss": "looked for him" },
+        { "word": "cartazes", "gloss": "posters" },
+        { "word": "ladrar", "gloss": "barking" },
+        { "word": "sujo", "gloss": "dirty" },
+        { "word": "cachorrinhos", "gloss": "puppies" },
+        { "word": "suspirou", "gloss": "sighed" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-07",
+      "title": "A entrevista",
+      "subtitle": "The interview",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Em maio, a Joana teve uma entrevista de emprego num hotel grande em Albufeira. Queria muito trabalhar na receção. Na noite anterior, não dormiu nada. Preparou respostas em português, em inglês e em francês.",
+        "A entrevista começou mal. O diretor fez uma pergunta difícil em inglês e ela esqueceu-se de tudo. Ficou vermelha e começou a gaguejar. Depois, o diretor olhou para o currículo dela. — É de Alcoutim? — perguntou ele, surpreendido. — Sou, sim. Conhece?",
+        "O diretor sorriu. Também era de Alcoutim, uma vila pequena junto ao rio Guadiana. Falaram meia hora sobre a terra deles, a festa de agosto e o queijo de cabra da mãe dela. No fim, ele apertou-lhe a mão. — Começa na segunda-feira."
+      ],
+      "english": [
+        [
+          "In May, Joana had a job interview at a big hotel in Albufeira.",
+          "She really wanted to work on reception.",
+          "The night before, she didn't sleep at all.",
+          "She prepared answers in Portuguese, English and French."
+        ],
+        [
+          "The interview started badly.",
+          "The manager asked a difficult question in English and she forgot everything.",
+          "She went red and started to stammer.",
+          "Then the manager looked at her CV.",
+          "“You're from Alcoutim?” he asked, surprised.",
+          "“Yes, I am.",
+          "Do you know it?”"
+        ],
+        [
+          "The manager smiled.",
+          "He was from Alcoutim too, a small town by the river Guadiana.",
+          "They talked for half an hour about their home town, the August festival and her mother's goat's cheese.",
+          "At the end, he shook her hand.",
+          "“You start on Monday.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "entrevista de emprego", "gloss": "job interview" },
+        { "word": "receção", "gloss": "reception" },
+        { "word": "anterior", "gloss": "before, previous" },
+        { "word": "esqueceu-se", "gloss": "forgot" },
+        { "word": "gaguejar", "gloss": "to stammer" },
+        { "word": "currículo", "gloss": "CV, résumé" },
+        { "word": "surpreendido", "gloss": "surprised" },
+        { "word": "junto ao", "gloss": "next to, by" },
+        { "word": "terra", "gloss": "home town, home region" },
+        { "word": "apertou-lhe a mão", "gloss": "shook her hand" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-08",
+      "title": "O manjerico",
+      "subtitle": "The pot of basil",
+      "topic": "Celebrations",
+      "symbol": "party.popper.fill",
+      "paragraphs": [
+        "Em junho, Lisboa está sempre em festa. Na véspera de Santo António, a Leonor e as amigas foram aos arraiais de Alfama. As ruas estavam cheias de gente, de música e de fumo das sardinhas.",
+        "À meia-noite, um rapaz alto aproximou-se da Leonor. Trazia um manjerico, um vaso pequeno com uma planta e um papel com uma quadra. Deu-lhe o manjerico, sorriu e desapareceu na multidão. A Leonor leu o papel: «Neste vaso pequenino / vai um pedido sem fim: / se quiseres dançar comigo, / estou à porta do jardim.»",
+        "As amigas riram-se muito. A Leonor procurou o jardim do bairro e lá estava ele, à porta, nervoso. Chamava-se Tomás. Dançaram até às quatro da manhã. Hoje o manjerico ainda está na varanda dela, e o Tomás também aparece lá muitas vezes."
+      ],
+      "english": [
+        [
+          "In June, Lisbon is always celebrating.",
+          "On the eve of Saint Anthony's day, Leonor and her friends went to the street parties in Alfama.",
+          "The streets were full of people, music and smoke from the sardines."
+        ],
+        [
+          "At midnight, a tall young man came up to Leonor.",
+          "He was carrying a manjerico, a small pot with a plant and a paper with a four-line verse.",
+          "He gave her the manjerico, smiled and disappeared into the crowd.",
+          "Leonor read the paper: “In this little pot / goes an endless request: / if you want to dance with me, / I'm at the garden gate.”"
+        ],
+        [
+          "Her friends laughed a lot.",
+          "Leonor looked for the neighbourhood garden and there he was, at the gate, nervous.",
+          "His name was Tomás.",
+          "They danced until four in the morning.",
+          "Today the manjerico is still on her balcony, and Tomás often turns up there too."
+        ]
+      ],
+      "vocab": [
+        { "word": "véspera", "gloss": "eve, the day before" },
+        { "word": "arraiais", "gloss": "street parties" },
+        { "word": "aproximou-se", "gloss": "came up, approached" },
+        { "word": "manjerico", "gloss": "small pot of bush basil, a June love token" },
+        { "word": "vaso", "gloss": "flowerpot" },
+        { "word": "quadra", "gloss": "four-line verse" },
+        { "word": "desapareceu", "gloss": "disappeared" },
+        { "word": "multidão", "gloss": "crowd" },
+        { "word": "varanda", "gloss": "balcony" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-09",
+      "title": "Nevoeiro em Sintra",
+      "subtitle": "Fog in Sintra",
+      "topic": "Weather",
+      "symbol": "cloud.fog.fill",
+      "paragraphs": [
+        "O Martim e a Sofia acordaram cedo no domingo e foram de comboio a Sintra. Queriam ver o Palácio da Pena, com as suas cores amarela e vermelha. Em Lisboa, estava sol e céu azul.",
+        "Mas em Sintra estava um nevoeiro muito denso. Subiram a serra a pé durante uma hora. Não viam nada: nem o palácio, nem as árvores, nem o caminho. Só ouviam os pássaros e os passos de outros turistas perdidos. A Sofia estava desiludida.",
+        "De repente, o vento soprou e o nevoeiro abriu-se durante um minuto. O palácio apareceu à frente deles, enorme e colorido, como num sonho. Depois o nevoeiro fechou-se outra vez. O Martim não tirou nenhuma fotografia. «Não faz mal», disse a Sofia. «Eu nunca vou esquecer este minuto.»"
+      ],
+      "english": [
+        [
+          "Martim and Sofia woke up early on Sunday and went to Sintra by train.",
+          "They wanted to see the Pena Palace, with its yellow and red colours.",
+          "In Lisbon, it was sunny with blue skies."
+        ],
+        [
+          "But in Sintra there was a very thick fog.",
+          "They walked up the hills for an hour.",
+          "They couldn't see anything: not the palace, not the trees, not the path.",
+          "They could only hear the birds and the footsteps of other lost tourists.",
+          "Sofia was disappointed."
+        ],
+        [
+          "Suddenly, the wind blew and the fog opened up for a minute.",
+          "The palace appeared in front of them, enormous and colourful, as if in a dream.",
+          "Then the fog closed in again.",
+          "Martim didn't take a single photo.",
+          "“Never mind,” said Sofia.",
+          "“I'll never forget this minute.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "nevoeiro", "gloss": "fog" },
+        { "word": "denso", "gloss": "thick, dense" },
+        { "word": "serra", "gloss": "hills, mountain range" },
+        { "word": "passos", "gloss": "footsteps" },
+        { "word": "desiludida", "gloss": "disappointed" },
+        { "word": "soprou", "gloss": "blew" },
+        { "word": "apareceu", "gloss": "appeared" },
+        { "word": "sonho", "gloss": "dream" },
+        { "word": "não faz mal", "gloss": "never mind, it doesn't matter" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-10",
+      "title": "O avô e o telemóvel",
+      "subtitle": "Grandpa and the mobile phone",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "O avô Fernando tem oitenta e dois anos e mora em Vila Real. No Natal, os netos ofereceram-lhe um telemóvel com ecrã grande. Ele não gostou. «Para que é que eu preciso disto? Eu tenho o telefone de casa!»",
+        "Mas em janeiro, a neta Matilde foi estudar para Lisboa. A casa ficou silenciosa. Uma noite, o avô pegou no telemóvel e tentou mandar uma mensagem. Demorou quarenta minutos. Carregou nos botões errados, apagou tudo duas vezes e mandou uma fotografia do teto por engano.",
+        "Finalmente, conseguiu. A mensagem dizia só: «Ola matilde. sinto saudades. avo.» Sem acentos e sem maiúsculas. A Matilde leu-a no quarto, em Lisboa, e ligou logo ao avô por videochamada. Agora falam todas as noites, e o avô já sabe mandar emojis."
+      ],
+      "english": [
+        [
+          "Grandpa Fernando is eighty-two and lives in Vila Real.",
+          "At Christmas, his grandchildren gave him a mobile phone with a big screen.",
+          "He didn't like it.",
+          "“What do I need this for? I've got the home phone!”"
+        ],
+        [
+          "But in January, his granddaughter Matilde went to study in Lisbon.",
+          "The house went quiet.",
+          "One night, Grandpa picked up the phone and tried to send a message.",
+          "It took him forty minutes.",
+          "He pressed the wrong buttons, deleted everything twice and sent a photo of the ceiling by mistake."
+        ],
+        [
+          "Finally, he managed it.",
+          "The message just said: “Hello matilde. i miss you. grandpa.”",
+          "No accents and no capital letters.",
+          "Matilde read it in her room in Lisbon and immediately video-called her grandfather.",
+          "Now they talk every night, and Grandpa already knows how to send emojis."
+        ]
+      ],
+      "vocab": [
+        { "word": "netos", "gloss": "grandchildren" },
+        { "word": "ofereceram-lhe", "gloss": "gave him (as a present)" },
+        { "word": "ecrã", "gloss": "screen" },
+        { "word": "silenciosa", "gloss": "quiet, silent" },
+        { "word": "carregou", "gloss": "pressed" },
+        { "word": "apagou", "gloss": "deleted" },
+        { "word": "teto", "gloss": "ceiling" },
+        { "word": "por engano", "gloss": "by mistake" },
+        { "word": "conseguiu", "gloss": "managed (to do it)" },
+        { "word": "sinto saudades", "gloss": "I miss you" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-11",
+      "title": "A São Silvestre",
+      "subtitle": "The New Year's Eve race",
+      "topic": "Sport",
+      "symbol": "figure.run",
+      "paragraphs": [
+        "No ano passado, o Hugo decidiu correr a São Silvestre do Porto, a corrida de dez quilómetros do dia 31 de dezembro. Tinha quarenta e cinco anos e só corria três quilómetros ao domingo. Treinou durante três meses, todas as manhãs, antes do trabalho.",
+        "Na noite da corrida, fazia muito frio. Havia milhares de pessoas na Avenida dos Aliados, muitas com gorros de Pai Natal. A corrida começou e o Hugo partiu depressa demais. Ao quilómetro seis, já não conseguia respirar.",
+        "Pensou em desistir. Mas então viu a filha, a Mariana, no meio do público, com um cartaz: «Força, pai! Tu consegues!» O Hugo continuou, devagar. Chegou ao fim em uma hora e dois minutos, quase em último lugar. Foi o momento mais feliz do ano."
+      ],
+      "english": [
+        [
+          "Last year, Hugo decided to run the São Silvestre in Porto, the ten-kilometre race on 31 December.",
+          "He was forty-five and only ran three kilometres on Sundays.",
+          "He trained for three months, every morning, before work."
+        ],
+        [
+          "On the night of the race, it was very cold.",
+          "There were thousands of people on the Avenida dos Aliados, many in Father Christmas hats.",
+          "The race started and Hugo set off too fast.",
+          "At kilometre six, he couldn't breathe any more."
+        ],
+        [
+          "He thought about giving up.",
+          "But then he saw his daughter, Mariana, in the middle of the crowd, with a sign: “Come on, Dad! You can do it!”",
+          "Hugo carried on, slowly.",
+          "He reached the finish in one hour and two minutes, nearly in last place.",
+          "It was the happiest moment of the year."
+        ]
+      ],
+      "vocab": [
+        { "word": "correr", "gloss": "to run" },
+        { "word": "corrida", "gloss": "race" },
+        { "word": "treinou", "gloss": "trained" },
+        { "word": "milhares", "gloss": "thousands" },
+        { "word": "gorros", "gloss": "woolly hats" },
+        { "word": "partiu", "gloss": "set off" },
+        { "word": "depressa demais", "gloss": "too fast" },
+        { "word": "respirar", "gloss": "to breathe" },
+        { "word": "desistir", "gloss": "giving up, to give up" },
+        { "word": "devagar", "gloss": "slowly" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-12",
+      "title": "Neve na Serra da Estrela",
+      "subtitle": "Snow in the Serra da Estrela",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Em fevereiro, a Daniela foi passar um fim de semana à Serra da Estrela com os colegas de trabalho. Era a primeira vez que via neve. Alugou uns esquis e foi para a pista, cheia de confiança.",
+        "Não correu bem. Na primeira descida, perdeu o equilíbrio e caiu. Sentiu uma dor forte no pulso. Os colegas levaram-na ao hospital da Covilhã. O médico fez uma radiografia e disse: «Partiu o pulso. Vai ficar com gesso seis semanas.»",
+        "A Daniela ficou triste, porque o fim de semana acabou ali. Mas no hotel, à noite, não ficou sozinha. Os colegas ficaram com ela à lareira, a jogar às cartas e a comer queijo da serra. Todos assinaram o gesso dela. «Para o ano, venho outra vez», disse ela. «Mas fico na lareira.»"
+      ],
+      "english": [
+        [
+          "In February, Daniela went to spend a weekend in the Serra da Estrela with her colleagues from work.",
+          "It was the first time she'd seen snow.",
+          "She hired some skis and went onto the slope, full of confidence."
+        ],
+        [
+          "It didn't go well.",
+          "On the first run down, she lost her balance and fell.",
+          "She felt a sharp pain in her wrist.",
+          "Her colleagues took her to the hospital in Covilhã.",
+          "The doctor did an X-ray and said: “You've broken your wrist. You'll be in plaster for six weeks.”"
+        ],
+        [
+          "Daniela was sad, because the weekend ended there.",
+          "But at the hotel, in the evening, she wasn't alone.",
+          "Her colleagues stayed with her by the fire, playing cards and eating cheese from the mountains.",
+          "They all signed her cast.",
+          "“I'll come again next year,” she said.",
+          "“But I'll stay by the fire.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "neve", "gloss": "snow" },
+        { "word": "alugou", "gloss": "hired, rented" },
+        { "word": "pista", "gloss": "ski slope" },
+        { "word": "descida", "gloss": "run down, descent" },
+        { "word": "equilíbrio", "gloss": "balance" },
+        { "word": "pulso", "gloss": "wrist" },
+        { "word": "levaram-na", "gloss": "took her" },
+        { "word": "partiu", "gloss": "you've broken (it)" },
+        { "word": "gesso", "gloss": "plaster cast" },
+        { "word": "lareira", "gloss": "fireplace" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-13",
+      "title": "A noite sem luz",
+      "subtitle": "The night without electricity",
+      "topic": "Home",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Na terça-feira à noite, houve um apagão em todo o bairro, em Setúbal. A família Silva estava em casa. O pai estava a ver o futebol, a mãe estava ao computador e os dois filhos estavam a jogar no tablet. De repente, ficou tudo escuro.",
+        "Primeiro, ninguém sabia o que fazer. O frigorífico parou, o wi-fi desapareceu e as baterias começaram a acabar. A mãe encontrou umas velas numa gaveta da cozinha. O pai foi buscar um baralho de cartas antigo.",
+        "Sentaram-se todos à mesa da sala e jogaram à sueca. O filho mais novo não sabia as regras, mas aprendeu depressa e ganhou duas vezes. Riram-se muito. Às onze, a luz voltou. Ninguém se levantou. «Só mais um jogo», pediu a filha."
+      ],
+      "english": [
+        [
+          "On Tuesday night, there was a power cut in the whole neighbourhood, in Setúbal.",
+          "The Silva family was at home.",
+          "The father was watching football, the mother was on the computer and the two children were playing on the tablet.",
+          "Suddenly, everything went dark."
+        ],
+        [
+          "At first, nobody knew what to do.",
+          "The fridge stopped, the wi-fi disappeared and the batteries started to run out.",
+          "The mother found some candles in a kitchen drawer.",
+          "The father went to fetch an old pack of cards."
+        ],
+        [
+          "They all sat down at the dining table and played sueca.",
+          "The youngest son didn't know the rules, but he learned quickly and won twice.",
+          "They laughed a lot.",
+          "At eleven, the electricity came back.",
+          "Nobody got up.",
+          "“Just one more game,” the daughter begged."
+        ]
+      ],
+      "vocab": [
+        { "word": "apagão", "gloss": "power cut" },
+        { "word": "escuro", "gloss": "dark" },
+        { "word": "frigorífico", "gloss": "fridge" },
+        { "word": "gaveta", "gloss": "drawer" },
+        { "word": "baralho de cartas", "gloss": "pack of cards" },
+        { "word": "sueca", "gloss": "a popular Portuguese card game" },
+        { "word": "regras", "gloss": "rules" },
+        { "word": "ganhou", "gloss": "won" },
+        { "word": "voltou", "gloss": "came back" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-14",
+      "title": "O barco para o Pico",
+      "subtitle": "The boat to Pico",
+      "topic": "Love",
+      "symbol": "ferry.fill",
+      "paragraphs": [
+        "Há dez anos, a Rosa trabalhava num banco na Horta, na ilha do Faial. Todas as sextas-feiras, apanhava o barco para o Pico, a ilha em frente, para visitar os pais. A viagem demorava meia hora.",
+        "Numa sexta-feira de inverno, o mar estava muito agitado. A Rosa sentiu-se mal e saiu para o convés. Lá encontrou um rapaz pálido, também enjoado. Chamava-se Nuno e era professor de música no Pico. Conversaram para esquecer as ondas. Quando o barco chegou, os dois já não estavam enjoados.",
+        "Na sexta-feira seguinte, a Rosa procurou-o no barco. Ele estava no mesmo lugar, com dois chás de gengibre. Casaram-se três anos depois. Hoje moram no Pico, com duas filhas. E sempre que o mar está agitado, o Nuno faz chá de gengibre."
+      ],
+      "english": [
+        [
+          "Ten years ago, Rosa worked in a bank in Horta, on the island of Faial.",
+          "Every Friday, she caught the boat to Pico, the island opposite, to visit her parents.",
+          "The crossing took half an hour."
+        ],
+        [
+          "One Friday in winter, the sea was very rough.",
+          "Rosa felt ill and went out onto the deck.",
+          "There she found a pale young man, also seasick.",
+          "His name was Nuno and he was a music teacher on Pico.",
+          "They chatted to forget the waves.",
+          "When the boat arrived, neither of them was seasick any more."
+        ],
+        [
+          "The following Friday, Rosa looked for him on the boat.",
+          "He was in the same place, with two ginger teas.",
+          "They got married three years later.",
+          "Today they live on Pico, with two daughters.",
+          "And whenever the sea is rough, Nuno makes ginger tea."
+        ]
+      ],
+      "vocab": [
+        { "word": "em frente", "gloss": "opposite" },
+        { "word": "agitado", "gloss": "rough (sea)" },
+        { "word": "sentiu-se mal", "gloss": "felt ill" },
+        { "word": "convés", "gloss": "deck" },
+        { "word": "pálido", "gloss": "pale" },
+        { "word": "enjoado", "gloss": "seasick" },
+        { "word": "conversaram", "gloss": "they chatted" },
+        { "word": "seguinte", "gloss": "following, next" },
+        { "word": "gengibre", "gloss": "ginger" },
+        { "word": "casaram-se", "gloss": "they got married" }
+      ]
+    },
+    {
+      "id": "pt-PT-a2-15",
+      "title": "O exame de condução",
+      "subtitle": "The driving test",
+      "topic": "Learning",
+      "symbol": "car.fill",
+      "paragraphs": [
+        "O Bernardo tinha dezoito anos e queria muito ter carta de condução. Teve aulas numa escola de condução em Leiria durante quatro meses. O instrutor, o senhor Albano, era muito paciente.",
+        "No dia do exame, o Bernardo estava muito nervoso. Esqueceu-se de pôr o cinto de segurança, entrou numa rotunda ao contrário e quase bateu num caixote do lixo. O examinador escreveu muito num papel. Chumbou.",
+        "Na segunda vez, um mês depois, as coisas correram melhor. O Bernardo respirou fundo, pôs o cinto e conduziu devagar pelas ruas de Leiria. Estacionou à primeira. No fim, o examinador disse: «Parabéns, passou.» O Bernardo telefonou logo à mãe. Depois telefonou ao senhor Albano, que ficou ainda mais contente do que ele."
+      ],
+      "english": [
+        [
+          "Bernardo was eighteen and really wanted to get his driving licence.",
+          "He had lessons at a driving school in Leiria for four months.",
+          "The instructor, Senhor Albano, was very patient."
+        ],
+        [
+          "On the day of the test, Bernardo was very nervous.",
+          "He forgot to put on his seatbelt, went the wrong way round a roundabout and almost hit a wheelie bin.",
+          "The examiner wrote a lot on a piece of paper.",
+          "He failed."
+        ],
+        [
+          "The second time, a month later, things went better.",
+          "Bernardo took a deep breath, put on his seatbelt and drove slowly through the streets of Leiria.",
+          "He parked at the first attempt.",
+          "At the end, the examiner said: “Congratulations, you've passed.”",
+          "Bernardo rang his mother straight away.",
+          "Then he rang Senhor Albano, who was even happier than he was."
+        ]
+      ],
+      "vocab": [
+        { "word": "carta de condução", "gloss": "driving licence" },
+        { "word": "cinto de segurança", "gloss": "seatbelt" },
+        { "word": "rotunda", "gloss": "roundabout" },
+        { "word": "caixote do lixo", "gloss": "rubbish bin" },
+        { "word": "chumbou", "gloss": "he failed (a test)" },
+        { "word": "correram melhor", "gloss": "went better" },
+        { "word": "respirou fundo", "gloss": "took a deep breath" },
+        { "word": "conduziu", "gloss": "drove" },
+        { "word": "estacionou", "gloss": "parked" },
+        { "word": "passou", "gloss": "you've passed" }
+      ]
+    }
+  ]
+}

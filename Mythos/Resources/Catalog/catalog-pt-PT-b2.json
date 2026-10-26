@@ -1,0 +1,837 @@
+{
+  "language": "pt-PT",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "pt-PT-b2-01",
+      "title": "Carta à presidente da câmara",
+      "subtitle": "A letter to the mayor",
+      "topic": "Society",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Senhora Presidente da Câmara Municipal de Mértola, escrevo-lhe em nome dos pais das onze crianças que frequentam a escola primária de Vale da Murta. Soubemos pelo jornal regional, e não por si, que a escola vai ser encerrada no fim deste ano letivo e que os nossos filhos passarão a ser transportados todos os dias para a sede do concelho. Compreendemos que onze alunos sejam um número pequeno. Mas peço-lhe que, antes de tomar uma decisão definitiva, considere o que esta escola representa.",
+        "Se a escola fechar, as crianças mais novas terão de apanhar o autocarro às sete e um quarto da manhã e só voltarão a casa depois das seis. Passarão quase duas horas por dia na estrada, por caminhos de terra que no inverno ficam intransitáveis. Além disso, é pouco provável que alguma família jovem se mude para uma aldeia sem escola. A escola não é apenas um edifício: é a razão pela qual a aldeia ainda tem futuro.",
+        "Não queremos que pense que somos contra a mudança. Pelo contrário, temos propostas. A escola poderia ser partilhada com as aldeias vizinhas, ou funcionar também como centro de dia para os idosos, que são a maioria dos nossos habitantes. Já falámos com a junta de freguesia, que está disposta a ajudar com as despesas. Pedimos apenas que nos receba e que nos ouça antes de assinar o despacho.",
+        "Convidamo-la, aliás, a visitar a escola numa manhã qualquer, sem aviso. Vai encontrar onze crianças que sabem o nome de todas as plantas das margens do Guadiana e uma professora que conhece cada uma delas como se fossem suas. Com os melhores cumprimentos, Ana Rita Guerreiro, em nome da Associação de Pais de Vale da Murta."
+      ],
+      "english": [
+        [
+          "Madam Mayor of Mértola, I am writing to you on behalf of the parents of the eleven children who attend the primary school in Vale da Murta.",
+          "We learned from the regional newspaper, and not from you, that the school is going to be closed at the end of this school year and that our children will from then on be bussed every day to the municipal town.",
+          "We understand that eleven pupils is a small number.",
+          "But I ask you, before you take a final decision, to consider what this school represents."
+        ],
+        [
+          "If the school closes, the youngest children will have to catch the bus at a quarter past seven in the morning and won't get home until after six.",
+          "They will spend almost two hours a day on the road, along dirt tracks that become impassable in winter.",
+          "Besides, it is unlikely that any young family will move to a village without a school.",
+          "The school is not just a building: it is the reason the village still has a future."
+        ],
+        [
+          "We don't want you to think that we are against change.",
+          "On the contrary, we have proposals.",
+          "The school could be shared with the neighbouring villages, or also work as a day centre for the elderly, who are the majority of our inhabitants.",
+          "We have already spoken to the parish council, which is willing to help with the costs.",
+          "We ask only that you receive us and listen to us before signing the order."
+        ],
+        [
+          "In fact, we invite you to visit the school any morning, without warning.",
+          "You will find eleven children who know the name of every plant on the banks of the Guadiana and a teacher who knows each of them as if they were her own.",
+          "Yours sincerely, Ana Rita Guerreiro, on behalf of the Vale da Murta Parents' Association."
+        ]
+      ],
+      "vocab": [
+        { "word": "frequentam", "gloss": "attend" },
+        { "word": "encerrada", "gloss": "closed down" },
+        { "word": "ano letivo", "gloss": "school year" },
+        { "word": "sede do concelho", "gloss": "the municipality's main town" },
+        { "word": "intransitáveis", "gloss": "impassable" },
+        { "word": "é pouco provável que", "gloss": "it is unlikely that" },
+        { "word": "partilhada", "gloss": "shared" },
+        { "word": "centro de dia", "gloss": "day centre" },
+        { "word": "junta de freguesia", "gloss": "parish council" },
+        { "word": "disposta", "gloss": "willing" },
+        { "word": "despacho", "gloss": "official order, decree" },
+        { "word": "aliás", "gloss": "in fact, what's more" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-02",
+      "title": "A pintora de azulejos",
+      "subtitle": "The tile painter",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Há quarenta e cinco anos que Lucília Marques pinta azulejos à mão numa pequena oficina em Marvila, em Lisboa. Aos sessenta e oito anos, é uma das poucas pessoas na cidade que ainda trabalham assim. Fomos visitá-la numa manhã de chuva, entre fornos, pincéis e pilhas de azulejos por cozer.",
+        "— Como é que começou? — Por acaso. Tinha dezassete anos e precisava de emprego. O meu tio conhecia o dono de uma fábrica e arranjou-me um lugar. Ao princípio, só lavava pincéis. Um dia, faltou um pintor e pediram-me que acabasse um painel. Nunca mais parei.",
+        "— Há quem diga que o azulejo industrial é igual e muito mais barato. O que responde? — Que é mais barato, é. Igual, não. Um azulejo pintado à mão tem pequenas imperfeições: o azul é mais escuro num canto, a linha treme um bocadinho. É isso que lhe dá vida. Uma fachada de azulejos industriais parece uma fotografia; uma fachada pintada à mão parece que respira. Mas não culpo ninguém. As pessoas compram aquilo que podem pagar.",
+        "— E o futuro? — Tenho dois aprendizes, uma rapariga de Setúbal e um rapaz que veio da Guiné-Bissau. São melhores do que eu era na idade deles. Disse-lhes que não esperassem ficar ricos. Mas também lhes disse que, daqui a cem anos, alguém vai passar numa rua de Lisboa, olhar para uma parede e sentir alguma coisa por causa deles. Isso não tem preço."
+      ],
+      "english": [
+        [
+          "For forty-five years, Lucília Marques has been painting tiles by hand in a small workshop in Marvila, in Lisbon.",
+          "At sixty-eight, she is one of the few people in the city who still work this way.",
+          "We went to visit her one rainy morning, among kilns, brushes and stacks of unfired tiles."
+        ],
+        [
+          "“How did you start?”",
+          "“By chance.",
+          "I was seventeen and needed a job.",
+          "My uncle knew the owner of a factory and got me a place.",
+          "At first, I just washed brushes.",
+          "One day, a painter was off and they asked me to finish a panel.",
+          "I never stopped.”"
+        ],
+        [
+          "“Some people say industrial tiles are just the same and much cheaper.",
+          "What do you say to that?”",
+          "“That they're cheaper, yes.",
+          "The same, no.",
+          "A hand-painted tile has small imperfections: the blue is darker in one corner, the line wobbles a little.",
+          "That's what gives it life.",
+          "A façade of industrial tiles looks like a photograph; a hand-painted façade looks as if it's breathing.",
+          "But I don't blame anyone.",
+          "People buy what they can afford.”"
+        ],
+        [
+          "“And the future?”",
+          "“I have two apprentices, a girl from Setúbal and a boy who came from Guinea-Bissau.",
+          "They're better than I was at their age.",
+          "I told them not to expect to get rich.",
+          "But I also told them that, a hundred years from now, someone will walk down a street in Lisbon, look at a wall and feel something because of them.",
+          "That's priceless.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "oficina", "gloss": "workshop" },
+        { "word": "pincéis", "gloss": "paintbrushes" },
+        { "word": "por cozer", "gloss": "not yet fired" },
+        { "word": "por acaso", "gloss": "by chance" },
+        { "word": "arranjou-me", "gloss": "got me, found me" },
+        { "word": "painel", "gloss": "(tile) panel" },
+        { "word": "há quem diga", "gloss": "some people say" },
+        { "word": "treme", "gloss": "wobbles, trembles" },
+        { "word": "fachada", "gloss": "façade" },
+        { "word": "culpo", "gloss": "I blame" },
+        { "word": "aprendizes", "gloss": "apprentices" },
+        { "word": "esperassem", "gloss": "(that they should) expect" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-03",
+      "title": "A minha rua já não é minha",
+      "subtitle": "My street isn't mine any more",
+      "topic": "City",
+      "symbol": "building.2.fill",
+      "paragraphs": [
+        "Nasci há quarenta anos numa rua de Alfama onde toda a gente se conhecia. A minha avó estendia a roupa à janela, a vizinha do lado gritava-lhe as notícias e, nas noites de junho, a rua inteira jantava na calçada. Hoje, dos vinte e dois apartamentos do meu prédio, só quatro são habitados por pessoas que cá vivem o ano inteiro. Os outros são alojamentos locais, com fechaduras eletrónicas e malas de rodinhas a subir e a descer a escada a qualquer hora.",
+        "Não escrevo isto para culpar os turistas. Seria injusto e, além disso, inútil. Muitos são simpáticos, curiosos, e é graças a eles que o meu primo ainda tem o restaurante aberto. Também não culpo os vizinhos que venderam as casas: alguns eram idosos que viviam sozinhos, em casas sem elevador, e receberam ofertas que nunca imaginaram. Quem sou eu para lhes dizer que deviam ter recusado?",
+        "O problema é outro. É que ninguém parece ter decidido que isto acontecesse; simplesmente aconteceu. Durante anos, as regras foram tão permissivas que um bairro inteiro foi transformado num hotel sem que alguém tivesse perguntado aos moradores o que achavam. Quando finalmente foram impostos limites, já era tarde para a minha rua.",
+        "Não tenho uma solução mágica. Mas gostava que, antes de se aprovar a próxima grande mudança numa cidade, alguém batesse à porta das pessoas que lá vivem. Talvez não mudasse nada. Mas pelo menos saberíamos que a cidade ainda é, também, nossa."
+      ],
+      "english": [
+        [
+          "I was born forty years ago on a street in Alfama where everybody knew each other.",
+          "My grandmother hung the washing out of the window, the woman next door shouted the news to her and, on June nights, the whole street ate dinner on the pavement.",
+          "Today, of the twenty-two flats in my building, only four are lived in by people who live here all year round.",
+          "The others are holiday lets, with electronic locks and wheelie suitcases going up and down the stairs at all hours."
+        ],
+        [
+          "I'm not writing this to blame the tourists.",
+          "It would be unfair and, besides, pointless.",
+          "Many of them are friendly and curious, and it's thanks to them that my cousin still has his restaurant open.",
+          "Nor do I blame the neighbours who sold their homes: some were elderly people living alone, in houses with no lift, and they received offers they had never imagined.",
+          "Who am I to tell them they should have refused?"
+        ],
+        [
+          "The problem is something else.",
+          "It's that nobody seems to have decided that this should happen; it simply happened.",
+          "For years, the rules were so lax that a whole neighbourhood was turned into a hotel without anyone having asked the residents what they thought.",
+          "When limits were finally imposed, it was already too late for my street."
+        ],
+        [
+          "I don't have a magic solution.",
+          "But I would like someone, before the next big change in a city is approved, to knock on the doors of the people who live there.",
+          "Perhaps it wouldn't change anything.",
+          "But at least we would know that the city is still ours, too."
+        ]
+      ],
+      "vocab": [
+        { "word": "estendia a roupa", "gloss": "hung out the washing" },
+        { "word": "calçada", "gloss": "pavement (of Portuguese cobbles)" },
+        { "word": "habitados", "gloss": "lived in, occupied" },
+        { "word": "alojamentos locais", "gloss": "registered short-term holiday lets" },
+        { "word": "fechaduras", "gloss": "locks" },
+        { "word": "malas de rodinhas", "gloss": "wheelie suitcases" },
+        { "word": "inútil", "gloss": "pointless, useless" },
+        { "word": "graças a", "gloss": "thanks to" },
+        { "word": "permissivas", "gloss": "lax, permissive" },
+        { "word": "moradores", "gloss": "residents" },
+        { "word": "impostos", "gloss": "imposed" },
+        { "word": "batesse", "gloss": "(that someone) knocked" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-04",
+      "title": "De volta à aldeia",
+      "subtitle": "Back to the village",
+      "topic": "Work",
+      "symbol": "laptopcomputer",
+      "paragraphs": [
+        "Quando, em 2020, a empresa onde trabalhava anunciou que os funcionários podiam ficar em teletrabalho por tempo indeterminado, a Raquel Antunes, programadora de trinta e quatro anos, fez uma coisa que os amigos de Lisboa acharam absurda: mudou-se para a aldeia dos avós, perto de Idanha-a-Nova, onde vivem menos de cem pessoas. «Disseram-me que eu ia aguentar três meses», conta, a rir. Já passaram cinco anos.",
+        "Os primeiros tempos não foram fáceis. A internet falhava sempre que chovia, e houve uma reunião importante que teve de ser feita no adro da igreja, o único sítio com rede móvel decente. Os vizinhos olhavam-na com desconfiança: uma mulher nova, sozinha, que passava o dia ao computador e não tinha horário para nada. «Achavam que eu estava desempregada, ou doente», recorda.",
+        "Aos poucos, as coisas mudaram. A Raquel começou a ajudar os idosos a marcar consultas pela internet e a falar com os netos emigrados por videochamada. Em troca, aprendeu a fazer queijo, a podar oliveiras e a reconhecer pelo som o motor da carrinha do pão. Depois dela, chegaram mais dois casais jovens, um deles com um bebé. A escola, que estava fechada há doze anos, poderá reabrir se houver crianças suficientes.",
+        "Será este o futuro do interior do país? A Raquel prefere não exagerar. «O teletrabalho não salva aldeias sozinho. Sem estradas, sem médico, sem escola, ninguém fica.» Mas admite que não voltaria para Lisboa, nem que lhe pagassem o dobro. «Aqui, sei o nome de toda a gente. Em Lisboa, nem sabia o nome do vizinho da frente.»"
+      ],
+      "english": [
+        [
+          "When, in 2020, the company she worked for announced that staff could work from home indefinitely, Raquel Antunes, a thirty-four-year-old programmer, did something her friends in Lisbon thought was absurd: she moved to her grandparents' village, near Idanha-a-Nova, where fewer than a hundred people live.",
+          "“They told me I'd last three months,” she says, laughing.",
+          "Five years have gone by."
+        ],
+        [
+          "The early days weren't easy.",
+          "The internet went down whenever it rained, and there was one important meeting that had to be held in the churchyard, the only place with a decent mobile signal.",
+          "The neighbours eyed her with suspicion: a young woman, alone, who spent the day at the computer and kept no fixed hours.",
+          "“They thought I was unemployed, or ill,” she recalls."
+        ],
+        [
+          "Little by little, things changed.",
+          "Raquel started helping the elderly to book doctor's appointments online and to talk to their emigrant grandchildren by video call.",
+          "In return, she learned to make cheese, to prune olive trees and to recognise the bread van's engine by its sound.",
+          "After her, two more young couples arrived, one of them with a baby.",
+          "The school, which had been closed for twelve years, may reopen if there are enough children."
+        ],
+        [
+          "Is this the future of the country's interior?",
+          "Raquel prefers not to exaggerate.",
+          "“Remote work doesn't save villages on its own. Without roads, without a doctor, without a school, nobody stays.”",
+          "But she admits she wouldn't go back to Lisbon, even if they paid her double.",
+          "“Here, I know everybody's name. In Lisbon, I didn't even know the name of the neighbour across the landing.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "teletrabalho", "gloss": "remote work, working from home" },
+        { "word": "por tempo indeterminado", "gloss": "indefinitely" },
+        { "word": "aguentar", "gloss": "to last, stick it out" },
+        { "word": "adro", "gloss": "churchyard, square in front of a church" },
+        { "word": "rede móvel", "gloss": "mobile signal" },
+        { "word": "desconfiança", "gloss": "suspicion, distrust" },
+        { "word": "aos poucos", "gloss": "little by little" },
+        { "word": "emigrados", "gloss": "who have emigrated" },
+        { "word": "podar", "gloss": "to prune" },
+        { "word": "carrinha", "gloss": "van" },
+        { "word": "interior", "gloss": "the inland regions (of Portugal)" },
+        { "word": "nem que", "gloss": "not even if" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-05",
+      "title": "Diário de um furacão",
+      "subtitle": "Diary of a hurricane",
+      "topic": "Weather",
+      "symbol": "cloud.bolt.rain.fill",
+      "paragraphs": [
+        "Segunda-feira, 2 de outubro. O IPMA emitiu o aviso vermelho para o grupo ocidental: um furacão deverá passar amanhã à noite muito perto das Flores. Na escola, as aulas foram suspensas. O meu pai passou a tarde a pregar tábuas nas janelas e a minha mãe encheu a banheira de água, «por precaução». Eu, confesso, estou mais entusiasmado do que assustado.",
+        "Terça-feira, 3 de outubro. Já não estou entusiasmado. São onze da noite e escrevo à luz de uma lanterna, porque a eletricidade foi cortada às nove. O vento uiva como um animal ferido e a casa inteira estremece. Há bocado, ouvimos um estrondo enorme: o telhado do palheiro foi arrancado e voou para o campo do vizinho. A minha irmã mais nova adormeceu no meu colo.",
+        "Quarta-feira, 4 de outubro. Saímos de casa ao amanhecer. A aldeia parecia ter sido bombardeada: árvores arrancadas, postes caídos, o porto de pesca completamente destruído. Felizmente, não houve feridos. Ao fim da manhã, toda a gente estava na rua a ajudar, sem que ninguém tivesse dado ordens. O senhor Jacinto, que não fala com o meu pai há dez anos por causa de uma vaca, apareceu com a motosserra e passou o dia connosco.",
+        "Domingo, 8 de outubro. Ainda não temos eletricidade, mas o barco com mantimentos chegou ontem de São Miguel. Esta tarde, o meu pai e o senhor Jacinto beberam um copo de aguardente juntos, à porta de casa. Não falaram da vaca. A minha mãe diz que há males que vêm por bem."
+      ],
+      "english": [
+        [
+          "Monday, 2 October.",
+          "The weather service has issued a red warning for the western group: a hurricane is expected to pass very close to Flores tomorrow night.",
+          "At school, lessons have been cancelled.",
+          "My father spent the afternoon nailing boards over the windows and my mother filled the bath with water, “as a precaution”.",
+          "I'll admit I'm more excited than scared."
+        ],
+        [
+          "Tuesday, 3 October.",
+          "I'm not excited any more.",
+          "It's eleven at night and I'm writing by torchlight, because the electricity was cut off at nine.",
+          "The wind is howling like a wounded animal and the whole house is shaking.",
+          "A little while ago, we heard an enormous crash: the roof of the hay barn was torn off and flew into the neighbour's field.",
+          "My little sister fell asleep on my lap."
+        ],
+        [
+          "Wednesday, 4 October.",
+          "We went outside at dawn.",
+          "The village looked as if it had been bombed: trees uprooted, poles down, the fishing harbour completely destroyed.",
+          "Fortunately, nobody was hurt.",
+          "By late morning, everyone was out in the street helping, without anyone having given any orders.",
+          "Senhor Jacinto, who hasn't spoken to my father for ten years because of a cow, turned up with his chainsaw and spent the day with us."
+        ],
+        [
+          "Sunday, 8 October.",
+          "We still have no electricity, but the boat with supplies arrived from São Miguel yesterday.",
+          "This afternoon, my father and Senhor Jacinto had a glass of brandy together, at our front door.",
+          "They didn't talk about the cow.",
+          "My mother says every cloud has a silver lining."
+        ]
+      ],
+      "vocab": [
+        { "word": "aviso vermelho", "gloss": "red (weather) warning" },
+        { "word": "pregar tábuas", "gloss": "nailing boards" },
+        { "word": "por precaução", "gloss": "as a precaution" },
+        { "word": "uiva", "gloss": "howls" },
+        { "word": "estremece", "gloss": "shakes, shudders" },
+        { "word": "há bocado", "gloss": "a little while ago" },
+        { "word": "estrondo", "gloss": "crash, bang" },
+        { "word": "palheiro", "gloss": "hay barn" },
+        { "word": "feridos", "gloss": "injured people" },
+        { "word": "motosserra", "gloss": "chainsaw" },
+        { "word": "mantimentos", "gloss": "supplies, provisions" },
+        { "word": "há males que vêm por bem", "gloss": "every cloud has a silver lining" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-06",
+      "title": "Depois do fogo",
+      "subtitle": "After the fire",
+      "topic": "Environment",
+      "symbol": "tree.fill",
+      "paragraphs": [
+        "Há alguns anos, num verão de calor extremo, o fogo passou pela aldeia do senhor Joaquim, na serra da Lousã, e levou-lhe tudo o que tinha à volta da casa: o pinhal, o eucaliptal que o pai plantara nos anos setenta, o curral das cabras. A casa salvou-se por milagre, porque os vizinhos a regaram com mangueiras até as chamas passarem. Quando o fumo desapareceu, a serra estava negra até onde a vista alcançava.",
+        "Os técnicos da câmara disseram-lhe que o terreno poderia voltar a ser plantado com eucaliptos, que crescem depressa e dão lucro em dez anos. Um vizinho aconselhou-o a vender tudo a uma empresa de celulose. O senhor Joaquim, que tinha então setenta e um anos, respondeu que ia pensar. Passou o inverno a ler, com a ajuda da neta, tudo o que encontrou sobre a floresta autóctone: carvalhos, castanheiros, medronheiros, sobreiros. Descobriu que estas árvores ardem muito pior do que os eucaliptos e os pinheiros, e que, antes de terem sido cortadas, cobriam toda aquela serra.",
+        "Na primavera seguinte, começou a plantar. Os vizinhos acharam que ele tinha enlouquecido. «Um carvalho leva cinquenta anos a ficar grande», disse-lhe o presidente da junta. «O senhor não o vai ver.» O senhor Joaquim respondeu que o pai também não tinha visto crescer a maior parte das árvores que plantou, e que não tinha sido por isso que deixara de as plantar.",
+        "Hoje, oito anos depois, há mais de três mil árvores jovens no terreno, algumas já mais altas do que ele. Voltaram os javalis, as raposas e um casal de águias que ninguém via ali há décadas. Os alunos da escola da vila vão lá todos os anos plantar mais umas dezenas. Quando lhe perguntam se não tem pena de não chegar a ver a floresta adulta, o senhor Joaquim encolhe os ombros e diz que já a vê, só que de olhos fechados."
+      ],
+      "english": [
+        [
+          "A few years ago, in a summer of extreme heat, the fire swept through Senhor Joaquim's village, in the Lousã hills, and took everything he had around his house: the pine wood, the eucalyptus plantation his father had planted in the seventies, the goat pen.",
+          "The house was saved by a miracle, because the neighbours hosed it down until the flames had passed.",
+          "When the smoke cleared, the hills were black as far as the eye could see."
+        ],
+        [
+          "The council's experts told him the land could be replanted with eucalyptus, which grows quickly and makes a profit in ten years.",
+          "A neighbour advised him to sell everything to a paper-pulp company.",
+          "Senhor Joaquim, who was seventy-one at the time, replied that he would think about it.",
+          "He spent the winter reading, with his granddaughter's help, everything he could find about the native forest: oaks, chestnuts, strawberry trees, cork oaks.",
+          "He discovered that these trees burn much less easily than eucalyptus and pine, and that, before they were cut down, they had covered those entire hills."
+        ],
+        [
+          "The following spring, he started planting.",
+          "The neighbours thought he had gone mad.",
+          "“An oak takes fifty years to grow big,” the head of the parish council told him.",
+          "“You won't see it.”",
+          "Senhor Joaquim replied that his father hadn't seen most of the trees he planted grow up either, and that it wasn't for that reason he had stopped planting them."
+        ],
+        [
+          "Today, eight years later, there are more than three thousand young trees on the land, some already taller than he is.",
+          "The wild boar have come back, and the foxes, and a pair of eagles that nobody had seen there for decades.",
+          "The pupils from the local school go there every year to plant a few dozen more.",
+          "When people ask him if he's sorry he won't live to see the forest fully grown, Senhor Joaquim shrugs and says he can already see it, only with his eyes closed."
+        ]
+      ],
+      "vocab": [
+        { "word": "pinhal", "gloss": "pine wood" },
+        { "word": "eucaliptal", "gloss": "eucalyptus plantation" },
+        { "word": "curral", "gloss": "pen, fold (for animals)" },
+        { "word": "mangueiras", "gloss": "hoses" },
+        { "word": "alcançava", "gloss": "could reach" },
+        { "word": "lucro", "gloss": "profit" },
+        { "word": "celulose", "gloss": "paper pulp" },
+        { "word": "autóctone", "gloss": "native" },
+        { "word": "medronheiros", "gloss": "strawberry trees" },
+        { "word": "sobreiros", "gloss": "cork oaks" },
+        { "word": "ardem", "gloss": "burn" },
+        { "word": "javalis", "gloss": "wild boar" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-07",
+      "title": "O avô e as notícias",
+      "subtitle": "Grandpa and the news",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "O meu avô tem oitenta e um anos e descobriu o grupo da família no telemóvel há dois anos. Desde então, todas as manhãs, às sete em ponto, partilha connosco aquilo a que ele chama «as notícias». Já nos informou de que o limão cura o cancro, de que vão proibir o bacalhau a partir de janeiro e de que um famoso futebolista tinha morrido, o que deixou a minha tia em lágrimas até que o futebolista publicou uma fotografia na praia.",
+        "Ao princípio, ríamo-nos. Depois, começámos a ficar preocupados. Um dia, o avô transferiu cinquenta euros para uma suposta campanha de ajuda às vítimas de um terramoto que nunca tinha acontecido. A minha mãe quis tirar-lhe o telemóvel. Eu achei que essa não era a solução: o avô não é ingénuo, apenas cresceu num tempo em que, se uma coisa vinha escrita, era porque alguém a tinha verificado.",
+        "Por isso, propus-lhe um jogo. Cada vez que recebesse uma notícia surpreendente, antes de a partilhar, tinha de responder a três perguntas: quem a escreveu, onde mais aparece e a quem interessa que ele acredite nela. Se não soubesse responder, ligava-me. Nas primeiras semanas, ligava-me quatro vezes por dia. Confesso que pensei em desistir.",
+        "Seis meses depois, aconteceu uma coisa extraordinária. Foi a minha tia, a mesma que tinha chorado pelo futebolista, quem partilhou no grupo uma mensagem sobre uma vacina que alegadamente alterava o ADN. Às sete e cinco da manhã, o avô respondeu: «Quem escreveu isto? Onde mais aparece? A quem interessa? Liga à tua sobrinha antes de assustares a família.» Nunca me senti tão orgulhosa."
+      ],
+      "english": [
+        [
+          "My grandfather is eighty-one and discovered the family group on his phone two years ago.",
+          "Since then, every morning, at seven on the dot, he shares with us what he calls “the news”.",
+          "He has already informed us that lemon cures cancer, that salt cod is going to be banned from January and that a famous footballer had died, which left my aunt in tears until the footballer posted a photo of himself on the beach."
+        ],
+        [
+          "At first, we laughed.",
+          "Then we started to get worried.",
+          "One day, Grandpa transferred fifty euros to a so-called appeal for the victims of an earthquake that had never happened.",
+          "My mother wanted to take his phone away.",
+          "I thought that wasn't the answer: Grandpa isn't naive, he just grew up at a time when, if something was in writing, it was because someone had checked it."
+        ],
+        [
+          "So I suggested a game.",
+          "Every time he received a surprising piece of news, before sharing it, he had to answer three questions: who wrote it, where else it appears and who benefits if he believes it.",
+          "If he couldn't answer, he would ring me.",
+          "In the first few weeks, he rang me four times a day.",
+          "I admit I thought about giving up."
+        ],
+        [
+          "Six months later, something extraordinary happened.",
+          "It was my aunt, the same one who had cried over the footballer, who shared a message in the group about a vaccine that allegedly altered your DNA.",
+          "At five past seven in the morning, Grandpa replied: “Who wrote this? Where else does it appear? Who benefits? Ring your niece before you scare the family.”",
+          "I've never felt so proud."
+        ]
+      ],
+      "vocab": [
+        { "word": "em ponto", "gloss": "on the dot" },
+        { "word": "partilha", "gloss": "shares" },
+        { "word": "proibir", "gloss": "to ban" },
+        { "word": "transferiu", "gloss": "transferred (money)" },
+        { "word": "suposta", "gloss": "so-called, supposed" },
+        { "word": "terramoto", "gloss": "earthquake" },
+        { "word": "ingénuo", "gloss": "naive" },
+        { "word": "verificado", "gloss": "checked, verified" },
+        { "word": "recebesse", "gloss": "(whenever he) received" },
+        { "word": "alegadamente", "gloss": "allegedly" },
+        { "word": "assustares", "gloss": "you scare (personal infinitive)" },
+        { "word": "orgulhosa", "gloss": "proud (female)" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-08",
+      "title": "O segredo de Tentúgal",
+      "subtitle": "The secret of Tentúgal",
+      "topic": "Cooking",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Diz-se em Tentúgal, uma vila perto de Coimbra, que a massa dos verdadeiros pastéis deve ser tão fina que se consiga ler o jornal através dela. A receita foi inventada, segundo a tradição, pelas freiras de um convento local, e passou depois de geração em geração, quase sempre em segredo. Quando a tia-avó da Inês morreu, deixou-lhe a pastelaria, mas não lhe deixou a receita. Nunca a tinha escrito.",
+        "Durante três meses, a Inês tentou reproduzir a massa sozinha. Esticava-a sobre os lençóis brancos da sala de trabalho, como tinha visto a tia fazer centenas de vezes, mas a massa rasgava-se, ficava grossa ou colava-se aos dedos. Os clientes antigos provavam os pastéis, sorriam com educação e não voltavam. A Inês começou a pensar que talvez fosse melhor vender a casa a uma cadeia de pastelarias de Lisboa, que lhe tinha feito uma proposta generosa.",
+        "Foi então que apareceu a dona Ermelinda, uma senhora de oitenta anos que tinha trabalhado com a tia durante quatro décadas. Disse que tinha ouvido dizer que a pastelaria ia ser vendida e que não podia permitir que isso acontecesse. Pediu à Inês que lhe mostrasse as mãos, apalpou-as e abanou a cabeça. «O problema não é a receita, menina. É a pressa. A sua tia dizia que a massa só se deixa esticar por quem não tem pressa.»",
+        "Durante o inverno, a dona Ermelinda foi todas as manhãs à pastelaria. Não ensinou quantidades nem temperaturas; ensinou silêncios, gestos, a maneira de respirar enquanto se estica a massa. Em março, um cliente antigo provou um pastel e pediu logo mais seis. A proposta da cadeia de Lisboa foi recusada por carta, e a Inês nunca escreveu a receita. Diz que, se um dia tiver de a ensinar, vai fazê-lo como lhe foi ensinada a ela: com as mãos."
+      ],
+      "english": [
+        [
+          "They say in Tentúgal, a small town near Coimbra, that the pastry of the real pastéis should be so thin you could read the newspaper through it.",
+          "The recipe was invented, according to tradition, by the nuns of a local convent, and was then handed down from generation to generation, almost always in secret.",
+          "When Inês's great-aunt died, she left her the pastry shop, but she didn't leave her the recipe.",
+          "She had never written it down."
+        ],
+        [
+          "For three months, Inês tried to reproduce the pastry on her own.",
+          "She stretched it out over the white sheets in the workroom, as she had seen her aunt do hundreds of times, but the pastry tore, came out thick or stuck to her fingers.",
+          "The old customers tasted the pastries, smiled politely and didn't come back.",
+          "Inês began to think it might be better to sell the shop to a chain of pastry shops from Lisbon, which had made her a generous offer."
+        ],
+        [
+          "It was then that Dona Ermelinda turned up, an eighty-year-old woman who had worked with her aunt for four decades.",
+          "She said she had heard that the shop was going to be sold and that she couldn't let that happen.",
+          "She asked Inês to show her her hands, felt them and shook her head.",
+          "“The problem isn't the recipe, my girl. It's hurry. Your aunt used to say the pastry only lets itself be stretched by someone who isn't in a hurry.”"
+        ],
+        [
+          "Throughout the winter, Dona Ermelinda went to the shop every morning.",
+          "She didn't teach quantities or temperatures; she taught silences, gestures, the way to breathe while you stretch the pastry.",
+          "In March, an old customer tasted a pastry and immediately asked for six more.",
+          "The Lisbon chain's offer was turned down by letter, and Inês never wrote the recipe down.",
+          "She says that if one day she has to teach it, she will do it the way it was taught to her: with her hands."
+        ]
+      ],
+      "vocab": [
+        { "word": "diz-se", "gloss": "it is said, they say" },
+        { "word": "freiras", "gloss": "nuns" },
+        { "word": "tia-avó", "gloss": "great-aunt" },
+        { "word": "esticava-a", "gloss": "she stretched it" },
+        { "word": "rasgava-se", "gloss": "tore" },
+        { "word": "grossa", "gloss": "thick" },
+        { "word": "com educação", "gloss": "politely" },
+        { "word": "cadeia", "gloss": "chain (of shops)" },
+        { "word": "apalpou-as", "gloss": "felt them" },
+        { "word": "abanou a cabeça", "gloss": "shook her head" },
+        { "word": "pressa", "gloss": "hurry, haste" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-09",
+      "title": "Carta de Coimbra",
+      "subtitle": "A letter from Coimbra",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Querida mãe, prometi-te que te escreveria uma carta em português no fim do primeiro semestre, para provar que não passo os dias na esplanada. Aqui está ela, com erros e tudo. Pede à Giulia que ta traduza, se for preciso.",
+        "Coimbra é mais pequena do que eu imaginava e muito mais íngreme. Vivo numa república com nove estudantes portugueses, uma cabo-verdiana e um gato que ninguém sabe a quem pertence. Ao princípio, não percebia nada: os portugueses engolem metade das vogais, e eu passava as conversas a sorrir e a acenar com a cabeça. Um dia, concordei entusiasmada com uma coisa que, afinal, era a notícia da morte do avô de um colega. Nunca tive tanta vergonha.",
+        "As aulas são diferentes das de Bolonha. Os professores tratam-nos por «senhor doutor» e «senhora doutora», mesmo no primeiro ano, o que me parece cómico e simpático ao mesmo tempo. Fiz um exame oral de Direito Romano em português e tive treze valores, o que aqui é considerado bom, embora tu, que sempre quiseste que eu fosse a melhor da turma, provavelmente não concordes.",
+        "Mas o que mais me surpreendeu foi a noite. Não as festas, que também existem, mas o fado de Coimbra, cantado por rapazes de capa preta nas escadas da Sé Velha. Da primeira vez que o ouvi, chorei sem perceber porquê. Uma colega disse-me que isso se chamava saudade e que eu tinha apanhado a doença. Acho que tem razão: ainda estou cá e já tenho saudades disto. Beijinhos a todos, e não deixes o pai comer os meus biscoitos. Chiara."
+      ],
+      "english": [
+        [
+          "Dear Mum, I promised you I would write you a letter in Portuguese at the end of the first semester, to prove I don't spend my days at café tables.",
+          "Here it is, mistakes and all.",
+          "Ask Giulia to translate it for you, if you need to."
+        ],
+        [
+          "Coimbra is smaller than I imagined and much steeper.",
+          "I live in a república with nine Portuguese students, a Cape Verdean girl and a cat nobody knows the owner of.",
+          "At first, I didn't understand a thing: the Portuguese swallow half their vowels, and I spent conversations smiling and nodding.",
+          "One day, I enthusiastically agreed with something that turned out to be the news that a classmate's grandfather had died.",
+          "I've never been so embarrassed."
+        ],
+        [
+          "Lessons are different from the ones in Bologna.",
+          "The lecturers address us as “senhor doutor” and “senhora doutora”, even in the first year, which strikes me as comical and charming at the same time.",
+          "I took an oral exam in Roman Law in Portuguese and got thirteen out of twenty, which is considered good here, although you, who always wanted me to be top of the class, probably won't agree."
+        ],
+        [
+          "But what surprised me most was the night.",
+          "Not the parties, though there are those too, but Coimbra fado, sung by young men in black capes on the steps of the Old Cathedral.",
+          "The first time I heard it, I cried without understanding why.",
+          "A friend told me that was called saudade and that I'd caught the disease.",
+          "I think she's right: I'm still here and I already miss it.",
+          "Love to everyone, and don't let Dad eat my biscuits.",
+          "Chiara."
+        ]
+      ],
+      "vocab": [
+        { "word": "esplanada", "gloss": "outdoor café terrace" },
+        { "word": "ta traduza", "gloss": "(that she) translate it for you" },
+        { "word": "íngreme", "gloss": "steep" },
+        { "word": "pertence", "gloss": "belongs" },
+        { "word": "engolem", "gloss": "swallow" },
+        { "word": "vogais", "gloss": "vowels" },
+        { "word": "acenar com a cabeça", "gloss": "nodding" },
+        { "word": "vergonha", "gloss": "embarrassment, shame" },
+        { "word": "tratam-nos por", "gloss": "address us as" },
+        { "word": "valores", "gloss": "marks (out of twenty)" },
+        { "word": "embora", "gloss": "although" },
+        { "word": "concordes", "gloss": "(you) agree (subjunctive)" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-10",
+      "title": "Entre irmãos",
+      "subtitle": "Between brothers",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Há três anos, o Rui pediu ao irmão mais velho, o Nuno, oito mil euros emprestados. Queria abrir uma oficina de bicicletas em Aveiro e o banco tinha-lhe recusado o crédito. O Nuno, que é contabilista e nunca fez nada sem uma folha de cálculo, hesitou durante uma semana. Depois transferiu o dinheiro, com uma única condição: que o Rui lhe devolvesse tudo em dois anos.",
+        "A oficina correu melhor do que alguém esperava. Mas os dois anos passaram e o dinheiro não foi devolvido. O Rui comprou uma carrinha nova, foi de férias às Canárias e publicou as fotografias nas redes sociais. O Nuno não disse nada. Nos jantares de família, os dois falavam de futebol e do tempo, e a mãe, que não sabia de nada, comentava que eles nunca se tinham dado tão bem.",
+        "Foi a mulher do Nuno quem acabou por pôr o assunto em cima da mesa, literalmente, num almoço de domingo. Disse que estava farta de fingir e que, se o Rui não pagasse, ela própria ia contar tudo à sogra. Houve um silêncio terrível. O Rui ficou vermelho e saiu de casa sem acabar o arroz de pato. A mãe chorou.",
+        "Uma semana depois, o Nuno recebeu um envelope. Lá dentro estava um cheque de oito mil euros e um bilhete escrito à mão. O Rui explicava que não tinha pago antes porque tinha vergonha de admitir que precisara de ajuda, e que se tinha convencido de que, enquanto não falassem do assunto, a dívida não existia. Pedia desculpa. O Nuno guardou o cheque na gaveta durante um mês antes de o depositar. Nunca soube muito bem explicar porquê."
+      ],
+      "english": [
+        [
+          "Three years ago, Rui asked his older brother, Nuno, to lend him eight thousand euros.",
+          "He wanted to open a bicycle workshop in Aveiro and the bank had turned down his loan.",
+          "Nuno, who is an accountant and has never done anything without a spreadsheet, hesitated for a week.",
+          "Then he transferred the money, on one condition: that Rui paid it all back within two years."
+        ],
+        [
+          "The workshop did better than anyone expected.",
+          "But the two years passed and the money wasn't paid back.",
+          "Rui bought a new van, went on holiday to the Canaries and posted the photos on social media.",
+          "Nuno said nothing.",
+          "At family dinners, the two of them talked about football and the weather, and their mother, who knew nothing about it, remarked that they had never got on so well."
+        ],
+        [
+          "It was Nuno's wife who ended up putting the matter on the table, literally, at a Sunday lunch.",
+          "She said she was fed up with pretending and that, if Rui didn't pay, she would tell her mother-in-law everything herself.",
+          "There was a terrible silence.",
+          "Rui went red and left the house without finishing his duck rice.",
+          "Their mother cried."
+        ],
+        [
+          "A week later, Nuno received an envelope.",
+          "Inside was a cheque for eight thousand euros and a handwritten note.",
+          "Rui explained that he hadn't paid earlier because he was ashamed to admit he had needed help, and that he had convinced himself that, as long as they didn't talk about it, the debt didn't exist.",
+          "He said he was sorry.",
+          "Nuno kept the cheque in a drawer for a month before paying it in.",
+          "He was never quite able to explain why."
+        ]
+      ],
+      "vocab": [
+        { "word": "emprestados", "gloss": "on loan, lent" },
+        { "word": "recusado", "gloss": "refused, turned down" },
+        { "word": "contabilista", "gloss": "accountant" },
+        { "word": "folha de cálculo", "gloss": "spreadsheet" },
+        { "word": "devolvesse", "gloss": "(that he) paid back" },
+        { "word": "se tinham dado tão bem", "gloss": "had got on so well" },
+        { "word": "farta", "gloss": "fed up" },
+        { "word": "fingir", "gloss": "pretending" },
+        { "word": "sogra", "gloss": "mother-in-law" },
+        { "word": "precisara", "gloss": "had needed" },
+        { "word": "falassem", "gloss": "(as long as they didn't) talk" },
+        { "word": "depositar", "gloss": "to pay in, deposit" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-11",
+      "title": "O cavalo da Golegã",
+      "subtitle": "The horse from Golegã",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Em novembro, durante a Feira Nacional do Cavalo, a pequena vila da Golegã, no Ribatejo, recebe dezenas de milhares de visitantes. Nas ruas, cheira a castanhas assadas, a água-pé e a estrume. Os cavaleiros desfilam com os seus cavalos lusitanos, de crina entrançada, e há quem pague pequenas fortunas pelos melhores animais.",
+        "A Marta tinha catorze anos e ia à feira com o avô desde que se lembrava. Este ano, levavam o Tejo, um lusitano cinzento de dezanove anos, já reformado das provas. Não o levavam para vender, mas para que desfilasse pela última vez. A meio da tarde, um homem de chapéu de aba larga aproximou-se e passou a mão pelo pescoço do cavalo, com olho de entendido. Perguntou ao avô quanto queria por ele.",
+        "O avô disse que o cavalo não estava à venda. O homem insistiu: tinha uma quinta em Espanha e procurava um cavalo calmo e experiente para a filha, que tinha uma deficiência motora e estava a começar a montar. Ofereceu um preço muito acima do que um cavalo daquela idade valia. A Marta sentiu um aperto no estômago. O avô olhou para ela, em silêncio, e disse que a decisão era dela.",
+        "A Marta passou a noite sem dormir. De manhã, pediu para conhecer a rapariga. Chamava-se Lucía e tinha a mesma idade dela. Quando a Lucía montou o Tejo pela primeira vez, ao passo, o cavalo baixou a cabeça e andou mais devagar do que a Marta alguma vez o tinha visto andar. A Marta aceitou vendê-lo, mas com uma condição: que lhe mandassem uma fotografia todos os meses. Nunca falharam um único mês."
+      ],
+      "english": [
+        [
+          "In November, during the National Horse Fair, the small town of Golegã, in the Ribatejo, welcomes tens of thousands of visitors.",
+          "The streets smell of roast chestnuts, new wine and manure.",
+          "Riders parade on their Lusitano horses, with braided manes, and some people pay small fortunes for the best animals."
+        ],
+        [
+          "Marta was fourteen and had been going to the fair with her grandfather for as long as she could remember.",
+          "This year, they were taking Tejo, a nineteen-year-old grey Lusitano, already retired from competition.",
+          "They weren't taking him to sell, but so that he could parade one last time.",
+          "In the middle of the afternoon, a man in a wide-brimmed hat came up and ran his hand along the horse's neck, with an expert's eye.",
+          "He asked her grandfather how much he wanted for him."
+        ],
+        [
+          "Her grandfather said the horse wasn't for sale.",
+          "The man insisted: he had a farm in Spain and was looking for a calm, experienced horse for his daughter, who had a physical disability and was starting to ride.",
+          "He offered a price far above what a horse of that age was worth.",
+          "Marta felt a knot in her stomach.",
+          "Her grandfather looked at her in silence and said the decision was hers."
+        ],
+        [
+          "Marta spent the night without sleeping.",
+          "In the morning, she asked to meet the girl.",
+          "Her name was Lucía and she was the same age as her.",
+          "When Lucía rode Tejo for the first time, at a walk, the horse lowered his head and walked more slowly than Marta had ever seen him walk.",
+          "Marta agreed to sell him, but on one condition: that they sent her a photo every month.",
+          "They never missed a single month."
+        ]
+      ],
+      "vocab": [
+        { "word": "água-pé", "gloss": "light new wine drunk in November" },
+        { "word": "estrume", "gloss": "manure" },
+        { "word": "desfilam", "gloss": "parade" },
+        { "word": "crina entrançada", "gloss": "braided mane" },
+        { "word": "reformado", "gloss": "retired" },
+        { "word": "provas", "gloss": "competitions, events" },
+        { "word": "aba larga", "gloss": "wide brim" },
+        { "word": "entendido", "gloss": "expert, connoisseur" },
+        { "word": "deficiência motora", "gloss": "physical disability" },
+        { "word": "montar", "gloss": "to ride (a horse)" },
+        { "word": "aperto", "gloss": "knot, tightness" },
+        { "word": "ao passo", "gloss": "at a walk" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-12",
+      "title": "Saudade, para estrangeiros",
+      "subtitle": "Saudade, for foreigners",
+      "topic": "Language",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Todos os estrangeiros que aprendem português acabam, mais cedo ou mais tarde, por fazer a mesma pergunta: o que é, afinal, a saudade? E todos os portugueses respondem com o mesmo orgulho ligeiramente pomposo: é uma palavra que não existe em mais nenhuma língua. Ora, isto não é exatamente verdade, e acho que já é tempo de o admitirmos.",
+        "Os galegos têm «morriña», os romenos têm «dor», os alemães têm «Sehnsucht», e qualquer pessoa que já tenha sentido falta de alguém sabe perfeitamente do que estamos a falar. O sentimento é universal. O que talvez seja nosso é a importância que lhe damos. Fizemos da saudade uma espécie de identidade nacional, cantámo-la no fado, escrevemos-lhe poemas, pusemo-la nos postais para turistas. Poucas nações terão feito de uma tristeza um motivo de orgulho.",
+        "Se tivesse de a explicar a um amigo estrangeiro, não lhe daria uma definição. Contava-lhe antes uma situação. Imagina que estás numa festa, rodeado de pessoas de quem gostas, e que de repente te lembras de alguém que devia estar ali e não está. Não é bem tristeza, porque a festa continua a ser boa. Também não é bem alegria. É a presença de uma ausência. É sentir, ao mesmo tempo, a falta e a sorte de ter alguém de quem sentir falta.",
+        "Talvez seja por isso que a palavra nos é tão querida. A saudade obriga-nos a reconhecer que perder alguma coisa só dói porque essa coisa valia a pena. É uma forma de gratidão disfarçada de melancolia. E isso, sim, parece-me bastante português."
+      ],
+      "english": [
+        [
+          "Every foreigner who learns Portuguese ends up, sooner or later, asking the same question: what exactly is saudade?",
+          "And every Portuguese person answers with the same slightly pompous pride: it's a word that doesn't exist in any other language.",
+          "Now, this isn't exactly true, and I think it's high time we admitted it."
+        ],
+        [
+          "The Galicians have “morriña”, the Romanians have “dor”, the Germans have “Sehnsucht”, and anyone who has ever missed someone knows perfectly well what we're talking about.",
+          "The feeling is universal.",
+          "What may be ours is the importance we give it.",
+          "We have made saudade a kind of national identity, we've sung it in fado, written poems to it, put it on postcards for tourists.",
+          "Few nations can have turned a sadness into a source of pride."
+        ],
+        [
+          "If I had to explain it to a foreign friend, I wouldn't give them a definition.",
+          "Instead I'd describe a situation.",
+          "Imagine you're at a party, surrounded by people you love, and suddenly you remember someone who should be there and isn't.",
+          "It's not quite sadness, because the party is still good.",
+          "It's not quite happiness either.",
+          "It's the presence of an absence.",
+          "It's feeling, at the same time, the lack and the luck of having someone to miss."
+        ],
+        [
+          "Perhaps that's why the word is so dear to us.",
+          "Saudade forces us to recognise that losing something only hurts because that thing was worth it.",
+          "It's a form of gratitude disguised as melancholy.",
+          "And that, yes, strikes me as rather Portuguese."
+        ]
+      ],
+      "vocab": [
+        { "word": "ligeiramente", "gloss": "slightly" },
+        { "word": "pomposo", "gloss": "pompous" },
+        { "word": "ora", "gloss": "now, well (introducing an objection)" },
+        { "word": "admitirmos", "gloss": "(for us) to admit" },
+        { "word": "sentido falta", "gloss": "missed" },
+        { "word": "espécie", "gloss": "kind, sort" },
+        { "word": "terão feito", "gloss": "can have made (supposition)" },
+        { "word": "rodeado", "gloss": "surrounded" },
+        { "word": "ausência", "gloss": "absence" },
+        { "word": "querida", "gloss": "dear" },
+        { "word": "valia a pena", "gloss": "was worth it" },
+        { "word": "disfarçada", "gloss": "disguised" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-13",
+      "title": "As gravuras do Côa",
+      "subtitle": "The Côa engravings",
+      "topic": "History",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "No início dos anos noventa, o vale do Côa, no nordeste de Portugal, estava condenado a desaparecer debaixo de água. Estava a ser construída uma barragem, e as aldeias da região contavam com os empregos que ela traria. O senhor Abílio, então com vinte e oito anos, trabalhava nas obras como motorista de camiões. «Para nós, a barragem era o progresso», recorda hoje. «Ninguém queria saber de pedras velhas.»",
+        "Mas aquelas pedras velhas não eram umas pedras quaisquer. Nas rochas de xisto junto ao rio, os arqueólogos tinham identificado centenas de gravuras de cavalos, auroques e cabras, feitas há dezenas de milhares de anos, no Paleolítico. Quando a descoberta se tornou pública, gerou-se uma enorme polémica. De um lado, havia quem defendesse que a barragem fosse concluída; do outro, quem exigisse que as gravuras fossem salvas. Estudantes de todo o país saíram à rua com um slogan que ficou famoso: «As gravuras não sabem nadar».",
+        "Em 1995, o governo decidiu suspender as obras. O senhor Abílio ficou sem emprego e, durante algum tempo, ficou zangado. «Disseram-nos que uns desenhos valiam mais do que as nossas famílias», diz. Muitos colegas emigraram para a Suíça e para França. Ele ficou, sem saber bem porquê.",
+        "Hoje, com sessenta e poucos anos, o senhor Abílio é guia no Parque Arqueológico do Vale do Côa, classificado como Património Mundial pela UNESCO. Leva os visitantes de jipe até às rochas, ao fim da tarde, quando a luz rasante faz aparecer as gravuras. Confessa que só percebeu o que tinha diante dos olhos quando viu uma criança a passar o dedo, devagar, pela linha de um cavalo com vinte mil anos. «Foi como se alguém nos estivesse a dizer olá do outro lado do tempo.»"
+      ],
+      "english": [
+        [
+          "In the early nineties, the Côa valley, in the north-east of Portugal, was doomed to disappear under water.",
+          "A dam was being built, and the villages in the region were counting on the jobs it would bring.",
+          "Senhor Abílio, then twenty-eight, worked on the construction site as a lorry driver.",
+          "“For us, the dam was progress,” he recalls today.",
+          "“Nobody cared about old stones.”"
+        ],
+        [
+          "But those old stones weren't just any stones.",
+          "On the schist rocks by the river, archaeologists had identified hundreds of engravings of horses, aurochs and goats, made tens of thousands of years ago, in the Palaeolithic.",
+          "When the discovery became public, it set off a huge controversy.",
+          "On one side were those who argued that the dam should be completed; on the other, those who demanded that the engravings be saved.",
+          "Students all over the country took to the streets with a slogan that became famous: “The engravings can't swim”."
+        ],
+        [
+          "In 1995, the government decided to halt the works.",
+          "Senhor Abílio lost his job and, for a while, he was angry.",
+          "“They told us a few drawings were worth more than our families,” he says.",
+          "Many of his colleagues emigrated to Switzerland and France.",
+          "He stayed, without really knowing why."
+        ],
+        [
+          "Today, in his early sixties, Senhor Abílio is a guide at the Côa Valley Archaeological Park, listed as a World Heritage Site by UNESCO.",
+          "He takes visitors by jeep to the rocks, late in the afternoon, when the low-angled light makes the engravings appear.",
+          "He admits that he only understood what he had in front of him when he saw a child slowly tracing with a finger the outline of a twenty-thousand-year-old horse.",
+          "“It was as if someone were saying hello to us from the other side of time.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "condenado", "gloss": "doomed, condemned" },
+        { "word": "barragem", "gloss": "dam" },
+        { "word": "obras", "gloss": "construction works" },
+        { "word": "camiões", "gloss": "lorries, trucks" },
+        { "word": "xisto", "gloss": "schist" },
+        { "word": "auroques", "gloss": "aurochs (extinct wild cattle)" },
+        { "word": "gerou-se", "gloss": "arose, was generated" },
+        { "word": "polémica", "gloss": "controversy" },
+        { "word": "concluída", "gloss": "completed" },
+        { "word": "exigisse", "gloss": "(those who) demanded" },
+        { "word": "zangado", "gloss": "angry" },
+        { "word": "luz rasante", "gloss": "low-angled, grazing light" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-14",
+      "title": "O voluntário das quintas-feiras",
+      "subtitle": "The Thursday volunteer",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Todas as quintas-feiras, às duas da tarde, o professor Mário entra no serviço de pediatria do hospital de Faro com uma mala de cabedal gasta. Tem setenta e quatro anos, foi professor de Português durante quatro décadas e, desde que se reformou, é voluntário. Dentro da mala, leva livros, um baralho de cartas e um nariz vermelho de palhaço que, garante, nunca usou.",
+        "Ao princípio, as enfermeiras olhavam-no com alguma desconfiança. Um velho professor, numa ala cheia de crianças doentes, parecia-lhes uma má ideia. Uma delas, a enfermeira Sónia, contou-me que lhe tinha pedido que não fizesse barulho e que não cansasse os doentes. «Ele respondeu-me que não tencionava cansar ninguém e que, se o fizesse, eu o podia pôr na rua», disse-me, a rir. «Nunca precisei.»",
+        "O que o professor Mário faz é simples: lê histórias em voz alta. Mas lê-as de uma forma que obriga até os adolescentes mais desconfiados a tirarem os auscultadores. Muda de voz para cada personagem, faz pausas no momento certo e, quando a história é triste, não tem vergonha de deixar a voz tremer. Os médicos dizem que as crianças pedem menos analgésicos às quintas-feiras. Não há nenhum estudo que o prove, mas ninguém duvida.",
+        "Perguntei-lhe porque é que o fazia. Respondeu que, durante quarenta anos, tinha tentado convencer os alunos de que as histórias podem salvar vidas, e que agora, finalmente, tinha a oportunidade de o demonstrar. Depois pediu-me que não escrevesse isso, porque soava pretensioso. Desculpe, professor. Escrevi."
+      ],
+      "english": [
+        [
+          "Every Thursday, at two in the afternoon, Professor Mário walks into the children's ward of Faro hospital with a worn leather bag.",
+          "He is seventy-four, taught Portuguese for four decades and, since he retired, has been a volunteer.",
+          "Inside the bag, he carries books, a pack of cards and a red clown's nose which, he insists, he has never worn."
+        ],
+        [
+          "At first, the nurses regarded him with some suspicion.",
+          "An old teacher, on a ward full of sick children, seemed like a bad idea to them.",
+          "One of them, Nurse Sónia, told me that she had asked him not to make any noise and not to tire the patients out.",
+          "“He replied that he had no intention of tiring anyone out and that, if he did, I could throw him out,” she told me, laughing.",
+          "“I never needed to.”"
+        ],
+        [
+          "What Professor Mário does is simple: he reads stories aloud.",
+          "But he reads them in a way that makes even the most suspicious teenagers take off their headphones.",
+          "He changes his voice for each character, pauses at just the right moment and, when the story is sad, isn't ashamed to let his voice tremble.",
+          "The doctors say the children ask for fewer painkillers on Thursdays.",
+          "There's no study to prove it, but nobody doubts it."
+        ],
+        [
+          "I asked him why he did it.",
+          "He replied that, for forty years, he had tried to convince his pupils that stories can save lives, and that now, at last, he had the chance to prove it.",
+          "Then he asked me not to write that, because it sounded pretentious.",
+          "Sorry, Professor.",
+          "I wrote it."
+        ]
+      ],
+      "vocab": [
+        { "word": "serviço de pediatria", "gloss": "children's ward" },
+        { "word": "cabedal", "gloss": "leather" },
+        { "word": "gasta", "gloss": "worn" },
+        { "word": "se reformou", "gloss": "retired" },
+        { "word": "palhaço", "gloss": "clown" },
+        { "word": "garante", "gloss": "he insists, assures" },
+        { "word": "ala", "gloss": "ward, wing" },
+        { "word": "cansasse", "gloss": "(that he not) tire out" },
+        { "word": "tencionava", "gloss": "intended" },
+        { "word": "auscultadores", "gloss": "headphones" },
+        { "word": "analgésicos", "gloss": "painkillers" },
+        { "word": "soava", "gloss": "sounded" }
+      ]
+    },
+    {
+      "id": "pt-PT-b2-15",
+      "title": "Um casamento no Mindelo",
+      "subtitle": "A wedding in Mindelo",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Quando a Sofia anunciou à família que se ia casar com o Edson, um músico cabo-verdiano que tinha conhecido num concerto em Lisboa, a reação foi a que ela esperava. A mãe perguntou se ela tinha a certeza. O pai perguntou de que é que ele vivia. A avó, que tinha noventa e um anos e já não saía de casa, não perguntou nada: pediu apenas que lhe mostrassem uma fotografia.",
+        "O casamento foi marcado para fevereiro, no Mindelo, na ilha de São Vicente, em pleno Carnaval. A família da Sofia viajou com algum receio. Achavam que se iam sentir estrangeiros, que não iam perceber a língua, que a comida lhes ia fazer mal. Em vez disso, foram recebidos no aeroporto por vinte primos do Edson, com flores e uma banda, como se fossem chefes de Estado.",
+        "A festa durou três dias. Comeu-se cachupa ao pequeno-almoço, ao almoço e ao jantar, dançou-se coladeira até de madrugada e o pai da Sofia, que nunca dançava, foi visto a dançar com a tia mais velha do Edson à porta da igreja. A mãe, que tinha passado a viagem toda preocupada, chorou quando ouviu os noivos trocarem os votos em português e em crioulo.",
+        "Quando voltaram a Lisboa, a avó pediu que lhe contassem tudo. Ouviu em silêncio e, no fim, disse uma coisa que ninguém esperava. Contou que o avô, que morrera há muitos anos, tinha feito a tropa em Cabo Verde nos anos sessenta, e que voltara de lá a cantar mornas e a falar de uma ilha onde as pessoas eram mais felizes com menos. «Ele ia gostar do rapaz», disse ela. «Tenho a certeza.»"
+      ],
+      "english": [
+        [
+          "When Sofia told her family she was going to marry Edson, a Cape Verdean musician she had met at a concert in Lisbon, the reaction was what she had expected.",
+          "Her mother asked if she was sure.",
+          "Her father asked what he did for a living.",
+          "Her grandmother, who was ninety-one and no longer left the house, didn't ask anything: she only asked to be shown a photo."
+        ],
+        [
+          "The wedding was set for February, in Mindelo, on the island of São Vicente, right in the middle of Carnival.",
+          "Sofia's family travelled with some apprehension.",
+          "They thought they would feel like foreigners, that they wouldn't understand the language, that the food would disagree with them.",
+          "Instead, they were met at the airport by twenty of Edson's cousins, with flowers and a band, as if they were heads of state."
+        ],
+        [
+          "The party lasted three days.",
+          "There was cachupa for breakfast, lunch and dinner, there was coladeira dancing until the small hours and Sofia's father, who never danced, was seen dancing with Edson's eldest aunt at the church door.",
+          "Her mother, who had spent the whole journey worrying, cried when she heard the bride and groom exchange their vows in Portuguese and in Creole."
+        ],
+        [
+          "When they got back to Lisbon, her grandmother asked them to tell her everything.",
+          "She listened in silence and, at the end, said something nobody expected.",
+          "She told them that her husband, who had died many years before, had done his military service in Cape Verde in the sixties, and had come back singing mornas and talking about an island where people were happier with less.",
+          "“He would have liked the boy,” she said.",
+          "“I'm sure of it.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "de que é que ele vivia", "gloss": "what he did for a living" },
+        { "word": "marcado", "gloss": "set, fixed (a date)" },
+        { "word": "em pleno", "gloss": "right in the middle of" },
+        { "word": "receio", "gloss": "apprehension, fear" },
+        { "word": "fazer mal", "gloss": "to disagree with, harm" },
+        { "word": "cachupa", "gloss": "Cape Verdean maize and bean stew" },
+        { "word": "coladeira", "gloss": "lively Cape Verdean dance music" },
+        { "word": "noivos", "gloss": "bride and groom" },
+        { "word": "crioulo", "gloss": "Cape Verdean Creole" },
+        { "word": "tropa", "gloss": "military service" },
+        { "word": "mornas", "gloss": "melancholy Cape Verdean songs" },
+        { "word": "morrera", "gloss": "had died" }
+      ]
+    }
+  ]
+}

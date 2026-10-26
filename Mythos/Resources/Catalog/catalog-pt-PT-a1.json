@@ -1,0 +1,587 @@
+{
+  "language": "pt-PT",
+  "level": "A1",
+  "stories": [
+    {
+      "id": "pt-PT-a1-01",
+      "title": "O elétrico 28",
+      "subtitle": "The number 28 tram",
+      "topic": "Getting around",
+      "symbol": "tram.fill",
+      "paragraphs": [
+        "A Marta mora em Lisboa, no bairro da Graça. Todos os dias, ela apanha o elétrico 28 para o trabalho. O elétrico é amarelo, velho e muito lento. Está sempre cheio de turistas com máquinas fotográficas.",
+        "Hoje, um turista pergunta: «Desculpe, este elétrico vai para o Chiado?» A Marta sorri e responde: «Vai, sim. Eu também saio lá.» Os dois falam durante a viagem. Ele é da Irlanda e está em Lisboa pela primeira vez. No Chiado, ele diz: «Obrigado! Lisboa é muito bonita.» A Marta pensa: «É verdade. Às vezes, eu esqueço-me.»"
+      ],
+      "english": [
+        [
+          "Marta lives in Lisbon, in the Graça neighbourhood.",
+          "Every day, she catches the number 28 tram to work.",
+          "The tram is yellow, old and very slow.",
+          "It's always full of tourists with cameras."
+        ],
+        [
+          "Today, a tourist asks: “Excuse me, does this tram go to Chiado?”",
+          "Marta smiles and answers: “Yes, it does. I get off there too.”",
+          "The two of them talk during the journey.",
+          "He's from Ireland and he's in Lisbon for the first time.",
+          "In Chiado, he says: “Thank you! Lisbon is very beautiful.”",
+          "Marta thinks: “That's true. Sometimes I forget.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "mora", "gloss": "lives" },
+        { "word": "apanha", "gloss": "catches (a bus, tram, train)" },
+        { "word": "elétrico", "gloss": "tram" },
+        { "word": "lento", "gloss": "slow" },
+        { "word": "cheio", "gloss": "full" },
+        { "word": "desculpe", "gloss": "excuse me (polite)" },
+        { "word": "saio", "gloss": "I get off" },
+        { "word": "pela primeira vez", "gloss": "for the first time" },
+        { "word": "esqueço-me", "gloss": "I forget" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-02",
+      "title": "A avó Lurdes",
+      "subtitle": "Grandma Lurdes",
+      "topic": "Family",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "O Rodrigo tem doze anos e mora no Funchal, na ilha da Madeira. Ao sábado, ele visita a avó Lurdes. A avó tem oitenta anos e mora numa casa pequena com um jardim cheio de flores. Ela faz bolo de mel e chá de limão.",
+        "Hoje, a avó tem uma surpresa. Ela mostra um telemóvel novo. «Rodrigo, ensinas-me a mandar mensagens?» O Rodrigo ri-se e ajuda a avó. À noite, em casa, o telemóvel dele toca. É uma mensagem: «Boa noite, meu querido. Obrigada. Beijinhos da avó.»"
+      ],
+      "english": [
+        [
+          "Rodrigo is twelve and lives in Funchal, on the island of Madeira.",
+          "On Saturdays, he visits his grandma Lurdes.",
+          "Grandma is eighty and lives in a small house with a garden full of flowers.",
+          "She makes honey cake and lemon tea."
+        ],
+        [
+          "Today, Grandma has a surprise.",
+          "She shows him a new mobile phone.",
+          "“Rodrigo, will you teach me to send messages?”",
+          "Rodrigo laughs and helps his grandma.",
+          "In the evening, at home, his phone rings.",
+          "It's a message: “Good night, my dear. Thank you. Kisses from Grandma.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "ilha", "gloss": "island" },
+        { "word": "visita", "gloss": "visits" },
+        { "word": "flores", "gloss": "flowers" },
+        { "word": "bolo de mel", "gloss": "honey cake (a Madeiran speciality)" },
+        { "word": "surpresa", "gloss": "surprise" },
+        { "word": "telemóvel", "gloss": "mobile phone" },
+        { "word": "ensinas-me", "gloss": "will you teach me" },
+        { "word": "mandar mensagens", "gloss": "to send messages" },
+        { "word": "ri-se", "gloss": "laughs" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-03",
+      "title": "Sábado de manhã",
+      "subtitle": "Saturday morning",
+      "topic": "Routine",
+      "symbol": "alarm.fill",
+      "paragraphs": [
+        "O Tiago mora no Porto e trabalha num banco. De segunda a sexta, acorda às seis e meia. Toma um duche rápido, veste um fato e bebe um café em pé. Depois apanha o metro para o centro.",
+        "Hoje o despertador toca às seis e meia, como sempre. O Tiago levanta-se, toma duche e veste o fato. Na cozinha, olha para o calendário e para. Hoje é sábado! Ele ri-se, tira o fato e volta para a cama. Às dez, toma um pequeno-almoço grande: torradas, sumo de laranja e um galão."
+      ],
+      "english": [
+        [
+          "Tiago lives in Porto and works in a bank.",
+          "From Monday to Friday, he wakes up at half past six.",
+          "He has a quick shower, puts on a suit and drinks a coffee standing up.",
+          "Then he catches the metro to the centre."
+        ],
+        [
+          "Today the alarm clock rings at half past six, as always.",
+          "Tiago gets up, has a shower and puts on his suit.",
+          "In the kitchen, he looks at the calendar and stops.",
+          "Today is Saturday!",
+          "He laughs, takes off the suit and goes back to bed.",
+          "At ten, he has a big breakfast: toast, orange juice and a milky coffee."
+        ]
+      ],
+      "vocab": [
+        { "word": "acorda", "gloss": "wakes up" },
+        { "word": "duche", "gloss": "shower" },
+        { "word": "fato", "gloss": "suit" },
+        { "word": "em pé", "gloss": "standing up" },
+        { "word": "despertador", "gloss": "alarm clock" },
+        { "word": "levanta-se", "gloss": "gets up" },
+        { "word": "volta", "gloss": "goes back" },
+        { "word": "pequeno-almoço", "gloss": "breakfast" },
+        { "word": "galão", "gloss": "milky coffee served in a glass" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-04",
+      "title": "Sardinhas em Portimão",
+      "subtitle": "Sardines in Portimão",
+      "topic": "Food & drink",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "É agosto e está muito calor em Portimão, no Algarve. A família Costa está de férias. Ao almoço, vão a um restaurante pequeno perto do rio. Lá fora, um senhor grelha sardinhas numa grelha grande. O cheiro é muito bom.",
+        "O pai pede sardinhas para todos, com salada de tomate e pimentos e batatas cozidas. A filha mais nova, a Beatriz, não quer. «Eu não gosto de peixe», diz ela. A mãe põe uma sardinha em cima de uma fatia de pão. A Beatriz prova. Depois come a segunda, a terceira e a quarta. «Afinal, eu gosto de peixe!»"
+      ],
+      "english": [
+        [
+          "It's August and it's very hot in Portimão, in the Algarve.",
+          "The Costa family is on holiday.",
+          "At lunchtime, they go to a small restaurant near the river.",
+          "Outside, a man is grilling sardines on a big grill.",
+          "The smell is very good."
+        ],
+        [
+          "The father orders sardines for everyone, with tomato and pepper salad and boiled potatoes.",
+          "The youngest daughter, Beatriz, doesn't want any.",
+          "“I don't like fish,” she says.",
+          "Her mother puts a sardine on top of a slice of bread.",
+          "Beatriz tastes it.",
+          "Then she eats a second one, a third and a fourth.",
+          "“I like fish after all!”"
+        ]
+      ],
+      "vocab": [
+        { "word": "calor", "gloss": "heat (está calor: it's hot)" },
+        { "word": "grelha", "gloss": "grills; a grill" },
+        { "word": "cheiro", "gloss": "smell" },
+        { "word": "pede", "gloss": "orders, asks for" },
+        { "word": "batatas cozidas", "gloss": "boiled potatoes" },
+        { "word": "fatia", "gloss": "slice" },
+        { "word": "prova", "gloss": "tastes, tries" },
+        { "word": "afinal", "gloss": "after all" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-05",
+      "title": "O gato de Coimbra",
+      "subtitle": "The cat of Coimbra",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Em Coimbra, perto da universidade, vive um gato cinzento. Ele não tem dono, mas também não tem fome. De manhã, visita a dona Amélia. Ela chama-lhe Rei e dá-lhe leite.",
+        "À tarde, o gato vai a uma casa de estudantes. Os estudantes chamam-lhe Professor e dão-lhe atum. À noite, dorme na livraria do senhor Vasco, em cima dos livros. O senhor Vasco chama-lhe Camões. O gato tem três nomes e três casas. É o gato mais feliz de Coimbra."
+      ],
+      "english": [
+        [
+          "In Coimbra, near the university, there lives a grey cat.",
+          "He has no owner, but he isn't hungry either.",
+          "In the morning, he visits Dona Amélia.",
+          "She calls him King and gives him milk."
+        ],
+        [
+          "In the afternoon, the cat goes to a students' house.",
+          "The students call him Professor and give him tuna.",
+          "At night, he sleeps in Senhor Vasco's bookshop, on top of the books.",
+          "Senhor Vasco calls him Camões.",
+          "The cat has three names and three homes.",
+          "He's the happiest cat in Coimbra."
+        ]
+      ],
+      "vocab": [
+        { "word": "cinzento", "gloss": "grey" },
+        { "word": "dono", "gloss": "owner" },
+        { "word": "fome", "gloss": "hunger (ter fome: to be hungry)" },
+        { "word": "chama-lhe", "gloss": "calls him" },
+        { "word": "dá-lhe", "gloss": "gives him" },
+        { "word": "atum", "gloss": "tuna" },
+        { "word": "dorme", "gloss": "sleeps" },
+        { "word": "livraria", "gloss": "bookshop" },
+        { "word": "feliz", "gloss": "happy" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-06",
+      "title": "Chuva em Braga",
+      "subtitle": "Rain in Braga",
+      "topic": "Weather",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "A Leonor é de Lisboa, mas agora estuda em Braga, no Minho. Em Braga chove muito, sobretudo no inverno. Hoje chove desde manhã. A Leonor não tem guarda-chuva e está toda molhada.",
+        "Ela entra numa loja para comprar um guarda-chuva. A senhora da loja ri-se. «É a primeira vez em Braga?» «É, sim», responde a Leonor. «Aqui, um guarda-chuva não chega», diz a senhora. «Precisa também de umas botas e de um casaco impermeável.» A Leonor sai da loja com três sacos."
+      ],
+      "english": [
+        [
+          "Leonor is from Lisbon, but now she studies in Braga, in the Minho.",
+          "In Braga it rains a lot, especially in winter.",
+          "Today it has been raining since the morning.",
+          "Leonor has no umbrella and she's soaking wet."
+        ],
+        [
+          "She goes into a shop to buy an umbrella.",
+          "The woman in the shop laughs.",
+          "“Is this your first time in Braga?”",
+          "“Yes, it is,” answers Leonor.",
+          "“Here, an umbrella isn't enough,” says the woman.",
+          "“You also need some boots and a raincoat.”",
+          "Leonor leaves the shop with three bags."
+        ]
+      ],
+      "vocab": [
+        { "word": "chove", "gloss": "it rains" },
+        { "word": "sobretudo", "gloss": "especially, above all" },
+        { "word": "guarda-chuva", "gloss": "umbrella" },
+        { "word": "molhada", "gloss": "wet" },
+        { "word": "não chega", "gloss": "isn't enough" },
+        { "word": "botas", "gloss": "boots" },
+        { "word": "casaco impermeável", "gloss": "raincoat" },
+        { "word": "sacos", "gloss": "bags" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-07",
+      "title": "Uma casa nos Açores",
+      "subtitle": "A house in the Azores",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "O João e a Helena moram em São Miguel, nos Açores. A casa deles é antiga e tem paredes brancas e janelas azuis. Tem uma cozinha grande, uma sala, dois quartos e uma casa de banho. Não tem televisão.",
+        "A sala tem uma janela enorme. Da janela, eles veem o mar, as vacas e os campos verdes. À noite, o João e a Helena jantam na sala e olham pela janela. Os amigos perguntam: «Não precisam de televisão?» A Helena responde: «Nós já temos uma. É a janela!»"
+      ],
+      "english": [
+        [
+          "João and Helena live on São Miguel, in the Azores.",
+          "Their house is old and has white walls and blue windows.",
+          "It has a big kitchen, a living room, two bedrooms and a bathroom.",
+          "It doesn't have a television."
+        ],
+        [
+          "The living room has an enormous window.",
+          "From the window, they see the sea, the cows and the green fields.",
+          "In the evening, João and Helena have dinner in the living room and look out of the window.",
+          "Their friends ask: “Don't you need a television?”",
+          "Helena answers: “We already have one. It's the window!”"
+        ]
+      ],
+      "vocab": [
+        { "word": "paredes", "gloss": "walls" },
+        { "word": "quartos", "gloss": "bedrooms" },
+        { "word": "casa de banho", "gloss": "bathroom" },
+        { "word": "enorme", "gloss": "enormous, huge" },
+        { "word": "veem", "gloss": "they see" },
+        { "word": "vacas", "gloss": "cows" },
+        { "word": "campos", "gloss": "fields" },
+        { "word": "jantam", "gloss": "they have dinner" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-08",
+      "title": "A primeira onda",
+      "subtitle": "The first wave",
+      "topic": "Sport",
+      "symbol": "figure.surfing",
+      "paragraphs": [
+        "A Carolina tem trinta anos e trabalha num escritório em Lisboa. Este verão, ela quer aprender a fazer surf. Ao sábado, apanha o comboio e depois o autocarro para a Ericeira. A praia é bonita, mas a água é muito fria.",
+        "O professor chama-se Duarte. «Primeiro, na areia», diz ele. A Carolina pratica uma hora na areia. Depois, entra no mar com a prancha. Cai uma vez, duas vezes, dez vezes. Às cinco da tarde, chega uma onda pequena. A Carolina levanta-se na prancha durante três segundos. Ela está cansada, mas muito contente."
+      ],
+      "english": [
+        [
+          "Carolina is thirty and works in an office in Lisbon.",
+          "This summer, she wants to learn to surf.",
+          "On Saturdays, she catches the train and then the bus to Ericeira.",
+          "The beach is beautiful, but the water is very cold."
+        ],
+        [
+          "The instructor is called Duarte.",
+          "“First, on the sand,” he says.",
+          "Carolina practises for an hour on the sand.",
+          "Then she goes into the sea with the board.",
+          "She falls once, twice, ten times.",
+          "At five in the afternoon, a small wave comes.",
+          "Carolina stands up on the board for three seconds.",
+          "She's tired, but very happy."
+        ]
+      ],
+      "vocab": [
+        { "word": "aprender", "gloss": "to learn" },
+        { "word": "comboio", "gloss": "train" },
+        { "word": "autocarro", "gloss": "bus" },
+        { "word": "fria", "gloss": "cold" },
+        { "word": "areia", "gloss": "sand" },
+        { "word": "prancha", "gloss": "(surf)board" },
+        { "word": "cai", "gloss": "falls" },
+        { "word": "onda", "gloss": "wave" },
+        { "word": "cansada", "gloss": "tired" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-09",
+      "title": "No centro de saúde",
+      "subtitle": "At the health centre",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "O senhor Manuel mora em Évora e tem setenta anos. Hoje, ele está doente. Tem dor de garganta, tosse e um pouco de febre. A mulher dele diz: «Vai ao centro de saúde, Manuel!»",
+        "No centro de saúde, a médica é jovem e simpática. Ela pergunta: «Desde quando tem tosse?» «Desde domingo», responde ele. A médica olha para a garganta dele. «Não é grave. Beba muita água, coma sopa e fique em casa três dias.» O senhor Manuel sorri. «Sopa? A minha mulher faz a melhor sopa do Alentejo.»"
+      ],
+      "english": [
+        [
+          "Senhor Manuel lives in Évora and he's seventy.",
+          "Today, he's ill.",
+          "He has a sore throat, a cough and a bit of a fever.",
+          "His wife says: “Go to the health centre, Manuel!”"
+        ],
+        [
+          "At the health centre, the doctor is young and friendly.",
+          "She asks: “Since when have you had a cough?”",
+          "“Since Sunday,” he answers.",
+          "The doctor looks at his throat.",
+          "“It's not serious. Drink lots of water, eat soup and stay at home for three days.”",
+          "Senhor Manuel smiles.",
+          "“Soup? My wife makes the best soup in the Alentejo.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "doente", "gloss": "ill, sick" },
+        { "word": "dor de garganta", "gloss": "sore throat" },
+        { "word": "tosse", "gloss": "cough" },
+        { "word": "febre", "gloss": "fever" },
+        { "word": "desde quando", "gloss": "since when" },
+        { "word": "grave", "gloss": "serious" },
+        { "word": "fique", "gloss": "stay (polite command)" },
+        { "word": "sopa", "gloss": "soup" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-10",
+      "title": "O carteiro de Monsaraz",
+      "subtitle": "The postman of Monsaraz",
+      "topic": "Work",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "O Zé é carteiro em Monsaraz, uma vila pequena no Alentejo. Ele trabalha de manhã. Vai a pé, porque as ruas são estreitas. Conhece todas as pessoas da vila e todos os cães.",
+        "Hoje há poucas cartas. Há uma conta da luz para a dona Rosa, uma revista para o padre e um postal para a escola. Mas o Zé demora três horas. Porquê? A dona Rosa oferece café. O padre quer falar de futebol. E na escola, as crianças fazem muitas perguntas. Ser carteiro em Monsaraz não é um trabalho rápido!"
+      ],
+      "english": [
+        [
+          "Zé is the postman in Monsaraz, a small town in the Alentejo.",
+          "He works in the morning.",
+          "He goes on foot, because the streets are narrow.",
+          "He knows all the people in the town and all the dogs."
+        ],
+        [
+          "Today there are only a few letters.",
+          "There's an electricity bill for Dona Rosa, a magazine for the priest and a postcard for the school.",
+          "But Zé takes three hours.",
+          "Why?",
+          "Dona Rosa offers him coffee.",
+          "The priest wants to talk about football.",
+          "And at the school, the children ask lots of questions.",
+          "Being a postman in Monsaraz isn't a quick job!"
+        ]
+      ],
+      "vocab": [
+        { "word": "carteiro", "gloss": "postman" },
+        { "word": "vila", "gloss": "small town" },
+        { "word": "a pé", "gloss": "on foot" },
+        { "word": "estreitas", "gloss": "narrow" },
+        { "word": "conhece", "gloss": "knows (people, places)" },
+        { "word": "conta da luz", "gloss": "electricity bill" },
+        { "word": "postal", "gloss": "postcard" },
+        { "word": "demora", "gloss": "takes (time)" },
+        { "word": "oferece", "gloss": "offers" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-11",
+      "title": "Um sábado no Gerês",
+      "subtitle": "A Saturday in the Gerês",
+      "topic": "Outdoors",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "A Sara e o Miguel são irmãos e moram em Viana do Castelo. Hoje vão passear no Gerês, um parque natural no norte. Levam mochilas com água, sandes e fruta. O caminho sobe muito.",
+        "Depois de duas horas, chegam a uma cascata. A água é transparente e muito fria. O Miguel tira os sapatos e põe os pés na água. «Ai, que fria!» De repente, a Sara aponta para a montanha. Há três cavalos selvagens a comer erva. Os irmãos ficam em silêncio e olham para eles durante muito tempo."
+      ],
+      "english": [
+        [
+          "Sara and Miguel are brother and sister and live in Viana do Castelo.",
+          "Today they're going walking in the Gerês, a natural park in the north.",
+          "They take backpacks with water, sandwiches and fruit.",
+          "The path climbs a lot."
+        ],
+        [
+          "After two hours, they reach a waterfall.",
+          "The water is clear and very cold.",
+          "Miguel takes off his shoes and puts his feet in the water.",
+          "“Ow, it's cold!”",
+          "Suddenly, Sara points at the mountain.",
+          "There are three wild horses eating grass.",
+          "The brother and sister stay silent and watch them for a long time."
+        ]
+      ],
+      "vocab": [
+        { "word": "irmãos", "gloss": "brother and sister, siblings" },
+        { "word": "passear", "gloss": "to go for a walk" },
+        { "word": "mochilas", "gloss": "backpacks" },
+        { "word": "sandes", "gloss": "sandwiches" },
+        { "word": "sobe", "gloss": "climbs, goes up" },
+        { "word": "cascata", "gloss": "waterfall" },
+        { "word": "aponta", "gloss": "points" },
+        { "word": "selvagens", "gloss": "wild" },
+        { "word": "erva", "gloss": "grass" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-12",
+      "title": "Um presente para o pai",
+      "subtitle": "A present for Dad",
+      "topic": "Shopping",
+      "symbol": "gift.fill",
+      "paragraphs": [
+        "Domingo é o Dia do Pai. A Ana e o irmão, o Pedro, estão numa loja de roupa no centro de Aveiro. Eles querem comprar um presente. O Pedro quer uma gravata, mas a Ana não gosta. «O pai nunca usa gravata!»",
+        "Finalmente, escolhem uma camisola azul, de lã. Custa trinta e cinco euros. Cada um paga metade. No domingo, o pai abre o presente e ri-se muito. Ele vai ao quarto e volta com um saco. Dentro do saco está uma camisola igual. «É da mesma loja!» Agora o pai tem duas camisolas azuis."
+      ],
+      "english": [
+        [
+          "Sunday is Father's Day.",
+          "Ana and her brother, Pedro, are in a clothes shop in the centre of Aveiro.",
+          "They want to buy a present.",
+          "Pedro wants a tie, but Ana doesn't like the idea.",
+          "“Dad never wears a tie!”"
+        ],
+        [
+          "In the end, they choose a blue wool jumper.",
+          "It costs thirty-five euros.",
+          "They each pay half.",
+          "On Sunday, their father opens the present and laughs a lot.",
+          "He goes to the bedroom and comes back with a bag.",
+          "Inside the bag there's an identical jumper.",
+          "“It's from the same shop!”",
+          "Now Dad has two blue jumpers."
+        ]
+      ],
+      "vocab": [
+        { "word": "presente", "gloss": "present, gift" },
+        { "word": "roupa", "gloss": "clothes" },
+        { "word": "gravata", "gloss": "tie" },
+        { "word": "escolhem", "gloss": "they choose" },
+        { "word": "camisola", "gloss": "jumper, sweater" },
+        { "word": "lã", "gloss": "wool" },
+        { "word": "metade", "gloss": "half" },
+        { "word": "igual", "gloss": "identical, the same" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-13",
+      "title": "A minha amiga Kika",
+      "subtitle": "My friend Kika",
+      "topic": "Friends",
+      "symbol": "bubble.left.and.bubble.right.fill",
+      "paragraphs": [
+        "Chamo-me Rita e moro em Faro. A minha melhor amiga é a Kika. Somos amigas desde a escola primária. Mas agora a Kika mora no Luxemburgo, porque o pai dela trabalha lá.",
+        "Todas as noites, falamos ao telemóvel. A Kika conta coisas do Luxemburgo: lá faz frio e as pessoas falam três línguas. Eu conto coisas de Faro: o sol, a praia, a escola. Em agosto, a Kika vem de férias. Vamos à praia todos os dias e comemos gelados. Agosto é o meu mês preferido."
+      ],
+      "english": [
+        [
+          "My name is Rita and I live in Faro.",
+          "My best friend is Kika.",
+          "We've been friends since primary school.",
+          "But now Kika lives in Luxembourg, because her father works there."
+        ],
+        [
+          "Every night, we talk on the phone.",
+          "Kika tells me about Luxembourg: it's cold there and people speak three languages.",
+          "I tell her about Faro: the sun, the beach, school.",
+          "In August, Kika comes on holiday.",
+          "We go to the beach every day and eat ice creams.",
+          "August is my favourite month."
+        ]
+      ],
+      "vocab": [
+        { "word": "chamo-me", "gloss": "my name is (I call myself)" },
+        { "word": "melhor amiga", "gloss": "best friend (female)" },
+        { "word": "desde", "gloss": "since" },
+        { "word": "escola primária", "gloss": "primary school" },
+        { "word": "conta", "gloss": "tells" },
+        { "word": "línguas", "gloss": "languages" },
+        { "word": "vem", "gloss": "comes" },
+        { "word": "gelados", "gloss": "ice creams" },
+        { "word": "preferido", "gloss": "favourite" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-14",
+      "title": "Uma palavra nova",
+      "subtitle": "A new word",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "A Hannah é alemã e mora em Lisboa há dois meses. Trabalha num hotel e estuda português à noite. O português é difícil. A Hannah não percebe os números grandes e tem medo do som «ão».",
+        "Hoje, no hotel, um colega mostra-lhe uma fotografia da praia. «Olha, que fixe!», diz ele. A Hannah não conhece a palavra. «Fixe? O que é?» O colega explica: «Fixe é bom, giro, muito bom!» Agora, a Hannah diz «fixe» vinte vezes por dia. O jantar é fixe, o autocarro é fixe, a chuva é fixe. Os colegas riem-se."
+      ],
+      "english": [
+        [
+          "Hannah is German and has lived in Lisbon for two months.",
+          "She works in a hotel and studies Portuguese in the evenings.",
+          "Portuguese is difficult.",
+          "Hannah doesn't understand big numbers and she's afraid of the sound “ão”."
+        ],
+        [
+          "Today, at the hotel, a colleague shows her a photo of the beach.",
+          "“Look, how cool!” he says.",
+          "Hannah doesn't know the word.",
+          "“Fixe? What's that?”",
+          "Her colleague explains: “Fixe means good, nice, really good!”",
+          "Now Hannah says “fixe” twenty times a day.",
+          "Dinner is cool, the bus is cool, the rain is cool.",
+          "Her colleagues laugh."
+        ]
+      ],
+      "vocab": [
+        { "word": "alemã", "gloss": "German (female)" },
+        { "word": "percebe", "gloss": "understands" },
+        { "word": "medo", "gloss": "fear (ter medo: to be afraid)" },
+        { "word": "mostra-lhe", "gloss": "shows her" },
+        { "word": "fixe", "gloss": "cool, great (informal)" },
+        { "word": "giro", "gloss": "nice, cute" },
+        { "word": "vezes", "gloss": "times" },
+        { "word": "autocarro", "gloss": "bus" },
+        { "word": "riem-se", "gloss": "they laugh" }
+      ]
+    },
+    {
+      "id": "pt-PT-a1-15",
+      "title": "Uma noite de fado",
+      "subtitle": "A night of fado",
+      "topic": "Culture",
+      "symbol": "music.note",
+      "paragraphs": [
+        "É sexta-feira à noite em Alfama, um bairro antigo de Lisboa. O Paulo e a namorada, a Mónica, entram numa casa de fados. A sala é pequena e escura. Há velas nas mesas e guitarras na parede.",
+        "Às dez horas, as luzes apagam-se. Uma senhora de xaile preto começa a cantar. Ninguém fala. A voz dela é triste e forte. A Mónica não percebe todas as palavras, mas tem lágrimas nos olhos. No fim, todos batem palmas. «Porque é que estás a chorar?», pergunta o Paulo. «Não sei», diz ela. «É bonito.»"
+      ],
+      "english": [
+        [
+          "It's Friday night in Alfama, an old neighbourhood in Lisbon.",
+          "Paulo and his girlfriend, Mónica, go into a fado house.",
+          "The room is small and dark.",
+          "There are candles on the tables and guitars on the wall."
+        ],
+        [
+          "At ten o'clock, the lights go out.",
+          "A woman in a black shawl starts to sing.",
+          "Nobody speaks.",
+          "Her voice is sad and strong.",
+          "Mónica doesn't understand all the words, but she has tears in her eyes.",
+          "At the end, everyone claps.",
+          "“Why are you crying?” asks Paulo.",
+          "“I don't know,” she says.",
+          "“It's beautiful.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "bairro", "gloss": "neighbourhood" },
+        { "word": "namorada", "gloss": "girlfriend" },
+        { "word": "escura", "gloss": "dark" },
+        { "word": "velas", "gloss": "candles" },
+        { "word": "apagam-se", "gloss": "go out (lights)" },
+        { "word": "xaile", "gloss": "shawl" },
+        { "word": "lágrimas", "gloss": "tears" },
+        { "word": "batem palmas", "gloss": "clap" },
+        { "word": "a chorar", "gloss": "crying" }
+      ]
+    }
+  ]
+}

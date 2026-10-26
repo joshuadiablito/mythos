@@ -1,0 +1,854 @@
+{
+  "language": "pt-PT",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "pt-PT-c1-01",
+      "title": "O Porto às quatro da manhã",
+      "subtitle": "Porto at four in the morning",
+      "topic": "City",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Há uma hora em que o Porto não pertence nem aos turistas nem aos estudantes, nem sequer aos boémios, que entretanto já se renderam ao cansaço. É a hora em que a cidade é dos que trabalham enquanto os outros dormem. Às quatro da manhã, a Ribeira está deserta, o Douro corre negro e calado, e do outro lado do rio as caves de vinho do Porto não passam de silhuetas. Mas basta subir umas ruas para perceber que a cidade, afinal, nunca chega a dormir por completo.",
+        "Na padaria do senhor Adelino, em Cedofeita, o forno está aceso desde a meia-noite. Ele e os dois ajudantes trabalham em silêncio, com a rádio baixinha, a moldar à mão as regueifas que hão de estar nas mesas dos cafés às sete. «As pessoas acham que o pão nasce nas prateleiras», diz, sem tirar os olhos da massa. «Se eu faltar um dia, metade do bairro dá por isso ao pequeno-almoço.» Há trinta anos que não sabe o que é jantar a uma hora normal, mas garante que não trocava este silêncio por nenhum escritório.",
+        "Mais abaixo, em Matosinhos, a lota já fervilha. Os barcos chegaram há pouco, e as caixas de sardinha, carapau e polvo deslizam por tapetes rolantes perante os olhares atentos dos compradores, que licitam através de um ecrã com uma rapidez que deixa qualquer forasteiro atordoado. A Fernanda, peixeira há vinte e dois anos, compra para a banca que tem no Mercado do Bolhão. «Aqui não se pode piscar os olhos», explica. «Quem hesita fica com o peixe que os outros não quiseram.»",
+        "Pelas ruas, entretanto, passam os camiões do lixo, os enfermeiros que mudam de turno, os taxistas que levam os últimos noctívagos a casa e os primeiros madrugadores ao aeroporto. São pessoas que se cruzam todas as noites sem nunca se conhecerem, mas que sustentam, juntas, tudo aquilo que o resto da cidade dá por garantido. Por volta das seis e meia, o céu começa a clarear sobre a Ponte Luís I. A cidade acorda, abre as persianas, pede o primeiro café. E quase ninguém se lembra de que o pão ainda vem quente porque alguém não dormiu."
+      ],
+      "english": [
+        [
+          "There is an hour when Porto belongs neither to the tourists nor to the students, nor even to the night owls, who by now have given in to tiredness.",
+          "It is the hour when the city belongs to those who work while the others sleep.",
+          "At four in the morning, the Ribeira is deserted, the Douro flows black and silent, and on the other side of the river the port-wine lodges are no more than silhouettes.",
+          "But you only have to climb a few streets to realise that the city, in fact, never quite falls asleep."
+        ],
+        [
+          "In Senhor Adelino's bakery, in Cedofeita, the oven has been lit since midnight.",
+          "He and his two assistants work in silence, with the radio turned down low, shaping by hand the ring-shaped loaves that will be on café tables at seven.",
+          "“People think bread grows on the shelves,” he says, without taking his eyes off the dough.",
+          "“If I miss a day, half the neighbourhood notices at breakfast.”",
+          "He hasn't known what it is to eat dinner at a normal time for thirty years, but he insists he wouldn't swap this silence for any office."
+        ],
+        [
+          "Further down, in Matosinhos, the fish auction is already bustling.",
+          "The boats came in a short while ago, and the crates of sardines, horse mackerel and octopus glide along conveyor belts under the watchful eyes of the buyers, who bid on a screen at a speed that leaves any outsider dazed.",
+          "Fernanda, a fishmonger for twenty-two years, buys for the stall she has in the Bolhão Market.",
+          "“You can't blink here,” she explains.",
+          "“Whoever hesitates is left with the fish nobody else wanted.”"
+        ],
+        [
+          "Meanwhile, through the streets pass the bin lorries, the nurses changing shifts, the taxi drivers taking the last night owls home and the first early risers to the airport.",
+          "They are people who cross paths every night without ever getting to know one another, but who together hold up everything the rest of the city takes for granted.",
+          "At around half past six, the sky begins to lighten over the Luís I Bridge.",
+          "The city wakes, opens its shutters, orders its first coffee.",
+          "And almost nobody remembers that the bread is still warm because someone didn't sleep."
+        ]
+      ],
+      "vocab": [
+        { "word": "se renderam", "gloss": "have given in, surrendered" },
+        { "word": "não passam de", "gloss": "are no more than" },
+        { "word": "regueifas", "gloss": "ring-shaped loaves typical of the north" },
+        { "word": "hão de", "gloss": "will (be)" },
+        { "word": "dá por isso", "gloss": "notices (it)" },
+        { "word": "lota", "gloss": "fish auction (hall)" },
+        { "word": "fervilha", "gloss": "is bustling, teeming" },
+        { "word": "licitam", "gloss": "bid" },
+        { "word": "forasteiro", "gloss": "outsider, stranger" },
+        { "word": "atordoado", "gloss": "dazed, stunned" },
+        { "word": "noctívagos", "gloss": "night owls" },
+        { "word": "dá por garantido", "gloss": "takes for granted" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-02",
+      "title": "O lobo voltou à serra",
+      "subtitle": "The wolf is back in the hills",
+      "topic": "Nature",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Durante décadas, o lobo-ibérico foi, em Portugal, uma espécie de fantasma. Sabia-se que existia, sobretudo no norte e no centro do país, mas raramente alguém o via. Os mais velhos das aldeias de Trás-os-Montes ainda se lembram dos tempos em que se armavam fojos, armadilhas de pedra onde os lobos eram encurralados e mortos. Hoje a espécie é protegida por lei, e a população, embora frágil, tem dado sinais de estabilidade. Para os biólogos, é uma boa notícia. Para os pastores, nem tanto.",
+        "O senhor Ilídio tem duzentas ovelhas numa encosta da serra de Montesinho. No último inverno, perdeu onze. «Chego de manhã ao curral e encontro aquilo», conta, apontando para um canto do campo onde ainda se notam manchas escuras na erva. «O Estado paga uma indemnização, sim senhor. Mas demora meses e não paga o desgosto.» Como muitos pastores da região, sente que as decisões sobre o lobo são tomadas em Lisboa por quem nunca teve de passar uma noite de nevão a guardar um rebanho.",
+        "Do outro lado da discussão está a Teresa Nogueira, bióloga numa associação de conservação que trabalha há quinze anos com as comunidades locais. Não desvaloriza as perdas — pelo contrário. «Seria uma hipocrisia pedir aos pastores que pagassem sozinhos o preço de uma coisa que, em teoria, interessa a todos nós.» A associação oferece cães de gado, sobretudo cães de Castro Laboreiro e rafeiros do Alentejo, que são criados desde pequenos no meio das ovelhas e as defendem como se fossem da família. Onde os cães foram introduzidos, os ataques diminuíram drasticamente.",
+        "O senhor Ilídio recebeu dois cães há um ano. Chamou-lhes Trovão e Neve. Desde então, não perdeu uma única ovelha, embora garanta que continua a ouvir os lobos uivar ao longe, nas noites de lua cheia. Pergunto-lhe se, apesar de tudo, gostaria que o lobo desaparecesse. Fica muito tempo calado, a olhar para a serra. «Se o lobo se for embora, a serra fica mais pobre», diz por fim. «Só não quero ser eu a pagar a conta.»"
+      ],
+      "english": [
+        [
+          "For decades, the Iberian wolf was a kind of ghost in Portugal.",
+          "People knew it existed, especially in the north and centre of the country, but hardly anyone ever saw it.",
+          "The oldest people in the villages of Trás-os-Montes still remember the days when fojos were set, stone traps where wolves were cornered and killed.",
+          "Today the species is protected by law, and the population, though fragile, has shown signs of stability.",
+          "For biologists, this is good news.",
+          "For shepherds, not so much."
+        ],
+        [
+          "Senhor Ilídio has two hundred sheep on a slope of the Montesinho hills.",
+          "Last winter, he lost eleven.",
+          "“I get to the fold in the morning and I find that,” he says, pointing to a corner of the field where dark stains can still be seen on the grass.",
+          "“The State pays compensation, yes indeed. But it takes months and it doesn't pay for the heartache.”",
+          "Like many shepherds in the region, he feels that decisions about the wolf are made in Lisbon by people who have never had to spend a night in a snowstorm guarding a flock."
+        ],
+        [
+          "On the other side of the argument is Teresa Nogueira, a biologist with a conservation association that has worked with local communities for fifteen years.",
+          "She doesn't play down the losses — quite the opposite.",
+          "“It would be hypocritical to ask shepherds to pay on their own the price of something that, in theory, matters to all of us.”",
+          "The association provides livestock guardian dogs, mainly Castro Laboreiro dogs and Alentejo mastiffs, which are raised from puppies among the sheep and defend them as if they were family.",
+          "Where the dogs have been introduced, attacks have fallen dramatically."
+        ],
+        [
+          "Senhor Ilídio got two dogs a year ago.",
+          "He called them Thunder and Snow.",
+          "Since then, he hasn't lost a single sheep, though he insists he still hears the wolves howling in the distance on nights with a full moon.",
+          "I ask him whether, despite everything, he would like the wolf to disappear.",
+          "He stays silent for a long time, looking at the hills.",
+          "“If the wolf goes, the hills will be poorer,” he says at last.",
+          "“I just don't want to be the one who foots the bill.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "fojos", "gloss": "traditional stone wolf traps" },
+        { "word": "encurralados", "gloss": "cornered" },
+        { "word": "encosta", "gloss": "hillside, slope" },
+        { "word": "indemnização", "gloss": "compensation" },
+        { "word": "desgosto", "gloss": "heartache, grief" },
+        { "word": "nevão", "gloss": "snowstorm, heavy snowfall" },
+        { "word": "rebanho", "gloss": "flock" },
+        { "word": "desvaloriza", "gloss": "plays down" },
+        { "word": "cães de gado", "gloss": "livestock guardian dogs" },
+        { "word": "rafeiros do Alentejo", "gloss": "Alentejo mastiffs (a breed)" },
+        { "word": "uivar", "gloss": "howling" },
+        { "word": "pagar a conta", "gloss": "foot the bill" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-03",
+      "title": "Elogio do atraso",
+      "subtitle": "In praise of lateness",
+      "topic": "Ideas",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Confesso, sem grande orgulho mas também sem remorso, que sou um homem pontual. Chego aos jantares à hora marcada e encontro os anfitriões de roupão. Chego às reuniões cinco minutos antes e descubro que sou o único que não trouxe uma desculpa. Durante anos, considerei isto uma virtude e os outros um bando de irresponsáveis. Hoje, já não tenho tanta certeza.",
+        "É sabido que os portugueses têm uma relação elástica com o relógio. Quando se combina «às oito», toda a gente sabe que isso quer dizer «lá para as oito e meia», e quem aparece às oito em ponto arrisca-se a ser recebido com um olhar de ligeira pena. Os estrangeiros acham isto exasperante, e com razão: um comboio que parte às oito e meia quando devia partir às oito é um problema. Mas um jantar entre amigos não é um comboio.",
+        "O atraso social, se pensarmos bem, é uma forma subtil de cortesia. Dá ao anfitrião tempo para acabar de pôr a mesa sem pressa, ao convidado tempo para estacionar sem stress, e a todos a sensação de que a vida não está cronometrada ao segundo. Há nele uma espécie de acordo tácito: ninguém está à espera de ninguém, porque toda a gente sabe que ninguém está à espera. É, no fundo, uma recusa coletiva da tirania dos minutos, praticada com uma naturalidade que os manuais de produtividade jamais conseguirão explicar.",
+        "Não pretendo, claro, fazer a apologia do desleixo. Quem deixa um doente à espera, um aluno sem aula ou um amigo ao frio numa paragem de autocarro não merece indulgência nenhuma. Mas talvez valha a pena distinguir o atraso que desrespeita do atraso que descontrai. Desde que percebi a diferença, tento chegar dez minutos depois da hora aos jantares. Ainda não consigo. Acabo sempre por dar voltas ao quarteirão, a olhar para o relógio, envergonhado da minha própria pontualidade."
+      ],
+      "english": [
+        [
+          "I confess, without much pride but also without remorse, that I am a punctual man.",
+          "I arrive at dinners at the agreed time and find my hosts in their dressing gowns.",
+          "I arrive at meetings five minutes early and discover that I'm the only one who hasn't brought an excuse.",
+          "For years, I considered this a virtue and everyone else a bunch of irresponsible people.",
+          "Today, I'm not so sure."
+        ],
+        [
+          "It's well known that the Portuguese have an elastic relationship with the clock.",
+          "When you arrange to meet “at eight”, everyone knows that means “around half past eight”, and anyone who turns up at eight on the dot risks being greeted with a look of mild pity.",
+          "Foreigners find this exasperating, and rightly so: a train that leaves at half past eight when it should have left at eight is a problem.",
+          "But a dinner among friends is not a train."
+        ],
+        [
+          "Social lateness, if you think about it, is a subtle form of courtesy.",
+          "It gives the host time to finish laying the table without rushing, the guest time to park without stress, and everyone the feeling that life isn't timed to the second.",
+          "There's a kind of tacit agreement in it: nobody is waiting for anybody, because everybody knows nobody is waiting.",
+          "It is, deep down, a collective refusal of the tyranny of minutes, practised with a naturalness that productivity manuals will never manage to explain."
+        ],
+        [
+          "I don't intend, of course, to make the case for sloppiness.",
+          "Anyone who leaves a patient waiting, a pupil without a lesson or a friend out in the cold at a bus stop deserves no leniency at all.",
+          "But perhaps it's worth distinguishing the lateness that disrespects from the lateness that relaxes.",
+          "Ever since I understood the difference, I have tried to arrive at dinners ten minutes late.",
+          "I still can't do it.",
+          "I always end up walking round the block, looking at my watch, ashamed of my own punctuality."
+        ]
+      ],
+      "vocab": [
+        { "word": "remorso", "gloss": "remorse" },
+        { "word": "anfitriões", "gloss": "hosts" },
+        { "word": "roupão", "gloss": "dressing gown" },
+        { "word": "bando", "gloss": "bunch, gang" },
+        { "word": "lá para as", "gloss": "around, some time about (a time)" },
+        { "word": "arrisca-se", "gloss": "risks" },
+        { "word": "exasperante", "gloss": "exasperating" },
+        { "word": "cronometrada", "gloss": "timed (with a stopwatch)" },
+        { "word": "tácito", "gloss": "tacit, unspoken" },
+        { "word": "no fundo", "gloss": "deep down, basically" },
+        { "word": "apologia", "gloss": "defence, case for" },
+        { "word": "desleixo", "gloss": "sloppiness, carelessness" },
+        { "word": "dar voltas ao quarteirão", "gloss": "walking round the block" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-04",
+      "title": "A última sessão",
+      "subtitle": "The last screening",
+      "topic": "Culture",
+      "symbol": "film.fill",
+      "paragraphs": [
+        "O Cinema Avenida, em Portalegre, fechou as portas num domingo de março, com uma sessão às nove e meia da noite a que assistiram quarenta e três pessoas. O senhor Eduardo contou-as uma a uma, da cabine de projeção, através do pequeno vidro por onde, durante cinquenta e um anos, tinha espreitado a sala. Quarenta e três. Na estreia de um filme de cowboys, em mil novecentos e setenta e quatro, tinham sido seiscentas, e houve gente a ver o filme de pé, encostada às paredes.",
+        "Ninguém lhe tinha pedido que escolhesse o filme da última sessão, mas o novo dono do edifício, que ia transformá-lo num ginásio, também não se importou. O senhor Eduardo escolheu uma comédia italiana dos anos sessenta, que já ninguém conhecia, e que ele tinha projetado pela primeira vez aos dezassete anos, quando ainda era apenas o rapaz que rebobinava as bobinas. Não a escolheu por ser boa. Escolheu-a porque, nessa noite distante, uma rapariga de vestido verde se tinha rido tão alto na fila doze que ele quase deixou queimar a película.",
+        "A rapariga chamava-se Natália. Casaram-se dois anos depois e ela passou o resto da vida a garantir que nunca se tinha rido tão alto, e que aquilo era invenção dele. Morreu no inverno anterior, depois de uma doença longa e discreta, como tudo o que ela fazia. Desde então, o senhor Eduardo continuava a ir todos os dias ao cinema, mais por hábito do que por necessidade, porque havia muito tempo que as projeções eram digitais e bastava carregar num botão.",
+        "A meio do filme, numa cena em que um padre perseguia uma galinha pela praça de uma aldeia, ouviu-se uma gargalhada. Vinha da fila doze. O senhor Eduardo inclinou-se para o vidro e viu uma rapariga de uns vinte anos, de casaco verde, a limpar as lágrimas de tanto rir, enquanto o namorado a olhava, embaraçado. Não era a Natália, evidentemente. Mas ficou ali, de pé, até ao fim, sem se lembrar de que, desta vez, não havia película nenhuma para queimar. Quando as luzes se acenderam, desceu à sala, foi até à fila doze e agradeceu à rapariga. Ela nunca percebeu porquê."
+      ],
+      "english": [
+        [
+          "The Cinema Avenida, in Portalegre, closed its doors on a Sunday in March, with a nine-thirty evening screening attended by forty-three people.",
+          "Senhor Eduardo counted them one by one from the projection booth, through the little window through which, for fifty-one years, he had peeped at the auditorium.",
+          "Forty-three.",
+          "At the premiere of a cowboy film, in nineteen seventy-four, there had been six hundred, and some people had watched the film standing, leaning against the walls."
+        ],
+        [
+          "Nobody had asked him to choose the film for the last screening, but the new owner of the building, who was going to turn it into a gym, didn't mind either.",
+          "Senhor Eduardo chose an Italian comedy from the sixties, which nobody remembered any more, and which he had projected for the first time at seventeen, when he was still just the boy who rewound the reels.",
+          "He didn't choose it because it was good.",
+          "He chose it because, on that distant night, a girl in a green dress had laughed so loudly in row twelve that he almost let the film burn."
+        ],
+        [
+          "The girl's name was Natália.",
+          "They married two years later and she spent the rest of her life insisting she had never laughed that loudly, and that he had made it up.",
+          "She died the winter before, after a long and quiet illness, like everything she did.",
+          "Since then, Senhor Eduardo had kept going to the cinema every day, more out of habit than necessity, because the projections had long been digital and all you had to do was press a button."
+        ],
+        [
+          "Halfway through the film, in a scene where a priest chased a hen across a village square, a burst of laughter rang out.",
+          "It came from row twelve.",
+          "Senhor Eduardo leaned towards the glass and saw a girl of about twenty, in a green coat, wiping away tears of laughter while her boyfriend looked at her, embarrassed.",
+          "It wasn't Natália, of course.",
+          "But he stayed there, standing, until the end, forgetting that this time there was no film at all to burn.",
+          "When the lights came up, he went down into the auditorium, walked to row twelve and thanked the girl.",
+          "She never understood why."
+        ]
+      ],
+      "vocab": [
+        { "word": "cabine de projeção", "gloss": "projection booth" },
+        { "word": "espreitado", "gloss": "peeped, peeked" },
+        { "word": "estreia", "gloss": "premiere, opening" },
+        { "word": "encostada", "gloss": "leaning" },
+        { "word": "não se importou", "gloss": "didn't mind" },
+        { "word": "rebobinava", "gloss": "rewound" },
+        { "word": "bobinas", "gloss": "reels" },
+        { "word": "película", "gloss": "film (stock)" },
+        { "word": "discreta", "gloss": "quiet, unobtrusive" },
+        { "word": "gargalhada", "gloss": "burst of laughter" },
+        { "word": "embaraçado", "gloss": "embarrassed" },
+        { "word": "evidentemente", "gloss": "of course, obviously" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-05",
+      "title": "A pele dos sobreiros",
+      "subtitle": "The skin of the cork oaks",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Em junho, quando o calor do Alentejo começa a apertar, os tiradores de cortiça saem para o montado ao nascer do dia. Trabalham em equipas de seis ou sete, armados apenas com machados de lâmina curva, e avançam de árvore em árvore com uma precisão que parece mais cirurgia do que agricultura. Um golpe mal dado pode ferir o sobreiro e comprometer as colheitas das décadas seguintes. Por isso, é um dos trabalhos agrícolas mais bem pagos do país, e um dos poucos que nenhuma máquina conseguiu ainda substituir.",
+        "O José Manuel, de cinquenta e oito anos, aprendeu o ofício com o pai, perto de Coruche. Mostra-me como se faz: primeiro, um corte horizontal à volta do tronco; depois, um corte vertical; por fim, com o cabo do machado, vai afastando a casca até ela se soltar inteira, como se a árvore despisse um casaco. Por baixo, o tronco aparece nu, de um vermelho alaranjado que, com o passar das semanas, há de escurecer. «A árvore não morre por isto», explica. «Daqui a nove anos voltamos, e ela tem outro casaco à nossa espera.»",
+        "É por isso que, nos troncos descascados, se vê pintado a branco um único algarismo: o último dígito do ano da extração. Um sobreiro com um «5» foi descortiçado em 2025 e só voltará a sê-lo em 2034. A lei proíbe que se faça antes, e o abate de sobreiros, árvore nacional desde 2011, é rigorosamente controlado. Um sobreiro só começa a dar cortiça de qualidade por volta dos quarenta anos e pode viver mais de dois séculos, o que faz de quem os planta, inevitavelmente, alguém que trabalha para os netos.",
+        "Os ecologistas lembram que o montado é muito mais do que uma fonte de rolhas. É um dos ecossistemas mais ricos da Europa, onde convivem porcos pretos, águias-imperiais e centenas de espécies de plantas. Durante anos, a substituição das rolhas de cortiça por rolhas de plástico e de alumínio ameaçou a sobrevivência económica de tudo isto. Hoje, a cortiça reinventou-se: está em pavimentos, em solas de sapatos, em isolamentos de naves espaciais. O José Manuel encolhe os ombros quando lhe falo disso. «Desde que alguém a queira, nós cá estaremos», diz, e volta a erguer o machado."
+      ],
+      "english": [
+        [
+          "In June, when the Alentejo heat starts to bite, the cork strippers go out into the cork-oak woodland at dawn.",
+          "They work in teams of six or seven, armed only with curved-bladed axes, and move from tree to tree with a precision that looks more like surgery than farming.",
+          "One badly aimed blow can wound the cork oak and jeopardise the harvests of the following decades.",
+          "That's why it is one of the best-paid farm jobs in the country, and one of the few that no machine has yet managed to replace."
+        ],
+        [
+          "José Manuel, fifty-eight, learned the trade from his father, near Coruche.",
+          "He shows me how it's done: first, a horizontal cut around the trunk; then a vertical cut; finally, with the handle of the axe, he gradually prises the bark away until it comes off in one piece, as if the tree were taking off a coat.",
+          "Underneath, the trunk appears naked, an orangey red that will darken as the weeks go by.",
+          "“The tree doesn't die from this,” he explains.",
+          "“In nine years we'll be back, and it'll have another coat waiting for us.”"
+        ],
+        [
+          "That's why, on the stripped trunks, you can see a single figure painted in white: the last digit of the year of extraction.",
+          "A cork oak marked with a “5” was stripped in 2025 and won't be stripped again until 2034.",
+          "The law forbids doing it any sooner, and the felling of cork oaks, the national tree since 2011, is strictly controlled.",
+          "A cork oak only begins to produce good-quality cork at around forty years old and can live for more than two centuries, which inevitably makes anyone who plants them someone working for their grandchildren."
+        ],
+        [
+          "Ecologists point out that the montado is much more than a source of corks.",
+          "It is one of the richest ecosystems in Europe, home to black pigs, Spanish imperial eagles and hundreds of plant species.",
+          "For years, the replacement of cork stoppers with plastic and aluminium ones threatened the economic survival of all this.",
+          "Today, cork has reinvented itself: it's in flooring, in shoe soles, in the insulation of spacecraft.",
+          "José Manuel shrugs when I mention this.",
+          "“As long as someone wants it, we'll be here,” he says, and raises his axe again."
+        ]
+      ],
+      "vocab": [
+        { "word": "apertar", "gloss": "to intensify, bite (of heat)" },
+        { "word": "tiradores de cortiça", "gloss": "cork strippers" },
+        { "word": "montado", "gloss": "open cork-oak and holm-oak woodland" },
+        { "word": "machados", "gloss": "axes" },
+        { "word": "comprometer", "gloss": "to jeopardise" },
+        { "word": "ofício", "gloss": "trade, craft" },
+        { "word": "despisse", "gloss": "were taking off (clothes)" },
+        { "word": "alaranjado", "gloss": "orangey" },
+        { "word": "algarismo", "gloss": "figure, digit" },
+        { "word": "descortiçado", "gloss": "stripped of its cork" },
+        { "word": "abate", "gloss": "felling" },
+        { "word": "rolhas", "gloss": "corks, stoppers" },
+        { "word": "pavimentos", "gloss": "flooring" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-06",
+      "title": "A última aula",
+      "subtitle": "The last lesson",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Na manhã do seu último dia de aulas, a professora Albertina acordou às seis, como sempre, e passou a ferro a blusa azul que costumava guardar para as reuniões de pais. Durante trinta e oito anos, tinha ensinado a ler e a contar a três gerações de crianças da freguesia, numa escola de granito com duas salas, à beira de uma estrada do Minho onde passavam mais tratores do que carros. Sabia de cor os nomes de quase todos, e as asneiras de cada um.",
+        "A substituta, disseram-lhe, chegaria às dez para conhecer a turma. A professora Albertina preparara tudo com uma minúcia quase obsessiva: uma pasta para cada aluno, com as dificuldades, os talentos, as alergias e os nomes dos cães. Às dez e cinco, a porta abriu-se e entrou um homem de quarenta e tal anos, alto, de barba grisalha, com um sorriso nervoso que lhe pareceu reconhecer de algum lado.",
+        "«Não se lembra de mim, pois não?», perguntou ele. A professora olhou-o com atenção, procurando-lhe no rosto o menino que tinha sido. E então lembrou-se. Era o Fábio, o rapaz da última carteira, que nunca trazia os trabalhos de casa, que tinha partido duas janelas com a mesma bola e a quem ela, num dia de cansaço de que nunca se orgulhara, dissera diante da turma inteira que não ia chegar a lado nenhum. Sentiu o sangue fugir-lhe da cara.",
+        "«Lembro-me de tudo o que me disse», continuou ele, a rir, como quem adivinha um pensamento. «Mas também me lembro de que, no dia seguinte, ficou comigo depois das aulas e me ensinou a ler com os jornais desportivos, porque era a única coisa que me interessava. Ninguém tinha tido paciência para isso antes. Foi por sua causa que fui para professor.» A professora Albertina, que em trinta e oito anos nunca tinha chorado à frente de um aluno, abriu a pasta de cima, fingiu que procurava um papel e entregou-lhe, com a voz um pouco trémula, a chave da sala."
+      ],
+      "english": [
+        [
+          "On the morning of her last day of teaching, Professora Albertina woke at six, as always, and ironed the blue blouse she usually kept for parents' evenings.",
+          "For thirty-eight years, she had taught three generations of the parish's children to read and count, in a granite school with two classrooms, beside a road in the Minho that saw more tractors than cars.",
+          "She knew almost all their names by heart, and every one of their misdeeds."
+        ],
+        [
+          "Her replacement, they had told her, would arrive at ten to meet the class.",
+          "Professora Albertina had prepared everything with almost obsessive meticulousness: a folder for each pupil, with their difficulties, their talents, their allergies and the names of their dogs.",
+          "At five past ten, the door opened and in came a man in his forties, tall, with a greying beard and a nervous smile she felt she recognised from somewhere."
+        ],
+        [
+          "“You don't remember me, do you?” he asked.",
+          "The teacher looked at him closely, searching his face for the little boy he had been.",
+          "And then she remembered.",
+          "It was Fábio, the boy at the back desk, who never brought his homework, who had broken two windows with the same ball and to whom she, on a weary day she had never been proud of, had said in front of the whole class that he would never get anywhere.",
+          "She felt the blood drain from her face."
+        ],
+        [
+          "“I remember everything you said to me,” he went on, laughing, as if he had read her mind.",
+          "“But I also remember that, the next day, you stayed behind with me after school and taught me to read with the sports papers, because they were the only thing I was interested in. Nobody had had the patience for that before. It was because of you that I became a teacher.”",
+          "Professora Albertina, who in thirty-eight years had never cried in front of a pupil, opened the top folder, pretended to look for a piece of paper and handed him, her voice a little shaky, the key to the classroom."
+        ]
+      ],
+      "vocab": [
+        { "word": "passou a ferro", "gloss": "ironed" },
+        { "word": "freguesia", "gloss": "parish" },
+        { "word": "asneiras", "gloss": "mischief, silly things done" },
+        { "word": "substituta", "gloss": "replacement, substitute (female)" },
+        { "word": "minúcia", "gloss": "meticulousness, attention to detail" },
+        { "word": "quarenta e tal anos", "gloss": "forty-something" },
+        { "word": "grisalha", "gloss": "greying" },
+        { "word": "carteira", "gloss": "school desk" },
+        { "word": "não ia chegar a lado nenhum", "gloss": "would never get anywhere" },
+        { "word": "adivinha", "gloss": "guesses" },
+        { "word": "fui para professor", "gloss": "I became a teacher" },
+        { "word": "trémula", "gloss": "shaky, trembling" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-07",
+      "title": "A peixeira e o algoritmo",
+      "subtitle": "The fishwife and the algorithm",
+      "topic": "Technology",
+      "symbol": "cpu",
+      "paragraphs": [
+        "Quando a filha lhe sugeriu que começasse a vender peixe pela internet, a dona Rosário, peixeira em Peniche há trinta e cinco anos, riu-se tanto que teve de se sentar num caixote. «Peixe é para se ver, para se cheirar, para se apalpar», respondeu. «Ninguém compra um robalo por uma fotografia.» Isto foi em março de 2020. Duas semanas depois, o país fechou-se em casa, o mercado ficou deserto e a dona Rosário passou a ver robalos a estragar-se por falta de clientes.",
+        "Hoje, a banca da dona Rosário tem uma página nas redes sociais com doze mil seguidores, uma aplicação de encomendas e uma carrinha refrigerada que faz entregas três vezes por semana em Leiria, nas Caldas da Rainha e até em Lisboa. Todas as manhãs, às sete, ela grava um vídeo de dois minutos junto ao balcão, a mostrar o peixe do dia e a dar conselhos sobre a maneira de o cozinhar. Fala como sempre falou aos clientes, sem filtros nem cerimónias, e é precisamente isso que os seguidores parecem adorar.",
+        "A transição não foi indolor. Nos primeiros meses, houve encomendas trocadas, clientes que receberam polvo em vez de pescada e um episódio, que a família ainda conta entre gargalhadas, em que a dona Rosário transmitiu em direto, sem saber, vinte minutos de uma discussão com o marido sobre o preço do gasóleo. Mas o que mais a incomodou foi outra coisa: descobrir que o algoritmo das redes sociais preferia vídeos de cavalas brilhantes a vídeos de raias, que vendem pior e que, segundo ela, «são feias mas são boas como o caraças».",
+        "Os economistas citam o caso dela como exemplo da digitalização do pequeno comércio tradicional, e já foi convidada para falar em duas conferências, das quais fugiu com desculpas cada vez mais criativas. Ela própria prefere não fazer grandes teorias. Admite que a internet lhe salvou o negócio, mas recusa-se a deixar de estar no mercado todos os dias, de pé, com as mãos geladas. «O algoritmo sabe o que as pessoas clicam», diz, enquanto amanha um carapau com uma rapidez assustadora. «Mas quem sabe o que elas comem sou eu.»"
+      ],
+      "english": [
+        [
+          "When her daughter suggested she start selling fish online, Dona Rosário, a fishwife in Peniche for thirty-five years, laughed so hard she had to sit down on a crate.",
+          "“Fish is for looking at, for smelling, for touching,” she replied.",
+          "“Nobody buys a sea bass from a photo.”",
+          "That was in March 2020.",
+          "Two weeks later, the country shut itself indoors, the market was deserted and Dona Rosário found herself watching sea bass go off for lack of customers."
+        ],
+        [
+          "Today, Dona Rosário's stall has a social-media page with twelve thousand followers, an ordering app and a refrigerated van that delivers three times a week to Leiria, Caldas da Rainha and even Lisbon.",
+          "Every morning at seven, she records a two-minute video by the counter, showing the fish of the day and giving advice on how to cook it.",
+          "She talks the way she has always talked to customers, unfiltered and without ceremony, and that is precisely what her followers seem to love."
+        ],
+        [
+          "The transition wasn't painless.",
+          "In the first few months, there were mixed-up orders, customers who received octopus instead of hake and an episode, which the family still tells amid roars of laughter, in which Dona Rosário unknowingly broadcast live twenty minutes of an argument with her husband about the price of diesel.",
+          "But what bothered her most was something else: discovering that the social-media algorithm preferred videos of shiny mackerel to videos of skate, which sell less well and which, according to her, “are ugly but damn good”."
+        ],
+        [
+          "Economists cite her case as an example of the digitalisation of small traditional businesses, and she has already been invited to speak at two conferences, both of which she escaped with increasingly creative excuses.",
+          "She herself prefers not to theorise.",
+          "She admits that the internet saved her business, but she refuses to stop being at the market every day, on her feet, with frozen hands.",
+          "“The algorithm knows what people click on,” she says, while gutting a horse mackerel with alarming speed.",
+          "“But I'm the one who knows what they eat.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "caixote", "gloss": "crate" },
+        { "word": "apalpar", "gloss": "to feel, touch" },
+        { "word": "robalo", "gloss": "sea bass" },
+        { "word": "estragar-se", "gloss": "go off, spoil" },
+        { "word": "banca", "gloss": "market stall" },
+        { "word": "encomendas", "gloss": "orders" },
+        { "word": "indolor", "gloss": "painless" },
+        { "word": "trocadas", "gloss": "mixed up" },
+        { "word": "gasóleo", "gloss": "diesel" },
+        { "word": "cavalas", "gloss": "mackerel" },
+        { "word": "raias", "gloss": "skate, rays" },
+        { "word": "como o caraças", "gloss": "damn (good), really (informal)" },
+        { "word": "amanha", "gloss": "guts, cleans (fish)" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-08",
+      "title": "Corvo, o fim do mapa",
+      "subtitle": "Corvo, the edge of the map",
+      "topic": "Travel",
+      "symbol": "sailboat.fill",
+      "paragraphs": [
+        "O Corvo é a ilha mais pequena e mais isolada dos Açores, um vulcão adormecido de dezassete quilómetros quadrados perdido no meio do Atlântico. Vivem lá pouco mais de quatrocentas pessoas, numa única vila, e toda a gente sabe a que horas cada um se deita. Chega-se de avião, num pequeno bimotor que só aterra quando o vento deixa, ou de barco, a partir das Flores, numa travessia que, em dias de mar picado, faz duvidar da própria fé.",
+        "Quem desembarca à espera de monumentos fica desiludido. O Corvo não tem museus de fama mundial nem praias de areia branca. Tem o Caldeirão, uma cratera enorme no topo da ilha, com pequenas lagoas no fundo que, segundo se diz na ilha, desenham o mapa do arquipélago. Tem vacas, nevoeiro, rochas negras e um silêncio tão espesso que, nos primeiros dias, há visitantes que se queixam de não conseguir dormir.",
+        "O que o Corvo tem, sobretudo, é uma forma de vida que noutros sítios se perdeu. As portas das casas raramente estão trancadas, e quem tem fechadura nem se lembra onde pôs a chave. Quando o barco dos mantimentos se atrasa por causa do mau tempo, os vizinhos partilham o que têm sem que ninguém precise de pedir. «Aqui não há anonimato», diz-me a Lígia, que trocou um emprego em Lisboa por uma pequena pousada na vila. «Isso é ótimo quando precisamos de ajuda. É menos ótimo quando queremos discutir com o marido sem que a ilha inteira saiba.»",
+        "Como em tantas ilhas pequenas, o grande desafio é demográfico. Os jovens saem para estudar e raramente voltam, e a escola tem menos alunos de ano para ano. Mas há sinais de mudança: alguns casais vieram de fora atraídos pelo silêncio, e a observação de aves trouxe ornitólogos de todo o mundo, que passam o outono de binóculos apontados ao céu, à espera de espécies americanas desviadas pelos ventos. No dia em que me vim embora, o avião não pôde aterrar. Ninguém pareceu surpreendido. «O Corvo deixa-nos sair quando quer», disse a Lígia, a rir, e convidou-me para jantar."
+      ],
+      "english": [
+        [
+          "Corvo is the smallest and most isolated island in the Azores, a dormant volcano of seventeen square kilometres lost in the middle of the Atlantic.",
+          "Just over four hundred people live there, in a single village, and everyone knows what time everyone else goes to bed.",
+          "You get there by plane, in a small twin-engine aircraft that only lands when the wind allows, or by boat, from Flores, on a crossing that, on days of choppy sea, makes you question your own faith."
+        ],
+        [
+          "Anyone who lands expecting monuments will be disappointed.",
+          "Corvo has no world-famous museums and no white-sand beaches.",
+          "It has the Caldeirão, an enormous crater at the top of the island, with small lakes at the bottom which, as the islanders say, trace the map of the archipelago.",
+          "It has cows, fog, black rocks and a silence so thick that, in the first few days, some visitors complain they can't sleep."
+        ],
+        [
+          "What Corvo has, above all, is a way of life that has been lost elsewhere.",
+          "House doors are rarely locked, and those who have a lock can't remember where they put the key.",
+          "When the supply boat is delayed by bad weather, neighbours share what they have without anyone needing to ask.",
+          "“There's no anonymity here,” says Lígia, who swapped a job in Lisbon for a small guesthouse in the village.",
+          "“That's great when you need help. It's less great when you want to argue with your husband without the whole island knowing.”"
+        ],
+        [
+          "As on so many small islands, the great challenge is demographic.",
+          "Young people leave to study and rarely come back, and the school has fewer pupils every year.",
+          "But there are signs of change: a few couples have come from elsewhere, drawn by the silence, and birdwatching has brought ornithologists from all over the world, who spend the autumn with their binoculars trained on the sky, waiting for American species blown off course by the winds.",
+          "On the day I left, the plane couldn't land.",
+          "Nobody seemed surprised.",
+          "“Corvo lets you leave when it wants to,” said Lígia, laughing, and invited me to dinner."
+        ]
+      ],
+      "vocab": [
+        { "word": "adormecido", "gloss": "dormant, sleeping" },
+        { "word": "bimotor", "gloss": "twin-engine plane" },
+        { "word": "mar picado", "gloss": "choppy sea" },
+        { "word": "desembarca", "gloss": "lands, disembarks" },
+        { "word": "cratera", "gloss": "crater" },
+        { "word": "espesso", "gloss": "thick, dense" },
+        { "word": "trancadas", "gloss": "locked" },
+        { "word": "anonimato", "gloss": "anonymity" },
+        { "word": "pousada", "gloss": "guesthouse, inn" },
+        { "word": "desafio", "gloss": "challenge" },
+        { "word": "atraídos", "gloss": "drawn, attracted" },
+        { "word": "desviadas", "gloss": "blown off course" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-09",
+      "title": "A inflação explicada à minha avó",
+      "subtitle": "Inflation explained to my grandmother",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "A minha avó, que tem noventa anos e uma memória implacável, nunca precisou de um economista para lhe explicar a inflação. Explica-ma ela a mim, sempre que vamos juntas ao supermercado. Pega numa embalagem de café, ajeita os óculos, lê o preço em voz alta e anuncia, para quem a quiser ouvir, quanto custava aquilo em escudos no tempo em que o meu avô ainda era vivo. A conversão é feita de cabeça, com uma precisão que deixa os funcionários da caixa perplexos.",
+        "Tentei, mais do que uma vez, explicar-lhe o resto da história. Que os salários também subiram, que o poder de compra não se mede só pelo preço do café, que o Banco Central Europeu sobe as taxas de juro precisamente para travar a subida dos preços. Ela ouve-me com a paciência de quem já viu muitos governos cair, e no fim faz sempre a mesma pergunta: «Então e porque é que eu, com a mesma reforma, levo menos coisas no saco?» Até hoje, não encontrei resposta que a convencesse.",
+        "A verdade é que a minha avó tem razão naquilo que realmente importa. As estatísticas falam de médias, e as médias escondem as pessoas que estão nas pontas. Para quem gasta quase todo o rendimento em comida, luz e medicamentos, a inflação não é um número abstrato publicado ao fim do mês: é a decisão de comprar fruta só ao domingo, ou de não ligar o aquecedor em janeiro. Um economista diria que se trata de uma questão de «inflação percecionada». A minha avó diria que se trata de uma questão de vergonha na cara de quem manda.",
+        "Na semana passada, no supermercado, ela pegou numa lata de atum, fez as contas e, pela primeira vez em muitos anos, não disse nada. Pousou a lata e pegou noutra mais barata, de uma marca que nunca tinha comprado. Perguntei-lhe se estava bem. Respondeu que sim, que só estava a ficar velha, e que as velhas não se podem dar ao luxo de ser exigentes. Foi a explicação de economia mais clara que alguma vez ouvi. E a mais triste."
+      ],
+      "english": [
+        [
+          "My grandmother, who is ninety and has a relentless memory, has never needed an economist to explain inflation to her.",
+          "She explains it to me, whenever we go to the supermarket together.",
+          "She picks up a packet of coffee, adjusts her glasses, reads the price aloud and announces, to anyone who cares to listen, how much it cost in escudos back when my grandfather was still alive.",
+          "The conversion is done in her head, with a precision that leaves the checkout staff baffled."
+        ],
+        [
+          "I have tried, more than once, to explain the rest of the story to her.",
+          "That wages have gone up too, that purchasing power isn't measured just by the price of coffee, that the European Central Bank raises interest rates precisely to curb rising prices.",
+          "She listens to me with the patience of someone who has seen many governments fall, and at the end she always asks the same question: “So why is it that I, with the same pension, carry fewer things home in my bag?”",
+          "To this day, I haven't found an answer that convinces her."
+        ],
+        [
+          "The truth is that my grandmother is right about what really matters.",
+          "Statistics talk about averages, and averages hide the people at the edges.",
+          "For those who spend almost all their income on food, electricity and medicine, inflation isn't an abstract number published at the end of the month: it's the decision to buy fruit only on Sundays, or not to turn the heater on in January.",
+          "An economist would say it's a question of “perceived inflation”.",
+          "My grandmother would say it's a question of shamelessness on the part of those in charge."
+        ],
+        [
+          "Last week, at the supermarket, she picked up a tin of tuna, did the sums and, for the first time in many years, said nothing.",
+          "She put the tin down and picked up a cheaper one, of a brand she had never bought.",
+          "I asked her if she was all right.",
+          "She said she was, that she was just getting old, and that old women can't afford to be fussy.",
+          "It was the clearest explanation of economics I have ever heard.",
+          "And the saddest."
+        ]
+      ],
+      "vocab": [
+        { "word": "implacável", "gloss": "relentless, unforgiving" },
+        { "word": "ajeita", "gloss": "adjusts, straightens" },
+        { "word": "escudos", "gloss": "Portugal's currency before the euro" },
+        { "word": "perplexos", "gloss": "baffled, perplexed" },
+        { "word": "poder de compra", "gloss": "purchasing power" },
+        { "word": "taxas de juro", "gloss": "interest rates" },
+        { "word": "travar", "gloss": "to curb, brake" },
+        { "word": "reforma", "gloss": "pension" },
+        { "word": "rendimento", "gloss": "income" },
+        { "word": "percecionada", "gloss": "perceived" },
+        { "word": "vergonha na cara", "gloss": "shame, decency (lack of it: shamelessness)" },
+        { "word": "dar ao luxo", "gloss": "to afford (the luxury)" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-10",
+      "title": "O fadista que não sabia cantar",
+      "subtitle": "The fado singer who couldn't sing",
+      "topic": "Art",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Durante vinte anos, o Joaquim Bento foi o melhor guitarrista de fado de Alfama, e também o mais calado. Acompanhava as fadistas de olhos fechados, com a cabeça inclinada sobre a guitarra portuguesa como quem escuta um segredo, e no fim das noites, quando o público pedia que ele cantasse alguma coisa, recusava sempre com um sorriso. «Eu não tenho voz», dizia. «Tenho dedos.» Toda a gente achava que era modéstia. Era pânico.",
+        "Aos sete anos, numa festa de escola em Setúbal, tinha cantado um solo diante dos pais e da turma, e a meio da segunda estrofe a voz falhara-lhe, transformando-se num guincho que ainda hoje lhe aparecia nos pesadelos. A professora tinha-o mandado sentar; os colegas tinham-lhe chamado «galinha» até ao fim do ano letivo. Desde então, nunca mais cantara uma nota em público. Nem no duche, quando havia alguém em casa.",
+        "Tudo mudou numa noite de novembro, na casa de fados onde tocava. A fadista principal adoeceu de repente, a segunda tinha ido a um casamento em Viseu, e a sala estava cheia de um grupo de japoneses que tinham atravessado meio mundo para ouvir fado. O dono da casa, desesperado, olhou para o Joaquim. «Ou cantas tu, ou devolvo-lhes o dinheiro», disse. «E se lhes devolver o dinheiro, fechamos no Natal.» O Joaquim sentiu o mesmo frio na barriga que tinha sentido aos sete anos.",
+        "Cantou de olhos fechados, como tocava. A voz saiu-lhe rouca, pequena, cheia de arestas, uma voz que nenhum concurso de televisão teria aprovado. Mas tinha dentro qualquer coisa que as vozes perfeitas raramente têm: o medo, e a coragem de cantar apesar dele. Quando acabou, houve um silêncio longo, daqueles que no fado valem mais do que os aplausos. Depois, uma senhora japonesa da primeira fila levantou-se e fez-lhe uma vénia profunda. Desde então, o Joaquim Bento canta todas as quintas-feiras. Ainda não consegue cantar no duche."
+      ],
+      "english": [
+        [
+          "For twenty years, Joaquim Bento was the best fado guitarist in Alfama, and also the quietest.",
+          "He accompanied the singers with his eyes closed, his head bent over the Portuguese guitar like someone listening to a secret, and at the end of the night, when the audience asked him to sing something, he always declined with a smile.",
+          "“I don't have a voice,” he would say.",
+          "“I have fingers.”",
+          "Everyone thought it was modesty.",
+          "It was panic."
+        ],
+        [
+          "At seven, at a school party in Setúbal, he had sung a solo in front of the parents and his class, and halfway through the second verse his voice had failed him, turning into a squeak that still appeared in his nightmares.",
+          "The teacher had told him to sit down; his classmates had called him “chicken” until the end of the school year.",
+          "Since then, he had never sung another note in public.",
+          "Not even in the shower, when there was anyone at home."
+        ],
+        [
+          "Everything changed one night in November, in the fado house where he played.",
+          "The main singer suddenly fell ill, the second had gone to a wedding in Viseu, and the room was full of a group of Japanese visitors who had crossed half the world to hear fado.",
+          "The owner, desperate, looked at Joaquim.",
+          "“Either you sing, or I give them their money back,” he said.",
+          "“And if I give them their money back, we close at Christmas.”",
+          "Joaquim felt the same butterflies in his stomach he had felt at seven."
+        ],
+        [
+          "He sang with his eyes closed, the way he played.",
+          "His voice came out hoarse, small, full of rough edges, a voice no television talent show would have approved.",
+          "But it had something inside that perfect voices rarely have: fear, and the courage to sing in spite of it.",
+          "When he finished, there was a long silence, the kind that in fado is worth more than applause.",
+          "Then a Japanese lady in the front row stood up and bowed deeply to him.",
+          "Since then, Joaquim Bento has sung every Thursday.",
+          "He still can't sing in the shower."
+        ]
+      ],
+      "vocab": [
+        { "word": "calado", "gloss": "quiet, silent" },
+        { "word": "inclinada", "gloss": "bent, tilted" },
+        { "word": "estrofe", "gloss": "verse, stanza" },
+        { "word": "falhara-lhe", "gloss": "had failed him" },
+        { "word": "guincho", "gloss": "squeak, shriek" },
+        { "word": "pesadelos", "gloss": "nightmares" },
+        { "word": "adoeceu", "gloss": "fell ill" },
+        { "word": "frio na barriga", "gloss": "butterflies in the stomach" },
+        { "word": "rouca", "gloss": "hoarse" },
+        { "word": "arestas", "gloss": "rough edges" },
+        { "word": "apesar dele", "gloss": "in spite of it" },
+        { "word": "vénia", "gloss": "bow" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-11",
+      "title": "Os lobos-marinhos das Desertas",
+      "subtitle": "The monk seals of the Desertas",
+      "topic": "Science",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "No século quinze, quando os navegadores portugueses chegaram à Madeira, encontraram nas suas costas tantos lobos-marinhos que deram o nome destes animais a uma baía: Câmara de Lobos. Cinco séculos depois, a foca-monge-do-mediterrâneo estava à beira da extinção. No final dos anos oitenta, restavam no arquipélago apenas meia dúzia de animais, refugiados nas grutas das Ilhas Desertas, três rochedos áridos e desabitados a sudeste da Madeira.",
+        "Foi então que um pequeno grupo de biólogos e de vigilantes da natureza decidiu fazer daquelas ilhas um santuário. Em 1990, foi criada a Reserva Natural das Ilhas Desertas, onde a pesca passou a ser restringida e o acesso humano rigorosamente controlado. Desde então, há sempre vigilantes a viver nas ilhas, em turnos de duas semanas, numa casa pequena sem televisão, com um rádio, um telescópio e uma paciência à prova de bala. A Carla, bióloga marinha, já passou ali mais de quinhentas noites.",
+        "«As pessoas imaginam que o nosso trabalho é estar a olhar para focas o dia inteiro», diz, rindo. «Na verdade, passamos a maior parte do tempo à espera de as ver.» Os lobos-marinhos são animais extremamente tímidos, que se assustam com o mais pequeno ruído e que, ao longo dos séculos, aprenderam a desconfiar dos humanos com razão. Para os contar, a equipa recorre a câmaras escondidas nas grutas e à fotoidentificação: cada animal tem um padrão de manchas na pele, quase como uma impressão digital, que permite reconhecê-lo ao longo dos anos.",
+        "O esforço deu frutos. Estima-se que a população tenha ultrapassado os trinta indivíduos, e há registos de lobos-marinhos a regressar às costas da própria Madeira, onde durante décadas não eram vistos. Num dia de agosto, um deles apareceu a descansar numa praia da costa sul, entre banhistas atónitos, e as imagens correram as redes sociais. A Carla não se deixa levar pelo entusiasmo. «Trinta continua a ser um número frágil. Uma doença, uma rede de pesca perdida, e voltamos ao princípio.» Mas admite que, nesse dia, chorou um bocadinho."
+      ],
+      "english": [
+        [
+          "In the fifteenth century, when Portuguese navigators reached Madeira, they found so many monk seals on its shores that they named a bay after them: Câmara de Lobos.",
+          "Five centuries later, the Mediterranean monk seal was on the verge of extinction.",
+          "At the end of the eighties, only half a dozen animals were left in the archipelago, sheltering in the caves of the Desertas Islands, three barren, uninhabited rocky islets to the south-east of Madeira."
+        ],
+        [
+          "It was then that a small group of biologists and nature wardens decided to turn those islands into a sanctuary.",
+          "In 1990, the Desertas Islands Nature Reserve was created, where fishing became restricted and human access strictly controlled.",
+          "Since then, there have always been wardens living on the islands, in two-week shifts, in a small house without a television, with a radio, a telescope and bulletproof patience.",
+          "Carla, a marine biologist, has already spent more than five hundred nights there."
+        ],
+        [
+          "“People imagine our job is looking at seals all day,” she says, laughing.",
+          "“In fact, we spend most of our time waiting to see them.”",
+          "Monk seals are extremely shy animals, startled by the slightest noise, and over the centuries they have learned, with good reason, to distrust humans.",
+          "To count them, the team uses cameras hidden in the caves and photo-identification: each animal has a pattern of spots on its skin, almost like a fingerprint, which allows it to be recognised over the years."
+        ],
+        [
+          "The effort has paid off.",
+          "The population is estimated to have passed thirty individuals, and there are records of monk seals returning to the shores of Madeira itself, where for decades they had not been seen.",
+          "One day in August, one of them turned up resting on a beach on the south coast, among astonished bathers, and the images went round social media.",
+          "Carla doesn't let herself get carried away.",
+          "“Thirty is still a fragile number. One disease, one lost fishing net, and we're back to square one.”",
+          "But she admits that, that day, she cried a little."
+        ]
+      ],
+      "vocab": [
+        { "word": "navegadores", "gloss": "navigators, seafarers" },
+        { "word": "à beira", "gloss": "on the verge" },
+        { "word": "rochedos", "gloss": "rocky islets, crags" },
+        { "word": "desabitados", "gloss": "uninhabited" },
+        { "word": "vigilantes da natureza", "gloss": "nature wardens" },
+        { "word": "à prova de bala", "gloss": "bulletproof" },
+        { "word": "se assustam", "gloss": "are startled" },
+        { "word": "desconfiar", "gloss": "to distrust" },
+        { "word": "recorre a", "gloss": "makes use of" },
+        { "word": "padrão de manchas", "gloss": "pattern of spots" },
+        { "word": "deu frutos", "gloss": "paid off, bore fruit" },
+        { "word": "atónitos", "gloss": "astonished" },
+        { "word": "não se deixa levar", "gloss": "doesn't get carried away" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-12",
+      "title": "Uma língua, muitas casas",
+      "subtitle": "One language, many homes",
+      "topic": "Language",
+      "symbol": "globe.europe.africa.fill",
+      "paragraphs": [
+        "Há uns anos, num café de Maputo, pedi «uma bica» e o empregado olhou para mim com a mais absoluta perplexidade. Uma semana depois, no Rio de Janeiro, pedi «um galão» e recebi o mesmo olhar, acompanhado de um sorriso compassivo. Foi aí que percebi uma coisa que, sendo portuguesa, nunca tinha realmente interiorizado: a língua que eu falo não é minha. Ou melhor, é minha, mas é também de mais de duzentos e cinquenta milhões de pessoas espalhadas por quatro continentes, a maioria das quais nunca pôs os pés em Portugal.",
+        "Para muitos portugueses, esta ideia ainda custa a engolir. Há quem fale do «português do Brasil» ou do «português de Angola» como se fossem variantes ligeiramente desviadas de um original guardado em Lisboa, numa espécie de cofre linguístico. É uma ilusão compreensível, mas é uma ilusão. As línguas não têm dono; têm falantes. E os falantes, como é próprio das pessoas vivas, inventam, emprestam, misturam e adaptam as palavras às coisas que precisam de dizer.",
+        "Em Moçambique, o português convive com dezenas de línguas bantu e vai-lhes buscando palavras, ritmos e construções. Em Cabo Verde, partilha o dia a dia com o crioulo, que é a língua da casa, da música e do afeto. Em Timor-Leste, foi escolhido como língua oficial depois da independência, também como símbolo de resistência, e convive com o tétum. No Brasil, transformou-se numa língua de uma riqueza e de uma inventividade que os portugueses, muitas vezes sem o admitir, consomem diariamente nas novelas, na música e nas redes sociais.",
+        "Nada disto ameaça o português de Portugal. Pelo contrário, é o que o mantém vivo. Uma língua que só fosse falada da maneira certa num único sítio seria uma língua de museu, bonita e morta. A minha, prefiro-a assim: com muitas casas, muitos sotaques e algumas confusões à mesa do café. Da próxima vez que for a Maputo, vou pedir «um café». E talvez aprenda, entretanto, como é que lá se diz bica."
+      ],
+      "english": [
+        [
+          "A few years ago, in a café in Maputo, I asked for “uma bica” and the waiter looked at me in utter bewilderment.",
+          "A week later, in Rio de Janeiro, I asked for “um galão” and got the same look, along with a sympathetic smile.",
+          "That was when I realised something that, being Portuguese, I had never really taken on board: the language I speak isn't mine.",
+          "Or rather, it is mine, but it also belongs to more than two hundred and fifty million people scattered across four continents, most of whom have never set foot in Portugal."
+        ],
+        [
+          "For many Portuguese people, this idea is still hard to swallow.",
+          "Some talk about “Brazilian Portuguese” or “Angolan Portuguese” as if they were slightly deviant variants of an original kept in Lisbon, in a sort of linguistic safe.",
+          "It's an understandable illusion, but it is an illusion.",
+          "Languages don't have owners; they have speakers.",
+          "And speakers, as is the way with living people, invent, borrow, mix and adapt words to the things they need to say."
+        ],
+        [
+          "In Mozambique, Portuguese coexists with dozens of Bantu languages and keeps borrowing words, rhythms and constructions from them.",
+          "In Cape Verde, it shares daily life with Creole, which is the language of home, music and affection.",
+          "In East Timor, it was chosen as an official language after independence, partly as a symbol of resistance, and coexists with Tetum.",
+          "In Brazil, it has become a language of a richness and inventiveness that the Portuguese, often without admitting it, consume every day in soap operas, music and social media."
+        ],
+        [
+          "None of this threatens the Portuguese of Portugal.",
+          "On the contrary, it's what keeps it alive.",
+          "A language that was spoken the right way in only one place would be a museum language, beautiful and dead.",
+          "As for mine, I prefer it like this: with many homes, many accents and a few mix-ups at the café table.",
+          "Next time I go to Maputo, I'll ask for “um café”.",
+          "And perhaps, in the meantime, I'll learn how they say bica there."
+        ]
+      ],
+      "vocab": [
+        { "word": "perplexidade", "gloss": "bewilderment" },
+        { "word": "compassivo", "gloss": "sympathetic, compassionate" },
+        { "word": "interiorizado", "gloss": "taken on board, internalised" },
+        { "word": "espalhadas", "gloss": "scattered, spread" },
+        { "word": "custa a engolir", "gloss": "is hard to swallow" },
+        { "word": "desviadas", "gloss": "deviant, deviating" },
+        { "word": "cofre", "gloss": "safe, vault" },
+        { "word": "dono", "gloss": "owner" },
+        { "word": "emprestam", "gloss": "lend, borrow" },
+        { "word": "convive", "gloss": "coexists, lives alongside" },
+        { "word": "afeto", "gloss": "affection" },
+        { "word": "inventividade", "gloss": "inventiveness" },
+        { "word": "novelas", "gloss": "soap operas, telenovelas" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-13",
+      "title": "Os vizinhos de cima",
+      "subtitle": "The neighbours upstairs",
+      "topic": "Neighbours",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "Durante os primeiros seis meses em que viveu no rés-do-chão de um prédio antigo de Campo de Ourique, a Helena odiou os vizinhos de cima com uma intensidade que a surpreendia a ela própria. Não os conhecia. Sabia apenas que, todas as noites, entre as onze e a meia-noite, alguém arrastava móveis pelo soalho do primeiro andar, com uma regularidade que só podia ser deliberada. Depois, durante uns vinte minutos, ouvia-se música antiga, sempre a mesma, e passos lentos, como de quem dança mal.",
+        "Deixou-lhes três bilhetes na caixa do correio, cada um menos educado do que o anterior. O primeiro pedia, com muita cortesia, que tivessem em conta o descanso dos vizinhos. O segundo lembrava que existia um regulamento do condomínio. O terceiro, escrito às duas da manhã depois de um dia péssimo no trabalho, não convém reproduzir aqui. Nenhum obteve resposta. O barulho continuou, pontual como um relógio.",
+        "Numa noite de dezembro, farta, subiu as escadas de pijama e bateu à porta. Abriu-lhe um senhor muito idoso, de cardigã e pantufas, com uma educação antiquada e um olhar confuso. Atrás dele, na sala, viu uma mesa encostada à parede, as cadeiras empilhadas a um canto e um velho gira-discos a tocar. No meio da sala, sentada numa cadeira de rodas, uma senhora de cabelo branco sorria para o vazio. «A minha mulher já não se lembra de mim», disse o senhor, como quem pede desculpa. «Mas lembra-se de dançar. Todas as noites afasto os móveis e dançamos um bocadinho. É a única hora do dia em que ela sabe quem é.»",
+        "A Helena ficou parada à porta, sem saber o que dizer, com o terceiro bilhete a pesar-lhe na consciência como uma pedra. Pediu desculpa, gaguejou qualquer coisa sobre um mal-entendido e desceu as escadas a correr. Nessa noite não dormiu. Na noite seguinte, às onze em ponto, voltou a subir. Ajudou o senhor Artur a afastar a mesa e as cadeiras, e ficou a ver, encostada à parede, os dois velhos a dançar devagar ao som de um disco riscado. Desde então, sobe todas as noites. Diz às amigas que é para ajudar com os móveis."
+      ],
+      "english": [
+        [
+          "For the first six months she lived on the ground floor of an old building in Campo de Ourique, Helena hated the neighbours upstairs with an intensity that surprised even her.",
+          "She didn't know them.",
+          "All she knew was that, every night, between eleven and midnight, someone dragged furniture across the floorboards of the first floor, with a regularity that could only be deliberate.",
+          "Then, for about twenty minutes, old music could be heard, always the same, and slow footsteps, like someone dancing badly."
+        ],
+        [
+          "She left three notes in their letterbox, each less polite than the last.",
+          "The first asked, very courteously, that they bear in mind the neighbours' rest.",
+          "The second pointed out that there were building rules.",
+          "The third, written at two in the morning after a dreadful day at work, is best not reproduced here.",
+          "None of them got a reply.",
+          "The noise went on, regular as clockwork."
+        ],
+        [
+          "One night in December, fed up, she went upstairs in her pyjamas and knocked on the door.",
+          "It was opened by a very old man in a cardigan and slippers, with old-fashioned manners and a confused look.",
+          "Behind him, in the living room, she saw a table pushed against the wall, the chairs stacked in a corner and an old record player playing.",
+          "In the middle of the room, sitting in a wheelchair, a white-haired woman was smiling into space.",
+          "“My wife doesn't remember me any more,” said the man, apologetically.",
+          "“But she remembers dancing. Every night I move the furniture and we dance a little. It's the only hour of the day when she knows who she is.”"
+        ],
+        [
+          "Helena stood frozen at the door, not knowing what to say, with the third note weighing on her conscience like a stone.",
+          "She apologised, stammered something about a misunderstanding and ran back down the stairs.",
+          "That night she didn't sleep.",
+          "The next night, at eleven on the dot, she went up again.",
+          "She helped Senhor Artur move the table and chairs, and stood watching, leaning against the wall, as the two old people danced slowly to a scratched record.",
+          "Since then, she goes up every night.",
+          "She tells her friends it's to help with the furniture."
+        ]
+      ],
+      "vocab": [
+        { "word": "rés-do-chão", "gloss": "ground floor" },
+        { "word": "arrastava", "gloss": "dragged" },
+        { "word": "soalho", "gloss": "floorboards, wooden floor" },
+        { "word": "caixa do correio", "gloss": "letterbox" },
+        { "word": "tivessem em conta", "gloss": "(that they) bear in mind" },
+        { "word": "condomínio", "gloss": "building owners' association" },
+        { "word": "não convém", "gloss": "it's best not to" },
+        { "word": "pantufas", "gloss": "slippers" },
+        { "word": "antiquada", "gloss": "old-fashioned" },
+        { "word": "gira-discos", "gloss": "record player" },
+        { "word": "mal-entendido", "gloss": "misunderstanding" },
+        { "word": "riscado", "gloss": "scratched" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-14",
+      "title": "Uma noite nas urgências",
+      "subtitle": "A night in A&E",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "São nove da noite de uma sexta-feira de janeiro e a sala de espera das urgências de um grande hospital de Coimbra já não tem cadeiras livres. Há uma senhora idosa embrulhada num cobertor, um rapaz com a mão enrolada numa toalha ensanguentada, uma mãe a embalar um bebé com febre e um homem de fato que repete ao telemóvel que tem uma reunião às oito da manhã. No ecrã por cima do balcão, um número vermelho anuncia o tempo médio de espera para os casos não urgentes: seis horas e quarenta minutos.",
+        "A médica Inês Carvalho, internista de trinta e seis anos, está de serviço desde as oito da manhã e só sairá às oito da manhã seguinte. Explica-me a lógica da triagem enquanto caminha, sem abrandar, por um corredor onde se alinham macas com doentes à espera de vaga nas enfermarias. Cada pessoa que chega recebe uma pulseira de cor, consoante a gravidade: vermelha para quem não pode esperar, depois laranja, amarela, verde e azul para os casos que, segundo ela, «nem deviam estar aqui». A pulseira azul, porém, raramente significa má-fé.",
+        "«A maioria das pessoas que vem com uma pulseira verde ou azul não tem médico de família, ou não conseguiu consulta no centro de saúde», explica. «Vêm porque não têm para onde ir.» É esse, segundo os profissionais com quem falo, o grande nó do Serviço Nacional de Saúde: as urgências transformaram-se numa porta de entrada para problemas que deviam ter sido resolvidos a montante. O resultado são corredores entupidos, profissionais exaustos e doentes que, quando finalmente são vistos, já perderam a paciência e, às vezes, a educação.",
+        "Por volta das três da manhã, há uma pausa breve. A médica Inês senta-se pela primeira vez em várias horas, bebe um café de máquina e come metade de uma sandes de fiambre. Pergunto-lhe porque é que continua, quando muitos colegas já trocaram o hospital público pelo privado ou emigraram. Pensa durante algum tempo. «Porque, no meio disto tudo, há sempre uma noite em que alguém entra a morrer e sai a andar», responde. «E nessa noite fomos nós.» Depois o telefone toca, ela levanta-se, e a outra metade da sandes fica em cima da mesa, à espera."
+      ],
+      "english": [
+        [
+          "It's nine o'clock on a Friday night in January and the waiting room of the A&E department of a large hospital in Coimbra has no free chairs left.",
+          "There's an elderly woman wrapped in a blanket, a young man with his hand wrapped in a bloodstained towel, a mother rocking a feverish baby and a man in a suit repeating into his phone that he has a meeting at eight in the morning.",
+          "On the screen above the desk, a red number announces the average waiting time for non-urgent cases: six hours and forty minutes."
+        ],
+        [
+          "Doctor Inês Carvalho, a thirty-six-year-old internist, has been on duty since eight in the morning and won't leave until eight the next morning.",
+          "She explains the logic of triage to me as she walks, without slowing down, along a corridor lined with trolleys holding patients waiting for a bed on the wards.",
+          "Everyone who arrives gets a coloured wristband, according to how serious their case is: red for those who can't wait, then orange, yellow, green and blue for cases that, according to her, “shouldn't even be here”.",
+          "A blue wristband, however, rarely means bad faith."
+        ],
+        [
+          "“Most people who come in with a green or blue wristband don't have a GP, or couldn't get an appointment at the health centre,” she explains.",
+          "“They come because they have nowhere else to go.”",
+          "That, according to the professionals I speak to, is the great knot in the National Health Service: A&E has become a point of entry for problems that should have been solved further upstream.",
+          "The result is clogged corridors, exhausted staff and patients who, when they are finally seen, have already lost their patience and, sometimes, their manners."
+        ],
+        [
+          "At around three in the morning, there's a brief lull.",
+          "Doctor Inês sits down for the first time in several hours, drinks a coffee from the machine and eats half a ham sandwich.",
+          "I ask her why she carries on, when many colleagues have already swapped the public hospital for a private one, or emigrated.",
+          "She thinks for a while.",
+          "“Because, in the middle of all this, there's always a night when someone comes in dying and walks out,” she answers.",
+          "“And that night, it was us.”",
+          "Then the phone rings, she gets up, and the other half of the sandwich stays on the table, waiting."
+        ]
+      ],
+      "vocab": [
+        { "word": "ensanguentada", "gloss": "bloodstained" },
+        { "word": "embalar", "gloss": "rocking (a baby)" },
+        { "word": "internista", "gloss": "internal-medicine doctor" },
+        { "word": "de serviço", "gloss": "on duty" },
+        { "word": "triagem", "gloss": "triage" },
+        { "word": "abrandar", "gloss": "slowing down" },
+        { "word": "macas", "gloss": "hospital trolleys, stretchers" },
+        { "word": "vaga", "gloss": "free bed, vacancy" },
+        { "word": "consoante", "gloss": "according to, depending on" },
+        { "word": "má-fé", "gloss": "bad faith" },
+        { "word": "médico de família", "gloss": "family doctor, GP" },
+        { "word": "a montante", "gloss": "upstream, at an earlier stage" },
+        { "word": "entupidos", "gloss": "clogged, blocked" }
+      ]
+    },
+    {
+      "id": "pt-PT-c1-15",
+      "title": "A manhã de 25 de Abril",
+      "subtitle": "The morning of 25 April",
+      "topic": "History",
+      "symbol": "flag.fill",
+      "paragraphs": [
+        "A minha avó Odete tinha dezanove anos em abril de 1974 e trabalhava como datilógrafa num escritório de seguros da Baixa de Lisboa. Na manhã do dia 25, saiu de casa, em Arroios, à hora de sempre, e estranhou que o elétrico não passasse. Estranhou também o silêncio das ruas e o facto de o senhor da tabacaria estar à porta, de rádio na mão, a ouvir com uma expressão que ela nunca lhe tinha visto. A rádio pedia às pessoas que ficassem em casa. Ela, que nunca tinha desobedecido a ninguém na vida, foi a pé para o trabalho.",
+        "Encontrou o escritório fechado e a Baixa cheia de gente. Ninguém sabia muito bem o que se passava, mas toda a gente sabia que era importante. Havia blindados estacionados no Terreiro do Paço, soldados muito novos, alguns mais novos do que ela, e um murmúrio crescente que, à medida que a manhã avançava, se foi transformando em gritos e depois em canções. A minha avó conta que, pela primeira vez, ouviu desconhecidos a falar de política em voz alta na rua, e que teve vontade de olhar por cima do ombro, por puro hábito.",
+        "Ao meio-dia, já no Largo do Carmo, viu-se ao lado de um soldado de Trás-os-Montes que não comia desde a véspera. Deu-lhe a marmita com o almoço que a mãe lhe tinha preparado: arroz de feijão e duas pataniscas. O soldado comeu tudo em pé, encostado à espingarda, e agradeceu-lhe com um sotaque cerrado que ela mal percebeu. Ali perto, alguém distribuía cravos vermelhos, e as pessoas enfiavam-nos nos canos das armas. A minha avó também enfiou um na espingarda do soldado transmontano. Nunca soube como ele se chamava.",
+        "Durante muitos anos, contou esta história ao jantar, sempre igual, sempre com as pataniscas. Nós, os netos, revirávamos os olhos. Só percebi o que ela significava no dia em que a acompanhei para votar, já com oitenta e tal anos, apoiada na bengala. À saída da escola onde ficava a assembleia de voto, parou um momento, respirou fundo e disse, sem dramatismo nenhum, que ainda lhe parecia um milagre poder fazer aquilo. Depois quis ir comer pataniscas."
+      ],
+      "english": [
+        [
+          "My grandmother Odete was nineteen in April 1974 and worked as a typist in an insurance office in Lisbon's Baixa.",
+          "On the morning of the 25th, she left home, in Arroios, at the usual time, and was surprised that the tram didn't come.",
+          "She was also struck by the silence of the streets and by the fact that the man from the tobacconist's was standing at his door, radio in hand, listening with an expression she had never seen on him before.",
+          "The radio was asking people to stay at home.",
+          "She, who had never disobeyed anyone in her life, walked to work."
+        ],
+        [
+          "She found the office closed and the Baixa full of people.",
+          "Nobody really knew what was going on, but everyone knew it was important.",
+          "There were armoured vehicles parked in the Terreiro do Paço, very young soldiers, some younger than her, and a growing murmur that, as the morning went on, gradually turned into shouts and then into songs.",
+          "My grandmother says that, for the first time, she heard strangers talking about politics out loud in the street, and that she felt the urge to look over her shoulder, out of sheer habit."
+        ],
+        [
+          "At midday, by now in the Largo do Carmo, she found herself next to a soldier from Trás-os-Montes who hadn't eaten since the day before.",
+          "She gave him her lunchbox with the lunch her mother had made her: rice and beans and two salt-cod fritters.",
+          "The soldier ate it all standing up, leaning on his rifle, and thanked her in a thick accent she could barely understand.",
+          "Nearby, someone was handing out red carnations, and people were sticking them into the barrels of the guns.",
+          "My grandmother stuck one into the rifle of the soldier from Trás-os-Montes too.",
+          "She never found out his name."
+        ],
+        [
+          "For many years, she told this story at dinner, always the same, always with the fritters.",
+          "We grandchildren rolled our eyes.",
+          "I only understood what it meant on the day I went with her to vote, when she was already in her eighties, leaning on her walking stick.",
+          "Coming out of the school where the polling station was, she stopped for a moment, took a deep breath and said, without any drama at all, that it still seemed a miracle to her to be able to do that.",
+          "Then she wanted to go and eat salt-cod fritters."
+        ]
+      ],
+      "vocab": [
+        { "word": "datilógrafa", "gloss": "typist (female)" },
+        { "word": "seguros", "gloss": "insurance" },
+        { "word": "estranhou", "gloss": "found it strange" },
+        { "word": "tabacaria", "gloss": "tobacconist's, newsagent's" },
+        { "word": "desobedecido", "gloss": "disobeyed" },
+        { "word": "blindados", "gloss": "armoured vehicles" },
+        { "word": "murmúrio", "gloss": "murmur" },
+        { "word": "marmita", "gloss": "lunchbox" },
+        { "word": "pataniscas", "gloss": "salt-cod fritters" },
+        { "word": "cerrado", "gloss": "thick, broad (accent)" },
+        { "word": "canos", "gloss": "barrels (of guns)" },
+        { "word": "revirávamos os olhos", "gloss": "we rolled our eyes" },
+        { "word": "assembleia de voto", "gloss": "polling station" }
+      ]
+    }
+  ]
+}

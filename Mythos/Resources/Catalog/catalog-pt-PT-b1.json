@@ -1,0 +1,737 @@
+{
+  "language": "pt-PT",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "pt-PT-b1-01",
+      "title": "O último autocarro",
+      "subtitle": "The last bus",
+      "topic": "Getting around",
+      "symbol": "bus.fill",
+      "paragraphs": [
+        "Era quase meia-noite quando a Beatriz saiu do jantar de uma amiga, na Foz do Douro, e ela morava do outro lado do Porto, em Campanhã. Correu até à paragem, mas viu as luzes do último autocarro a desaparecer ao fundo da avenida. Não tinha dinheiro para um táxi e a bateria do telemóvel estava nos três por cento. Na paragem, estava só um senhor de idade, de boné, com um saco de plástico na mão.",
+        "— Também o perdeu? — perguntou ela. — Mais ou menos — respondeu o senhor, a sorrir. — Também moro em Campanhã. Se quiser, vamos a pé juntos. Há uma hora e meia de caminho, mas a noite está bonita. A Beatriz hesitou, mas aceitou. Caminharam ao longo do rio, e o senhor foi contando histórias: sabia o nome de cada rua, de cada ponte, de cada café fechado. Ela perguntou-lhe como é que ele conhecia a cidade tão bem.",
+        "— Trinta e dois anos ao volante — disse ele. — Hoje foi o meu último dia de trabalho. Fui eu que conduzi aquele autocarro a tarde inteira, e hoje quis voltar para casa a pé, para ver a cidade devagar, pela primeira vez. Chegaram a Campanhã às duas da manhã. Antes de se despedirem, o senhor tirou do saco um boné de motorista e deu-lho. — Para a próxima, não o perca."
+      ],
+      "english": [
+        [
+          "It was almost midnight when Beatriz left a friend's dinner in Foz do Douro, and she lived on the other side of Porto, in Campanhã.",
+          "She ran to the bus stop, but saw the lights of the last bus disappearing at the far end of the avenue.",
+          "She had no money for a taxi and her phone battery was on three per cent.",
+          "At the stop, there was only an elderly man in a cap, with a plastic bag in his hand."
+        ],
+        [
+          "“Did you miss it too?” she asked.",
+          "“More or less,” the man answered, smiling.",
+          "“I live in Campanhã too.",
+          "If you like, we can walk together.",
+          "It's an hour and a half on foot, but it's a lovely night.”",
+          "Beatriz hesitated, but she accepted.",
+          "They walked along the river, and as they went the man told stories: he knew the name of every street, every bridge, every closed café.",
+          "She asked him how he knew the city so well."
+        ],
+        [
+          "“Thirty-two years at the wheel,” he said.",
+          "“Today was my last day at work.",
+          "I was the one driving that bus all afternoon, and tonight I wanted to walk home, to see the city slowly, for the first time.”",
+          "They reached Campanhã at two in the morning.",
+          "Before they said goodbye, the man took a driver's cap out of his bag and gave it to her.",
+          "“Next time, don't miss it.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "paragem", "gloss": "bus stop" },
+        { "word": "ao fundo", "gloss": "at the far end" },
+        { "word": "boné", "gloss": "cap" },
+        { "word": "hesitou", "gloss": "hesitated" },
+        { "word": "ao longo do", "gloss": "along" },
+        { "word": "foi contando", "gloss": "kept telling, told as they went" },
+        { "word": "ao volante", "gloss": "at the wheel" },
+        { "word": "conduzi", "gloss": "I drove" },
+        { "word": "despedirem", "gloss": "(they) said goodbye" },
+        { "word": "deu-lho", "gloss": "gave it to her" },
+        { "word": "perca", "gloss": "miss, lose (subjunctive)" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-02",
+      "title": "A vinha da tia Rosa",
+      "subtitle": "Aunt Rosa's vineyard",
+      "topic": "Family",
+      "symbol": "wineglass.fill",
+      "paragraphs": [
+        "Quando a tia Rosa morreu, deixou ao sobrinho Henrique uma pequena vinha no Douro, perto do Pinhão. O Henrique tinha trinta e cinco anos, trabalhava em informática em Lisboa e nunca tinha apanhado uma uva na vida. A primeira ideia dele foi vender a vinha o mais depressa possível. Um vizinho, o senhor Albino, ofereceu-lhe um bom preço.",
+        "— Venda-me isso, rapaz — disse o senhor Albino. — Você é da cidade. Isto aqui dá muito trabalho. Mas era setembro, época das vindimas, e o Henrique decidiu ficar uma semana para ajudar na última colheita da tia. Acordava às seis, cortava uvas até lhe doerem as costas e, à noite, comia com os trabalhadores numa mesa comprida, debaixo das videiras. Riam-se, cantavam, falavam da tia Rosa.",
+        "No último dia, encontrou na adega um caderno da tia. Na primeira página, ela tinha escrito: «Para o Henrique, quando ele vier.» Lá dentro estavam cinquenta anos de notas: as chuvas de cada ano, as doenças das videiras, os nomes das pessoas que a ajudaram. O Henrique ligou ao senhor Albino. — Afinal, não vendo. Mas vou precisar de um professor."
+      ],
+      "english": [
+        [
+          "When Aunt Rosa died, she left her nephew Henrique a small vineyard in the Douro, near Pinhão.",
+          "Henrique was thirty-five, worked in IT in Lisbon and had never picked a grape in his life.",
+          "His first idea was to sell the vineyard as quickly as possible.",
+          "A neighbour, Senhor Albino, offered him a good price."
+        ],
+        [
+          "“Sell it to me, lad,” said Senhor Albino.",
+          "“You're from the city.",
+          "This is a lot of work.”",
+          "But it was September, grape-harvest season, and Henrique decided to stay a week to help with his aunt's last harvest.",
+          "He got up at six, cut grapes until his back ached and, in the evening, ate with the workers at a long table under the vines.",
+          "They laughed, they sang, they talked about Aunt Rosa."
+        ],
+        [
+          "On the last day, he found one of his aunt's notebooks in the wine cellar.",
+          "On the first page, she had written: “For Henrique, when he comes.”",
+          "Inside were fifty years of notes: each year's rain, the diseases of the vines, the names of the people who had helped her.",
+          "Henrique rang Senhor Albino.",
+          "“I'm not selling after all.",
+          "But I'm going to need a teacher.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "vinha", "gloss": "vineyard" },
+        { "word": "sobrinho", "gloss": "nephew" },
+        { "word": "apanhado", "gloss": "picked" },
+        { "word": "vindimas", "gloss": "grape harvest" },
+        { "word": "colheita", "gloss": "harvest" },
+        { "word": "doerem", "gloss": "ached, hurt" },
+        { "word": "comprida", "gloss": "long" },
+        { "word": "videiras", "gloss": "vines" },
+        { "word": "adega", "gloss": "wine cellar" },
+        { "word": "caderno", "gloss": "notebook" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-03",
+      "title": "As laranjas de Silves",
+      "subtitle": "The oranges of Silves",
+      "topic": "Mystery",
+      "symbol": "magnifyingglass",
+      "paragraphs": [
+        "Durante todo o mês de janeiro, alguém deixou laranjas à porta da dona Graça, em Silves. Todas as manhãs, quando ela abria a porta, encontrava três laranjas perfeitas, em fila, no degrau. Nunca havia bilhete. A dona Graça vivia sozinha desde que o marido tinha morrido, e as laranjas começaram a ser a melhor parte do dia dela.",
+        "Contou o mistério à vizinha, a dona Fátima. — Deve ser um admirador — disse a Fátima, a rir. — Com a minha idade? Não digas disparates! A dona Graça decidiu descobrir a verdade. Numa madrugada, ficou acordada atrás da cortina da sala. Às seis e um quarto, ouviu passos pequenos na rua.",
+        "Era o Dinis, o neto da Fátima, de oito anos, a caminho da escola. Pousou as laranjas, alinhou-as com cuidado e fugiu a correr. Na manhã seguinte, a dona Graça esperou-o à porta. — Porque é que me trazes laranjas? — Porque a senhora estava sempre triste à janela — respondeu ele, envergonhado. — E a minha avó diz que as laranjas dão alegria. A partir desse dia, a dona Graça passou a deixar-lhe um bolo no mesmo degrau."
+      ],
+      "english": [
+        [
+          "For the whole of January, someone left oranges at Dona Graça's door, in Silves.",
+          "Every morning, when she opened the door, she found three perfect oranges, in a row, on the step.",
+          "There was never a note.",
+          "Dona Graça had lived alone since her husband died, and the oranges became the best part of her day."
+        ],
+        [
+          "She told her neighbour, Dona Fátima, about the mystery.",
+          "“It must be an admirer,” said Fátima, laughing.",
+          "“At my age?",
+          "Don't talk nonsense!”",
+          "Dona Graça decided to find out the truth.",
+          "One night, she stayed awake behind the living-room curtain.",
+          "At a quarter past six, she heard small footsteps in the street."
+        ],
+        [
+          "It was Dinis, Fátima's eight-year-old grandson, on his way to school.",
+          "He put down the oranges, lined them up carefully and ran off.",
+          "The next morning, Dona Graça waited for him at the door.",
+          "“Why do you bring me oranges?”",
+          "“Because you always looked sad at the window,” he answered, embarrassed.",
+          "“And my grandma says oranges bring happiness.”",
+          "From that day on, Dona Graça started leaving a cake for him on the same step."
+        ]
+      ],
+      "vocab": [
+        { "word": "degrau", "gloss": "step, doorstep" },
+        { "word": "bilhete", "gloss": "note" },
+        { "word": "admirador", "gloss": "admirer" },
+        { "word": "disparates", "gloss": "nonsense" },
+        { "word": "madrugada", "gloss": "the small hours, before dawn" },
+        { "word": "cortina", "gloss": "curtain" },
+        { "word": "pousou", "gloss": "put down" },
+        { "word": "alinhou-as", "gloss": "lined them up" },
+        { "word": "envergonhado", "gloss": "embarrassed, shy" },
+        { "word": "passou a", "gloss": "started to (as a habit)" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-04",
+      "title": "A tasca vazia",
+      "subtitle": "The empty tavern",
+      "topic": "Food & drink",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "O Carlos e a Patrícia abriram uma tasca pequena na Baixa de Coimbra, com seis mesas e uma ementa escrita a giz. Ele cozinhava, ela servia. Tinham investido todas as poupanças no restaurante. Mas, nas primeiras três semanas, quase ninguém entrou.",
+        "— Se continuarmos assim, fechamos no verão — disse a Patrícia uma noite, a contar as moedas. — A comida é boa — respondeu o Carlos. — Só precisamos que alguém a prove. Na noite seguinte, entrou um estudante magro, com uma capa preta. Pediu o prato mais barato, uma chanfana, e comeu tudo em silêncio. No fim, perguntou se podia pagar no dia seguinte, porque se tinha esquecido da carteira. O Carlos disse-lhe que sim.",
+        "O estudante não voltou no dia seguinte. Voltou três dias depois, e não vinha sozinho: trazia vinte colegas da república onde vivia, todos de capa e com fome. — Eu pago a minha dívida assim — explicou ele. — Disse a toda a gente que aqui se come a melhor chanfana de Coimbra. Desde essa noite, a tasca nunca mais esteve vazia. E o estudante, hoje médico em Lisboa, ainda come lá de graça uma vez por ano."
+      ],
+      "english": [
+        [
+          "Carlos and Patrícia opened a small tavern in the Baixa of Coimbra, with six tables and a menu written in chalk.",
+          "He cooked, she served.",
+          "They had put all their savings into the restaurant.",
+          "But in the first three weeks, hardly anyone came in."
+        ],
+        [
+          "“If we carry on like this, we'll close by the summer,” said Patrícia one night, counting the coins.",
+          "“The food is good,” answered Carlos.",
+          "“We just need someone to taste it.”",
+          "The next night, a thin student came in, wearing a black cape.",
+          "He ordered the cheapest dish, a chanfana, and ate it all in silence.",
+          "At the end, he asked if he could pay the next day, because he had forgotten his wallet.",
+          "Carlos told him he could."
+        ],
+        [
+          "The student didn't come back the next day.",
+          "He came back three days later, and he wasn't alone: he brought twenty friends from the student house where he lived, all in capes and all hungry.",
+          "“This is how I pay my debt,” he explained.",
+          "“I told everyone that this is where you get the best chanfana in Coimbra.”",
+          "From that night on, the tavern was never empty again.",
+          "And the student, now a doctor in Lisbon, still eats there for free once a year."
+        ]
+      ],
+      "vocab": [
+        { "word": "tasca", "gloss": "small, simple traditional restaurant" },
+        { "word": "ementa", "gloss": "menu" },
+        { "word": "giz", "gloss": "chalk" },
+        { "word": "poupanças", "gloss": "savings" },
+        { "word": "moedas", "gloss": "coins" },
+        { "word": "capa", "gloss": "cape (part of the Coimbra student dress)" },
+        { "word": "chanfana", "gloss": "goat slow-cooked in red wine" },
+        { "word": "carteira", "gloss": "wallet" },
+        { "word": "república", "gloss": "shared student house in Coimbra" },
+        { "word": "dívida", "gloss": "debt" },
+        { "word": "de graça", "gloss": "for free" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-05",
+      "title": "Dia de greve",
+      "subtitle": "Strike day",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Numa segunda-feira de outubro, houve greve dos comboios. Na estação de Santa Apolónia, em Lisboa, dezenas de pessoas olhavam para o painel cheio de comboios cancelados. A Filipa precisava de chegar ao Porto antes das quatro, para a defesa da tese de doutoramento. Estava em pânico.",
+        "Um homem de fato, ao lado dela, também resmungava. — Tenho uma reunião em Aveiro ao meio-dia. Uma senhora com uma cesta disse que ia a Coimbra, ao casamento da neta. Um rapaz estrangeiro, com uma mochila enorme, só queria ir para norte. — Eu tenho carro — disse finalmente o homem de fato. — Mas não gosto de conduzir sozinho. Alguém quer vir?",
+        "Foram os quatro na mesma viagem. A senhora distribuiu bolos de casamento antes do casamento, o rapaz estrangeiro aprendeu a dizer «portagem» e «bica», e o homem de fato acabou por contar que estava com medo da reunião, porque ia pedir um aumento. Deixaram a senhora em Coimbra, o homem em Aveiro e a Filipa no Porto, às três e meia. Ela passou na defesa com distinção. Ainda hoje, os quatro têm um grupo no telemóvel chamado «Greve»."
+      ],
+      "english": [
+        [
+          "One Monday in October, there was a train strike.",
+          "At Santa Apolónia station, in Lisbon, dozens of people were staring at the departures board full of cancelled trains.",
+          "Filipa needed to get to Porto before four, for her PhD thesis defence.",
+          "She was panicking."
+        ],
+        [
+          "A man in a suit, next to her, was grumbling too.",
+          "“I've got a meeting in Aveiro at midday.”",
+          "A woman with a basket said she was going to Coimbra, to her granddaughter's wedding.",
+          "A young foreigner, with an enormous backpack, just wanted to go north.",
+          "“I've got a car,” the man in the suit said at last.",
+          "“But I don't like driving alone.",
+          "Does anyone want to come?”"
+        ],
+        [
+          "The four of them made the journey together.",
+          "The woman handed out wedding cakes before the wedding, the young foreigner learned to say “portagem” and “bica”, and the man in the suit ended up admitting that he was scared of the meeting, because he was going to ask for a pay rise.",
+          "They dropped the woman in Coimbra, the man in Aveiro and Filipa in Porto, at half past three.",
+          "She passed her defence with distinction.",
+          "To this day, the four of them have a group on their phones called “Strike”."
+        ]
+      ],
+      "vocab": [
+        { "word": "greve", "gloss": "strike" },
+        { "word": "dezenas", "gloss": "dozens" },
+        { "word": "painel", "gloss": "departures board" },
+        { "word": "defesa da tese", "gloss": "thesis defence" },
+        { "word": "resmungava", "gloss": "was grumbling" },
+        { "word": "cesta", "gloss": "basket" },
+        { "word": "distribuiu", "gloss": "handed out" },
+        { "word": "portagem", "gloss": "motorway toll" },
+        { "word": "bica", "gloss": "espresso (Lisbon)" },
+        { "word": "acabou por", "gloss": "ended up (doing)" },
+        { "word": "aumento", "gloss": "pay rise" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-06",
+      "title": "Lama em Paredes de Coura",
+      "subtitle": "Mud at Paredes de Coura",
+      "topic": "Free time",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Durante anos, o Vasco e os três amigos do liceu prometeram ir juntos ao festival de Paredes de Coura, no Minho. Este ano, finalmente, compraram os bilhetes. Tinham planeado tudo: as tendas, os concertos, até a comida. Só se esqueceram de ver a previsão do tempo.",
+        "No segundo dia, começou a chover e não parou. O parque de campismo transformou-se num lago de lama. A tenda do Vasco inundou às três da manhã. — Isto é um desastre — disse o Ricardo, com os sapatos nas mãos. — Amanhã de manhã vou-me embora. — Eu também — concordou o Tiago. O Vasco não respondeu. Estava a olhar para o palco, onde uma banda desconhecida tocava para trinta pessoas encharcadas.",
+        "— Venham ouvir isto — disse ele. Os amigos foram, de má vontade. A banda era de Viana do Castelo e tocava como se estivesse num estádio. Os quatro dançaram à chuva, cobertos de lama, a gritar letras que não conheciam. Ninguém se foi embora. Dois anos depois, a mesma banda encheu o palco principal, e os quatro amigos estavam lá, na primeira fila, de galochas."
+      ],
+      "english": [
+        [
+          "For years, Vasco and his three friends from secondary school had promised to go to the Paredes de Coura festival together, in the Minho.",
+          "This year, at last, they bought the tickets.",
+          "They had planned everything: the tents, the gigs, even the food.",
+          "They just forgot to check the weather forecast."
+        ],
+        [
+          "On the second day, it started to rain and didn't stop.",
+          "The campsite turned into a lake of mud.",
+          "Vasco's tent flooded at three in the morning.",
+          "“This is a disaster,” said Ricardo, with his shoes in his hands.",
+          "“I'm leaving tomorrow morning.”",
+          "“Me too,” agreed Tiago.",
+          "Vasco didn't answer.",
+          "He was looking at the stage, where an unknown band was playing to thirty soaked people."
+        ],
+        [
+          "“Come and listen to this,” he said.",
+          "His friends went, reluctantly.",
+          "The band was from Viana do Castelo and played as if they were in a stadium.",
+          "The four of them danced in the rain, covered in mud, shouting lyrics they didn't know.",
+          "Nobody left.",
+          "Two years later, the same band filled the main stage, and the four friends were there, in the front row, in wellies."
+        ]
+      ],
+      "vocab": [
+        { "word": "liceu", "gloss": "secondary school" },
+        { "word": "tendas", "gloss": "tents" },
+        { "word": "previsão do tempo", "gloss": "weather forecast" },
+        { "word": "parque de campismo", "gloss": "campsite" },
+        { "word": "lama", "gloss": "mud" },
+        { "word": "inundou", "gloss": "flooded" },
+        { "word": "vou-me embora", "gloss": "I'm leaving" },
+        { "word": "palco", "gloss": "stage" },
+        { "word": "encharcadas", "gloss": "soaked" },
+        { "word": "de má vontade", "gloss": "reluctantly" },
+        { "word": "galochas", "gloss": "wellington boots" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-07",
+      "title": "O baleeiro",
+      "subtitle": "The whaler",
+      "topic": "Nature",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "O senhor Fortunato tem setenta e oito anos e mora nas Lajes do Pico, nos Açores. Quando era novo, foi baleeiro: saía para o mar num bote de madeira, com um arpão, sempre que alguém na vigia gritava «Baleia!». A caça à baleia acabou nos Açores nos anos oitenta, e o senhor Fortunato ficou sem profissão.",
+        "Hoje, ele trabalha para uma empresa de observação de cetáceos. Volta a subir à mesma vigia, com binóculos, e avisa os barcos de turistas pelo rádio. Uma manhã, uma turista inglesa perguntou-lhe, em português: — O senhor não sente falta da caça? Ele demorou a responder. — Quando era novo, eu via a baleia e pensava no dinheiro. Agora vejo-a e penso que ela é mais velha do que eu. Gosto mais disto.",
+        "Nesse dia, apareceu um cachalote enorme perto do barco. Os turistas tiraram centenas de fotografias. O senhor Fortunato, lá em cima na vigia, tirou o chapéu, como quem cumprimenta um velho conhecido. A turista inglesa reparou e nunca esqueceu esse gesto."
+      ],
+      "english": [
+        [
+          "Senhor Fortunato is seventy-eight and lives in Lajes do Pico, in the Azores.",
+          "When he was young, he was a whaler: he went out to sea in a wooden boat, with a harpoon, whenever someone in the lookout shouted “Whale!”.",
+          "Whaling ended in the Azores in the eighties, and Senhor Fortunato was left without a trade."
+        ],
+        [
+          "Today, he works for a whale-watching company.",
+          "He climbs up to the same lookout again, with binoculars, and alerts the tourist boats by radio.",
+          "One morning, an English tourist asked him, in Portuguese: “Don't you miss the hunting?”",
+          "He took a while to answer.",
+          "“When I was young, I saw a whale and thought about money.",
+          "Now I see one and think that she's older than I am.",
+          "I like this better.”"
+        ],
+        [
+          "That day, an enormous sperm whale appeared near the boat.",
+          "The tourists took hundreds of photos.",
+          "Senhor Fortunato, up in the lookout, took off his hat, like someone greeting an old acquaintance.",
+          "The English tourist noticed and never forgot that gesture."
+        ]
+      ],
+      "vocab": [
+        { "word": "baleeiro", "gloss": "whaler" },
+        { "word": "bote", "gloss": "small open boat" },
+        { "word": "arpão", "gloss": "harpoon" },
+        { "word": "vigia", "gloss": "lookout post" },
+        { "word": "caça", "gloss": "hunting" },
+        { "word": "cetáceos", "gloss": "whales and dolphins" },
+        { "word": "avisa", "gloss": "alerts, lets know" },
+        { "word": "sente falta", "gloss": "miss (something)" },
+        { "word": "cachalote", "gloss": "sperm whale" },
+        { "word": "cumprimenta", "gloss": "greets" },
+        { "word": "reparou", "gloss": "noticed" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-08",
+      "title": "Em direto da padaria",
+      "subtitle": "Live from the bakery",
+      "topic": "Media",
+      "symbol": "mic.fill",
+      "paragraphs": [
+        "Todas as quintas-feiras, a rádio local de Viseu convida uma pessoa da cidade para uma entrevista em direto. Esta semana, a convidada era a dona Celeste, que tem uma padaria há quarenta anos na Rua Direita. Ela nunca tinha falado ao microfone e passou a noite anterior sem dormir.",
+        "— Dona Celeste, qual é o segredo do seu pão? — perguntou o locutor. — Não há segredo nenhum — respondeu ela, muito nervosa. — É farinha, água, sal e paciência. E acordar às três da manhã. O locutor tentou fazer mais perguntas, mas ela respondia sempre com poucas palavras. A entrevista estava a correr mal. Então ele perguntou: — E se os ouvintes quiserem provar o seu pão?",
+        "— Quem vier amanhã à padaria e disser «ouvi na rádio» leva uma broa de graça — disse ela, sem pensar. No dia seguinte, às sete da manhã, havia uma fila de cem pessoas na Rua Direita. A dona Celeste e o filho fizeram broa até ao meio-dia. Perdeu dinheiro nesse dia, mas ganhou dezenas de clientes novos. E a rádio convidou-a outra vez, agora para um programa semanal."
+      ],
+      "english": [
+        [
+          "Every Thursday, the local radio station in Viseu invites someone from the town for a live interview.",
+          "This week, the guest was Dona Celeste, who has had a bakery on Rua Direita for forty years.",
+          "She had never spoken into a microphone and spent the night before without sleeping."
+        ],
+        [
+          "“Dona Celeste, what's the secret of your bread?” asked the presenter.",
+          "“There's no secret at all,” she answered, very nervous.",
+          "“It's flour, water, salt and patience.",
+          "And getting up at three in the morning.”",
+          "The presenter tried to ask more questions, but she always answered in just a few words.",
+          "The interview was going badly.",
+          "Then he asked: “And if the listeners want to try your bread?”"
+        ],
+        [
+          "“Anyone who comes to the bakery tomorrow and says ‘I heard it on the radio’ gets a free cornbread,” she said, without thinking.",
+          "The next day, at seven in the morning, there was a queue of a hundred people on Rua Direita.",
+          "Dona Celeste and her son made cornbread until midday.",
+          "She lost money that day, but gained dozens of new customers.",
+          "And the radio station invited her back, this time for a weekly programme."
+        ]
+      ],
+      "vocab": [
+        { "word": "em direto", "gloss": "live (on air)" },
+        { "word": "convidada", "gloss": "guest (female)" },
+        { "word": "locutor", "gloss": "radio presenter" },
+        { "word": "paciência", "gloss": "patience" },
+        { "word": "a correr mal", "gloss": "going badly" },
+        { "word": "ouvintes", "gloss": "listeners" },
+        { "word": "quiserem", "gloss": "want (future subjunctive)" },
+        { "word": "broa", "gloss": "cornbread" },
+        { "word": "fila", "gloss": "queue" },
+        { "word": "semanal", "gloss": "weekly" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-09",
+      "title": "A bicicleta azul",
+      "subtitle": "The blue bicycle",
+      "topic": "City",
+      "symbol": "bicycle",
+      "paragraphs": [
+        "O Afonso tinha uma bicicleta azul, velha, com um cesto à frente e um autocolante do Benfica no quadro. Usava-a todos os dias para ir trabalhar, ao longo do rio, de Belém ao Cais do Sodré. Numa sexta-feira, quando saiu do escritório, a bicicleta já não estava lá. Alguém tinha cortado o cadeado.",
+        "Três semanas depois, ao passar em frente à biblioteca de Alcântara, viu-a. Era ela, sem dúvida: o mesmo cesto, o mesmo autocolante. Estava presa a um poste com um cadeado novo. O Afonso pensou em chamar a polícia, mas em vez disso escreveu um bilhete e deixou-o no cesto: «Esta bicicleta é minha. Gostava de falar consigo.» E deixou o número de telemóvel.",
+        "Nessa noite, recebeu uma mensagem. Era de uma rapariga chamada Joana, de dezassete anos. Tinha comprado a bicicleta na internet por trinta euros, sem saber que era roubada. Usava-a para ir à biblioteca estudar para os exames. O Afonso olhou para a bicicleta, depois para a rapariga, e tomou uma decisão. — Fica com ela até aos exames — disse. — Depois, em julho, devolves-ma. Em julho, a Joana devolveu-a, com pneus novos e um bilhete de agradecimento no cesto."
+      ],
+      "english": [
+        [
+          "Afonso had an old blue bicycle, with a basket on the front and a Benfica sticker on the frame.",
+          "He used it every day to get to work, along the river, from Belém to Cais do Sodré.",
+          "One Friday, when he came out of the office, the bicycle was gone.",
+          "Someone had cut the lock."
+        ],
+        [
+          "Three weeks later, as he was passing the library in Alcântara, he saw it.",
+          "It was definitely his: the same basket, the same sticker.",
+          "It was locked to a post with a new lock.",
+          "Afonso thought about calling the police, but instead he wrote a note and left it in the basket: “This bicycle is mine. I'd like to talk to you.”",
+          "And he left his mobile number."
+        ],
+        [
+          "That night, he got a message.",
+          "It was from a seventeen-year-old girl called Joana.",
+          "She had bought the bicycle online for thirty euros, without knowing it was stolen.",
+          "She used it to go and study for her exams at the library.",
+          "Afonso looked at the bicycle, then at the girl, and made a decision.",
+          "“Keep it until your exams,” he said.",
+          "“Then, in July, you give it back to me.”",
+          "In July, Joana gave it back, with new tyres and a thank-you note in the basket."
+        ]
+      ],
+      "vocab": [
+        { "word": "cesto", "gloss": "basket" },
+        { "word": "autocolante", "gloss": "sticker" },
+        { "word": "quadro", "gloss": "(bicycle) frame" },
+        { "word": "cadeado", "gloss": "padlock, bike lock" },
+        { "word": "presa", "gloss": "locked, fastened" },
+        { "word": "em vez disso", "gloss": "instead" },
+        { "word": "rapariga", "gloss": "girl" },
+        { "word": "roubada", "gloss": "stolen" },
+        { "word": "devolves-ma", "gloss": "you give it back to me" },
+        { "word": "pneus", "gloss": "tyres" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-10",
+      "title": "Os Veteranos",
+      "subtitle": "The Veterans",
+      "topic": "Sport",
+      "symbol": "soccerball",
+      "paragraphs": [
+        "Todas as quartas-feiras à noite, oito homens entre os cinquenta e cinco e os setenta anos jogam futebol de salão num pavilhão em Braga. Chamam a si próprios «Os Veteranos». Correm pouco, discutem muito e, no fim, jantam sempre juntos no mesmo restaurante. Há vinte anos que é assim.",
+        "Um dia, uma equipa de estudantes universitários, que treinava no pavilhão depois deles, desafiou-os para um jogo. — Se perderem, deixam-nos o vosso horário — disse o capitão dos estudantes, a rir. O senhor Armindo, o mais velho, aceitou logo. — E se vocês perderem, pagam o nosso jantar durante um mês. Os outros veteranos olharam para ele como se estivesse louco.",
+        "O jogo foi no sábado seguinte. Os estudantes eram rápidos e fortes, e marcaram três golos nos primeiros dez minutos. Mas cansaram-se depressa. Os veteranos não corriam: passavam a bola, devagar, com uma calma irritante, e esperavam. Ganharam por sete a cinco. Nessa noite, os estudantes pagaram o jantar e acabaram a ouvir histórias até à uma da manhã. Agora jogam todos juntos às quartas-feiras."
+      ],
+      "english": [
+        [
+          "Every Wednesday night, eight men aged between fifty-five and seventy play futsal in a sports hall in Braga.",
+          "They call themselves “The Veterans”.",
+          "They run little, argue a lot and, at the end, always have dinner together at the same restaurant.",
+          "It's been like that for twenty years."
+        ],
+        [
+          "One day, a team of university students, who trained in the hall after them, challenged them to a match.",
+          "“If you lose, you give us your time slot,” said the students' captain, laughing.",
+          "Senhor Armindo, the oldest, accepted straight away.",
+          "“And if you lose, you pay for our dinner for a month.”",
+          "The other veterans looked at him as if he were mad."
+        ],
+        [
+          "The match was the following Saturday.",
+          "The students were fast and strong, and scored three goals in the first ten minutes.",
+          "But they got tired quickly.",
+          "The veterans didn't run: they passed the ball, slowly, with infuriating calm, and waited.",
+          "They won seven–five.",
+          "That night, the students paid for dinner and ended up listening to stories until one in the morning.",
+          "Now they all play together on Wednesdays."
+        ]
+      ],
+      "vocab": [
+        { "word": "futebol de salão", "gloss": "futsal, indoor five-a-side" },
+        { "word": "pavilhão", "gloss": "sports hall" },
+        { "word": "a si próprios", "gloss": "themselves" },
+        { "word": "discutem", "gloss": "argue" },
+        { "word": "desafiou-os", "gloss": "challenged them" },
+        { "word": "horário", "gloss": "time slot, schedule" },
+        { "word": "louco", "gloss": "mad, crazy" },
+        { "word": "golos", "gloss": "goals" },
+        { "word": "cansaram-se", "gloss": "got tired" },
+        { "word": "irritante", "gloss": "infuriating, irritating" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-11",
+      "title": "O ano do Duarte",
+      "subtitle": "Duarte's year",
+      "topic": "Plans",
+      "symbol": "airplane",
+      "paragraphs": [
+        "O Duarte acabou o secundário em junho, com boas notas. Os pais já tinham tudo pensado: ele ia estudar Engenharia em Lisboa, como o pai. Mas, num domingo ao almoço, em casa, em Leiria, o Duarte pousou o garfo e anunciou: — Não vou para a universidade este ano. O pai deixou cair o copo.",
+        "— Então o que é que vais fazer? — perguntou a mãe, muito calma, o que era mau sinal. O Duarte explicou que tinha encontrado um projeto de voluntariado na ilha de Santo Antão, em Cabo Verde. Ia ajudar a construir uma escola e a dar aulas de matemática. — Seria só um ano — disse ele. — Depois, prometo que vou para a faculdade. Mas preciso de perceber o que quero estudar, e não posso fazê-lo aqui, sentado a esta mesa.",
+        "Houve um silêncio muito longo. Depois, o pai, que não tinha dito nada, levantou-se e foi buscar uma caixa ao sótão. Lá dentro havia fotografias de um rapaz de vinte anos, magro e bronzeado, numa aldeia de Moçambique. — Eu fiz o mesmo, em mil novecentos e noventa — disse o pai. — A tua avó não falou comigo durante um mês. Eu não vou fazer o mesmo. O Duarte partiu em setembro."
+      ],
+      "english": [
+        [
+          "Duarte finished secondary school in June, with good marks.",
+          "His parents already had it all worked out: he was going to study Engineering in Lisbon, like his father.",
+          "But one Sunday at lunch, at home in Leiria, Duarte put down his fork and announced: “I'm not going to university this year.”",
+          "His father dropped his glass."
+        ],
+        [
+          "“So what are you going to do?” asked his mother, very calmly, which was a bad sign.",
+          "Duarte explained that he had found a volunteering project on the island of Santo Antão, in Cape Verde.",
+          "He was going to help build a school and teach maths.",
+          "“It would only be for a year,” he said.",
+          "“Afterwards, I promise I'll go to university.",
+          "But I need to work out what I want to study, and I can't do that here, sitting at this table.”"
+        ],
+        [
+          "There was a very long silence.",
+          "Then his father, who hadn't said anything, got up and went to fetch a box from the attic.",
+          "Inside were photos of a twenty-year-old boy, thin and tanned, in a village in Mozambique.",
+          "“I did the same, in nineteen ninety,” said his father.",
+          "“Your grandmother didn't speak to me for a month.",
+          "I'm not going to do the same.”",
+          "Duarte left in September."
+        ]
+      ],
+      "vocab": [
+        { "word": "secundário", "gloss": "secondary school" },
+        { "word": "pousou", "gloss": "put down" },
+        { "word": "deixou cair", "gloss": "dropped" },
+        { "word": "mau sinal", "gloss": "bad sign" },
+        { "word": "voluntariado", "gloss": "volunteering" },
+        { "word": "construir", "gloss": "to build" },
+        { "word": "seria", "gloss": "it would be" },
+        { "word": "faculdade", "gloss": "university, faculty" },
+        { "word": "sótão", "gloss": "attic" },
+        { "word": "bronzeado", "gloss": "tanned" },
+        { "word": "partiu", "gloss": "left, set off" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-12",
+      "title": "A horta da escola",
+      "subtitle": "The school vegetable garden",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Na escola básica de uma aldeia perto de Setúbal, havia um terreno abandonado atrás do ginásio, cheio de silvas e de lixo. A professora Cristina, que ensinava Ciências, teve uma ideia: transformá-lo numa horta. O diretor achou que era perda de tempo. Os alunos do sexto ano acharam que era uma desculpa para não ter aulas.",
+        "Mesmo assim, começaram. Em outubro, limparam o terreno e encontraram de tudo: pneus, garrafas, uma bicicleta sem rodas. Em novembro, plantaram couves, alfaces e favas. O Rúben, que era o aluno mais difícil da turma e quase nunca falava, passou a chegar à escola meia hora mais cedo para regar as plantas. — Porque é que vens tão cedo? — perguntou-lhe a professora. — As alfaces têm sede — respondeu ele, encolhendo os ombros.",
+        "Na primavera, a horta deu tantos legumes que a cantina da escola os usou na sopa durante semanas. O diretor provou a sopa e pediu desculpa à professora. No fim do ano, houve uma pequena cerimónia, e o Rúben, vermelho como um tomate, recebeu um diploma: «Guardião da horta». Foi o primeiro prémio que alguma vez ganhou."
+      ],
+      "english": [
+        [
+          "At the primary school in a village near Setúbal, there was an abandoned plot of land behind the gym, full of brambles and rubbish.",
+          "Professora Cristina, who taught Science, had an idea: to turn it into a vegetable garden.",
+          "The head teacher thought it was a waste of time.",
+          "The sixth-year pupils thought it was an excuse not to have lessons."
+        ],
+        [
+          "Even so, they started.",
+          "In October, they cleared the plot and found all sorts of things: tyres, bottles, a bicycle with no wheels.",
+          "In November, they planted cabbages, lettuces and broad beans.",
+          "Rúben, who was the most difficult pupil in the class and hardly ever spoke, started arriving at school half an hour early to water the plants.",
+          "“Why do you come so early?” the teacher asked him.",
+          "“The lettuces are thirsty,” he answered, shrugging."
+        ],
+        [
+          "In the spring, the garden produced so many vegetables that the school canteen used them in the soup for weeks.",
+          "The head teacher tasted the soup and apologised to the teacher.",
+          "At the end of the year, there was a little ceremony, and Rúben, as red as a tomato, received a certificate: “Guardian of the garden”.",
+          "It was the first prize he had ever won."
+        ]
+      ],
+      "vocab": [
+        { "word": "terreno", "gloss": "plot of land" },
+        { "word": "silvas", "gloss": "brambles" },
+        { "word": "horta", "gloss": "vegetable garden" },
+        { "word": "perda de tempo", "gloss": "waste of time" },
+        { "word": "couves", "gloss": "cabbages" },
+        { "word": "favas", "gloss": "broad beans" },
+        { "word": "regar", "gloss": "to water" },
+        { "word": "sede", "gloss": "thirst (ter sede: to be thirsty)" },
+        { "word": "encolhendo os ombros", "gloss": "shrugging" },
+        { "word": "cantina", "gloss": "canteen" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-13",
+      "title": "Uma chamada de Luanda",
+      "subtitle": "A call from Luanda",
+      "topic": "Memory",
+      "symbol": "phone.fill",
+      "paragraphs": [
+        "A dona Amélia tem setenta e sete anos e vive em Almada, do outro lado do Tejo. Nasceu em Luanda, em Angola, e viveu lá até aos vinte e dois anos. Em 1975, veio para Portugal com a família, só com duas malas. Nunca mais voltou, e nunca mais soube nada da melhor amiga de infância, a Esperança.",
+        "Num domingo à tarde, o telefone de casa tocou. Do outro lado, uma voz de mulher, com sotaque angolano, perguntou: — É a Amélia que andava no liceu comigo e tinha uma bicicleta vermelha? A dona Amélia sentou-se, com as pernas a tremer. — Esperança? Era ela. O neto da Esperança tinha encontrado o nome da Amélia numa página de antigos alunos na internet e passou duas semanas à procura do número.",
+        "Falaram durante três horas. Riram-se das professoras, choraram pelos que já tinham morrido, lembraram-se do cheiro da chuva em Luanda. — Ainda tens a bicicleta? — perguntou a Esperança, no fim. — Não — respondeu a Amélia. — Mas tenho uma fotografia de nós as duas em cima dela. Vou mandar-ta. Na semana seguinte, o neto da dona Amélia ensinou-a a fazer videochamadas. Agora falam todos os domingos, à mesma hora."
+      ],
+      "english": [
+        [
+          "Dona Amélia is seventy-seven and lives in Almada, on the other side of the Tagus.",
+          "She was born in Luanda, in Angola, and lived there until she was twenty-two.",
+          "In 1975, she came to Portugal with her family, with only two suitcases.",
+          "She never went back, and never heard anything again from her best childhood friend, Esperança."
+        ],
+        [
+          "One Sunday afternoon, the home phone rang.",
+          "On the other end, a woman's voice with an Angolan accent asked: “Is that the Amélia who was at secondary school with me and had a red bicycle?”",
+          "Dona Amélia sat down, her legs shaking.",
+          "“Esperança?”",
+          "It was her.",
+          "Esperança's grandson had found Amélia's name on a former pupils' page on the internet and spent two weeks looking for the number."
+        ],
+        [
+          "They talked for three hours.",
+          "They laughed about their teachers, cried for those who had already died, remembered the smell of the rain in Luanda.",
+          "“Have you still got the bicycle?” Esperança asked at the end.",
+          "“No,” answered Amélia.",
+          "“But I've got a photo of the two of us on it.",
+          "I'll send it to you.”",
+          "The following week, Dona Amélia's grandson taught her to make video calls.",
+          "Now they talk every Sunday, at the same time."
+        ]
+      ],
+      "vocab": [
+        { "word": "malas", "gloss": "suitcases" },
+        { "word": "soube", "gloss": "heard, found out" },
+        { "word": "sotaque", "gloss": "accent" },
+        { "word": "andava no liceu", "gloss": "went to secondary school" },
+        { "word": "a tremer", "gloss": "shaking" },
+        { "word": "antigos alunos", "gloss": "former pupils" },
+        { "word": "à procura", "gloss": "looking for" },
+        { "word": "lembraram-se", "gloss": "they remembered" },
+        { "word": "mandar-ta", "gloss": "send it to you" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-14",
+      "title": "O canhão da Nazaré",
+      "subtitle": "The Nazaré canyon",
+      "topic": "Science",
+      "symbol": "water.waves",
+      "paragraphs": [
+        "O Simão tem onze anos e mora na Nazaré. Todos os invernos, vê chegar à vila surfistas de todo o mundo, que vêm apanhar as maiores ondas do planeta na Praia do Norte. Mas o Simão não queria saber dos surfistas. Queria saber outra coisa: porque é que as ondas eram tão grandes ali, e não noutras praias.",
+        "Um sábado, viu junto ao farol uma mulher com um computador e uns aparelhos estranhos. Chamava-se Marta e era oceanógrafa. — Estou a medir as ondas — explicou ela. — Debaixo desta praia há um canhão submarino, um vale enorme no fundo do mar, com cinco quilómetros de profundidade. Funciona como um funil: concentra a energia das ondas e empurra-a toda para aqui. O Simão ficou de boca aberta.",
+        "Durante o resto do inverno, o Simão passou os sábados no farol, a ajudar a Marta a registar os dados. Aprendeu a ler gráficos, a calcular a altura das ondas e a usar um drone. Em junho, apresentou um trabalho na escola: «O canhão da Nazaré explicado aos surfistas». Teve cinco, a nota máxima. E agora, quando os amigos lhe perguntam o que quer ser, já tem a resposta: — Cientista do mar."
+      ],
+      "english": [
+        [
+          "Simão is eleven and lives in Nazaré.",
+          "Every winter, he sees surfers from all over the world arriving in the town, coming to ride the biggest waves on the planet at Praia do Norte.",
+          "But Simão wasn't interested in the surfers.",
+          "He wanted to know something else: why the waves were so big there, and not on other beaches."
+        ],
+        [
+          "One Saturday, he saw a woman by the lighthouse with a computer and some strange instruments.",
+          "Her name was Marta and she was an oceanographer.",
+          "“I'm measuring the waves,” she explained.",
+          "“Under this beach there's an underwater canyon, an enormous valley on the sea floor, five kilometres deep.",
+          "It works like a funnel: it concentrates the waves' energy and pushes it all here.”",
+          "Simão's mouth fell open."
+        ],
+        [
+          "For the rest of the winter, Simão spent his Saturdays at the lighthouse, helping Marta record the data.",
+          "He learned to read graphs, to calculate the height of the waves and to fly a drone.",
+          "In June, he presented a project at school: “The Nazaré canyon explained to surfers”.",
+          "He got a five, the top mark.",
+          "And now, when his friends ask him what he wants to be, he has his answer ready: “A marine scientist.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "não queria saber", "gloss": "wasn't interested in" },
+        { "word": "farol", "gloss": "lighthouse" },
+        { "word": "aparelhos", "gloss": "instruments, devices" },
+        { "word": "medir", "gloss": "measuring, to measure" },
+        { "word": "canhão submarino", "gloss": "underwater canyon" },
+        { "word": "profundidade", "gloss": "depth" },
+        { "word": "funil", "gloss": "funnel" },
+        { "word": "empurra-a", "gloss": "pushes it" },
+        { "word": "de boca aberta", "gloss": "open-mouthed" },
+        { "word": "registar os dados", "gloss": "to record the data" }
+      ]
+    },
+    {
+      "id": "pt-PT-b1-15",
+      "title": "O quadro do sótão",
+      "subtitle": "The painting in the attic",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Depois da morte da avó Helena, a Margarida e a mãe foram arrumar a casa dela em Ponte de Lima. No sótão, entre caixas de roupa velha e revistas dos anos sessenta, encontraram um quadro embrulhado num lençol. Era uma paisagem do rio Lima ao pôr do sol, com a ponte romana e uma rapariga de vestido amarelo sentada na margem.",
+        "— Quem pintou isto? — perguntou a Margarida. A mãe não sabia. A avó nunca tinha falado de pintores na família. Levaram o quadro a um antiquário no Porto, que o examinou com uma lupa durante muito tempo. — Não é de ninguém famoso — disse ele. — Mas quem o pintou tinha muito talento. E pintou esta rapariga com muito amor.",
+        "A resposta estava numa gaveta da cómoda da avó: um maço de cartas atadas com uma fita. Eram de um tal Armando, um estudante de Belas-Artes que passou o verão de 1958 em Ponte de Lima. A rapariga do vestido amarelo era a avó, aos dezanove anos. O Armando foi para o Brasil e nunca mais voltou. A avó casou com outro homem e foi feliz, mas guardou o quadro e as cartas a vida inteira. Agora o quadro está pendurado na sala da Margarida."
+      ],
+      "english": [
+        [
+          "After Grandma Helena died, Margarida and her mother went to clear out her house in Ponte de Lima.",
+          "In the attic, among boxes of old clothes and magazines from the sixties, they found a painting wrapped in a sheet.",
+          "It was a landscape of the river Lima at sunset, with the Roman bridge and a girl in a yellow dress sitting on the bank."
+        ],
+        [
+          "“Who painted this?” asked Margarida.",
+          "Her mother didn't know.",
+          "Grandma had never mentioned any painters in the family.",
+          "They took the painting to an antique dealer in Porto, who examined it with a magnifying glass for a long time.",
+          "“It's not by anyone famous,” he said.",
+          "“But whoever painted it had a lot of talent.",
+          "And they painted this girl with a lot of love.”"
+        ],
+        [
+          "The answer was in a drawer of Grandma's chest of drawers: a bundle of letters tied with a ribbon.",
+          "They were from someone called Armando, a Fine Arts student who spent the summer of 1958 in Ponte de Lima.",
+          "The girl in the yellow dress was Grandma, at nineteen.",
+          "Armando went to Brazil and never came back.",
+          "Grandma married another man and was happy, but she kept the painting and the letters all her life.",
+          "Now the painting hangs in Margarida's living room."
+        ]
+      ],
+      "vocab": [
+        { "word": "arrumar", "gloss": "to clear out, tidy" },
+        { "word": "embrulhado", "gloss": "wrapped" },
+        { "word": "lençol", "gloss": "sheet" },
+        { "word": "paisagem", "gloss": "landscape" },
+        { "word": "margem", "gloss": "(river) bank" },
+        { "word": "antiquário", "gloss": "antique dealer" },
+        { "word": "lupa", "gloss": "magnifying glass" },
+        { "word": "cómoda", "gloss": "chest of drawers" },
+        { "word": "maço", "gloss": "bundle" },
+        { "word": "atadas", "gloss": "tied" },
+        { "word": "pendurado", "gloss": "hanging" }
+      ]
+    }
+  ]
+}

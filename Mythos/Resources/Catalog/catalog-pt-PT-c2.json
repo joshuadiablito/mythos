@@ -1,0 +1,978 @@
+{
+  "language": "pt-PT",
+  "level": "C2",
+  "stories": [
+    {
+      "id": "pt-PT-c2-01",
+      "title": "Da bicha à fila",
+      "subtitle": "From queue to queue",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Houve um tempo, que os mais novos já não conhecem, em que os portugueses faziam bicha. Fazia-se bicha para o autocarro, bicha para o pão, bicha para tratar do bilhete de identidade, e ninguém via nisso qualquer duplo sentido. Depois, por razões que os linguistas explicarão melhor do que eu, a palavra foi ganhando outras conotações, e uma geração inteira passou a corar quando a avó anunciava, em plena estação dos correios, que ia «pôr-se na bicha». Adotou-se então a «fila», mais asséptica, mais europeia, mais compatível com os ecrãs de senhas numeradas. Mudou o nome. O comportamento, garanto-vos, ficou exatamente igual.",
+        "Porque a fila portuguesa não é, como a inglesa, uma linha reta e silenciosa onde cada um aguarda a sua vez com a resignação de um mártir. É um organismo vivo, com uma anatomia própria e regras que nenhum regulamento escreveu. Tem, em primeiro lugar, o «guardador de lugar», figura venerável que chega às sete da manhã para reservar posição a quatro primos, dois vizinhos e uma comadre que só aparecerá às onze. Tem o «distraído profissional», que se materializa ao balcão sem que ninguém o tenha visto entrar, munido de um ar de espanto tão genuíno que seria uma crueldade denunciá-lo. E tem, claro, o «comentador», que passa a espera inteira a explicar a quem o quiser ouvir que no tempo de Salazar isto não acontecia, que na Alemanha isto não acontecia, e que, em suma, isto só acontece cá.",
+        "Há ainda a fila prioritária, instituição nobre e necessária, que no nosso país se transformou num prodigioso laboratório de criatividade. Nunca tantas pessoas tiveram, de repente, uma lombalgia incapacitante ao avistar uma caixa de supermercado vazia. Nunca tantas grávidas de três semanas exibiram com tanto orgulho barrigas que só elas conseguem ver. A funcionária, que já viu tudo, não discute: limita-se a erguer uma sobrancelha com uma eloquência que nenhum discurso parlamentar igualaria.",
+        "Não pensem, porém, que escrevo isto com desdém. Pelo contrário. A fila portuguesa é talvez o último espaço público onde desconhecidos ainda conversam sem ecrãs pelo meio. É ali que se trocam receitas, diagnósticos médicos, opiniões sobre o árbitro e informações privilegiadas sobre a vida da senhora do terceiro esquerdo. É uma ágora improvisada, caótica e profundamente democrática, na medida em que todos, sem exceção, se sentem injustiçados.",
+        "Na semana passada, numa repartição de Finanças em Almada, assisti ao triunfo final do sistema. Um senhor de oitenta anos, depois de quarenta minutos de espera, chegou ao balcão, olhou para a funcionária e disse: «Afinal, não era nada. Só vinha ver se isto ainda funcionava.» E foi-se embora, satisfeito, a cumprimentar toda a gente pelo caminho. Ninguém protestou. Acho que, no fundo, todos o invejámos."
+      ],
+      "english": [
+        [
+          "There was a time, which the young no longer know, when the Portuguese stood in a “bicha”.",
+          "You queued in a bicha for the bus, a bicha for bread, a bicha to sort out your identity card, and nobody saw any double meaning in it.",
+          "Then, for reasons linguists will explain better than I can, the word gradually took on other connotations, and a whole generation began to blush when Grandma announced, in the middle of the post office, that she was going to “join the bicha”.",
+          "So the “fila” was adopted instead, more sterile, more European, more compatible with the screens of numbered tickets.",
+          "The name changed.",
+          "The behaviour, I assure you, stayed exactly the same."
+        ],
+        [
+          "Because the Portuguese queue is not, like the English one, a straight, silent line where each person awaits their turn with the resignation of a martyr.",
+          "It is a living organism, with an anatomy of its own and rules that no regulation ever wrote.",
+          "It has, first of all, the “place-keeper”, a venerable figure who arrives at seven in the morning to save places for four cousins, two neighbours and a bosom friend who won't turn up until eleven.",
+          "It has the “professional absent-minded”, who materialises at the counter without anyone having seen him come in, armed with an air of astonishment so genuine that it would be cruel to denounce him.",
+          "And it has, of course, the “commentator”, who spends the entire wait explaining to anyone who'll listen that this didn't happen in Salazar's day, that this didn't happen in Germany, and that, in short, this only happens here."
+        ],
+        [
+          "Then there's the priority queue, a noble and necessary institution, which in our country has become a prodigious laboratory of creativity.",
+          "Never have so many people suddenly developed crippling lower-back pain at the sight of an empty supermarket checkout.",
+          "Never have so many women three weeks pregnant displayed with such pride bumps that only they can see.",
+          "The cashier, who has seen it all, doesn't argue: she simply raises an eyebrow with an eloquence no parliamentary speech could equal."
+        ],
+        [
+          "Don't think, however, that I write this with disdain.",
+          "Quite the opposite.",
+          "The Portuguese queue is perhaps the last public space where strangers still talk to each other with no screens in between.",
+          "It's there that recipes, medical diagnoses, opinions on the referee and inside information about the life of the lady in the third-floor flat on the left are exchanged.",
+          "It is an improvised agora, chaotic and profoundly democratic, inasmuch as everyone, without exception, feels hard done by."
+        ],
+        [
+          "Last week, in a tax office in Almada, I witnessed the system's final triumph.",
+          "A man of eighty, after a forty-minute wait, reached the counter, looked at the clerk and said: “It was nothing after all. I just came to see if this still worked.”",
+          "And he left, satisfied, greeting everyone on his way out.",
+          "Nobody protested.",
+          "I think, deep down, we all envied him."
+        ]
+      ],
+      "vocab": [
+        { "word": "duplo sentido", "gloss": "double meaning" },
+        { "word": "corar", "gloss": "to blush" },
+        { "word": "asséptica", "gloss": "sterile, antiseptic" },
+        { "word": "senhas", "gloss": "numbered tickets" },
+        { "word": "comadre", "gloss": "close female friend, gossip (also godmother of one's child)" },
+        { "word": "munido de", "gloss": "armed with, equipped with" },
+        { "word": "em suma", "gloss": "in short" },
+        { "word": "lombalgia", "gloss": "lower-back pain" },
+        { "word": "avistar", "gloss": "sighting, catching sight of" },
+        { "word": "sobrancelha", "gloss": "eyebrow" },
+        { "word": "desdém", "gloss": "disdain" },
+        { "word": "terceiro esquerdo", "gloss": "third floor, left-hand flat" },
+        { "word": "injustiçados", "gloss": "wronged, hard done by" },
+        { "word": "repartição de Finanças", "gloss": "local tax office" },
+        { "word": "invejámos", "gloss": "we envied" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-02",
+      "title": "Maré vazia",
+      "subtitle": "Low tide",
+      "topic": "Nature",
+      "symbol": "water.waves",
+      "paragraphs": [
+        "Na Ria Formosa, a maré vazia não é uma ausência: é uma revelação. Às seis da tarde, quando a água se retira devagar, como quem sai de uma sala sem fazer barulho para não acordar ninguém, ficam à vista os segredos que o mar guardava. Os canais estreitam-se até se tornarem fios de prata. Os bancos de lodo surgem, lustrosos e escuros, crivados de pequenos orifícios por onde respiram criaturas que ninguém vê. O cheiro sobe, salgado e antigo, um cheiro a coisa viva e a coisa morta ao mesmo tempo, que os turistas acham desagradável e os de cá acham simplesmente o cheiro de casa.",
+        "Chegam então as mariscadoras. Vêm curvadas, de botas de borracha e balde na mão, e enterram as mãos no lodo com a precisão de quem lê um texto em braille. Procuram a amêijoa, o berbigão, o lingueirão escondido no seu túnel vertical. Não falam muito. Quando falam, é para comentar o preço do marisco, a dor nas costas, a filha que foi para Londres e não volta. O horizonte, atrás delas, é uma linha de luz tão baixa que parece que o céu se deitou sobre a ria para descansar.",
+        "Há na maré vazia uma pedagogia que poucas paisagens oferecem. Ensina que tudo o que parece permanente é, afinal, provisório; que o chão que pisamos hoje estará amanhã debaixo de dois metros de água; que a abundância e a escassez são apenas horas diferentes do mesmo dia. Os flamingos sabem-no. Passeiam pelos baixios com uma elegância desajeitada, as patas mergulhadas no lodo, como bailarinas que se tivessem enganado no palco, e partem antes que a água regresse, sem pressa, sem drama, como quem conhece o horário de cor.",
+        "E depois a maré volta. Não de repente, mas aos poucos, insinuando-se pelos canais, cobrindo primeiro as pegadas das mariscadoras, depois os orifícios, depois os bancos inteiros, até que da revelação não fica nada senão uma superfície lisa e inocente onde se reflete a lua. Quem chegar nessa altura dirá que a ria é só água. Não saberá o que esteve ali. É assim, suspeito, com quase tudo o que importa: só se vê quando o resto se retira."
+      ],
+      "english": [
+        [
+          "In the Ria Formosa, low tide is not an absence: it is a revelation.",
+          "At six in the evening, when the water withdraws slowly, like someone leaving a room quietly so as not to wake anyone, the secrets the sea was keeping come into view.",
+          "The channels narrow until they become threads of silver.",
+          "The mudbanks emerge, glossy and dark, riddled with tiny holes through which creatures nobody sees are breathing.",
+          "The smell rises, salty and ancient, a smell of living things and dead things at the same time, which tourists find unpleasant and locals find simply the smell of home."
+        ],
+        [
+          "Then the shellfish gatherers arrive.",
+          "They come bent over, in rubber boots with buckets in hand, and sink their hands into the mud with the precision of someone reading a text in Braille.",
+          "They are looking for clams, cockles, the razor clam hidden in its vertical tunnel.",
+          "They don't talk much.",
+          "When they do, it's to remark on the price of shellfish, their bad backs, the daughter who went to London and isn't coming back.",
+          "The horizon behind them is a line of light so low that it seems the sky has lain down on the lagoon to rest."
+        ],
+        [
+          "There is a lesson in low tide that few landscapes offer.",
+          "It teaches that everything that seems permanent is, in the end, provisional; that the ground we walk on today will be under two metres of water tomorrow; that abundance and scarcity are just different hours of the same day.",
+          "The flamingos know it.",
+          "They stroll through the shallows with an awkward elegance, legs sunk in the mud, like ballerinas who have come to the wrong stage, and leave before the water returns, unhurried, undramatic, like someone who knows the timetable by heart."
+        ],
+        [
+          "And then the tide comes back.",
+          "Not suddenly, but little by little, creeping in through the channels, covering first the gatherers' footprints, then the holes, then the whole banks, until nothing is left of the revelation but a smooth, innocent surface reflecting the moon.",
+          "Anyone arriving at that moment will say the lagoon is just water.",
+          "They won't know what was there.",
+          "It's like that, I suspect, with almost everything that matters: you only see it when the rest withdraws."
+        ]
+      ],
+      "vocab": [
+        { "word": "lustrosos", "gloss": "glossy, shiny" },
+        { "word": "crivados", "gloss": "riddled" },
+        { "word": "orifícios", "gloss": "small holes, openings" },
+        { "word": "mariscadoras", "gloss": "women who gather shellfish" },
+        { "word": "enterram", "gloss": "sink, bury" },
+        { "word": "amêijoa", "gloss": "clam" },
+        { "word": "berbigão", "gloss": "cockle" },
+        { "word": "lingueirão", "gloss": "razor clam" },
+        { "word": "escassez", "gloss": "scarcity" },
+        { "word": "baixios", "gloss": "shallows" },
+        { "word": "desajeitada", "gloss": "awkward, clumsy" },
+        { "word": "insinuando-se", "gloss": "creeping in, slipping in" },
+        { "word": "pegadas", "gloss": "footprints" },
+        { "word": "lisa", "gloss": "smooth" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-03",
+      "title": "O arquivista",
+      "subtitle": "The archivist",
+      "topic": "Mystery",
+      "symbol": "key.fill",
+      "paragraphs": [
+        "O Bartolomeu Seixas trabalhava há vinte e seis anos na Torre do Tombo, e em vinte e seis anos nunca lhe tinha acontecido nada. Era essa, aliás, a qualidade que mais apreciava no seu ofício. Os documentos que catalogava tinham sido escritos por gente que já não podia surpreender ninguém: escrivães de letra miudinha, frades minuciosos, juízes que condenavam ladrões de galinhas com uma prosa digna de melhor causa. O passado, para o Bartolomeu, era um lugar sossegado, onde tudo já tinha acontecido e nada mais podia acontecer.",
+        "Numa terça-feira de fevereiro, ao abrir um maço de autos de uma devassa de 1683, encontrou entre duas folhas um papel dobrado em quatro, de uma caligrafia diferente, apressada, quase febril. Desdobrou-o com as luvas de algodão, por hábito, e leu as primeiras linhas sem compreender. Depois leu-as outra vez. O papel descrevia, com uma exatidão que lhe gelou as mãos, um homem de meia-idade, magro, de óculos, que trabalhava num grande edifício de arquivos, que vivia sozinho com um gato cinzento chamado Vieira, e que todas as terças-feiras comia sopa de feijão numa tasca chamada O Arco.",
+        "O Bartolomeu sentou-se. Procurou, com a racionalidade de quem passou a vida a desconfiar de documentos, as explicações possíveis. Uma partida de algum colega? Mas nenhum colega sabia do gato, e muito menos da sopa. Uma falsificação moderna? O papel, a tinta corroída, a dobra amarelecida, tudo indicava que aquela folha estava ali há mais de três séculos. Uma coincidência? Leu o último parágrafo, e a palavra coincidência pareceu-lhe, de repente, de uma ingenuidade comovente. «Quando este homem me encontrar», dizia a folha, «saberá por fim que também ele está a ser lido.»",
+        "Não contou a ninguém. Catalogou o papel com a cota correta, como mandava o regulamento, e devolveu-o ao seu maço, entre as duas folhas da devassa. Nessa noite, porém, não foi à tasca. Ficou em casa, com o Vieira ao colo, a olhar para as paredes com uma atenção nova, como se esperasse ver nelas as margens de uma página. E pela primeira vez em vinte e seis anos, antes de apagar a luz, telefonou à irmã, com quem não falava desde o funeral da mãe. Pareceu-lhe, de repente, que devia ao seu leitor alguma coisa de interessante."
+      ],
+      "english": [
+        [
+          "Bartolomeu Seixas had worked at the Torre do Tombo for twenty-six years, and in twenty-six years nothing had ever happened to him.",
+          "That, in fact, was the quality he most valued in his job.",
+          "The documents he catalogued had been written by people who could no longer surprise anyone: scribes with tiny handwriting, meticulous friars, judges who sentenced chicken thieves in prose worthy of a better cause.",
+          "The past, for Bartolomeu, was a quiet place, where everything had already happened and nothing more could happen."
+        ],
+        [
+          "One Tuesday in February, opening a bundle of records from a judicial inquiry of 1683, he found between two pages a sheet of paper folded in four, in a different hand, hurried, almost feverish.",
+          "He unfolded it in his cotton gloves, out of habit, and read the first lines without understanding.",
+          "Then he read them again.",
+          "The paper described, with an exactness that froze his hands, a thin, bespectacled, middle-aged man who worked in a large archive building, who lived alone with a grey cat called Vieira, and who every Tuesday ate bean soup in a tavern called O Arco."
+        ],
+        [
+          "Bartolomeu sat down.",
+          "With the rationality of someone who has spent his life distrusting documents, he looked for possible explanations.",
+          "A prank by a colleague?",
+          "But no colleague knew about the cat, let alone the soup.",
+          "A modern forgery?",
+          "The paper, the corroded ink, the yellowed fold, everything indicated that the sheet had been there for more than three centuries.",
+          "A coincidence?",
+          "He read the last paragraph, and the word coincidence suddenly seemed to him touchingly naive.",
+          "“When this man finds me,” said the sheet, “he will know at last that he too is being read.”"
+        ],
+        [
+          "He told no one.",
+          "He catalogued the paper with the correct shelf mark, as the regulations required, and returned it to its bundle, between the two pages of the inquiry.",
+          "That night, however, he didn't go to the tavern.",
+          "He stayed at home, with Vieira on his lap, looking at the walls with a new attentiveness, as if he expected to see the margins of a page in them.",
+          "And for the first time in twenty-six years, before turning off the light, he phoned his sister, whom he hadn't spoken to since their mother's funeral.",
+          "It suddenly seemed to him that he owed his reader something interesting."
+        ]
+      ],
+      "vocab": [
+        { "word": "escrivães", "gloss": "scribes, clerks" },
+        { "word": "miudinha", "gloss": "tiny" },
+        { "word": "frades", "gloss": "friars" },
+        { "word": "digna de melhor causa", "gloss": "worthy of a better cause" },
+        { "word": "sossegado", "gloss": "quiet, peaceful" },
+        { "word": "autos", "gloss": "court records, proceedings" },
+        { "word": "devassa", "gloss": "judicial inquiry (historical)" },
+        { "word": "febril", "gloss": "feverish" },
+        { "word": "gelou", "gloss": "froze" },
+        { "word": "partida", "gloss": "prank, trick" },
+        { "word": "corroída", "gloss": "corroded" },
+        { "word": "amarelecida", "gloss": "yellowed" },
+        { "word": "comovente", "gloss": "touching, moving" },
+        { "word": "cota", "gloss": "shelf mark, call number" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-04",
+      "title": "Manual do perfeito reunionista",
+      "subtitle": "The perfect meeting-goer's handbook",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Caro leitor que acaba de ser promovido: os meus parabéns. A partir de hoje, a sua função já não é trabalhar, mas reunir. Trata-se de uma arte exigente, que não se ensina nas universidades e que, no entanto, decide carreiras com uma crueldade quase darwiniana. Permita-me, pois, que lhe ofereça algumas regras básicas, fruto de vinte anos de experiência em salas sem janelas.",
+        "Primeira regra: nunca marque uma reunião para tomar uma decisão. As decisões são perigosas, porque têm consequências, e as consequências têm responsáveis. Marque, isso sim, uma reunião para «alinhar», para «fazer o ponto de situação» ou, idealmente, para «preparar a próxima reunião». Esta última modalidade tem a vantagem de se reproduzir sozinha, como certas espécies de cogumelos, e pode garantir-lhe um calendário preenchido até à reforma sem que nada de concreto aconteça.",
+        "Segunda regra: domine o vocabulário. Não diga «não sei»; diga «vamos ter de aprofundar». Não diga «isso é um disparate»; diga «é uma perspetiva interessante, mas talvez valha a pena revisitar alguns pressupostos». Use, com moderação mas regularidade, palavras como «sinergia», «transversal» e «disruptivo», que não querem dizer coisa nenhuma e por isso mesmo não podem ser contestadas. Se alguém lhe pedir um exemplo, olhe para o relógio com uma expressão grave e proponha que se «leve o tema offline».",
+        "Terceira regra, talvez a mais subtil: a câmara. Nas reuniões por videochamada, mantenha-a ligada nos primeiros três minutos, para que todos registem a sua presença, o seu ar concentrado e a estante de livros cuidadosamente escolhida que tem atrás de si. Depois, alegue «problemas de ligação» e desligue-a. Poderá então dedicar-se a atividades mais produtivas, como responder a e-mails, estender a roupa ou, nos casos mais avançados, participar simultaneamente noutra reunião, onde também alegará problemas de ligação.",
+        "Quarta e última regra: no fim de cada reunião, pergunte sempre se «há mais algum assunto». Faça-o num tom tão definitivo que ninguém se atreva a responder que sim. Se, apesar de tudo, algum jovem idealista levantar a mão para sugerir que talvez a reunião pudesse ter sido um e-mail, não se exalte. Agradeça a contribuição, elogie o espírito crítico e marque com ele, para a semana seguinte, uma reunião para discutir o assunto. Garanto-lhe que nunca mais levantará a mão."
+      ],
+      "english": [
+        [
+          "Dear reader who has just been promoted: congratulations.",
+          "From today, your job is no longer to work, but to meet.",
+          "It is a demanding art, which isn't taught at universities and which nonetheless decides careers with an almost Darwinian cruelty.",
+          "Allow me, then, to offer you a few basic rules, the fruit of twenty years' experience in windowless rooms."
+        ],
+        [
+          "Rule one: never call a meeting to take a decision.",
+          "Decisions are dangerous, because they have consequences, and consequences have people responsible for them.",
+          "Call, instead, a meeting to “align”, to “give a progress update” or, ideally, to “prepare the next meeting”.",
+          "This last format has the advantage of reproducing itself, like certain species of mushroom, and can guarantee you a full diary until retirement without anything concrete ever happening."
+        ],
+        [
+          "Rule two: master the vocabulary.",
+          "Don't say “I don't know”; say “we'll need to look into that more deeply”.",
+          "Don't say “that's nonsense”; say “that's an interesting perspective, but it might be worth revisiting some assumptions”.",
+          "Use, sparingly but regularly, words like “synergy”, “cross-cutting” and “disruptive”, which mean nothing at all and for that very reason cannot be challenged.",
+          "If anyone asks you for an example, look at your watch with a serious expression and propose “taking the subject offline”."
+        ],
+        [
+          "Rule three, perhaps the subtlest: the camera.",
+          "In video meetings, keep it on for the first three minutes, so that everyone registers your presence, your focused expression and the carefully chosen bookcase behind you.",
+          "Then claim “connection problems” and turn it off.",
+          "You will then be free to devote yourself to more productive activities, such as answering emails, hanging out the washing or, in the most advanced cases, simultaneously attending another meeting, where you will also claim connection problems."
+        ],
+        [
+          "Rule four, the last: at the end of every meeting, always ask whether there is “any other business”.",
+          "Do it in a tone so final that nobody dares answer yes.",
+          "If, despite everything, some young idealist raises a hand to suggest that perhaps the meeting could have been an email, don't get worked up.",
+          "Thank them for their contribution, praise their critical spirit and book a meeting with them for the following week to discuss the matter.",
+          "I guarantee they will never raise their hand again."
+        ]
+      ],
+      "vocab": [
+        { "word": "promovido", "gloss": "promoted" },
+        { "word": "exigente", "gloss": "demanding" },
+        { "word": "ponto de situação", "gloss": "progress update, status report" },
+        { "word": "modalidade", "gloss": "format, type" },
+        { "word": "cogumelos", "gloss": "mushrooms" },
+        { "word": "preenchido", "gloss": "full, filled" },
+        { "word": "aprofundar", "gloss": "to look into more deeply" },
+        { "word": "pressupostos", "gloss": "assumptions" },
+        { "word": "contestadas", "gloss": "challenged, disputed" },
+        { "word": "estante", "gloss": "bookcase" },
+        { "word": "alegue", "gloss": "claim, plead (as an excuse)" },
+        { "word": "se atreva", "gloss": "dares" },
+        { "word": "não se exalte", "gloss": "don't get worked up" },
+        { "word": "elogie", "gloss": "praise" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-05",
+      "title": "A casa da serra",
+      "subtitle": "The house in the hills",
+      "topic": "Home",
+      "symbol": "house.fill",
+      "paragraphs": [
+        "A casa foi vendida numa quinta-feira, às onze da manhã, num cartório de Cascais que cheirava a café requentado e a papel timbrado. Assinámos os três irmãos, um a seguir ao outro, por ordem de idade, como fazíamos tudo quando éramos pequenos. O comprador era um casal holandês muito simpático, que nos agradeceu com um entusiasmo que tivemos a delicadeza de não partilhar. Falaram de painéis solares, de uma piscina, de transformar a adega num estúdio de ioga. Nós acenámos com a cabeça, como se nos estivessem a descrever o tempo que faria no dia seguinte.",
+        "Era uma casa feia, convém dizê-lo. Uma casa de veraneio construída nos anos cinquenta por um avô sem gosto nenhum e com muito sentido prático, encaixada na encosta da serra de Sintra, sempre húmida, sempre a precisar de obras que nunca se faziam. No inverno, o nevoeiro entrava pelas frinchas das janelas e instalava-se nas salas como um parente velho que ninguém tinha coragem de mandar embora. Os lençóis nunca chegavam a secar. As paredes tinham manchas de bolor com formas que nós, em crianças, batizávamos: o Elefante, a Senhora de Chapéu, o Mapa de Espanha.",
+        "E no entanto foi ali que aprendi quase tudo o que sei. Aprendi a nadar no tanque da rega, a mentir aos adultos com convicção, a distinguir o canto do melro do canto do tordo, a perder ao xadrez sem chorar. Foi ali que a minha irmã mais velha me explicou, numa noite de agosto, como se faziam os bebés, com uma imprecisão científica que me perturbou durante anos. Foi ali que o meu pai, num dos raros momentos em que baixou a guarda, me confessou que tinha medo de envelhecer. Tinha quarenta e dois anos. Eu tinha nove e achei que ele já era velhíssimo.",
+        "As casas, dizem os vendedores, são só tijolos. É uma frase útil para quem vende e consoladora para quem compra, mas não é verdade. Uma casa é um arquivo, e as paredes guardam aquilo que nós, por cobardia ou por cansaço, deixámos de saber guardar. Ao vendê-la, não perdemos apenas os quartos e o jardim: perdemos o lugar onde as nossas memórias tinham a certeza de ser verdadeiras, porque havia sempre uma mancha na parede para as confirmar.",
+        "Ao sair do cartório, os três irmãos fomos almoçar juntos, coisa que não fazíamos há anos. Falámos pouco da casa. Falámos do Elefante, da Senhora de Chapéu, do Mapa de Espanha, e discutimos, com uma ferocidade que surpreendeu o empregado, qual de nós tinha batizado qual. Percebi então que a casa, afinal, não tinha sido vendida inteira. Uma parte ficou connosco, à mesa, no meio das travessas, a discutir como sempre discutiu."
+      ],
+      "english": [
+        [
+          "The house was sold on a Thursday, at eleven in the morning, in a notary's office in Cascais that smelled of reheated coffee and headed paper.",
+          "The three of us siblings signed, one after the other, in order of age, the way we did everything when we were little.",
+          "The buyers were a very pleasant Dutch couple, who thanked us with an enthusiasm we had the tact not to share.",
+          "They talked about solar panels, a swimming pool, turning the wine cellar into a yoga studio.",
+          "We nodded, as if they were describing tomorrow's weather."
+        ],
+        [
+          "It was an ugly house, it must be said.",
+          "A summer house built in the fifties by a grandfather with no taste whatsoever and a great deal of practical sense, wedged into the slope of the Sintra hills, always damp, always in need of repairs that were never done.",
+          "In winter, the fog came in through the cracks in the windows and settled into the rooms like an old relative nobody had the courage to send away.",
+          "The sheets never quite dried.",
+          "The walls had patches of mould in shapes that we, as children, gave names to: the Elephant, the Lady in the Hat, the Map of Spain."
+        ],
+        [
+          "And yet it was there that I learned almost everything I know.",
+          "I learned to swim in the irrigation tank, to lie to grown-ups with conviction, to tell the blackbird's song from the thrush's, to lose at chess without crying.",
+          "It was there that my older sister explained to me, one August night, how babies were made, with a scientific vagueness that disturbed me for years.",
+          "It was there that my father, in one of the rare moments when he let his guard down, confessed to me that he was afraid of growing old.",
+          "He was forty-two.",
+          "I was nine and thought he was already terribly old."
+        ],
+        [
+          "Houses, estate agents say, are just bricks.",
+          "It's a useful line for those selling and a comforting one for those buying, but it isn't true.",
+          "A house is an archive, and its walls keep what we, out of cowardice or tiredness, have forgotten how to keep.",
+          "In selling it, we didn't just lose the rooms and the garden: we lost the place where our memories could be sure they were true, because there was always a stain on the wall to confirm them."
+        ],
+        [
+          "Leaving the notary's, the three of us went to lunch together, something we hadn't done for years.",
+          "We talked little about the house.",
+          "We talked about the Elephant, the Lady in the Hat, the Map of Spain, and argued, with a ferocity that startled the waiter, over which of us had named which.",
+          "I realised then that the house, after all, hadn't been sold whole.",
+          "A part of it stayed with us, at the table, among the serving dishes, arguing as it always had."
+        ]
+      ],
+      "vocab": [
+        { "word": "cartório", "gloss": "notary's office" },
+        { "word": "requentado", "gloss": "reheated" },
+        { "word": "papel timbrado", "gloss": "headed paper" },
+        { "word": "veraneio", "gloss": "summer holidays (casa de veraneio: summer house)" },
+        { "word": "encaixada", "gloss": "wedged, fitted" },
+        { "word": "frinchas", "gloss": "cracks, chinks" },
+        { "word": "bolor", "gloss": "mould" },
+        { "word": "batizávamos", "gloss": "we named, christened" },
+        { "word": "tanque da rega", "gloss": "irrigation tank" },
+        { "word": "melro", "gloss": "blackbird" },
+        { "word": "tordo", "gloss": "thrush" },
+        { "word": "baixou a guarda", "gloss": "let his guard down" },
+        { "word": "cobardia", "gloss": "cowardice" },
+        { "word": "travessas", "gloss": "serving dishes, platters" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-06",
+      "title": "Elegia ao pastel de nata",
+      "subtitle": "Elegy for the custard tart",
+      "topic": "Food & drink",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Escrevo estas linhas em memória do pastel de nata, que faleceu há alguns anos em Lisboa, vítima de uma doença prolongada chamada sucesso. Não morreu de repente. Foi definhando aos poucos, à medida que a cidade se enchia de lojas com nomes em inglês e montras iluminadas como farmácias, onde pastéis em série, todos rigorosamente iguais, se alinham em tabuleiros como soldados à espera de uma guerra que nunca chega. Deixa uma família numerosa de sucedâneos: o pastel de nata vegano, o pastel de nata com chocolate, o pastel de nata «gourmet», que custa três vezes mais e sabe exatamente ao mesmo.",
+        "Conheci-o bem, em vida. Era um bolo modesto, sem pretensões, que se comia de pé ao balcão de um café de bairro, de manhã, acompanhado de uma bica e de uma conversa sobre futebol. Tinha a massa estaladiça, o recheio ainda morno e aquela crosta ligeiramente queimada que os entendidos observavam com respeito quase religioso. Ninguém o fotografava. Ninguém escrevia sobre ele. Ninguém lhe dedicava filas de quarenta minutos. Era feliz, julgo eu, na sua obscuridade.",
+        "A fama apanhou-o desprevenido. Primeiro vieram os guias de viagem, depois os programas de culinária, depois as redes sociais, onde passou a aparecer em fotografias de luz dourada, segurado por mãos de unhas pintadas diante de azulejos estrategicamente desfocados. Exportaram-no para Tóquio, para Nova Iorque, para Macau, onde, verdade se diga, já tinha família. Inventaram-lhe um passado mítico, segredos conventuais, receitas guardadas em cofres. O pobre pastel, que nunca tinha pedido nada a ninguém, viu-se de repente obrigado a representar uma nação inteira.",
+        "Não culpo os turistas, que fazem o que sempre fizeram os turistas: procurar a autenticidade e destruí-la no mesmo gesto, com a maior das boas intenções. Também não culpo os comerciantes, que fazem o que sempre fizeram os comerciantes. Culpo-nos a nós, que deixámos de ir ao café do bairro porque o café do bairro fechou, e não demos por isso a tempo de protestar.",
+        "Dizem-me que ainda há, numa rua de Lisboa que não revelarei nem sob tortura, uma pastelaria onde o pastel de nata sobrevive escondido, como os primeiros cristãos nas catacumbas. Vou lá às terças-feiras de manhã, discretamente, de chapéu e óculos escuros. Peço um, como-o de pé, ao balcão, e não o fotografo. É a minha forma de resistência. Peço ao leitor que, se descobrir o sítio, faça o mesmo. E que, sobretudo, não o diga a ninguém."
+      ],
+      "english": [
+        [
+          "I write these lines in memory of the pastel de nata, which passed away some years ago in Lisbon, after a long illness called success.",
+          "It didn't die suddenly.",
+          "It wasted away little by little, as the city filled with shops with English names and windows lit up like pharmacies, where mass-produced tarts, all exactly the same, line up on trays like soldiers waiting for a war that never comes.",
+          "It leaves a large family of imitations: the vegan custard tart, the chocolate custard tart, the “gourmet” custard tart, which costs three times as much and tastes exactly the same."
+        ],
+        [
+          "I knew it well, in life.",
+          "It was a modest pastry, without pretensions, eaten standing at the counter of a neighbourhood café, in the morning, with an espresso and a conversation about football.",
+          "It had crisp pastry, a filling still warm and that slightly burnt crust which connoisseurs regarded with almost religious respect.",
+          "Nobody photographed it.",
+          "Nobody wrote about it.",
+          "Nobody queued forty minutes for it.",
+          "It was happy, I believe, in its obscurity."
+        ],
+        [
+          "Fame caught it off guard.",
+          "First came the travel guides, then the cookery programmes, then social media, where it began to appear in golden-lit photos, held by hands with painted nails in front of strategically blurred tiles.",
+          "They exported it to Tokyo, to New York, to Macau, where, truth be told, it already had family.",
+          "They invented a mythical past for it, convent secrets, recipes kept in safes.",
+          "The poor tart, which had never asked anyone for anything, suddenly found itself obliged to represent an entire nation."
+        ],
+        [
+          "I don't blame the tourists, who do what tourists have always done: seek out authenticity and destroy it in the same gesture, with the best of intentions.",
+          "Nor do I blame the shopkeepers, who do what shopkeepers have always done.",
+          "I blame us, who stopped going to the neighbourhood café because the neighbourhood café closed, and didn't notice in time to protest."
+        ],
+        [
+          "I'm told there is still, on a Lisbon street I won't reveal even under torture, a pastry shop where the custard tart survives in hiding, like the early Christians in the catacombs.",
+          "I go there on Tuesday mornings, discreetly, in a hat and dark glasses.",
+          "I order one, eat it standing at the counter, and don't photograph it.",
+          "It's my form of resistance.",
+          "I ask the reader, should you discover the place, to do the same.",
+          "And, above all, not to tell anyone."
+        ]
+      ],
+      "vocab": [
+        { "word": "faleceu", "gloss": "passed away" },
+        { "word": "definhando", "gloss": "wasting away" },
+        { "word": "montras", "gloss": "shop windows" },
+        { "word": "tabuleiros", "gloss": "trays" },
+        { "word": "sucedâneos", "gloss": "substitutes, imitations" },
+        { "word": "estaladiça", "gloss": "crisp, crunchy" },
+        { "word": "morno", "gloss": "lukewarm, warm" },
+        { "word": "obscuridade", "gloss": "obscurity" },
+        { "word": "desprevenido", "gloss": "off guard, unprepared" },
+        { "word": "desfocados", "gloss": "blurred, out of focus" },
+        { "word": "verdade se diga", "gloss": "truth be told" },
+        { "word": "conventuais", "gloss": "from convents" },
+        { "word": "demos por isso", "gloss": "we noticed (it)" },
+        { "word": "catacumbas", "gloss": "catacombs" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-07",
+      "title": "O cartógrafo",
+      "subtitle": "The mapmaker",
+      "topic": "History",
+      "symbol": "map.fill",
+      "paragraphs": [
+        "Chamava-se Gil Afonso e desenhava costas que nunca tinha visto. Era esse, no Algarve de meados do século quinze, o mais estranho dos ofícios: sentar-se numa sala caiada, de frente para o mar, a traçar com tinta de noz-de-galha os contornos de terras que outros homens, magros e queimados pelo sol, descreviam ao regressar das viagens. Os pilotos chegavam a Lagos com os olhos ainda cheios de horizonte e despejavam-lhe em cima, de uma vez, cabos, baías, rios, ilhas, bancos de areia, nomes de santos. Ele ouvia, perguntava, desconfiava, e só depois desenhava.",
+        "Gil Afonso tinha uma regra, que os colegas consideravam uma excentricidade e os superiores uma insolência: não desenhava o que não sabia. Onde as informações acabavam, a sua linha de costa acabava também, bruscamente, e o pergaminho ficava em branco. Os outros cartógrafos da época preenchiam esses vazios com uma imaginação desembaraçada: ilhas lendárias, reinos de ouro, serpentes marinhas de escamas minuciosamente coloridas. Os mapas deles eram mais bonitos. Os dele eram mais úteis, embora ninguém o admitisse em voz alta.",
+        "Um dia, um fidalgo da casa do Infante veio encomendar-lhe uma carta para oferecer a um príncipe estrangeiro. Queria-a sumptuosa, convincente, cheia de terras prometidas, porque o objetivo, explicou com um sorriso que dispensava pormenores, não era navegar, mas impressionar. Gil Afonso ouviu-o com a cortesia devida a um homem que podia mandá-lo prender. Depois trabalhou três meses na encomenda. Quando a entregou, o fidalgo desenrolou-a e ficou muito tempo calado. A costa de África descia, rigorosa, até ao último cabo conhecido. A seguir, havia apenas pergaminho nu e, ao centro, numa caligrafia pequena e firme, uma única frase: «Daqui em diante, ainda não sabemos.»",
+        "Não se sabe o que aconteceu ao cartógrafo. Há quem diga que foi despedido, há quem diga que morreu pobre numa aldeia do Barlavento, há quem jure que embarcou numa caravela para ver com os próprios olhos o que não quisera inventar. A carta, essa, sobreviveu, por uma dessas ironias de que a história tanto gosta. Os mapas sumptuosos dos colegas perderam-se ou apodreceram em bibliotecas de príncipes. O pergaminho meio vazio de Gil Afonso foi copiado, emendado e acrescentado durante décadas por pilotos que, viagem após viagem, foram preenchendo o branco com aquilo que realmente encontravam.",
+        "Talvez seja essa a mais rara das coragens: a de deixar em branco o que não se conhece, num mundo que paga tão bem a quem o preenche com certezas inventadas."
+      ],
+      "english": [
+        [
+          "His name was Gil Afonso and he drew coastlines he had never seen.",
+          "That was, in the Algarve of the mid-fifteenth century, the strangest of trades: to sit in a whitewashed room facing the sea, tracing in oak-gall ink the outlines of lands that other men, thin and burnt by the sun, described on returning from their voyages.",
+          "The pilots arrived in Lagos with their eyes still full of horizon and poured out on him, all at once, capes, bays, rivers, islands, sandbanks, names of saints.",
+          "He listened, asked questions, doubted, and only then did he draw."
+        ],
+        [
+          "Gil Afonso had a rule, which his colleagues considered an eccentricity and his superiors an insolence: he did not draw what he did not know.",
+          "Where the information ended, his coastline ended too, abruptly, and the parchment was left blank.",
+          "The other mapmakers of the time filled those voids with uninhibited imagination: legendary islands, kingdoms of gold, sea serpents with meticulously coloured scales.",
+          "Their maps were more beautiful.",
+          "His were more useful, although nobody admitted it aloud."
+        ],
+        [
+          "One day, a nobleman of the Infante's household came to commission a chart from him, to give to a foreign prince.",
+          "He wanted it sumptuous, convincing, full of promised lands, because the aim, he explained with a smile that needed no elaboration, was not to navigate but to impress.",
+          "Gil Afonso listened to him with the courtesy due to a man who could have him arrested.",
+          "Then he worked on the commission for three months.",
+          "When he delivered it, the nobleman unrolled it and stayed silent for a long time.",
+          "The coast of Africa ran down, precise, to the last known cape.",
+          "After that, there was only bare parchment and, in the middle, in a small, firm hand, a single sentence: “From here on, we do not yet know.”"
+        ],
+        [
+          "Nobody knows what became of the mapmaker.",
+          "Some say he was dismissed, some say he died poor in a village in the western Algarve, some swear he sailed on a caravel to see with his own eyes what he had refused to invent.",
+          "The chart, for its part, survived, by one of those ironies history is so fond of.",
+          "His colleagues' sumptuous maps were lost or rotted in princes' libraries.",
+          "Gil Afonso's half-empty parchment was copied, corrected and added to for decades by pilots who, voyage after voyage, gradually filled in the blank with what they actually found."
+        ],
+        [
+          "Perhaps that is the rarest kind of courage: to leave blank what one does not know, in a world that pays so well those who fill it with invented certainties."
+        ]
+      ],
+      "vocab": [
+        { "word": "caiada", "gloss": "whitewashed" },
+        { "word": "noz-de-galha", "gloss": "oak gall (used to make ink)" },
+        { "word": "despejavam-lhe em cima", "gloss": "poured out on him" },
+        { "word": "excentricidade", "gloss": "eccentricity" },
+        { "word": "insolência", "gloss": "insolence" },
+        { "word": "pergaminho", "gloss": "parchment" },
+        { "word": "desembaraçada", "gloss": "uninhibited, free and easy" },
+        { "word": "escamas", "gloss": "scales" },
+        { "word": "fidalgo", "gloss": "nobleman" },
+        { "word": "sumptuosa", "gloss": "sumptuous, lavish" },
+        { "word": "dispensava pormenores", "gloss": "needed no elaboration" },
+        { "word": "mandá-lo prender", "gloss": "have him arrested" },
+        { "word": "apodreceram", "gloss": "rotted" },
+        { "word": "emendado", "gloss": "corrected, amended" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-08",
+      "title": "Breve tratado do desenrascanço",
+      "subtitle": "A short treatise on muddling through",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Os estrangeiros que se instalam em Portugal acabam todos, mais tarde ou mais cedo, por aprender a palavra «desenrascanço», e acabam todos por pronunciá-la mal. Não faz mal. O importante não é a pronúncia, é a epifania que a acompanha: o momento em que percebem que neste país quase nada funciona como previsto e, no entanto, quase tudo acaba por se resolver. O comboio avaria, mas alguém conhece um primo com uma carrinha. A peça do frigorífico está esgotada, mas o senhor da drogaria fabrica uma com um bocado de arame e muita fé. O casamento fica sem fotógrafo, mas o tio Zé, que tem uma máquina «muito boa», oferece-se para o substituir, com resultados que a família discutirá durante gerações.",
+        "Somos, gostamos de dizer, o povo do desenrascanço, e dizemo-lo com aquele orgulho ambíguo que reservamos para os defeitos que suspeitamos serem virtudes. Há nisso uma verdade incontestável. Séculos de escassez, de burocracia e de improviso ensinaram-nos a não confiar demasiado nos planos e a confiar muito no engenho. Um português perante um problema imprevisto não entra em pânico; entra em modo criativo, com uma serenidade que um engenheiro suíço consideraria clinicamente preocupante.",
+        "Mas convém não romantizar. O desenrascanço é, em grande medida, o filho bastardo da falta de planeamento. Se o comboio não avariasse, não precisaríamos do primo com a carrinha. Se as instituições funcionassem, não precisaríamos de conhecer «alguém que conhece alguém». Há uma linha muito fina entre a engenhosidade e a desculpa, e nós atravessamo-la diariamente, para trás e para a frente, com a ligeireza de quem passa a fronteira em Elvas para ir comprar caramelos a Badajoz.",
+        "Talvez a solução, se é que há solução, seja aprender a planear sem perder a capacidade de improvisar. Fazer como os bons músicos de jazz, que estudam escalas durante anos precisamente para poderem, no momento certo, esquecê-las. Desconfio, porém, que nunca lá chegaremos. Planear exige uma fé no futuro que a nossa história raramente nos deu motivos para ter. O desenrascanço, pelo contrário, só exige uma fé no presente, e nisso, admitamos, somos campeões mundiais.",
+        "Escrevo esta crónica, aliás, num portátil emprestado, porque o meu avariou ontem à noite. O técnico só tem a peça daqui a três semanas. Felizmente, a vizinha do lado tem um sobrinho."
+      ],
+      "english": [
+        [
+          "Foreigners who settle in Portugal all end up, sooner or later, learning the word “desenrascanço”, and they all end up pronouncing it badly.",
+          "It doesn't matter.",
+          "What matters isn't the pronunciation, it's the epiphany that comes with it: the moment they realise that in this country almost nothing works as planned and yet almost everything ends up sorted out.",
+          "The train breaks down, but someone knows a cousin with a van.",
+          "The part for the fridge is out of stock, but the man at the hardware shop makes one out of a bit of wire and a lot of faith.",
+          "The wedding is left without a photographer, but Uncle Zé, who has a “very good” camera, offers to stand in, with results the family will argue about for generations."
+        ],
+        [
+          "We are, we like to say, the people of muddling through, and we say it with that ambiguous pride we reserve for the defects we suspect are virtues.",
+          "There is an undeniable truth in this.",
+          "Centuries of scarcity, bureaucracy and improvisation have taught us not to trust plans too much and to trust ingenuity a great deal.",
+          "A Portuguese person faced with an unexpected problem doesn't panic; they go into creative mode, with a serenity a Swiss engineer would consider clinically worrying."
+        ],
+        [
+          "But it's best not to romanticise it.",
+          "Muddling through is, to a large extent, the bastard child of a lack of planning.",
+          "If the train didn't break down, we wouldn't need the cousin with the van.",
+          "If institutions worked, we wouldn't need to know “someone who knows someone”.",
+          "There is a very fine line between ingenuity and excuse, and we cross it daily, back and forth, with the ease of someone crossing the border at Elvas to buy sweets in Badajoz."
+        ],
+        [
+          "Perhaps the solution, if there is one, is to learn to plan without losing the ability to improvise.",
+          "To do as good jazz musicians do, who study scales for years precisely so that, at the right moment, they can forget them.",
+          "I suspect, however, that we'll never get there.",
+          "Planning requires a faith in the future that our history has rarely given us reason to have.",
+          "Muddling through, on the other hand, requires only a faith in the present, and at that, let's admit it, we are world champions."
+        ],
+        [
+          "I am writing this column, as it happens, on a borrowed laptop, because mine broke down last night.",
+          "The repairman won't have the part for three weeks.",
+          "Fortunately, the woman next door has a nephew."
+        ]
+      ],
+      "vocab": [
+        { "word": "desenrascanço", "gloss": "the art of improvising a way out, muddling through" },
+        { "word": "epifania", "gloss": "epiphany" },
+        { "word": "avaria", "gloss": "breaks down" },
+        { "word": "esgotada", "gloss": "out of stock, sold out" },
+        { "word": "drogaria", "gloss": "hardware and household shop" },
+        { "word": "arame", "gloss": "wire" },
+        { "word": "ambíguo", "gloss": "ambiguous" },
+        { "word": "incontestável", "gloss": "undeniable" },
+        { "word": "engenho", "gloss": "ingenuity" },
+        { "word": "imprevisto", "gloss": "unforeseen" },
+        { "word": "bastardo", "gloss": "illegitimate, bastard" },
+        { "word": "ligeireza", "gloss": "ease, lightness" },
+        { "word": "portátil", "gloss": "laptop" },
+        { "word": "emprestado", "gloss": "borrowed" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-09",
+      "title": "O meu nome",
+      "subtitle": "My name",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "O meu nome é Mamadu Baldé, e em Lisboa já me chamaram quase tudo. Chamaram-me Mamadou, com o «ou» dos franceses, porque a senhora do centro de emprego achou que todos os africanos falam francês. Chamaram-me Mamede, num consultório médico, durante dois anos, porque a enfermeira tinha decidido que era assim e eu não tive coragem de a contrariar. Chamaram-me «amigo», «chefe», «ó tu», e uma vez, num estaleiro de obras em Odivelas, um encarregado chamou-me «o Bob Marley» durante seis meses, com a naturalidade de quem diz bom dia.",
+        "Os nomes, na minha terra, não são etiquetas. São heranças. O meu foi-me dado pelo meu avô, que era um homem de muita reza em Bafatá e que o escolheu depois de três noites de oração, porque queria que o neto tivesse um nome que o protegesse nas viagens. Quando a minha mãe me chamava, do outro lado do quintal, a palavra atravessava o ar como uma corda que me puxava para casa. Ouvir o meu nome mal dito é como ouvir uma canção de que se gosta tocada num piano desafinado: reconhece-se a melodia, mas dói em cada nota errada.",
+        "Não me interpretem mal. Gosto de Portugal, e gosto do português, que é também a minha língua, embora em Bissau o falemos com outro sal e outro ritmo, misturado com o crioulo que é a língua da nossa casa. Foi em português que aprendi a ler, que li os poetas que me fizeram querer escrever, que escrevi a primeira carta de amor à mulher com quem casei. Por isso me espanta, às vezes, que a mesma língua possa servir para me acolher e para me apagar, conforme a boca que a usa.",
+        "Há uns meses, a minha filha, que nasceu na Amadora e fala com o sotaque de Lisboa, chegou da escola revoltada. A professora nova tinha-lhe chamado Fátima em vez de Fatumata, e os colegas tinham-se rido. Perguntei-lhe o que tinha feito. «Corrigi-a», disse ela, com a calma terrível dos onze anos. «Disse-lhe que Fátima é uma santa portuguesa e que eu sou uma pessoa da Guiné e de Portugal, e que tenho nome próprio.» A professora, segundo ela, pediu desculpa e escreveu o nome no quadro, com todas as letras.",
+        "Nessa noite, não consegui dormir. Pensei em todas as vezes em que deixei que me chamassem Mamede para não incomodar ninguém, e percebi que a minha filha tinha feito, aos onze anos, aquilo que eu nunca me atrevera a fazer aos quarenta. Talvez seja isso, afinal, a integração: não é aprendermos a responder pelo nome que nos dão, mas ensinarmos os outros a dizer o nosso."
+      ],
+      "english": [
+        [
+          "My name is Mamadu Baldé, and in Lisbon I've been called almost everything.",
+          "They've called me Mamadou, with the French “ou”, because the woman at the job centre thought all Africans speak French.",
+          "They called me Mamede, at a doctor's surgery, for two years, because the nurse had decided that was my name and I didn't have the courage to contradict her.",
+          "They've called me “mate”, “boss”, “hey you”, and once, on a building site in Odivelas, a foreman called me “Bob Marley” for six months, as naturally as saying good morning."
+        ],
+        [
+          "Names, where I come from, are not labels.",
+          "They are inheritances.",
+          "Mine was given to me by my grandfather, a deeply devout man in Bafatá, who chose it after three nights of prayer, because he wanted his grandson to have a name that would protect him on his travels.",
+          "When my mother called me from the other side of the yard, the word crossed the air like a rope pulling me home.",
+          "Hearing my name said wrong is like hearing a song you love played on an out-of-tune piano: you recognise the melody, but every wrong note hurts."
+        ],
+        [
+          "Don't get me wrong.",
+          "I like Portugal, and I like Portuguese, which is my language too, although in Bissau we speak it with a different flavour and a different rhythm, mixed with the Creole that is the language of our home.",
+          "It was in Portuguese that I learned to read, that I read the poets who made me want to write, that I wrote my first love letter to the woman I married.",
+          "That's why it amazes me, sometimes, that the same language can serve to welcome me and to erase me, depending on the mouth that uses it."
+        ],
+        [
+          "A few months ago, my daughter, who was born in Amadora and speaks with a Lisbon accent, came home from school indignant.",
+          "The new teacher had called her Fátima instead of Fatumata, and her classmates had laughed.",
+          "I asked her what she had done.",
+          "“I corrected her,” she said, with the terrible calm of an eleven-year-old.",
+          "“I told her that Fátima is a Portuguese saint and that I'm a person from Guinea and from Portugal, and that I have a name of my own.”",
+          "The teacher, according to her, apologised and wrote the name on the board, letter by letter."
+        ],
+        [
+          "That night, I couldn't sleep.",
+          "I thought of all the times I let them call me Mamede so as not to bother anyone, and I realised that my daughter had done, at eleven, what I had never dared to do at forty.",
+          "Perhaps that's what integration is, in the end: not learning to answer to the name we are given, but teaching others to say ours."
+        ]
+      ],
+      "vocab": [
+        { "word": "contrariar", "gloss": "to contradict" },
+        { "word": "estaleiro de obras", "gloss": "building site" },
+        { "word": "encarregado", "gloss": "foreman" },
+        { "word": "etiquetas", "gloss": "labels" },
+        { "word": "heranças", "gloss": "inheritances" },
+        { "word": "reza", "gloss": "prayer" },
+        { "word": "quintal", "gloss": "yard, back garden" },
+        { "word": "desafinado", "gloss": "out of tune" },
+        { "word": "sal", "gloss": "flavour, spice (literally salt)" },
+        { "word": "espanta", "gloss": "amazes, astonishes" },
+        { "word": "acolher", "gloss": "to welcome" },
+        { "word": "apagar", "gloss": "to erase" },
+        { "word": "revoltada", "gloss": "indignant, outraged" },
+        { "word": "atrevera", "gloss": "had dared" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-10",
+      "title": "Crónica de agosto",
+      "subtitle": "An August column",
+      "topic": "Travel",
+      "symbol": "sun.max.fill",
+      "paragraphs": [
+        "Em agosto, Portugal muda-se para o Algarve. Não todo, evidentemente: ficam em Lisboa os turistas, os ministros que não conseguiram fugir e os jornalistas que têm de escrever crónicas sobre os que fugiram. Mas a parte do país que tem carro, cunhado com apartamento ou uma tia em Quarteira desce em massa pela A2, num êxodo que, visto do ar, deve lembrar uma migração de gnus, se os gnus levassem geleiras, pranchas de bodyboard e um sogro a resmungar no banco de trás.",
+        "A chegada é sempre épica. As portagens transformam-se num campo de batalha onde se testam, numa só tarde, a resistência dos travões, a paciência dos casais e a qualidade dos ares condicionados nacionais. Quem chega ao destino ao fim de sete horas de viagem para três horas de autoestrada descobre, comovido, que o apartamento alugado «a cinco minutos da praia» fica de facto a cinco minutos da praia, desde que se vá de helicóptero.",
+        "Na praia, o português de férias revela uma capacidade de ocupação territorial que faria inveja a qualquer império. Chega às oito da manhã, crava o chapéu de sol na areia com a solenidade de quem planta uma bandeira em terra conquistada, e delimita a sua parcela com toalhas, cadeiras, geleiras e uma criança de três anos estrategicamente posicionada. O vizinho de areal, chegado às oito e cinco, é tratado como um invasor estrangeiro. Às duas da tarde, abre-se a geleira, e o areal enche-se de um cheiro a panados, a salada de polvo e a melancia morna que nenhum restaurante com estrela Michelin conseguiu ainda reproduzir.",
+        "À noite, toda a gente vai à mesma marina, comer o mesmo gelado, ver as mesmas lojas que vendem os mesmos chapéus de palha fabricados no mesmo país distante. Encontra-se lá, invariavelmente, o colega de trabalho de quem se fugiu durante onze meses, de calções e chinelos, com uma alegria tão sincera em nos ver que não temos coragem de fingir que não o reconhecemos. Combina-se um jantar. O jantar dura até às duas da manhã. Fala-se de trabalho.",
+        "E no fim de agosto, de regresso, queimados, endividados e mais cansados do que quando partimos, juramos todos que para o ano vamos para o interior, para o sossego, para uma aldeia sem marina e sem portagens. Não vamos. No próximo agosto, lá estaremos outra vez, na A2, a resmungar com o calor, felizes como só sabem ser felizes os povos que se queixam de tudo aquilo que não trocariam por nada."
+      ],
+      "english": [
+        [
+          "In August, Portugal moves to the Algarve.",
+          "Not all of it, obviously: left behind in Lisbon are the tourists, the ministers who couldn't get away and the journalists who have to write columns about those who did.",
+          "But the part of the country that has a car, a brother-in-law with a flat or an aunt in Quarteira heads south en masse down the A2, in an exodus that, seen from the air, must look like a wildebeest migration, if wildebeest took cool boxes, bodyboards and a father-in-law grumbling in the back seat."
+        ],
+        [
+          "The arrival is always epic.",
+          "The toll booths become a battlefield where, in a single afternoon, the endurance of brakes, the patience of couples and the quality of the nation's air conditioning are all put to the test.",
+          "Those who reach their destination after seven hours on the road for three hours of motorway discover, moved, that the flat rented “five minutes from the beach” is indeed five minutes from the beach, provided you go by helicopter."
+        ],
+        [
+          "On the beach, the Portuguese holidaymaker displays a capacity for territorial occupation that any empire would envy.",
+          "He arrives at eight in the morning, drives his parasol into the sand with the solemnity of someone planting a flag on conquered land, and marks out his plot with towels, chairs, cool boxes and a strategically positioned three-year-old.",
+          "His beach neighbour, arriving at five past eight, is treated as a foreign invader.",
+          "At two in the afternoon, the cool box is opened, and the beach fills with a smell of breaded cutlets, octopus salad and warm watermelon that no Michelin-starred restaurant has yet managed to reproduce."
+        ],
+        [
+          "In the evening, everyone goes to the same marina, to eat the same ice cream, to look at the same shops selling the same straw hats made in the same distant country.",
+          "There, invariably, you meet the colleague you've been avoiding for eleven months, in shorts and flip-flops, so genuinely delighted to see you that you haven't the heart to pretend you don't recognise him.",
+          "A dinner is arranged.",
+          "The dinner lasts until two in the morning.",
+          "You talk about work."
+        ],
+        [
+          "And at the end of August, on the way back, sunburnt, in debt and more tired than when we left, we all swear that next year we'll go inland, to peace and quiet, to a village without a marina or tolls.",
+          "We won't.",
+          "Next August, there we'll be again, on the A2, grumbling about the heat, happy in the way only peoples can be who complain about everything they wouldn't swap for anything."
+        ]
+      ],
+      "vocab": [
+        { "word": "cunhado", "gloss": "brother-in-law" },
+        { "word": "êxodo", "gloss": "exodus" },
+        { "word": "gnus", "gloss": "wildebeest" },
+        { "word": "geleiras", "gloss": "cool boxes" },
+        { "word": "travões", "gloss": "brakes" },
+        { "word": "comovido", "gloss": "moved, touched" },
+        { "word": "crava", "gloss": "drives in, plants firmly" },
+        { "word": "delimita", "gloss": "marks out" },
+        { "word": "parcela", "gloss": "plot, parcel of land" },
+        { "word": "areal", "gloss": "stretch of beach" },
+        { "word": "panados", "gloss": "breaded cutlets" },
+        { "word": "chinelos", "gloss": "flip-flops, slippers" },
+        { "word": "endividados", "gloss": "in debt" },
+        { "word": "sossego", "gloss": "peace and quiet" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-11",
+      "title": "O coração inacabado",
+      "subtitle": "The unfinished heart",
+      "topic": "Art",
+      "symbol": "sparkles",
+      "paragraphs": [
+        "Em Gondomar, nos arredores do Porto, ainda há quem trabalhe o ouro como se trabalha a renda: com paciência, com lupa e com uma espécie de fé. A filigrana, explica-me o mestre Aurélio, não é um adorno, é uma arquitetura. Fios de ouro mais finos do que um cabelo são torcidos, achatados e soldados uns aos outros até formarem corações, laços, brincos à rainha, peças tão leves que parece que vão levantar voo. Ele faz isto há sessenta e dois anos, numa oficina nas traseiras da casa, debaixo de uma lâmpada que, garante, nunca se apagou durante o dia.",
+        "O mestre Aurélio tem oitenta e seis anos e as mãos mais firmes que já vi. As costas, essas, curvaram-se há muito tempo sobre a bancada, numa vénia permanente ao ofício. Fala devagar, com o sotaque cerrado do Douro, e tem o hábito desconcertante de responder às perguntas com outras perguntas. Quando lhe pergunto há quanto tempo não tira férias, quer saber o que é que eu faria com elas. Quando lhe pergunto se tem aprendizes, pergunta-me se eu conheço algum jovem que queira passar dez anos a aprender a torcer arame.",
+        "Conheceu o ouro aos doze anos, quando o pai o deixou à porta da oficina de um ourives com uma marmita e uma recomendação: «Faz o que te mandarem e não toques em nada.» Passou os primeiros dois anos a varrer o chão, que na ourivesaria é tarefa de responsabilidade, porque o pó da bancada contém ouro, e o ouro, uma vez varrido, é fundido e reaproveitado. «Aprendi a respeitar o ouro antes de lhe tocar», diz. «Hoje os rapazes querem tocar antes de respeitar.»",
+        "No canto da oficina, numa caixa de cartão forrada a veludo, guarda um coração de filigrana inacabado. Começou-o em 1974, para oferecer à mulher no aniversário de casamento, e nunca o terminou. A mulher morreu em 2019 e o coração continua ali, com um dos lóbulos completo e o outro reduzido a um esqueleto de fios dourados à espera de enchimento. Pergunto-lhe porque é que, em cinquenta anos, nunca o acabou. Desta vez, não responde com uma pergunta.",
+        "«Enquanto não o acabasse, ela tinha de ficar à espera dele», diz, sem levantar os olhos da lupa. «Agora já não sei se o acabo para ela ou se o deixo assim, para eu ter ainda alguma coisa por fazer.» Pega no coração com a pinça, olha-o contra a luz e volta a guardá-lo na caixa. Depois retoma o trabalho que tinha entre mãos, uma encomenda de brincos para uma noiva de Viana, e o silêncio da oficina volta a encher-se do pequeno ruído do fio de ouro a ser torcido, como o de alguém a pensar."
+      ],
+      "english": [
+        [
+          "In Gondomar, on the outskirts of Porto, there are still people who work gold the way lace is worked: with patience, with a magnifying glass and with a kind of faith.",
+          "Filigree, Master Aurélio explains to me, is not ornament, it's architecture.",
+          "Threads of gold finer than a hair are twisted, flattened and soldered together until they form hearts, bows, queen's earrings, pieces so light they look as though they might take flight.",
+          "He has been doing this for sixty-two years, in a workshop at the back of his house, under a lamp which, he insists, has never been switched off during the day."
+        ],
+        [
+          "Master Aurélio is eighty-six and has the steadiest hands I have ever seen.",
+          "His back, on the other hand, bent long ago over the workbench, in a permanent bow to his craft.",
+          "He speaks slowly, with the broad accent of the Douro, and has the disconcerting habit of answering questions with other questions.",
+          "When I ask him how long it's been since he took a holiday, he wants to know what I would do with one.",
+          "When I ask him if he has apprentices, he asks me whether I know any young person who wants to spend ten years learning to twist wire."
+        ],
+        [
+          "He met gold at twelve, when his father left him at the door of a goldsmith's workshop with a lunchbox and a piece of advice: “Do what they tell you and don't touch anything.”",
+          "He spent the first two years sweeping the floor, which in goldsmithing is a responsible task, because the dust from the bench contains gold, and the gold, once swept up, is melted down and reused.",
+          "“I learned to respect gold before I touched it,” he says.",
+          "“Nowadays the lads want to touch before they respect.”"
+        ],
+        [
+          "In the corner of the workshop, in a cardboard box lined with velvet, he keeps an unfinished filigree heart.",
+          "He began it in 1974, to give to his wife on their wedding anniversary, and never finished it.",
+          "His wife died in 2019 and the heart is still there, with one of its lobes complete and the other reduced to a skeleton of golden threads waiting to be filled.",
+          "I ask him why, in fifty years, he never finished it.",
+          "This time, he doesn't answer with a question."
+        ],
+        [
+          "“As long as I hadn't finished it, she had to wait for it,” he says, without raising his eyes from the magnifying glass.",
+          "“Now I don't know whether to finish it for her or leave it as it is, so that I still have something left to do.”",
+          "He picks up the heart with his tweezers, holds it up to the light and puts it back in the box.",
+          "Then he goes back to the work he had in hand, an order of earrings for a bride from Viana, and the silence of the workshop fills again with the small sound of gold thread being twisted, like the sound of someone thinking."
+        ]
+      ],
+      "vocab": [
+        { "word": "renda", "gloss": "lace" },
+        { "word": "filigrana", "gloss": "filigree" },
+        { "word": "torcidos", "gloss": "twisted" },
+        { "word": "achatados", "gloss": "flattened" },
+        { "word": "soldados", "gloss": "soldered" },
+        { "word": "brincos à rainha", "gloss": "traditional ornate drop earrings from the Minho" },
+        { "word": "traseiras", "gloss": "back (of a building)" },
+        { "word": "bancada", "gloss": "workbench" },
+        { "word": "desconcertante", "gloss": "disconcerting" },
+        { "word": "ourives", "gloss": "goldsmith" },
+        { "word": "varrer", "gloss": "sweeping" },
+        { "word": "fundido", "gloss": "melted down" },
+        { "word": "forrada a veludo", "gloss": "lined with velvet" },
+        { "word": "pinça", "gloss": "tweezers" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-12",
+      "title": "Cartas que não mandei",
+      "subtitle": "Letters I never sent",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Primeira carta, outubro. Conheci-te nas escadas monumentais, a subir quando eu descia, e tu deixaste cair um livro que eu apanhei com uma galanteria de que ainda me envergonho. Era um tratado de Direito Administrativo, o que não é propriamente o início de um romance. Disseste obrigada sem olhar para mim. Eu passei o resto do dia a reler mentalmente essa palavra, como se tivesse várias camadas de sentido, todas favoráveis. Não te mando esta carta porque não sei o teu nome, nem a tua morada, nem se a palavra obrigada, no teu dicionário, quer dizer outra coisa que não obrigada.",
+        "Segunda carta, dezembro. Descobri que te chamas Leonor, que és de Viseu, que estás no segundo ano e que bebes o café sem açúcar, o que me pareceu uma demonstração de caráter. Descobri tudo isto sem te perguntar nada, com uma diligência de detetive que, se fosse aplicada aos meus estudos, já me teria valido uma bolsa de mérito. Ontem, na biblioteca, sentaste-te na mesa em frente. Durante três horas, li a mesma página. Não te mando esta carta porque seria a confissão de um crime menor, e eu sou estudante de Direito: sei que tudo o que eu disser pode ser usado contra mim.",
+        "Terceira carta, março. Falámos. Foi numa noite de serenata, nas escadas da Sé Velha, e tu estavas ao meu lado por acaso, ou pelo menos foi isso que eu decidi acreditar. Disseste que o fado de Coimbra te parecia demasiado triste para uma cidade com tantos estudantes. Eu disse que a tristeza era a maneira que os estudantes tinham de parecer mais velhos. Riste-te. Foi a melhor coisa que alguma vez me aconteceu, e eu já fui a um Benfica-Porto com o meu avô. Não te mando esta carta porque, pela primeira vez, tenho medo de estragar alguma coisa.",
+        "Quarta carta, junho. Vais-te embora. Acabaste o curso, vais fazer o estágio em Lisboa, e disseste-mo ontem, nas escadas monumentais, no mesmo degrau onde deixaste cair o livro, sem saberes que era o mesmo degrau. Eu disse que Lisboa era uma cidade fantástica, com uma convicção que nenhum advogado de defesa conseguiria fingir. Tu disseste que eu podia ir visitar-te. Eu disse que sim, claro, um dia. Não te mando esta carta, como não te mandei as outras, porque continuo a ser o mesmo idiota que apanhou o livro e não soube dizer mais nada.",
+        "Quinta carta, julho, escrita no Intercidades, algures entre Coimbra-B e Santa Apolónia. Esta, mando-a. Mas vou entregá-la em mão."
+      ],
+      "english": [
+        [
+          "First letter, October.",
+          "I met you on the monumental steps, going up as I was coming down, and you dropped a book that I picked up with a gallantry I'm still ashamed of.",
+          "It was a treatise on Administrative Law, which isn't exactly how a romance begins.",
+          "You said thank you without looking at me.",
+          "I spent the rest of the day rereading that word in my head, as if it had several layers of meaning, all of them favourable.",
+          "I'm not sending you this letter because I don't know your name, or your address, or whether the word thank you, in your dictionary, means anything other than thank you."
+        ],
+        [
+          "Second letter, December.",
+          "I've found out that your name is Leonor, that you're from Viseu, that you're in your second year and that you take your coffee without sugar, which struck me as a sign of character.",
+          "I found all this out without asking you anything, with a detective's diligence that, had it been applied to my studies, would already have earned me a merit scholarship.",
+          "Yesterday, in the library, you sat at the table opposite.",
+          "For three hours, I read the same page.",
+          "I'm not sending you this letter because it would be the confession of a minor offence, and I'm a law student: I know that anything I say may be used against me."
+        ],
+        [
+          "Third letter, March.",
+          "We talked.",
+          "It was on a night of serenades, on the steps of the Old Cathedral, and you were next to me by chance, or at least that's what I decided to believe.",
+          "You said Coimbra fado seemed too sad to you for a city with so many students.",
+          "I said sadness was the students' way of seeming older.",
+          "You laughed.",
+          "It was the best thing that has ever happened to me, and I've been to a Benfica–Porto match with my grandfather.",
+          "I'm not sending you this letter because, for the first time, I'm afraid of spoiling something."
+        ],
+        [
+          "Fourth letter, June.",
+          "You're leaving.",
+          "You've finished your degree, you're going to do your traineeship in Lisbon, and you told me so yesterday, on the monumental steps, on the same step where you dropped the book, without knowing it was the same step.",
+          "I said Lisbon was a fantastic city, with a conviction no defence lawyer could fake.",
+          "You said I could come and visit you.",
+          "I said yes, of course, some day.",
+          "I'm not sending you this letter, as I didn't send you the others, because I'm still the same idiot who picked up the book and couldn't think of anything else to say."
+        ],
+        [
+          "Fifth letter, July, written on the intercity train, somewhere between Coimbra-B and Santa Apolónia.",
+          "This one, I'm sending.",
+          "But I'm going to deliver it by hand."
+        ]
+      ],
+      "vocab": [
+        { "word": "galanteria", "gloss": "gallantry" },
+        { "word": "envergonho", "gloss": "I am ashamed" },
+        { "word": "camadas", "gloss": "layers" },
+        { "word": "morada", "gloss": "address" },
+        { "word": "diligência", "gloss": "diligence, thoroughness" },
+        { "word": "bolsa de mérito", "gloss": "merit scholarship" },
+        { "word": "serenata", "gloss": "serenade (of Coimbra fado)" },
+        { "word": "estragar", "gloss": "to spoil, ruin" },
+        { "word": "estágio", "gloss": "traineeship, internship" },
+        { "word": "disseste-mo", "gloss": "you told me it" },
+        { "word": "advogado de defesa", "gloss": "defence lawyer" },
+        { "word": "algures", "gloss": "somewhere" },
+        { "word": "em mão", "gloss": "by hand, in person" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-13",
+      "title": "O homem do tempo",
+      "subtitle": "The weatherman",
+      "topic": "Weather",
+      "symbol": "cloud.sun.fill",
+      "paragraphs": [
+        "Durante vinte anos, o Fausto Medeiros apresentou a previsão do tempo no telejornal das oito com uma competência irrepreensível e uma gravata diferente para cada frente fria. Os portugueses confiavam nele como se confia num médico de família: sem compreender bem o que dizia, mas com a certeza de que não mentia. Quando anunciava aguaceiros no Minho, o Minho comprava guarda-chuvas. Quando prometia sol no Algarve, os hoteleiros do Algarve suspiravam de alívio. Era, sem que ninguém o tivesse eleito, uma das pessoas mais poderosas do país.",
+        "Numa quinta-feira de novembro, à frente do mapa de Portugal, o Fausto fez uma pausa mais longa do que o habitual. Depois, sem consultar as notas, anunciou que se previa para o dia seguinte, em Lisboa, uma melancolia moderada, com períodos de irritação no trânsito da Segunda Circular ao fim da tarde. No Porto, acrescentou, o tempo ia manter-se orgulhoso e ligeiramente desconfiado. Para o Alentejo previa-se uma serenidade persistente, e nas ilhas uma saudade dispersa, mais intensa nas zonas de emigração.",
+        "A direção de informação reuniu de urgência nessa mesma noite. Falou-se de esgotamento, de uma piada de mau gosto, de um ataque informático. Mas na manhã seguinte aconteceu uma coisa estranha: as previsões confirmaram-se. Lisboa acordou efetivamente melancólica, a Segunda Circular registou níveis históricos de buzinadelas entre as seis e as sete, e no Porto um inquérito de rua revelou que setenta e oito por cento dos inquiridos se sentiam «orgulhosos, mas sem exageros».",
+        "Em poucas semanas, o segmento do Fausto tornou-se o programa mais visto da televisão portuguesa. As pessoas planeavam a vida em função das suas previsões: adiavam pedidos de casamento quando ele anunciava ciúme na Beira Interior, marcavam reuniões difíceis para os dias de otimismo generalizado, evitavam os sogros nas manhãs de ressentimento persistente. Os psicólogos protestaram, os astrólogos processaram a estação por concorrência desleal e um partido da oposição exigiu que as previsões emocionais passassem a estar sujeitas ao contraditório.",
+        "Ao fim de três meses, o Fausto anunciou, para o domingo seguinte, uma alegria generalizada em todo o território, sem exceções, incluindo as regiões autónomas. O país inteiro esperou por esse domingo com uma ansiedade inédita. O domingo chegou, chuvoso e cinzento como qualquer domingo de fevereiro. Ninguém ficou particularmente alegre. Na segunda-feira, o Fausto voltou a apresentar a previsão do tempo, de gravata nova, falando de anticiclones e de isóbaras com a competência de sempre. Nunca deu explicações. Mas há quem jure que, ao despedir-se, piscou o olho à câmara, como quem diz: «Viram? Afinal, a alegria não se prevê. Faz-se.»"
+      ],
+      "english": [
+        [
+          "For twenty years, Fausto Medeiros presented the weather forecast on the eight o'clock news with impeccable competence and a different tie for every cold front.",
+          "The Portuguese trusted him the way you trust a family doctor: without really understanding what he said, but certain he wasn't lying.",
+          "When he announced showers in the Minho, the Minho bought umbrellas.",
+          "When he promised sun in the Algarve, the Algarve's hoteliers sighed with relief.",
+          "He was, without anyone having elected him, one of the most powerful people in the country."
+        ],
+        [
+          "One Thursday in November, in front of the map of Portugal, Fausto paused for longer than usual.",
+          "Then, without consulting his notes, he announced that the forecast for the next day in Lisbon was moderate melancholy, with spells of irritation in the traffic on the Segunda Circular in the late afternoon.",
+          "In Porto, he added, the weather would remain proud and slightly suspicious.",
+          "For the Alentejo, persistent serenity was expected, and on the islands scattered saudade, more intense in areas of emigration."
+        ],
+        [
+          "The news management held an emergency meeting that same night.",
+          "There was talk of burnout, of a joke in bad taste, of a cyberattack.",
+          "But the next morning something strange happened: the forecasts came true.",
+          "Lisbon did indeed wake up melancholy, the Segunda Circular recorded historic levels of honking between six and seven, and in Porto a street survey revealed that seventy-eight per cent of those asked felt “proud, but not excessively”."
+        ],
+        [
+          "Within a few weeks, Fausto's slot had become the most-watched programme on Portuguese television.",
+          "People planned their lives around his forecasts: they postponed marriage proposals when he announced jealousy in the inland Beira, scheduled difficult meetings for days of widespread optimism, avoided their in-laws on mornings of persistent resentment.",
+          "Psychologists protested, astrologers sued the channel for unfair competition and an opposition party demanded that emotional forecasts be made subject to the right of reply."
+        ],
+        [
+          "After three months, Fausto announced, for the following Sunday, widespread happiness throughout the country, without exception, including the autonomous regions.",
+          "The whole country waited for that Sunday with unprecedented anxiety.",
+          "Sunday came, rainy and grey like any Sunday in February.",
+          "Nobody was particularly happy.",
+          "On Monday, Fausto presented the weather forecast again, in a new tie, talking about anticyclones and isobars with his usual competence.",
+          "He never gave any explanation.",
+          "But some swear that, as he signed off, he winked at the camera, as if to say: “See? Happiness can't be forecast, after all. It's made.”"
+        ]
+      ],
+      "vocab": [
+        { "word": "irrepreensível", "gloss": "impeccable, faultless" },
+        { "word": "frente fria", "gloss": "cold front" },
+        { "word": "aguaceiros", "gloss": "showers" },
+        { "word": "hoteleiros", "gloss": "hoteliers" },
+        { "word": "esgotamento", "gloss": "burnout, breakdown" },
+        { "word": "buzinadelas", "gloss": "honks (of a car horn)" },
+        { "word": "inquiridos", "gloss": "respondents (to a survey)" },
+        { "word": "em função das", "gloss": "according to, around (the)" },
+        { "word": "ciúme", "gloss": "jealousy" },
+        { "word": "processaram", "gloss": "sued" },
+        { "word": "concorrência desleal", "gloss": "unfair competition" },
+        { "word": "contraditório", "gloss": "right of reply, adversarial challenge" },
+        { "word": "inédita", "gloss": "unprecedented" },
+        { "word": "isóbaras", "gloss": "isobars" },
+        { "word": "piscou o olho", "gloss": "winked" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-14",
+      "title": "O soneto e a máquina",
+      "subtitle": "The sonnet and the machine",
+      "topic": "Technology",
+      "symbol": "cpu",
+      "paragraphs": [
+        "O Prémio de Poesia da Câmara de Évora nunca tinha despertado grandes paixões. Concorriam todos os anos umas dezenas de reformados, alguns professores de Português e um ou outro estudante apaixonado, e o júri, composto por três pessoas que se conheciam há trinta anos, deliberava numa tarde, entre dois cafés e uma discussão amigável sobre o uso abusivo da palavra «alma». Este ano, porém, o regulamento tinha uma cláusula nova, aprovada à pressa pela vereação: estavam excluídos os poemas escritos por inteligência artificial.",
+        "O problema, como logo percebeu a presidente do júri, a professora Graciete, é que ninguém sabia como os identificar. Os programas de deteção que a câmara contratou davam resultados contraditórios: o mesmo soneto era considerado noventa por cento humano num dia e noventa por cento sintético no seguinte. O terceiro jurado, um poeta de setenta e cinco anos com dois livros publicados e uma desconfiança visceral de tudo o que precisasse de tomada, propôs um critério mais simples: se o poema fosse bom de mais, era da máquina.",
+        "Foi assim que o soneto vencedor, escolhido por unanimidade, acabou desclassificado. Era um soneto sobre uma oliveira do Alentejo, de rima impecável e com uma imagem final — a árvore a «segurar a terra pelos cabelos» — que deixara os três jurados em silêncio durante um minuto inteiro. Perfeito de mais, concluiu o poeta. Ninguém escreve assim hoje em dia. O prémio foi atribuído ao segundo classificado, um poema irregular, cheio de hesitações, com um verso de treze sílabas e uma gralha comovente na última estrofe. Isso, sim, era humano.",
+        "Na cerimónia de entrega, soube-se a verdade. O soneto da oliveira tinha sido escrito à mão, ao longo de oito meses, por uma senhora de oitenta e dois anos de Arraiolos, antiga costureira, que nunca tinha tido computador e que soube da desclassificação pelo neto. O poema premiado, esse, tinha sido gerado em quinze segundos por um estudante de informática de Lisboa, que, para tornar o texto «mais credível», pedira expressamente à máquina que introduzisse dois erros e uma hesitação. Confessou tudo no palco, por remorso ou por vaidade, ninguém soube bem.",
+        "A câmara emitiu um comunicado, o júri demitiu-se e o regulamento do ano seguinte passou a exigir que os poemas fossem lidos em voz alta pelos autores, perante o público. A senhora de Arraiolos ganhou nesse ano, sem surpresa. Leu o soneto da oliveira com a voz trémula, de óculos na ponta do nariz, e no fim, quando os aplausos acabaram, disse apenas ao microfone: «A máquina pode escrever o poema. Mas não pode ter levado oito meses a escrevê-lo.» Ninguém percebeu exatamente o que ela queria dizer. Toda a gente concordou."
+      ],
+      "english": [
+        [
+          "The Évora Town Council Poetry Prize had never stirred up great passions.",
+          "Every year a few dozen pensioners, some Portuguese teachers and the odd lovestruck student entered, and the jury, made up of three people who had known one another for thirty years, deliberated in a single afternoon, between two coffees and a friendly argument about the overuse of the word “soul”.",
+          "This year, however, the rules had a new clause, hastily approved by the councillors: poems written by artificial intelligence were excluded."
+        ],
+        [
+          "The problem, as the chair of the jury, Professora Graciete, soon realised, was that nobody knew how to identify them.",
+          "The detection programs the council had hired gave contradictory results: the same sonnet was rated ninety per cent human one day and ninety per cent synthetic the next.",
+          "The third juror, a seventy-five-year-old poet with two published books and a visceral distrust of anything that needed a plug socket, proposed a simpler criterion: if the poem was too good, it was the machine's."
+        ],
+        [
+          "That is how the winning sonnet, chosen unanimously, ended up disqualified.",
+          "It was a sonnet about an olive tree in the Alentejo, with impeccable rhyme and a final image — the tree “holding the earth by the hair” — that had left the three jurors silent for a full minute.",
+          "Too perfect, the poet concluded.",
+          "Nobody writes like that these days.",
+          "The prize was awarded to the runner-up, an irregular poem, full of hesitations, with a thirteen-syllable line and a touching typo in the last verse.",
+          "That, now, was human."
+        ],
+        [
+          "At the award ceremony, the truth came out.",
+          "The olive-tree sonnet had been written by hand, over eight months, by an eighty-two-year-old woman from Arraiolos, a former seamstress, who had never owned a computer and who learned of the disqualification from her grandson.",
+          "The prize-winning poem, on the other hand, had been generated in fifteen seconds by a computer-science student from Lisbon, who, to make the text “more credible”, had expressly asked the machine to put in two mistakes and a hesitation.",
+          "He confessed everything on stage, out of remorse or vanity, nobody was quite sure."
+        ],
+        [
+          "The council issued a statement, the jury resigned and the following year's rules required poems to be read aloud by their authors, in front of an audience.",
+          "The woman from Arraiolos won that year, unsurprisingly.",
+          "She read the olive-tree sonnet in a shaky voice, her glasses on the tip of her nose, and at the end, when the applause had died down, she said only this into the microphone: “The machine can write the poem. But it can't have taken eight months to write it.”",
+          "Nobody understood exactly what she meant.",
+          "Everybody agreed."
+        ]
+      ],
+      "vocab": [
+        { "word": "despertado", "gloss": "stirred up, aroused" },
+        { "word": "concorriam", "gloss": "entered (a competition)" },
+        { "word": "deliberava", "gloss": "deliberated" },
+        { "word": "abusivo", "gloss": "excessive, improper" },
+        { "word": "cláusula", "gloss": "clause" },
+        { "word": "vereação", "gloss": "town councillors (as a body)" },
+        { "word": "tomada", "gloss": "plug socket" },
+        { "word": "desclassificado", "gloss": "disqualified" },
+        { "word": "unanimidade", "gloss": "unanimity" },
+        { "word": "gralha", "gloss": "typo, misprint" },
+        { "word": "costureira", "gloss": "seamstress" },
+        { "word": "credível", "gloss": "credible" },
+        { "word": "vaidade", "gloss": "vanity" },
+        { "word": "demitiu-se", "gloss": "resigned" }
+      ]
+    },
+    {
+      "id": "pt-PT-c2-15",
+      "title": "O farol dos Capelinhos",
+      "subtitle": "The Capelinhos lighthouse",
+      "topic": "Science",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Na ponta ocidental do Faial há um farol que parece ter sido engolido pela terra até à cintura. É o farol dos Capelinhos, e quem o vê pela primeira vez, erguido no meio de uma paisagem lunar de cinza e de escória, tem a sensação de ter entrado numa fotografia antiga de um mundo que acabou. Em certo sentido, entrou. Em setembro de 1957, o mar começou a ferver a pouca distância da costa, e durante treze meses uma erupção vulcânica cuspiu para o céu colunas de vapor, pedra e cinza, soterrou campos, casas e vinhas, e acrescentou à ilha um pedaço de terra que antes não existia.",
+        "A Helena Goulart é vulcanóloga e passa uma parte do ano no centro de monitorização sísmica da ilha, a vigiar ecrãs onde linhas finas registam os tremores minúsculos que a terra produz, como quem respira durante o sono. Para ela, os Capelinhos não são uma catástrofe: são um laboratório a céu aberto, um dos raros lugares do mundo onde se pode estudar, quase em tempo real, como uma paisagem nasce, arrefece e começa, timidamente, a ser colonizada pela vida. Mostra-me líquenes alaranjados agarrados à escória, uma erva rasteira que ninguém plantou, um ninho de cagarro numa fenda. «Setenta anos», diz. «Para um geólogo, isto foi ontem à tarde.»",
+        "Mas há uma outra história, que a ciência não mede. A avó da Helena tinha dezassete anos quando o vulcão acordou. A família perdeu a casa e os campos, e no ano seguinte, ao abrigo de uma lei aprovada nos Estados Unidos para acolher os desalojados da erupção, emigrou para New Bedford, no Massachusetts, como milhares de outros faialenses. A avó trabalhou quarenta anos numa fábrica de têxteis, criou cinco filhos, aprendeu um inglês que nunca deixou de soar a português, e nunca mais voltou ao Faial. Dizia que não queria ver o que o mar lhe tinha tirado.",
+        "Foi a neta quem voltou. A Helena nasceu no Massachusetts, estudou geologia em Boston e pediu, contra todos os conselhos académicos, para fazer o doutoramento sobre o vulcão que tinha expulsado a família. Os colegas americanos achavam que era uma escolha sentimental. Ela prefere chamar-lhe uma escolha de escala. «Os vulcões ensinam-nos a pensar em milhares de anos. Mas as pessoas vivem em décadas, e as famílias em gerações. Eu precisava de perceber as duas coisas ao mesmo tempo.»",
+        "Ao fim da tarde, subimos ao topo do farol. Lá em cima, o vento é tão forte que é preciso gritar, e a terra nova estende-se a nossos pés, cinzenta e estéril, até ao mar que a desenhou. A Helena tira do bolso uma fotografia a preto e branco da avó, de vestido claro, sorridente, à frente de uma casa que já não existe. Segura-a contra o vento durante um momento, como quem mostra a alguém uma paisagem. Depois guarda-a outra vez, com cuidado, e diz que está na hora de voltar aos ecrãs. A terra, afinal, continua a respirar, e alguém tem de a ouvir."
+      ],
+      "english": [
+        [
+          "On the western tip of Faial there is a lighthouse that looks as if it has been swallowed by the earth up to the waist.",
+          "It is the Capelinhos lighthouse, and anyone who sees it for the first time, standing in the middle of a lunar landscape of ash and slag, feels they have stepped into an old photograph of a world that has ended.",
+          "In a sense, they have.",
+          "In September 1957, the sea began to boil a short distance from the coast, and for thirteen months a volcanic eruption spat columns of steam, rock and ash into the sky, buried fields, houses and vineyards, and added to the island a piece of land that had not existed before."
+        ],
+        [
+          "Helena Goulart is a volcanologist and spends part of the year at the island's seismic monitoring centre, watching screens where fine lines record the tiny tremors the earth produces, like someone breathing in their sleep.",
+          "For her, Capelinhos is not a catastrophe: it's an open-air laboratory, one of the few places in the world where you can study, almost in real time, how a landscape is born, cools and begins, timidly, to be colonised by life.",
+          "She shows me orange lichens clinging to the slag, a low-growing grass nobody planted, a shearwater's nest in a crack.",
+          "“Seventy years,” she says.",
+          "“For a geologist, this was yesterday afternoon.”"
+        ],
+        [
+          "But there is another story, one that science doesn't measure.",
+          "Helena's grandmother was seventeen when the volcano woke.",
+          "The family lost their house and fields, and the following year, under a law passed in the United States to take in those displaced by the eruption, they emigrated to New Bedford, Massachusetts, like thousands of other people from Faial.",
+          "Her grandmother worked for forty years in a textile factory, raised five children, learned an English that never stopped sounding Portuguese, and never went back to Faial.",
+          "She used to say she didn't want to see what the sea had taken from her."
+        ],
+        [
+          "It was the granddaughter who went back.",
+          "Helena was born in Massachusetts, studied geology in Boston and asked, against all academic advice, to do her doctorate on the volcano that had driven her family out.",
+          "Her American colleagues thought it was a sentimental choice.",
+          "She prefers to call it a choice of scale.",
+          "“Volcanoes teach us to think in thousands of years. But people live in decades, and families in generations. I needed to understand both at the same time.”"
+        ],
+        [
+          "Late in the afternoon, we climb to the top of the lighthouse.",
+          "Up there, the wind is so strong you have to shout, and the new land stretches out at our feet, grey and barren, down to the sea that shaped it.",
+          "Helena takes from her pocket a black-and-white photo of her grandmother, in a light dress, smiling, in front of a house that no longer exists.",
+          "She holds it up against the wind for a moment, like someone showing a landscape to somebody.",
+          "Then she puts it away again, carefully, and says it's time to get back to the screens.",
+          "The earth, after all, is still breathing, and someone has to listen to it."
+        ]
+      ],
+      "vocab": [
+        { "word": "engolido", "gloss": "swallowed" },
+        { "word": "cintura", "gloss": "waist" },
+        { "word": "escória", "gloss": "volcanic slag, scoria" },
+        { "word": "cuspiu", "gloss": "spat out" },
+        { "word": "soterrou", "gloss": "buried" },
+        { "word": "tremores", "gloss": "tremors" },
+        { "word": "arrefece", "gloss": "cools" },
+        { "word": "líquenes", "gloss": "lichens" },
+        { "word": "rasteira", "gloss": "low-growing, creeping" },
+        { "word": "cagarro", "gloss": "Cory's shearwater (Azorean seabird)" },
+        { "word": "fenda", "gloss": "crack, crevice" },
+        { "word": "ao abrigo de", "gloss": "under (a law)" },
+        { "word": "desalojados", "gloss": "displaced people" },
+        { "word": "expulsado", "gloss": "driven out, expelled" },
+        { "word": "estéril", "gloss": "barren" }
+      ]
+    }
+  ]
+}
