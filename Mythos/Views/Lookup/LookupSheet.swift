@@ -203,16 +203,11 @@ private struct DictionaryContent: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 24) {
             if !formOf.isEmpty {
-                VStack(alignment: .leading, spacing: 10) {
+                VStack(alignment: .leading, spacing: 12) {
                     ForEach(formOf.prefix(4), id: \.self) { f in
                         NavigationLink(value: WordLookup(word: f.lemma, language: language)) {
-                            HStack(alignment: .firstTextBaseline, spacing: 8) {
-                                Image(systemName: "arrow.turn.down.right").foregroundStyle(Theme.accent)
-                                let lemma = Text(f.lemma).font(.system(.body, design: .serif, weight: .semibold)).foregroundStyle(Theme.accent)
-                                Text("\(f.description.prefix(1).uppercased() + f.description.dropFirst()) of \(lemma)")
-                                    .foregroundStyle(.secondary)
-                            }
-                            .multilineTextAlignment(.leading)
+                            FormOfCard(formOf: f, query: result.query, language: language,
+                                       english: result.lemmas.first { $0.word == f.lemma }.flatMap(EnglishVerb.init(entry:)))
                         }
                         .buttonStyle(.plain)
                     }
@@ -237,6 +232,72 @@ private struct DictionaryContent: View {
                 .font(.caption2)
                 .foregroundStyle(.tertiary)
         }
+    }
+}
+
+/// What a form is, said three ways: who it is ("il/elle achète"), what that
+/// means ("he/she buys"), and the grammar ("third-person singular present
+/// indicative of acheter"), which opens the lemma.
+private struct FormOfCard: View {
+    let formOf: FormOf
+    let query: String
+    let language: Language
+    let english: EnglishVerb?
+
+    /// One line per subject the form can have: "je" and "il/elle" for "mange".
+    private var lines: [(subject: String, english: String)] {
+        guard let english, let tense = EnglishVerb.tense(for: formOf.tags) else {
+            if let phrase = english?.phrase(forFormLabel: formOf.description) { return [("", phrase)] }
+            return []
+        }
+        return EnglishVerb.subjects(for: formOf.tags).compactMap { person, number in
+            guard let phrase = english.phrase(person: person, number: number, tense: tense) else { return nil }
+            let pronoun = tense == .imperative ? nil
+                : InflectionBuilder.pronounFor(language, row: person, column: number, form: query)
+            let subject = pronoun.map { $0.hasSuffix("’") ? $0 + query.lowercased() : "\($0) \(query.lowercased())" } ?? query.lowercased()
+            return (subject, phrase)
+        }
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            if !lines.isEmpty {
+                VStack(alignment: .leading, spacing: 6) {
+                    ForEach(lines, id: \.english) { line in
+                        HStack(alignment: .firstTextBaseline, spacing: 8) {
+                            if !line.subject.isEmpty {
+                                Text(line.subject)
+                                    .font(.system(.body, design: .serif))
+                                    .foregroundStyle(Theme.ink)
+                                Image(systemName: "arrow.right")
+                                    .font(.caption.weight(.semibold))
+                                    .foregroundStyle(.tertiary)
+                            }
+                            Text(line.english)
+                                .font(.system(.title3, weight: .semibold))
+                                .foregroundStyle(Theme.accent)
+                        }
+                    }
+                }
+            }
+            HStack(alignment: .firstTextBaseline, spacing: 6) {
+                let lemma = Text(formOf.lemma).font(.system(.subheadline, design: .serif, weight: .semibold)).foregroundStyle(Theme.ink)
+                Text("\(formOf.description.prefix(1).uppercased() + formOf.description.dropFirst()) of \(lemma)")
+                    .font(.subheadline)
+                    .foregroundStyle(.secondary)
+                Spacer(minLength: 0)
+                Image(systemName: "chevron.right")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(.tertiary)
+            }
+            .multilineTextAlignment(.leading)
+        }
+        .padding(16)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(Theme.accent.opacity(0.07), in: .rect(cornerRadius: 18, style: .continuous))
+        .contentShape(.rect)
+        .accessibilityElement(children: .combine)
+        .accessibilityHint("Opens \(formOf.lemma)")
     }
 }
 

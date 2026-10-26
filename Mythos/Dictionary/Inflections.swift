@@ -165,7 +165,8 @@ nonisolated enum InflectionBuilder {
         }.joined(separator: ".")
     }
 
-    private static func pronounFor(_ language: Language, row: String, column: String, form: String) -> String? {
+    /// The subject pronoun for a person and number, before `form`: "nous", or "j’" before a vowel.
+    static func pronounFor(_ language: Language, row: String, column: String, form: String) -> String? {
         let p = pronouns[language]?["\(row)|\(column)"]
         if p == "je", let first = form.lowercased().first, "aeiouyhâàéèêëîïôûœ".contains(first) { return "j’" }
         return p
