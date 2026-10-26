@@ -8,13 +8,17 @@ _μῦθος_ is Greek for "story". Mythos is the iPhone companion to
 [Paradigma](../paradigma) (_παράδειγμα_, "pattern"), and uses the same
 dictionary data and inflection tables.
 
-- **French, Spanish, German, Italian, Portuguese (Brazil) and Greek**, 15
-  stories each at **A1** and **A2** (180 in all). B1–C2 are shown as coming soon.
-- **A daily notification** in the morning, afternoon or evening, at a time you
-  choose. It's scheduled on the phone: no server, no account.
-- **Tap a word** to see what it means in the story, its dictionary meanings,
-  what form it is (_achète_ → "first/third-person singular present of
-  _acheter_"), and its full tables, with the tapped form highlighted.
+- **French, Spanish, German, Italian, Brazilian Portuguese, European
+  Portuguese and Greek**, 15 stories at every CEFR level from **A1** to
+  **C2** (630 in all). Brazilian and European Portuguese are separate
+  languages, with their own stories, spelling and voices.
+- **A daily notification** for each language, at a time you choose for that
+  language (Spanish at 7:00, Greek at 8:00). It's scheduled on the phone: no
+  server, no account.
+- **Tap a word** to see what it means in the story, who is doing it in English
+  (_achète_ → "il/elle achète → he/she buys"), its dictionary meanings, and
+  its full tables with the English under every form ("nous mangeons · we
+  eat"), the tapped form highlighted.
 - **Listen**: the story is read aloud by the phone's own voice, with each word
   highlighted as it's spoken. Pause, resume or stop it, or play it straight
   from the Today card. Words and table forms can be heard too.

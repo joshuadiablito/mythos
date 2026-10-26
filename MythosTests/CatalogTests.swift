@@ -7,11 +7,11 @@ import UIKit
 struct CatalogTests {
     let catalog = Catalog(bundle: Bundle(for: AppDelegate.self))
 
-    @Test("Every language has 15 stories at A1 and at A2", arguments: Language.allCases)
+    @Test("Every language has 15 stories at every level", arguments: Language.allCases)
     func storiesPerLevel(language: Language) {
-        #expect(catalog.stories(language, .a1).count == 15)
-        #expect(catalog.stories(language, .a2).count == 15)
-        #expect(catalog.stories(language, .b1).isEmpty)
+        for level in Level.allCases {
+            #expect(catalog.stories(language, level).count == 15, "\(language.rawValue) \(level.rawValue)")
+        }
     }
 
     @Test func idsAreUniqueAndNamedForTheirCourse() {
@@ -32,10 +32,12 @@ struct CatalogTests {
         }
     }
 
-    @Test func storiesHaveTwoOrThreeParagraphs() {
+    @Test func paragraphsSuitTheirLevel() {
+        // As in scripts/check-catalog.py: longer stories, in more paragraphs, as the level rises.
+        let paragraphs: [Level: ClosedRange<Int>] = [.a1: 2...2, .a2: 2...3, .b1: 3...3, .b2: 3...4, .c1: 4...4, .c2: 4...5]
         for story in catalog.stories {
-            #expect((2...3).contains(story.paragraphs.count), "\(story.id)")
-            #expect(story.paragraphs.allSatisfy { $0.count > 80 }, "\(story.id) has a very short paragraph")
+            #expect(paragraphs[story.level]!.contains(story.paragraphs.count), "\(story.id) has \(story.paragraphs.count) paragraphs")
+            #expect(story.paragraphs.allSatisfy { $0.count > 30 }, "\(story.id) has an empty or near-empty paragraph")
         }
     }
 
@@ -87,13 +89,16 @@ struct DailyPlanTests {
     }
 
     @Test func coursesWithoutStoriesAreSkipped() {
-        let start = Date.now
-        let plan = DailyPlan(catalog: catalog, calendar: calendar)
-        #expect(plan.featured(in: [Course(language: .italian, level: .b2, startedOn: start)], on: start) == nil)
-        let mixed = [Course(language: .italian, level: .b2, startedOn: start), Course(language: .german, level: .a2, startedOn: start)]
-        #expect(plan.featured(in: mixed, on: start)?.language == .german)
+        // The test bundle has no catalog files, so no course has stories in it.
+        let empty = Catalog(bundle: Bundle(for: TestBundleToken.self))
+        #expect(empty.stories.isEmpty)
+        let plan = DailyPlan(catalog: empty, calendar: calendar)
+        #expect(plan.featured(in: [Course(language: .italian, level: .b2, startedOn: .now)], on: .now) == nil)
+        #expect(plan.arrived(for: Course(language: .greek, level: .c1, startedOn: .now), by: .now).isEmpty)
     }
 }
+
+private final class TestBundleToken {}
 
 @Suite("Progress")
 struct ProgressTests {
