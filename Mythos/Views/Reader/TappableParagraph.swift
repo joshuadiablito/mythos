@@ -62,7 +62,7 @@ struct TappableParagraph: View {
         var result = AttributedString()
         let tokenizer = NLTokenizer(unit: .word)
         tokenizer.string = text
-        tokenizer.setLanguage(NLLanguage(language.rawValue))
+        tokenizer.setLanguage(NLLanguage(language.baseCode))
         var cursor = text.startIndex
         var tokenIndex = 0
         tokenizer.enumerateTokens(in: text.startIndex..<text.endIndex) { range, _ in

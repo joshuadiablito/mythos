@@ -43,7 +43,16 @@ struct CoverPalette {
         case "Animals", "Free time": .citrus
         case "Sport": .pitch
         case "Work": .ink
-        case "Travel": .aegean
+        case "Travel", "Science": .aegean
+        case "Society", "Memory", "Mystery": .dusk
+        case "Environment", "Nature": .olive
+        case "Technology", "Media": .ink
+        case "History": .terracotta
+        case "Art", "Ideas": .lavender
+        case "City": .transit
+        case "Love": .rose
+        case "Money": .citrus
+        case "Language": .dawn
         default: .aegean
         }
     }

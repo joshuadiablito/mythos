@@ -1,27 +1,43 @@
 import Foundation
 
-/// A language Mythos has a story catalog for.
+/// A language Mythos has a story catalog for. Brazilian and European
+/// Portuguese are separate: their stories, spelling and voices differ.
 enum Language: String, CaseIterable, Codable, Identifiable, Hashable, Sendable {
     case french = "fr"
     case spanish = "es"
     case german = "de"
     case italian = "it"
+    /// Brazilian Portuguese. Its code stays "pt" so saved courses keep working.
     case portuguese = "pt"
+    case portugal = "pt-PT"
     case greek = "el"
 
     var id: String { rawValue }
 
-    /// English name, as used in kaikki.org URLs.
+    /// The language's name in English, as shown to the learner.
     var name: String {
         switch self {
         case .french: "French"
         case .spanish: "Spanish"
         case .german: "German"
         case .italian: "Italian"
-        case .portuguese: "Portuguese"
+        case .portuguese: "Portuguese (Brazil)"
+        case .portugal: "Portuguese (Portugal)"
         case .greek: "Greek"
         }
     }
+
+    /// The name kaikki.org files the language under. Both Portuguese
+    /// variants share Wiktionary's one Portuguese dictionary.
+    var dictionaryName: String {
+        switch self {
+        case .portuguese, .portugal: "Portuguese"
+        default: name
+        }
+    }
+
+    /// The ISO 639-1 code, without a region: both Portuguese variants are "pt".
+    var baseCode: String { String(rawValue.prefix(2)) }
 
     /// The language's name for itself.
     var endonym: String {
@@ -30,20 +46,23 @@ enum Language: String, CaseIterable, Codable, Identifiable, Hashable, Sendable {
         case .spanish: "Español"
         case .german: "Deutsch"
         case .italian: "Italiano"
-        case .portuguese: "Português"
+        case .portuguese: "Português (Brasil)"
+        case .portugal: "Português (Portugal)"
         case .greek: "Ελληνικά"
         }
     }
 
-    /// Two letters for the language's badge, written in the language itself.
+    /// Two letters for the language's badge.
     var monogram: String {
         switch self {
         case .greek: "Ελ"
+        case .portuguese: "Br"
+        case .portugal: "Pt"
         default: rawValue.capitalized
         }
     }
 
-    /// Voice used to read stories aloud. The Portuguese catalog is Brazilian.
+    /// Voice used to read stories aloud.
     var voiceCode: String {
         switch self {
         case .french: "fr-FR"
@@ -51,6 +70,7 @@ enum Language: String, CaseIterable, Codable, Identifiable, Hashable, Sendable {
         case .german: "de-DE"
         case .italian: "it-IT"
         case .portuguese: "pt-BR"
+        case .portugal: "pt-PT"
         case .greek: "el-GR"
         }
     }
@@ -64,7 +84,7 @@ enum Language: String, CaseIterable, Codable, Identifiable, Hashable, Sendable {
         case .spanish: "Hola"
         case .german: "Hallo"
         case .italian: "Ciao"
-        case .portuguese: "Olá"
+        case .portuguese, .portugal: "Olá"
         case .greek: "Γεια σου"
         }
     }
@@ -78,7 +98,7 @@ enum Language: String, CaseIterable, Codable, Identifiable, Hashable, Sendable {
         case .spanish: ["Buenos días", "Buenas tardes", "Buenas noches"]
         case .german: ["Guten Morgen", "Guten Tag", "Guten Abend"]
         case .italian: ["Buongiorno", "Buon pomeriggio", "Buonasera"]
-        case .portuguese: ["Bom dia", "Boa tarde", "Boa noite"]
+        case .portuguese, .portugal: ["Bom dia", "Boa tarde", "Boa noite"]
         case .greek: ["Καλημέρα", "Καλό απόγευμα", "Καλησπέρα"]
         }
         return greetings[part]

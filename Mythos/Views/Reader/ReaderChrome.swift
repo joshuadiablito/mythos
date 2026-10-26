@@ -191,7 +191,7 @@ extension Language {
         case .spanish: "¡Muy bien!"
         case .german: "Super gemacht!"
         case .italian: "Bravissimo!"
-        case .portuguese: "Muito bem!"
+        case .portuguese, .portugal: "Muito bem!"
         case .greek: "Μπράβο!"
         }
     }

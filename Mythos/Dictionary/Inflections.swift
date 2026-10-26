@@ -106,6 +106,7 @@ nonisolated enum InflectionBuilder {
         .spanish: ["first-person|singular": "yo", "second-person|singular": "tú", "third-person|singular": "él/ella/usted", "first-person|plural": "nosotros", "second-person|plural": "vosotros", "third-person|plural": "ellos/ellas/ustedes"],
         .italian: ["first-person|singular": "io", "second-person|singular": "tu", "third-person|singular": "lui/lei", "first-person|plural": "noi", "second-person|plural": "voi", "third-person|plural": "loro"],
         .portuguese: ["first-person|singular": "eu", "second-person|singular": "tu", "third-person|singular": "ele/ela/você", "first-person|plural": "nós", "second-person|plural": "vós", "third-person|plural": "eles/elas/vocês"],
+        .portugal: ["first-person|singular": "eu", "second-person|singular": "tu", "third-person|singular": "ele/ela/você", "first-person|plural": "nós", "second-person|plural": "vós", "third-person|plural": "eles/elas/vocês"],
         .german: ["first-person|singular": "ich", "second-person|singular": "du", "third-person|singular": "er/sie/es", "first-person|plural": "wir", "second-person|plural": "ihr", "third-person|plural": "sie"],
         .greek: ["first-person|singular": "εγώ", "second-person|singular": "εσύ", "third-person|singular": "αυτός/αυτή/αυτό", "first-person|plural": "εμείς", "second-person|plural": "εσείς", "third-person|plural": "αυτοί/αυτές/αυτά"],
     ]

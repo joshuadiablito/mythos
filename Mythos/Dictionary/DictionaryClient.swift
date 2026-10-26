@@ -45,7 +45,7 @@ final class DictionaryClient {
 
         var entries: [Entry] = []
         for candidate in LookupCandidates.candidates(for: text) {
-            entries = try await fetch(candidate, language: language.name)
+            entries = try await fetch(candidate, language: language.dictionaryName)
             if !entries.isEmpty { break }
         }
         let own = Set(entries.map(\.word))
@@ -56,7 +56,7 @@ final class DictionaryClient {
         // A lemma that fails to load loses its table, not the lookup.
         let lemmas = await withTaskGroup(of: (Int, [Entry]).self) { group in
             for (i, word) in lemmaWords.prefix(Self.maxLemmas).enumerated() {
-                group.addTask { (i, (try? await self.fetch(word, language: language.name)) ?? []) }
+                group.addTask { (i, (try? await self.fetch(word, language: language.dictionaryName)) ?? []) }
             }
             var results: [(Int, [Entry])] = []
             for await r in group { results.append(r) }
