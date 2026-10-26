@@ -1,0 +1,1330 @@
+{
+  "language": "fr",
+  "level": "C1",
+  "stories": [
+    {
+      "id": "fr-c1-01",
+      "title": "Les boîtes vertes",
+      "subtitle": "The green boxes",
+      "topic": "Culture",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Sur près de trois kilomètres, entre le pont Marie et le quai du Louvre, des centaines de boîtes vert sombre sont accrochées aux parapets de la Seine. On y vend des livres d'occasion, des affiches jaunies, des cartes postales et, de plus en plus souvent, des porte-clés en forme de tour Eiffel. Les bouquinistes, dont l'activité remonte au seizième siècle, sont l'une des plus vieilles institutions de Paris, et sans doute l'une des plus fragiles.",
+        "Bon an mal an, Gérard ouvre ses quatre boîtes du quai de Conti vers onze heures, quel que soit le temps. « Les gens s'imaginent qu'on passe nos journées à lire au soleil », dit-il en riant. « En réalité, on fait le pied de grue dans le vent, en attendant un chaland qui ne viendra peut-être pas. » La concurrence d'Internet a fait chuter ses ventes de moitié en dix ans, et les touristes, s'ils s'arrêtent volontiers pour prendre des photos, achètent rarement autre chose qu'un souvenir.",
+        "Il n'empêche que les bouquinistes tiennent bon. Les emplacements, attribués gratuitement par la Ville, sont très demandés, et la liste d'attente compte des dizaines de noms. Parmi les nouveaux venus, on trouve d'anciens cadres, des étudiants en histoire de l'art, une ancienne libraire de Montréal. Pour eux, ces boîtes sont moins une source de revenus qu'une manière de vivre. Les amateurs, eux, continuent de venir chiner le samedi matin, dans l'espoir de dénicher une édition rare.",
+        "Gérard, d'ailleurs, a eu son aubaine. Il y a quelques années, dans un carton acheté pour une bouchée de pain lors d'une succession, il a trouvé un livre de prières imprimé à Lyon en 1497, un véritable incunable. Il aurait pu le vendre une fortune ; il l'a confié à la Bibliothèque nationale. « C'est du patrimoine, ça ne s'achète pas », explique-t-il simplement, avant de vendre à un couple d'Américains, pour cinq euros, un vieux guide de Paris qu'ils ont trouvé « charmant »."
+      ],
+      "english": [
+        [
+          "For nearly three kilometres, between the Pont Marie and the Quai du Louvre, hundreds of dark green boxes hang from the parapets of the Seine.",
+          "They sell second-hand books, yellowed posters, postcards and, more and more often, Eiffel Tower key rings.",
+          "The bouquinistes, whose trade goes back to the sixteenth century, are one of the oldest institutions in Paris, and probably one of the most fragile."
+        ],
+        [
+          "Come rain or shine, Gérard opens his four boxes on the Quai de Conti around eleven o'clock, whatever the weather.",
+          "\"People imagine we spend our days reading in the sun,\" he says, laughing.",
+          "\"In reality, we hang around in the wind, waiting for a customer who may never come.\"",
+          "Competition from the internet has halved his sales in ten years, and the tourists, while they happily stop to take photos, rarely buy anything other than a souvenir."
+        ],
+        [
+          "The fact remains that the bouquinistes are holding out.",
+          "The pitches, allocated free of charge by the City, are much sought after, and the waiting list runs to dozens of names.",
+          "Among the newcomers are former executives, art history students, a former bookseller from Montreal.",
+          "For them, these boxes are less a source of income than a way of life.",
+          "Book lovers, for their part, still come bargain-hunting on Saturday mornings, in the hope of unearthing a rare edition."
+        ],
+        [
+          "Gérard, as it happens, has had his godsend.",
+          "A few years ago, in a box bought for next to nothing at an estate sale, he found a prayer book printed in Lyon in 1497, a genuine incunabulum.",
+          "He could have sold it for a fortune; he entrusted it to the National Library.",
+          "\"It's heritage, it's not for sale,\" he explains simply, before selling an American couple an old guide to Paris for five euros, which they found \"charming\"."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "bouquinistes",
+          "gloss": "second-hand booksellers (on the Seine)"
+        },
+        {
+          "word": "parapets",
+          "gloss": "parapets"
+        },
+        {
+          "word": "chiner",
+          "gloss": "to hunt for bargains"
+        },
+        {
+          "word": "bon an mal an",
+          "gloss": "come rain or shine, year in year out"
+        },
+        {
+          "word": "chaland",
+          "gloss": "passing customer"
+        },
+        {
+          "word": "concurrence",
+          "gloss": "competition"
+        },
+        {
+          "word": "il n'empêche que",
+          "gloss": "the fact remains that"
+        },
+        {
+          "word": "fait le pied de grue",
+          "gloss": "hang around waiting"
+        },
+        {
+          "word": "son aubaine",
+          "gloss": "his godsend"
+        },
+        {
+          "word": "tiennent bon",
+          "gloss": "are holding out"
+        },
+        {
+          "word": "incunable",
+          "gloss": "early printed book (before 1501)"
+        },
+        {
+          "word": "patrimoine",
+          "gloss": "heritage"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-02",
+      "title": "Les Marolles ne sont pas à vendre",
+      "subtitle": "The Marolles are not for sale",
+      "topic": "City",
+      "symbol": "building.2.fill",
+      "paragraphs": [
+        "Tous les matins, de sept heures à quatorze heures, la place du Jeu de Balle, au cœur du quartier des Marolles, à Bruxelles, se couvre d'objets disparates. Lampes des années soixante, poupées sans bras, assiettes dépareillées, manteaux de fourrure, vieux disques : cette brocante quotidienne est l'âme d'un quartier longtemps resté l'un des plus populaires de la capitale.",
+        "Mais depuis une quinzaine d'années, le paysage change. Les vieux cafés ferment les uns après les autres, remplacés par des bars à vin nature et des boutiques de design. Les loyers ont flambé, et de nombreuses familles ont dû partir vers la périphérie. « Les bobos adorent notre quartier, mais ils n'aiment pas les gens qui y vivent », résume avec amertume Josiane, qui tient un stand de vaisselle depuis quarante ans.",
+        "Il va sans dire que la réalité est plus nuancée. Certains commerçants tirent leur épingle du jeu : les antiquaires de la rue Blaes, par exemple, voient arriver une clientèle aisée qui ne regarde pas à la dépense. Et parmi les nouveaux habitants, beaucoup s'investissent dans la vie associative, militent pour des logements sociaux et défendent le marché contre les projets de « réaménagement » de la commune. Il arrive même que des jeunes architectes et des vendeurs à la sauvette s'insurgent côte à côte contre la mairie.",
+        "Peut-on vraiment faire bon ménage entre anciens et nouveaux Marolliens ? Sur la place, un samedi de printemps, la question semble presque abstraite. Une étudiante marchande une théière avec Josiane, en riant de son accent ; un vieux monsieur explique à un couple de Flamands l'histoire d'un fer à repasser. Sur une banderole, quelqu'un a écrit : « Les Marolles ne sont pas à vendre ». À quelques mètres de là, une agence immobilière vient pourtant d'ouvrir ses portes."
+      ],
+      "english": [
+        [
+          "Every morning, from seven until two, the Place du Jeu de Balle, in the heart of the Marolles district in Brussels, is covered with assorted objects.",
+          "Sixties lamps, armless dolls, odd plates, fur coats, old records: this daily flea market is the soul of a district that long remained one of the most working-class in the capital."
+        ],
+        [
+          "But for fifteen years or so, the landscape has been changing.",
+          "The old cafés are closing one after another, replaced by natural-wine bars and design shops.",
+          "Rents have soared, and many families have had to move out to the outskirts.",
+          "\"The trendy incomers love our neighbourhood, but they don't like the people who live in it,\" Josiane, who has run a crockery stall for forty years, sums up bitterly."
+        ],
+        [
+          "It goes without saying that the reality is more nuanced.",
+          "Some traders are coming out of it well: the antique dealers on the Rue Blaes, for example, are seeing the arrival of a well-off clientele who don't count the cost.",
+          "And among the new residents, many are involved in community associations, campaign for social housing and defend the market against the council's \"redevelopment\" plans.",
+          "It even happens that young architects and unofficial street vendors protest side by side against the town hall."
+        ],
+        [
+          "Can old and new residents of the Marolles really get along?",
+          "On the square, one spring Saturday, the question seems almost abstract.",
+          "A student haggles with Josiane over a teapot, laughing at her accent; an old man explains the history of an iron to a Flemish couple.",
+          "On a banner, someone has written: \"The Marolles are not for sale\".",
+          "A few metres away, however, an estate agency has just opened its doors."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "brocante",
+          "gloss": "flea market"
+        },
+        {
+          "word": "populaire",
+          "gloss": "working-class"
+        },
+        {
+          "word": "amertume",
+          "gloss": "bitterness"
+        },
+        {
+          "word": "loyers",
+          "gloss": "rents"
+        },
+        {
+          "word": "flambé",
+          "gloss": "soared"
+        },
+        {
+          "word": "bobos",
+          "gloss": "(pejorative) affluent bohemian incomers"
+        },
+        {
+          "word": "il va sans dire",
+          "gloss": "it goes without saying"
+        },
+        {
+          "word": "à la sauvette",
+          "gloss": "on the sly, unofficially"
+        },
+        {
+          "word": "faire bon ménage",
+          "gloss": "to get along together"
+        },
+        {
+          "word": "tirent leur épingle du jeu",
+          "gloss": "come out of it well"
+        },
+        {
+          "word": "s'insurgent",
+          "gloss": "protest, rise up"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-03",
+      "title": "Éloge de l'attente",
+      "subtitle": "In praise of waiting",
+      "topic": "Ideas",
+      "symbol": "hourglass",
+      "paragraphs": [
+        "Je voudrais prendre ici la défense d'une activité que tout le monde déteste : attendre. Attendre un bus sous la pluie, attendre son tour chez le médecin, attendre qu'une page se charge. Nous vivons ces moments comme une injustice, une perte sèche, et nous nous empressons de les combler.",
+        "Car il faut le dire d'emblée : nous n'attendons plus vraiment. Au moindre temps mort, la main glisse vers la poche, le téléphone s'allume, et nous voilà absorbés par un foisonnement de messages, d'images et de nouvelles qui nous concernent rarement. Nous avons horreur du vide, comme la nature selon les Anciens. Nous ne rongeons plus notre frein ; nous faisons défiler. On croit ainsi gagner du temps, alors qu'on ne fait que le remplir.",
+        "Or l'attente, si on la laisse faire, est un drôle de laboratoire. C'est là, dans une salle d'attente sans magazines ou sur un quai de gare désert, que l'esprit se met à rêvasser, à faire des liens inattendus entre des idées qui ne se connaissaient pas. Combien de solutions à des problèmes insolubles sont apparues dans une file d'attente ? Combien de lettres d'amour ont été composées mentalement en attendant un train en retard ? L'ennui n'est pas un gâchis ; c'est un terreau. Les enfants le savent d'instinct, eux qui inventent des mondes entiers en attendant que les adultes aient fini de parler.",
+        "Je ne prétends pas qu'il faille jeter nos téléphones dans la Seine. Je propose seulement une expérience modeste : la prochaine fois que vous attendrez, n'attendez rien d'autre. Regardez les gens, écoutez la pluie, laissez votre esprit à l'affût de ce qui pourrait surgir. Gare, toutefois, aux effets secondaires. J'ai écrit ce texte dans une salle d'attente, et je n'ai pas entendu l'infirmière appeler mon nom."
+      ],
+      "english": [
+        [
+          "I would like to speak up here for an activity that everybody hates: waiting.",
+          "Waiting for a bus in the rain, waiting your turn at the doctor's, waiting for a page to load.",
+          "We experience these moments as an injustice, a dead loss, and we hasten to fill them."
+        ],
+        [
+          "For it must be said from the outset: we no longer really wait.",
+          "At the slightest moment of idle time, a hand slides towards a pocket, the phone lights up, and there we are, absorbed in a profusion of messages, images and news that rarely concern us.",
+          "We abhor a vacuum, as nature did according to the Ancients.",
+          "We no longer champ at the bit; we scroll.",
+          "We think we are saving time like this, when we are only filling it."
+        ],
+        [
+          "Yet waiting, if we let it, is a curious laboratory.",
+          "It is there, in a waiting room without magazines or on a deserted station platform, that the mind starts to daydream, to make unexpected connections between ideas that had never met.",
+          "How many solutions to insoluble problems have appeared in a queue?",
+          "How many love letters have been composed in the head while waiting for a late train?",
+          "Boredom isn't a waste; it's a seedbed.",
+          "Children know it instinctively, they who invent whole worlds while waiting for the adults to finish talking."
+        ],
+        [
+          "I'm not claiming we should throw our phones into the Seine.",
+          "I'm only proposing a modest experiment: the next time you are waiting, wait for nothing else.",
+          "Look at people, listen to the rain, leave your mind on the lookout for whatever might emerge.",
+          "Beware, however, of the side effects.",
+          "I wrote this piece in a waiting room, and I didn't hear the nurse call my name."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "nous empressons",
+          "gloss": "hasten"
+        },
+        {
+          "word": "temps mort",
+          "gloss": "dead time, idle time"
+        },
+        {
+          "word": "d'emblée",
+          "gloss": "from the outset"
+        },
+        {
+          "word": "rongeons plus notre frein",
+          "gloss": "(no longer) champ at the bit"
+        },
+        {
+          "word": "combler",
+          "gloss": "to fill"
+        },
+        {
+          "word": "au moindre",
+          "gloss": "at the slightest"
+        },
+        {
+          "word": "foisonnement",
+          "gloss": "proliferation, abundance"
+        },
+        {
+          "word": "rêvasser",
+          "gloss": "to daydream"
+        },
+        {
+          "word": "gâchis",
+          "gloss": "waste"
+        },
+        {
+          "word": "à l'affût",
+          "gloss": "on the lookout"
+        },
+        {
+          "word": "gare, toutefois, aux",
+          "gloss": "beware, however, of"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-04",
+      "title": "Les chansons de Maëlle",
+      "subtitle": "Maëlle's songs",
+      "topic": "Memory",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Quand sa grand-mère a été placée dans une maison de retraite près de Morlaix, Maëlle a compris que quelque chose s'était brisé. Depuis deux ans, la vieille femme perdait la tête, comme on disait pudiquement dans la famille. Elle confondait ses enfants, oubliait les prénoms de ses petits-enfants, et passait des heures à regarder la fenêtre sans rien dire. Sa mère, épuisée, ne venait plus la voir qu'une fois par mois, le cœur serré.",
+        "Pourtant, une chose résistait. Lorsqu'on la laissait seule, elle chantait, à mi-voix, des bribes de chansons en breton, une langue qu'elle n'avait plus parlée depuis l'enfance. Ses parents la lui avaient interdite à l'école, où l'on punissait les enfants qui « parlaient patois », et elle ne l'avait jamais transmise à ses propres enfants. Les souvenirs récents s'estompaient un à un, mais ces berceuses, enfouies pendant soixante-dix ans, remontaient intactes.",
+        "Maëlle, qui avait vingt-trois ans et travaillait à Rennes, a pris une décision que sa mère a jugée un peu folle. Elle s'est inscrite à un cours de breton du soir et a travaillé d'arrache-pied tout l'hiver. Le week-end, elle faisait la route jusqu'à Morlaix et s'asseyait près du lit de sa grand-mère, un carnet sur les genoux, pour noter les paroles qu'elle fredonnait. Elle n'avait pas le cœur de lui demander de répéter, alors elle attendait, inlassablement, que la chanson revienne.",
+        "Un dimanche de mars, Maëlle a commencé à chanter la première, toute seule, avec son accent maladroit d'étudiante. Sa grand-mère s'est tournée lentement, et elle l'a dévisagée longuement. Puis, avec une lueur que personne ne lui avait vue depuis des mois, elle a corrigé une syllabe, très sérieusement, comme une institutrice. Elle n'a jamais retrouvé le prénom de Maëlle. Mais jusqu'à la fin, elle l'a appelée « ma petite élève »."
+      ],
+      "english": [
+        [
+          "When her grandmother was moved into a care home near Morlaix, Maëlle understood that something had broken.",
+          "For two years, the old woman had been losing her mind, as the family delicately put it.",
+          "She mixed up her children, forgot the names of her grandchildren, and spent hours looking at the window without saying anything.",
+          "Her mother, exhausted, now only came to see her once a month, with a heavy heart."
+        ],
+        [
+          "And yet one thing held out.",
+          "When she was left alone, she sang, under her breath, snatches of songs in Breton, a language she hadn't spoken since childhood.",
+          "Her parents had forbidden it to her at school, where children who \"spoke dialect\" were punished, and she had never passed it on to her own children.",
+          "Recent memories faded one by one, but these lullabies, buried for seventy years, resurfaced intact."
+        ],
+        [
+          "Maëlle, who was twenty-three and worked in Rennes, made a decision that her mother thought a little mad.",
+          "She signed up for an evening class in Breton and worked flat out all winter.",
+          "At weekends, she drove to Morlaix and sat by her grandmother's bed, a notebook on her knees, to write down the words she was humming.",
+          "She didn't have the heart to ask her to repeat them, so she waited, tirelessly, for the song to come back."
+        ],
+        [
+          "One Sunday in March, Maëlle started singing the first one, all by herself, with her clumsy student's accent.",
+          "Her grandmother turned slowly and stared at her for a long time.",
+          "Then, with a glimmer that nobody had seen in her for months, she corrected one syllable, very seriously, like a schoolmistress.",
+          "She never found Maëlle's name again.",
+          "But until the end, she called her \"my little pupil\"."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "perdait la tête",
+          "gloss": "was losing her mind"
+        },
+        {
+          "word": "breton",
+          "gloss": "Breton (language)"
+        },
+        {
+          "word": "bribes",
+          "gloss": "snatches, fragments"
+        },
+        {
+          "word": "berceuse",
+          "gloss": "lullaby"
+        },
+        {
+          "word": "s'estompaient",
+          "gloss": "faded"
+        },
+        {
+          "word": "d'arrache-pied",
+          "gloss": "flat out, relentlessly"
+        },
+        {
+          "word": "n'avait pas le cœur",
+          "gloss": "didn't have the heart"
+        },
+        {
+          "word": "inlassablement",
+          "gloss": "tirelessly"
+        },
+        {
+          "word": "fredonnait",
+          "gloss": "hummed"
+        },
+        {
+          "word": "elle l'a dévisagée",
+          "gloss": "she stared at her"
+        },
+        {
+          "word": "lueur",
+          "gloss": "glimmer"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-05",
+      "title": "Le gardien de la salle douze",
+      "subtitle": "The guard in room twelve",
+      "topic": "Mystery",
+      "symbol": "eye.fill",
+      "paragraphs": [
+        "Depuis onze ans, Raymond surveillait la salle douze du musée d'Art et d'Histoire de Genève, une petite pièce peu fréquentée, consacrée aux paysages suisses du dix-neuvième siècle. Il connaissait chaque toile par cœur, chaque nuage, chaque vache, chaque reflet sur le lac. C'est pourquoi, un lundi matin, il a su immédiatement que quelque chose clochait.",
+        "Sur la grande vue du Léman, près de la rive, une barque était apparue. Elle était minuscule, presque imperceptible, mais Raymond était formel : elle n'y était pas le vendredi précédent. Il se frottait les yeux, comparait avec la carte postale vendue à la boutique, et la barque n'y figurait pas. La semaine suivante, un pêcheur s'était assis dans la barque. La semaine d'après, il tenait une canne.",
+        "Raymond n'a rien dit à personne, de peur qu'on le croie fou, mais il s'était juré d'en avoir le cœur net. Un soir, il s'est caché derrière une porte de service, après la fermeture. Vers vingt-deux heures, il a vu entrer Inès, la jeune restauratrice du musée, avec une boîte de pinceaux et une petite lampe. Il a pris son courage à deux mains et il est sorti de sa cachette.",
+        "Inès n'a pas paru surprise. Avec un sourire espiègle, elle a expliqué qu'en restaurant le tableau, elle avait découvert, sous une couche de vernis, une barque que le peintre avait effacée de son vivant. Elle la dégageait en catimini, un peu chaque semaine, pour voir si quelqu'un s'en apercevrait. « Vous êtes le seul », a-t-elle dit. « Je pensais même que vous étiez au courant, et que vous ne disiez rien pour me faire un clin d'œil. » Depuis, le cartel du tableau mentionne la barque retrouvée, et, en tout petit, le nom du gardien qui l'a vue le premier."
+      ],
+      "english": [
+        [
+          "For eleven years, Raymond had been watching over room twelve of the Museum of Art and History in Geneva, a small, little-visited room devoted to nineteenth-century Swiss landscapes.",
+          "He knew every canvas by heart, every cloud, every cow, every reflection on the lake.",
+          "That is why, one Monday morning, he knew immediately that something was wrong."
+        ],
+        [
+          "On the large view of Lake Geneva, near the shore, a rowing boat had appeared.",
+          "It was tiny, almost imperceptible, but Raymond was adamant: it had not been there the previous Friday.",
+          "He rubbed his eyes, compared it with the postcard sold in the shop, and the boat wasn't on it.",
+          "The following week, a fisherman had sat down in the boat.",
+          "The week after that, he was holding a rod."
+        ],
+        [
+          "Raymond said nothing to anyone, for fear of being thought mad, but he had sworn to get to the bottom of it.",
+          "One evening, he hid behind a service door, after closing time.",
+          "Around ten o'clock, he saw Inès, the museum's young restorer, come in with a box of brushes and a small lamp.",
+          "He plucked up his courage and came out of his hiding place."
+        ],
+        [
+          "Inès didn't seem surprised.",
+          "With a mischievous smile, she explained that while restoring the painting, she had discovered, under a layer of varnish, a boat the painter had erased during his lifetime.",
+          "She was uncovering it on the quiet, a little each week, to see if anyone would notice.",
+          "\"You're the only one,\" she said.",
+          "\"I even thought you knew, and were saying nothing as a kind of wink to me.\"",
+          "Since then, the painting's label has mentioned the rediscovered boat and, in very small print, the name of the guard who saw it first."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "gardien",
+          "gloss": "(museum) guard"
+        },
+        {
+          "word": "toile",
+          "gloss": "canvas, painting"
+        },
+        {
+          "word": "il se frottait les yeux",
+          "gloss": "he rubbed his eyes"
+        },
+        {
+          "word": "imperceptible",
+          "gloss": "imperceptible"
+        },
+        {
+          "word": "d'en avoir le cœur net",
+          "gloss": "to get to the bottom of it"
+        },
+        {
+          "word": "restauratrice",
+          "gloss": "(art) restorer"
+        },
+        {
+          "word": "clochait",
+          "gloss": "was wrong"
+        },
+        {
+          "word": "il a pris son courage à deux mains",
+          "gloss": "he plucked up his courage"
+        },
+        {
+          "word": "espiègle",
+          "gloss": "mischievous"
+        },
+        {
+          "word": "en catimini",
+          "gloss": "on the quiet"
+        },
+        {
+          "word": "un clin d'œil",
+          "gloss": "a nod, a wink"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-06",
+      "title": "Le retour du train de nuit",
+      "subtitle": "The return of the night train",
+      "topic": "Travel",
+      "symbol": "moon.zzz.fill",
+      "paragraphs": [
+        "Il est vingt heures quarante, gare d'Austerlitz, et le quai est noir de monde. Familles chargées de skis, randonneurs, couples en week-end, étudiants avec leurs sacs de couchage : tous attendent le train de nuit pour Briançon, au cœur des Hautes-Alpes. Il y a quelques années encore, cette scène paraissait appartenir au passé.",
+        "Les trains de nuit ont en effet longtemps été en perte de vitesse. Jugés trop peu rentables face au TGV et aux compagnies aériennes à bas prix, ils ont été supprimés les uns après les autres au cours des années 2010. Seules deux lignes ont survécu, grâce à des élus locaux qui ont tenu tête à l'État et à la SNCF. Les voitures, vétustes, n'étaient guère attirantes, et les couchettes avaient la réputation d'être aussi confortables qu'une planche à repasser.",
+        "Depuis, le vent a tourné. La prise de conscience climatique a provoqué un véritable engouement pour ce mode de transport, qui émet bien moins que l'avion et permet de gagner une nuit d'hôtel. Plusieurs lignes ont été rouvertes, vers Nice, Toulouse ou Vienne, et d'autres sont à l'étude, avec à la clé des milliers d'emplois et une nouvelle manière de voyager. Tout n'est pas rose pour autant : les retards restent fréquents, et le matériel neuf promis se fait attendre.",
+        "Dans le compartiment, six inconnus font connaissance en partageant du saucisson et des clémentines. Puis on éteint, et le train s'enfonce dans la nuit, bercé par le bruit régulier des rails. Au petit matin, la contrôleuse frappe aux portes et annonce Briançon. On lève le rideau : dehors, les sommets sont roses de soleil. « C'est pour ça qu'on le prend », dit une passagère, encore en pyjama, « pas pour arriver, mais pour se réveiller ici. »"
+      ],
+      "english": [
+        [
+          "It is twenty to nine in the evening at the Gare d'Austerlitz, and the platform is packed.",
+          "Families laden with skis, hikers, couples away for the weekend, students with their sleeping bags: all are waiting for the night train to Briançon, in the heart of the Hautes-Alpes.",
+          "Only a few years ago, this scene seemed to belong to the past."
+        ],
+        [
+          "Night trains had indeed long been in decline.",
+          "Judged insufficiently profitable compared with high-speed trains and low-cost airlines, they were cut one after another during the 2010s.",
+          "Only two lines survived, thanks to local politicians who stood up to the State and the SNCF.",
+          "The carriages, dilapidated, were hardly appealing, and the berths had a reputation for being about as comfortable as an ironing board."
+        ],
+        [
+          "Since then, the wind has changed.",
+          "Growing climate awareness has sparked a real craze for this mode of transport, which emits far less than flying and saves a night in a hotel.",
+          "Several lines have been reopened, to Nice, Toulouse or Vienna, and others are under study, with thousands of jobs at stake and a new way of travelling.",
+          "Not that everything is rosy: delays are still frequent, and the promised new rolling stock is slow to arrive."
+        ],
+        [
+          "In the compartment, six strangers get to know one another as they share some saucisson and clementines.",
+          "Then the lights go out, and the train plunges into the night, lulled by the steady noise of the rails.",
+          "At dawn, the ticket inspector knocks on the doors and announces Briançon.",
+          "You lift the blind: outside, the peaks are pink with sunlight.",
+          "\"That's why we take it,\" says a passenger, still in her pyjamas, \"not to arrive, but to wake up here.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "couchettes",
+          "gloss": "sleeping berths"
+        },
+        {
+          "word": "supprimés",
+          "gloss": "cut, axed"
+        },
+        {
+          "word": "rentable",
+          "gloss": "profitable"
+        },
+        {
+          "word": "en perte de vitesse",
+          "gloss": "losing ground, in decline"
+        },
+        {
+          "word": "ont tenu tête",
+          "gloss": "stood up to"
+        },
+        {
+          "word": "engouement",
+          "gloss": "craze, enthusiasm"
+        },
+        {
+          "word": "à la clé",
+          "gloss": "at stake, as a result"
+        },
+        {
+          "word": "bercé",
+          "gloss": "rocked, lulled"
+        },
+        {
+          "word": "vétuste",
+          "gloss": "dilapidated"
+        },
+        {
+          "word": "contrôleuse",
+          "gloss": "(female) ticket inspector"
+        },
+        {
+          "word": "au petit matin",
+          "gloss": "at dawn"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-07",
+      "title": "Première garde",
+      "subtitle": "First night on call",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Pour sa première nuit de garde au CHU de Lille, Clara, vingt-six ans, avait tout prévu. Deux cafés, un paquet de biscuits, ses notes de pharmacologie surlignées en trois couleurs et une liste de numéros d'urgence collée au dos de son badge. Ce qu'elle n'avait pas prévu, c'est que son bip sonnerait onze fois avant minuit.",
+        "Vers trois heures, l'infirmière de nuit du service de gériatrie l'a appelée pour monsieur Lefebvre, chambre quatorze. Le vieil homme, quatre-vingt-onze ans, s'était éteint sans crier gare, dans son sommeil. Clara devait constater le décès, remplir les papiers, appeler la famille. Elle avait appris tout cela en cours, sur des cas fictifs, mais elle n'avait jamais vu mourir quelqu'un dont elle connaissait la voix. La veille, il lui avait raconté sa jeunesse à Roubaix, dans les usines textiles, et lui avait demandé si elle avait un amoureux.",
+        "Dans le couloir, Clara était à bout. Elle essayait de ravaler ses larmes, persuadée qu'une interne digne de ce nom ne pleure pas. C'est alors que Martine, l'infirmière, une femme aguerrie qui avait trente ans de service, lui a tendu un mouchoir. « Le jour où ça ne vous fera plus rien, changez de métier », lui a-t-elle dit doucement. « Pleurer, ce n'est pas de la faiblesse ; c'est la preuve qu'il comptait. »",
+        "Elles sont retournées ensemble dans la chambre. Martine a ouvert la fenêtre, comme on le faisait autrefois dans les campagnes du Nord, « pour laisser partir l'âme ». Clara a acquiescé sans comprendre, puis elle a fait ce qu'elle n'avait lu dans aucun manuel : elle a pris le temps de tenir la main du vieil homme, une minute, en silence. Des années plus tard, devenue cheffe de service, elle raconte cette nuit à chaque nouvelle promotion de soignants. Elle ajoute toujours qu'il n'est pas interdit d'ouvrir une fenêtre."
+      ],
+      "english": [
+        [
+          "For her first night on call at Lille University Hospital, Clara, twenty-six, had planned everything.",
+          "Two coffees, a packet of biscuits, her pharmacology notes highlighted in three colours and a list of emergency numbers stuck to the back of her badge.",
+          "What she hadn't planned was that her pager would go off eleven times before midnight."
+        ],
+        [
+          "Around three o'clock, the night nurse on the geriatric ward called her about Monsieur Lefebvre, room fourteen.",
+          "The old man, ninety-one, had passed away without warning, in his sleep.",
+          "Clara had to certify the death, fill in the paperwork, call the family.",
+          "She had learned all this in class, with fictional cases, but she had never seen anyone die whose voice she knew.",
+          "The day before, he had told her about his youth in Roubaix, in the textile mills, and had asked her whether she had a sweetheart."
+        ],
+        [
+          "In the corridor, Clara was at the end of her tether.",
+          "She was trying to hold back her tears, convinced that a junior doctor worthy of the name doesn't cry.",
+          "That was when Martine, the nurse, a seasoned woman with thirty years of service, handed her a tissue.",
+          "\"The day this no longer does anything to you, change jobs,\" she told her gently.",
+          "\"Crying isn't weakness; it's proof that he mattered.\""
+        ],
+        [
+          "They went back into the room together.",
+          "Martine opened the window, as people used to do in the countryside of the North, \"to let the soul go\".",
+          "Clara nodded without understanding, then she did something she hadn't read in any textbook: she took the time to hold the old man's hand, for a minute, in silence.",
+          "Years later, now a head of department, she tells every new intake of healthcare staff about that night.",
+          "She always adds that it isn't forbidden to open a window."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "interne",
+          "gloss": "junior doctor"
+        },
+        {
+          "word": "de garde",
+          "gloss": "on call"
+        },
+        {
+          "word": "aguerrie",
+          "gloss": "seasoned"
+        },
+        {
+          "word": "bip",
+          "gloss": "pager"
+        },
+        {
+          "word": "constater le décès",
+          "gloss": "to certify the death"
+        },
+        {
+          "word": "était à bout",
+          "gloss": "was at the end of her tether"
+        },
+        {
+          "word": "sans crier gare",
+          "gloss": "without warning"
+        },
+        {
+          "word": "ravaler ses larmes",
+          "gloss": "to hold back her tears"
+        },
+        {
+          "word": "a acquiescé",
+          "gloss": "nodded"
+        },
+        {
+          "word": "soignants",
+          "gloss": "carers, healthcare staff"
+        },
+        {
+          "word": "tenir la main",
+          "gloss": "to hold the hand"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-08",
+      "title": "Des citadins dans la Creuse",
+      "subtitle": "City folk in the Creuse",
+      "topic": "Work",
+      "symbol": "laptopcomputer",
+      "paragraphs": [
+        "Il y a dix ans, le village de Faux-la-Montagne, dans la Creuse, comptait à peine quatre cents habitants, et l'école menaçait de fermer. Comme beaucoup de communes rurales du centre de la France, il souffrait de la désertification : les jeunes partaient étudier en ville et ne revenaient pas. Aujourd'hui, la boulangerie a rouvert, l'école compte deux classes de plus, et le café du bourg affiche complet le vendredi soir.",
+        "La raison de ce renouveau tient en un mot : télétravail. Depuis la pandémie, de nombreux cadres parisiens, lyonnais ou bordelais ont débarqué dans la région, attirés par les prix de l'immobilier, le calme et la nature. L'arrivée du haut débit, financée par le département, a rendu possible ce qui relevait autrefois de l'utopie. Sophie, graphiste, travaille pour une agence de Paris depuis une ancienne grange, et ne s'y rend qu'une fois par mois.",
+        "Tout ne se passe pas sans heurts, cependant. Certains habitants dénoncent une hausse des prix qui empêche leurs propres enfants de se loger. D'autres se plaignent des nouveaux venus qui protestent contre le chant du coq ou l'odeur du fumier. Les mauvaises langues prédisaient d'ailleurs que ces néo-ruraux ne feraient pas long feu, et qu'ils repartiraient au premier hiver.",
+        "Le premier hiver a été rude, en effet, avec une tempête qui a privé le village d'électricité pendant quatre jours. Mais c'est précisément là que les choses ont changé. Les agriculteurs ont prêté leurs groupes électrogènes, les nouveaux arrivants ont ouvert leurs cheminées, et tout le monde a appris à se serrer les coudes. Il y a fort à parier que les tensions ne disparaîtront pas, et que certains resteront à la marge. Mais le maire, éleveur de père en fils, résume la situation avec philosophie : « Ils ne savent pas traire une vache, mais ils savent réparer l'ordinateur de la mairie. »"
+      ],
+      "english": [
+        [
+          "Ten years ago, the village of Faux-la-Montagne, in the Creuse, had barely four hundred inhabitants, and the school was threatening to close.",
+          "Like many rural communes in central France, it was suffering from depopulation: young people left to study in the city and didn't come back.",
+          "Today, the bakery has reopened, the school has two more classes, and the village café is full on Friday evenings."
+        ],
+        [
+          "The reason for this revival comes down to one word: remote working.",
+          "Since the pandemic, many executives from Paris, Lyon or Bordeaux have arrived in the region, attracted by property prices, the peace and quiet and nature.",
+          "The arrival of broadband, funded by the department, has made possible what was once a utopian dream.",
+          "Sophie, a graphic designer, works for a Paris agency from an old barn, and only goes there once a month."
+        ],
+        [
+          "Not everything goes smoothly, however.",
+          "Some residents condemn a rise in prices that prevents their own children from finding somewhere to live.",
+          "Others complain about the newcomers who protest against the crowing of the cockerel or the smell of manure.",
+          "The gossips predicted, moreover, that these city folk wouldn't last long, and that they would leave at the first winter."
+        ],
+        [
+          "The first winter was harsh, indeed, with a storm that left the village without electricity for four days.",
+          "But that is precisely when things changed.",
+          "The farmers lent their generators, the newcomers opened up their fireplaces, and everyone learned to stick together.",
+          "It's a safe bet that the tensions won't disappear, and that some will remain on the fringes.",
+          "But the mayor, a livestock farmer like his father before him, sums up the situation philosophically: \"They don't know how to milk a cow, but they know how to fix the town hall computer.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "télétravail",
+          "gloss": "remote working"
+        },
+        {
+          "word": "néo-ruraux",
+          "gloss": "city dwellers who move to the country"
+        },
+        {
+          "word": "désertification",
+          "gloss": "depopulation"
+        },
+        {
+          "word": "haut débit",
+          "gloss": "broadband"
+        },
+        {
+          "word": "se serrer les coudes",
+          "gloss": "to stick together"
+        },
+        {
+          "word": "les mauvaises langues",
+          "gloss": "gossips"
+        },
+        {
+          "word": "dénoncent",
+          "gloss": "condemn"
+        },
+        {
+          "word": "il y a fort à parier",
+          "gloss": "it's a safe bet"
+        },
+        {
+          "word": "débarqué",
+          "gloss": "arrived (unexpectedly)"
+        },
+        {
+          "word": "à la marge",
+          "gloss": "on the fringes"
+        },
+        {
+          "word": "ne feraient pas long feu",
+          "gloss": "wouldn't last long"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-09",
+      "title": "Le courriel et la fin de semaine",
+      "subtitle": "Email and the weekend",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Lorsqu'un Français débarque à Montréal, il s'amuse souvent de la manière dont parlent les Québécois. Il remarque l'accent, les sacres, les expressions savoureuses, et il conclut volontiers, avec un brin de dédain, que le français d'Amérique est une langue pittoresque, figée dans le passé. Il s'en faut de beaucoup.",
+        "Car c'est souvent à rebours qu'il faudrait raisonner. Entourés de plus de trois cents millions d'anglophones, les Québécois savent depuis longtemps que leur langue est menacée. Ils ont donc développé une vigilance que l'on ne trouve guère de l'autre côté de l'océan. Quand Paris adoptait « e-mail » sans y penser, Québec inventait le mot « courriel », aujourd'hui recommandé jusqu'en France. Là où le Parisien fait du « shopping » pendant le « week-end », le Montréalais magasine pendant la fin de semaine. On y clavarde au lieu de « chatter », et les panneaux indiquent « arrêt » là où les nôtres affichent « stop ».",
+        "Ce n'est pas que le français du Québec ignore les emprunts. Dans la langue familière, il en est même foisonnant : on y parle de « char » pour une voiture, de « chum » pour un ami, et l'on « parke » volontiers sa voiture. Mais la différence est politique : outre-Atlantique, chaque anglicisme est perçu comme une petite défaite, alors qu'en France, il passe trop souvent pour un signe de modernité.",
+        "Les Français aiment se targuer d'être les gardiens de la langue. Ils créent des commissions, publient des dictionnaires et s'indignent dans les journaux. Ils feraient bien, pourtant, d'emprunter à leurs cousins québécois un peu de leur inventivité, et peut-être un peu de leur inquiétude. Une langue ne meurt pas parce qu'elle change, mais parce que ses locuteurs cessent de croire qu'elle peut tout dire."
+      ],
+      "english": [
+        [
+          "When a French person lands in Montreal, they are often amused by the way people from Quebec talk.",
+          "They notice the accent, the swear words, the colourful expressions, and are quick to conclude, with a hint of disdain, that North American French is a picturesque language, frozen in the past.",
+          "Far from it."
+        ],
+        [
+          "For it is often the other way round that one ought to reason.",
+          "Surrounded by more than three hundred million English speakers, the people of Quebec have long known that their language is under threat.",
+          "They have therefore developed a vigilance that is scarcely found on the other side of the ocean.",
+          "While Paris adopted \"e-mail\" without a second thought, Quebec invented the word \"courriel\", now recommended even in France.",
+          "Where a Parisian goes \"shopping\" at the \"weekend\", a Montrealer \"magasine\" during the \"fin de semaine\".",
+          "There they \"clavardent\" instead of \"chatting\", and the road signs say \"arrêt\" where ours display \"stop\"."
+        ],
+        [
+          "It's not that Quebec French knows nothing of borrowings.",
+          "In everyday speech, it is even teeming with them: people say \"char\" for a car, \"chum\" for a friend, and readily \"parke\" their car.",
+          "But the difference is political: across the Atlantic, every anglicism is perceived as a small defeat, whereas in France it too often passes for a sign of modernity."
+        ],
+        [
+          "The French like to pride themselves on being the guardians of the language.",
+          "They set up commissions, publish dictionaries and express outrage in the newspapers.",
+          "They would do well, however, to borrow from their Quebec cousins a little of their inventiveness, and perhaps a little of their worry.",
+          "A language doesn't die because it changes, but because its speakers stop believing it can say everything."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "anglicisme",
+          "gloss": "anglicism"
+        },
+        {
+          "word": "courriel",
+          "gloss": "email"
+        },
+        {
+          "word": "clavarde",
+          "gloss": "chat online"
+        },
+        {
+          "word": "foisonnant",
+          "gloss": "thriving, teeming"
+        },
+        {
+          "word": "menacée",
+          "gloss": "threatened"
+        },
+        {
+          "word": "outre-Atlantique",
+          "gloss": "across the Atlantic"
+        },
+        {
+          "word": "il s'en faut de beaucoup",
+          "gloss": "far from it"
+        },
+        {
+          "word": "dédain",
+          "gloss": "disdain"
+        },
+        {
+          "word": "sacres",
+          "gloss": "Québec swear words"
+        },
+        {
+          "word": "se targuer d'être",
+          "gloss": "to pride themselves on being"
+        },
+        {
+          "word": "à rebours",
+          "gloss": "the other way round, against the grain"
+        },
+        {
+          "word": "emprunter",
+          "gloss": "to borrow"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-10",
+      "title": "Le glacier qui recule",
+      "subtitle": "The retreating glacier",
+      "topic": "Environment",
+      "symbol": "snowflake",
+      "paragraphs": [
+        "Pour atteindre la Mer de Glace depuis la gare du Montenvers, au-dessus de Chamonix, il faut aujourd'hui descendre plus de cinq cents marches. En 1988, il en fallait trois. Le long de l'escalier, des panneaux indiquent le niveau de la glace année après année : 1990, 2000, 2010, 2020. Les visiteurs les photographient en silence, comme on lit des noms sur un monument aux morts.",
+        "Le plus grand glacier de France recule à vue d'œil. Depuis le milieu du dix-neuvième siècle, il a perdu plus de deux kilomètres de longueur et près de deux cents mètres d'épaisseur à certains endroits. Le constat est sans appel : selon les glaciologues, à ce rythme, la Mer de Glace pourrait avoir perdu l'essentiel de son volume d'ici la fin du siècle. La fonte, de plus en plus rapide, laisse à nu des parois instables et des moraines grises, là où les peintres d'autrefois voyaient une mer blanche figée dans la montagne.",
+        "Pour les guides de Chamonix, ces changements sont plus que des statistiques. Bernard Tissot, qui emmène des alpinistes sur le glacier depuis trente-cinq ans, a vu les itinéraires devenir plus dangereux. Il a fallu installer des échelles métalliques pour descendre jusqu'à la glace, puis les rallonger presque chaque année. « Avant, on marchait sur le glacier ; maintenant, on le cherche », dit-il, sans dramatiser. Il se garde bien de faire la morale à ses clients, mais il leur montre les panneaux, et cela suffit souvent.",
+        "En fin de journée, alors que le dernier train redescend vers la vallée, il jette un regard sur la langue de glace, sale et fissurée. Il avoue ressentir un pincement au cœur. « Mon grand-père était guide, mon père aussi », explique-t-il. « Je serai peut-être le dernier à avoir connu ce glacier vivant. »"
+      ],
+      "english": [
+        [
+          "To reach the Mer de Glace from Montenvers station, above Chamonix, you now have to go down more than five hundred steps.",
+          "In 1988, it took three.",
+          "Along the stairway, signs show the level of the ice year after year: 1990, 2000, 2010, 2020.",
+          "Visitors photograph them in silence, the way one reads names on a war memorial."
+        ],
+        [
+          "The largest glacier in France is visibly retreating.",
+          "Since the middle of the nineteenth century, it has lost more than two kilometres in length and nearly two hundred metres in thickness in some places.",
+          "The verdict is beyond dispute: according to glaciologists, at this rate the Mer de Glace could have lost most of its volume by the end of the century.",
+          "The melting, faster and faster, is laying bare unstable rock faces and grey moraines, where painters of the past saw a white sea frozen in the mountain."
+        ],
+        [
+          "For the Chamonix guides, these changes are more than statistics.",
+          "Bernard Tissot, who has been taking mountaineers onto the glacier for thirty-five years, has seen the routes become more dangerous.",
+          "Metal ladders had to be installed to get down to the ice, then extended almost every year.",
+          "\"We used to walk on the glacier; now we look for it,\" he says, without dramatising.",
+          "He takes care not to lecture his clients, but he shows them the signs, and that is often enough."
+        ],
+        [
+          "At the end of the day, as the last train goes back down into the valley, he glances at the tongue of ice, dirty and cracked.",
+          "He admits to feeling a pang of sadness.",
+          "\"My grandfather was a guide, and so was my father,\" he explains.",
+          "\"I may be the last to have known this glacier alive.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "Mer de Glace",
+          "gloss": "the \"Sea of Ice\" glacier at Chamonix"
+        },
+        {
+          "word": "recule",
+          "gloss": "is retreating"
+        },
+        {
+          "word": "moraine",
+          "gloss": "moraine (glacial debris)"
+        },
+        {
+          "word": "fonte",
+          "gloss": "melting"
+        },
+        {
+          "word": "échelles",
+          "gloss": "ladders"
+        },
+        {
+          "word": "le constat est sans appel",
+          "gloss": "the verdict is beyond dispute"
+        },
+        {
+          "word": "à vue d'œil",
+          "gloss": "visibly"
+        },
+        {
+          "word": "d'ici la fin du siècle",
+          "gloss": "by the end of the century"
+        },
+        {
+          "word": "alpinistes",
+          "gloss": "mountaineers"
+        },
+        {
+          "word": "il se garde bien de",
+          "gloss": "he takes care not to"
+        },
+        {
+          "word": "un pincement au cœur",
+          "gloss": "a pang of sadness"
+        },
+        {
+          "word": "panneaux",
+          "gloss": "signs"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-11",
+      "title": "La photo d'Oran",
+      "subtitle": "The photo from Oran",
+      "topic": "Family",
+      "symbol": "camera.fill",
+      "paragraphs": [
+        "Mon père a toujours été un homme taiseux. Né à Oran en 1950, arrivé à Marseille à douze ans avec sa mère et une valise, il a passé sa vie à travailler sur le port, à réparer des moteurs et à regarder le football à la télévision. Quand je lui demandais comment c'était, là-bas, il esquivait avec une plaisanterie ou changeait de sujet. J'ai fini par ne plus poser la question.",
+        "C'est en cherchant un tournevis dans un tiroir de son atelier que j'ai trouvé la photo. On y voyait deux garçons d'une dizaine d'années, assis sur un muret au bord de la mer, les bras sur les épaules l'un de l'autre. L'un était mon père, reconnaissable à ses oreilles décollées. L'autre, je ne l'avais jamais vu. Au dos, d'une écriture d'enfant, on avait écrit deux prénoms : « Jean et Karim, amis pour toujours, 1961 ».",
+        "Ce soir-là, j'ai posé la photo sur la table, sans rien dire. Mon père l'a regardée longtemps. Puis, à demi-mot d'abord, il m'a raconté ce qu'il avait tu pendant soixante ans : l'enfance dans le quartier de la Marine, le voisin Karim avec qui il partageait tout, la guerre qui s'approchait, le départ précipité des familles rapatriées, l'été 1962. Il n'avait pas pu dire au revoir à son ami. Il avait voulu faire table rase, disait-il, parce qu'on ne peut pas vivre avec une déchirure ouverte.",
+        "Il m'a fallu six mois de recherches, des dizaines de messages et l'aide d'une association franco-algérienne pour retrouver Karim, qui vivait toujours à Oran. Lorsque je l'ai eu au téléphone, il est resté silencieux un long moment, bouleversé, puis il a dit : « Il a toujours ses oreilles ? » Le printemps suivant, j'ai accompagné mon père de l'autre côté de la Méditerranée, pour la première fois depuis son exil. Sur le même muret, devant la même mer, deux vieillards se sont serré la main, puis mon père a fondu en larmes. Je ne l'avais jamais vu pleurer."
+      ],
+      "english": [
+        [
+          "My father has always been a man of few words.",
+          "Born in Oran in 1950, arriving in Marseille at twelve with his mother and a suitcase, he spent his life working at the port, repairing engines and watching football on television.",
+          "Whenever I asked him what it was like over there, he dodged the question with a joke or changed the subject.",
+          "I eventually stopped asking."
+        ],
+        [
+          "It was while looking for a screwdriver in a drawer in his workshop that I found the photo.",
+          "It showed two boys of about ten, sitting on a low wall by the sea, with their arms around each other's shoulders.",
+          "One was my father, recognisable by his sticking-out ears.",
+          "The other I had never seen.",
+          "On the back, in a child's handwriting, someone had written two first names: \"Jean and Karim, friends forever, 1961\"."
+        ],
+        [
+          "That evening, I put the photo on the table, without saying anything.",
+          "My father looked at it for a long time.",
+          "Then, in veiled terms at first, he told me what he had kept quiet for sixty years: his childhood in the Marine district, his neighbour Karim with whom he shared everything, the war that was drawing near, the hurried departure of the repatriated families, the summer of 1962.",
+          "He hadn't been able to say goodbye to his friend.",
+          "He had wanted to wipe the slate clean, he said, because you can't live with an open wound."
+        ],
+        [
+          "It took me six months of research, dozens of messages and the help of a Franco-Algerian association to find Karim, who was still living in Oran.",
+          "When I got him on the phone, he was silent for a long while, deeply shaken, then he said: \"Does he still have those ears?\"",
+          "The following spring, I went with my father across the Mediterranean, for the first time since his exile.",
+          "On the same low wall, facing the same sea, two old men shook hands, then my father burst into tears.",
+          "I had never seen him cry."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "taiseux",
+          "gloss": "taciturn, a man of few words"
+        },
+        {
+          "word": "il esquivait",
+          "gloss": "he dodged"
+        },
+        {
+          "word": "tiroir",
+          "gloss": "drawer"
+        },
+        {
+          "word": "rapatriées",
+          "gloss": "repatriated (from Algeria)"
+        },
+        {
+          "word": "déchirure",
+          "gloss": "rift, wrench"
+        },
+        {
+          "word": "faire table rase",
+          "gloss": "to wipe the slate clean"
+        },
+        {
+          "word": "fini par",
+          "gloss": "ended up"
+        },
+        {
+          "word": "bouleversé",
+          "gloss": "deeply shaken"
+        },
+        {
+          "word": "à demi-mot",
+          "gloss": "in veiled terms, half-saying"
+        },
+        {
+          "word": "a fondu en larmes",
+          "gloss": "burst into tears"
+        },
+        {
+          "word": "exil",
+          "gloss": "exile"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-12",
+      "title": "La reine du Vieux-Port",
+      "subtitle": "The queen of the Old Port",
+      "topic": "Sport",
+      "symbol": "figure.bowling",
+      "paragraphs": [
+        "Sur le terrain poussiéreux du parc Borély, à Marseille, les habitués s'arrêtent de parler quand Nadine Agostini s'avance. Elle a soixante-deux ans, des lunettes de soleil sur le front et une réputation qui dépasse largement les frontières de la ville. Triple championne de France de pétanque, elle est l'une des meilleures tireuses de sa génération. Elle prend sa boule, plie légèrement les genoux, et frappe : un carreau parfait. La boule adverse s'envole ; la sienne reste exactement à sa place, à vingt centimètres du cochonnet.",
+        "Il n'en a pas toujours été ainsi. Quand elle a commencé à jouer, adolescente, la pétanque était un sport d'hommes, et le machisme y régnait sans partage. « Les vieux me disaient d'aller plutôt faire la cuisine », raconte-t-elle en riant. « Alors je les ai battus, un par un, et ils ont arrêté de rouler des mécaniques. » Il lui a fallu des années pour faire ses preuves et être acceptée dans les compétitions mixtes, où certains joueurs refusaient encore de lui serrer la main.",
+        "Aujourd'hui, son palmarès impressionne, mais c'est surtout son influence qui compte. Le samedi matin, elle entraîne gratuitement des jeunes filles des quartiers nord, dont certaines n'avaient jamais touché une boule. Elle leur apprend la technique, bien sûr, mais aussi la patience, la concentration et l'art de garder son calme quand un adversaire tente de vous déstabiliser. Car à la pétanque, on parle beaucoup, on raconte des galéjades, on conteste chaque mesure, et il faut savoir rester de marbre.",
+        "Sur le terrain, un vieux joueur s'approche et affirme, l'air sérieux, que la boule de Nadine a touché un caillou. Elle ne s'en laisse pas conter. Elle sort un mètre de sa poche, mesure, et se relève avec un sourire. « Le caillou, c'est toi, Marcel », lui dit-elle. Toute l'assistance éclate de rire, Marcel le premier."
+      ],
+      "english": [
+        [
+          "On the dusty pitch of the Parc Borély in Marseille, the regulars stop talking when Nadine Agostini steps forward.",
+          "She is sixty-two, with sunglasses pushed up on her forehead and a reputation that extends well beyond the city limits.",
+          "Three-time French pétanque champion, she is one of the best shooters of her generation.",
+          "She takes her boule, bends her knees slightly, and throws: a perfect carreau.",
+          "The opponent's boule flies away; hers stays exactly in its place, twenty centimetres from the jack."
+        ],
+        [
+          "It hasn't always been this way.",
+          "When she started playing, as a teenager, pétanque was a man's sport, and male chauvinism reigned supreme.",
+          "\"The old men told me I'd do better to go and cook,\" she recalls, laughing.",
+          "\"So I beat them, one by one, and they stopped swaggering.\"",
+          "It took her years to prove herself and be accepted in mixed competitions, where some players still refused to shake her hand."
+        ],
+        [
+          "Today, her record is impressive, but it is above all her influence that counts.",
+          "On Saturday mornings, she coaches girls from the northern districts for free, some of whom had never touched a boule.",
+          "She teaches them technique, of course, but also patience, concentration and the art of keeping calm when an opponent tries to unsettle you.",
+          "For in pétanque, people talk a lot, tell tall tales, dispute every measurement, and you have to know how to stay stony-faced."
+        ],
+        [
+          "On the pitch, an old player comes over and claims, with a serious air, that Nadine's boule hit a pebble.",
+          "She's not taken in.",
+          "She takes a tape measure out of her pocket, measures, and gets up with a smile.",
+          "\"The pebble is you, Marcel,\" she tells him.",
+          "The whole audience bursts out laughing, Marcel first of all."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "pétanque",
+          "gloss": "pétanque, French bowls"
+        },
+        {
+          "word": "tireuse",
+          "gloss": "(female) shooter (in pétanque)"
+        },
+        {
+          "word": "boule",
+          "gloss": "boule, metal ball"
+        },
+        {
+          "word": "cochonnet",
+          "gloss": "jack"
+        },
+        {
+          "word": "galéjades",
+          "gloss": "tall tales (Provence)"
+        },
+        {
+          "word": "machisme",
+          "gloss": "male chauvinism"
+        },
+        {
+          "word": "faire ses preuves",
+          "gloss": "to prove oneself"
+        },
+        {
+          "word": "rouler des mécaniques",
+          "gloss": "to show off, swagger"
+        },
+        {
+          "word": "carreau",
+          "gloss": "shot that knocks out the opponent's boule and takes its place"
+        },
+        {
+          "word": "elle ne s'en laisse pas conter",
+          "gloss": "she's not easily fooled"
+        },
+        {
+          "word": "le terrain",
+          "gloss": "the pitch, the ground"
+        },
+        {
+          "word": "palmarès",
+          "gloss": "record of wins"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-13",
+      "title": "Le café suspendu",
+      "subtitle": "The suspended coffee",
+      "topic": "Money",
+      "symbol": "cup.and.saucer.fill",
+      "paragraphs": [
+        "Au comptoir de chez Fernand, un petit café de Saint-Gilles, à Bruxelles, une ardoise est accrochée au-dessus du zinc. On y lit, à la craie : « Cafés suspendus : 7 ». Le principe, venu de Naples, est simple : un client paie deux cafés, en boit un, et laisse l'autre pour quelqu'un qui n'a pas les moyens. Le patron trace un trait sur l'ardoise, et le café attend son destinataire.",
+        "Au début, Fernand était sceptique. Il ne roulait pas sur l'or, et il craignait que certains habitués ne profitent du système. Pendant des semaines, les cafés se sont accumulés sans que personne ne vienne les réclamer : les gens qui faisaient la manche devant l'église n'osaient pas entrer, ou ne croyaient pas que c'était sérieux. L'un d'eux, un ancien maçon d'une soixantaine d'années nommé Jojo, est passé dix fois devant la vitrine avant de pousser la porte, méfiant, comme s'il s'attendait à un piège.",
+        "Fernand lui a servi son café sans un mot, puis un deuxième. Jojo est revenu le lendemain, puis tous les jours. Peu à peu, il s'est mis à parler avec les autres clients, à commenter les matchs, à donner son avis sur la politique belge, ce qui, à Bruxelles, est une forme d'intégration. Mais il gardait une certaine gêne. On sentait que ce geste, si généreux soit-il, blessait un peu sa fierté. Il n'aimait pas l'idée de recevoir à fonds perdus.",
+        "Un matin d'hiver, Jojo est arrivé avec une pièce de deux euros, gagnée en aidant un voisin à déménager. Il l'a posée sur le zinc, très droit. « Un café pour moi, et un suspendu », a-t-il dit. Fernand a compris qu'il ne fallait surtout pas refuser. Il a pris la craie et a ajouté un trait sur l'ardoise, pendant que Jojo, pour la première fois, rendait la pareille."
+      ],
+      "english": [
+        [
+          "At the counter of Chez Fernand, a little café in Saint-Gilles, in Brussels, a chalkboard hangs above the bar.",
+          "On it you can read, in chalk: \"Suspended coffees: 7\".",
+          "The idea, which comes from Naples, is simple: a customer pays for two coffees, drinks one, and leaves the other for someone who can't afford it.",
+          "The owner draws a line on the board, and the coffee waits for its recipient."
+        ],
+        [
+          "At first, Fernand was sceptical.",
+          "He wasn't rolling in money, and he was afraid that some regulars would take advantage of the system.",
+          "For weeks, the coffees piled up without anyone coming to claim them: the people begging outside the church didn't dare come in, or didn't believe it was serious.",
+          "One of them, a former bricklayer in his sixties called Jojo, walked past the window ten times before pushing open the door, suspicious, as if he expected a trap."
+        ],
+        [
+          "Fernand served him his coffee without a word, then a second one.",
+          "Jojo came back the next day, then every day.",
+          "Little by little, he started chatting with the other customers, commenting on the matches, giving his opinion on Belgian politics, which, in Brussels, is a form of integration.",
+          "But he retained a certain unease.",
+          "You could tell that this gesture, however generous, wounded his pride a little.",
+          "He didn't like the idea of receiving with no prospect of giving back."
+        ],
+        [
+          "One winter morning, Jojo arrived with a two-euro coin, earned by helping a neighbour move house.",
+          "He put it down on the bar, standing very straight.",
+          "\"A coffee for me, and a suspended one,\" he said.",
+          "Fernand understood that he must on no account refuse.",
+          "He took the chalk and added a line on the board, while Jojo, for the first time, returned the favour."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "cafés suspendus",
+          "gloss": "suspended coffees (paid in advance for strangers)"
+        },
+        {
+          "word": "zinc",
+          "gloss": "bar counter"
+        },
+        {
+          "word": "le patron",
+          "gloss": "the owner"
+        },
+        {
+          "word": "ardoise",
+          "gloss": "slate, chalkboard"
+        },
+        {
+          "word": "réclamer",
+          "gloss": "to claim"
+        },
+        {
+          "word": "il ne roulait pas sur l'or",
+          "gloss": "he wasn't rolling in money"
+        },
+        {
+          "word": "faisaient la manche",
+          "gloss": "were begging"
+        },
+        {
+          "word": "méfiant",
+          "gloss": "suspicious"
+        },
+        {
+          "word": "geste",
+          "gloss": "gesture"
+        },
+        {
+          "word": "fierté",
+          "gloss": "pride"
+        },
+        {
+          "word": "rendait la pareille",
+          "gloss": "returned the favour"
+        },
+        {
+          "word": "à fonds perdus",
+          "gloss": "with no hope of return"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-14",
+      "title": "Le retour des cigognes",
+      "subtitle": "The return of the storks",
+      "topic": "Animals",
+      "symbol": "bird.fill",
+      "paragraphs": [
+        "En Alsace, la cigogne est bien plus qu'un oiseau. On la retrouve sur les cartes postales, les enseignes des boulangeries, les torchons et les magnets des boutiques de souvenirs de Strasbourg et de Colmar. Selon la légende, c'est elle qui apporte les bébés, et un nid sur le toit est considéré comme de bon augure pour toute la maison. Pourtant, au début des années 1970, cet emblème était au bord de l'extinction : il ne restait que neuf couples dans toute la région.",
+        "Les causes de ce déclin étaient multiples. L'assèchement des zones humides avait privé les oiseaux de leur nourriture, les pesticides les empoisonnaient, et beaucoup mouraient électrocutés sur les lignes à haute tension. Surtout, les cigognes, qui partaient migrer en Afrique de l'Ouest, étaient chassées ou périssaient d'épuisement pendant le voyage. Chaque printemps, elles étaient moins nombreuses à revenir. Dans les villages, les nids vides restaient sur les cheminées comme des reproches.",
+        "Des ornithologues ont alors tenté un programme de réintroduction audacieux. Ils ont élevé de jeunes cigognes dans des enclos pendant trois ans, ce qui, curieusement, leur faisait perdre l'instinct de migrer. Libérées, elles restaient en Alsace toute l'année, nichaient sur les clochers et donnaient naissance à des petits qui, eux, ne partaient pas davantage. Les compagnies d'électricité ont isolé les lignes les plus dangereuses, et des villages entiers ont installé des plateformes sur leurs toits.",
+        "Ce fut un pari réussi : on compte aujourd'hui plus de mille couples dans la région. Mais le succès a son paradoxe. Avec le réchauffement du climat, de nombreuses cigognes sauvages ne migrent plus du tout, ou s'arrêtent en Espagne, où elles se nourrissent dans les décharges à ciel ouvert. L'oiseau qui annonçait le printemps est devenu sédentaire. Les Alsaciens, eux, ne s'en plaignent pas : leurs toits ne sont jamais vides."
+      ],
+      "english": [
+        [
+          "In Alsace, the stork is much more than a bird.",
+          "You find it on postcards, bakery signs, tea towels and the fridge magnets in the souvenir shops of Strasbourg and Colmar.",
+          "According to legend, it is she who brings babies, and a nest on the roof is considered a good omen for the whole house.",
+          "Yet in the early 1970s, this emblem was on the verge of extinction: only nine pairs remained in the whole region."
+        ],
+        [
+          "The causes of this decline were many.",
+          "The draining of wetlands had deprived the birds of their food, pesticides were poisoning them, and many died electrocuted on high-voltage power lines.",
+          "Above all, the storks, which went off to migrate to West Africa, were hunted or perished from exhaustion during the journey.",
+          "Every spring, fewer of them came back.",
+          "In the villages, the empty nests stayed on the chimneys like reproaches."
+        ],
+        [
+          "Ornithologists then tried a bold reintroduction programme.",
+          "They raised young storks in enclosures for three years, which, curiously, made them lose the instinct to migrate.",
+          "Once released, they stayed in Alsace all year round, nested on the church towers and gave birth to young that, in turn, didn't leave either.",
+          "The electricity companies insulated the most dangerous lines, and entire villages installed platforms on their roofs."
+        ],
+        [
+          "It was a successful gamble: today there are more than a thousand pairs in the region.",
+          "But the success has its paradox.",
+          "With the warming climate, many wild storks no longer migrate at all, or stop in Spain, where they feed in open-air rubbish dumps.",
+          "The bird that heralded spring has become sedentary.",
+          "The people of Alsace, for their part, don't complain: their roofs are never empty."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "cigognes",
+          "gloss": "storks"
+        },
+        {
+          "word": "emblème",
+          "gloss": "emblem"
+        },
+        {
+          "word": "au bord de l'extinction",
+          "gloss": "on the verge of extinction"
+        },
+        {
+          "word": "lignes à haute tension",
+          "gloss": "high-voltage power lines"
+        },
+        {
+          "word": "enclos",
+          "gloss": "enclosure"
+        },
+        {
+          "word": "réintroduction",
+          "gloss": "reintroduction"
+        },
+        {
+          "word": "nichaient",
+          "gloss": "nested"
+        },
+        {
+          "word": "migrer",
+          "gloss": "to migrate"
+        },
+        {
+          "word": "paradoxe",
+          "gloss": "paradox"
+        },
+        {
+          "word": "décharges",
+          "gloss": "rubbish dumps"
+        },
+        {
+          "word": "un pari réussi",
+          "gloss": "a successful gamble"
+        },
+        {
+          "word": "de bon augure",
+          "gloss": "a good omen"
+        }
+      ]
+    },
+    {
+      "id": "fr-c1-15",
+      "title": "La voix de minuit",
+      "subtitle": "The midnight voice",
+      "topic": "Media",
+      "symbol": "radio.fill",
+      "paragraphs": [
+        "Depuis neuf ans, Geneviève anime une émission de nuit sur une petite radio de Québec, de minuit à quatre heures. Elle passe de la musique douce, lit des poèmes et ouvre l'antenne aux auditeurs qui ne dorment pas : chauffeurs de camion, infirmières, insomniaques, amoureux malheureux. C'est une tribune libre sans débat ni sujet imposé, où chacun peut dire ce qu'il a sur le cœur.",
+        "Parmi ses fidèles, il y avait Armand. Il appelait chaque nuit, vers deux heures, d'une voix chevrotante, pour demander la même chanson, une vieille valse que plus personne n'écoutait. Il expliquait qu'elle lui rappelait sa femme, morte depuis longtemps, avec qui il dansait dans la cuisine. Il ne parlait jamais plus d'une minute, et il terminait toujours par la même phrase : « Bonne nuit, la jeunesse. » Geneviève avait pris le pli de la garder toujours prête, et les autres auditeurs attendaient même « la valse d'Armand » comme un rituel.",
+        "Un soir de janvier, Armand ne s'est pas manifesté. Ni le lendemain, ni la semaine suivante. Geneviève, inquiète, a demandé à la standardiste de retrouver son numéro, mais il appelait toujours d'un numéro masqué. Alors, en direct, elle a lancé un appel : si quelqu'un connaissait un vieux monsieur nommé Armand qui aimait les valses, qu'il le dise. Le standard s'est aussitôt illuminé.",
+        "Une femme a appelé d'une résidence pour personnes âgées de Lévis. Armand y avait été transféré après une chute, et il se sentait dépaysé, sans radio dans sa nouvelle chambre. Qu'à cela ne tienne : le lendemain, trois auditeurs lui en ont apporté une. Cette nuit-là, à deux heures, Geneviève a passé la valse sans qu'on la lui demande. Elle a appris plus tard que, dans le salon de la résidence, une dizaine de pensionnaires avaient veillé pour l'écouter, et qu'Armand avait dansé avec l'infirmière de nuit."
+      ],
+      "english": [
+        [
+          "For nine years, Geneviève has hosted a night show on a small radio station in Quebec City, from midnight to four.",
+          "She plays gentle music, reads poems and opens the line to listeners who can't sleep: truck drivers, nurses, insomniacs, unhappy lovers.",
+          "It's an open phone-in without debate or set topic, where everyone can say what's on their mind."
+        ],
+        [
+          "Among her regulars, there was Armand.",
+          "He called every night, around two o'clock, in a quavering voice, to request the same song, an old waltz that nobody listened to any more.",
+          "He explained that it reminded him of his wife, long dead, with whom he used to dance in the kitchen.",
+          "He never spoke for more than a minute, and he always ended with the same words: \"Good night, young lady.\"",
+          "Geneviève had got into the habit of always keeping it ready, and the other listeners even waited for \"Armand's waltz\" as a ritual."
+        ],
+        [
+          "One January evening, Armand didn't call in.",
+          "Nor the next day, nor the following week.",
+          "Geneviève, worried, asked the switchboard operator to find his number, but he had always called from a withheld number.",
+          "So, live on air, she put out an appeal: if anyone knew an old gentleman named Armand who liked waltzes, they should say so.",
+          "The switchboard lit up at once."
+        ],
+        [
+          "A woman called from a seniors' residence in Lévis.",
+          "Armand had been moved there after a fall, and he felt out of place, without a radio in his new room.",
+          "No matter: the next day, three listeners brought him one.",
+          "That night, at two o'clock, Geneviève played the waltz without anyone asking for it.",
+          "She later learned that in the residence lounge, a dozen residents had stayed up to listen to it, and that Armand had danced with the night nurse."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "anime",
+          "gloss": "hosts"
+        },
+        {
+          "word": "auditeurs",
+          "gloss": "listeners"
+        },
+        {
+          "word": "tribune libre",
+          "gloss": "open phone-in"
+        },
+        {
+          "word": "une voix chevrotante",
+          "gloss": "a quavering voice"
+        },
+        {
+          "word": "avait pris le pli",
+          "gloss": "had got into the habit"
+        },
+        {
+          "word": "standardiste",
+          "gloss": "switchboard operator"
+        },
+        {
+          "word": "en direct",
+          "gloss": "live on air"
+        },
+        {
+          "word": "ne s'est pas manifesté",
+          "gloss": "didn't come forward"
+        },
+        {
+          "word": "l'antenne",
+          "gloss": "the air (broadcast)"
+        },
+        {
+          "word": "dépaysé",
+          "gloss": "out of place"
+        },
+        {
+          "word": "veillé",
+          "gloss": "stayed up"
+        },
+        {
+          "word": "qu'à cela ne tienne",
+          "gloss": "never mind, no matter"
+        }
+      ]
+    }
+  ]
+}

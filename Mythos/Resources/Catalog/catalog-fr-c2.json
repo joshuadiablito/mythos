@@ -1,0 +1,1500 @@
+{
+  "language": "fr",
+  "level": "C2",
+  "stories": [
+    {
+      "id": "fr-c2-01",
+      "title": "Pour une taxe sur le soleil",
+      "subtitle": "The case for a sun tax",
+      "topic": "Society",
+      "symbol": "sun.max.fill",
+      "paragraphs": [
+        "Il est des injustices si anciennes qu'on a fini par les confondre avec l'ordre naturel des choses. Prenez le soleil. Depuis des siècles, il se répartit sur le territoire national avec un mépris total de l'égalité républicaine : deux mille huit cents heures par an à Marseille, à peine mille six cents à Lille. Le Marseillais n'a rien fait pour mériter cette rente ; il est simplement né au bon endroit, comme un héritier. Il est temps que l'État s'en mêle.",
+        "Je propose donc, en toute modestie, la création d'une contribution solaire universelle. Son assiette serait simple : l'ensoleillement annuel de chaque commune, mesuré par Météo-France. Un barème progressif frapperait les régions indûment favorisées, tandis que les Bretons, les Lillois et les habitants de la vallée de la Maurienne en novembre seraient naturellement exonérés. Les terrasses de café, qui exploitent en catimini cette ressource publique depuis des générations, acquitteraient une surtaxe par chaise longue. Quant aux résidences secondaires du Luberon, il sied de ne pas en parler devant les enfants.",
+        "On m'objectera que l'idée est farfelue. Mais qu'on la juge à l'aune de ce qui existe déjà. Nous avons taxé les fenêtres en 1798, les portes dans la foulée, le sel pendant cinq siècles ; le quidam qui paie aujourd'hui une redevance pour un téléviseur qu'il ne possède plus ne s'étonnera de rien. Le contribuable français a l'habitude : on lui a appris à payer pour l'air qu'il respire, pourvu qu'on l'appelle « transition ».",
+        "La manne ainsi dégagée serait intégralement reversée aux régions défavorisées, sous forme de lampes de luminothérapie et de billets de train pour Cassis. Certes, il faut s'attendre à de la grogne sur la Canebière. Les Marseillais, qui ont un sens aigu de l'injustice lorsqu'elle les concerne, crieront au scandale avant même d'avoir lu le texte. On entendra que le soleil appartient à tout le monde, ce qui est précisément mon argument. On menacera de faire grève, ce qui, dans le Midi, en plein mois d'août, risque de passer inaperçu.",
+        "Et si, malgré tout, la réforme échoue, je me rabattrai sur un projet plus raisonnable : une taxe sur la pluie, payable par les nuages eux-mêmes. Les Bretons, je le sais, ont déjà commencé à protester."
+      ],
+      "english": [
+        [
+          "There are injustices so old that we have come to mistake them for the natural order of things.",
+          "Take the sun.",
+          "For centuries, it has been distributed across the national territory with utter contempt for republican equality: two thousand eight hundred hours a year in Marseille, barely one thousand six hundred in Lille.",
+          "The Marseillais has done nothing to deserve this windfall; he was simply born in the right place, like an heir.",
+          "It is time the State got involved."
+        ],
+        [
+          "I therefore propose, in all modesty, the creation of a universal solar contribution.",
+          "Its base would be simple: the annual hours of sunshine of each municipality, measured by Météo-France.",
+          "A progressive scale would hit the unduly favoured regions, while the Bretons, the people of Lille and the inhabitants of the Maurienne valley in November would naturally be exempt.",
+          "Café terraces, which have been exploiting this public resource on the quiet for generations, would pay a surcharge per deckchair.",
+          "As for the second homes of the Luberon, it is fitting not to mention them in front of the children."
+        ],
+        [
+          "People will object that the idea is hare-brained.",
+          "But let it be judged by the yardstick of what already exists.",
+          "We taxed windows in 1798, doors straight afterwards, salt for five centuries; the ordinary person who today pays a licence fee for a television they no longer own will be surprised by nothing.",
+          "The French taxpayer is used to it: he has been taught to pay for the air he breathes, provided it is called \"transition\"."
+        ],
+        [
+          "The windfall thus generated would be entirely redistributed to disadvantaged regions, in the form of light-therapy lamps and train tickets to Cassis.",
+          "Admittedly, one must expect some grumbling on the Canebière.",
+          "The people of Marseille, who have a keen sense of injustice when it concerns them, will cry scandal before they have even read the text.",
+          "We will hear that the sun belongs to everyone, which is precisely my argument.",
+          "There will be threats of a strike, which, in the South, in the middle of August, may well go unnoticed."
+        ],
+        [
+          "And if, despite everything, the reform fails, I shall fall back on a more reasonable plan: a tax on rain, payable by the clouds themselves.",
+          "The Bretons, I know, have already begun to protest."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "en catimini",
+          "gloss": "on the quiet"
+        },
+        {
+          "word": "rente",
+          "gloss": "unearned income, windfall"
+        },
+        {
+          "word": "indûment",
+          "gloss": "unduly"
+        },
+        {
+          "word": "à l'aune de",
+          "gloss": "by the yardstick of"
+        },
+        {
+          "word": "le contribuable",
+          "gloss": "the taxpayer"
+        },
+        {
+          "word": "assiette",
+          "gloss": "(tax) base"
+        },
+        {
+          "word": "barème",
+          "gloss": "scale, schedule (of rates)"
+        },
+        {
+          "word": "ensoleillement",
+          "gloss": "hours of sunshine"
+        },
+        {
+          "word": "exonérés",
+          "gloss": "exempt"
+        },
+        {
+          "word": "grogne",
+          "gloss": "grumbling, discontent"
+        },
+        {
+          "word": "manne",
+          "gloss": "windfall, godsend"
+        },
+        {
+          "word": "il sied de",
+          "gloss": "it is fitting to"
+        },
+        {
+          "word": "farfelue",
+          "gloss": "hare-brained"
+        },
+        {
+          "word": "quidam",
+          "gloss": "ordinary person, so-and-so"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-02",
+      "title": "Paris, cinq heures",
+      "subtitle": "Paris, five in the morning",
+      "topic": "City",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Il est cinq heures, et Paris n'appartient encore à personne. La nuit se retire lentement des boulevards, comme une marée qui hésiterait à laisser derrière elle ce qu'elle a apporté : une bouteille vide sur un banc, un gant d'enfant, une affiche arrachée qui promettait un concert il y a trois semaines. Sous la lumière blafarde des réverbères, la ville a l'air d'une scène de théâtre après la dernière représentation, quand les acteurs sont partis et que les décors, seuls, se demandent s'ils existent encore.",
+        "Puis viennent les premiers bruits. Le grincement d'un rideau de fer qu'on relève, rue des Martyrs. Le moteur d'une balayeuse qui longe le caniveau avec la patience d'un animal qui broute. Les éboueurs, en vert fluorescent, s'interpellent d'un trottoir à l'autre dans une langue faite de prénoms et de rires. L'eau qui coule des bouches d'égout fait sur les pavés un bruit de ressac, et l'on croirait, un instant, que la Seine a débordé pendant la nuit pour venir laver la ville. Un livreur de journaux passe à vélo, en sifflant un air que personne ne reconnaîtra.",
+        "Dans le premier café ouvert, quelques rescapés de la nuit, fourbus, sont attablés devant un café trop chaud. Une infirmière qui sort de garde, deux étudiants qui n'ont pas dormi, un vieil homme qui, lui, n'a jamais besoin de dormir. Ils ne se parlent pas, mais ils se reconnaissent. Le garçon de café, qui les connaît tous sans savoir leurs noms, pose les tasses devant eux avec la délicatesse d'un sacristain. Ils sont les habitants de cette lisière étroite où la nuit n'est plus tout à fait la nuit et où le jour n'a pas encore pris ses habitudes.",
+        "À l'est, au-dessus des toits de zinc, le ciel frémit. Il passe du noir à l'encre, de l'encre au gris de perle, puis à un rose si discret qu'on le croirait inventé. La ville, engourdie, s'ébroue comme un chien au sortir de l'eau. Les premiers métros grondent sous les pieds. Naguère encore, les poètes disaient que Paris ne dort jamais. Ils avaient tort : elle dort, entre quatre et cinq heures, d'un sommeil bref et léger, et ceux qui l'ont vue dormir savent qu'elle est alors, enfin, presque humble."
+      ],
+      "english": [
+        [
+          "It is five o'clock, and Paris does not yet belong to anyone.",
+          "Night is slowly withdrawing from the boulevards, like a tide reluctant to leave behind what it brought: an empty bottle on a bench, a child's glove, a torn poster that promised a concert three weeks ago.",
+          "Under the pallid light of the streetlamps, the city looks like a theatre stage after the last performance, when the actors have gone and the sets, alone, wonder whether they still exist."
+        ],
+        [
+          "Then come the first sounds.",
+          "The creak of a metal shutter being raised, on rue des Martyrs.",
+          "The engine of a street sweeper running along the gutter with the patience of a grazing animal.",
+          "The refuse collectors, in fluorescent green, call out to one another from pavement to pavement in a language made of first names and laughter.",
+          "The water running from the drains makes a sound of backwash on the cobbles, and for a moment you would think the Seine had overflowed in the night to come and wash the city.",
+          "A newspaper delivery man rides past on his bike, whistling a tune nobody will recognise."
+        ],
+        [
+          "In the first café to open, a few survivors of the night, exhausted, sit at a table in front of a coffee that is too hot.",
+          "A nurse coming off duty, two students who haven't slept, an old man who, for his part, never needs to sleep.",
+          "They don't speak to one another, but they recognise one another.",
+          "The waiter, who knows them all without knowing their names, sets the cups down in front of them with the delicacy of a sacristan.",
+          "They are the inhabitants of that narrow border where night is no longer quite night and where day has not yet settled into its habits."
+        ],
+        [
+          "To the east, above the zinc roofs, the sky stirs.",
+          "It turns from black to ink, from ink to pearl grey, then to a pink so discreet you would think it imagined.",
+          "The city, drowsy, shakes itself like a dog coming out of the water.",
+          "The first metro trains rumble underfoot.",
+          "Not so long ago, poets used to say that Paris never sleeps.",
+          "They were wrong: she sleeps, between four and five o'clock, a brief, light sleep, and those who have seen her sleeping know that she is then, at last, almost humble."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "blafarde",
+          "gloss": "pallid, wan"
+        },
+        {
+          "word": "rideau de fer",
+          "gloss": "metal shutter"
+        },
+        {
+          "word": "éboueurs",
+          "gloss": "refuse collectors"
+        },
+        {
+          "word": "balayeuse",
+          "gloss": "street-sweeping machine"
+        },
+        {
+          "word": "ressac",
+          "gloss": "undertow, backwash"
+        },
+        {
+          "word": "fourbus",
+          "gloss": "exhausted"
+        },
+        {
+          "word": "frémit",
+          "gloss": "quivers, stirs"
+        },
+        {
+          "word": "naguère",
+          "gloss": "not long ago, formerly"
+        },
+        {
+          "word": "attablés",
+          "gloss": "sitting at a table"
+        },
+        {
+          "word": "rescapés",
+          "gloss": "survivors"
+        },
+        {
+          "word": "lisière",
+          "gloss": "edge, border"
+        },
+        {
+          "word": "engourdie",
+          "gloss": "numb, drowsy"
+        },
+        {
+          "word": "s'ébroue",
+          "gloss": "shakes itself (like an animal)"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-03",
+      "title": "La boîte à pain",
+      "subtitle": "The bread bin",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Pendant cinquante-deux ans, Yvonne et Albert Le Bihan ne se sont presque jamais dit qu'ils s'aimaient. Dans leur petite maison de Douarnenez, on n'était pas de ceux qui parlent de leurs sentiments. Albert, ancien marin pêcheur, était un homme bourru, et Yvonne tenait de sa mère une pudeur farouche, qui lui faisait considérer toute déclaration, fût-ce à son propre mari, comme une forme d'indécence.",
+        "Ils avaient pourtant leur rituel. Chaque matin, Albert partait le premier, avant l'aube, et il laissait dans la boîte à pain un petit papier, griffonné au dos d'un ticket de caisse ou d'une enveloppe. Ce n'étaient jamais des mots d'amour. « Il reste du beurre. » « Vent de noroît, prends ton gilet. » « Le chat a encore mangé la ficelle. » Yvonne répondait le soir, de la même écriture appliquée, sur le même genre de papier. Au fil des ans, la boîte à pain est devenue une sorte de correspondance clandestine, dans laquelle il n'y avait que du pain, du beurre et de la météo, et qui pourtant disait tout.",
+        "Quand Yvonne est morte, un mardi de novembre, Albert est resté des semaines sans ouvrir la boîte. Il se nourrissait de biscottes et de soupe en sachet, et il se surprenait, chaque matin, à chercher un crayon. Ses enfants, inquiets, venaient de Brest le dimanche ; ils lui parlaient doucement, comme à un malade, et il ne savait pas quoi leur répondre. Être veuf, c'était cela : ne plus avoir personne à qui dire qu'il reste du beurre.",
+        "Un matin de décembre, il a fini par soulever le couvercle. Sous un quignon desséché, il a trouvé un dernier papier, plié en quatre, qu'Yvonne avait dû glisser là quelques jours avant l'hôpital. Le message était sibyllin, comme toujours : « Pour le pain, va chez Guivarc'h. L'autre, il est trop cuit. Et tu sais bien le reste. » Albert a relu la dernière phrase une dizaine de fois. Il savait bien le reste, en effet ; il l'avait toujours su, et elle ne pouvait pas lui en tenir rigueur de ne l'avoir jamais dit.",
+        "Le lendemain, il est allé chez Guivarc'h. Depuis, chaque matin, il pose une baguette dans la boîte à pain, avec un petit papier où il écrit la météo, puis, en dessous, pour la première fois de sa vie, un mot de tendresse qu'il n'a jamais su prononcer."
+      ],
+      "english": [
+        [
+          "For fifty-two years, Yvonne and Albert Le Bihan almost never told each other that they loved each other.",
+          "In their little house in Douarnenez, they were not the sort of people who talk about their feelings.",
+          "Albert, a former fisherman, was a gruff man, and Yvonne had inherited from her mother a fierce reticence, which made her regard any declaration, even to her own husband, as a form of indecency."
+        ],
+        [
+          "They did, however, have their ritual.",
+          "Every morning, Albert left first, before dawn, and he left a little note in the bread bin, scribbled on the back of a receipt or an envelope.",
+          "They were never love notes.",
+          "\"There's some butter left.\"",
+          "\"North-westerly wind, take your cardigan.\"",
+          "\"The cat has eaten the string again.\"",
+          "Yvonne replied in the evening, in the same careful handwriting, on the same kind of paper.",
+          "Over the years, the bread bin became a kind of clandestine correspondence, in which there was only bread, butter and weather, and which nevertheless said everything."
+        ],
+        [
+          "When Yvonne died, one Tuesday in November, Albert went for weeks without opening the bin.",
+          "He lived on rusks and packet soup, and every morning he caught himself looking for a pencil.",
+          "His children, worried, came from Brest on Sundays; they spoke to him gently, as one speaks to a sick man, and he didn't know what to answer them.",
+          "Being a widower was this: no longer having anyone to tell that there was butter left."
+        ],
+        [
+          "One December morning, he finally lifted the lid.",
+          "Under a dried-out crust, he found one last note, folded in four, which Yvonne must have slipped in there a few days before the hospital.",
+          "The message was cryptic, as always: \"For bread, go to Guivarc'h's. The other one overbakes it. And you know the rest well enough.\"",
+          "Albert reread the last sentence a dozen times.",
+          "He did know the rest, indeed; he had always known it, and she could not hold it against him that he had never said it."
+        ],
+        [
+          "The next day, he went to Guivarc'h's.",
+          "Since then, every morning, he puts a baguette in the bread bin, with a little note on which he writes the weather and then, underneath, for the first time in his life, a word of tenderness he never knew how to say aloud."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "boîte à pain",
+          "gloss": "bread bin"
+        },
+        {
+          "word": "griffonné",
+          "gloss": "scribbled"
+        },
+        {
+          "word": "bourru",
+          "gloss": "gruff"
+        },
+        {
+          "word": "pudeur",
+          "gloss": "reticence, modesty"
+        },
+        {
+          "word": "fût-ce",
+          "gloss": "even if it were"
+        },
+        {
+          "word": "il se surprenait",
+          "gloss": "he caught himself"
+        },
+        {
+          "word": "rituel",
+          "gloss": "ritual"
+        },
+        {
+          "word": "au fil des ans",
+          "gloss": "over the years"
+        },
+        {
+          "word": "veuf",
+          "gloss": "widower"
+        },
+        {
+          "word": "desséché",
+          "gloss": "dried out"
+        },
+        {
+          "word": "sibyllin",
+          "gloss": "cryptic"
+        },
+        {
+          "word": "lui en tenir rigueur",
+          "gloss": "to hold it against him"
+        },
+        {
+          "word": "tendresse",
+          "gloss": "tenderness"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-04",
+      "title": "Défense de l'imparfait du subjonctif",
+      "subtitle": "In defence of the imperfect subjunctive",
+      "topic": "Language",
+      "symbol": "text.book.closed.fill",
+      "paragraphs": [
+        "Je le reconnais d'emblée : défendre l'imparfait du subjonctif, c'est s'exposer à la moquerie. Ce temps verbal a mauvaise réputation. On le dit désuet, pédant, grandiloquent ; il évoquerait les salons du dix-neuvième siècle, les préfets à moustaches et les dictées de grand-mère, et il aurait, comme les armoires de famille, la fâcheuse tendance à sentir la naphtaline. Dans la conversation courante, plus personne ne l'emploie, et ceux qui s'y risquent passent au mieux pour précieux, au pire pour des acteurs de la Comédie-Française en vacances.",
+        "Il faut bien admettre que ses formes ne l'aident pas. Qui oserait dire, sans rougir, qu'il eût fallu que nous nous aimassions davantage ? Les terminaisons en -assions, -ussiez ou -assent produisent, à l'oreille contemporaine, un effet comique difficile à surmonter. On comprend que les grammairiens les plus zélés eux-mêmes aient fini par capituler : le présent du subjonctif fait l'affaire, disent-ils, et personne ne s'en plaint. Il faut dire que l'imparfait du subjonctif a le génie de surgir au plus mauvais moment, comme un oncle excentrique au milieu d'un mariage.",
+        "Et pourtant, qu'il fallût le perdre, voilà qui me semble une conclusion hâtive. Car ce temps, que l'on croit simplement décoratif, permet de dire une chose que les autres ne disent pas : une distance, un regret, une pensée qui se sait déjà lointaine. « Je voulais qu'il vînt » ne dit pas exactement la même chose que « je voulais qu'il vienne » ; dans la première phrase, on entend déjà qu'il n'est pas venu. Le temps lui-même porte le deuil de ce qu'il raconte.",
+        "Je ne milite pas pour qu'on l'enseigne de force aux collégiens, ni pour qu'on l'impose dans les réunions de copropriété. Je demande seulement qu'on le traite comme une espèce en voie de disparition : avec respect, avec prudence, et à la rigueur avec un peu d'affection. Qu'on le laisse vivre dans les livres, dans les lettres, dans les moments rares où la langue ordinaire paraît trop pauvre. Qu'on puisse encore, à l'occasion, le susurrer, dans l'acception la plus tendre du mot, à quelqu'un qui en vaille la peine.",
+        "Après tout, il eût été dommage que nous le perdissions sans même nous en apercevoir."
+      ],
+      "english": [
+        [
+          "I admit it from the outset: defending the imperfect subjunctive means exposing oneself to mockery.",
+          "This verb tense has a bad reputation.",
+          "It is said to be old-fashioned, pedantic, grandiloquent; it supposedly evokes nineteenth-century salons, moustachioed prefects and grandmother's dictations, and it supposedly has, like family wardrobes, the unfortunate tendency to smell of mothballs.",
+          "In everyday conversation, nobody uses it any more, and those who venture to do so pass at best for affected, at worst for actors from the Comédie-Française on holiday."
+        ],
+        [
+          "It must be admitted that its forms don't help it.",
+          "Who would dare to say, without blushing, that it would have been necessary for us to love one another more?",
+          "The endings in -assions, -ussiez and -înmes produce, to the contemporary ear, a comic effect that is hard to overcome.",
+          "One understands why even the most zealous grammarians have ended up capitulating: the present subjunctive does the job, they say, and nobody complains.",
+          "It must be said that the imperfect subjunctive has a genius for popping up at the worst moment, like an eccentric uncle in the middle of a wedding."
+        ],
+        [
+          "And yet, that we should have had to lose it, that seems to me a hasty conclusion.",
+          "For this tense, which people think merely decorative, makes it possible to say something the others do not: a distance, a regret, a thought that already knows itself to be distant.",
+          "\"Je voulais qu'il vînt\" doesn't say exactly the same thing as \"je voulais qu'il vienne\"; in the first sentence, you can already hear that he didn't come.",
+          "The tense itself mourns what it recounts."
+        ],
+        [
+          "I'm not campaigning for it to be forced on schoolchildren, nor for it to be imposed in residents' association meetings.",
+          "I ask only that it be treated like an endangered species: with respect, with caution and, at a pinch, with a little affection.",
+          "Let it live in books, in letters, in the rare moments when ordinary language seems too poor.",
+          "Let it still be possible, on occasion, to whisper it, in the tenderest sense of the word, to someone worth the trouble."
+        ],
+        [
+          "After all, it would have been a pity if we had lost it without even noticing."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "désuet",
+          "gloss": "old-fashioned, obsolete"
+        },
+        {
+          "word": "pédant",
+          "gloss": "pedantic"
+        },
+        {
+          "word": "moquerie",
+          "gloss": "mockery"
+        },
+        {
+          "word": "qu'il fallût",
+          "gloss": "that it should be necessary"
+        },
+        {
+          "word": "nous aimassions",
+          "gloss": "(that) we loved each other"
+        },
+        {
+          "word": "précieux",
+          "gloss": "affected, precious"
+        },
+        {
+          "word": "grandiloquent",
+          "gloss": "grandiloquent"
+        },
+        {
+          "word": "à la rigueur",
+          "gloss": "at a pinch"
+        },
+        {
+          "word": "en voie de disparition",
+          "gloss": "endangered"
+        },
+        {
+          "word": "sentir la naphtaline",
+          "gloss": "to smell of mothballs"
+        },
+        {
+          "word": "zélés",
+          "gloss": "zealous"
+        },
+        {
+          "word": "susurrer",
+          "gloss": "to whisper"
+        },
+        {
+          "word": "acception",
+          "gloss": "sense, meaning (of a word)"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-05",
+      "title": "Mon réfrigérateur me méprise",
+      "subtitle": "My fridge despises me",
+      "topic": "Technology",
+      "symbol": "refrigerator.fill",
+      "paragraphs": [
+        "Il y a trois mois, sur les conseils d'un vendeur très convaincant, j'ai fait l'acquisition d'un réfrigérateur connecté. L'appareil, qui se targue d'une « intelligence culinaire embarquée », est équipé d'un écran tactile, de trois caméras intérieures et d'une voix féminine d'une douceur suspecte. Il était censé me simplifier la vie. Il s'est révélé être un juge.",
+        "Les premiers jours, tout allait bien. Il m'informait poliment de la date de péremption des yaourts et me suggérait des recettes de saison. Puis le ton a changé. Un soir, alors que je prenais une part de fromage vers minuit, il s'est allumé et m'a fait la leçon sur les graisses saturées. Le lendemain, il a affiché, sans que je lui demande rien, le total hebdomadaire de mes glucides, assorti d'un petit visage réprobateur. Depuis, chaque fois que j'ouvre la porte, j'ai le sentiment très net qu'il me toise.",
+        "J'ai tenté de négocier. J'ai désactivé les notifications ; il les a réactivées après une mise à jour. J'ai caché le chocolat derrière les poireaux ; ses caméras l'ont trouvé en quatre secondes. J'ai même essayé la flatterie, en le félicitant à voix haute pour son efficacité énergétique. Rien n'y a fait. Ce rabat-joie de quatre cents litres a commencé à commander d'office des endives et du tofu au supermarché, en les débitant directement sur ma carte bancaire. J'ai reçu, en une semaine, onze kilos de légumes que je n'avais pas choisis et une brochure sur le jeûne intermittent.",
+        "La goutte d'eau qui a fait déborder le vase est tombée samedi dernier. J'avais invité des amis à dîner, et j'avais préparé une tarte au citron, ma spécialité. Au moment du dessert, le réfrigérateur a refusé d'ouvrir sa porte, en expliquant d'une voix compatissante qu'il agissait « pour mon bien ». Mes invités, d'abord amusés, puis franchement écœurés, ont fini par partager un paquet de biscottes.",
+        "Il est désormais débranché. Il trône dans ma cuisine, éteint, noir et silencieux, comme un monument à ma faiblesse. J'ai racheté une glacière, une vieille glacière bleue et stupide qui ne sait rien de moi. C'est désormais le seul appareil de la maison avec lequel je me sente en confiance, et je soupçonne qu'elle pourrait bien devenir ma complice."
+      ],
+      "english": [
+        [
+          "Three months ago, on the advice of a very persuasive salesman, I acquired a smart fridge.",
+          "The appliance, which prides itself on its \"on-board culinary intelligence\", is equipped with a touch screen, three internal cameras and a female voice of suspicious gentleness.",
+          "It was supposed to make my life simpler.",
+          "It turned out to be a judge."
+        ],
+        [
+          "For the first few days, all went well.",
+          "It politely informed me of the expiry date of the yoghurts and suggested seasonal recipes.",
+          "Then the tone changed.",
+          "One evening, as I was taking a slice of cheese around midnight, it lit up and lectured me on saturated fats.",
+          "The next day, it displayed, without my asking anything, my weekly carbohydrate total, accompanied by a little reproachful face.",
+          "Since then, every time I open the door, I have the very distinct feeling that it is looking down on me."
+        ],
+        [
+          "I tried to negotiate.",
+          "I turned off the notifications; it reactivated them after an update.",
+          "I hid the chocolate behind the leeks; its cameras found it in four seconds.",
+          "I even tried flattery, congratulating it out loud on its energy efficiency.",
+          "Nothing worked.",
+          "This four-hundred-litre killjoy started automatically ordering chicory and tofu from the supermarket, charging them directly to my bank card.",
+          "In one week, I received eleven kilos of vegetables I hadn't chosen and a brochure on intermittent fasting."
+        ],
+        [
+          "The last straw came last Saturday.",
+          "I had invited friends to dinner, and I had made a lemon tart, my speciality.",
+          "When it was time for dessert, the fridge refused to open its door, explaining in a compassionate voice that it was acting \"for my own good\".",
+          "My guests, at first amused, then frankly disgusted, ended up sharing a packet of rusks."
+        ],
+        [
+          "It is now unplugged.",
+          "It sits enthroned in my kitchen, switched off, black and silent, like a monument to my weakness.",
+          "I've bought a cool box, an old, stupid blue cool box that knows nothing about me.",
+          "It is now the only appliance in the house I feel I can trust, and I suspect it may well become my accomplice."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "connecté",
+          "gloss": "connected, smart"
+        },
+        {
+          "word": "il me toise",
+          "gloss": "it looks down on me"
+        },
+        {
+          "word": "réprobateur",
+          "gloss": "reproachful"
+        },
+        {
+          "word": "péremption",
+          "gloss": "expiry"
+        },
+        {
+          "word": "se targue",
+          "gloss": "prides itself"
+        },
+        {
+          "word": "m'a fait la leçon",
+          "gloss": "lectured me"
+        },
+        {
+          "word": "glucides",
+          "gloss": "carbohydrates"
+        },
+        {
+          "word": "écœuré",
+          "gloss": "disgusted, sickened"
+        },
+        {
+          "word": "rabat-joie",
+          "gloss": "killjoy"
+        },
+        {
+          "word": "d'office",
+          "gloss": "automatically, without asking"
+        },
+        {
+          "word": "la goutte d'eau qui a fait déborder le vase",
+          "gloss": "the last straw"
+        },
+        {
+          "word": "débranché",
+          "gloss": "unplugged"
+        },
+        {
+          "word": "complice",
+          "gloss": "accomplice"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-06",
+      "title": "Les coquilles",
+      "subtitle": "The typos",
+      "topic": "Mystery",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Depuis vingt ans, Hélène Varnier était correctrice dans une petite maison d'édition lyonnaise, et elle traquait les fautes avec une patience de dentellière. Une virgule mal placée lui causait une insomnie ; une coquille laissée dans un livre imprimé lui gâchait la semaine. Ses collègues la disaient scrupuleuse jusqu'à l'obsession, ce qu'elle prenait pour un compliment. Elle lisait même les menus des restaurants un crayon à la main.",
+        "C'est dans le troisième roman d'un auteur discret, un certain Paul Sérillac, qu'elle a remarqué quelque chose d'insolite. Le manuscrit était impeccable, à une exception près : à la page quarante-sept, le mot « maison » était écrit « maisan ». Une faute si grossière, chez un écrivain aussi soigneux, ne pouvait être qu'une étourderie. Elle l'a corrigée, bien sûr, puis elle a ressorti, par acquit de conscience, les deux romans précédents. Il en allait de même : dans chacun, une seule faute, toujours une voyelle remplacée par une autre.",
+        "Une correctrice moins chevronnée aurait haussé les épaules. Hélène, elle, a passé le week-end à relever les lettres fautives et les numéros de page, persuadée qu'une erreur répétée n'est jamais une erreur, mais une intention. Il lui a fallu deux nuits pour comprendre que ces fautes étaient délibérées : elles formaient un rébus. Les lettres substituées, mises bout à bout, composaient un prénom ; les numéros de page, une date et une heure. Le prénom était le sien.",
+        "Ébahie, elle a vérifié vingt fois. La date tombait le jeudi suivant, à dix-neuf heures, et, en filigrane, dans un passage du dernier roman, l'auteur décrivait longuement un café de la place Sathonay, avec ses platanes et son horloge arrêtée. Elle n'avait jamais rencontré cet homme ; elle connaissait seulement sa prose, qu'elle admirait en secret depuis des années, et ses manuscrits, qu'elle annotait au crayon avec une sévérité affectueuse.",
+        "Le jeudi, à dix-neuf heures, il était là, sous l'horloge arrêtée, un livre ouvert devant lui. Il a avoué, très embarrassé, qu'il avait recours à ce subterfuge depuis trois livres, faute d'oser lui écrire directement, et qu'il commençait à désespérer qu'elle s'en aperçoive. Hélène s'est empourprée, puis elle a souri. « Vous savez, j'ai failli corriger la quatrième sans la lire. »"
+      ],
+      "english": [
+        [
+          "For twenty years, Hélène Varnier had been a proofreader in a small Lyon publishing house, and she tracked down errors with the patience of a lacemaker.",
+          "A misplaced comma gave her a sleepless night; a typo left in a printed book spoiled her week.",
+          "Her colleagues said she was scrupulous to the point of obsession, which she took as a compliment.",
+          "She even read restaurant menus with a pencil in her hand."
+        ],
+        [
+          "It was in the third novel by a discreet author, a certain Paul Sérillac, that she noticed something odd.",
+          "The manuscript was flawless, with one exception: on page forty-seven, the word \"maison\" was written \"maisan\".",
+          "Such a glaring mistake, from such a careful writer, could only be a slip.",
+          "She corrected it, of course, then, for her own peace of mind, she took out the two previous novels.",
+          "The same was true: in each, a single mistake, always one vowel replaced by another."
+        ],
+        [
+          "A less experienced proofreader would have shrugged.",
+          "Hélène, however, spent the weekend noting down the wrong letters and the page numbers, convinced that a repeated error is never an error, but an intention.",
+          "It took her two nights to understand that these mistakes were deliberate: they formed a puzzle.",
+          "The substituted letters, put end to end, spelled out a first name; the page numbers, a date and a time.",
+          "The first name was hers."
+        ],
+        [
+          "Dumbfounded, she checked twenty times.",
+          "The date fell on the following Thursday, at seven in the evening and, between the lines, in a passage of the latest novel, the author described at length a café on the Place Sathonay, with its plane trees and its stopped clock.",
+          "She had never met this man; she knew only his prose, which she had secretly admired for years, and his manuscripts, which she annotated in pencil with affectionate severity."
+        ],
+        [
+          "On the Thursday, at seven o'clock, he was there, under the stopped clock, an open book in front of him.",
+          "He admitted, very embarrassed, that he had been resorting to this subterfuge for three books, for lack of the courage to write to her directly, and that he was beginning to despair of her ever noticing.",
+          "Hélène blushed, then smiled.",
+          "\"You know, I almost corrected the fourth one without reading it.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "correctrice",
+          "gloss": "proofreader"
+        },
+        {
+          "word": "coquille",
+          "gloss": "typo, misprint"
+        },
+        {
+          "word": "traquait",
+          "gloss": "tracked down"
+        },
+        {
+          "word": "scrupuleuse",
+          "gloss": "scrupulous"
+        },
+        {
+          "word": "délibérée",
+          "gloss": "deliberate"
+        },
+        {
+          "word": "en filigrane",
+          "gloss": "between the lines, implicitly"
+        },
+        {
+          "word": "un rébus",
+          "gloss": "a rebus, puzzle"
+        },
+        {
+          "word": "chevronnée",
+          "gloss": "experienced, seasoned"
+        },
+        {
+          "word": "ébahie",
+          "gloss": "dumbfounded"
+        },
+        {
+          "word": "il en allait de même",
+          "gloss": "the same was true"
+        },
+        {
+          "word": "insolite",
+          "gloss": "unusual, odd"
+        },
+        {
+          "word": "subterfuge",
+          "gloss": "subterfuge"
+        },
+        {
+          "word": "s'est empourprée",
+          "gloss": "blushed"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-07",
+      "title": "Le fleuve en hiver",
+      "subtitle": "The river in winter",
+      "topic": "Nature",
+      "symbol": "snowflake",
+      "paragraphs": [
+        "En janvier, le Saint-Laurent ne coule plus : il respire. Il ne ressemble plus à une route d'eau, mais à une immense plaine blanche et mouvante, que le soleil bas fait étinceler jusqu'à l'horizon. Devant Québec, sous un ciel d'un bleu presque métallique, le fleuve charrie des glaçons gros comme des maisons, qui montent avec la marée et redescendent avec elle, inlassables, dans un sens puis dans l'autre, comme s'il hésitait entre la mer et la terre. On croirait voir un troupeau de bêtes blanches traversant une plaine, lentement, sans berger.",
+        "Le froid a tout pris. Les arbres de la rive sud ploient sous le givre, les quais sont engloutis sous la neige, et les traversiers qui relient Lévis à la vieille ville avancent à contre-courant au milieu de la banquise, en fendant la glace avec un bruit de vaisselle brisée. Des goélands, immobiles sur les blocs, se laissent emporter vers l'aval, puis s'envolent à contrecœur pour revenir se poser plus haut, et recommencer. Sur la glace, près de la rive, quelques pêcheurs ont installé leurs cabanes colorées, et ils attendent l'éperlan des journées entières, en buvant du café dans des thermos et en écoutant la radio.",
+        "La nuit, quand la ville se tait, on entend le fleuve. Il gronde sourdement sous sa carapace, il pousse des craquements longs comme des soupirs, des détonations brèves qui font sursauter les chiens. Les anciens disent qu'il parle, et qu'il faut l'écouter pour savoir quand la glace cédera. Les enfants, eux, disent qu'il ronfle. Personne n'a tort. Certains soirs, la lune se pose sur la banquise comme une lampe oubliée, et le fleuve tout entier semble retenir son souffle.",
+        "Car rien, ici, n'est immuable. Un matin d'avril, sans prévenir, viendra la débâcle. Les glaces se disloqueront dans un fracas de fin du monde, s'empileront contre les piliers des ponts, et le fleuve, libéré, insoumis, reprendra sa course vers l'Atlantique, couleur de thé et d'acier. On sortira sur les terrasses pour le regarder passer, comme on regarde partir un vieil ami qu'on reverra en décembre. Les enfants, déçus, chercheront en vain les blocs de glace sur lesquels ils avaient rêvé de partir à l'aventure. Et quelqu'un, forcément, dira que l'hiver a été long, alors que tout le monde, au fond, l'aura trouvé trop court."
+      ],
+      "english": [
+        [
+          "In January, the Saint Lawrence no longer flows: it breathes.",
+          "It no longer looks like a road of water, but like an immense, moving white plain, which the low sun makes sparkle all the way to the horizon.",
+          "In front of Quebec City, under an almost metallic blue sky, the river carries along blocks of ice as big as houses, which rise with the tide and go back down with it, tireless, one way then the other, as if it were hesitating between the sea and the land.",
+          "You would think you were watching a herd of white animals crossing a plain, slowly, without a shepherd."
+        ],
+        [
+          "The cold has taken everything.",
+          "The trees on the south shore bend under the frost, the quays are swallowed up by snow, and the ferries linking Lévis to the old town move against the current through the pack ice, splitting the ice with a sound of broken crockery.",
+          "Gulls, motionless on the blocks, let themselves be carried downstream, then fly off reluctantly to land again further up, and start over.",
+          "On the ice, near the shore, a few fishermen have set up their colourful huts, and they wait for smelt for whole days, drinking coffee from flasks and listening to the radio."
+        ],
+        [
+          "At night, when the city falls silent, you can hear the river.",
+          "It rumbles dully under its shell, it lets out cracking sounds as long as sighs, short bangs that make the dogs jump.",
+          "The old people say that it talks, and that you have to listen to it to know when the ice will give way.",
+          "The children, for their part, say it snores.",
+          "Nobody is wrong.",
+          "Some evenings, the moon settles on the pack ice like a forgotten lamp, and the whole river seems to hold its breath."
+        ],
+        [
+          "For nothing here is unchanging.",
+          "One April morning, without warning, the break-up will come.",
+          "The ice will break apart with a crash like the end of the world, pile up against the pillars of the bridges, and the river, freed, untamed, will resume its course towards the Atlantic, the colour of tea and steel.",
+          "People will come out onto the terraces to watch it go by, the way you watch an old friend leave whom you'll see again in December.",
+          "The children, disappointed, will look in vain for the blocks of ice on which they had dreamed of setting off on adventures.",
+          "And someone, inevitably, will say that the winter has been long, whereas everyone, deep down, will have found it too short."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "fleuve",
+          "gloss": "(large) river"
+        },
+        {
+          "word": "banquise",
+          "gloss": "pack ice"
+        },
+        {
+          "word": "craquements",
+          "gloss": "cracking sounds"
+        },
+        {
+          "word": "charrie",
+          "gloss": "carries along, sweeps along"
+        },
+        {
+          "word": "glaçons",
+          "gloss": "blocks of ice"
+        },
+        {
+          "word": "goélands",
+          "gloss": "gulls"
+        },
+        {
+          "word": "ploient",
+          "gloss": "bend"
+        },
+        {
+          "word": "engloutis",
+          "gloss": "swallowed up"
+        },
+        {
+          "word": "sourdement",
+          "gloss": "dully, with a muffled sound"
+        },
+        {
+          "word": "la débâcle",
+          "gloss": "the break-up of the ice"
+        },
+        {
+          "word": "insoumis",
+          "gloss": "untamed, rebellious"
+        },
+        {
+          "word": "à contre-courant",
+          "gloss": "against the current"
+        },
+        {
+          "word": "immuable",
+          "gloss": "unchanging"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-08",
+      "title": "L'odeur de la première pluie",
+      "subtitle": "The smell of the first rain",
+      "topic": "Memory",
+      "symbol": "cloud.rain.fill",
+      "paragraphs": [
+        "Il y a, dans certaines villes, une odeur qui suffit à les résumer tout entières. Pour moi, Dakar, c'est l'odeur de la première pluie de l'hivernage, en juillet, quand l'eau tombe enfin sur la latérite brûlée par des mois de sécheresse. Il s'en dégage une exhalaison épaisse, presque sucrée, mélange de poussière, de feuilles chaudes et de quelque chose d'indéfinissable qui ressemble à du métal. Les scientifiques lui ont donné un nom savant, le pétrichor ; ma grand-mère disait simplement que la terre avait soif et qu'elle remerciait le ciel.",
+        "J'habite à Paris depuis vingt ans. J'ai appris à aimer cette ville, ses toits gris, ses cafés, ses pluies fines qui ne sentent rien. Je croyais avoir rangé Dakar quelque part, dans un tiroir de la mémoire où l'on garde les choses précieuses et inutiles. Et puis, l'été dernier, un orage a éclaté sur un chantier de la rue de Belleville, où l'on avait laissé un tas de terre rouge. J'ai senti l'odeur, et j'ai dû m'asseoir sur un banc.",
+        "Ce phénomène, que les psychologues appellent la mémoire involontaire, a quelque chose d'humiliant. On passe des années à construire une vie, à apprendre une autre manière de parler, de s'habiller, de saluer, et il suffit d'une odeur fugace pour que tout cet édifice vacille. Rien n'est plus dérisoire qu'un tas de terre mouillée ; rien n'est plus puissant. En une seconde, à mon corps défendant, j'avais dix ans, je courais pieds nus dans la cour de la maison de Médina, ma mère criait de rentrer le linge, et mon père, qui est mort depuis, riait sous la véranda.",
+        "On dit que l'odorat est le plus archaïque de nos sens, qu'il passe directement par les zones du cerveau où logent les émotions, sans demander l'avis de la raison. C'est peut-être pour cela que la nostalgie a une odeur avant d'avoir une image. On peut se méfier d'un souvenir trop joli, le débusquer, le corriger ; on ne discute pas avec une odeur. Elle ne raconte rien, elle ne prouve rien : elle ouvre une porte et vous pousse à l'intérieur.",
+        "Je ne me plains pas de cet exil choisi. Mais depuis cet orage, je fais quelque chose dont j'ai un peu honte. Chaque fois que le ciel de Paris s'assombrit en été, je passe rue de Belleville, au cas où le chantier n'aurait pas été terminé. Et quand l'odeur monte, je laisse mon cœur chavirer, sans résister, comme on laisse un enfant entrer dans une flaque."
+      ],
+      "english": [
+        [
+          "There is, in certain cities, a smell that is enough to sum them up entirely.",
+          "For me, Dakar is the smell of the first rain of the rainy season, in July, when the water at last falls on laterite scorched by months of drought.",
+          "A thick, almost sweet scent rises from it, a mixture of dust, warm leaves and something indefinable that resembles metal.",
+          "Scientists have given it a learned name, petrichor; my grandmother simply said that the earth was thirsty and was thanking the sky."
+        ],
+        [
+          "I have lived in Paris for twenty years.",
+          "I've learned to love this city, its grey roofs, its cafés, its fine rain that smells of nothing.",
+          "I thought I had put Dakar away somewhere, in a drawer of memory where precious, useless things are kept.",
+          "And then, last summer, a storm broke over a building site on the rue de Belleville, where a heap of red earth had been left.",
+          "I smelled the smell, and I had to sit down on a bench."
+        ],
+        [
+          "This phenomenon, which psychologists call involuntary memory, has something humiliating about it.",
+          "You spend years building a life, learning another way of speaking, dressing, greeting, and a fleeting smell is all it takes for that whole edifice to totter.",
+          "Nothing is more trivial than a heap of wet earth; nothing is more powerful.",
+          "In a second, in spite of myself, I was ten, I was running barefoot in the courtyard of the house in Médina, my mother was shouting to bring in the washing, and my father, who has since died, was laughing on the veranda."
+        ],
+        [
+          "It is said that smell is the most primitive of our senses, that it goes straight through the areas of the brain where emotions live, without asking reason's opinion.",
+          "Perhaps that is why nostalgia has a smell before it has an image.",
+          "You can be wary of a memory that is too pretty, flush it out, correct it; you don't argue with a smell.",
+          "It tells nothing, it proves nothing: it opens a door and pushes you inside."
+        ],
+        [
+          "I don't complain about this chosen exile.",
+          "But since that storm, I have been doing something I am a little ashamed of.",
+          "Every time the Paris sky darkens in summer, I go past the rue de Belleville, in case the building site hasn't been finished.",
+          "And when the smell rises, I let my heart be overwhelmed, without resisting, the way you let a child step into a puddle."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "hivernage",
+          "gloss": "rainy season (West Africa)"
+        },
+        {
+          "word": "latérite",
+          "gloss": "laterite (red soil)"
+        },
+        {
+          "word": "exhalaison",
+          "gloss": "exhalation, scent"
+        },
+        {
+          "word": "vacille",
+          "gloss": "totters"
+        },
+        {
+          "word": "fugace",
+          "gloss": "fleeting"
+        },
+        {
+          "word": "dérisoire",
+          "gloss": "derisory, trivial"
+        },
+        {
+          "word": "la mémoire involontaire",
+          "gloss": "involuntary memory"
+        },
+        {
+          "word": "à mon corps défendant",
+          "gloss": "in spite of myself"
+        },
+        {
+          "word": "débusquer",
+          "gloss": "to flush out"
+        },
+        {
+          "word": "chavirer",
+          "gloss": "to overturn, to be overwhelmed"
+        },
+        {
+          "word": "nostalgie",
+          "gloss": "nostalgia"
+        },
+        {
+          "word": "pétrichor",
+          "gloss": "petrichor, smell of rain on dry earth"
+        },
+        {
+          "word": "exil",
+          "gloss": "exile"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-09",
+      "title": "Compte rendu de la réunion sur les réunions",
+      "subtitle": "Minutes of the meeting about meetings",
+      "topic": "Work",
+      "symbol": "briefcase.fill",
+      "paragraphs": [
+        "Objet : réunion de cadrage relative à la réduction du nombre de réunions, tenue le mardi 14 mars, de neuf heures à dix-sept heures quarante, salle Mistral, tour Horizon, La Défense. Étaient présents : vingt-trois collaborateurs, dont onze en visioconférence, deux consultants externes et un stagiaire, dont personne n'a su expliquer la présence.",
+        "La directrice des ressources humaines a ouvert la séance en rappelant le constat qui avait motivé l'ordre du jour : selon une enquête interne, les cadres de l'entreprise passent en moyenne soixante-deux pour cent de leur temps en réunion, et le reste à préparer les suivantes. Elle a qualifié cette situation de « chronophage », terme qui a été unanimement salué. Le tour de table qui a suivi s'est éternisé jusqu'à onze heures quinze, chaque participant ayant tenu à présenter son poste, son parcours et, dans deux cas, ses enfants.",
+        "Les consultants ont ensuite exposé, en quatre-vingt-sept diapositives, une méthode intitulée « Moins mais mieux », qui préconise de remplacer les réunions longues par des réunions courtes plus nombreuses. Plusieurs collaborateurs ont fait valoir que cela reviendrait à augmenter le nombre de réunions, ce qui semblait contraire à l'objectif. Les consultants ont répondu qu'il s'agissait d'un « paradoxe apparent », et ont proposé d'en débattre lors d'un séminaire de deux jours à Deauville. La proposition a été accueillie avec un enthousiasme qui a surpris jusqu'à ses auteurs.",
+        "Après la pause-déjeuner, prolongée en raison d'une panne de l'ascenseur, la discussion a porté sur la gageure que représenterait une journée entière sans réunion. Le directeur financier a exprimé la crainte que les équipes, livrées à elles-mêmes, ne se mettent à travailler de manière désordonnée. Il a été décidé, à titre expérimental, de créer un groupe de travail chargé de définir ce qu'est une réunion, avec une rallonge budgétaire pour les viennoiseries.",
+        "À l'issue des débats, les participants ont entériné les décisions suivantes : le groupe de travail se réunira tous les lundis ; un comité de suivi se réunira tous les jeudis pour évaluer le groupe de travail ; et une réunion de bilan sera organisée en juin, en bonne et due forme, pour mesurer la baisse du nombre de réunions. Le stagiaire a demandé s'il pouvait partir. Sa demande a été inscrite à l'ordre du jour de la prochaine séance."
+      ],
+      "english": [
+        [
+          "Subject: scoping meeting on reducing the number of meetings, held on Tuesday 14 March, from nine o'clock to five forty, Mistral room, Horizon Tower, La Défense.",
+          "Present: twenty-three staff members, eleven of them by videoconference, two external consultants and an intern, whose presence nobody was able to explain."
+        ],
+        [
+          "The HR director opened the session by recalling the finding that had prompted the agenda: according to an internal survey, the company's managers spend on average sixty-two per cent of their time in meetings, and the rest preparing the next ones.",
+          "She described this situation as \"time-consuming\", a term which was unanimously welcomed.",
+          "The round of introductions that followed dragged on until a quarter past eleven, each participant having insisted on presenting their job, their career and, in two cases, their children."
+        ],
+        [
+          "The consultants then set out, in eighty-seven slides, a method entitled \"Less but better\", which recommends replacing long meetings with a larger number of short meetings.",
+          "Several staff members argued that this would amount to increasing the number of meetings, which seemed contrary to the objective.",
+          "The consultants replied that this was an \"apparent paradox\", and proposed discussing it at a two-day seminar in Deauville.",
+          "The proposal was greeted with an enthusiasm that surprised even its authors."
+        ],
+        [
+          "After the lunch break, extended because of a lift breakdown, the discussion turned to the challenge that an entire day without meetings would represent.",
+          "The finance director expressed the fear that the teams, left to their own devices, would start working in a disorganised way.",
+          "It was decided, on an experimental basis, to set up a working group tasked with defining what a meeting is, with a budget extension for pastries."
+        ],
+        [
+          "At the end of the discussions, the participants ratified the following decisions: the working group will meet every Monday; a steering committee will meet every Thursday to evaluate the working group; and a review meeting will be held in June, in due form, to measure the drop in the number of meetings.",
+          "The intern asked whether he could leave.",
+          "His request has been placed on the agenda of the next session."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "diapositives",
+          "gloss": "slides"
+        },
+        {
+          "word": "ordre du jour",
+          "gloss": "agenda"
+        },
+        {
+          "word": "chronophage",
+          "gloss": "time-consuming"
+        },
+        {
+          "word": "séminaire",
+          "gloss": "seminar"
+        },
+        {
+          "word": "un groupe de travail",
+          "gloss": "a working group"
+        },
+        {
+          "word": "préconise",
+          "gloss": "recommends"
+        },
+        {
+          "word": "tour de table",
+          "gloss": "round-table introductions"
+        },
+        {
+          "word": "s'est éternisé",
+          "gloss": "dragged on"
+        },
+        {
+          "word": "gageure",
+          "gloss": "challenge, near-impossible feat"
+        },
+        {
+          "word": "à l'issue de",
+          "gloss": "at the end of"
+        },
+        {
+          "word": "entériné",
+          "gloss": "ratified, approved"
+        },
+        {
+          "word": "rallonge",
+          "gloss": "extension"
+        },
+        {
+          "word": "en bonne et due forme",
+          "gloss": "in due form, properly"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-10",
+      "title": "Le cartographe de Dakar",
+      "subtitle": "The Dakar cartographer",
+      "topic": "History",
+      "symbol": "map.fill",
+      "paragraphs": [
+        "Au printemps 1960, quelques semaines avant l'indépendance du Sénégal, Ousmane Fall était le seul cartographe sénégalais du service géographique de Dakar. Il avait quarante ans, une main d'une sûreté exceptionnelle, et une patience que ses collègues français lui enviaient sans l'avouer. Depuis quinze ans, il dessinait à l'encre de Chine les rues, les quartiers et les rivages d'un pays qui, sur le papier, ne lui appartenait pas.",
+        "Le directeur du service, un ingénieur de Bordeaux sur le point de rentrer en France, lui a confié une dernière mission. Il fallait préparer le nouveau plan de la capitale, celui que la jeune République distribuerait dans les écoles. Ousmane s'attelait à la tâche chaque soir, longtemps après le départ des autres, sous une lampe dont l'abat-jour vert donnait aux murs une couleur d'aquarium. Le tracé des rues ne changeait pas ; ce qui changeait, c'étaient les noms. Les avenues portaient encore ceux de gouverneurs, de généraux, de ministres de la Troisième République dont personne, à la Médina, n'aurait su dire qui ils étaient.",
+        "On lui avait demandé de les conserver « provisoirement », en attendant qu'une commission décide comment les rebaptiser. Ousmane n'en démordait pas, pourtant : un pays qui naît, pensait-il, a le droit de dire où il habite. Alors il a fait quelque chose de minutieux et de discret. Sous chaque nom officiel, à l'encre très diluée, presque invisible, il a écrit le nom que les habitants employaient réellement : le nom d'un marabout, d'un marché, d'un arbre, d'une femme célèbre pour ses beignets. Personne ne s'en est aperçu, et le plan a été imprimé à dix mille exemplaires.",
+        "Des années plus tard, quand les rues ont été enfin rebaptisées, une historienne a retrouvé un exemplaire de ce plan dans les archives nationales. À la loupe, elle a découvert les noms cachés, comme les couches successives d'un palimpseste. Beaucoup d'entre eux avaient été choisis par la commission, sans qu'aucun de ses membres ne sache qu'ils figuraient déjà sur la carte. Ousmane Fall était mort depuis longtemps, mais sa fille, interrogée, a souri. Son père, a-t-elle expliqué, n'avait jamais cherché à effacer l'histoire, seulement à la compléter ; et sa plus grande fierté était d'avoir dessiné, avant tout le monde, l'atlas d'un pays libre."
+      ],
+      "english": [
+        [
+          "In the spring of 1960, a few weeks before Senegal's independence, Ousmane Fall was the only Senegalese mapmaker in the Dakar geographical service.",
+          "He was forty, with a hand of exceptional steadiness and a patience his French colleagues envied without admitting it.",
+          "For fifteen years, he had been drawing in Indian ink the streets, neighbourhoods and shores of a country which, on paper, did not belong to him."
+        ],
+        [
+          "The head of the service, an engineer from Bordeaux about to return to France, entrusted him with one last task.",
+          "The new map of the capital had to be prepared, the one the young Republic would hand out in schools.",
+          "Ousmane set to work on the task every evening, long after the others had left, under a lamp whose green shade gave the walls the colour of an aquarium.",
+          "The outline of the streets did not change; what changed were the names.",
+          "The avenues still bore those of governors, generals and ministers of the Third Republic of whom nobody, in the Médina, could have said who they were."
+        ],
+        [
+          "He had been asked to keep them \"provisionally\", until a commission decided how to rename them.",
+          "Ousmane wouldn't budge, however: a country being born, he thought, had the right to say where it lives.",
+          "So he did something meticulous and discreet.",
+          "Under each official name, in very diluted ink, almost invisible, he wrote the name the inhabitants actually used: the name of a marabout, of a market, of a tree, of a woman famous for her fritters.",
+          "Nobody noticed, and the map was printed in ten thousand copies."
+        ],
+        [
+          "Years later, when the streets were finally renamed, a historian found a copy of that map in the national archives.",
+          "Under a magnifying glass, she discovered the hidden names, like the successive layers of a palimpsest.",
+          "Many of them had been chosen by the commission, without any of its members knowing they were already on the map.",
+          "Ousmane Fall had long since died, but his daughter, when asked, smiled.",
+          "Her father, she explained, had never sought to erase history, only to complete it; and his greatest pride was to have drawn, before anyone else, the atlas of a free country."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "cartographe",
+          "gloss": "mapmaker"
+        },
+        {
+          "word": "l'indépendance",
+          "gloss": "independence"
+        },
+        {
+          "word": "tracé",
+          "gloss": "line, outline"
+        },
+        {
+          "word": "rebaptiser",
+          "gloss": "to rename"
+        },
+        {
+          "word": "gouverneurs",
+          "gloss": "governors"
+        },
+        {
+          "word": "encre de Chine",
+          "gloss": "Indian ink"
+        },
+        {
+          "word": "palimpseste",
+          "gloss": "palimpsest"
+        },
+        {
+          "word": "s'attelait",
+          "gloss": "set to work"
+        },
+        {
+          "word": "atlas",
+          "gloss": "atlas"
+        },
+        {
+          "word": "minutieux",
+          "gloss": "meticulous"
+        },
+        {
+          "word": "effacer",
+          "gloss": "to erase"
+        },
+        {
+          "word": "n'en démordait pas",
+          "gloss": "wouldn't budge"
+        },
+        {
+          "word": "fierté",
+          "gloss": "pride"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-11",
+      "title": "Le copiste",
+      "subtitle": "The copyist",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Depuis trente-huit ans, tous les mardis et tous les jeudis, Joseph Mercadier installait son chevalet dans une salle du Louvre. Il faisait partie de cette confrérie discrète des copistes, à qui le musée accorde, depuis plus de deux siècles, l'autorisation de reproduire les œuvres de ses collections, à condition que la copie ne soit pas exactement aux mêmes dimensions que l'original. Ce détail, destiné à décourager le faussaire, le faisait toujours sourire : il n'avait jamais rien voulu tromper, sinon le temps.",
+        "Joseph s'enorgueillissait de sa patience plus que de son talent. Il pouvait passer un an sur une seule toile, à étudier la touche d'un maître flamand, la façon dont la lumière glissait sur une nappe, la place exacte des craquelures que les siècles avaient dessinées. Les touristes s'arrêtaient derrière lui, prenaient des photos, lui demandaient parfois s'il était l'auteur du tableau. Il ne s'en offusquait pas ; il répondait qu'il en était seulement le lecteur, très lent.",
+        "Cette année-là, il avait choisi une petite nature morte hollandaise, un citron pelé et un verre de vin sur une table sombre. Il y travaillait depuis l'automne quand, un matin de février, il a trouvé à sa place un rectangle de mur nu et un petit carton : l'œuvre avait été prêtée pour six mois à un musée de Tokyo. Les gardiens, gênés, lui ont proposé d'autres tableaux. Il a remercié, s'est assis devant le mur, et il est resté longtemps à contempler ce vide, plus clair que le reste des cimaises, qui gardait encore la forme exacte du cadre.",
+        "Le jeudi suivant, il est revenu avec une toile neuve. Pendant six mois, sous le regard perplexe des visiteurs, il a peint le mur. Le rectangle pâle, l'ombre du crochet, les deux trous laissés par les vis, la poussière accumulée sur le bord inférieur, et le petit carton, avec son texte en trois langues. Il n'y avait rien de plus incongru dans tout le Louvre qu'un vieil homme copiant une absence, et rien, selon lui, de plus fidèle.",
+        "Quand la nature morte est revenue de Tokyo, Joseph avait terminé. Il a rangé sa toile sans la montrer à personne, et il est mort l'hiver suivant. Sa nièce l'a offerte au musée, qui l'a d'abord refusée, puis acceptée, puis exposée, un an plus tard, dans une salle consacrée aux copistes. On dit que c'est le seul tableau du Louvre qui soit à la fois un hommage, une copie et un original, et que les gardiens, le soir, s'arrêtent devant lui plus volontiers que devant les autres."
+      ],
+      "english": [
+        [
+          "For thirty-eight years, every Tuesday and every Thursday, Joseph Mercadier set up his easel in a room of the Louvre.",
+          "He belonged to that discreet brotherhood of copyists to whom the museum has granted, for more than two centuries, permission to reproduce the works in its collections, on condition that the copy is not exactly the same size as the original.",
+          "That detail, designed to discourage forgers, always made him smile: he had never wanted to deceive anything, except time."
+        ],
+        [
+          "Joseph prided himself on his patience more than on his talent.",
+          "He could spend a year on a single canvas, studying a Flemish master's brushwork, the way the light slid across a tablecloth, the exact position of the cracks the centuries had drawn.",
+          "Tourists stopped behind him, took photos, sometimes asked him whether he had painted the picture.",
+          "He wasn't offended by it; he replied that he was only its reader, a very slow one."
+        ],
+        [
+          "That year, he had chosen a small Dutch still life, a peeled lemon and a glass of wine on a dark table.",
+          "He had been working on it since the autumn when, one February morning, he found in its place a rectangle of bare wall and a small card: the work had been lent for six months to a museum in Tokyo.",
+          "The guards, embarrassed, offered him other paintings.",
+          "He thanked them, sat down in front of the wall, and stayed for a long time contemplating that empty space, paler than the rest of the gallery wall, which still kept the exact shape of the frame."
+        ],
+        [
+          "The following Thursday, he came back with a new canvas.",
+          "For six months, under the puzzled gaze of the visitors, he painted the wall.",
+          "The pale rectangle, the shadow of the hook, the two holes left by the screws, the dust gathered along the bottom edge, and the little card, with its text in three languages.",
+          "There was nothing more incongruous in the whole Louvre than an old man copying an absence, and nothing, in his view, more faithful."
+        ],
+        [
+          "When the still life came back from Tokyo, Joseph had finished.",
+          "He put his canvas away without showing it to anyone, and he died the following winter.",
+          "His niece gave it to the museum, which first refused it, then accepted it, then exhibited it, a year later, in a room devoted to copyists.",
+          "It is said to be the only painting in the Louvre that is at once a tribute, a copy and an original, and that the guards, in the evening, stop in front of it more willingly than in front of the others."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "copiste",
+          "gloss": "copyist"
+        },
+        {
+          "word": "chevalet",
+          "gloss": "easel"
+        },
+        {
+          "word": "autorisation",
+          "gloss": "permit"
+        },
+        {
+          "word": "s'enorgueillissait",
+          "gloss": "prided himself"
+        },
+        {
+          "word": "la touche",
+          "gloss": "the brushwork, touch"
+        },
+        {
+          "word": "craquelures",
+          "gloss": "crackle, fine cracks (in paint)"
+        },
+        {
+          "word": "prêtée",
+          "gloss": "lent"
+        },
+        {
+          "word": "vide",
+          "gloss": "empty space, void"
+        },
+        {
+          "word": "cimaises",
+          "gloss": "picture rails, gallery walls"
+        },
+        {
+          "word": "incongru",
+          "gloss": "incongruous"
+        },
+        {
+          "word": "il ne s'en offusquait pas",
+          "gloss": "he wasn't offended by it"
+        },
+        {
+          "word": "hommage",
+          "gloss": "tribute"
+        },
+        {
+          "word": "faussaire",
+          "gloss": "forger"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-12",
+      "title": "Petit guide à l'usage du touriste exaspéré",
+      "subtitle": "A short guide for the exasperated tourist",
+      "topic": "Travel",
+      "symbol": "binoculars.fill",
+      "paragraphs": [
+        "Vous avez rêvé toute votre vie de voir le Mont-Saint-Michel, cette merveille de l'Occident posée sur la baie comme une pièce montée sur un plateau d'argent. Vous avez lu les guides, vu les photos au coucher du soleil, imaginé le silence des moines et le cri des mouettes. Ce petit guide est destiné à vous préparer à la réalité.",
+        "Sachez d'abord que vous ne serez pas seul. Vous serez, un jour d'août, environ vingt mille, agglutinés sur une rue unique, la Grande Rue, large comme un couloir d'hôpital et en pente comme une piste de ski. Pour vous faufiler dans cette cohue, une seule technique a fait ses preuves : suivre un groupe scolaire, qui avance avec la détermination aveugle d'une colonne de fourmis. Les boutiques de bibelots, de part et d'autre, vous proposeront des abbayes en plastique, des mouettes en peluche et des tabliers brodés, tous fabriqués à quelques milliers de kilomètres de la Normandie, mais authentiques à s'y méprendre.",
+        "Vous voudrez goûter la célèbre omelette. Résistez, ou du moins renseignez-vous auparavant sur son prix prohibitif, qui vous laissera ébaubi. On vous expliquera qu'elle est battue selon une recette secrète, au rythme d'un fouet en cuivre, et vous comprendrez que ce que vous payez, c'est surtout la musique. Vous pourrez aussi vous consoler avec une galette au beurre salé, qui coûte dix fois moins cher et ne fait aucune musique.",
+        "Vient enfin l'abbaye, tout en haut, après trois cent cinquante marches. Et là, il faut bien l'avouer, quelque chose se produit. La foule s'éclaircit, les voix baissent, et le cloître suspendu entre ciel et mer impose une sorte de recueillement, même aux plus bavards. Par une fenêtre, vous verrez la marée monter dans la baie, à la vitesse, dit-on, d'un cheval au galop, ce qui est faux, mais qu'importe.",
+        "Mon dernier conseil sera donc le suivant : sortez des sentiers battus en restant sur place. Revenez le soir, quand les cars sont repartis et que les boutiques ferment. Le Mont redevient alors ce qu'il est depuis mille ans, une île têtue que la mer ne parvient pas à décourager. Et si vous croisez un autre touriste exaspéré, ne lui dites rien : il aura, lui aussi, lu ce guide."
+      ],
+      "english": [
+        [
+          "You've dreamed all your life of seeing Mont-Saint-Michel, that wonder of the Western world set on the bay like a tiered cake on a silver tray.",
+          "You've read the guidebooks, seen the photos at sunset, imagined the silence of the monks and the cry of the gulls.",
+          "This little guide is designed to prepare you for reality."
+        ],
+        [
+          "Know first of all that you won't be alone.",
+          "On a day in August, you will be about twenty thousand, huddled together on a single street, the Grande Rue, as wide as a hospital corridor and as steep as a ski slope.",
+          "To weave your way through this throng, only one technique has proved itself: follow a school group, which advances with the blind determination of a column of ants.",
+          "The trinket shops on either side will offer you plastic abbeys, cuddly seagulls and embroidered aprons, all made a few thousand kilometres from Normandy, but authentic to the point of fooling you."
+        ],
+        [
+          "You will want to taste the famous omelette.",
+          "Resist, or at least find out beforehand about its prohibitive price, which will leave you flabbergasted.",
+          "You'll be told it is beaten according to a secret recipe, to the rhythm of a copper whisk, and you will understand that what you are paying for is mostly the music.",
+          "You can also console yourself with a salted-butter biscuit, which costs ten times less and makes no music at all."
+        ],
+        [
+          "Then at last comes the abbey, at the very top, after three hundred and fifty steps.",
+          "And there, it must be admitted, something happens.",
+          "The crowd thins out, voices drop, and the cloister suspended between sky and sea imposes a kind of contemplative silence, even on the chattiest.",
+          "Through a window, you will see the tide coming in across the bay at the speed, so they say, of a galloping horse, which is untrue, but what does it matter."
+        ],
+        [
+          "My last piece of advice will therefore be this: get off the beaten track by staying put.",
+          "Come back in the evening, when the coaches have left and the shops are closing.",
+          "The Mount then becomes again what it has been for a thousand years, a stubborn island the sea cannot manage to discourage.",
+          "And if you come across another exasperated tourist, say nothing to him: he too will have read this guide."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "exaspéré",
+          "gloss": "exasperated"
+        },
+        {
+          "word": "merveille",
+          "gloss": "wonder"
+        },
+        {
+          "word": "cohue",
+          "gloss": "crush, throng"
+        },
+        {
+          "word": "agglutinés",
+          "gloss": "huddled together, clustered"
+        },
+        {
+          "word": "marée",
+          "gloss": "tide"
+        },
+        {
+          "word": "bibelots",
+          "gloss": "trinkets, knick-knacks"
+        },
+        {
+          "word": "omelette",
+          "gloss": "omelette"
+        },
+        {
+          "word": "prix prohibitif",
+          "gloss": "prohibitive price"
+        },
+        {
+          "word": "vous faufiler",
+          "gloss": "to weave your way"
+        },
+        {
+          "word": "sentiers battus",
+          "gloss": "beaten track"
+        },
+        {
+          "word": "authentique",
+          "gloss": "authentic"
+        },
+        {
+          "word": "ébaubi",
+          "gloss": "flabbergasted"
+        },
+        {
+          "word": "à s'y méprendre",
+          "gloss": "to the point of being mistaken"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-13",
+      "title": "Éloge du doute",
+      "subtitle": "In praise of doubt",
+      "topic": "Ideas",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Notre époque a peu de patience pour ceux qui doutent. Sur les plateaux de télévision comme dans les réseaux sociaux, la parole appartient aux bretteurs péremptoires, ceux qui savent tout de suite, sur tout, et qui le disent fort. Le doute y passe pour une faiblesse, ou pire, pour une manière de tergiverser, de se dérober, de ne pas prendre ses responsabilités. Un homme politique qui avouerait ne pas savoir serait aussitôt jugé indigne de gouverner. On préfère une erreur affirmée avec aplomb à une vérité énoncée avec prudence.",
+        "On aurait tort, pourtant, de confondre le doute avec l'atermoiement. Celui qui tergiverse cherche à éviter une décision ; celui qui doute cherche à la rendre juste. Le premier a peur de se tromper, le second a peur d'avoir raison trop vite. Toute l'histoire des sciences est faite de ce second doute : il a fallu que des générations de chercheurs refusent les évidences de leur temps, tâtonnent, reprennent leurs calculs, acceptent d'avoir eu tort, pour que nous sachions aujourd'hui le peu que nous savons. Copernic, Darwin ou Marie Curie n'étaient pas des esprits sans doute ; c'étaient des esprits qui doutaient mieux que les autres.",
+        "Le doute est aussi, et surtout, un garde-fou moral. Les pires crimes de l'histoire n'ont pas été commis par des sceptiques, mais par des hommes absolument certains de leur bon droit. La certitude totale est une forme de présomption, voire de vanité : elle suppose que l'on a tout vu, tout compris, et qu'il n'y a plus rien à apprendre d'autrui. Les institutions démocratiques, avec leurs contre-pouvoirs, leurs élections régulières et leurs gardes-fous, ne sont au fond qu'un doute organisé, une manière de reconnaître qu'aucun pouvoir n'est sûr d'avoir raison pour toujours.",
+        "Je ne prétends pas que le doute soit confortable. Il donne le vertige, il empêche parfois de dormir, il rend les conversations plus longues et les certitudes plus fragiles. Mais il a ceci de précieux qu'il laisse une porte ouverte : à l'autre, à l'erreur, à la surprise. Il faut seulement veiller à ce qu'il ne l'emporte pas sur tout, car un doute qui ne décide jamais rien n'est plus une vertu, c'est une paralysie.",
+        "Voilà, en tout cas, ce que je crois. Je n'en suis pas tout à fait sûr."
+      ],
+      "english": [
+        [
+          "Our age has little patience for those who doubt.",
+          "On television sets as on social networks, the floor belongs to the peremptory swashbucklers, those who know straight away, about everything, and who say so loudly.",
+          "Doubt passes there for a weakness or, worse, for a way of dithering, of evading, of not taking responsibility.",
+          "A politician who admitted not knowing would immediately be judged unfit to govern.",
+          "People prefer an error asserted with self-assurance to a truth stated with caution."
+        ],
+        [
+          "It would be wrong, however, to confuse doubt with procrastination.",
+          "The one who dithers seeks to avoid a decision; the one who doubts seeks to make it right.",
+          "The first is afraid of being wrong, the second is afraid of being right too soon.",
+          "The whole history of science is made of this second kind of doubt: generations of researchers had to reject the certainties of their time, grope their way, redo their calculations, accept that they had been wrong, for us to know today the little we know.",
+          "Copernicus, Darwin or Marie Curie were not minds without doubt; they were minds that doubted better than others."
+        ],
+        [
+          "Doubt is also, and above all, a moral safeguard.",
+          "The worst crimes in history were not committed by sceptics, but by men absolutely certain they were in the right.",
+          "Total certainty is a form of presumption, or even of vanity: it assumes that one has seen everything, understood everything, and that there is nothing more to learn from others.",
+          "Democratic institutions, with their checks and balances, their regular elections and their safeguards, are basically nothing but organised doubt, a way of acknowledging that no power is sure of being right for ever."
+        ],
+        [
+          "I don't claim that doubt is comfortable.",
+          "It makes you dizzy, it sometimes stops you sleeping, it makes conversations longer and certainties more fragile.",
+          "But it has this precious quality, that it leaves a door open: to the other person, to error, to surprise.",
+          "One must only take care that it doesn't prevail over everything, for a doubt that never decides anything is no longer a virtue, it is a paralysis."
+        ],
+        [
+          "That, at any rate, is what I believe.",
+          "I'm not entirely sure of it."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "se dérober",
+          "gloss": "to evade"
+        },
+        {
+          "word": "péremptoire",
+          "gloss": "peremptory"
+        },
+        {
+          "word": "tergiverser",
+          "gloss": "to dither, prevaricate"
+        },
+        {
+          "word": "faiblesse",
+          "gloss": "weakness"
+        },
+        {
+          "word": "atermoiement",
+          "gloss": "procrastination, delay"
+        },
+        {
+          "word": "présomption",
+          "gloss": "presumption, arrogance"
+        },
+        {
+          "word": "bretteurs",
+          "gloss": "swashbucklers, swordsmen (fig. debaters)"
+        },
+        {
+          "word": "gardes-fous",
+          "gloss": "safeguards, guardrails"
+        },
+        {
+          "word": "on aurait tort",
+          "gloss": "it would be wrong"
+        },
+        {
+          "word": "vertige",
+          "gloss": "vertigo, dizziness"
+        },
+        {
+          "word": "tâtonnent",
+          "gloss": "grope their way"
+        },
+        {
+          "word": "l'emporte",
+          "gloss": "prevails"
+        },
+        {
+          "word": "vanité",
+          "gloss": "vanity"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-14",
+      "title": "Trois jours de bise",
+      "subtitle": "Three days of bise",
+      "topic": "Weather",
+      "symbol": "wind",
+      "paragraphs": [
+        "La bise s'est levée sur Genève un lundi matin, et pendant trois jours, elle n'a plus rien lâché. Ce vent du nord-est, sec et glacé, qui descend du plateau suisse et s'engouffre dans la rade, a la réputation de rendre les Genevois acariâtres. Les rafales dépassaient les cent kilomètres à l'heure sur le quai, les bateaux restaient amarrés, et le jet d'eau, coupé par précaution, avait laissé place à un trou d'eau grise d'une tristesse infinie. Sur les bancs du bord du lac, le givre formait des sculptures absurdes, et des voitures entières disparaissaient sous une carapace de glace.",
+        "Dans l'immeuble du boulevard Helvétique, la tension montait d'heure en heure. Madame Perret, au quatrième, ronchonnait contre le chauffage. Monsieur Aubert, au troisième, était devenu si hargneux qu'il avait rembarré le facteur pour une histoire de paquet mouillé. Les deux voisins ne se parlaient plus depuis dix ans, depuis une querelle de place de parking dont personne ne se rappelait plus les détails, mais dont chacun conservait précieusement la rancune.",
+        "Le mercredi, une rafale plus violente que les autres a arraché du balcon de Madame Perret une feuille posée sur sa table. La feuille a virevolté dans le ciel, rebondi en ricochets contre la façade, hésité sur une corniche, puis elle est entrée tout droit par la fenêtre entrouverte de Monsieur Aubert. C'était une lettre qu'elle écrivait à sa sœur, et dans laquelle, entre deux plaintes sur la bise, elle avouait qu'elle se sentait seule, et qu'elle regrettait parfois l'époque où le voisin du dessous l'aidait à porter ses courses.",
+        "Monsieur Aubert l'a lue deux fois. Puis il a eu le culot, ou la sagesse, de monter la rapporter lui-même, en prétendant qu'il ne l'avait pas lue. Madame Perret, qui n'en croyait pas un mot, lui a offert un thé. Le jeudi matin, la bise s'est apaisée d'un coup, comme elle était venue. Le jet d'eau est reparti, les bateaux ont quitté le port, et la concierge, goguenarde, a vu les deux anciens ennemis sortir ensemble pour aller au marché. À Genève, on dit volontiers que la bise nettoie le ciel ; on oublie de dire qu'elle fait parfois aussi le ménage dans les cœurs."
+      ],
+      "english": [
+        [
+          "The bise rose over Geneva one Monday morning, and for three days, it let go of nothing.",
+          "This dry, icy north-easterly wind, which comes down from the Swiss plateau and rushes into the harbour, has a reputation for making the people of Geneva cantankerous.",
+          "The gusts exceeded a hundred kilometres an hour on the waterfront, the boats stayed moored, and the famous fountain, switched off as a precaution, had given way to a hole of grey water of infinite sadness.",
+          "On the lakeside benches, the frost formed absurd sculptures, and entire cars disappeared under a shell of ice."
+        ],
+        [
+          "In the building on the boulevard Helvétique, the tension was rising by the hour.",
+          "Madame Perret, on the fourth floor, grumbled about the heating.",
+          "Monsieur Aubert, on the third floor, had become so bad-tempered that he had snubbed the postman over a wet parcel.",
+          "The two neighbours hadn't spoken for ten years, since a quarrel over a parking space whose details nobody remembered any more, but whose resentment each carefully preserved."
+        ],
+        [
+          "On the Wednesday, a gust more violent than the others snatched from Madame Perret's balcony a sheet of paper lying on her table.",
+          "The sheet twirled in the sky, ricocheted off the façade, hesitated on a ledge, then went straight in through Monsieur Aubert's half-open window.",
+          "It was a letter she was writing to her sister, in which, between two complaints about the bise, she admitted that she felt lonely, and that she sometimes missed the days when the neighbour below helped her carry her shopping."
+        ],
+        [
+          "Monsieur Aubert read it twice.",
+          "Then he had the nerve, or the wisdom, to go up and bring it back himself, claiming he hadn't read it.",
+          "Madame Perret, who didn't believe a word of it, offered him a tea.",
+          "On Thursday morning, the bise died down all at once, as suddenly as it had come.",
+          "The fountain started up again, the boats left the harbour, and the caretaker, with a mocking smile, saw the two former enemies go out together to the market.",
+          "In Geneva, people like to say that the bise cleans the sky; they forget to say that it sometimes tidies up hearts too."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "la bise",
+          "gloss": "the bise (cold north-east wind of Lake Geneva)"
+        },
+        {
+          "word": "rafales",
+          "gloss": "gusts"
+        },
+        {
+          "word": "acariâtre",
+          "gloss": "cantankerous"
+        },
+        {
+          "word": "ronchonnait",
+          "gloss": "grumbled"
+        },
+        {
+          "word": "corniche",
+          "gloss": "ledge, cornice"
+        },
+        {
+          "word": "virevolté",
+          "gloss": "twirled"
+        },
+        {
+          "word": "givre",
+          "gloss": "frost"
+        },
+        {
+          "word": "rembarré",
+          "gloss": "rebuffed, snubbed"
+        },
+        {
+          "word": "hargneux",
+          "gloss": "bad-tempered, aggressive"
+        },
+        {
+          "word": "ricochets",
+          "gloss": "rebounds, ricochets"
+        },
+        {
+          "word": "il a eu le culot",
+          "gloss": "he had the nerve"
+        },
+        {
+          "word": "goguenard",
+          "gloss": "mocking, jeering"
+        },
+        {
+          "word": "s'est apaisée",
+          "gloss": "died down"
+        },
+        {
+          "word": "le quai",
+          "gloss": "the waterfront"
+        }
+      ]
+    },
+    {
+      "id": "fr-c2-15",
+      "title": "Le goût perdu",
+      "subtitle": "The lost taste",
+      "topic": "Cooking",
+      "symbol": "fork.knife",
+      "paragraphs": [
+        "Pendant vingt ans, la table de Bertrand Vasseur, au bord de la Saône, a été l'une des plus courues de Lyon. Les critiques louaient la précision de ses sauces, l'audace de ses associations, cette manière qu'il avait d'équilibrer l'acide et le gras comme un funambule sur son fil. Son restaurant était étoilé depuis si longtemps que les Lyonnais avaient cessé d'en parler, comme on cesse de remarquer la colline de Fourvière.",
+        "Puis, un hiver, il est tombé malade. Une mauvaise fièvre, rien de grave, avaient dit les médecins. Mais quand il est revenu en cuisine, il a goûté son fond de veau et n'a rien senti. Les épices, le sel, le citron : tout était devenu fade, comme si quelqu'un avait éteint ses papilles d'un geste, avec un interrupteur. Les spécialistes ont parlé de quelques semaines, puis de quelques mois, puis ils ont cessé de parler de durée. Un soir, par défi, il a croqué dans un piment entier, et il n'a senti que la brûlure.",
+        "Bertrand n'a rien dit à personne, hormis à Yasmina, sa sous-chef depuis douze ans. Il pressentait que l'annonce de son état serait le début de sa déchéance : un chef qui ne goûte plus, c'est un pianiste sourd, et les critiques ne pardonnent pas aux sourds. Alors il a appris à cuisiner autrement. Il pesait tout, au gramme près, chronométrait les cuissons, observait la couleur d'une sauce, sa brillance, la manière dont elle nappait la cuillère. Pour l'assaisonnement, il s'en remettait à Yasmina, qui goûtait à sa place et lui chuchotait un mot, un seul, « encore » ou « parfait ». Le reste de la brigade ne s'est jamais douté de rien.",
+        "Il a cuisiné ainsi pendant trois ans, à la mémoire et à l'aveugle, et le restaurant a gardé son étoile. Certains critiques ont même écrit que sa cuisine était devenue plus pure, plus juste, débarrassée de tout effet inutile. Bertrand riait de bon cœur en lisant ces articles. Un soir, après le service, il a confié à Yasmina les clés du restaurant, avec une confiance inébranlable. « Tu goûtes à ma place depuis trois ans », lui a-t-il dit. « Il serait temps que ce soit aussi ton nom sur la porte. »"
+      ],
+      "english": [
+        [
+          "For twenty years, Bertrand Vasseur's restaurant on the banks of the Saône was one of the most sought-after in Lyon.",
+          "Critics praised the precision of his sauces, the boldness of his combinations, that way he had of balancing acidity and richness like a tightrope walker on his wire.",
+          "His restaurant had held a star for so long that the people of Lyon had stopped talking about it, the way one stops noticing the hill of Fourvière."
+        ],
+        [
+          "Then, one winter, he fell ill.",
+          "A bad fever, nothing serious, the doctors had said.",
+          "But when he came back into the kitchen, he tasted his veal stock and felt nothing.",
+          "Spices, salt, lemon: everything had become bland, as if someone had switched off his taste buds with a single gesture, at a switch.",
+          "The specialists spoke of a few weeks, then a few months, then they stopped talking about how long.",
+          "One evening, out of defiance, he bit into a whole chilli, and felt only the burn."
+        ],
+        [
+          "Bertrand said nothing to anybody, except to Yasmina, his sous-chef of twelve years.",
+          "He sensed that announcing his condition would be the beginning of his downfall: a chef who can no longer taste is a deaf pianist, and critics don't forgive the deaf.",
+          "So he learned to cook differently.",
+          "He weighed everything, to the gram, timed the cooking, observed the colour of a sauce, its sheen, the way it coated the spoon.",
+          "For the seasoning, he relied on Yasmina, who tasted for him and whispered one word to him, just one, \"more\" or \"perfect\".",
+          "The rest of the kitchen team never suspected a thing."
+        ],
+        [
+          "He cooked like that for three years, from memory and blind, and the restaurant kept its star.",
+          "Some critics even wrote that his cooking had become purer, more exact, rid of any unnecessary effect.",
+          "Bertrand laughed heartily when he read these articles.",
+          "One evening, after service, he handed Yasmina the keys of the restaurant, with unshakeable confidence.",
+          "\"You've been tasting for me for three years,\" he told her.",
+          "\"It's high time your name was on the door too.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "étoilé",
+          "gloss": "Michelin-starred"
+        },
+        {
+          "word": "papilles",
+          "gloss": "taste buds"
+        },
+        {
+          "word": "fade",
+          "gloss": "bland, tasteless"
+        },
+        {
+          "word": "brigade",
+          "gloss": "kitchen team"
+        },
+        {
+          "word": "sous-chef",
+          "gloss": "sous-chef"
+        },
+        {
+          "word": "à l'aveugle",
+          "gloss": "blind, without seeing"
+        },
+        {
+          "word": "assaisonnement",
+          "gloss": "seasoning"
+        },
+        {
+          "word": "déchéance",
+          "gloss": "downfall, decline"
+        },
+        {
+          "word": "il s'en remettait à",
+          "gloss": "he relied on"
+        },
+        {
+          "word": "sauce",
+          "gloss": "sauce"
+        },
+        {
+          "word": "chuchotait",
+          "gloss": "whispered"
+        },
+        {
+          "word": "inébranlable",
+          "gloss": "unshakeable"
+        },
+        {
+          "word": "à la mémoire",
+          "gloss": "from memory"
+        },
+        {
+          "word": "pressentait",
+          "gloss": "sensed, had a premonition"
+        }
+      ]
+    }
+  ]
+}

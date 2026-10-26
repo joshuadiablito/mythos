@@ -1,0 +1,1083 @@
+{
+  "language": "fr",
+  "level": "B1",
+  "stories": [
+    {
+      "id": "fr-b1-01",
+      "title": "Le colis sans nom",
+      "subtitle": "The parcel with no name",
+      "topic": "Mystery",
+      "symbol": "shippingbox.fill",
+      "paragraphs": [
+        "Un mardi soir, Chloé a trouvé un colis devant la porte de son appartement, à Lyon. Il n'y avait pas de nom dessus, seulement son adresse, écrite à la main. Elle n'attendait rien, alors elle est descendue voir la gardienne. « C'est peut-être pour l'ancienne locataire, madame Roux », a dit la gardienne. « Elle est partie il y a deux ans, mais je n'ai pas sa nouvelle adresse. »",
+        "Chloé a gardé le colis une semaine sur sa table, sans l'ouvrir. Le dimanche, sa sœur est venue déjeuner et a regardé la boîte avec curiosité. « Ouvre-le, voyons ! Si c'est important, tu le sauras tout de suite. » Chloé a haussé les épaules et a coupé la ficelle. Dedans, il y avait un vieux carnet plein de recettes et une lettre. La lettre disait : « Pour la personne qui habite maintenant chez moi. »",
+        "Madame Roux expliquait qu'elle était partie vivre en maison de retraite. Elle avait cuisiné dans cette cuisine pendant quarante ans, et elle ne voulait pas que ses recettes disparaissent. « Faites-les dans mon vieux four, ils seront meilleurs », avait-elle écrit. Le soir même, Chloé a préparé le gratin de la page douze. Le mois suivant, elle est allée à la maison de retraite avec une part encore chaude. Madame Roux a goûté, puis elle a souri : « Un peu trop de sel, mais vous apprendrez. »"
+      ],
+      "english": [
+        [
+          "One Tuesday evening, Chloé found a parcel outside the door of her flat in Lyon.",
+          "There was no name on it, only her address, written by hand.",
+          "She wasn't expecting anything, so she went down to see the caretaker.",
+          "\"Maybe it's for the former tenant, Madame Roux,\" said the caretaker.",
+          "\"She left two years ago, but I don't have her new address.\""
+        ],
+        [
+          "Chloé kept the parcel on her table for a week, without opening it.",
+          "On Sunday, her sister came for lunch and looked at the box with curiosity.",
+          "\"Open it, come on! If it's important, you'll know straight away.\"",
+          "Chloé shrugged and cut the string.",
+          "Inside, there was an old notebook full of recipes and a letter.",
+          "The letter said: \"For the person who now lives in my home.\""
+        ],
+        [
+          "Madame Roux explained that she had gone to live in a retirement home.",
+          "She had cooked in that kitchen for forty years, and she didn't want her recipes to disappear.",
+          "\"Make them in my old oven, they'll taste better,\" she had written.",
+          "That very evening, Chloé made the gratin on page twelve.",
+          "The following month, she went to the retirement home with a portion that was still warm.",
+          "Madame Roux tasted it, then smiled: \"A little too much salt, but you'll learn.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "colis",
+          "gloss": "parcel"
+        },
+        {
+          "word": "ancienne locataire",
+          "gloss": "former tenant"
+        },
+        {
+          "word": "gardienne",
+          "gloss": "caretaker (of the building)"
+        },
+        {
+          "word": "haussé les épaules",
+          "gloss": "shrugged"
+        },
+        {
+          "word": "ficelle",
+          "gloss": "string"
+        },
+        {
+          "word": "carnet",
+          "gloss": "notebook"
+        },
+        {
+          "word": "recettes",
+          "gloss": "recipes"
+        },
+        {
+          "word": "maison de retraite",
+          "gloss": "retirement home"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-02",
+      "title": "Le piano du troisième",
+      "subtitle": "The piano on the third floor",
+      "topic": "Neighbours",
+      "symbol": "music.note",
+      "paragraphs": [
+        "Depuis l'automne, tous les soirs à vingt heures, quelqu'un jouait du piano au troisième étage de l'immeuble de Samir, à Bruxelles. Ce n'était pas un concert : c'était toujours le même petit morceau, très lent et plein de fausses notes. Samir, qui préparait ses examens, avait du mal à se concentrer. Après trois semaines, il a décidé d'aller se plaindre.",
+        "Il est monté et a frappé à la porte. Un vieil homme a ouvert, une main posée sur une canne. « C'est pour le bruit, n'est-ce pas ? » a-t-il demandé tout de suite. Il s'est excusé et a raconté son histoire. Il avait été professeur de piano pendant trente ans, mais l'année dernière, il avait eu une attaque. « Le médecin dit que la musique m'aide à rééduquer ma main gauche. » Samir s'est senti très gêné.",
+        "« Je jouais un peu quand j'étais petit », a-t-il dit enfin. Le vieil homme a souri et a montré le banc devant le piano. Depuis ce jour, Samir monte deux fois par semaine. Ils jouent à quatre mains : Samir fait la main gauche, son voisin la main droite. Les autres voisins disent que c'est beaucoup mieux qu'avant. Samir, lui, a réussi ses examens, et il travaille maintenant avec de la musique au lieu du silence."
+      ],
+      "english": [
+        [
+          "Since the autumn, every evening at eight o'clock, someone had been playing the piano on the third floor of Samir's building in Brussels.",
+          "It wasn't a concert: it was always the same little piece, very slow and full of wrong notes.",
+          "Samir, who was preparing for his exams, found it hard to concentrate.",
+          "After three weeks, he decided to go and complain."
+        ],
+        [
+          "He went up and knocked on the door.",
+          "An old man opened it, one hand resting on a walking stick.",
+          "\"It's about the noise, isn't it?\" he asked straight away.",
+          "He apologised and told his story.",
+          "He had been a piano teacher for thirty years, but last year he had had a stroke.",
+          "\"The doctor says music helps me retrain my left hand.\"",
+          "Samir felt very embarrassed."
+        ],
+        [
+          "\"I used to play a little when I was small,\" he said at last.",
+          "The old man smiled and pointed to the bench in front of the piano.",
+          "Since that day, Samir has gone up twice a week.",
+          "They play as a duet: Samir does the left hand, his neighbour the right hand.",
+          "The other neighbours say it's much better than before.",
+          "As for Samir, he passed his exams, and he now works with music instead of silence."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "fausses notes",
+          "gloss": "wrong notes"
+        },
+        {
+          "word": "se plaindre",
+          "gloss": "to complain"
+        },
+        {
+          "word": "a frappé",
+          "gloss": "knocked"
+        },
+        {
+          "word": "s'est excusé",
+          "gloss": "apologised"
+        },
+        {
+          "word": "une attaque",
+          "gloss": "a stroke"
+        },
+        {
+          "word": "rééduquer",
+          "gloss": "to retrain, rehabilitate"
+        },
+        {
+          "word": "gêné",
+          "gloss": "embarrassed"
+        },
+        {
+          "word": "à quatre mains",
+          "gloss": "for four hands, as a duet"
+        },
+        {
+          "word": "au lieu du",
+          "gloss": "instead of the"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-03",
+      "title": "La nuit de la tempête",
+      "subtitle": "The night of the storm",
+      "topic": "Weather",
+      "symbol": "snowflake",
+      "paragraphs": [
+        "En janvier, Léa est venue de Toulouse pour un stage de trois mois à Montréal. Le cinquième jour, la radio a annoncé une grosse tempête de neige. Léa a ri : à Toulouse, elle avait déjà vu de la neige. Le soir, en rentrant du travail, elle n'a plus rien vu du tout. Le métro était fermé et les rues étaient blanches et vides.",
+        "Elle est entrée dans le seul magasin encore ouvert, un petit dépanneur au coin de la rue. Il y avait déjà là cinq personnes bloquées, comme elle. « Bienvenue ! » a dit le propriétaire, un monsieur nommé Gilles. « On ne sortira pas avant demain, alors aussi bien faire connaissance. » Vers minuit, il y a eu une coupure de courant. Gilles a donné à chacun une couverture et a fait du chocolat chaud sur un petit réchaud.",
+        "Toute la nuit, ils ont raconté des histoires à tour de rôle. Une étudiante haïtienne a chanté, un vieux monsieur a parlé de la tempête de 1998. Le matin, le chasse-neige est passé et la rue a été déneigée. Avant de partir, ils ont échangé leurs numéros de téléphone. Trois mois plus tard, quand Léa est rentrée en France, ses six amis du dépanneur sont venus à l'aéroport. « Reviens l'hiver prochain », a dit Gilles, « on te prépare une autre tempête. »"
+      ],
+      "english": [
+        [
+          "In January, Léa came from Toulouse for a three-month internship in Montreal.",
+          "On the fifth day, the radio announced a big snowstorm.",
+          "Léa laughed: in Toulouse, she had already seen snow.",
+          "In the evening, coming home from work, she couldn't see anything at all.",
+          "The metro was closed and the streets were white and empty."
+        ],
+        [
+          "She went into the only shop still open, a little corner shop on the corner of the street.",
+          "There were already five people stuck there, like her.",
+          "\"Welcome!\" said the owner, a man called Gilles.",
+          "\"We won't get out before tomorrow, so we might as well get to know each other.\"",
+          "Around midnight, there was a power cut.",
+          "Gilles gave everyone a blanket and made hot chocolate on a little camping stove."
+        ],
+        [
+          "All night, they took turns telling stories.",
+          "A Haitian student sang, an old man talked about the storm of 1998.",
+          "In the morning, the snowplough came by and the street was cleared.",
+          "Before leaving, they exchanged phone numbers.",
+          "Three months later, when Léa went back to France, her six friends from the corner shop came to the airport.",
+          "\"Come back next winter,\" said Gilles, \"we'll get another storm ready for you.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tempête de neige",
+          "gloss": "snowstorm"
+        },
+        {
+          "word": "fermé",
+          "gloss": "closed"
+        },
+        {
+          "word": "dépanneur",
+          "gloss": "corner shop (Québec)"
+        },
+        {
+          "word": "bloquées",
+          "gloss": "stuck"
+        },
+        {
+          "word": "coupure de courant",
+          "gloss": "power cut"
+        },
+        {
+          "word": "une couverture",
+          "gloss": "a blanket"
+        },
+        {
+          "word": "à tour de rôle",
+          "gloss": "in turns"
+        },
+        {
+          "word": "chasse-neige",
+          "gloss": "snowplough"
+        },
+        {
+          "word": "déneigé",
+          "gloss": "cleared of snow"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-04",
+      "title": "Le chien de la gare",
+      "subtitle": "The station dog",
+      "topic": "Animals",
+      "symbol": "pawprint.fill",
+      "paragraphs": [
+        "Chaque soir, à la petite gare de Quimper, un chien blanc et marron attendait sur le quai numéro deux. Il arrivait vers dix-huit heures et il regardait les trains qui venaient de Paris. Quand les voyageurs descendaient, il les regardait un par un, et il remuait la queue. Puis, quand le quai était vide, il repartait tout seul.",
+        "Yannick, le contrôleur, a fini par s'inquiéter. « Il attend quelqu'un, c'est sûr », a-t-il dit à sa collègue. Un soir, il s'est approché doucement et il a regardé le collier du chien. Il y avait un nom, Biscuit, et un numéro de téléphone. Il a appelé, et une femme a répondu, très surprise. Son père, le maître de Biscuit, était à l'hôpital à Paris depuis un mois. Le chien vivait chez un voisin, mais il s'était éloigné tous les soirs sans que personne ne sache où il allait.",
+        "Deux semaines plus tard, la femme a rappelé Yannick. « Mon père rentre vendredi, par le train de dix-huit heures. » Ce vendredi-là, beaucoup d'employés de la gare sont restés sur le quai. Quand un vieil homme est descendu du train, Biscuit a aboyé comme un fou. Il a reconnu son maître avant tout le monde, et il a couru vers lui. Le vieil homme s'est assis sur sa valise et il a pleuré de joie."
+      ],
+      "english": [
+        [
+          "Every evening, at the little station in Quimper, a white and brown dog waited on platform number two.",
+          "He arrived around six o'clock and watched the trains coming from Paris.",
+          "When the passengers got off, he looked at them one by one, and he wagged his tail.",
+          "Then, when the platform was empty, he left again all alone."
+        ],
+        [
+          "Yannick, the ticket inspector, ended up getting worried.",
+          "\"He's waiting for someone, that's for sure,\" he said to his colleague.",
+          "One evening, he went up to him gently and looked at the dog's collar.",
+          "There was a name, Biscuit, and a phone number.",
+          "He called, and a woman answered, very surprised.",
+          "Her father, Biscuit's owner, had been in hospital in Paris for a month.",
+          "The dog was living with a neighbour, but he had wandered off every evening without anyone knowing where he went."
+        ],
+        [
+          "Two weeks later, the woman called Yannick back.",
+          "\"My father is coming home on Friday, on the six o'clock train.\"",
+          "That Friday, many of the station staff stayed on the platform.",
+          "When an old man got off the train, Biscuit barked like mad.",
+          "He recognised his owner before anyone else, and he ran towards him.",
+          "The old man sat down on his suitcase and cried with joy."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "quai",
+          "gloss": "platform"
+        },
+        {
+          "word": "remuait la queue",
+          "gloss": "wagged its tail"
+        },
+        {
+          "word": "contrôleur",
+          "gloss": "ticket inspector"
+        },
+        {
+          "word": "collier",
+          "gloss": "collar"
+        },
+        {
+          "word": "maître",
+          "gloss": "owner (of a dog)"
+        },
+        {
+          "word": "s'était éloigné",
+          "gloss": "had wandered off"
+        },
+        {
+          "word": "aboyé",
+          "gloss": "barked"
+        },
+        {
+          "word": "a reconnu",
+          "gloss": "recognised"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-05",
+      "title": "L'atelier de Mariama",
+      "subtitle": "Mariama's workshop",
+      "topic": "Work",
+      "symbol": "scissors",
+      "paragraphs": [
+        "À vingt-quatre ans, Mariama a enfin ouvert son atelier de couturière dans le quartier de la Médina, à Dakar. Elle avait emprunté de l'argent à son oncle pour acheter une machine à coudre et quelques rouleaux de tissu. Le premier jour, elle a attendu de huit heures du matin jusqu'au soir. Personne n'est entré. Le deuxième jour, non plus.",
+        "Le troisième jour, une vieille dame est arrivée avec un pagne très ancien, déchiré au milieu. « C'était le pagne de ma mère », a-t-elle dit. « Les autres couturières veulent que je l'abandonne. Vous pouvez faire quelque chose ? » Mariama a examiné le tissu pendant longtemps. Ce n'était pas une commande facile, et elle n'allait pas gagner beaucoup d'argent. Mais elle a dit oui.",
+        "Elle a travaillé quatre soirs pour réparer le pagne, point par point, avec un fil presque invisible. Quand la vieille dame est revenue, elle a mis ses lunettes et elle a cherché le trou. Elle ne l'a pas trouvé. La semaine suivante, ses trois filles sont venues commander des robes pour un mariage. Puis leurs amies sont venues, puis les amies des amies. Grâce au bouche à oreille, Mariama a maintenant deux employées, et elle ne fait plus elle-même que les ourlets les plus difficiles."
+      ],
+      "english": [
+        [
+          "At twenty-four, Mariama finally opened her dressmaking workshop in the Médina district of Dakar.",
+          "She had borrowed money from her uncle to buy a sewing machine and a few rolls of fabric.",
+          "On the first day, she waited from eight in the morning until the evening.",
+          "Nobody came in.",
+          "Nor on the second day."
+        ],
+        [
+          "On the third day, an old lady arrived with a very old wax-print cloth, torn in the middle.",
+          "\"It was my mother's wrap,\" she said.",
+          "\"The other dressmakers want me to give it up. Can you do something?\"",
+          "Mariama examined the fabric for a long time.",
+          "It wasn't an easy order, and she wasn't going to earn much money.",
+          "But she said yes."
+        ],
+        [
+          "She worked for four evenings to repair the wrap, stitch by stitch, with an almost invisible thread.",
+          "When the old lady came back, she put on her glasses and looked for the hole.",
+          "She didn't find it.",
+          "The following week, her three daughters came to order dresses for a wedding.",
+          "Then their friends came, then the friends of their friends.",
+          "Thanks to word of mouth, Mariama now has two employees, and she herself only does the most difficult hems."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "couturière",
+          "gloss": "dressmaker"
+        },
+        {
+          "word": "atelier",
+          "gloss": "workshop"
+        },
+        {
+          "word": "tissu",
+          "gloss": "fabric"
+        },
+        {
+          "word": "machine à coudre",
+          "gloss": "sewing machine"
+        },
+        {
+          "word": "avait emprunté",
+          "gloss": "had borrowed"
+        },
+        {
+          "word": "pagne",
+          "gloss": "wax-print cloth, wrap"
+        },
+        {
+          "word": "une commande",
+          "gloss": "an order"
+        },
+        {
+          "word": "bouche à oreille",
+          "gloss": "word of mouth"
+        },
+        {
+          "word": "ourlet",
+          "gloss": "hem"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-06",
+      "title": "Le dernier du marathon",
+      "subtitle": "Last in the marathon",
+      "topic": "Sport",
+      "symbol": "figure.run",
+      "paragraphs": [
+        "Depuis un an, Karim s'entraînait pour le marathon de Paris. Son objectif était clair : passer la ligne d'arrivée en moins de quatre heures. Il courait tous les matins le long du canal Saint-Martin, même sous la pluie. « Cette fois, je vais réussir », répétait-il à sa femme.",
+        "Le jour de la course, tout allait bien. Au trentième kilomètre, son chrono était parfait. Puis il a vu une femme âgée assise sur le trottoir, qui se tenait la jambe. Elle courait aussi, mais elle avait trébuché et elle avait mal à la cheville. Les autres coureurs passaient sans s'arrêter. Karim a regardé sa montre, puis il a ralenti. « Vous voulez de l'aide ? » a-t-il demandé. « Je veux finir », a répondu la femme, « c'est mon dixième marathon. »",
+        "Alors ils ont marché ensemble, lentement, pendant douze kilomètres. Elle s'appelait Odette, elle avait soixante-dix-huit ans, et elle racontait des histoires très drôles. Quand ils sont arrivés, il faisait presque nuit et les bénévoles rangeaient déjà les barrières. Mais quelqu'un a reconnu Odette, et tout le monde est revenu. Ils ont franchi la ligne sous les applaudissements, en dernier. Karim n'a jamais été aussi fier d'un mauvais chrono."
+      ],
+      "english": [
+        [
+          "For a year, Karim had been training for the Paris marathon.",
+          "His goal was clear: to cross the finish line in under four hours.",
+          "He ran every morning along the Canal Saint-Martin, even in the rain.",
+          "\"This time, I'm going to make it,\" he kept telling his wife."
+        ],
+        [
+          "On the day of the race, everything was going well.",
+          "At the thirtieth kilometre, his time was perfect.",
+          "Then he saw an elderly woman sitting on the pavement, holding her leg.",
+          "She was running too, but she had tripped and her ankle hurt.",
+          "The other runners went by without stopping.",
+          "Karim looked at his watch, then he slowed down.",
+          "\"Do you want some help?\" he asked.",
+          "\"I want to finish,\" the woman replied, \"it's my tenth marathon.\""
+        ],
+        [
+          "So they walked together, slowly, for twelve kilometres.",
+          "Her name was Odette, she was seventy-eight, and she told very funny stories.",
+          "When they arrived, it was almost dark and the volunteers were already putting away the barriers.",
+          "But someone recognised Odette, and everybody came back.",
+          "They crossed the line to applause, in last place.",
+          "Karim had never been so proud of a bad time."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "s'entraînait",
+          "gloss": "was training"
+        },
+        {
+          "word": "ligne d'arrivée",
+          "gloss": "finish line"
+        },
+        {
+          "word": "chrono",
+          "gloss": "time (on the clock)"
+        },
+        {
+          "word": "il a ralenti",
+          "gloss": "he slowed down"
+        },
+        {
+          "word": "trébuché",
+          "gloss": "tripped"
+        },
+        {
+          "word": "cheville",
+          "gloss": "ankle"
+        },
+        {
+          "word": "bénévoles",
+          "gloss": "volunteers"
+        },
+        {
+          "word": "applaudissements",
+          "gloss": "applause"
+        },
+        {
+          "word": "ont franchi",
+          "gloss": "crossed"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-07",
+      "title": "Mamie en ligne",
+      "subtitle": "Grandma online",
+      "topic": "Technology",
+      "symbol": "laptopcomputer",
+      "paragraphs": [
+        "Pour ses quatre-vingts ans, la grand-mère de Nicolas a reçu une tablette. Nicolas habitait à Genève et elle à Fribourg, et il voulait lui parler par appel vidéo. « Je n'y comprendrai jamais rien », a-t-elle dit en regardant l'écran noir.",
+        "Le premier dimanche, Nicolas a attendu son appel pendant une heure. Enfin, l'écran s'est allumé, mais il ne voyait que le plafond de la cuisine. « Mamie, tourne la tablette ! » a-t-il crié. Le dimanche suivant, il voyait son visage, mais il n'y avait pas de son. Elle parlait, elle riait, et lui ne comprenait rien. Il lui a écrit sur un papier : « Appuie sur le petit haut-parleur. » Elle a lu, elle a hoché la tête, et elle a appuyé.",
+        "Petit à petit, elle s'est débrouillée de mieux en mieux. Elle a appris à envoyer des photos, puis à regarder des films. Un jour de mars, c'est elle qui l'a appelé, très fière. « Je ne pourrai pas te parler dimanche », a-t-elle annoncé. « Je donne un atelier à la maison de quartier : j'apprends aux autres retraités à faire des appels vidéo. » Nicolas a ri, et il a compris qu'il devrait maintenant prendre rendez-vous pour parler à sa grand-mère."
+      ],
+      "english": [
+        [
+          "For her eightieth birthday, Nicolas's grandmother received a tablet.",
+          "Nicolas lived in Geneva and she lived in Fribourg, and he wanted to talk to her by video call.",
+          "\"I'll never understand any of it,\" she said, looking at the black screen."
+        ],
+        [
+          "The first Sunday, Nicolas waited for her call for an hour.",
+          "Finally, the screen lit up, but he could only see the kitchen ceiling.",
+          "\"Grandma, turn the tablet round!\" he shouted.",
+          "The following Sunday, he could see her face, but there was no sound.",
+          "She was talking, she was laughing, and he couldn't understand a thing.",
+          "He wrote to her on a piece of paper: \"Press the little speaker.\"",
+          "She read it, nodded, and pressed."
+        ],
+        [
+          "Little by little, she managed better and better.",
+          "She learned to send photos, then to watch films.",
+          "One day in March, it was she who called him, very proud.",
+          "\"I won't be able to talk to you on Sunday,\" she announced.",
+          "\"I'm giving a class at the community centre: I'm teaching the other pensioners how to make video calls.\"",
+          "Nicolas laughed, and he realised he would now have to make an appointment to talk to his grandmother."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "tablette",
+          "gloss": "tablet"
+        },
+        {
+          "word": "appel vidéo",
+          "gloss": "video call"
+        },
+        {
+          "word": "écran",
+          "gloss": "screen"
+        },
+        {
+          "word": "appuie",
+          "gloss": "press"
+        },
+        {
+          "word": "pas de son",
+          "gloss": "no sound"
+        },
+        {
+          "word": "elle s'est débrouillée",
+          "gloss": "she managed"
+        },
+        {
+          "word": "maison de quartier",
+          "gloss": "community centre"
+        },
+        {
+          "word": "un atelier",
+          "gloss": "a workshop, class"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-08",
+      "title": "La soupe de poissons",
+      "subtitle": "The fish soup",
+      "topic": "Cooking",
+      "symbol": "fish.fill",
+      "paragraphs": [
+        "Pour impressionner les parents de sa copine, Théo avait décidé de cuisiner une vraie soupe de poissons marseillaise. Le samedi matin, il est allé au Vieux-Port et il a demandé conseil au poissonnier. « Prends de la rascasse et du rouget, et surtout, ne te presse pas », a dit le vieil homme.",
+        "Théo a passé tout l'après-midi dans la cuisine. Tout allait bien jusqu'à six heures, quand le téléphone a sonné. C'était sa mère, qui voulait lui parler de ses vacances. Quand il est revenu, la cuisine était pleine de fumée. Il a éteint le feu et il a regardé dans la grande casserole : la soupe avait brûlé au fond. À sept heures, on a sonné à la porte.",
+        "Les parents d'Inès sont entrés et ils ont senti l'odeur. Théo a tout avoué, très rouge. Le père d'Inès n'a rien dit ; il a pris une cuillère et il a goûté. « Le goût est un peu fumé », a-t-il dit lentement, « mais ce n'est pas grave. » Puis il a expliqué qu'à son premier dîner chez ses futurs beaux-parents, il avait mis le feu aux rideaux. Tout le monde a ri, et ils ont mangé la soupe, avec beaucoup de pain."
+      ],
+      "english": [
+        [
+          "To impress his girlfriend's parents, Théo had decided to cook a real Marseille-style fish soup.",
+          "On Saturday morning, he went to the Old Port and asked the fishmonger for advice.",
+          "\"Take some scorpion fish and red mullet, and above all, don't rush,\" said the old man."
+        ],
+        [
+          "Théo spent the whole afternoon in the kitchen.",
+          "Everything was going well until six o'clock, when the phone rang.",
+          "It was his mother, who wanted to talk to him about her holiday.",
+          "When he came back, the kitchen was full of smoke.",
+          "He turned off the heat and looked into the big saucepan: the soup had burned on the bottom.",
+          "At seven o'clock, the doorbell rang."
+        ],
+        [
+          "Inès's parents came in and they smelled the smell.",
+          "Théo confessed everything, very red in the face.",
+          "Inès's father said nothing; he took a spoon and tasted it.",
+          "\"The taste is a bit smoky,\" he said slowly, \"but it's no big deal.\"",
+          "Then he explained that at his first dinner at his future in-laws' house, he had set fire to the curtains.",
+          "Everyone laughed, and they ate the soup, with lots of bread."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "poissonnier",
+          "gloss": "fishmonger"
+        },
+        {
+          "word": "casserole",
+          "gloss": "saucepan"
+        },
+        {
+          "word": "avait brûlé",
+          "gloss": "had burned"
+        },
+        {
+          "word": "il a éteint",
+          "gloss": "he turned off"
+        },
+        {
+          "word": "fumée",
+          "gloss": "smoke"
+        },
+        {
+          "word": "au fond",
+          "gloss": "at the bottom"
+        },
+        {
+          "word": "le goût",
+          "gloss": "the taste"
+        },
+        {
+          "word": "fumé",
+          "gloss": "smoky"
+        },
+        {
+          "word": "pas grave",
+          "gloss": "no big deal"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-09",
+      "title": "Le permis de papa",
+      "subtitle": "Dad's driving licence",
+      "topic": "Family",
+      "symbol": "car.fill",
+      "paragraphs": [
+        "À dix-huit ans, Camille voulait apprendre à conduire, et son père a proposé de l'aider. Tous les dimanches, ils partaient dans la vieille voiture familiale sur les petites routes de Normandie. Son père était très calme et très patient. « Ne t'inquiète pas, tout le monde fait des erreurs », disait-il quand elle oubliait de mettre son clignotant.",
+        "Mais Camille était souvent nerveuse. Elle n'aimait pas les ronds-points, et elle calait toujours au même endroit, devant la boulangerie de Bayeux. La veille de l'examen, elle a serré le volant si fort que ses mains étaient blanches. « Et si je rate ? » a-t-elle demandé. « Je serai la seule de la famille à rater mon permis. »",
+        "Son père a arrêté la voiture au bord de la route. Il a souri, un peu gêné, et il a avoué un secret. « Moi, j'ai raté mon permis quatre fois », a-t-il dit. « La quatrième fois, j'ai calé devant la même boulangerie. » Camille a ri si fort qu'elle a dû s'essuyer les yeux. Le lendemain, elle a passé l'examen sans stress, et elle l'a réussi du premier coup. Le soir, c'est elle qui a conduit jusqu'à la boulangerie, pour acheter un gâteau."
+      ],
+      "english": [
+        [
+          "At eighteen, Camille wanted to learn to drive, and her father offered to help her.",
+          "Every Sunday, they set off in the old family car along the little roads of Normandy.",
+          "Her father was very calm and very patient.",
+          "\"Don't worry, everyone makes mistakes,\" he would say when she forgot to use her indicator."
+        ],
+        [
+          "But Camille was often nervous.",
+          "She didn't like roundabouts, and she always stalled at the same spot, in front of the bakery in Bayeux.",
+          "The day before the test, she gripped the steering wheel so hard that her hands were white.",
+          "\"And what if I fail?\" she asked.",
+          "\"I'll be the only one in the family to fail my driving test.\""
+        ],
+        [
+          "Her father stopped the car at the side of the road.",
+          "He smiled, a little embarrassed, and admitted a secret.",
+          "\"I failed my driving test four times,\" he said.",
+          "\"The fourth time, I stalled in front of the same bakery.\"",
+          "Camille laughed so hard that she had to wipe her eyes.",
+          "The next day, she took the test without any stress, and she passed it first time.",
+          "In the evening, it was she who drove to the bakery, to buy a cake."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "conduire",
+          "gloss": "to drive"
+        },
+        {
+          "word": "volant",
+          "gloss": "steering wheel"
+        },
+        {
+          "word": "calait",
+          "gloss": "stalled"
+        },
+        {
+          "word": "ronds-points",
+          "gloss": "roundabouts"
+        },
+        {
+          "word": "patient",
+          "gloss": "patient"
+        },
+        {
+          "word": "raté",
+          "gloss": "failed"
+        },
+        {
+          "word": "permis",
+          "gloss": "driving licence"
+        },
+        {
+          "word": "il a avoué",
+          "gloss": "he admitted"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-10",
+      "title": "Le cours du soir",
+      "subtitle": "The evening class",
+      "topic": "Learning",
+      "symbol": "book.fill",
+      "paragraphs": [
+        "Bernard était plombier à Bordeaux depuis quarante ans. Il savait tout réparer, mais il ne savait presque pas lire. Quand il était enfant, il avait quitté l'école très tôt pour aider son père à la ferme. Pendant toute sa vie, il a caché ce secret, même à ses collègues. Il disait toujours : « J'ai oublié mes lunettes, tu peux me lire ça ? »",
+        "Un jour, sa petite-fille de cinq ans lui a apporté un livre. « Papi, tu me lis l'histoire du loup ? » Bernard a regardé les pages et il a senti une grande honte. Il a inventé une histoire avec les images, et elle n'a rien remarqué. Mais le soir, il a parlé à sa femme, et le lendemain, il est allé s'inscrire à un cours du soir pour adultes.",
+        "Les premières semaines ont été très difficiles. Les lettres dansaient devant ses yeux, et il avait envie d'abandonner. Mais sa professeure, une jeune femme très douce, lui répétait : « Vous avez réparé des milliers de tuyaux, vous pouvez réparer ça aussi. » Au printemps, il a pu déchiffrer ses premières phrases. À Noël, devant toute la famille, il a ouvert le livre du loup et il a lu la vraie histoire, lentement, sans s'arrêter. Ses petits-enfants ont applaudi, et sa femme a fait semblant de ne pas pleurer."
+      ],
+      "english": [
+        [
+          "Bernard had been a plumber in Bordeaux for forty years.",
+          "He could repair anything, but he could hardly read.",
+          "When he was a child, he had left school very early to help his father on the farm.",
+          "All his life, he hid this secret, even from his colleagues.",
+          "He always said: \"I've forgotten my glasses, can you read this to me?\""
+        ],
+        [
+          "One day, his five-year-old granddaughter brought him a book.",
+          "\"Grandpa, will you read me the story about the wolf?\"",
+          "Bernard looked at the pages and felt a great shame.",
+          "He made up a story from the pictures, and she didn't notice anything.",
+          "But that evening, he spoke to his wife, and the next day, he went to sign up for an evening class for adults."
+        ],
+        [
+          "The first weeks were very hard.",
+          "The letters danced before his eyes, and he felt like giving up.",
+          "But his teacher, a very gentle young woman, kept telling him: \"You've repaired thousands of pipes, you can repair this too.\"",
+          "In the spring, he was able to make out his first sentences.",
+          "At Christmas, in front of the whole family, he opened the wolf book and read the real story, slowly, without stopping.",
+          "His grandchildren clapped, and his wife pretended not to cry."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "plombier",
+          "gloss": "plumber"
+        },
+        {
+          "word": "lire",
+          "gloss": "to read"
+        },
+        {
+          "word": "honte",
+          "gloss": "shame"
+        },
+        {
+          "word": "a caché",
+          "gloss": "hid"
+        },
+        {
+          "word": "s'inscrire",
+          "gloss": "to sign up"
+        },
+        {
+          "word": "lettres",
+          "gloss": "letters"
+        },
+        {
+          "word": "déchiffrer",
+          "gloss": "to decipher, make out"
+        },
+        {
+          "word": "petits-enfants",
+          "gloss": "grandchildren"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-11",
+      "title": "Le mauvais train",
+      "subtitle": "The wrong train",
+      "topic": "Travel",
+      "symbol": "tram.fill",
+      "paragraphs": [
+        "Ce matin-là, Sophie devait prendre le train de Lyon à Grenoble pour un entretien d'embauche important. Elle avait mal dormi, et elle est montée dans le premier train sur le quai, sans regarder le panneau. Elle s'est endormie tout de suite.",
+        "Quand elle s'est réveillée, elle a vu un grand lac bleu par la fenêtre. « Excusez-moi, on arrive bientôt à Grenoble ? » a-t-elle demandé à son voisin. Il a souri : « Grenoble ? Non, madame, ce train va à Annecy. » Sophie a compris qu'elle s'était trompée de train. Elle a regardé les horaires : le prochain train pour Grenoble partait dans trois heures, beaucoup trop tard. Elle a appelé l'entreprise pour s'excuser, la voix tremblante.",
+        "La secrétaire a été très gentille et lui a proposé un entretien par vidéo, l'après-midi. Alors Sophie a décidé de ne pas faire demi-tour tout de suite. Elle a mangé une tartiflette dans la vieille ville, puis elle s'est assise sur un banc, au bord du lac. À trois heures, elle a fait l'entretien sur son téléphone, avec les montagnes derrière elle. Elle était si détendue qu'elle a parlé avec beaucoup de confiance. Une semaine plus tard, elle a eu le poste quand même, et le directeur lui a demandé où on prenait des photos aussi belles."
+      ],
+      "english": [
+        [
+          "That morning, Sophie was supposed to take the train from Lyon to Grenoble for an important job interview.",
+          "She had slept badly, and she got onto the first train on the platform, without looking at the sign.",
+          "She fell asleep straight away."
+        ],
+        [
+          "When she woke up, she saw a big blue lake through the window.",
+          "\"Excuse me, are we arriving in Grenoble soon?\" she asked the man next to her.",
+          "He smiled: \"Grenoble? No, madam, this train goes to Annecy.\"",
+          "Sophie realised that she had got on the wrong train.",
+          "She looked at the timetable: the next train to Grenoble left in three hours, far too late.",
+          "She called the company to apologise, her voice shaking."
+        ],
+        [
+          "The secretary was very kind and offered her a video interview in the afternoon.",
+          "So Sophie decided not to turn back straight away.",
+          "She ate a tartiflette in the old town, then she sat down on a bench on the lakeside.",
+          "At three o'clock, she did the interview on her phone, with the mountains behind her.",
+          "She was so relaxed that she spoke with great confidence.",
+          "A week later, she got the job anyway, and the director asked her where you could take such beautiful photos."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "horaires",
+          "gloss": "timetable"
+        },
+        {
+          "word": "s'est endormie",
+          "gloss": "fell asleep"
+        },
+        {
+          "word": "s'était trompée de train",
+          "gloss": "had got on the wrong train"
+        },
+        {
+          "word": "le prochain",
+          "gloss": "the next one"
+        },
+        {
+          "word": "au bord du lac",
+          "gloss": "on the lakeside"
+        },
+        {
+          "word": "faire demi-tour",
+          "gloss": "to turn back"
+        },
+        {
+          "word": "entretien d'embauche",
+          "gloss": "job interview"
+        },
+        {
+          "word": "quand même",
+          "gloss": "anyway, all the same"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-12",
+      "title": "Le jardin sur le toit",
+      "subtitle": "The rooftop garden",
+      "topic": "Environment",
+      "symbol": "leaf.fill",
+      "paragraphs": [
+        "Dans l'immeuble de Nadia, à Lille, personne ne se parlait vraiment. Les voisins se disaient bonjour dans l'escalier, et c'était tout. Un jour, Nadia est montée sur le toit plat de l'immeuble pour étendre son linge, et elle a eu une idée. « Et si on faisait un potager ici ? »",
+        "Au début, les autres étaient sceptiques. Le syndic a dit que c'était impossible, puis qu'il fallait une autorisation, puis qu'il fallait payer. Mais Nadia n'a pas abandonné. Avec le vieux monsieur Dubois, du premier étage, elle a monté vingt sacs de terre, un par un. Une famille syrienne a apporté des graines de leur pays, et deux étudiants ont construit des bacs en bois. Chacun arrosait les plantes à son tour.",
+        "En août, il y a eu la première vraie récolte : des tomates, des courgettes, des herbes et même des aubergines. Ils ont organisé un grand repas sur le toit, et tout l'immeuble est venu. Même le syndic est monté, avec une bouteille de vin. « L'année prochaine, on pourrait installer une ruche », a-t-il proposé. Nadia l'a regardé, surprise. « Vous ne disiez pas que c'était impossible ? » Il a haussé les épaules : « Les abeilles, elles, ne demandent pas d'autorisation. »"
+      ],
+      "english": [
+        [
+          "In Nadia's building in Lille, nobody really talked to each other.",
+          "The neighbours said hello on the stairs, and that was all.",
+          "One day, Nadia went up onto the building's flat roof to hang out her washing, and she had an idea.",
+          "\"What if we made a vegetable garden here?\""
+        ],
+        [
+          "At first, the others were sceptical.",
+          "The managing agent said it was impossible, then that they needed permission, then that they would have to pay.",
+          "But Nadia didn't give up.",
+          "With old Monsieur Dubois from the first floor, she carried twenty bags of soil up, one by one.",
+          "A Syrian family brought seeds from their country, and two students built wooden planters.",
+          "Each person watered the plants in turn."
+        ],
+        [
+          "In August, there was the first real harvest: tomatoes, courgettes, herbs and even aubergines.",
+          "They organised a big meal on the roof, and the whole building came.",
+          "Even the managing agent came up, with a bottle of wine.",
+          "\"Next year, we could put in a beehive,\" he suggested.",
+          "Nadia looked at him, surprised.",
+          "\"Weren't you saying it was impossible?\"",
+          "He shrugged: \"Bees don't ask for permission.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "toit",
+          "gloss": "roof"
+        },
+        {
+          "word": "terre",
+          "gloss": "soil"
+        },
+        {
+          "word": "graines",
+          "gloss": "seeds"
+        },
+        {
+          "word": "récolte",
+          "gloss": "harvest"
+        },
+        {
+          "word": "sceptique",
+          "gloss": "sceptical"
+        },
+        {
+          "word": "arrosait",
+          "gloss": "watered"
+        },
+        {
+          "word": "le syndic",
+          "gloss": "the building's managing agent"
+        },
+        {
+          "word": "abeilles",
+          "gloss": "bees"
+        },
+        {
+          "word": "ruche",
+          "gloss": "beehive"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-13",
+      "title": "Le feu d'artifice sous la pluie",
+      "subtitle": "Fireworks in the rain",
+      "topic": "Celebrations",
+      "symbol": "sparkles",
+      "paragraphs": [
+        "Pour le 14 Juillet, le petit village de Mouthe, dans le Jura, préparait un feu d'artifice depuis des mois. Tout le monde attendait ce moment, surtout Lucas, dix ans, qui allait jouer du tambour dans la fanfare pour la première fois. Il s'entraînait tous les jours dans le garage, au grand malheur de ses parents.",
+        "Mais à vingt heures, le ciel est devenu noir, et une grosse averse est tombée sur la place. Les gens ont couru sous les arbres, les lampions se sont éteints, et les musiciens étaient trempés. Le maire a pris le micro, l'air triste. « Je suis désolé, le feu d'artifice est annulé. » Lucas a baissé la tête ; il avait les larmes aux yeux.",
+        "C'est alors que le curé a ouvert les grandes portes de l'église. « Entrez, il y a de la place pour tout le monde ! » Toute la fanfare est entrée, suivie par le village entier. Lucas a joué du tambour sous les vieilles voûtes, et le son était dix fois plus fort que dehors. Les gens ont dansé entre les bancs, et le bal a duré jusqu'à minuit. Le feu d'artifice a été tiré le lendemain soir, mais au village, on parle encore surtout du bal dans l'église."
+      ],
+      "english": [
+        [
+          "For the 14th of July, the little village of Mouthe, in the Jura, had been preparing a fireworks display for months.",
+          "Everyone was waiting for this moment, especially Lucas, ten, who was going to play the drum in the brass band for the first time.",
+          "He practised every day in the garage, much to his parents' dismay."
+        ],
+        [
+          "But at eight o'clock, the sky turned black, and a heavy downpour fell on the square.",
+          "People ran under the trees, the paper lanterns went out, and the musicians were soaked.",
+          "The mayor took the microphone, looking sad.",
+          "\"I'm sorry, the fireworks are cancelled.\"",
+          "Lucas lowered his head; he had tears in his eyes."
+        ],
+        [
+          "It was then that the priest opened the big doors of the church.",
+          "\"Come in, there's room for everyone!\"",
+          "The whole band came in, followed by the entire village.",
+          "Lucas played the drum under the old vaults, and the sound was ten times louder than outside.",
+          "People danced between the pews, and the dance lasted until midnight.",
+          "The fireworks were set off the following evening, but in the village people still talk mostly about the dance in the church."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "feu d'artifice",
+          "gloss": "fireworks"
+        },
+        {
+          "word": "le maire",
+          "gloss": "the mayor"
+        },
+        {
+          "word": "annulé",
+          "gloss": "cancelled"
+        },
+        {
+          "word": "averse",
+          "gloss": "downpour"
+        },
+        {
+          "word": "fanfare",
+          "gloss": "brass band"
+        },
+        {
+          "word": "trempés",
+          "gloss": "soaked"
+        },
+        {
+          "word": "bal",
+          "gloss": "dance"
+        },
+        {
+          "word": "lampions",
+          "gloss": "paper lanterns"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-14",
+      "title": "Le médecin du village",
+      "subtitle": "The village doctor",
+      "topic": "Health",
+      "symbol": "cross.case.fill",
+      "paragraphs": [
+        "Le docteur Amélie Fabre venait de s'installer dans un petit village d'Auvergne. Elle avait trente ans, elle arrivait de Paris, et les habitants la regardaient avec méfiance. « Une Parisienne, ici ? Elle ne restera pas un hiver », disaient-ils au café.",
+        "Une nuit de février, à deux heures du matin, son téléphone a sonné. C'était un agriculteur, monsieur Chabrier, très inquiet. « Docteur, venez vite à la ferme, c'est urgent ! » Elle a pris sa voiture et elle a roulé vingt minutes sur une route couverte de neige. Quand elle est arrivée, il l'a emmenée directement dans l'étable. Là, une vache était en train d'accoucher, et elle avait l'air de souffrir. « Mais je ne suis pas vétérinaire ! » a dit Amélie. « Le vétérinaire est à quarante kilomètres, et vous, vous êtes là », a répondu l'agriculteur.",
+        "Alors Amélie a enlevé son manteau, et elle a suivi les conseils du vétérinaire au téléphone. Une heure plus tard, un petit veau noir est né, en pleine forme. Monsieur Chabrier a tenu la main du docteur longtemps, sans rien dire. Le lundi suivant, la salle d'attente était pleine de malades. Et le veau, bien sûr, s'appelle maintenant Docteur."
+      ],
+      "english": [
+        [
+          "Doctor Amélie Fabre had just set up practice in a small village in the Auvergne.",
+          "She was thirty, she had come from Paris, and the locals looked at her with suspicion.",
+          "\"A Parisian, here? She won't last one winter,\" they said in the café."
+        ],
+        [
+          "One February night, at two o'clock in the morning, her phone rang.",
+          "It was a farmer, Monsieur Chabrier, very worried.",
+          "\"Doctor, come quickly to the farm, it's urgent!\"",
+          "She took her car and drove for twenty minutes on a snow-covered road.",
+          "When she arrived, he took her straight into the cowshed.",
+          "There, a cow was giving birth, and she seemed to be in pain.",
+          "\"But I'm not a vet!\" said Amélie.",
+          "\"The vet is forty kilometres away, and you are here,\" the farmer replied."
+        ],
+        [
+          "So Amélie took off her coat and followed the vet's advice over the phone.",
+          "An hour later, a little black calf was born, perfectly healthy.",
+          "Monsieur Chabrier held the doctor's hand for a long time, without saying anything.",
+          "The following Monday, the waiting room was full of patients.",
+          "And the calf, of course, is now called Doctor."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "s'installer",
+          "gloss": "to set up practice"
+        },
+        {
+          "word": "ferme",
+          "gloss": "farm"
+        },
+        {
+          "word": "vache",
+          "gloss": "cow"
+        },
+        {
+          "word": "vétérinaire",
+          "gloss": "vet"
+        },
+        {
+          "word": "accoucher",
+          "gloss": "to give birth"
+        },
+        {
+          "word": "veau",
+          "gloss": "calf"
+        },
+        {
+          "word": "a tenu",
+          "gloss": "held"
+        },
+        {
+          "word": "malade",
+          "gloss": "patient, sick person"
+        }
+      ]
+    },
+    {
+      "id": "fr-b1-15",
+      "title": "Le vélo volé",
+      "subtitle": "The stolen bike",
+      "topic": "Getting around",
+      "symbol": "bicycle",
+      "paragraphs": [
+        "Un lundi matin, à Nantes, Inès est sortie de chez elle et elle a trouvé son antivol coupé sur le trottoir. Son vélo bleu avait été volé pendant la nuit. Ce n'était pas un vélo cher, mais elle l'avait depuis dix ans, et il y avait un autocollant de son groupe préféré sur le cadre.",
+        "Le soir, elle a cherché sur un site de petites annonces, sans trop y croire. Et soudain, elle l'a vu : son vélo bleu, à vendre pour quatre-vingts euros, dans son propre quartier. On voyait même la rayure sur la selle et un morceau de l'autocollant. Elle a écrit au vendeur et elle a pris rendez-vous pour le lendemain, devant la boulangerie. Son frère a voulu l'accompagner, au cas où.",
+        "Le lendemain, un garçon de quinze ans est arrivé avec le vélo. Inès l'a reconnu tout de suite : c'était le fils de sa voisine du deuxième. Le garçon l'a reconnue aussi, et il a rougi jusqu'aux oreilles. « Je l'ai acheté hier à un type dans la rue, pour trente euros », a-t-il dit très vite. « Je ne savais pas qu'il était à toi, je te le jure. » Inès l'a cru, et elle lui a proposé de lui rembourser ses trente euros. Depuis, quand il a un problème avec son propre vélo, c'est chez elle qu'il vient le réparer."
+      ],
+      "english": [
+        [
+          "One Monday morning in Nantes, Inès came out of her house and found her bike lock cut on the pavement.",
+          "Her blue bike had been stolen during the night.",
+          "It wasn't an expensive bike, but she had had it for ten years, and there was a sticker of her favourite band on the frame."
+        ],
+        [
+          "In the evening, she searched a classified ads website, without really believing in it.",
+          "And suddenly, she saw it: her blue bike, for sale for eighty euros, in her own neighbourhood.",
+          "You could even see the scratch on the saddle and a piece of the sticker.",
+          "She wrote to the seller and made an appointment for the next day, in front of the bakery.",
+          "Her brother wanted to go with her, just in case."
+        ],
+        [
+          "The next day, a fifteen-year-old boy arrived with the bike.",
+          "Inès recognised him immediately: it was the son of her neighbour on the second floor.",
+          "The boy recognised her too, and he blushed right up to his ears.",
+          "\"I bought it yesterday from a guy in the street, for thirty euros,\" he said very quickly.",
+          "\"I didn't know it was yours, I swear.\"",
+          "Inès believed him, and she offered to pay him back his thirty euros.",
+          "Since then, whenever he has a problem with his own bike, it's to her place that he comes to fix it."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "antivol",
+          "gloss": "bike lock"
+        },
+        {
+          "word": "volé",
+          "gloss": "stolen"
+        },
+        {
+          "word": "annonce",
+          "gloss": "advert, listing"
+        },
+        {
+          "word": "vendeur",
+          "gloss": "seller"
+        },
+        {
+          "word": "rayure",
+          "gloss": "scratch"
+        },
+        {
+          "word": "autocollant",
+          "gloss": "sticker"
+        },
+        {
+          "word": "a rougi",
+          "gloss": "blushed"
+        },
+        {
+          "word": "rembourser",
+          "gloss": "to pay back"
+        }
+      ]
+    }
+  ]
+}

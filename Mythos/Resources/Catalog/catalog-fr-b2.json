@@ -1,0 +1,1209 @@
+{
+  "language": "fr",
+  "level": "B2",
+  "stories": [
+    {
+      "id": "fr-b2-01",
+      "title": "Lettre à mon propriétaire",
+      "subtitle": "A letter to my landlord",
+      "topic": "Home",
+      "symbol": "envelope.fill",
+      "paragraphs": [
+        "Cher monsieur Garnier, je me permets de vous écrire une nouvelle fois au sujet du chauffage de mon appartement, rue Oberkampf. Comme je vous l'ai signalé à plusieurs reprises depuis octobre, le radiateur du salon ne fonctionne plus. Vous m'aviez assuré qu'un plombier passerait « dans la semaine ». Nous sommes le 3 février.",
+        "Je tiens à préciser que je ne suis pas une locataire difficile. Bien que la douche fuie depuis mon arrivée et que la fenêtre de la cuisine ne ferme qu'à moitié, je ne me suis jamais plainte. J'ai même appris à préparer mon café en gants de laine, ce qui demande une certaine habileté. Mais il fait aujourd'hui onze degrés dans mon salon, et j'aimerais beaucoup que le radiateur soit réparé avant le printemps.",
+        "Vous trouverez ci-joint une photo de mon thermomètre, ainsi que celle de mon chat, qui dort désormais dans le four éteint. Je vous rappelle également que le loyer a été augmenté en janvier, ce qui me semble difficile à justifier dans ces conditions.",
+        "Enfin, j'ai une dernière information à vous communiquer. Ce matin, le plombier est venu, mais pas chez moi : chez la voisine du dessous, car l'eau de ma douche coulait dans sa salle de bains. Elle vient de m'apprendre que c'est vous qui avez emménagé là-bas en décembre. Je suis donc certaine que les dégâts des eaux seront désormais traités rapidement. Veuillez agréer, monsieur, l'expression de mes salutations distinguées. Julie Morel, troisième étage"
+      ],
+      "english": [
+        [
+          "Dear Monsieur Garnier, I am taking the liberty of writing to you once again about the heating in my flat on rue Oberkampf.",
+          "As I have pointed out to you on several occasions since October, the radiator in the living room no longer works.",
+          "You had assured me that a plumber would come by \"within the week\".",
+          "It is the 3rd of February."
+        ],
+        [
+          "I wish to make it clear that I am not a difficult tenant.",
+          "Although the shower has leaked since I arrived and the kitchen window only half closes, I have never complained.",
+          "I have even learned to make my coffee in woollen gloves, which requires a certain skill.",
+          "But today it is eleven degrees in my living room, and I would very much like the radiator to be repaired before spring."
+        ],
+        [
+          "Please find attached a photo of my thermometer, as well as one of my cat, who now sleeps in the switched-off oven.",
+          "I would also remind you that the rent was raised in January, which seems to me difficult to justify in these conditions."
+        ],
+        [
+          "Finally, I have one last piece of information to give you.",
+          "This morning, the plumber came, but not to my flat: to the neighbour below, because the water from my shower was running into her bathroom.",
+          "She has just told me that it's you who moved in there in December.",
+          "I am therefore sure that the water damage will now be dealt with quickly.",
+          "Yours faithfully.",
+          "Julie Morel, third floor"
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "locataire",
+          "gloss": "tenant"
+        },
+        {
+          "word": "chauffage",
+          "gloss": "heating"
+        },
+        {
+          "word": "à plusieurs reprises",
+          "gloss": "on several occasions"
+        },
+        {
+          "word": "je me permets",
+          "gloss": "I take the liberty"
+        },
+        {
+          "word": "radiateur",
+          "gloss": "radiator"
+        },
+        {
+          "word": "bien que",
+          "gloss": "although"
+        },
+        {
+          "word": "avez emménagé",
+          "gloss": "moved in"
+        },
+        {
+          "word": "que le radiateur soit réparé",
+          "gloss": "for the radiator to be repaired"
+        },
+        {
+          "word": "ci-joint",
+          "gloss": "attached, enclosed"
+        },
+        {
+          "word": "dégâts des eaux",
+          "gloss": "water damage"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-02",
+      "title": "La dernière gardienne",
+      "subtitle": "The last keeper",
+      "topic": "Work",
+      "symbol": "lightbulb.fill",
+      "paragraphs": [
+        "Pendant trente-deux ans, Annick Le Goff a vécu dans un phare au large de l'île d'Ouessant, en Bretagne. Elle a été l'une des dernières gardiennes de phare de France, avant que celui-ci ne soit automatisé. Nous l'avons rencontrée chez elle, dans une petite maison face à la mer.",
+        "Comment êtes-vous devenue gardienne de phare ? « Par hasard, en fait. Mon mari était gardien, et quand il est tombé malade, il fallait que quelqu'un le remplace. Je connaissais déjà le travail, alors on m'a laissé essayer. » En quoi consistait votre travail, exactement ? « Il fallait entretenir la lentille, vérifier que la lumière s'allume à l'heure et noter la météo toutes les trois heures. Par gros temps, la houle montait jusqu'aux fenêtres, et on ne dormait pas beaucoup. »",
+        "Vous n'aviez jamais peur ? « Peur pour moi, non. Peur pour les bateaux, oui. Une nuit de 1987, j'ai vu un cargo s'approcher beaucoup trop des rochers. J'ai appelé les secours, et le naufrage a été évité de justesse. Je n'ai jamais su le nom du capitaine. »",
+        "Qu'est-ce qui vous manque le plus aujourd'hui ? Elle sourit et montre la fenêtre. « Le silence, bien sûr. Mais surtout, d'être utile. Maintenant, c'est un ordinateur à Brest qui surveille la lumière. Il fait très bien son travail, je ne dis pas le contraire. Mais chaque soir, je regarde encore le premier éclat, pour vérifier qu'il ne s'est pas trompé. »"
+      ],
+      "english": [
+        [
+          "For thirty-two years, Annick Le Goff lived in a lighthouse off the island of Ouessant, in Brittany.",
+          "She was one of the last lighthouse keepers in France, before it was automated.",
+          "We met her at home, in a little house facing the sea."
+        ],
+        [
+          "How did you become a lighthouse keeper?",
+          "\"By chance, really. My husband was a keeper, and when he fell ill, someone had to replace him. I already knew the work, so they let me try.\"",
+          "What exactly did your work involve?",
+          "\"You had to maintain the lens, check that the light came on at the right time and record the weather every three hours. In rough weather, the swell came up to the windows, and you didn't sleep much.\""
+        ],
+        [
+          "Were you never afraid?",
+          "\"Afraid for myself, no. Afraid for the boats, yes. One night in 1987, I saw a cargo ship come far too close to the rocks. I called the rescue services, and the shipwreck was avoided by a whisker. I never found out the captain's name.\""
+        ],
+        [
+          "What do you miss most today?",
+          "She smiles and points to the window.",
+          "\"The silence, of course. But above all, being useful. Now it's a computer in Brest that watches over the light. It does its job very well, I don't say otherwise. But every evening, I still watch for the first flash, to check that it hasn't made a mistake.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "gardienne de phare",
+          "gloss": "lighthouse keeper"
+        },
+        {
+          "word": "automatisé",
+          "gloss": "automated"
+        },
+        {
+          "word": "au large",
+          "gloss": "off the coast"
+        },
+        {
+          "word": "la houle",
+          "gloss": "the swell"
+        },
+        {
+          "word": "entretenir",
+          "gloss": "to maintain"
+        },
+        {
+          "word": "lentille",
+          "gloss": "lens"
+        },
+        {
+          "word": "vous manque",
+          "gloss": "do you miss"
+        },
+        {
+          "word": "éclat",
+          "gloss": "flash (of light)"
+        },
+        {
+          "word": "il fallait que",
+          "gloss": "it was necessary that"
+        },
+        {
+          "word": "naufrage",
+          "gloss": "shipwreck"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-03",
+      "title": "Rendez-nous nos dîners",
+      "subtitle": "Give us back our dinners",
+      "topic": "Technology",
+      "symbol": "iphone",
+      "paragraphs": [
+        "Je l'avoue : je ne suis pas un ennemi de la technologie. Je travaille sur un ordinateur, je réserve mes trains sur mon téléphone et je regarde des séries comme tout le monde. Je ne demande pas non plus qu'on interdise les écrans aux enfants ou qu'on revienne au télégraphe. Je demande seulement une chose : qu'on me rende nos dîners.",
+        "Car il faut bien constater que le repas, cette grande institution française, est en danger. Le week-end dernier, chez des amis à Lyon, j'ai compté : sur huit adultes à table, six regardaient leur téléphone entre le fromage et le dessert. L'un vérifiait un résultat de foot, une autre répondait à un message de travail, un troisième montrait des photos de vacances que personne n'avait demandées. Au fond, nous étions ensemble, mais chacun était ailleurs.",
+        "On me répondra que la conversation n'était pas toujours passionnante autrefois, et c'est vrai. Mais même l'ennui d'un long dîner de famille avait sa valeur : c'est là qu'on apprenait à écouter, à se disputer, à raconter une histoire. Faire défiler des images ne remplace pas cela.",
+        "Il est donc temps que nous prenions une décision simple. Chez moi, désormais, les téléphones sont déposés dans un panier à l'entrée. Certains invités ont été un peu vexés, je le reconnais. Néanmoins, ils restent plus longtemps qu'avant, et ils repartent en disant qu'ils ont passé une soirée formidable. Aucun ne s'est encore plaint, sauf mon fils de quinze ans, qui prétend que je suis un dictateur. Il a peut-être raison, mais il mange avec nous."
+      ],
+      "english": [
+        [
+          "I admit it: I'm no enemy of technology.",
+          "I work on a computer, I book my trains on my phone and I watch series like everybody else.",
+          "Nor am I asking for screens to be banned for children or for us to go back to the telegraph.",
+          "I'm asking for only one thing: that our dinners be given back to me."
+        ],
+        [
+          "For one has to acknowledge that the meal, that great French institution, is in danger.",
+          "Last weekend, at friends' in Lyon, I counted: of eight adults at the table, six were looking at their phones between the cheese and the dessert.",
+          "One was checking a football score, another was answering a work message, a third was showing holiday photos that nobody had asked for.",
+          "Basically, we were together, but each person was somewhere else."
+        ],
+        [
+          "People will tell me that conversation wasn't always fascinating in the past, and that's true.",
+          "But even the boredom of a long family dinner had its value: that's where you learned to listen, to argue, to tell a story.",
+          "Scrolling through pictures doesn't replace that."
+        ],
+        [
+          "So it is time we made a simple decision.",
+          "At my home, from now on, phones are left in a basket at the entrance.",
+          "Some guests have been a little offended, I admit.",
+          "Nevertheless, they stay longer than before, and they leave saying they've had a wonderful evening.",
+          "None of them has complained yet, except my fifteen-year-old son, who claims I'm a dictator.",
+          "He may be right, but he eats with us."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "qu'on me rende",
+          "gloss": "that ... be given back to me"
+        },
+        {
+          "word": "écrans",
+          "gloss": "screens"
+        },
+        {
+          "word": "qu'on interdise",
+          "gloss": "that we ban"
+        },
+        {
+          "word": "au fond",
+          "gloss": "deep down, basically"
+        },
+        {
+          "word": "faire défiler",
+          "gloss": "to scroll"
+        },
+        {
+          "word": "il est donc temps que",
+          "gloss": "so it is time that"
+        },
+        {
+          "word": "ennui",
+          "gloss": "boredom"
+        },
+        {
+          "word": "vexé",
+          "gloss": "offended"
+        },
+        {
+          "word": "néanmoins",
+          "gloss": "nevertheless"
+        },
+        {
+          "word": "panier",
+          "gloss": "basket"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-04",
+      "title": "Le terrain vague",
+      "subtitle": "The waste ground",
+      "topic": "Society",
+      "symbol": "person.3.fill",
+      "paragraphs": [
+        "Dans le quartier de la Belle de Mai, à Marseille, il y avait un terrain vague où rien ne poussait, à part des herbes et des déchets. Depuis des années, les jeunes du quartier y venaient le soir avec leurs planches à roulettes, sur des bouts de béton cassé. Un jour, la municipalité a annoncé qu'un parking y serait construit.",
+        "Un conseil de quartier a été organisé pour en discuter. La salle était pleine, et la discussion est vite devenue tendue. Les commerçants expliquaient que leurs clients ne trouvaient jamais de place. Une vieille dame a déclaré que les jeunes faisaient trop de bruit et qu'il fallait qu'on les « occupe autrement ». Personne n'avait demandé leur avis aux principaux intéressés.",
+        "C'est alors que Yasmine, seize ans, a levé la main. Le président a hésité, puis il a accepté qu'elle prenne la parole. Sa voix tremblait un peu, mais elle avait préparé ses arguments. Elle a rappelé qu'il n'existait aucun lieu pour les adolescents dans le quartier, et que, sans le terrain, ils seraient obligés de traîner dans la rue. Puis elle a sorti une feuille : un plan dessiné par ses amis, avec un petit skatepark, des bancs, des arbres, et, sur le côté, vingt places de parking.",
+        "Il y a eu un long silence. Puis la vieille dame a demandé s'il était prévu d'y mettre aussi un banc à l'ombre, pour elle. Yasmine a promis que oui. Six mois plus tard, le projet a été voté à l'unanimité, et le banc à l'ombre porte aujourd'hui une petite plaque : « Réservé aux anciennes adversaires »."
+      ],
+      "english": [
+        [
+          "In the Belle de Mai district of Marseille, there was a patch of waste ground where nothing grew except weeds and rubbish.",
+          "For years, the young people of the area had been coming there in the evenings with their skateboards, on bits of broken concrete.",
+          "One day, the town council announced that a car park would be built there."
+        ],
+        [
+          "A neighbourhood council meeting was organised to discuss it.",
+          "The room was full, and the discussion quickly became tense.",
+          "The shopkeepers explained that their customers could never find a parking space.",
+          "An old lady declared that the young people made too much noise and that they needed to be \"kept busy some other way\".",
+          "Nobody had asked the people most concerned for their opinion."
+        ],
+        [
+          "It was then that Yasmine, sixteen, raised her hand.",
+          "The chairman hesitated, then agreed to let her speak.",
+          "Her voice was trembling a little, but she had prepared her arguments.",
+          "She pointed out that there was no place for teenagers in the neighbourhood, and that, without the waste ground, they would be forced to hang around in the street.",
+          "Then she took out a sheet of paper: a plan drawn by her friends, with a small skate park, benches, trees and, at the side, twenty parking spaces."
+        ],
+        [
+          "There was a long silence.",
+          "Then the old lady asked whether there were plans to put a bench in the shade there too, for her.",
+          "Yasmine promised there would be.",
+          "Six months later, the project was voted through unanimously, and the bench in the shade now bears a small plaque: \"Reserved for former opponents\"."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "terrain vague",
+          "gloss": "waste ground, vacant lot"
+        },
+        {
+          "word": "conseil de quartier",
+          "gloss": "neighbourhood council"
+        },
+        {
+          "word": "municipalité",
+          "gloss": "town council, municipality"
+        },
+        {
+          "word": "parking",
+          "gloss": "car park"
+        },
+        {
+          "word": "principaux intéressés",
+          "gloss": "the people most concerned"
+        },
+        {
+          "word": "qu'elle prenne la parole",
+          "gloss": "for her to speak"
+        },
+        {
+          "word": "tremblait",
+          "gloss": "was trembling"
+        },
+        {
+          "word": "skatepark",
+          "gloss": "skate park"
+        },
+        {
+          "word": "a été voté",
+          "gloss": "was voted through"
+        },
+        {
+          "word": "à l'unanimité",
+          "gloss": "unanimously"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-05",
+      "title": "L'ours de la forêt de Soignes",
+      "subtitle": "The bear of the Sonian Forest",
+      "topic": "Media",
+      "symbol": "newspaper.fill",
+      "paragraphs": [
+        "À la rédaction du petit journal bruxellois où travaillait Thomas, le mois d'août était toujours calme. Il n'y avait pas de politique, pas de sport, et le rédacteur en chef cherchait désespérément une histoire. Alors, quand un lecteur a envoyé une photo floue d'un animal énorme entre les arbres de la forêt de Soignes, tout le monde s'est enthousiasmé.",
+        "Thomas a obtenu un témoignage par téléphone : un promeneur affirmait qu'il avait vu un ours brun traverser le chemin. Le lendemain, le journal a publié en gros titre : « Un ours aurait été aperçu aux portes de Bruxelles ». La nouvelle s'est répandue en quelques heures. Elle a été reprise par la télévision, puis par des journaux français et néerlandais. Des familles entières sont venues dans la forêt avec des jumelles, et la police a dû fermer deux parkings.",
+        "Trois jours plus tard, un étudiant a appelé la rédaction, très gêné. L'ours, c'était lui, déguisé pour le tournage d'un court-métrage. Il avait voulu se manifester plus tôt, a-t-il expliqué, mais il avait eu peur des conséquences. Le rédacteur en chef est devenu tout pâle.",
+        "Thomas a proposé que le journal publie un démenti en première page, et qu'on y explique honnêtement l'erreur. Il a dû reconnaître qu'il n'avait pas pris le temps de vérifier la source. À la surprise générale, les lecteurs ont apprécié cette franchise, et les ventes ont augmenté. Depuis, une photo de l'étudiant en costume d'ours est accrochée au mur de la rédaction, avec une légende : « Vérifier avant de publier »."
+      ],
+      "english": [
+        [
+          "At the newsroom of the little Brussels newspaper where Thomas worked, August was always quiet.",
+          "There was no politics, no sport, and the editor-in-chief was desperately looking for a story.",
+          "So when a reader sent a blurry photo of a huge animal among the trees of the Sonian Forest, everyone got excited."
+        ],
+        [
+          "Thomas obtained an eyewitness account over the phone: a walker claimed he had seen a brown bear cross the path.",
+          "The next day, the paper ran the headline: \"Bear reportedly spotted on Brussels' doorstep\".",
+          "The news spread within a few hours.",
+          "It was picked up by television, then by French and Dutch newspapers.",
+          "Whole families came to the forest with binoculars, and the police had to close two car parks."
+        ],
+        [
+          "Three days later, a student called the newsroom, very embarrassed.",
+          "The bear was him, dressed up for the shooting of a short film.",
+          "He had wanted to come forward earlier, he explained, but he had been afraid of the consequences.",
+          "The editor-in-chief went quite pale."
+        ],
+        [
+          "Thomas suggested that the paper publish a retraction on the front page, and that it honestly explain the mistake there.",
+          "He had to admit that he hadn't taken the time to check the source.",
+          "To everyone's surprise, the readers appreciated this frankness, and sales went up.",
+          "Since then, a photo of the student in his bear costume has hung on the newsroom wall, with a caption: \"Check before you publish\"."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "rédaction",
+          "gloss": "newsroom"
+        },
+        {
+          "word": "témoignage",
+          "gloss": "eyewitness account"
+        },
+        {
+          "word": "aurait été aperçu",
+          "gloss": "was reportedly spotted"
+        },
+        {
+          "word": "gros titre",
+          "gloss": "headline"
+        },
+        {
+          "word": "s'est répandue",
+          "gloss": "spread"
+        },
+        {
+          "word": "démenti",
+          "gloss": "retraction, denial"
+        },
+        {
+          "word": "déguisé",
+          "gloss": "dressed up"
+        },
+        {
+          "word": "vérifier",
+          "gloss": "to check"
+        },
+        {
+          "word": "reconnaître",
+          "gloss": "to admit"
+        },
+        {
+          "word": "lecteurs",
+          "gloss": "readers"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-06",
+      "title": "La comète de Clémence",
+      "subtitle": "Clémence's comet",
+      "topic": "Science",
+      "symbol": "moon.stars.fill",
+      "paragraphs": [
+        "Clémence Tremblay avait soixante-sept ans et elle tenait une épicerie à Mont-Mégantic, au Québec. Le jour, elle vendait du pain et du sirop d'érable ; la nuit, elle observait le ciel étoilé depuis son jardin. Elle avait acheté son premier télescope à cinquante ans, après la mort de son mari, pour que les longues soirées d'hiver paraissent moins vides.",
+        "Une nuit de novembre, elle a remarqué un petit point lumineux qui ne figurait sur aucune de ses cartes. Elle l'a photographié, puis elle l'a observé à nouveau la nuit suivante : il avait bougé. Prudente, elle a d'abord pensé qu'il s'agissait d'un satellite ou d'une erreur de son appareil. Mais après une semaine de calculs, elle a envoyé ses images à l'observatoire tout proche, en s'excusant presque de déranger les scientifiques.",
+        "La réponse est arrivée dix jours plus tard. Sa découverte avait été confirmée par trois observatoires : il s'agissait d'une comète inconnue jusque-là. Selon les règles internationales, la comète porte désormais son nom. Clémence n'en revenait pas. Des journalistes de Montréal sont venus l'interviewer entre deux clients, et le village entier a organisé une fête.",
+        "On lui a demandé si elle allait fermer son épicerie pour se consacrer à l'astronomie. Elle a ri et a répondu qu'elle n'était qu'une passionnée, pas une savante. La comète reviendra dans quatre cent douze ans, et elle sera peut-être visible à l'œil nu. « J'espère que quelqu'un, ce soir-là, dira bonjour de ma part », a-t-elle conclu."
+      ],
+      "english": [
+        [
+          "Clémence Tremblay was sixty-seven and she ran a grocery shop in Mont-Mégantic, in Quebec.",
+          "By day, she sold bread and maple syrup; by night, she watched the starry sky from her garden.",
+          "She had bought her first telescope at fifty, after her husband's death, so that the long winter evenings would seem less empty."
+        ],
+        [
+          "One November night, she noticed a small point of light that didn't appear on any of her charts.",
+          "She photographed it, then observed it again the following night: it had moved.",
+          "Cautious, she first thought it was a satellite or a fault in her equipment.",
+          "But after a week of calculations, she sent her images to the nearby observatory, almost apologising for disturbing the scientists."
+        ],
+        [
+          "The reply arrived ten days later.",
+          "Her discovery had been confirmed by three observatories: it was a previously unknown comet.",
+          "According to international rules, the comet now bears her name.",
+          "Clémence couldn't believe it.",
+          "Journalists from Montreal came to interview her between two customers, and the whole village organised a party."
+        ],
+        [
+          "She was asked whether she was going to close her grocery shop to devote herself to astronomy.",
+          "She laughed and replied that she was only an enthusiast, not a scientist.",
+          "The comet will return in four hundred and twelve years, and it may be visible to the naked eye.",
+          "\"I hope that someone, that evening, will say hello for me,\" she concluded."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "télescope",
+          "gloss": "telescope"
+        },
+        {
+          "word": "figurait",
+          "gloss": "appeared"
+        },
+        {
+          "word": "point lumineux",
+          "gloss": "point of light"
+        },
+        {
+          "word": "n'en revenait pas",
+          "gloss": "couldn't believe it"
+        },
+        {
+          "word": "observatoire",
+          "gloss": "observatory"
+        },
+        {
+          "word": "avait été confirmée",
+          "gloss": "had been confirmed"
+        },
+        {
+          "word": "porte désormais son nom",
+          "gloss": "now bears her name"
+        },
+        {
+          "word": "passionnée",
+          "gloss": "enthusiast, passionate"
+        },
+        {
+          "word": "à l'œil nu",
+          "gloss": "with the naked eye"
+        },
+        {
+          "word": "ciel étoilé",
+          "gloss": "starry sky"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-07",
+      "title": "Le malentendu du midi",
+      "subtitle": "The lunchtime misunderstanding",
+      "topic": "Language",
+      "symbol": "text.bubble.fill",
+      "paragraphs": [
+        "Quand Maxime, un Parisien de vingt-six ans, a commencé à travailler dans une banque à Lausanne, il pensait qu'il n'aurait aucun problème de langue. Après tout, les Vaudois parlent français. Le premier lundi, sa collègue Nathalie lui a proposé de venir dîner avec l'équipe. Il a accepté avec plaisir et il a demandé à quelle heure. « À midi, devant l'entrée », a-t-elle répondu, un peu surprise par la question.",
+        "Maxime a supposé qu'il y avait une erreur et que le rendez-vous était à minuit. Ça lui semblait étrange, mais il se disait que les Suisses avaient peut-être leurs habitudes. À midi, il a mangé un sandwich seul à son bureau, pendant que toute l'équipe l'attendait devant l'entrée. À minuit, il était seul devant une banque fermée, en costume, sous la pluie.",
+        "Le lendemain, quand on lui a expliqué qu'en Suisse, on prend le déjeuner le matin, le dîner à midi et le souper le soir, il s'est rendu compte de son erreur. Ses collègues se sont gentiment moqués de lui pendant des semaines. Il craignait de les vexer en posant trop de questions, alors il a commencé à noter dans un carnet tous les mots qu'il ne connaissait pas : septante, nonante, une panosse, un cornet.",
+        "Deux ans plus tard, Maxime est rentré à Paris pour une réunion de famille. Sa mère lui a demandé ce qu'il voulait pour le dîner. Il a répondu sans réfléchir : « Rien, j'ai déjà dîné à midi, je souperai plus tard. » Toute la famille l'a regardé comme un étranger, et il a compris qu'il était devenu un peu vaudois."
+      ],
+      "english": [
+        [
+          "When Maxime, a twenty-six-year-old Parisian, started working in a bank in Lausanne, he thought he wouldn't have any language problems.",
+          "After all, people from Vaud speak French.",
+          "On the first Monday, his colleague Nathalie suggested he come and have \"dinner\" with the team.",
+          "He accepted with pleasure and asked what time.",
+          "\"At noon, in front of the entrance,\" she answered, a little surprised by the question."
+        ],
+        [
+          "Maxime assumed there was a mistake and that the meeting was at midnight.",
+          "It seemed strange to him, but he told himself that the Swiss perhaps had their own customs.",
+          "At noon, he ate a sandwich alone at his desk, while the whole team waited for him in front of the entrance.",
+          "At midnight, he was alone in front of a closed bank, in a suit, in the rain."
+        ],
+        [
+          "The next day, when it was explained to him that in Switzerland you have \"déjeuner\" in the morning, \"dîner\" at midday and \"souper\" in the evening, he realised his mistake.",
+          "His colleagues teased him gently for weeks.",
+          "He was afraid of offending them by asking too many questions, so he started writing down in a notebook all the words he didn't know: \"septante\", \"nonante\", a \"panosse\", a \"cornet\"."
+        ],
+        [
+          "Two years later, Maxime went back to Paris for a family gathering.",
+          "His mother asked him what he wanted for dinner.",
+          "He answered without thinking: \"Nothing, I already had dinner at noon, I'll have supper later.\"",
+          "The whole family looked at him like a foreigner, and he understood that he had become a little bit Vaudois."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "a supposé",
+          "gloss": "assumed"
+        },
+        {
+          "word": "Vaudois",
+          "gloss": "people from the canton of Vaud"
+        },
+        {
+          "word": "déjeuner",
+          "gloss": "breakfast (in Switzerland), lunch (in France)"
+        },
+        {
+          "word": "dîner",
+          "gloss": "lunch (in Switzerland), dinner (in France)"
+        },
+        {
+          "word": "souper",
+          "gloss": "dinner, supper (in Switzerland)"
+        },
+        {
+          "word": "septante",
+          "gloss": "seventy (Swiss and Belgian French)"
+        },
+        {
+          "word": "moqués",
+          "gloss": "made fun of"
+        },
+        {
+          "word": "il s'est rendu compte",
+          "gloss": "he realised"
+        },
+        {
+          "word": "collègues",
+          "gloss": "colleagues"
+        },
+        {
+          "word": "vexer",
+          "gloss": "to offend"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-08",
+      "title": "La maison de Provence",
+      "subtitle": "The house in Provence",
+      "topic": "Money",
+      "symbol": "eurosign.circle.fill",
+      "paragraphs": [
+        "Quand leur père est mort, Hélène et Guillaume ont hérité ensemble de la maison familiale, près d'Aix-en-Provence. Chez le notaire, la situation semblait simple. Mais très vite, la question de l'héritage les a divisés. Guillaume, qui avait des dettes, voulait vendre la maison le plus vite possible. Hélène, elle, refusait qu'on vende la maison où ils avaient passé tous leurs étés.",
+        "Pendant un an, ils ne se sont parlé que par avocats interposés. Un agent immobilier est venu estimer la maison ; Hélène a refusé de lui ouvrir les volets. Le notaire leur avait pourtant expliqué que, sans accord, l'indivision pouvait durer des années et coûter très cher à tous les deux. Il fallait absolument qu'ils se mettent d'accord. Leurs enfants, qui s'entendaient très bien, ne comprenaient pas qu'on puisse se brouiller pour des murs.",
+        "C'est en vidant le grenier qu'Hélène a trouvé une enveloppe, cachée dans une vieille boîte à outils. Leur père y avait écrit quelques lignes, quelques mois avant sa mort. Ce n'était pas le testament, juste une lettre. Il savait, disait-il, que Guillaume aurait besoin d'argent, et qu'Hélène voudrait garder la maison. Il leur demandait de vendre le grand terrain d'oliviers, qui valait bien plus qu'ils ne le pensaient, et de garder la maison pour les petits-enfants. « Et surtout, pas de rancune entre vous », avait-il ajouté, « c'est la seule chose qui ne se partage pas. »",
+        "Hélène a appelé son frère le soir même. L'été suivant, les deux familles ont ouvert les volets ensemble."
+      ],
+      "english": [
+        [
+          "When their father died, Hélène and Guillaume jointly inherited the family house near Aix-en-Provence.",
+          "At the notary's office, the situation seemed simple.",
+          "But very quickly, the question of the inheritance divided them.",
+          "Guillaume, who was in debt, wanted to sell the house as quickly as possible.",
+          "Hélène, for her part, refused to let the house where they had spent all their summers be sold."
+        ],
+        [
+          "For a year, they only spoke to each other through their lawyers.",
+          "An estate agent came to value the house; Hélène refused to open the shutters for him.",
+          "The notary had explained to them, though, that without an agreement, the joint ownership could last for years and cost them both a great deal.",
+          "They absolutely had to come to an agreement.",
+          "Their children, who got on very well, couldn't understand how anyone could fall out over walls."
+        ],
+        [
+          "It was while emptying the attic that Hélène found an envelope, hidden in an old toolbox.",
+          "Their father had written a few lines in it, a few months before his death.",
+          "It wasn't the will, just a letter.",
+          "He knew, he said, that Guillaume would need money and that Hélène would want to keep the house.",
+          "He asked them to sell the large olive grove, which was worth far more than they thought, and to keep the house for the grandchildren.",
+          "\"And above all, no resentment between you,\" he had added, \"it's the only thing that can't be shared.\""
+        ],
+        [
+          "Hélène called her brother that same evening.",
+          "The following summer, the two families opened the shutters together."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "héritage",
+          "gloss": "inheritance"
+        },
+        {
+          "word": "notaire",
+          "gloss": "notary"
+        },
+        {
+          "word": "indivision",
+          "gloss": "joint ownership"
+        },
+        {
+          "word": "vendre",
+          "gloss": "to sell"
+        },
+        {
+          "word": "agent immobilier",
+          "gloss": "estate agent"
+        },
+        {
+          "word": "rancune",
+          "gloss": "resentment"
+        },
+        {
+          "word": "qu'ils se mettent d'accord",
+          "gloss": "that they come to an agreement"
+        },
+        {
+          "word": "se brouiller",
+          "gloss": "to fall out"
+        },
+        {
+          "word": "le testament",
+          "gloss": "the will"
+        },
+        {
+          "word": "volets",
+          "gloss": "shutters"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-09",
+      "title": "Le mur de la Croix-Rousse",
+      "subtitle": "The wall in the Croix-Rousse",
+      "topic": "Art",
+      "symbol": "paintpalette.fill",
+      "paragraphs": [
+        "Depuis vingt ans, une immense fresque couvrait le mur d'un vieil immeuble de la Croix-Rousse, à Lyon. Elle représentait les ouvriers de la soie du dix-neuvième siècle, leurs métiers à tisser et leurs enfants courant dans les escaliers. Les touristes la photographiaient, et les habitants y donnaient rendez-vous : « On se retrouve devant les canuts ».",
+        "Au printemps, on a appris que l'immeuble allait être démoli pour laisser place à des appartements de luxe. Le promoteur a déclaré qu'il regrettait la disparition de la fresque, mais que le bâtiment était en trop mauvais état pour être sauvé. Une pétition a aussitôt été lancée, et elle a été signée par plus de vingt mille personnes en une semaine. Certains habitants, néanmoins, faisaient remarquer qu'une ville ne peut pas devenir un musée, et que les gens ont aussi besoin de logements.",
+        "Le débat a duré tout l'été. Finalement, il a été convenu que l'immeuble serait démoli, à condition que la fresque soit repeinte sur la façade du nouveau bâtiment. On a cherché le peintre d'origine, mais il était mort depuis longtemps. C'est donc sa fille, elle-même artiste, qui a accepté le projet.",
+        "Elle a respecté presque tout le dessin de son père. Elle n'a changé qu'un détail : dans un coin de la fresque, à une fenêtre, on voit maintenant un vieil homme avec un pinceau, qui regarde la rue. Le jour où l'œuvre a été inaugurée, beaucoup de Lyonnais l'ont reconnu."
+      ],
+      "english": [
+        [
+          "For twenty years, a huge mural had covered the wall of an old building in the Croix-Rousse, in Lyon.",
+          "It depicted the silk workers of the nineteenth century, their looms and their children running on the stairs.",
+          "Tourists photographed it, and locals used it as a meeting point: \"See you in front of the silk workers\"."
+        ],
+        [
+          "In the spring, it was learned that the building was going to be demolished to make way for luxury flats.",
+          "The developer declared that he regretted the loss of the mural, but that the building was in too poor a condition to be saved.",
+          "A petition was launched straight away, and it was signed by more than twenty thousand people in a week.",
+          "Some residents, however, pointed out that a city cannot become a museum, and that people also need homes."
+        ],
+        [
+          "The debate went on all summer.",
+          "In the end, it was agreed that the building would be demolished, on condition that the mural be repainted on the façade of the new building.",
+          "They looked for the original painter, but he had died long ago.",
+          "So it was his daughter, an artist herself, who accepted the project."
+        ],
+        [
+          "She respected almost all of her father's design.",
+          "She changed only one detail: in one corner of the mural, at a window, you can now see an old man holding a paintbrush, looking at the street.",
+          "On the day the work was unveiled, many Lyon residents recognised him."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "fresque",
+          "gloss": "mural"
+        },
+        {
+          "word": "démoli",
+          "gloss": "demolished"
+        },
+        {
+          "word": "immeuble",
+          "gloss": "building"
+        },
+        {
+          "word": "pétition",
+          "gloss": "petition"
+        },
+        {
+          "word": "signée",
+          "gloss": "signed"
+        },
+        {
+          "word": "promoteur",
+          "gloss": "property developer"
+        },
+        {
+          "word": "il a été convenu",
+          "gloss": "it was agreed"
+        },
+        {
+          "word": "à condition que",
+          "gloss": "on condition that"
+        },
+        {
+          "word": "peintre",
+          "gloss": "painter"
+        },
+        {
+          "word": "inaugurée",
+          "gloss": "unveiled"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-10",
+      "title": "La lettre dans le mur",
+      "subtitle": "The letter in the wall",
+      "topic": "History",
+      "symbol": "scroll.fill",
+      "paragraphs": [
+        "En rénovant un appartement à Caen, un ouvrier a découvert une enveloppe jaunie derrière une vieille cloison. Elle était datée du 5 juin 1944, la veille du Débarquement. La propriétaire de l'appartement, une jeune enseignante nommée Laure, l'a ouverte avec précaution.",
+        "La lettre avait été écrite par une adolescente, Simone, qui s'adressait à « la personne qui habitera ici après nous ». Elle racontait que la ville attendait l'arrivée des Alliés, qu'on entendait les avions toutes les nuits et que sa mère avait peur des bombardements. Elle expliquait qu'elle cachait cette lettre au cas où la maison serait détruite, pour qu'on sache qu'une famille heureuse avait vécu là. Elle ajoutait qu'elle voulait devenir pianiste et qu'elle espérait qu'on la retrouve un jour, « quand tout sera fini ».",
+        "Laure était bouleversée. Elle savait que Caen avait été presque entièrement détruite pendant l'été 1944, et que des milliers de civils avaient été tués. Elle a passé des semaines dans les archives de la ville pour savoir si Simone avait survécu. Elle a d'abord craint que la jeune fille n'ait été emportée, comme tant d'autres, avant la Libération.",
+        "Enfin, elle a retrouvé un nom, puis une adresse à Rouen. Simone était morte en 2010, mais ses descendants étaient toujours là. Sa petite-fille a expliqué au téléphone que sa grand-mère avait été professeure de piano pendant quarante ans. « Elle nous parlait souvent d'une lettre qu'elle avait cachée, mais nous pensions qu'elle l'avait inventée. »"
+      ],
+      "english": [
+        [
+          "While renovating a flat in Caen, a workman discovered a yellowed envelope behind an old partition wall.",
+          "It was dated the 5th of June 1944, the day before the D-Day landings.",
+          "The owner of the flat, a young teacher named Laure, opened it carefully."
+        ],
+        [
+          "The letter had been written by a teenage girl, Simone, who addressed it to \"the person who will live here after us\".",
+          "She wrote that the town was waiting for the Allies to arrive, that the planes could be heard every night and that her mother was afraid of the bombings.",
+          "She explained that she was hiding this letter in case the house was destroyed, so that people would know a happy family had lived there.",
+          "She added that she wanted to become a pianist and that she hoped it would be found one day, \"when it's all over\"."
+        ],
+        [
+          "Laure was deeply moved.",
+          "She knew that Caen had been almost entirely destroyed in the summer of 1944, and that thousands of civilians had been killed.",
+          "She spent weeks in the town's archives trying to find out whether Simone had survived.",
+          "At first she feared that the girl had been swept away, like so many others, before the Liberation."
+        ],
+        [
+          "At last, she found a name, then an address in Rouen.",
+          "Simone had died in 2010, but her descendants were still there.",
+          "Her granddaughter explained on the phone that her grandmother had been a piano teacher for forty years.",
+          "\"She often told us about a letter she had hidden, but we thought she had made it up.\""
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "rénovant",
+          "gloss": "renovating"
+        },
+        {
+          "word": "cloison",
+          "gloss": "partition wall"
+        },
+        {
+          "word": "jaunie",
+          "gloss": "yellowed"
+        },
+        {
+          "word": "la Libération",
+          "gloss": "the Liberation (of France, 1944)"
+        },
+        {
+          "word": "bombardements",
+          "gloss": "bombings"
+        },
+        {
+          "word": "archives",
+          "gloss": "records, archives"
+        },
+        {
+          "word": "descendants",
+          "gloss": "descendants"
+        },
+        {
+          "word": "qu'on la retrouve",
+          "gloss": "that it be found"
+        },
+        {
+          "word": "emportée",
+          "gloss": "carried away, swept away"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-11",
+      "title": "Le courrier du cœur",
+      "subtitle": "The agony aunt column",
+      "topic": "Love",
+      "symbol": "heart.fill",
+      "paragraphs": [
+        "Chère Odile, j'ai trente-quatre ans et je vis à Bordeaux avec Julien depuis six ans. Le mois dernier, on m'a proposé le poste dont je rêvais depuis toujours, mais à Montréal. Julien est infirmier ; il adore son travail et sa famille vit ici. Il dit qu'il ne veut pas que je renonce à ce poste à cause de lui, mais je vois bien qu'il est malheureux. Je crains que, si je pars, nous ne nous séparions, et que, si je reste, je lui reproche un jour d'avoir sacrifié ma carrière. Que dois-je faire ? Hésitante, Bordeaux",
+        "Chère Hésitante, votre lettre m'a beaucoup touchée, car elle montre que vous aimez sincèrement deux choses à la fois. Ce n'est pas un défaut ; c'est la vie. Je remarque toutefois une chose : vous m'expliquez longuement ce que pense Julien, mais vous ne dites jamais si vous lui avez posé la question la plus simple. Voudrait-il venir avec vous ?",
+        "On manque d'infirmiers au Québec, vous savez. Avant de mettre en balance votre carrière et votre couple, il vaudrait mieux vérifier que ce choix existe vraiment. Peut-être n'avez-vous pas osé le lui demander, de peur qu'il refuse. Peut-être n'a-t-il pas osé le proposer, de peur de vous gêner. Une relation à distance est possible, mais elle exige beaucoup des deux personnes. Et si vous restez, que ce soit un choix, pas un sacrifice. Parlez-lui ce soir. Les regrets, eux, ne voyagent jamais léger. Odile"
+      ],
+      "english": [
+        [
+          "Dear Odile, I'm thirty-four and I have been living in Bordeaux with Julien for six years.",
+          "Last month, I was offered the job I had always dreamed of, but in Montreal.",
+          "Julien is a nurse; he loves his job and his family lives here.",
+          "He says he doesn't want me to give up this job because of him, but I can see that he's unhappy.",
+          "I'm afraid that if I leave, we'll split up, and that if I stay, I'll one day blame him for having sacrificed my career.",
+          "What should I do?",
+          "Hesitant, Bordeaux"
+        ],
+        [
+          "Dear Hesitant, your letter touched me deeply, because it shows that you sincerely love two things at once.",
+          "That's not a flaw; that's life.",
+          "I notice one thing, however: you explain at length what Julien thinks, but you never say whether you have asked him the simplest question.",
+          "Would he like to come with you?"
+        ],
+        [
+          "There's a shortage of nurses in Quebec, you know.",
+          "Before weighing your career against your relationship, it would be better to check that this choice really exists.",
+          "Perhaps you haven't dared to ask him, for fear that he would refuse.",
+          "Perhaps he hasn't dared to suggest it, for fear of being in your way.",
+          "A long-distance relationship is possible, but it demands a lot of both people.",
+          "And if you stay, let it be a choice, not a sacrifice.",
+          "Talk to him tonight.",
+          "Regrets, for their part, never travel light.",
+          "Odile"
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "osé",
+          "gloss": "dared"
+        },
+        {
+          "word": "poste",
+          "gloss": "job, position"
+        },
+        {
+          "word": "je crains que",
+          "gloss": "I'm afraid that"
+        },
+        {
+          "word": "sacrifié",
+          "gloss": "sacrificed"
+        },
+        {
+          "word": "je lui reproche",
+          "gloss": "I'll blame him"
+        },
+        {
+          "word": "à distance",
+          "gloss": "long-distance"
+        },
+        {
+          "word": "mettre en balance",
+          "gloss": "to weigh up"
+        },
+        {
+          "word": "sincèrement",
+          "gloss": "sincerely"
+        },
+        {
+          "word": "il vaudrait mieux",
+          "gloss": "it would be better"
+        },
+        {
+          "word": "regrets",
+          "gloss": "regrets"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-12",
+      "title": "Au temps des sucres",
+      "subtitle": "Sugaring season",
+      "topic": "Food & drink",
+      "symbol": "drop.fill",
+      "paragraphs": [
+        "Dans la Beauce, au Québec, Denis Poulin exploite une érablière qui appartient à sa famille depuis cinq générations. Nous l'avons rencontré au début du printemps, en pleine saison des sucres.",
+        "Comment fabrique-t-on le sirop d'érable ? « Au moment du dégel, quand il fait froid la nuit et doux le jour, la sève commence à couler dans les arbres. On la récolte, puis on la fait bouillir pendant des heures. Il faut environ quarante litres de sève pour faire un seul litre de sirop. »",
+        "On dit que le métier a beaucoup changé ces dernières années. « C'est vrai. Quand j'étais petit, la saison commençait toujours vers la mi-mars. Aujourd'hui, à cause du réchauffement climatique, elle est devenue imprévisible. L'an dernier, la sève a coulé en février, puis il a fait trop chaud en avril, et la récolte a été réduite de moitié. Les scientifiques disent qu'il se peut que, dans cinquante ans, les érables à sucre aient remonté vers le nord. »",
+        "Vous êtes inquiet pour l'avenir ? « Inquiet, oui, mais pas découragé. Mon grand-père s'adaptait à la météo, je m'adapte au climat. » Il nous emmène dehors, où ses petits-enfants versent du sirop chaud sur la neige pour faire de la tire. « Ce que je veux transmettre, ce n'est pas seulement une érablière. C'est l'idée qu'on doit prendre soin de la forêt, si on veut qu'elle continue à nous nourrir. » Une petite fille lui tend un bâton couvert de tire, et il goûte, très sérieux, comme un juge."
+      ],
+      "english": [
+        [
+          "In the Beauce region of Quebec, Denis Poulin runs a sugar bush that has belonged to his family for five generations.",
+          "We met him at the beginning of spring, in the middle of sugaring season."
+        ],
+        [
+          "How is maple syrup made?",
+          "\"At the time of the thaw, when it's cold at night and mild during the day, the sap starts to flow in the trees. We collect it, then we boil it for hours. It takes about forty litres of sap to make a single litre of syrup.\""
+        ],
+        [
+          "People say the trade has changed a lot in recent years.",
+          "\"That's true. When I was little, the season always started around mid-March. Today, because of global warming, it has become unpredictable. Last year, the sap flowed in February, then it got too warm in April, and the harvest was cut by half. Scientists say that, in fifty years, the sugar maples may have moved further north.\""
+        ],
+        [
+          "Are you worried about the future?",
+          "\"Worried, yes, but not discouraged. My grandfather adapted to the weather, I adapt to the climate.\"",
+          "He takes us outside, where his grandchildren are pouring hot syrup onto the snow to make maple taffy.",
+          "\"What I want to pass on isn't just a sugar bush. It's the idea that we have to take care of the forest, if we want it to go on feeding us.\"",
+          "A little girl hands him a stick covered in taffy, and he tastes it, very seriously, like a judge."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "érablière",
+          "gloss": "sugar bush, maple grove"
+        },
+        {
+          "word": "sève",
+          "gloss": "sap"
+        },
+        {
+          "word": "bouillir",
+          "gloss": "to boil"
+        },
+        {
+          "word": "dégel",
+          "gloss": "thaw"
+        },
+        {
+          "word": "saison des sucres",
+          "gloss": "sugaring season"
+        },
+        {
+          "word": "réchauffement climatique",
+          "gloss": "global warming"
+        },
+        {
+          "word": "imprévisible",
+          "gloss": "unpredictable"
+        },
+        {
+          "word": "tire",
+          "gloss": "maple taffy"
+        },
+        {
+          "word": "il se peut que",
+          "gloss": "it may be that"
+        },
+        {
+          "word": "transmettre",
+          "gloss": "to pass on"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-13",
+      "title": "Le berger et le loup",
+      "subtitle": "The shepherd and the wolf",
+      "topic": "Nature",
+      "symbol": "mountain.2.fill",
+      "paragraphs": [
+        "Depuis le retour du loup dans les Alpes, Marc, berger en Savoie, ne dormait plus tranquille. L'été dernier, sur l'alpage, il avait perdu douze brebis en une seule nuit. Il était persuadé que le loup n'avait plus sa place dans une montagne où les hommes travaillent, et il le disait à qui voulait l'entendre.",
+        "Cet été, l'État lui a envoyé une stagiaire, Élodie, une étudiante en biologie venue de Grenoble. Son rôle était d'aider les bergers à protéger leurs troupeaux, mais aussi d'étudier le comportement du prédateur. Marc l'a accueillie froidement. « Vous, à Grenoble, vous trouvez le loup magnifique », a-t-il dit. « Moi, c'est mes bêtes que je trouve magnifiques. » Élodie n'a pas discuté ; elle a juste demandé qu'on la laisse travailler.",
+        "Pendant deux mois, elle a dormi sous une tente près du troupeau. Elle a aidé Marc à installer des clôtures électriques, et elle lui a appris à mieux utiliser ses chiens de protection, deux grands patous blancs qu'il trouvait paresseux. Elle lui a aussi expliqué pourquoi le loup est une espèce protégée, et comment il régule les populations de cerfs et de sangliers. Marc écoutait, sans être convaincu.",
+        "Fin août, une nuit, les chiens ont aboyé. Marc et Élodie sont sortis avec leurs lampes et ils ont vu deux yeux briller au bord de la forêt. Le loup a regardé les clôtures, puis les chiens, et il est reparti. Cet été-là, Marc n'a perdu aucune brebis. Il n'aime toujours pas le loup, mais il admet désormais qu'on peut cohabiter."
+      ],
+      "english": [
+        [
+          "Since the return of the wolf to the Alps, Marc, a shepherd in Savoie, no longer slept peacefully.",
+          "Last summer, on the mountain pasture, he had lost twelve ewes in a single night.",
+          "He was convinced that the wolf no longer had any place in mountains where people work, and he said so to anyone who would listen."
+        ],
+        [
+          "This summer, the State sent him an intern, Élodie, a biology student from Grenoble.",
+          "Her role was to help shepherds protect their flocks, but also to study the predator's behaviour.",
+          "Marc welcomed her coldly.",
+          "\"You people in Grenoble think the wolf is magnificent,\" he said.",
+          "\"Me, it's my animals I think are magnificent.\"",
+          "Élodie didn't argue; she simply asked to be allowed to work."
+        ],
+        [
+          "For two months, she slept in a tent near the flock.",
+          "She helped Marc put up electric fences, and she taught him to make better use of his guard dogs, two big white Pyrenean mountain dogs he thought were lazy.",
+          "She also explained to him why the wolf is a protected species, and how it regulates the deer and wild boar populations.",
+          "Marc listened, without being convinced."
+        ],
+        [
+          "At the end of August, one night, the dogs barked.",
+          "Marc and Élodie went out with their torches and saw two eyes shining at the edge of the forest.",
+          "The wolf looked at the fences, then at the dogs, and went away.",
+          "That summer, Marc didn't lose a single ewe.",
+          "He still doesn't like the wolf, but he now admits that it's possible to coexist."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "berger",
+          "gloss": "shepherd"
+        },
+        {
+          "word": "troupeau",
+          "gloss": "flock"
+        },
+        {
+          "word": "brebis",
+          "gloss": "ewes"
+        },
+        {
+          "word": "alpage",
+          "gloss": "mountain pasture"
+        },
+        {
+          "word": "chiens de protection",
+          "gloss": "guard dogs"
+        },
+        {
+          "word": "espèce protégée",
+          "gloss": "protected species"
+        },
+        {
+          "word": "prédateur",
+          "gloss": "predator"
+        },
+        {
+          "word": "clôtures",
+          "gloss": "fences"
+        },
+        {
+          "word": "il était persuadé que",
+          "gloss": "he was convinced that"
+        },
+        {
+          "word": "cohabiter",
+          "gloss": "to coexist"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-14",
+      "title": "Les retrouvailles",
+      "subtitle": "The reunion",
+      "topic": "Friends",
+      "symbol": "person.2.fill",
+      "paragraphs": [
+        "Vingt ans après le bac, Aïcha a eu l'idée de réunir son ancienne bande du lycée, à Abidjan. Ils étaient cinq, à l'époque, inséparables, et ils s'étaient juré de ne jamais se perdre de vue. Mais la vie les avait dispersés : Koffi vivait à Paris, Awa à Dakar, Serge à Montréal. Seul Hervé était resté en Côte d'Ivoire, et personne n'avait de ses nouvelles.",
+        "Aïcha a créé un groupe de discussion, et en quelques jours, tout le monde a répondu, sauf Hervé. Koffi a fini par expliquer pourquoi. Juste avant leur départ pour l'université, Hervé et lui s'étaient brouillés à cause d'une fille, d'une moto empruntée et jamais rendue, et de quelques mots très durs. « Je crois qu'il m'en veut encore », a-t-il écrit. Il a avoué qu'il s'en voulait aussi, depuis vingt ans, mais qu'il n'avait jamais osé faire le premier pas.",
+        "Le jour des retrouvailles, ils se sont retrouvés à quatre dans un maquis de Cocody, leur ancien restaurant préféré. Ils ont ri, ils ont mangé de l'attiéké et du poisson braisé, ils ont regardé de vieilles photos. Mais la chaise vide les rendait un peu tristes.",
+        "Vers dix heures, le patron s'est approché de leur table avec une clé à la main. « C'est pour monsieur Koffi », a-t-il dit. « Un homme l'a déposée tout à l'heure, avec un message : la moto est garée devant, et elle t'attend depuis vingt ans. » Ils sont sortis en courant. Malgré la nuit, ils ont tout de suite reconnu la silhouette appuyée sur la vieille moto rouge."
+      ],
+      "english": [
+        [
+          "Twenty years after their baccalaureate, Aïcha had the idea of bringing her old school gang back together in Abidjan.",
+          "There were five of them at the time, inseparable, and they had sworn never to lose touch.",
+          "But life had scattered them: Koffi lived in Paris, Awa in Dakar, Serge in Montreal.",
+          "Only Hervé had stayed in Côte d'Ivoire, and nobody had heard from him."
+        ],
+        [
+          "Aïcha created a group chat, and within a few days, everyone had replied, except Hervé.",
+          "Koffi ended up explaining why.",
+          "Just before they left for university, Hervé and he had fallen out over a girl, a borrowed motorbike that was never returned, and a few very harsh words.",
+          "\"I think he still holds it against me,\" he wrote.",
+          "He confessed that he had blamed himself too, for twenty years, but that he had never dared to make the first move."
+        ],
+        [
+          "On the day of the reunion, the four of them met in a maquis in Cocody, their old favourite restaurant.",
+          "They laughed, they ate attiéké and grilled fish, they looked at old photos.",
+          "But the empty chair made them a little sad."
+        ],
+        [
+          "Around ten o'clock, the owner came over to their table with a key in his hand.",
+          "\"It's for Monsieur Koffi,\" he said.",
+          "\"A man dropped it off earlier, with a message: the motorbike is parked out front, and it's been waiting for you for twenty years.\"",
+          "They ran outside.",
+          "Despite the darkness, they immediately recognised the figure leaning on the old red motorbike."
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "retrouvailles",
+          "gloss": "reunion"
+        },
+        {
+          "word": "lycée",
+          "gloss": "secondary school"
+        },
+        {
+          "word": "bande",
+          "gloss": "gang, group of friends"
+        },
+        {
+          "word": "perdre de vue",
+          "gloss": "to lose touch with"
+        },
+        {
+          "word": "maquis",
+          "gloss": "small open-air restaurant (West Africa)"
+        },
+        {
+          "word": "s'étaient brouillés",
+          "gloss": "had fallen out"
+        },
+        {
+          "word": "il s'en voulait",
+          "gloss": "he blamed himself"
+        },
+        {
+          "word": "a avoué",
+          "gloss": "confessed"
+        },
+        {
+          "word": "malgré",
+          "gloss": "despite"
+        },
+        {
+          "word": "faire le premier pas",
+          "gloss": "to make the first move"
+        }
+      ]
+    },
+    {
+      "id": "fr-b2-15",
+      "title": "Lettre à mes élèves",
+      "subtitle": "A letter to my pupils",
+      "topic": "Learning",
+      "symbol": "graduationcap.fill",
+      "paragraphs": [
+        "Mes chers élèves, ce vendredi sera mon dernier jour au lycée Blaise-Diagne de Dakar, après trente-huit ans de carrière. Je n'aime pas les discours, alors j'ai préféré vous écrire cette lettre, que votre déléguée lira en classe.",
+        "Quand j'ai commencé à enseigner, en 1987, nous avions des tableaux noirs, de la craie et soixante élèves par classe. Aujourd'hui, vous avez des ordinateurs, mais je constate que vous êtes toujours aussi bavards, et c'est tant mieux. Il m'est arrivé d'être en colère contre vous, je le reconnais. Il arrive qu'un professeur fatigué oublie qu'un élève difficile est souvent un élève qui a peur. Si l'un de vous a souffert de mon impatience, je lui demande pardon.",
+        "Avant de partir, je voudrais que vous sachiez trois choses. D'abord, les fautes ne sont pas une honte : ce sont des marches, et l'on monte grâce à elles. Ensuite, n'abandonnez jamais votre curiosité, même quand on vous dira qu'il faut être raisonnable. Enfin, n'oubliez pas d'où vous venez : la langue de vos grands-parents vaut autant que celle de vos manuels.",
+        "Je pensais vous avoir beaucoup appris. En relisant cette lettre, je me rends compte que c'est surtout vous qui m'avez appris quelque chose : à rester jeune, à douter et à rire de moi-même. Je vous demande une seule faveur : quand vous serez médecins, ingénieurs ou chauffeurs de taxi, et que vous croiserez une vieille dame au marché Sandaga, dites-lui bonjour. Ce sera peut-être moi. Madame Ndiaye, professeure de français"
+      ],
+      "english": [
+        [
+          "My dear pupils, this Friday will be my last day at the Lycée Blaise-Diagne in Dakar, after a thirty-eight-year career.",
+          "I don't like speeches, so I preferred to write you this letter, which your class representative will read aloud."
+        ],
+        [
+          "When I started teaching, in 1987, we had blackboards, chalk and sixty pupils per class.",
+          "Today you have computers, but I note that you are still just as chatty, and so much the better.",
+          "I have sometimes been angry with you, I admit it.",
+          "It sometimes happens that a tired teacher forgets that a difficult pupil is often a pupil who is afraid.",
+          "If any of you has suffered from my impatience, I ask his or her forgiveness."
+        ],
+        [
+          "Before I leave, I would like you to know three things.",
+          "First, mistakes are nothing to be ashamed of: they are steps, and we climb thanks to them.",
+          "Next, never give up your curiosity, even when people tell you that you must be sensible.",
+          "Finally, don't forget where you come from: the language of your grandparents is worth as much as that of your textbooks."
+        ],
+        [
+          "I thought I had taught you a great deal.",
+          "On rereading this letter, I realise that it is mostly you who have taught me something: to stay young, to doubt and to laugh at myself.",
+          "I ask you only one favour: when you are doctors, engineers or taxi drivers, and you come across an old lady at the Sandaga market, say hello to her.",
+          "It may be me.",
+          "Madame Ndiaye, French teacher"
+        ]
+      ],
+      "vocab": [
+        {
+          "word": "déléguée",
+          "gloss": "class representative"
+        },
+        {
+          "word": "enseigner",
+          "gloss": "to teach"
+        },
+        {
+          "word": "craie",
+          "gloss": "chalk"
+        },
+        {
+          "word": "il arrive qu'un",
+          "gloss": "it happens that a"
+        },
+        {
+          "word": "bavards",
+          "gloss": "chatty"
+        },
+        {
+          "word": "que vous sachiez",
+          "gloss": "that you know"
+        },
+        {
+          "word": "fautes",
+          "gloss": "mistakes"
+        },
+        {
+          "word": "curiosité",
+          "gloss": "curiosity"
+        },
+        {
+          "word": "m'avez appris",
+          "gloss": "(you) have taught me"
+        }
+      ]
+    }
+  ]
+}
