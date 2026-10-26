@@ -1,0 +1,76 @@
+<!doctype html>
+<!-- App Store header and search-result artwork. Render with render.sh. -->
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>Mythos artwork</title>
+<style>
+  @font-face { font-family: "Mythos Serif"; src: url("file:///System/Library/Fonts/NewYork.ttf"); }
+  @font-face { font-family: "Mythos Sans"; src: url("file:///System/Library/Fonts/SFNS.ttf"); }
+
+  :root { --ink: #1B2230; --muted: #5E6573; --accent: #2E5BD8; --warm: #E8894A; }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 100vw; height: 100vh; overflow: hidden; }
+  body {
+    position: relative;
+    font-family: "Mythos Sans", -apple-system, sans-serif;
+    color: var(--ink);
+    background:
+      radial-gradient(60vw 60vw at 8% -10%, rgb(46 91 216 / .22), transparent 70%),
+      radial-gradient(50vw 50vw at 95% 110%, rgb(255 179 71 / .28), transparent 70%),
+      radial-gradient(40vw 40vw at 70% 0%, rgb(126 162 255 / .18), transparent 70%),
+      #F6F4EF;
+  }
+
+  /* Everything is sized in units of --u, 1% of the canvas height. */
+  .text { position: absolute; left: calc(var(--u) * 11); top: 50%; transform: translateY(-50%); width: var(--text-width); }
+  .brand { display: flex; align-items: center; gap: calc(var(--u) * 3); margin-bottom: calc(var(--u) * 5); }
+  .brand img { width: calc(var(--u) * 15); height: calc(var(--u) * 15); border-radius: calc(var(--u) * 3.4);
+               box-shadow: 0 calc(var(--u) * 1) calc(var(--u) * 4) rgb(27 34 48 / .18); }
+  .brand span { font: 600 calc(var(--u) * 11)/1 "Mythos Serif", Georgia, serif; letter-spacing: -.01em; }
+  h1 { font: 500 var(--headline)/1.12 "Mythos Serif", Georgia, serif; letter-spacing: -.015em; }
+  h1 em { font-style: normal; color: var(--accent); }
+  .points { display: flex; flex-wrap: wrap; gap: calc(var(--u) * 1.6); margin-top: calc(var(--u) * 5); }
+  .points span {
+    font-size: calc(var(--u) * 2.9); font-weight: 600; color: var(--muted);
+    padding: calc(var(--u) * 1.1) calc(var(--u) * 2.4); border-radius: 999px;
+    background: rgb(255 255 255 / .72); box-shadow: 0 0 0 1px rgb(27 34 48 / .06);
+  }
+
+  .phones { position: absolute; right: var(--phones-right); top: var(--phones-top); width: var(--phones-width); height: 100%; }
+  .phones img {
+    position: absolute; top: 0; width: var(--phone); border-radius: calc(var(--phone) * .13);
+    box-shadow: 0 calc(var(--u) * 2.4) calc(var(--u) * 8) rgb(27 34 48 / .28), 0 0 0 calc(var(--u) * .5) #1B2230;
+  }
+  .phones .back-left  { left: 0;  top: calc(var(--u) * 8); transform: rotate(-7deg); }
+  .phones .back-right { right: 0; top: calc(var(--u) * 8); transform: rotate(7deg); }
+  .phones .front      { left: 50%; transform: translateX(-50%); z-index: 1; }
+
+  /* Header: 3840 × 1646. Phones run off the bottom edge. */
+  .header { --u: 1vh; --text-width: 40vw; --headline: calc(var(--u) * 6.6);
+            --phone: calc(var(--u) * 46); --phones-width: calc(var(--u) * 110); --phones-right: 5vw; --phones-top: calc(var(--u) * 12); }
+  /* Search results: 3:2. */
+  .search { --u: 1vh; --text-width: 36vw; --headline: calc(var(--u) * 5.2);
+            --phone: calc(var(--u) * 34); --phones-width: calc(var(--u) * 76); --phones-right: 4vw; --phones-top: calc(var(--u) * 16); }
+  .search .brand span { font-size: calc(var(--u) * 9); }
+  .search .brand img { width: calc(var(--u) * 12); height: calc(var(--u) * 12); }
+</style>
+</head>
+<body>
+  <div class="text">
+    <div class="brand"><img src="icon.png" alt=""><span>Mythos</span></div>
+    <h1>A short story every day, in the language <em>you're learning.</em></h1>
+    <div class="points">
+      <span>7 languages · A1 to C2</span>
+      <span>No account</span>
+      <span>No ads or tracking</span>
+    </div>
+  </div>
+  <div class="phones">
+    <img class="back-left" src="../screenshots/6.3-inch/03-listen.jpg" alt="">
+    <img class="back-right" src="../screenshots/6.3-inch/05-cards.jpg" alt="">
+    <img class="front" src="../screenshots/6.3-inch/01-lookup.jpg" alt="">
+  </div>
+  <script>document.body.className = location.hash.slice(1) || "header";</script>
+</body>
+</html>

@@ -97,7 +97,12 @@ branch → `main`, `/docs`**. The pages are `docs/index.html`,
 
 ### Screenshots
 
-iPhone 6.9" display, 1320 × 2868, in `screenshots/`, in upload order:
+Two sets in `screenshots/`, the same seven screens in upload order:
+
+| Folder | Size | App Store Connect slot |
+| --- | --- | --- |
+| `6.9-inch/` | 1320 × 2868 | iPhone 6.9" display |
+| `6.3-inch/` | 1206 × 2622 | iPhone 6.1" or 6.3" display |
 
 1. `01-lookup.jpg`: tapping *achète* in a French A1 story
 2. `02-today.jpg`: today's stories and the reading streak
@@ -107,12 +112,20 @@ iPhone 6.9" display, 1320 × 2868, in `screenshots/`, in upload order:
 6. `06-library.jpg`: the stories that have arrived
 7. `07-onboarding.jpg`: the welcome screen
 
-Apple scales these down for smaller iPhones, so no other sizes are needed.
 The app is iPhone-only, so there are no iPad screenshots.
 
-To retake them, run the Debug build on the iPhone 17 Pro Max simulator with
-the launch arguments in the README, plus `-notificationsAllowed YES` to hide
-the notification banner.
+To retake them, run the Debug build on the iPhone 17 Pro Max (6.9") or
+iPhone 17 Pro (6.3") simulator with the launch arguments in the README,
+plus `-notificationsAllowed YES` to hide the notification banner.
+
+### Header and search-result artwork
+
+In `artwork/`, rendered from `artwork.html` by `artwork/render.sh`:
+
+| File | Size | Slot |
+| --- | --- | --- |
+| `header-3840x1646.jpg` | 3840 × 1646 | Header |
+| `search-3840x2560.jpg` | 3840 × 2560 | Search results |
 
 ## Age rating
 
