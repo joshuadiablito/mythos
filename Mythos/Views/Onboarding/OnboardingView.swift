@@ -181,7 +181,7 @@ private struct LanguagesStep: View {
             StepHeader(title: "What are you learning?", subtitle: "Choose one or more. Each gets its own story every day.")
             LazyVGrid(columns: [GridItem(.flexible(), spacing: 14), GridItem(.flexible(), spacing: 14)], spacing: 14) {
                 ForEach(Language.allCases) { language in
-                    LanguageTile(language: language, selected: settings.course(for: language) != nil) {
+                    LanguageTile(language: language, selected: settings.isLearning(language)) {
                         withAnimation(.snappy) { settings.toggle(language) }
                     }
                 }
@@ -245,7 +245,7 @@ private struct LevelsStep: View {
                         }
                         LevelPicker(selection: Binding(
                             get: { course.level },
-                            set: { settings.setLevel($0, for: course.language) }))
+                            set: { settings.setLevel($0, for: course.id) }))
                     }
                     .card(padding: 16, radius: 24)
                 }
@@ -259,6 +259,8 @@ private struct LevelsStep: View {
 /// The six CEFR levels, unavailable ones dimmed with "Soon".
 struct LevelPicker: View {
     @Binding var selection: Level
+    /// Levels the language is already learned at in another course.
+    var taken: Set<Level> = []
 
     var body: some View {
         VStack(spacing: 6) {
@@ -273,7 +275,13 @@ struct LevelPicker: View {
                             Text(level.summary).font(.caption).foregroundStyle(.secondary)
                         }
                         Spacer()
-                        if !level.isAvailable {
+                        if taken.contains(level) {
+                            Text("Learning")
+                                .font(.caption2.weight(.semibold))
+                                .foregroundStyle(.secondary)
+                                .padding(.horizontal, 8).padding(.vertical, 3)
+                                .background(.quaternary, in: .capsule)
+                        } else if !level.isAvailable {
                             Text("Soon")
                                 .font(.caption2.weight(.semibold))
                                 .foregroundStyle(.secondary)
@@ -289,8 +297,8 @@ struct LevelPicker: View {
                     .contentShape(.rect)
                 }
                 .buttonStyle(.plain)
-                .disabled(!level.isAvailable)
-                .opacity(level.isAvailable ? 1 : 0.5)
+                .disabled(!level.isAvailable || taken.contains(level))
+                .opacity(level.isAvailable && !taken.contains(level) ? 1 : 0.5)
             }
         }
         .sensoryFeedback(.selection, trigger: selection)

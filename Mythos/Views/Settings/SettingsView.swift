@@ -2,7 +2,7 @@ import SwiftUI
 
 struct SettingsView: View {
     @Environment(AppSettings.self) private var settings
-    @State private var editing: Language?
+    @State private var editing: Course?
     @State private var previewSent = false
     @State private var notificationsBlocked = false
     @State private var cacheBytes = 0
@@ -15,7 +15,7 @@ struct SettingsView: View {
                 Section {
                     ForEach(settings.courses) { course in
                         Button {
-                            editing = course.language
+                            editing = course
                         } label: {
                             HStack(spacing: 12) {
                                 LanguageBadge(language: course.language, size: 30)
@@ -30,17 +30,22 @@ struct SettingsView: View {
                         settings.courses.remove(atOffsets: offsets)
                     }
                     Menu {
-                        ForEach(Language.allCases.filter { settings.course(for: $0) == nil }) { language in
-                            Button("\(language.endonym) · \(language.name)") { settings.toggle(language) }
+                        // Every language, including ones already learned: Spanish A2 alongside A1.
+                        ForEach(Language.allCases.filter { !settings.levelsToAdd(for: $0).isEmpty }) { language in
+                            Menu("\(language.endonym) · \(language.name)") {
+                                ForEach(settings.levelsToAdd(for: language)) { level in
+                                    Button("\(level.rawValue) · \(level.title)") { settings.add(language, at: level) }
+                                }
+                            }
                         }
                     } label: {
-                        Label("Add a language", systemImage: "plus")
+                        Label("Add a language or level", systemImage: "plus")
                     }
-                    .disabled(settings.courses.count == Language.allCases.count)
+                    .disabled(Language.allCases.allSatisfy { settings.levelsToAdd(for: $0).isEmpty })
                 } header: {
                     Text("Learning")
                 } footer: {
-                    Text("Changing a level starts it from its first story.")
+                    Text("Learn a language at two levels to get a story from each every day. Changing a level starts it from its first story.")
                 }
                 .listRowBackground(Theme.card)
 
@@ -54,7 +59,7 @@ struct SettingsView: View {
                                    selection: $settings.deliveryTime, displayedComponents: .hourAndMinute)
                         if settings.courses.count > 1 {
                             ForEach(settings.courses) { course in
-                                LanguageTimeRow(language: course.language)
+                                CourseTimeRow(course: course)
                             }
                         }
                         Button(previewSent ? "Arriving in 5 seconds…" : "Send a preview", systemImage: "bell.badge") {
@@ -79,7 +84,7 @@ struct SettingsView: View {
                 } header: {
                     Text("Daily story")
                 } footer: {
-                    Text("Each language's story arrives at its own time: swipe a language to put it back on the default. Notifications are scheduled on this iPhone, weeks ahead, and topped up each time you open Mythos.")
+                    Text("Each course's story arrives at its own time: swipe one to put it back on the default. Notifications are scheduled on this iPhone, weeks ahead, and topped up each time you open Mythos.")
                 }
                 .listRowBackground(Theme.card)
 
@@ -98,7 +103,7 @@ struct SettingsView: View {
                 .listRowBackground(Theme.card)
 
                 Section("About") {
-                    LabeledContent("Stories", value: "\(Catalog.shared.stories.count), written for A1 and A2")
+                    LabeledContent("Stories", value: "\(Catalog.shared.stories.count), from A1 to C2")
                     Link(destination: URL(string: "https://kaikki.org")!) {
                         LabeledContent("Dictionary", value: "Wiktionary via kaikki.org")
                     }
@@ -129,8 +134,8 @@ struct SettingsView: View {
             } message: {
                 Text("Turn on Allow Notifications in Settings to get each day's story.")
             }
-            .sheet(item: $editing) { language in
-                LevelSheet(language: language)
+            .sheet(item: $editing) { course in
+                LevelSheet(courseID: course.id)
             }
         }
         .onChange(of: settings.courses) { reschedule() }
@@ -149,20 +154,22 @@ struct SettingsView: View {
     }
 }
 
-/// One language's delivery time: the default until it's changed, then its own.
-private struct LanguageTimeRow: View {
-    let language: Language
+/// One course's delivery time: the default until it's changed, then its own.
+private struct CourseTimeRow: View {
+    let course: Course
     @Environment(AppSettings.self) private var settings
 
+    private var language: Language { course.language }
+
     var body: some View {
-        let own = settings.hasOwnTime(language)
-        DatePicker(selection: Binding(get: { settings.deliveryTime(for: language) },
-                                      set: { settings.setDeliveryTime($0, for: language) }),
+        let own = settings.hasOwnTime(course.id)
+        DatePicker(selection: Binding(get: { settings.deliveryTime(for: course.id) },
+                                      set: { settings.setDeliveryTime($0, for: course.id) }),
                    displayedComponents: .hourAndMinute) {
             HStack(spacing: 10) {
                 LanguageBadge(language: language, size: 28)
                 VStack(alignment: .leading, spacing: 1) {
-                    Text(language.endonym)
+                    Text(settings.hasSeveralLevels(language) ? "\(language.endonym) \(course.level.rawValue)" : language.endonym)
                     Text(own ? "Its own time" : "Same as default")
                         .font(.caption)
                         .foregroundStyle(.secondary)
@@ -171,7 +178,7 @@ private struct LanguageTimeRow: View {
         }
         .swipeActions {
             if own {
-                Button("Use default", systemImage: "arrow.uturn.backward") { settings.useSharedTime(for: language) }
+                Button("Use default", systemImage: "arrow.uturn.backward") { settings.useSharedTime(for: course.id) }
                     .tint(Theme.accent)
             }
         }
@@ -180,19 +187,21 @@ private struct LanguageTimeRow: View {
 }
 
 private struct LevelSheet: View {
-    let language: Language
+    let courseID: Course.ID
     @Environment(AppSettings.self) private var settings
     @Environment(\.dismiss) private var dismiss
 
     var body: some View {
+        let course = settings.course(courseID)
         NavigationStack {
             ScrollView {
                 LevelPicker(selection: Binding(
-                    get: { settings.course(for: language)?.level ?? .a1 },
-                    set: { settings.setLevel($0, for: language) }))
+                    get: { course?.level ?? .a1 },
+                    set: { settings.setLevel($0, for: courseID) }),
+                    taken: Set(settings.courses.filter { $0.language == course?.language && $0.id != courseID }.map(\.level)))
                     .padding(20)
             }
-            .navigationTitle(language.endonym)
+            .navigationTitle(course?.language.endonym ?? "")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {

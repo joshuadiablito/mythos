@@ -43,8 +43,8 @@ enum NotificationScheduler {
         let calendar = Calendar.current
         let plan = DailyPlan(catalog: catalog, calendar: calendar)
         let today = calendar.startOfDay(for: now)
-        // One notification a day per language, each at that language's time:
-        // 60 days ahead for one language, 30 for two, and so on.
+        // One notification a day per course, each at that course's time:
+        // 60 days ahead for one course, 30 for two, and so on.
         let courses = settings.courses.filter { catalog.hasStories($0.language, $0.level) }
         guard !courses.isEmpty else { return }
         let daysAhead = max(7, budget / courses.count)
@@ -58,7 +58,7 @@ enum NotificationScheduler {
                 let components = calendar.dateComponents([.year, .month, .day, .hour, .minute], from: fireDate)
                 let date = ISO8601DateFormatter.string(from: day, timeZone: calendar.timeZone, formatOptions: [.withFullDate])
                 let request = UNNotificationRequest(
-                    identifier: "\(idPrefix)\(course.language.rawValue)-\(date)",
+                    identifier: "\(idPrefix)\(course.language.rawValue)-\(course.level.rawValue)-\(date)",
                     content: content(for: story),
                     trigger: UNCalendarNotificationTrigger(dateMatching: components, repeats: false))
                 try? await center.add(request)

@@ -5,13 +5,13 @@ import SwiftUI
 struct LibraryView: View {
     @Environment(AppSettings.self) private var settings
     @Environment(ProgressStore.self) private var progress
-    @State private var language: Language?
+    @State private var courseID: Course.ID?
     @State private var search = ""
 
     private var plan: DailyPlan { DailyPlan(catalog: .shared) }
 
     private var course: Course? {
-        settings.courses.first { $0.language == language } ?? settings.courses.first
+        courseID.flatMap(settings.course) ?? settings.courses.first
     }
 
     private var arrived: [Story] {
@@ -30,7 +30,7 @@ struct LibraryView: View {
                 VStack(alignment: .leading, spacing: 22) {
                     if let course {
                         if settings.courses.count > 1 {
-                            LanguageChips(selection: Binding(get: { course.language }, set: { language = $0 }))
+                            CourseChips(selection: Binding(get: { course.id }, set: { courseID = $0 }))
                         }
 
                         ShelfHeader(course: course, plan: plan)
@@ -50,7 +50,7 @@ struct LibraryView: View {
                                 }
                             }
                             if search.isEmpty {
-                                LockedTile(remaining: plan.remaining(for: course, by: .now), time: settings.deliveryTime(for: course.language))
+                                LockedTile(remaining: plan.remaining(for: course, by: .now), time: settings.deliveryTime(for: course.id))
                             }
                         }
                         .padding(.horizontal, 20)
@@ -74,23 +74,22 @@ struct LibraryView: View {
     }
 }
 
-/// The languages being learned, as glass chips.
-private struct LanguageChips: View {
-    @Binding var selection: Language
+/// The courses being learned, as glass chips: "Español", or "Español A1" and
+/// "Español A2" when a language is learned at two levels.
+private struct CourseChips: View {
+    @Binding var selection: Course.ID
     @Environment(AppSettings.self) private var settings
-
-    private var ordered: [Language] { settings.courses.map(\.language) }
 
     var body: some View {
         ScrollView(.horizontal) {
             GlassEffectContainer(spacing: 8) {
                 HStack(spacing: 8) {
-                    ForEach(ordered) { language in
-                        let selected = language == selection
+                    ForEach(settings.courses) { course in
+                        let selected = course.id == selection
                         Button {
-                            withAnimation(.snappy) { selection = language }
+                            withAnimation(.snappy) { selection = course.id }
                         } label: {
-                            Text(language.endonym)
+                            Text(settings.hasSeveralLevels(course.language) ? "\(course.language.endonym) \(course.level.rawValue)" : course.language.endonym)
                                 .font(.subheadline.weight(selected ? .semibold : .regular))
                                 .foregroundStyle(selected ? .white : Theme.ink)
                                 .padding(.horizontal, 14)

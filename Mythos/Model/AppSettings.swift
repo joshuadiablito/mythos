@@ -3,16 +3,33 @@ import Observation
 
 /// A language being learned, at a level. `startedOn` anchors the daily
 /// rotation, so changing level starts that level from its first story.
+/// A language can be learned at several levels at once (Spanish A1 and A2),
+/// but not twice at the same one.
 struct Course: Codable, Hashable, Identifiable {
+    /// Stable while the level changes, so a course can be edited in place.
+    var id = UUID()
     var language: Language
     var level: Level
     var startedOn: Date
-    /// When this language's story arrives, if not at the shared default time:
+    /// When this course's story arrives, if not at the shared default time:
     /// Spanish at 7:00 and Greek at 8:00. Optional, so older settings decode.
     var hour: Int?
     var minute: Int?
+}
 
-    var id: Language { language }
+extension Course {
+    private enum CodingKeys: String, CodingKey { case id, language, level, startedOn, hour, minute }
+
+    /// Settings saved before courses had IDs get a new one.
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        id = try c.decodeIfPresent(UUID.self, forKey: .id) ?? UUID()
+        language = try c.decode(Language.self, forKey: .language)
+        level = try c.decode(Level.self, forKey: .level)
+        startedOn = try c.decode(Date.self, forKey: .startedOn)
+        hour = try c.decodeIfPresent(Int.self, forKey: .hour)
+        minute = try c.decodeIfPresent(Int.self, forKey: .minute)
+    }
 }
 
 /// When the day's story arrives.
@@ -81,6 +98,8 @@ final class AppSettings {
         notificationsEnabled = stored?.notificationsEnabled ?? true
         hasOnboarded = stored?.hasOnboarded ?? false
         speechRate = stored?.speechRate ?? 0.42
+        // Keep the IDs given to courses saved without them.
+        if stored != nil { save() }
     }
 
     private func save() {
@@ -106,48 +125,79 @@ final class AppSettings {
         }
     }
 
-    func course(for language: Language) -> Course? { courses.first { $0.language == language } }
+    func course(_ id: Course.ID) -> Course? { courses.first { $0.id == id } }
+
+    /// The course a story belongs to.
+    func course(for story: Story) -> Course? {
+        courses.first { $0.language == story.language && $0.level == story.level }
+    }
+
+    func isLearning(_ language: Language) -> Bool { courses.contains { $0.language == language } }
+
+    /// The levels a language could still be added at.
+    func levelsToAdd(for language: Language) -> [Level] {
+        Level.allCases.filter { level in level.isAvailable && !courses.contains { $0.language == language && $0.level == level } }
+    }
 
     /// When a course's story arrives: its own time, or the shared one.
     func time(for course: Course) -> (hour: Int, minute: Int) {
         (course.hour ?? hour, course.minute ?? minute)
     }
 
-    /// A course's delivery time as a date today, for DatePicker.
-    func deliveryTime(for language: Language) -> Date {
-        let t = course(for: language).map(time(for:)) ?? (hour: hour, minute: minute)
+    /// A course's delivery time as a date today, for DatePicker; with no
+    /// course, the shared time.
+    func deliveryTime(for id: Course.ID?) -> Date {
+        let t = id.flatMap(course).map(time(for:)) ?? (hour: hour, minute: minute)
         return Calendar.current.date(bySettingHour: t.hour, minute: t.minute, second: 0, of: .now) ?? .now
     }
 
-    /// Gives one language its own delivery time.
-    func setDeliveryTime(_ date: Date, for language: Language) {
-        guard let i = courses.firstIndex(where: { $0.language == language }) else { return }
+    /// Gives one course its own delivery time.
+    func setDeliveryTime(_ date: Date, for id: Course.ID) {
+        guard let i = courses.firstIndex(where: { $0.id == id }) else { return }
         let c = Calendar.current.dateComponents([.hour, .minute], from: date)
         courses[i].hour = c.hour
         courses[i].minute = c.minute
     }
 
-    /// Whether a language arrives at a time of its own rather than the shared one.
-    func hasOwnTime(_ language: Language) -> Bool { course(for: language)?.hour != nil }
+    /// Whether a course arrives at a time of its own rather than the shared one.
+    func hasOwnTime(_ id: Course.ID) -> Bool { course(id)?.hour != nil }
 
-    /// Puts a language back on the shared time.
-    func useSharedTime(for language: Language) {
-        guard let i = courses.firstIndex(where: { $0.language == language }) else { return }
+    /// Puts a course back on the shared time.
+    func useSharedTime(for id: Course.ID) {
+        guard let i = courses.firstIndex(where: { $0.id == id }) else { return }
         courses[i].hour = nil
         courses[i].minute = nil
     }
 
+    /// Starts or stops learning a language: at A1, or every level of it.
     func toggle(_ language: Language) {
-        if let i = courses.firstIndex(where: { $0.language == language }) {
-            courses.remove(at: i)
+        if isLearning(language) {
+            courses.removeAll { $0.language == language }
         } else {
-            courses.append(Course(language: language, level: .a1, startedOn: .now))
+            add(language, at: .a1)
         }
     }
 
-    func setLevel(_ level: Level, for language: Language) {
-        guard let i = courses.firstIndex(where: { $0.language == language }), courses[i].level != level else { return }
+    /// Learns a language at another level, unless it's already learned at that one.
+    @discardableResult
+    func add(_ language: Language, at level: Level) -> Course? {
+        guard !courses.contains(where: { $0.language == language && $0.level == level }) else { return nil }
+        let course = Course(language: language, level: level, startedOn: .now)
+        courses.append(course)
+        return course
+    }
+
+    /// Changes a course's level, unless the language is already learned at that one.
+    func setLevel(_ level: Level, for id: Course.ID) {
+        guard let i = courses.firstIndex(where: { $0.id == id }), courses[i].level != level,
+              !courses.contains(where: { $0.language == courses[i].language && $0.level == level }) else { return }
         courses[i].level = level
         courses[i].startedOn = .now
+    }
+
+    /// Whether more than one course is in this language, so its level is
+    /// needed to tell them apart.
+    func hasSeveralLevels(_ language: Language) -> Bool {
+        courses.count { $0.language == language } > 1
     }
 }

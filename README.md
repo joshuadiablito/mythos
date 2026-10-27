@@ -12,9 +12,11 @@ dictionary data and inflection tables.
   Portuguese and Greek**, 15 stories at every CEFR level from **A1** to
   **C2** (630 in all). Brazilian and European Portuguese are separate
   languages, with their own stories, spelling and voices.
-- **A daily notification** for each language, at a time you choose for that
-  language (Spanish at 7:00, Greek at 8:00). It's scheduled on the phone: no
-  server, no account.
+- **Several levels of one language** at once: Spanish A1 and A2 side by side,
+  each with its own story every day. Add them in Settings.
+- **A daily notification** for each course, at a time you choose for it
+  (Spanish at 7:00, Greek at 8:00). It's scheduled on the phone: no server,
+  no account.
 - **Tap a word** to see what it means in the story, who is doing it in English
   (_achète_ → "il/elle achète → he/she buys"), its dictionary meanings, and
   its full tables with the English under every form ("nous mangeons · we
