@@ -14,7 +14,17 @@ within Apple's limits. Primary language: **English (U.K.)**.
 | Secondary category | Reference |
 | Content rights | No, it doesn't contain, show or access third-party content that needs rights. The dictionary is CC BY-SA and credited in the app. |
 
-## Version 1.0
+## Version 1.1
+
+### What's New in This Version (4000)
+
+```
+Learn a language at more than one level at once. Read Spanish A1 and A2 side by side, or A2 and B1: each level brings its own story every day, at its own time. Add a level in Settings → Add a language or level.
+
+Flashcards now show who is doing the action: "él/ella se despierta → he/she wakes up", not just "wakes up".
+```
+
+The fields below carry over from 1.0 unless you change them.
 
 ### Promotional text (170)
 
