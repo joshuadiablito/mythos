@@ -47,8 +47,7 @@ struct OnboardingView: View {
                         .font(.body.weight(.semibold))
                         .frame(width: 30, height: 30)
                 }
-                .buttonStyle(.glass)
-                .buttonBorderShape(.circle)
+                .glassButtonStyle(shape: .circle)
                 .controlSize(.large)
                 .accessibilityLabel("Back")
             }
@@ -60,7 +59,7 @@ struct OnboardingView: View {
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 6)
             }
-            .buttonStyle(.glassProminent)
+            .glassButtonStyle(prominent: true)
             .controlSize(.large)
             .disabled(!canContinue)
         }

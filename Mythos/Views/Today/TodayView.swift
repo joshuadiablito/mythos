@@ -146,13 +146,13 @@ private struct HeroCover: View {
                     Text("\(story.language.endonym) · \(story.level.rawValue)")
                         .font(.caption.weight(.bold))
                         .padding(.horizontal, 10).padding(.vertical, 6)
-                        .glassEffect(.regular.tint(.white.opacity(0.08)), in: .capsule)
+                        .glass(tint: .white.opacity(0.08), in: .capsule)
                     Spacer()
                     if isRead {
                         Label("Read", systemImage: "checkmark")
                             .font(.caption.weight(.bold))
                             .padding(.horizontal, 10).padding(.vertical, 6)
-                            .glassEffect(.regular.tint(.green.opacity(0.35)), in: .capsule)
+                            .glass(tint: .green.opacity(0.35), in: .capsule)
                             .transition(.scale.combined(with: .opacity))
                     }
                 }
@@ -184,7 +184,7 @@ private struct HeroCover: View {
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 6)
                     }
-                    .buttonStyle(.glassProminent)
+                    .glassButtonStyle(prominent: true)
                     .tint(.white)
 
                     Button {
@@ -197,8 +197,7 @@ private struct HeroCover: View {
                             .frame(width: 30, height: 30)
                             .contentTransition(.symbolEffect(.replace))
                     }
-                    .buttonStyle(.glass)
-                    .buttonBorderShape(.circle)
+                    .glassButtonStyle(shape: .circle)
                     .accessibilityLabel(speaking ? "Stop listening" : "Listen to the story")
                 }
                 .controlSize(.large)
@@ -382,7 +381,7 @@ private struct NotificationsOffBanner: View {
                     }
                 }
             }
-            .buttonStyle(.glass)
+            .glassButtonStyle()
             .controlSize(.small)
         }
         .card(padding: 14, radius: 20)

@@ -102,6 +102,7 @@ struct StoryReaderView: View {
         .navigationBarTitleDisplayMode(.inline)
         .toolbar(.hidden, for: .tabBar)
         .toolbar { toolbar }
+        .barBackgroundsBeforeGlass()
         .sheet(item: $lookup, onDismiss: { selected = nil }) { item in
             LookupSheet(lookup: item)
         }
@@ -135,7 +136,7 @@ struct StoryReaderView: View {
                 .padding(.vertical, 8)
                 .contentTransition(.symbolEffect(.replace))
         }
-        .buttonStyle(.glassProminent)
+        .glassButtonStyle(prominent: true)
         .controlSize(.large)
         .tint(isRead ? Color(hex: 0x2E9E4F) : Theme.accent)
         .sensoryFeedback(.success, trigger: isRead) { _, new in new }

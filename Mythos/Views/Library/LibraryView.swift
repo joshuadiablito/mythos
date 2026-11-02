@@ -82,7 +82,7 @@ private struct CourseChips: View {
 
     var body: some View {
         ScrollView(.horizontal) {
-            GlassEffectContainer(spacing: 8) {
+            GlassGroup(spacing: 8) {
                 HStack(spacing: 8) {
                     ForEach(settings.courses) { course in
                         let selected = course.id == selection
@@ -96,7 +96,7 @@ private struct CourseChips: View {
                                 .padding(.vertical, 8)
                         }
                         .buttonStyle(.plain)
-                        .glassEffect(selected ? .regular.tint(Theme.accent).interactive() : .regular.interactive(), in: .capsule)
+                        .glass(tint: selected ? Theme.accent : nil, interactive: true, in: .capsule)
                         .accessibilityAddTraits(selected ? .isSelected : [])
                     }
                 }
@@ -206,7 +206,7 @@ private struct CoverTile: View {
                         .font(.system(.caption, design: .rounded, weight: .bold))
                         .foregroundStyle(.white)
                         .padding(.horizontal, 8).padding(.vertical, 4)
-                        .glassEffect(.regular.tint(.black.opacity(0.1)), in: .capsule)
+                        .glass(tint: .black.opacity(0.1), in: .capsule)
                         .padding(10)
                 }
                 .overlay(alignment: .topTrailing) {
@@ -216,14 +216,14 @@ private struct CoverTile: View {
                             .tracking(1)
                             .foregroundStyle(.white)
                             .padding(.horizontal, 8).padding(.vertical, 4)
-                            .glassEffect(.regular.tint(Theme.warm.opacity(0.8)), in: .capsule)
+                            .glass(tint: Theme.warm.opacity(0.8), in: .capsule)
                             .padding(10)
                     } else if isRead {
                         Image(systemName: "checkmark")
                             .font(.caption.weight(.heavy))
                             .foregroundStyle(.white)
                             .frame(width: 26, height: 26)
-                            .glassEffect(.regular.tint(Color(hex: 0x2E9E4F).opacity(0.8)), in: .circle)
+                            .glass(tint: Color(hex: 0x2E9E4F).opacity(0.8), in: .circle)
                             .padding(10)
                             .transition(.scale.combined(with: .opacity))
                     }

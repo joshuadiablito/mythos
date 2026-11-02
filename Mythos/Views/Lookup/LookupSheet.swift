@@ -58,7 +58,7 @@ private struct LookupPage: View {
                     } description: {
                         Text(error)
                     } actions: {
-                        Button("Try again") { attempt += 1 }.buttonStyle(.glass)
+                        Button("Try again") { attempt += 1 }.glassButtonStyle()
                     }
                 } else {
                     LoadingRows()
@@ -117,7 +117,7 @@ private struct LookupPage: View {
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
             Button("Translate on device", systemImage: "translate") { showTranslation = true }
-                .buttonStyle(.glass)
+                .glassButtonStyle()
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .card(padding: 16, radius: 20)
@@ -159,8 +159,7 @@ struct ListenButton: View {
                 .frame(width: 30, height: 30)
                 .contentTransition(.symbolEffect(.replace))
         }
-        .buttonStyle(.glass)
-        .buttonBorderShape(.circle)
+        .glassButtonStyle(shape: .circle)
         .accessibilityLabel(speaking ? "Stop" : recording != nil ? "Listen to a recording" : "Listen")
     }
 }

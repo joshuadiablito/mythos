@@ -61,7 +61,8 @@ add it there.
 
 ## Also check
 
-- **The iOS 26-only target** is fine, but it limits the audience to newer
-  phones.
+- **The app runs on iOS 18 and later**, so it reaches the iPhone XS and XR
+  (which can't run iOS 26) and anyone who hasn't updated. Check new screens
+  on an iOS 18 simulator as well as iOS 26.
 - **If the stories were AI-generated**, that's allowed. Proofread them,
   because reviewers and users notice mistakes in language-learning content.

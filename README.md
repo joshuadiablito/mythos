@@ -38,7 +38,8 @@ dictionary data and inflection tables.
 
 ## Running it
 
-Requires Xcode 26 and iOS 26 (it uses Liquid Glass).
+Requires Xcode 26. Runs on iOS 18 and later: Liquid Glass on iOS 26, and
+the frosted materials it replaced on iOS 18 (see `Theme/Glass.swift`).
 
 ```sh
 open Mythos.xcodeproj        # then run the Mythos scheme on an iPhone simulator
@@ -84,7 +85,8 @@ One cool accent (Aegean blue, `#2E5BD8` / `#7EA2FF` in dark mode) for
 actions, one warm one (apricot) for vocabulary, on a warm paper background
 with soft glows that Liquid Glass picks up. Glass is used for controls and
 bars, as iOS does; content sits on solid cards. Stories are set in a serif.
-See `Theme/Theme.swift`. The icon is rendered by `scripts/render-icon.swift`.
+Glass goes through the helpers in `Theme/Glass.swift`, never the iOS 26 APIs
+directly, so the app still builds for iOS 18. See `Theme/Theme.swift`. The icon is rendered by `scripts/render-icon.swift`.
 
 ### Adding stories
 

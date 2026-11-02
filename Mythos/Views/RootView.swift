@@ -20,7 +20,7 @@ struct RootView: View {
                 SettingsView()
             }
         }
-        .tabBarMinimizeBehavior(.onScrollDown)
+        .minimizesTabBarOnScroll()
         .fullScreenCover(isPresented: .constant(!settings.hasOnboarded || Self.forceOnboarding)) {
             OnboardingView()
         }

@@ -10,7 +10,7 @@ struct LanguageBadge: View {
             .font(.system(size: size * 0.4, weight: .semibold, design: .serif))
             .foregroundStyle(Theme.accent)
             .frame(width: size, height: size)
-            .glassEffect(.regular.tint(Theme.accent.opacity(0.12)), in: .circle)
+            .glass(tint: Theme.accent.opacity(0.12), in: .circle)
             .accessibilityLabel(language.name)
     }
 }

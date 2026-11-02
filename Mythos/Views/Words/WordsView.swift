@@ -194,8 +194,7 @@ private struct FlashcardReview: View {
             HStack {
                 Button("Close", systemImage: "xmark") { dismiss() }
                     .labelStyle(.iconOnly)
-                    .buttonStyle(.glass)
-                    .buttonBorderShape(.circle)
+                    .glassButtonStyle(shape: .circle)
                     .controlSize(.large)
                 Spacer()
                 Text("\(known) of \(total)")
@@ -224,7 +223,7 @@ private struct FlashcardReview: View {
                     Text("You went through all \(total) words.")
                         .opacity(0.85)
                     Button("Done") { dismiss() }
-                        .buttonStyle(.glassProminent)
+                        .glassButtonStyle(prominent: true)
                         .tint(.white.opacity(0.3))
                         .controlSize(.large)
                         .padding(.top, 10)
@@ -236,20 +235,20 @@ private struct FlashcardReview: View {
             Spacer()
 
             if words.first != nil {
-                GlassEffectContainer(spacing: 16) {
+                GlassGroup(spacing: 16) {
                     HStack(spacing: 16) {
                         Button { answer(knewIt: false) } label: {
                             Label("Again", systemImage: "arrow.uturn.backward")
                                 .frame(maxWidth: .infinity)
                                 .padding(.vertical, 8)
                         }
-                        .buttonStyle(.glass)
+                        .glassButtonStyle()
                         Button { answer(knewIt: true) } label: {
                             Label("Got it", systemImage: "checkmark")
                                 .frame(maxWidth: .infinity)
                                 .padding(.vertical, 8)
                         }
-                        .buttonStyle(.glassProminent)
+                        .glassButtonStyle(prominent: true)
                         .tint(.white.opacity(0.3))
                     }
                 }

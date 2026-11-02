@@ -135,7 +135,7 @@ struct CompletionSheet: View {
                             .frame(maxWidth: .infinity)
                             .padding(.vertical, 6)
                     }
-                    .buttonStyle(.glassProminent)
+                    .glassButtonStyle(prominent: true)
                 } else {
                     Label("Words saved to your list", systemImage: "checkmark")
                         .font(.subheadline.weight(.semibold))
@@ -144,7 +144,7 @@ struct CompletionSheet: View {
                         .padding(.vertical, 12)
                 }
                 Button("Done") { dismiss() }
-                    .buttonStyle(.glass)
+                    .glassButtonStyle()
                     .controlSize(.large)
             }
             .controlSize(.large)
