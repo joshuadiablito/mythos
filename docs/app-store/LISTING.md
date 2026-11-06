@@ -162,13 +162,29 @@ the user, so it doesn't count as collection under Apple's definitions.
 ### Notes
 
 ```
-Mythos needs no account. To try it:
+1. SCREEN RECORDING
+Attached: recorded on an iPhone running the latest iOS, starting from launching the app and following a typical day: onboarding, today's story, looking up words, listening, saving words, flashcards and settings. Mythos has no account registration or login, no user-generated content and no paid content, so none of those flows exist.
 
-1. Choose a language and level in onboarding (Spanish A1 is a good start) and allow notifications.
-2. Today shows the day's story. Tap "Start reading", then tap any underlined word to see its meaning, who is doing it and its full conjugation tables. The play button reads the story aloud.
-3. Save words from the lookup sheet, then open Words → "Review as flashcards".
+2. PURPOSE AND AUDIENCE
+Mythos is for adults and teenagers learning French, Spanish, German, Italian, Portuguese (Brazil and Portugal) or Greek, from beginner (CEFR A1) to advanced (C2). Learners need reading material at their level, and most texts are either too hard or too dull. Mythos delivers one short story a day at the learner's chosen level, with a reminder at a time they pick. Any word can be tapped for its meaning and conjugation or declension tables, the story can be read aloud, every sentence has an English translation, and saved words become flashcards. I use it myself every day for Spanish and Greek at A1.
 
-Stories arrive one per day, so at first only one story per language is available. Adding more languages in Settings gives more stories to try.
+3. SETUP AND MAIN FEATURES
+No login, credentials or sample files are needed. Everything is stored on the device.
+1. Launch the app, choose a language and level in onboarding (Spanish A1 is a good start) and allow notifications.
+2. Today shows the day's story. Tap "Start reading", then tap any underlined word for its meaning and tables. The play button reads the story aloud.
+3. Tap the bookmark in a word's sheet to save it, then open Words > "Review as flashcards".
+4. Settings: add another language, or another level of the same language, and set each one's reminder time.
+Stories arrive one per day, so at first only one story per course is available. Adding courses in Settings gives more stories to try.
 
-Word lookups use kaikki.org, a free Wiktionary-based dictionary. If it is briefly unavailable, the in-story meaning and English translation still work.
+4. EXTERNAL SERVICES
+- kaikki.org: a free, public, keyless dictionary dataset built from Wiktionary. When the user taps a word, the app requests that word's entry. Responses are cached on the device. No user information is sent.
+- Wikimedia (upload.wikimedia.org): pronunciation recordings linked from those dictionary entries.
+- Apple frameworks on the device: Translation (on-device translation), AVSpeechSynthesizer (reading aloud), local notifications.
+There is no backend server, authentication, payment processing, analytics, advertising or AI service. The stories and translations are bundled in the app.
+
+5. REGIONAL DIFFERENCES
+None. The app works the same in every region. Translation and read-aloud use the languages and voices Apple provides on the device.
+
+6. REGULATION AND THIRD-PARTY MATERIAL
+Mythos does not operate in a regulated industry. The stories and their translations were written for Mythos. Dictionary content is from Wiktionary via kaikki.org under the CC BY-SA 4.0 licence, which allows this use, and it is credited with a link in every word lookup and in Settings.
 ```
