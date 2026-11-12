@@ -55,6 +55,11 @@ xcodebuild test -project Mythos.xcodeproj -scheme Mythos \
 The project uses folder-synchronised groups, so new files under `Mythos/` or
 `MythosTests/` are picked up without editing the project file.
 
+### Android
+
+There's an Android version in [`android/`](android/README.md), built from the
+same story catalog. See its README for building it and getting it to testers.
+
 ### Debug launch arguments
 
 For screenshots and quick checks, Debug builds accept:

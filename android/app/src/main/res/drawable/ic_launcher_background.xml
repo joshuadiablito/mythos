@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The iOS icon's blue, from light at the top left to deep at the bottom right. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="315"
+        android:startColor="#87B0FE"
+        android:centerColor="#5B88E3"
+        android:endColor="#2250AD"
+        android:type="linear" />
+</shape>

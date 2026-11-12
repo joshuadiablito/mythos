@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings and progress are backed up; the dictionary cache lives in no_backup. -->
+<full-backup-content>
+    <include domain="sharedpref" path="." />
+</full-backup-content>
